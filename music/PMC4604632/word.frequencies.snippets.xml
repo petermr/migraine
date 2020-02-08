@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC4604632/results/word/frequencies/results.xml">
+  <result title="frequency" word="pain" count="89"/>
+  <result title="frequency" word="training" count="88"/>
+  <result title="frequency" word="neurofeedback" count="77"/>
+  <result title="frequency" word="patients" count="72"/>
+  <result title="frequency" word="power" count="56"/>
+  <result title="frequency" word="EEG" count="54"/>
+  <result title="frequency" word="band" count="38"/>
+  <result title="frequency" word="reduction" count="34"/>
+  <result title="frequency" word="frequency" count="31"/>
+  <result title="frequency" word="activity" count="25"/>
+  <result title="frequency" word="CNP" count="23"/>
+  <result title="frequency" word="cortex" count="23"/>
+  <result title="frequency" word="central" count="22"/>
+  <result title="frequency" word="study" count="22"/>
+  <result title="frequency" word="Pain" count="21"/>
+  <result title="frequency" word="treatment" count="21"/>
+ </snippets>
+</snippetsTree>

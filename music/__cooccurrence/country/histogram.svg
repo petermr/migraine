@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="20.0" width="519.2631578947369" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect x="10.0" y="-215.0" width="5.2631578947368425" height="225.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="10.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,0.0,20.0)" style="font-size:1.0000000000000013px;">United States</text>
+  <rect x="15.0" y="-176.0" width="5.2631578947368425" height="186.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="15.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,4.999999999999998,25.0)" style="font-size:1.0000000000000013px;">Germany</text>
+  <rect x="20.0" y="-138.0" width="5.2631578947368425" height="148.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="20.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,9.999999999999998,30.0)" style="font-size:1.0000000000000013px;">Italy</text>
+  <rect x="25.0" y="-117.0" width="5.2631578947368425" height="127.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="25.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,14.999999999999998,35.0)" style="font-size:1.0000000000000013px;">Canada</text>
+  <rect x="31.0" y="-82.0" width="5.2631578947368425" height="92.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="31.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,21.0,41.0)" style="font-size:1.0000000000000013px;">India</text>
+  <rect x="36.0" y="-79.0" width="5.2631578947368425" height="89.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="36.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,26.0,46.0)" style="font-size:1.0000000000000013px;">Australia</text>
+  <rect x="41.0" y="-71.0" width="5.2631578947368425" height="81.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="41.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,31.0,51.0)" style="font-size:1.0000000000000013px;">United States,</text>
+  <rect x="46.0" y="-69.0" width="5.2631578947368425" height="79.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="46.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,36.0,56.0)" style="font-size:1.0000000000000013px;">Netherlands</text>
+  <rect x="52.0" y="-69.0" width="5.2631578947368425" height="79.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="52.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,42.0,62.0)" style="font-size:1.0000000000000013px;">Switzerland</text>
+  <rect x="57.0" y="-64.0" width="5.2631578947368425" height="74.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="57.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,47.0,67.0)" style="font-size:1.0000000000000013px;">France</text>
+  <rect x="62.0" y="-61.0" width="5.2631578947368425" height="71.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="62.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,52.0,72.0)" style="font-size:1.0000000000000013px;">Denmark</text>
+  <rect x="67.0" y="-56.0" width="5.2631578947368425" height="66.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="67.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,57.0,77.0)" style="font-size:1.0000000000000013px;">Sweden</text>
+  <rect x="73.0" y="-56.0" width="5.2631578947368425" height="66.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="73.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,62.99999999999999,83.0)" style="font-size:1.0000000000000013px;">Jordan</text>
+  <rect x="78.0" y="-48.0" width="5.2631578947368425" height="58.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="78.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,68.0,88.0)" style="font-size:1.0000000000000013px;">China</text>
+  <rect x="83.0" y="-43.0" width="5.2631578947368425" height="53.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="83.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,73.0,93.0)" style="font-size:1.0000000000000013px;">Norway</text>
+  <rect x="88.0" y="-41.0" width="5.2631578947368425" height="51.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="88.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,78.0,98.0)" style="font-size:1.0000000000000013px;">United Kingdom</text>
+  <rect x="94.0" y="-38.0" width="5.2631578947368425" height="48.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="94.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,84.0,104.0)" style="font-size:1.0000000000000013px;">New Zealand</text>
+  <rect x="99.0" y="-38.0" width="5.2631578947368425" height="48.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="99.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,89.0,109.0)" style="font-size:1.0000000000000013px;">Spain</text>
+  <rect x="104.0" y="-36.0" width="5.2631578947368425" height="46.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="104.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,94.0,114.0)" style="font-size:1.0000000000000013px;">Brazil</text>
+  <rect x="110.0" y="-36.0" width="5.2631578947368425" height="46.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="110.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,100.0,120.0)" style="font-size:1.0000000000000013px;">Israel</text>
+  <rect x="115.0" y="-18.0" width="5.2631578947368425" height="28.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="115.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,105.0,125.0)" style="font-size:1.0000000000000013px;">Nigeria</text>
+  <rect x="120.0" y="-13.0" width="5.2631578947368425" height="23.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="120.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,110.0,130.0)" style="font-size:1.0000000000000013px;">Malaysia</text>
+  <rect x="125.0" y="-13.0" width="5.2631578947368425" height="23.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="125.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,115.0,135.0)" style="font-size:1.0000000000000013px;">Belgium</text>
+  <rect x="131.0" y="-13.0" width="5.2631578947368425" height="23.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="131.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,120.99999999999999,141.0)" style="font-size:1.0000000000000013px;">Finland</text>
+  <rect x="136.0" y="-13.0" width="5.2631578947368425" height="23.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="136.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,125.99999999999999,146.0)" style="font-size:1.0000000000000013px;">Singapore</text>
+  <rect x="141.0" y="-10.0" width="5.2631578947368425" height="20.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="141.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,131.0,151.0)" style="font-size:1.0000000000000013px;">Ghana</text>
+  <rect x="146.0" y="-10.0" width="5.2631578947368425" height="20.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="146.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,136.0,156.0)" style="font-size:1.0000000000000013px;">Turkey</text>
+  <rect x="152.0" y="-7.0" width="5.2631578947368425" height="17.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="152.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,142.0,162.0)" style="font-size:1.0000000000000013px;">United States;</text>
+  <rect x="157.0" y="-7.0" width="5.2631578947368425" height="17.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="157.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,147.0,167.0)" style="font-size:1.0000000000000013px;">Nepal</text>
+  <rect x="162.0" y="-7.0" width="5.2631578947368425" height="17.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="162.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,152.0,172.0)" style="font-size:1.0000000000000013px;">Argentina</text>
+  <rect x="167.0" y="-7.0" width="5.2631578947368425" height="17.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="167.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,157.0,177.0)" style="font-size:1.0000000000000013px;">Japan</text>
+  <rect x="173.0" y="-7.0" width="5.2631578947368425" height="17.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="173.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,163.0,183.0)" style="font-size:1.0000000000000013px;">New Zealand,</text>
+  <rect x="178.0" y="-7.0" width="5.2631578947368425" height="17.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="178.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,168.0,188.0)" style="font-size:1.0000000000000013px;">Georgia</text>
+  <rect x="183.0" y="-7.0" width="5.2631578947368425" height="17.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="183.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,173.0,193.0)" style="font-size:1.0000000000000013px;">Thailand</text>
+  <rect x="188.0" y="-5.0" width="5.2631578947368425" height="15.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="188.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,178.0,198.0)" style="font-size:1.0000000000000013px;">United States.</text>
+  <rect x="194.0" y="-5.0" width="5.2631578947368425" height="15.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="194.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,184.0,204.0)" style="font-size:1.0000000000000013px;">Monaco</text>
+  <rect x="199.0" y="-5.0" width="5.2631578947368425" height="15.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="199.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,189.0,209.0)" style="font-size:1.0000000000000013px;">United Kingdom.</text>
+  <rect x="204.0" y="-5.0" width="5.2631578947368425" height="15.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="204.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,194.0,214.0)" style="font-size:1.0000000000000013px;">Mexico</text>
+  <rect x="210.0" y="-2.0" width="5.2631578947368425" height="12.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="210.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,200.0,220.0)" style="font-size:1.0000000000000013px;">Austria</text>
+  <rect x="215.0" y="-2.0" width="5.2631578947368425" height="12.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="215.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,205.0,225.0)" style="font-size:1.0000000000000013px;">Hong Kong</text>
+  <rect x="220.0" y="0.0" width="5.2631578947368425" height="10.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="220.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,210.0,230.0)" style="font-size:1.0000000000000013px;">Portugal</text>
+  <rect x="225.0" y="0.0" width="5.2631578947368425" height="10.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="225.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,215.0,235.0)" style="font-size:1.0000000000000013px;">Oman</text>
+  <rect x="231.0" y="0.0" width="5.2631578947368425" height="10.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="231.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,221.0,241.0)" style="font-size:1.0000000000000013px;">Greece</text>
+  <rect x="236.0" y="0.0" width="5.2631578947368425" height="10.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="236.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,226.0,246.0)" style="font-size:1.0000000000000013px;">Iraq</text>
+  <rect x="241.0" y="0.0" width="5.2631578947368425" height="10.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="241.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,231.0,251.0)" style="font-size:1.0000000000000013px;">Chile</text>
+  <rect x="246.0" y="0.0" width="5.2631578947368425" height="10.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="246.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,236.0,256.0)" style="font-size:1.0000000000000013px;">Poland</text>
+  <rect x="252.0" y="3.0" width="5.2631578947368425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="252.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,241.99999999999997,262.0)" style="font-size:1.0000000000000013px;">Sudan</text>
+  <rect x="257.0" y="3.0" width="5.2631578947368425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="257.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,246.99999999999997,267.0)" style="font-size:1.0000000000000013px;">Jersey</text>
+  <rect x="262.0" y="3.0" width="5.2631578947368425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="262.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,251.99999999999997,272.0)" style="font-size:1.0000000000000013px;">Czech Republic;</text>
+  <rect x="267.0" y="3.0" width="5.2631578947368425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="267.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,257.0,277.0)" style="font-size:1.0000000000000013px;">Ethiopia</text>
+  <rect x="273.0" y="3.0" width="5.2631578947368425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="273.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,263.0,283.0)" style="font-size:1.0000000000000013px;">Egypt</text>
+  <rect x="278.0" y="3.0" width="5.2631578947368425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="278.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,268.0,288.0)" style="font-size:1.0000000000000013px;">Bolivia</text>
+  <rect x="283.0" y="3.0" width="5.2631578947368425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="283.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,273.0,293.0)" style="font-size:1.0000000000000013px;">United Kingdom,</text>
+  <rect x="288.0" y="3.0" width="5.2631578947368425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="288.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,278.0,298.0)" style="font-size:1.0000000000000013px;">Ireland</text>
+  <rect x="294.0" y="3.0" width="5.2631578947368425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="294.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,284.0,304.0)" style="font-size:1.0000000000000013px;">Uruguay</text>
+  <rect x="299.0" y="3.0" width="5.2631578947368425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="299.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,289.0,309.0)" style="font-size:1.0000000000000013px;">United Kingdom;</text>
+  <rect x="304.0" y="5.0" width="5.2631578947368425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="304.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,294.0,314.0)" style="font-size:1.0000000000000013px;">Iceland</text>
+  <rect x="310.0" y="5.0" width="5.2631578947368425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="310.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,300.0,320.0)" style="font-size:1.0000000000000013px;">Slovenia</text>
+  <rect x="315.0" y="5.0" width="5.2631578947368425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="315.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,305.0,325.0)" style="font-size:1.0000000000000013px;">Colombia</text>
+  <rect x="320.0" y="5.0" width="5.2631578947368425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="320.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,310.0,330.0)" style="font-size:1.0000000000000013px;">Afghanistan</text>
+  <rect x="325.0" y="5.0" width="5.2631578947368425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="325.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,315.0,335.0)" style="font-size:1.0000000000000013px;">Costa Rica</text>
+  <rect x="331.0" y="5.0" width="5.2631578947368425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="331.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,321.0,341.0)" style="font-size:1.0000000000000013px;">Pakistan</text>
+  <rect x="336.0" y="5.0" width="5.2631578947368425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="336.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,326.0,346.0)" style="font-size:1.0000000000000013px;">Russian Federat</text>
+  <rect x="341.0" y="5.0" width="5.2631578947368425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="341.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,331.0,351.0)" style="font-size:1.0000000000000013px;">South Africa,</text>
+  <rect x="346.0" y="5.0" width="5.2631578947368425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="346.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,336.0,356.0)" style="font-size:1.0000000000000013px;">Niger</text>
+  <rect x="352.0" y="5.0" width="5.2631578947368425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="352.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,342.0,362.0)" style="font-size:1.0000000000000013px;">Botswana</text>
+  <rect x="357.0" y="5.0" width="5.2631578947368425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="357.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,347.0,367.0)" style="font-size:1.0000000000000013px;">San Marino</text>
+  <rect x="362.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="362.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,352.0,372.0)" style="font-size:1.0000000000000013px;">Cambodia</text>
+  <rect x="367.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="367.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,357.0,377.0)" style="font-size:1.0000000000000013px;">Latvia</text>
+  <rect x="373.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="373.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,363.0,383.0)" style="font-size:1.0000000000000013px;">Morocco</text>
+  <rect x="378.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="378.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,368.0,388.0)" style="font-size:1.0000000000000013px;">Montserrat</text>
+  <rect x="383.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="383.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,373.0,393.0)" style="font-size:1.0000000000000013px;">Panama</text>
+  <rect x="388.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="388.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,378.0,398.0)" style="font-size:1.0000000000000013px;">Luxembourg</text>
+  <rect x="394.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="394.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,384.0,404.0)" style="font-size:1.0000000000000013px;">Puerto Rico,</text>
+  <rect x="399.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="399.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,389.0,409.0)" style="font-size:1.0000000000000013px;">Hungary</text>
+  <rect x="404.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="404.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,394.0,414.0)" style="font-size:1.0000000000000013px;">Russian Federat</text>
+  <rect x="410.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="410.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,400.0,420.0)" style="font-size:1.0000000000000013px;">Senegal</text>
+  <rect x="415.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="415.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,405.0,425.0)" style="font-size:1.0000000000000013px;">Hong Kong.</text>
+  <rect x="420.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="420.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,410.0,430.0)" style="font-size:1.0000000000000013px;">Czech Republic,</text>
+  <rect x="425.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="425.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,415.0,435.0)" style="font-size:1.0000000000000013px;">South Africa</text>
+  <rect x="431.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="431.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,421.0,441.0)" style="font-size:1.0000000000000013px;">Bermuda</text>
+  <rect x="436.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="436.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,426.0,446.0)" style="font-size:1.0000000000000013px;">Russian Federat</text>
+  <rect x="441.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="441.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,431.0,451.0)" style="font-size:1.0000000000000013px;">Viet Nam</text>
+  <rect x="446.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="446.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,436.0,456.0)" style="font-size:1.0000000000000013px;">Chad</text>
+  <rect x="452.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="452.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,442.0,462.0)" style="font-size:1.0000000000000013px;">Madagascar</text>
+  <rect x="457.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="457.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,447.0,467.0)" style="font-size:1.0000000000000013px;">Costa Rica,</text>
+  <rect x="462.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="462.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,452.0,472.0)" style="font-size:1.0000000000000013px;">Cape Verde</text>
+  <rect x="467.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="467.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,457.0,477.0)" style="font-size:1.0000000000000013px;">Serbia</text>
+  <rect x="473.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="473.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,463.0,483.0)" style="font-size:1.0000000000000013px;">Tunisia</text>
+  <rect x="478.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="478.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,468.0,488.0)" style="font-size:1.0000000000000013px;">Romania</text>
+  <rect x="483.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="483.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,472.99999999999994,493.0)" style="font-size:1.0000000000000013px;">Sri Lanka</text>
+  <rect x="488.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="488.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,477.99999999999994,498.0)" style="font-size:1.0000000000000013px;">Azerbaijan</text>
+  <rect x="494.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="494.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,483.99999999999994,504.0)" style="font-size:1.0000000000000013px;">Cuba</text>
+  <rect x="499.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="499.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,488.99999999999994,509.0)" style="font-size:1.0000000000000013px;">Moldova, Republ</text>
+  <rect x="504.0" y="8.0" width="5.2631578947368425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="504.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,493.99999999999994,514.0)" style="font-size:1.0000000000000013px;">Estonia</text>
+ </g>
+</svg>

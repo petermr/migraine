@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC5065893/results/word/frequencies/results.xml">
+  <result title="frequency" word="auditory" count="153"/>
+  <result title="frequency" word="hearing" count="82"/>
+  <result title="frequency" word="dementia" count="72"/>
+  <result title="frequency" word="cognitive" count="55"/>
+  <result title="frequency" word="disease" count="44"/>
+  <result title="frequency" word="loss" count="40"/>
+  <result title="frequency" word="processing" count="40"/>
+  <result title="frequency" word="sound" count="39"/>
+  <result title="frequency" word="impairment" count="33"/>
+  <result title="frequency" word="patients" count="29"/>
+  <result title="frequency" word="Auditory" count="28"/>
+  <result title="frequency" word="Neurol" count="27"/>
+  <result title="frequency" word="sounds" count="27"/>
+  <result title="frequency" word="Hearing" count="24"/>
+  <result title="frequency" word="Alzheimer’s" count="23"/>
+  <result title="frequency" word="frontotemporal" count="22"/>
+ </snippets>
+</snippetsTree>

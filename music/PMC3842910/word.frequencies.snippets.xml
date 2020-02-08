@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC3842910/results/word/frequencies/results.xml">
+  <result title="frequency" word="pain" count="84"/>
+  <result title="frequency" word="action" count="36"/>
+  <result title="frequency" word="information" count="36"/>
+  <result title="frequency" word="signals" count="33"/>
+  <result title="frequency" word="Neurosci." count="29"/>
+  <result title="frequency" word="signal" count="29"/>
+  <result title="frequency" word="cortex" count="28"/>
+  <result title="frequency" word="nociceptive" count="28"/>
+  <result title="frequency" word="spinal" count="28"/>
+  <result title="frequency" word="human" count="25"/>
+  <result title="frequency" word="processes" count="25"/>
+  <result title="frequency" word="risk" count="24"/>
+  <result title="frequency" word="cingulate" count="22"/>
+  <result title="frequency" word="cortical" count="22"/>
+  <result title="frequency" word="model" count="22"/>
+  <result title="frequency" word="reflex" count="22"/>
+  <result title="frequency" word="control" count="21"/>
+  <result title="frequency" word="predictive" count="21"/>
+  <result title="frequency" word="processing" count="21"/>
+ </snippets>
+</snippetsTree>

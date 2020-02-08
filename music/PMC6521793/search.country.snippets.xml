@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC6521793/results/search/country/results.xml">
+  <result pre="[], 1 Department of Neurology, Onze Lieve Vrouwe Gasthuis Amsterdam" exact="Netherlands" post="[], 2 Department of Neurology, Zaans Medisch Centrum Zaandam"/>
+  <result pre="Netherlands [], 2 Department of Neurology, Zaans Medisch Centrum Zaandam" exact="Netherlands" post="[], 3 Outpatient Clinic for Uncommon Psychiatric Syndromes, Parnassia"/>
+  <result pre="Clinic for Uncommon Psychiatric Syndromes, Parnassia Psychiatric Institute The Hague" exact="Netherlands" post="[], 4 Faculty of Social and Behavioural Sciences, Leiden"/>
+  <result pre="4 Faculty of Social and Behavioural Sciences, Leiden University Leiden" exact="Netherlands" post="[], 5 Department of Psychiatry, University of Groningen Groningen"/>
+  <result pre="Netherlands [], 5 Department of Psychiatry, University of Groningen Groningen" exact="Netherlands" post="Edited by: Gianfranco Spalletta, Fondazione Santa Lucia (IRCCS), Italy"/>
+  <result pre="Groningen Netherlands Edited by: Gianfranco Spalletta, Fondazione Santa Lucia (IRCCS)," exact="Italy" post="Reviewed by: Maurizio Pocchiari, Istituto Superiore di Sanità (ISS),"/>
+  <result pre="Sanità (ISS), Italy; Anna Ladogana, Istituto Superiore di Sanità (ISS)," exact="Italy" post="*Correspondence: Jan Dirk Blom jd.blom@parnassia.nl This article was submitted"/>
+  <result pre="from Creutzfeldt-Jakob disease and related disorders in Europe, Australia, and" exact="Canada" post=". Neurology. ( 2005) 10: 1586– 91. 10.1212/01.WNL.0000160117.56690.B2 26."/>
+ </snippets>
+</snippetsTree>

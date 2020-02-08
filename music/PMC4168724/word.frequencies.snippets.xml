@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC4168724/results/word/frequencies/results.xml">
+  <result title="frequency" word="medical" count="138"/>
+  <result title="frequency" word="devices" count="117"/>
+  <result title="frequency" word="CEDs" count="84"/>
+  <result title="frequency" word="regulatory" count="62"/>
+  <result title="frequency" word="device" count="60"/>
+  <result title="frequency" word="benefits" count="54"/>
+  <result title="frequency" word="risks" count="54"/>
+  <result title="frequency" word="risk" count="44"/>
+  <result title="frequency" word="used" count="42"/>
+  <result title="frequency" word="enhancement" count="39"/>
+  <result title="frequency" word="use" count="37"/>
+  <result title="frequency" word="purpose" count="33"/>
+  <result title="frequency" word="cognitive" count="31"/>
+  <result title="frequency" word="devices," count="31"/>
+  <result title="frequency" word="assessment" count="30"/>
+  <result title="frequency" word="clinical" count="30"/>
+  <result title="frequency" word="European" count="29"/>
+  <result title="frequency" word="()." count="24"/>
+  <result title="frequency" word="different" count="24"/>
+  <result title="frequency" word="regulation" count="24"/>
+  <result title="frequency" word="similar" count="24"/>
+  <result title="frequency" word="brain" count="23"/>
+  <result title="frequency" word="definition" count="22"/>
+  <result title="frequency" word="effects" count="22"/>
+  <result title="frequency" word="tDCS" count="22"/>
+  <result title="frequency" word="safety" count="21"/>
+  <result title="frequency" word="way" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="Sixty-nine percent of the cases have been reported in the" exact="United States," post="Russia, and Germany [ 5]. Cases have also been"/>
+ <result pre="cases have been reported in the United States, Russia, and" exact="Germany" post="[ 5]. Cases have also been found in Japan"/>
+ <result pre="and Germany [ 5]. Cases have also been found in" exact="Japan" post="[ 16], Spain [ 19], Turkey [ 17], Hong"/>
+ <result pre="5]. Cases have also been found in Japan [ 16]," exact="Spain" post="[ 19], Turkey [ 17], Hong Kong [ 18],"/>
+ <result pre="also been found in Japan [ 16], Spain [ 19]," exact="Turkey" post="[ 17], Hong Kong [ 18], France, Italy, Mexico,"/>
+ <result pre="in Japan [ 16], Spain [ 19], Turkey [ 17]," exact="Hong Kong" post="[ 18], France, Italy, Mexico, Canada, England, Poland, Venezuela,"/>
+ <result pre="Canada, England, Poland, Venezuela, Israel, Hungary, Croatia, Netherlands, Brazil, and" exact="Poland" post="[ 5]. The disorder does not appear to be"/>
+</results>

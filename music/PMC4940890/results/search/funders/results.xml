@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="a Warren Jason D. a * [a], Dementia Research Centre," exact="UCL Institute of Neurology, University College London" post="London UK [b], Medical School, University of Adelaide Adelaide"/>
+ <result pre="a * [a], Dementia Research Centre, UCL Institute of Neurology," exact="University College London" post="London UK [b], Medical School, University of Adelaide Adelaide"/>
+ <result pre="of Neurology, University College London London UK [b], Medical School," exact="University of Adelaide" post="Adelaide Australia [c], Southern General Hospital Glasgow UK CONTACT"/>
+ <result pre="KEYWORDS Anorexia eating behavior semantic dementia frontotemporal dementia bulimia Funding" exact="Wellcome Trust" post="10.13039/100004440 091673/Z/10/Z The Dementia Research Centre is supported by"/>
+ <result pre="Trust 10.13039/100004440 091673/Z/10/Z The Dementia Research Centre is supported by" exact="Alzheimer’s Research, UK," post="the Brain Research Trust, and the Wolfson Foundation. This"/>
+ <result pre="Dementia Research Centre is supported by Alzheimer’s Research, UK, the" exact="Brain Research Trust," post="and the Wolfson Foundation. This work was supported by"/>
+ <result pre="by Alzheimer’s Research, UK, the Brain Research Trust, and the" exact="Wolfson Foundation." post="This work was supported by the Wellcome Trust, the"/>
+ <result pre="and the Wolfson Foundation. This work was supported by the" exact="Wellcome Trust," post="the UK Medical Research Council, the NIHR Queen Square"/>
+ <result pre="This work was supported by the Wellcome Trust, the UK" exact="Medical Research Council," post="the NIHR Queen Square Dementia Biomedical Research Unit, and"/>
+ <result pre="an NIHR Rare Disease Initiative Postdoctoral Fellowship. JDW holds a" exact="Wellcome Trust" post="Senior Clinical Fellowship [grant number 091673/Z/10/Z]. fig-count: table-count: ref-count:"/>
+ <result pre="their participation. Disclosure statement JDW receives salary support from the" exact="Wellcome Trust." post="CJH, PDF, and JDR have received salary support from"/>
+ <result pre="CJH, PDF, and JDR have received salary support from the" exact="Medical Research Council." post="Other authors report no disclosures. References References Ahmed R."/>
+ <result pre="frontotemporal dementia JAMA Neurology 71 1540 1546 10.1001/jamaneurol.2014.1931 25329012 collab:" exact="American Psychiatric Association" post="2013 Diagnostic and statistical manual of mental disorders 5th"/>
+ <result pre="Diagnostic and statistical manual of mental disorders 5th Arlington, VA" exact="American Psychiatric Publishing" post="Clark C. N. Warren J. D. 2015 Emotional caricatures"/>
+</results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC3111720/results/word/frequencies/results.xml">
+  <result title="frequency" word="therapy" count="77"/>
+  <result title="frequency" word="patients" count="71"/>
+  <result title="frequency" word="migraine" count="45"/>
+  <result title="frequency" word="(.)" count="44"/>
+  <result title="frequency" word="study" count="39"/>
+  <result title="frequency" word="medications" count="29"/>
+  <result title="frequency" word="Health" count="25"/>
+  <result title="frequency" word="physicians" count="22"/>
+  <result title="frequency" word="Migraine" count="21"/>
+  <result title="frequency" word="clinical" count="21"/>
+  <result title="frequency" word="days" count="21"/>
+  <result title="frequency" word="months" count="21"/>
+ </snippets>
+</snippetsTree>

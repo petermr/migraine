@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC2734746/results/search/drugs/results.xml">
+  <result pre="= 20) 0.19 § Daily dose of inhaled steroids in" exact="beclomethasone" post="μg equivalents over the past 1-2 wk. These were"/>
+  <result pre="past 1-2 wk. These were calculated on the assumption that" exact="beclomethasone" post="2000 μg = budesonide 1600 μg = fluticasone 1000"/>
+  <result pre="were calculated on the assumption that beclomethasone 2000 μg =" exact="budesonide" post="1600 μg = fluticasone 1000 μg. ¥ Rescue medication"/>
+  <result pre="assumption that beclomethasone 2000 μg = budesonide 1600 μg =" exact="fluticasone" post="1000 μg. ¥ Rescue medication = Inhaled rescue bronchodilator"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC3451646/results/search/funders/results.xml">
+  <result pre="material LINK Migraine strikes questionnaire (MIST Q) (DOC 95.0 kb)" exact="Merck" post="and Co., Inc. funded the study. Drs. Golden and"/>
+  <result pre="funded the study. Drs. Golden and Hu are employees of" exact="Merck" post="and Co., Inc. who may potentially own stock and/or"/>
+  <result pre="options in the company. Dr. Evans was an employee of" exact="Merck" post="during the conduct of this study and the writing"/>
+  <result pre="Conflict of interest Drs. Golden and Hu are employees of" exact="Merck" post="and Co., Inc., and may own stock or stock"/>
+  <result pre="options in the company. Dr. Evans was an employee of" exact="Merck" post="during the conduct of this trial and the writing"/>
+ </snippets>
+</snippetsTree>

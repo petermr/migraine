@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="drugs">
+ <result pre="a pharmacological intervention. The pharmacological interventions included Celebrex, Vioxx, and/or" exact="paracetamol" post="[ 75], fluoxetine [ 81], ibuprofen [ 82], metoprolol"/>
+ <result pre="The pharmacological interventions included Celebrex, Vioxx, and/or paracetamol [ 75]," exact="fluoxetine" post="[ 81], ibuprofen [ 82], metoprolol [ 78], sodium"/>
+ <result pre="included Celebrex, Vioxx, and/or paracetamol [ 75], fluoxetine [ 81]," exact="ibuprofen" post="[ 82], metoprolol [ 78], sodium diclofenac [ 40],"/>
+ <result pre="and/or paracetamol [ 75], fluoxetine [ 81], ibuprofen [ 82]," exact="metoprolol" post="[ 78], sodium diclofenac [ 40], or sodium valproate"/>
+ <result pre="fluoxetine [ 81], ibuprofen [ 82], metoprolol [ 78], sodium" exact="diclofenac" post="[ 40], or sodium valproate [ 77], or local"/>
+ <result pre="82], metoprolol [ 78], sodium diclofenac [ 40], or sodium" exact="valproate" post="[ 77], or local injections of botulin toxin ["/>
+ <result pre="[ 77], or local injections of botulin toxin [ 77]," exact="lidocaine" post="[ 79], or dibucaine [ 80]. Five trials showed"/>
+ <result pre="studies reported no difference between the effects of acupuncture and" exact="lidocaine" post="injections on trigger points (myofascial pain) after 3 weeks"/>
+ <result pre="headaches (trigger points) (8 weeks) or the administration of sodium" exact="valproate" post="(12 weeks) compared to real acupuncture at 1 month"/>
+ <result pre="treatment compared to physiotherapy alone [ 32] and physiotherapy plus" exact="diclofenac" post="[ 68], respectively. 3.4.7. Acupuncture versus Relaxation Two trials"/>
+ <result pre="A. et al. Effectiveness and tolerability of acupuncture compared with" exact="metoprolol" post="in migraine prophylaxis Headache: The Journal of Head and"/>
+ <result pre="H. Park C. H. Yoon H. J. Acupuncture needling versus" exact="lidocaine" post="injection of trigger points in myofascial pain syndrome in"/>
+ <result pre="randomized clinical trial of fibromyalgia treatment with acupuncture compared with" exact="fluoxetine" post="Iranian Red Crescent Medical Journal 2012 14 10 631"/>
+</results>

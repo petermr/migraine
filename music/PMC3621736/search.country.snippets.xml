@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC3621736/results/search/country/results.xml">
+  <result pre="of Psychiatry, Psychotherapy, and Psychosomatics, University Hospital of Psychiatry, Zurich," exact="Switzerland" post="[2], Department of Psychiatry and Psychotherapy, University of Bonn,"/>
+  <result pre="[2], Department of Psychiatry and Psychotherapy, University of Bonn, Bonn," exact="Germany" post="[3], German Center for Neurodegenerative Disorders (DZNE), Bonn, Germany"/>
+  <result pre="Bonn, Germany [3], German Center for Neurodegenerative Disorders (DZNE), Bonn," exact="Germany" post="[4], Department of Psychiatry, Saarland University Medical Center, Homburg,"/>
+  <result pre="Germany [4], Department of Psychiatry, Saarland University Medical Center, Homburg," exact="Germany" post="[5], Department of Nuclear Medicine, University of Bonn, Bonn,"/>
+  <result pre="Germany [5], Department of Nuclear Medicine, University of Bonn, Bonn," exact="Germany" post="[6], Zurich Center for Integrative Human Physiology, University of"/>
+  <result pre="Zurich Center for Integrative Human Physiology, University of Zurich, Zurich," exact="Switzerland" post="Sensi Stefano L. Editor [], University G. D'Annunzio, Italy"/>
+  <result pre="Zurich, Switzerland Sensi Stefano L. Editor [], University G. D'Annunzio," exact="Italy" post="* E-mail: quednow@bli.uzh.ch Competing Interests: The authors have declared"/>
+ </snippets>
+</snippetsTree>

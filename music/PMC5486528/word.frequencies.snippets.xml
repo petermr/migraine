@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC5486528/results/word/frequencies/results.xml">
+  <result title="frequency" word="patients" count="71"/>
+  <result title="frequency" word="acupuncture" count="62"/>
+  <result title="frequency" word="IRD" count="44"/>
+  <result title="frequency" word="blood" count="42"/>
+  <result title="frequency" word="symptoms" count="37"/>
+  <result title="frequency" word="signs" count="33"/>
+  <result title="frequency" word="Flammer" count="31"/>
+  <result title="frequency" word="flow" count="26"/>
+  <result title="frequency" word="retinal" count="23"/>
+  <result title="frequency" word="treatment" count="23"/>
+ </snippets>
+</snippetsTree>

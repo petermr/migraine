@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC1483834/results/search/funders/results.xml">
+  <result pre="the development of the QSD method came entirely from the" exact="National Institutes of Health." post="Most of the grants were under the SBIR program"/>
+  <result pre="the funding support of NIH via grants RR014002 from the" exact="National Center for Research Resources," post="MH054922 from the National Institute of Mental Health, and"/>
+  <result pre="from the National Center for Research Resources, MH054922 from the" exact="National Institute of Mental Health," post="and NS36880 from the National Institute of Neurological Disorders"/>
+  <result pre="the National Institute of Mental Health, and NS36880 from the" exact="National Institute of Neurological Disorders and Stroke." post="The QSD methodology and equipment was developed under NIH"/>
+ </snippets>
+</snippetsTree>

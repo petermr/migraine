@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC3330267/results/word/frequencies/results.xml">
+  <result title="frequency" word="Alzheimer’s" count="142"/>
+  <result title="frequency" word="disease" count="105"/>
+  <result title="frequency" word="cognitive" count="67"/>
+  <result title="frequency" word="dementia" count="65"/>
+  <result title="frequency" word="diagnosis" count="62"/>
+  <result title="frequency" word="Alzheimer" count="60"/>
+  <result title="frequency" word="clinical" count="56"/>
+  <result title="frequency" word="disease." count="52"/>
+  <result title="frequency" word="patients" count="51"/>
+  <result title="frequency" word="risk" count="50"/>
+  <result title="frequency" word="Neurol." count="46"/>
+  <result title="frequency" word="disease:" count="43"/>
+  <result title="frequency" word="study" count="42"/>
+  <result title="frequency" word="Neurology" count="35"/>
+  <result title="frequency" word="cases" count="32"/>
+  <result title="frequency" word="onset" count="32"/>
+  <result title="frequency" word="associated" count="30"/>
+  <result title="frequency" word="early" count="30"/>
+  <result title="frequency" word="biomarkers" count="28"/>
+  <result title="frequency" word="studies" count="27"/>
+  <result title="frequency" word="AD," count="26"/>
+  <result title="frequency" word="diagnostic" count="25"/>
+  <result title="frequency" word="vascular" count="25"/>
+  <result title="frequency" word="criteria" count="23"/>
+  <result title="frequency" word="individuals" count="23"/>
+  <result title="frequency" word="memory" count="23"/>
+  <result title="frequency" word="amyloid" count="22"/>
+  <result title="frequency" word="pathology" count="22"/>
+  <result title="frequency" word="tau" count="22"/>
+  <result title="frequency" word="brain" count="21"/>
+  <result title="frequency" word="collab:" count="21"/>
+  <result title="frequency" word="treatment" count="21"/>
+ </snippets>
+</snippetsTree>

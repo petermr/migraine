@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="Department of Stereotactic and Functional Neurosurgery, University of Cologne Cologne," exact="Germany" post="[], 2 Department of Child and Adolescent Psychiatry, University"/>
+ <result pre="Department of Child and Adolescent Psychiatry, University of Cologne Cologne," exact="Germany" post="[], 3 Department of Neuroanatomy, University of Düsseldorf Düsseldorf,"/>
+ <result pre="Germany [], 3 Department of Neuroanatomy, University of Düsseldorf Düsseldorf," exact="Germany" post="Edited by: Hauke R. Heekeren, Freie Universität Berlin, Germany"/>
+ <result pre="Düsseldorf, Germany Edited by: Hauke R. Heekeren, Freie Universität Berlin," exact="Germany" post="Reviewed by: Kamila Markram, Ecole Polytechnique Fédérale de Lausanne,"/>
+</results>

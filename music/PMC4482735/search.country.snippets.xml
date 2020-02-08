@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC4482735/results/search/country/results.xml">
+  <result pre="3 * [1], Department of Biomedical Physics, Warsaw University, Warszawa," exact="Poland" post="[2], Institute of Physiology and Pathology of Hearing, Warszawa,"/>
+  <result pre="Poland [2], Institute of Physiology and Pathology of Hearing, Warszawa," exact="Poland" post="[3], Institute of Biocybernetics and Biomedical Engineering of Polish"/>
+  <result pre="Biocybernetics and Biomedical Engineering of Polish Academy of Sciences, Warszawa," exact="Poland" post="Kestler Hans A Editor [], Leibniz Institute for Age"/>
+ </snippets>
+</snippetsTree>

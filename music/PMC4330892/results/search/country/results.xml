@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="Department of Physiology and Pharmacology, University of Calgary Calgary, AB" exact="Canada" post="[], 2 Department of Psychology, University of Calgary Calgary,"/>
+ <result pre="[], 2 Department of Psychology, University of Calgary Calgary, AB" exact="Canada" post="[], 3 Institute of Neuroscience and Medicine – Neuromodulation"/>
+ <result pre="Neuroscience and Medicine – Neuromodulation (INM-7), Research Center Jülich Jülich" exact="Germany" post="[], 4 Department of Neurosurgery, Stanford University Stanford, CA"/>
+ <result pre="USA [], 5 Department of Neuromodulation, University of Cologne Cologne" exact="Germany" post="Edited by: Arnaud Norena, Université de Provence, France Reviewed"/>
+ <result pre="Cologne Cologne Germany Edited by: Arnaud Norena, Université de Provence," exact="France" post="Reviewed by: Aage Moller, University of Texas at Dallas,"/>
+ <result pre="University of Calgary, 2500 University Drive, Calgary, AB T2N 1N4," exact="Canada" post="e-mail: eggermon@ucalgary.ca This article was submitted to Neuro-otology, a"/>
+ <result pre="by The Natural Sciences and Engineering Research Council (NSERC) of" exact="Canada" post="and PT was funded by Research Center Jülich. References"/>
+</results>

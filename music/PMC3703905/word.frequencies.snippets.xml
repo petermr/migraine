@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC3703905/results/word/frequencies/results.xml">
+  <result title="frequency" word="Monitor" count="69"/>
+  <result title="frequency" word="events" count="64"/>
+  <result title="frequency" word="test" count="51"/>
+  <result title="frequency" word="field" count="34"/>
+  <result title="frequency" word="identify" count="34"/>
+  <result title="frequency" word="microphone" count="34"/>
+  <result title="frequency" word="()," count="30"/>
+  <result title="frequency" word="sounds" count="30"/>
+  <result title="frequency" word="training" count="29"/>
+  <result title="frequency" word="directional" count="28"/>
+  <result title="frequency" word="different" count="27"/>
+  <result title="frequency" word="example," count="27"/>
+  <result title="frequency" word="detect" count="26"/>
+  <result title="frequency" word="people" count="26"/>
+  <result title="frequency" word="event" count="25"/>
+  <result title="frequency" word="used" count="23"/>
+  <result title="frequency" word="using" count="23"/>
+  <result title="frequency" word="person" count="22"/>
+  <result title="frequency" word="identification" count="21"/>
+  <result title="frequency" word="traffic" count="21"/>
+ </snippets>
+</snippetsTree>

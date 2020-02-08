@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC6437217/results/word/frequencies/results.xml">
+  <result title="frequency" word="Parkinson’s" count="44"/>
+  <result title="frequency" word="disease" count="35"/>
+  <result title="frequency" word="associations" count="34"/>
+  <result title="frequency" word="phenotypes" count="33"/>
+  <result title="frequency" word="associated" count="29"/>
+  <result title="frequency" word="association" count="28"/>
+  <result title="frequency" word="study" count="28"/>
+  <result title="frequency" word="cases" count="21"/>
+  <result title="frequency" word="individuals" count="21"/>
+  <result title="frequency" word="risk" count="21"/>
+ </snippets>
+</snippetsTree>

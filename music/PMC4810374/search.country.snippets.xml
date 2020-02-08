@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC4810374/results/search/country/results.xml">
+  <result pre="[1], Max Planck Institute for Human Cognitive and Brain Science" exact="Germany" post="[2], Department of Biological and Medical Psychology, University in"/>
+  <result pre="[2], Department of Biological and Medical Psychology, University in Bergen" exact="Norway" post="[3], Institute of Clinical Immunology, Medical Faculty, University of"/>
+  <result pre="[3], Institute of Clinical Immunology, Medical Faculty, University of Leipzig" exact="Germany" post="[4], Clinic for gastroenterology and rheumatology, Medical Faculty, University"/>
+  <result pre="Clinic for gastroenterology and rheumatology, Medical Faculty, University of Leipzig" exact="Germany" post="a koelsch@cbs.mpg.de b ulrich.sack@medizin.uni-leipzig.de epub: 2016-03-03 collection: 2016 6"/>
+ </snippets>
+</snippetsTree>

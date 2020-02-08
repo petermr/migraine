@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="music/PMC6361827/results/search/country/results.xml">
+  <result pre="[], 1 Institute of Sports Science, Leibniz University Hannover Hanover" exact="Germany" post="[], 2 Consultation Division, Program Management Discovery Sciences, RSGBIOGEN"/>
+  <result pre="2 Consultation Division, Program Management Discovery Sciences, RSGBIOGEN New Delhi" exact="India" post="Edited by: Michael H. Thaut, University of Toronto, Canada"/>
+  <result pre="Delhi India Edited by: Michael H. Thaut, University of Toronto," exact="Canada" post="Reviewed by: Graziella Madeo, National Institutes of Health (NIH),"/>
+  <result pre="Canada Reviewed by: Graziella Madeo, National Institutes of Health (NIH)," exact="United States;" post="Pedro Ribeiro, Universidade Federal do Rio de Janeiro, Brazil"/>
+  <result pre="United States; Pedro Ribeiro, Universidade Federal do Rio de Janeiro," exact="Brazil" post="*Correspondence: Shashank Ghai shashank.ghai@sportwiss.uni-hannover.de This article was submitted to"/>
+  <result pre="2016) 10: 67. 10.3389/fnins.2016.00219 27013936 73. Wolpert DM Ghahramani Z" exact="Jordan" post="MI . An internal model for sensorimotor integration. Science"/>
+ </snippets>
+</snippetsTree>

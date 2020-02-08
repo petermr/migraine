@@ -1,0 +1,597 @@
+funders,count
+World Health Organization,36
+Health Research,28
+School of Medicine,25
+Department of Health,23
+School of Medicine,,22
+Microsoft,22
+Medical Research Council,17
+Ministry of Health,17
+American Medical Association,16
+National Academy of Sciences,15
+Wellcome Trust,15
+American Psychiatric Association,13
+Food and Drug Administration,13
+National Institute for Health Research,12
+World Health Organization.,11
+National Institutes of Health,11
+European Commission,10
+Centers for Disease Control and Prevention,9
+Siemens,9
+Isfahan University of Medical Sciences,,8
+Duke University,8
+Cochlear,8
+Mayo Clinic,8
+University of California,7
+American Psychological Association,7
+National Science Foundation,7
+American Academy of Pediatrics,7
+EDS,7
+Health Research,,7
+National Center for Complementary and Alternative Medicine,7
+European Commission,,6
+American Academy of Neurology,6
+Canadian Institutes of Health Research,6
+University of Toronto,,6
+Johns Hopkins University,6
+Roche,6
+Princeton University,6
+World Health Organization,,6
+Society for Neuroscience,6
+Harvard Medical School,,6
+American Heart Association,6
+British Medical Association,5
+University of Michigan,5
+Department of Health.,5
+Department of Health,,5
+Seoul National University,5
+Duke University,,5
+Royal Society,5
+Department of Surgery,,5
+American Psychiatric Association.,5
+Allergan,5
+University College London,5
+Mashhad University of Medical Sciences,5
+Bayer,5
+Harvard University,5
+International Association for the Study of Pain,5
+University of Chicago,5
+Massachusetts General Hospital,5
+American Academy of Audiology,5
+University of California,,5
+Mashhad University of Medical Sciences,,5
+Teva Pharmaceutical Industries.,5
+Bombardier,5
+Agency for Healthcare Research and Quality,5
+Medical Research Council,,5
+Queen Mary University of London,5
+Wellcome Trust,,5
+Merck,5
+University of Toronto,4
+National Institutes of Health,,4
+National Institutes of Health.,4
+Novartis,4
+Hospital for Sick Children,,4
+Research and Development,4
+Beth Israel Deaconess Medical Center,,4
+Stanford University,,4
+Queen Mary, University of London,4
+University of Pittsburgh,4
+General Electric,4
+Samsung,4
+Canadian Pain Society,4
+National Heart, Lung, and Blood Institute,4
+Ministry of Education,4
+SAS Institute,4
+American Heart Association.,4
+University of Exeter,4
+University of Cambridge,,4
+Teva Pharmaceutical Industries,,4
+University of Michigan,,4
+Columbia University,4
+York University,4
+University College London,,4
+Mayo Clinic,,4
+Amgen,3
+GE Healthcare,,3
+National Cancer Institute,3
+Sapienza Università di Roma,,3
+Istituto Superiore di Sanità,,3
+American Academy of Pediatrics.,3
+Ministry of Education,,3
+American Academy of Pediatrics,,3
+American College of Sports Medicine,3
+Icahn School of Medicine at Mount Sinai,,3
+American Geriatrics Society,3
+Keck School of Medicine of USC,,3
+Columbia University,,3
+New York University,3
+University of Southern California,,3
+Alzheimer’s Disease Neuroimaging Initiative,3
+University of Massachusetts,3
+Cleveland Clinic,3
+Istituto Superiore di Sanità,3
+European Parliament,3
+Health Psychology,3
+University of Otago,3
+U.S. Food and Drug Administration,3
+Rigshospitalet,3
+Charité Universitätsmedizin Berlin,,3
+York University,,3
+American Thoracic Society,3
+Philips,3
+Universidade de São Paulo,3
+Ministry of Health.,3
+National Center for Complementary and Integrative Health,3
+Deutsche Forschungsgemeinschaft,3
+Wolfson Foundation.,3
+World Health Organization;,3
+Academy of Medical Sciences,,3
+University of Pennsylvania,3
+Research and Development,,3
+Stanford University,3
+Massachusetts General Hospital,,3
+University of Colorado Boulder,,3
+Georgetown University,3
+Facebook,3
+International Association for the Study of Pain,,3
+Pusan National University,3
+Tyson,2
+Nanyang Technological University,,2
+McGill University,2
+Chung-Ang University,,2
+Ministero della Salute.,2
+Universidade Federal de Minas Gerais,2
+Weizmann Institute of Science,2
+New York University,,2
+National Center for Health Statistics,2
+National Institute on Deafness and Other Communication Disorders,2
+Substance Abuse and Mental Health Services Administration,2
+Sungkyunkwan University,2
+American Hospital Association,2
+Developmental Psychology,2
+Karolinska Institutet,2
+Cornell University,,2
+Acoustical Society of America,2
+University of Tennessee,2
+Food and Drug Administration.,2
+University of Maryland,2
+European Observatory on Health Systems and Policies,2
+University of Miami,2
+Endocrine Society,2
+National Institute of Neurological Disorders and Stroke.,2
+Teva Pharmaceutical Industries,2
+Cederroth,2
+University of Warwick,,2
+Universiti Teknologi MARA,,2
+Ministério da Saúde,2
+Ohio State University,2
+Georgetown University,,2
+National Medical Research Council,2
+Hallym University,2
+Teachers College,,2
+Kyung Hee University,2
+Educational Psychology,,2
+University of Western Australia,,2
+Thomas Jefferson University,,2
+University of North Carolina,2
+University of Tokyo,2
+Emory University,2
+University of Dundee,2
+Imperial College London,2
+National Institute for Health Research,,2
+Eli Lilly and Company,,2
+American Academy of Child and Adolescent Psychiatry,2
+Vanderbilt University,2
+American Psychiatric Association,,2
+University of York,2
+Bundesamt für Gesundheit,2
+British Academy,,2
+American Psychiatric Association;,2
+Universidad del Cauca,,2
+University of Toronto.,2
+National Institute of Biomedical Imaging and Bioengineering,2
+Institute of Neurosciences, Mental Health and Addiction,2
+American Psychiatric Publishing,2
+University of Ghana;,2
+Health Psychology,,2
+RTI International,,2
+European Centre for Disease Prevention and Control.,2
+Medtronic,2
+Università Cattolica del Sacro Cuore,,2
+Age UK,2
+Federal Aviation Administration,2
+Public Health England,2
+University of Missouri,,2
+Society for Neuroscience;,2
+Brain Research Trust,2
+University of Calgary,,2
+Universidad del Valle,2
+Griffith University,,2
+Health Foundation,2
+Harvard Medical School,2
+National University of Singapore,,2
+Centers for Disease Control and Prevention,,2
+Centers for Disease Control and Prevention.,2
+University of Cincinnati,2
+Humboldt-Universität zu Berlin,,2
+Quaker,2
+King’s College London,,2
+University of Rochester,,2
+Sears,2
+University of Washington,2
+3M,2
+Hospital for Sick Children,2
+American Academy of Neurology.,2
+National Natural Science Foundation of China,2
+Karolinska Institutet,,2
+University of Calgary,2
+Royal Academy of Engineering,2
+British Medical Association,,2
+Weill Cornell Medical College,,2
+Imperial College London,,2
+Stony Brook University,2
+Nationwide,2
+University of Haifa,,2
+EMBO,2
+Epilepsy Foundation,2
+Georgia Regents University,,2
+Universidad del Cauca,2
+National Institute on Disability, Independent Living, and Rehabilitation Research,2
+Academy of Medical Sciences.,2
+National Academy of Sciences;,2
+China Postdoctoral Science Foundation,2
+Orange,2
+Bar-Ilan University,2
+National Institute on Aging,2
+Universidad del Valle,,2
+Shanghai Jiao Tong University,2
+Daejeon University,2
+Humboldt-Universität zu Berlin,2
+Patient-Centered Outcomes Research Institute,2
+Connaught Fund,2
+Bundesministerium für Gesundheit,2
+Mashhad University of Medical Sciences.,2
+Forschungszentrum Jülich,2
+Scion,2
+Swansea University,,2
+American College of Emergency Physicians,2
+Catholic University of Korea,2
+Nuffield Council on Bioethics,2
+Technology Strategy Board,2
+University of Auckland,2
+Health Canada,2
+Johns Hopkins University,,2
+Fondazione IRCCS Policlinico San Matteo,,2
+American Psychiatric Publishing,,2
+University at Buffalo,,2
+National and Kapodistrian University of Athens,,2
+National Center for Advancing Translational Sciences,2
+Biogen,2
+Queensland University of Technology,,2
+Hôpitaux Universitaires de Genève,,1
+University of Auckland.,1
+Canadian Medical Association,1
+UCL Institute of Neurology, University College London,,1
+George Washington University,1
+University of Nebraska-Lincoln,,1
+National Institute for Social Care and Health Research,,1
+Islamic Azad University,1
+Ontario Brain Institute,1
+SPIE,1
+Office of Education,1
+Health and Safety Executive.,1
+Catholic University of Korea;,1
+Queen Mary University of London,,1
+National Institute of Diabetes and Digestive and Kidney Diseases,1
+Academy of Medical Sciences,1
+University of Strathclyde,1
+Shanghai Jiao Tong University,,1
+Augustinus Fonden,,1
+Tokyo Institute of Technology,,1
+University of Texas, MD Anderson Cancer Center,,1
+University of Tokyo,,1
+Open University,1
+University of Tennessee,,1
+American Thoracic Society;,1
+Department of Health;,1
+British Thoracic Society,1
+Fondazione Umberto Veronesi,,1
+Universiti Teknologi Malaysia,1
+Emory University,,1
+Medical College of Wisconsin,,1
+Directorate for Social, Behavioral, and Economic Sciences,1
+Osaka University,,1
+Norges Forskningsråd,1
+National Institute on Aging,,1
+Warwick Medical School,,1
+Fondazione IRCCS Policlinico San Matteo,1
+American Academy of Allergy, Asthma and Immunology,1
+Primate Conservation,1
+American Diabetes Association,1
+College of Liberal Arts,1
+Isfahan University of Medical Sciences.,1
+National Institute on Drug Abuse,1
+Mahidol University,,1
+United Nations,1
+Food and Drug Administration;,1
+European Respiratory Society.,1
+University of Virginia,,1
+University of Westminster,,1
+University of Westminster.,1
+EMI,1
+Aston University,,1
+Ewha Womans University,1
+European Commission.,1
+RMIT University,,1
+Oncology Nursing Society.,1
+Solve ME/CFS Initiative,1
+Università degli Studi di Genova,,1
+Weizmann Institute of Science,,1
+Northwestern University,,1
+Wildlife Conservation Society,1
+National Association of Social Workers,1
+National Research Centre,1
+Hospices Civils de Lyon,1
+University of Illinois at Chicago,,1
+NYU Langone Medical Center,,1
+Economic and Social Research Council,,1
+Yale University,1
+New York Academy of Medicine,1
+Alberta Heritage Foundation for Medical Research,1
+Heritage Foundation,1
+National Institute of Mental Health,,1
+Aflac,1
+University of Haifa,1
+Georgetown University.,1
+University of Ottawa,1
+Consiglio Nazionale delle Ricerche,1
+Otsuka Pharmaceutical,,1
+University of Technology Sydney,1
+Florida State University,1
+University of Iowa,,1
+Beth Israel Deaconess Medical Center;,1
+Hasbro,1
+Università Cattolica del Sacro Cuore,1
+Commonwealth Fund,1
+Cleveland Clinic,,1
+Milliman,1
+Ministerio de Economía y Competitividad,1
+Johnson and Johnson,,1
+Case Western Reserve University,,1
+Université Catholique de Louvain,1
+International Spinal Research Trust,1
+Dartmouth-Hitchcock Medical Center,,1
+Boston University,1
+University of Melbourne,,1
+Migraine Trust;,1
+Università degli Studi di Verona,,1
+Soonchunhyang University,1
+Sungkyunkwan University,,1
+Chonnam National University,1
+Alzheimer’s Research UK,1
+Nokia,1
+University of Missouri,1
+Health Canada,,1
+Stroke Association.,1
+Linköpings Universitet,,1
+Louisiana State University,1
+Health Foundation,,1
+United Nations.,1
+Stanford University.,1
+Asthma UK,1
+Foulkes Foundation,1
+North Carolina State University,,1
+University of Ghana,,1
+University of Arkansas,1
+Drexel University,1
+Alzheimer’s Research, UK,,1
+Brain Research Trust,,1
+Utrecht University,1
+Eulji University,,1
+Durham University,,1
+Royal British Legion;,1
+University of Portsmouth,1
+University of Adelaide,1
+U.S. Food and Drug Administration.,1
+Lockheed Martin,,1
+Ministry of Education.,1
+Woosuk University,1
+State University of New York,1
+Brown University,,1
+Leeds Metropolitan University,,1
+Duke Clinical Research Institute.,1
+Kings College London,,1
+ImPACT Applications,,1
+Kings College London.,1
+Public Health England.,1
+Helixor Heilmittel,1
+Baylor College of Medicine,,1
+California Department of Public Health,,1
+Tel Aviv University,1
+University of Rochester,1
+Universiti Teknologi Malaysia,,1
+University of Twente,1
+Medical Library Association,1
+U.S. Department of Health and Human Services,1
+Ohio State University,,1
+Harvard School of Public Health,1
+Universidad Nacional Autónoma de México,1
+Charles Darwin, University,1
+AOL,1
+British Association for Psychopharmacology.,1
+Deafness Research Foundation,1
+Cambridge University Hospitals,1
+Tufts University,,1
+Genesis Pharma,,1
+Shahid Beheshti University of Medical Sciences,,1
+Centre National de la Recherche Scientifique,,1
+University of Pennsylvania,,1
+Office of Naval Research.,1
+Massey University,1
+National Science Foundation.,1
+University of Queensland,,1
+National Taiwan University,,1
+National Taiwan University.,1
+Royal Society.,1
+Royal Pharmaceutical Society,1
+Universidad Autónoma del Estado de México,1
+Royal Society,,1
+Universidade Federal do Pará,1
+Konkuk University,1
+Dartmouth College,,1
+City College of New York.,1
+American College of Emergency Physicians,,1
+American College of Emergency Physicians.,1
+UCL Institute of Neurology, University College London,1
+International Parkinson and Movement Disorder Society,1
+Great Ormond Street Hospital for Children,,1
+Iowa State University,1
+South London and Maudsley NHS Foundation Trust,1
+Air Force Research Laboratory.,1
+University of Florida,,1
+Diabetes UK,1
+University of Exeter,,1
+Gachon University,1
+National Research Foundation,1
+"Alzheimer's Society,",1
+RMIT University,1
+Science Foundation Ireland.,1
+National Heart, Lung, and Blood Institute.,1
+University of Technology Sydney,,1
+Hallym University,,1
+Ministry of Higher Education,,1
+Università degli Studi di Palermo,,1
+Royal College of Physicians,1
+Feinberg School of Medicine,1
+Ministerio de Economía y Competitividad,,1
+Università degli Studi di Firenze,,1
+National Centre for Biological Sciences,,1
+National Center for Injury Prevention and Control,,1
+University of Cambridge,1
+BodyMedia,1
+National Taiwan University,1
+Universitat de València,,1
+Northern Arizona University;,1
+American Academy of Neurology;,1
+Alzheimer’s Research UK,,1
+Age UK;,1
+Royal Society;,1
+Washington University in St. Louis,,1
+Mahidol University,1
+Faculdade de Medicina da Universidade de São Paulo,1
+Alzheimer’s Research UK.,1
+Deakin University,,1
+University of Chicago.,1
+King Faisal Specialist Hospital and Research Centre,1
+University of Chicago,,1
+University of Reading,,1
+Nankai University,,1
+American Epilepsy Society,1
+University of Louisville,1
+Dongguk University,1
+American Music Therapy Association,1
+University College Dublin,1
+American Academy of Neurology,,1
+Ministry of Health,,1
+California Department of Public Health,1
+American Cancer Society.,1
+Fundação de Amparo à Pesquisa do Estado de São Paulo,1
+Chung-Ang University,1
+Wake Forest University.,1
+Università degli Studi di Milano-Bicocca,1
+National Center for Research Resources,,1
+Random House.,1
+British Lung Foundation,1
+Imperial College London.,1
+Mars,1
+American Medical Association;,1
+Gerontological Society of America,,1
+Örebro Universitet,1
+Arts Council England,1
+Biotechnology and Biological Sciences Research Council,1
+Pfizer,1
+National Cancer Institute,,1
+Feinberg School of Medicine,,1
+University of Ghana,1
+Great Ormond Street Hospital for Children,1
+Agency for Healthcare Research and Quality.,1
+U.S. Army.,1
+University of South Australia,,1
+Eurostat,1
+Ministry of Public Health.,1
+European Association of Urology,1
+Griffith University,1
+Migraine Trust,1
+American Cleft Palate-Craniofacial Association.,1
+University of Minnesota.,1
+University of Otago,,1
+University of Minnesota,,1
+National Medical Center,1
+University of Maryland,,1
+American College of Sports Medicine,,1
+American College of Sports Medicine.,1
+Nuffield Council on Bioethics.,1
+Universiti Kebangsaan Malaysia,1
+GE Energy,1
+Leeds Metropolitan University,1
+University of Cambridge.,1
+King’s College London,1
+Pediatric Oncology Group of Ontario.,1
+Massachusetts General Hospital.,1
+National Academy of Sciences,,1
+University of Connecticut,1
+Utrecht University,,1
+University of Pittsburgh,,1
+National Institute of Child Health and Human Development,1
+The Research Council,1
+University of Ulsan,1
+Heart Rhythm Society,1
+Northwestern University,1
+Fondazione IRCCS Policlinico San Matteo;,1
+Engineering and Physical Sciences Research Council,1
+McGraw-Hill Companies,1
+European Respiratory Society,1
+University of Florida,1
+Medical Research Council.,1
+University of Utah,,1
+McGill University.,1
+McGill University,,1
+American Academy of Child and Adolescent Psychiatry.,1
+AstraZeneca,1
+College of Emergency Medicine,1
+"King's Health Partners",1
+American College of Obstetricians and Gynecologists,1
+Pusan National University.,1
+Pusan National University,,1
+National Center for Complementary and Alternative Medicine,,1
+Yonsei University,,1
+Multiple Sclerosis Society;,1
+Johns Hopkins University.,1
+Sleep Research Society,1
+University of Twente,,1
+Health Research.,1
+Université Catholique de Louvain,,1
+University of the West of England,,1
+National Gallery of Art,,1
+National Institute on Alcohol Abuse and Alcoholism,1
+Université Catholique de Louvain.,1
+Stryker,1
+Wellcome Trust.,1
+Society for Academic Emergency Medicine,,1
+American Psychiatric Publishing;,1
+SLACK Incorporated;,1
+National Center for Complementary and Integrative Health.,1
+National Center for Complementary and Integrative Health,,1
+U.S. Army,1
+University of North Carolina,,1
+"Michael J. Fox Foundation for Parkinson's Research",1
+SAS Institute,,1
+"Brigham and Women's Hospital",1
+Universidad de Málaga,1
+Canada Research Chairs,1
+Office of Naval Research,1
+Kungliga Tekniska Högskolan,1
+National Research Council Canada,1
+Jichi Medical University,,1
+Colorado State University,,1

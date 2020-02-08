@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="Pistoia" count="17"/>
+ <result title="frequency" word="patients" count="17"/>
+ <result title="frequency" word="motor" count="15"/>
+ <result title="frequency" word="physical" count="15"/>
+ <result title="frequency" word="Carolei" count="9"/>
+ <result title="frequency" word="Sacco" count="9"/>
+ <result title="frequency" word="Sarà" count="9"/>
+ <result title="frequency" word="cognitive" count="9"/>
+ <result title="frequency" word="exercise" count="9"/>
+ <result title="frequency" word="learning" count="9"/>
+ <result title="frequency" word="activity" count="8"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="observation" count="7"/>
+ <result title="frequency" word="Conson" count="6"/>
+ <result title="frequency" word="disease" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="gesture" count="6"/>
+ <result title="frequency" word="Front." count="5"/>
+ <result title="frequency" word="Parkinson's" count="5"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="effects" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="subjects" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="Curr." count="4"/>
+ <result title="frequency" word="Neurol." count="4"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="educational" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="healthy" count="4"/>
+ <result title="frequency" word="locked-in" count="4"/>
+ <result title="frequency" word="neurological" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+</results>
