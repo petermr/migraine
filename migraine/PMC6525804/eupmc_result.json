@@ -1,0 +1,325 @@
+{
+  "id": [
+    "31191788"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31191788"
+  ],
+  "pmcid": [
+    "PMC6525804"
+  ],
+  "doi": [
+    "10.1155/2019/6584753"
+  ],
+  "title": [
+    "Chronic Widespread Pain and Fibromyalgia Syndrome: Life-Course Risk Markers in Young People."
+  ],
+  "authorString": [
+    "Tan AC, Jaaniste T, Champion D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tan AC"
+          ],
+          "firstName": [
+            "Aidan C"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0354-4006",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Medicine, University of New South Wales, Sydney, New South Wales, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Jaaniste T"
+          ],
+          "firstName": [
+            "Tiina"
+          ],
+          "lastName": [
+            "Jaaniste"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Pain and Palliative Care, Sydney Children's Hospital, Sydney, New South Wales, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Champion D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Champion"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4557-262X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pain and Palliative Care, Sydney Children's Hospital, Sydney, New South Wales, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4557-262X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0354-4006",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2778689"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pain research & management"
+          ],
+          "ISOAbbreviation": [
+            "Pain Res Manag"
+          ],
+          "medlineAbbreviation": [
+            "Pain Res Manag"
+          ],
+          "NLMid": [
+            "9612504"
+          ],
+          "ISSN": [
+            "1203-6765"
+          ],
+          "ESSN": [
+            "1918-1523"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "6584753"
+  ],
+  "abstractText": [
+    "Although the life-course concept of risk markers as potential etiological influences is well established in epidemiology, it has not featured in academic publications or clinical practice in the context of chronic widespread pain (CWP) and fibromyalgia syndrome (FMS). Studies of risk markers are required considerations for evaluation of patients and for research because there is no single cause, pathological feature, laboratory finding, or biomarker for CWP or FMS. The early-life risk markers identified by extensive literature review with best evidence for potential causal influence on the development and progression of CWP and FMS include genetic factors, premature birth, female sex, early childhood adversity, cognitive and psychosocial influences, impaired sleep, primary pain disorders, multiregional pain, physical trauma, infectious illness, obesity and inactivity, hypermobility of joints, iron deficiency, and small-fiber polyneuropathy. The case history illustrates the potential etiological influence of multiple risk markers offset by personal resilience."
+  ],
+  "affiliation": [
+    "Faculty of Medicine, University of New South Wales, Sydney, New South Wales, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/6584753"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6525804"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6525804?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-14"
+  ],
+  "firstIndexDate": [
+    "2019-06-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-14"
+  ],
+  "dateOfRevision": [
+    "2019-09-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-05"
+  ],
+  "firstPublicationDate": [
+    "2019-05-05"
+  ]
+}

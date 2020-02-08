@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="[1], Department of Medicine, Zablocki VA Medical Center, Milwaukee, WI," exact="United States" post="of America [2], Department of General Medicine, Kurashiki Central"/>
+ <result pre="America [2], Department of General Medicine, Kurashiki Central Hospital, Okayama," exact="Japan" post="[3], Department of Medicine, Nagoya University Hospital, Nagoya, Japan"/>
+ <result pre="Okayama, Japan [3], Department of Medicine, Nagoya University Hospital, Nagoya," exact="Japan" post="[4], Department of Biology, University of Wisconsin-Milwaukee, Milwaukee, WI,"/>
+ <result pre="Japan [4], Department of Biology, University of Wisconsin-Milwaukee, Milwaukee, WI," exact="United States" post="of America [5], Department of Epidemiology and Biostatistics, School"/>
+ <result pre="Epidemiology and Biostatistics, School of Health Sciences, Wuhan University, Wuhan," exact="China" post="[6], Department of Endocrinology, Tenri Hospital, Nara, Japan Kwok"/>
+ <result pre="University, Wuhan, China [6], Department of Endocrinology, Tenri Hospital, Nara," exact="Japan" post="Kwok Chun Shing Editor [], Keele University, UNITED KINGDOM"/>
+ <result pre="12 43 (23%) NS 74% Yes Yes Alprenolol Ekbom, 1975," exact="Sweden" post="Alprenolol (200) v. Placebo Migraine-episodic Ad-hoc 1962 Crossover 6"/>
+ <result pre="6 33 (15) 41.5 82% No Yes Atenolol Forssman, 1983," exact="Sweden" post="Atenolol (100) v. Placebo Migraine-unspecified Ad-hoc 1962 Crossover 13"/>
+ <result pre="Crossover 13 24 (17) 40 80% No Yes Johannsson, 1987," exact="Sweden" post="Atenolol (100) v. Placebo Migraine-episodic Ad-hoc 1962 Crossover 12"/>
+ <result pre="Crossover 12 72 (13) 43 70% No Yes Stensrud, 1980," exact="Norway" post="Propranolol (160) v. Atenolol (100) Migraine-episodic Ad-hoc 1962 Crossover"/>
+ <result pre="12 226 (14) 38.7 82% No Yes Metoprolol Andersson, 1983," exact="Denmark" post="Metoprolol (200) v. Placebo Migraine-episodic WFNRG 1969 Parallel 8"/>
+ <result pre="Parallel 16 270 (15) 39.4 81% Yes Yes Gong, 2016," exact="China" post="Metoprolol (25) + Flunarizine (5) v. Flunarizine (5) Migraine-unspecified"/>
+ <result pre="Parallel 12 80 (0) 47.5 40% No Yes Grotemeyer, 1988," exact="Germany" post="Metoprolol (200) v. Flunarizine (10) Migraine-episodic Ad hoc 1962"/>
+ <result pre="Crossover 7 29 (17) 39 79% No Yes Grotemeyer, 1990," exact="Germany" post="Metoprolol (200) v. Acetylsalicyclic Acid (1500) Migraine-episodic IHS 1988"/>
+ <result pre="Crossover 12 28 (NS) 31 82% No Yes Hesse, 1994," exact="Denmark" post="Metoprolol (100) v. Acupuncture Migraine-episodic IHS 1988 Parallel 17"/>
+ <result pre="Crossover 8 77 (11) 37.5 80% No Yes Langohr, 1985," exact="Germany" post="Metoprolol (100) v. Clomipramine (100) v. Placebo Migraine-episodic Ad-hoc"/>
+ <result pre="Crossover 4 63 (43) 44.4 67% No Yes Li, 2006," exact="China" post="Metoprolol (125) v. Placebo Migraine-unspecified IHS 1988 Parallel 12"/>
+ <result pre="Crossover 8 31 (26) 35.5 81% Yes Yes Ma, 2011," exact="China" post="Metoprolol (50) + Flunarizine (5) v. Flunarizine (5) Migraine-episodic"/>
+ <result pre="Parallel 48 56 (0) 36.3 65% No Yes Schellenberg, 2008," exact="Germany" post="Metoprolol (142.5) v. Nebivolol (5) Migraine-episodic IHS 2004 Parallel"/>
+ <result pre="Parallel 18 30 (7) 39 87% Yes Yes Siniatchkin, 2007," exact="Germany" post="Metoprolol (200) v. Placebo Migraine-unspecified IHS2004 Parallel 12 20"/>
+ <result pre="Parallel 12 20 (0%) 37 85% Yes Yes Sorensen 1991," exact="Denmark" post="Metoprolol (200) v. Flunarizine (10) Migraine IHS 1988 Parallel"/>
+ <result pre="Parallel 8 59 (NS) 37.4 76% No Yes Streng 2005," exact="Germany" post="Metoprolol (200) v. Acupuncture) Migraine-episodic IHS 1997 Parallel 12"/>
+ <result pre="Parallel 12 114 (17) 36.6 88% Yes Yes Vilming, 1985," exact="Sweden" post="Metoprolol (100) v. Pizotifen (1.5) Migraine-episodic WFNRG 1969 Crossover"/>
+ <result pre="Crossover 8 35 (14) 37.6 83% Yes Yes Worz 1992," exact="Germany" post="Metoprolol (200) v. Bisoprolol (10) Migraine-episodic IHS1988 Crossover 12"/>
+ <result pre="Crossover 12 125 (38) 38.5 71% Yes Yes Yang, 2006," exact="China" post="Metoprolol (90) v. Placebo Migraine-episodic IHS 1988 Parallel 12"/>
+ <result pre="Parallel 12 60 (0) 48.5 100% No Yes Yang, 2016," exact="China" post="Metoprolol (95) v. Metoprolol (95) + Fluoxetine Migraine-episodic NS"/>
+ <result pre="Parallel 6 120 (0) 38.4 64% No Yes Zhou, 2015," exact="China" post="Metoprolol (95) v. Metoprolol (95) + Fluoxetine Migraine-episodic NS"/>
+ <result pre="12 80 (1%) NS 78% No Yes Oxprenolol Ekbom, 1977," exact="Sweden" post="Oxprenolol (240) v. Placebo Migraine-episodic Ad-hoc 1962 Crossover 12"/>
+ <result pre="12 34 (12) 41.8 76% No Yes Pindolol Ekbom, 1972," exact="Sweden" post="Pindolol (7.5) v. Pindolol (15) v. Placebo Migraine-episodic Ad-hoc"/>
+ <result pre="(NS) 33.7 87% No Yes Pindolol + Amitriptyline Agius, 2013," exact="Italy" post="Pindolol (10)+ Amitriptyline (10) v. Amitriptyline (10) v. Placebo"/>
+ <result pre="Parallel 8 64 (3) 35.6 74% No Yes Streng, 2005," exact="Germany" post="Metoprolol (200) v. Acupuncture Migraine-episodic IHS 1997 Parallel 12"/>
+ <result pre="12 114 (17) 36.6 88% Yes Yes Propranolol Ahuja, 1985," exact="India" post="Propranolol (120) v. Placebo Migraine-episodic Ad-hoc 1962 Crossover 8"/>
+ <result pre="Parallel 24 40 (37) 35.2 89% Yes Yes Andersson, 1981," exact="Denmark" post="Propranolol (160) v. Femoxitine (400) Migraine NS Crossover 24"/>
+ <result pre="Parallel 8 62 (3) 30.8 82% Yes Yes Baldrati, 1983," exact="Italy" post="Propranolol (80) v. Aspirin (1.9 mg/kg) Migraine-not specified Ad"/>
+ <result pre="Crossover 12 56 (36) NS 66% No No Bonuso, 1998," exact="Italy" post="Propranolol (80) v. Flunarizine (10) Migraine-not specified IHS 1988"/>
+ <result pre="Parallel 8 50 (16) 32 68% No NS Bordini, 1997," exact="Brazil" post="Propranolol (60) v. Flunarizine (10) v. Combo. Migraine-episodic IHS"/>
+ <result pre="Parallel 17 52 (13) 31.2 91% No Yes Borgesen, 1974," exact="Denmark" post="Propranolol (120) v. Placebo Migraine-episodic Ad-hoc 1962 Crossover 12"/>
+ <result pre="Crossover 12 51 (27) 39 69% No Yes Chen, 2009," exact="China" post="Propranolol (60) + Flunarizine (10) v. Topoiramate (100) Migraine-episodic"/>
+ <result pre="Parallel 12 82 (0) 38.2 60% Yes Yes Dahlof, 1987," exact="Sweden" post="Propranolol (120) v. Placebo Migraine-episodic WFNRG 1969 Crossover 4"/>
+ <result pre="Parallel 12 214 (17) 39 78% Yes Yes Diener, 2002," exact="Germany" post="Propranolol (160) v. Flunarizine (5) v. Flunarizine (10) Migraine-episodic"/>
+ <result pre="Parallel 26 575 (37) 41 80% Yes Yes Domingues, 2009," exact="Brazil" post="Propranolol (80) v. Nortriptyline (40) v. Combo. Migraine-chronic IHS"/>
+ <result pre="Parallel 12 76 (42) NS NS Yes Yes DongXiang, 2010," exact="China" post="Propranolol (90) + Amitriptyline (100) v. Amitriptyline (100) Migraine-episodic"/>
+ <result pre="Parallel 12 310 (0) 32.5 80% Yes Yes Formisano, 1991," exact="Italy" post="Propranolol (120) v. Nimodipine (120) Migraine-episodic IHS 1988 Parallel"/>
+ <result pre="Parallel 16 22 (14) 39.2 55% No Yes Forssman, 1976," exact="Sweden" post="Propranolol (240) v. Placebo Migraine-unspecified NS Crossover 10 40"/>
+ <result pre="Crossover 10 40 (20) 37.4 88% No Yes Gawel, 1992," exact="Canada" post="Propranolol (120) v. Flunarizine (10) Migraine-episodic WFNRG 1970 Parallel"/>
+ <result pre="Parallel 16 94 (19) 35.9 89% Yes Yes Gerber, 1991," exact="Germany" post="Propranolol (120) v. Metoprolol (150) v. Nifedipine (30) Migraine-episodic"/>
+ <result pre="Parallel 12 58 (NS) 42.4 73% Yes Yes Gerber, 1995," exact="Germany" post="Propranolol (120/160) v. Cyclandelate (1200/1600) Migraine-episodic IHS 1988 Parallel"/>
+ <result pre="Crossover 12 30 (20) 36 73% No Yes Havanka-Kannianen, 1988," exact="Finland" post="Propranolol (80) v. Propranolol (160) Migraine-episodic Ad-hoc 1962 Crossover"/>
+ <result pre="Crossover 12 48 (13) 37.7 81% No Yes Hedman, 1986," exact="Denmark" post="Propranolol (80) v. Metoprolol (100) Migraine-episodic WFNRG 1970 Crossover"/>
+ <result pre="Crossover 4 12 (0) 40 67% NS Yes Holdorff, 1977," exact="Germany" post="Propranolol (120) v. Placebo Migraine-episodic Ad-hoc 1962 Parallel 12"/>
+ <result pre="Parallel 64 232 (51) 38.2 79% Yes Yes Jin, 2001," exact="China" post="Propranolol (30) + Flunarizine (10) v. Diazepam (30) +"/>
+ <result pre="Parallel 24 84 (0) NS 75% No Yes Johnson, 1986," exact="New Zealand" post="Propranolol (240) Mefenamic Acid (1500) v. Placebo Migraine-episodic NS"/>
+ <result pre="Crossover 12 29 (41) 42 69% No Yes Kangasniemi 1983," exact="Finland" post="Propranolol (160) v. Femoxetine (400) Migraine-episodic NS Crossover 12"/>
+ <result pre="Crossover 12 29 (11) 37 86% No Yes Kangasniemi 1984," exact="Finland" post="Propranolol (240) v. Metoprolol (200) Migraine-episodic WFNRG 1970 Crossover"/>
+ <result pre="Crossover 12 37 (14) NS 81% Yes Yes Kass, 1980," exact="Norway" post="Propranolol (160) v. Clonidine (0.1) Migraine-unspecified WFNRG 1970 Crossover"/>
+ <result pre="Crossover 16 23 (9) 39.7 30% No Yes Kaushik, 2005," exact="India" post="Propranolol (80) v. Biofeedback Migraine-episodic IHS 1988 Parallel 24"/>
+ <result pre="Parallel 24 192 (13) NS 69% No Yes Ke, 2003," exact="China" post="Propranolol (30) v. Propranolol (30) + Flunarizine (5) v."/>
+ <result pre="Parallel 8 121 (0) 31 74% No Yes Kjaersgard 1994," exact="Denmark" post="Propranolol (120) v. Tolfenamic Acid (300) Migraine-unspecified IHS 1988"/>
+ <result pre="Crossover 8 24 (50) NS NS Yes Unclear Kozubski, 1995," exact="Poland" post="Propranolol (160) Valproaic Acid (1500) Migraine-unspecified IHS 1988 Crossover"/>
+ <result pre="Crossover 10 35 (NS) NS 100% Yes NS Kuritzky, 1987," exact="Israel" post="Propranolol (160) v. Placebo Migraine-episodic NS Crossover 8 38"/>
+ <result pre="Crossover 8 38 (18) NS NS No Yes Li, 2002," exact="China" post="Propranolol (30) v. Flunarizine (5) Migraine-Episodic IHS, 1988 Parallel"/>
+ <result pre="Parallel 4 126 (0) 38.7 60% No Yes Li, 2004," exact="China" post="Propranolol (60) v. Valproate (.45 mg/kg) Migraine-Episodic NS Parallel"/>
+ <result pre="Parallel 36 40 (0) NS NS No NS Lucking, 1988," exact="Germany" post="Propranolol (120) v. Flunarizine (10) Migraine-episodic NS Parallel 16"/>
+ <result pre="Parallel 16 521 (NS) 42 80% No Yes Maissen, 1991," exact="Germany" post="Propranolol (120) v. 5-Hydroxytryptophan (300) Migraine-episodic NS Parallel 16"/>
+ <result pre="Parallel 24 340 (20) 35.5 94% Yes Yes Mikkelsen, 1986," exact="Denmark" post="Propranolol (120) v. Tolfenamic Acid (300) v. Placebo Migraine-episodic"/>
+ <result pre="Crossover 12 57 (39) NS 86% No Yes Nair, 1975," exact="India" post="Propranolol (80) v. Placebo Migraine-episodic NS Crossover 8 20"/>
+ <result pre="Crossover 8 20 (0) 27.3 50% No No Nambiar, 2011," exact="India" post="Propranolol (80) v. Riboflavin (100) Migraine-episodic IHS 1988 Parallel"/>
+ <result pre="Crossover 8 10 (38) 41.4 80% No Yes Olerud, 1986," exact="Sweden" post="Propranolol (80) v. Nadolol (80) Migraine-episodic NS Parallel 24"/>
+ <result pre="NS Parallel 24 28(NS) NS 79% No Yes Pita, 1977," exact="Spain" post="Propranolol (160) v. Placebo Migraine-episodic Ad-hoc 1962 Crossover 8"/>
+ <result pre="Crossover 8 9 (0) 32 78% No Yes Pradalier, 1989," exact="Norway" post="Propranolol (160) v. Placebo Migraine-episodic IHS 1988 Parallel 12"/>
+ <result pre="Parallel 14 149 (16) 30 79% Yes Yes Shimell, 1990," exact="South Africa" post="Propranolol (180) v. Flunarizine (10) Migraine-episodic Ad hoc 1962"/>
+ <result pre="Parallel 24 191 (39) 42 90% Yes Yes Sjaastad, 1972," exact="Norway" post="Pindolol (15) v. Placebo Migraine-episodic NS Crossover 4 28"/>
+ <result pre="Crossover 4 28 (14) 35.3 79% Yes Yes Soyka, 1990," exact="Germany" post="Propranolol (120) v. Flunarizine (10) Migraine-unspecified NS Parallel 16"/>
+ <result pre="NS Parallel 16 434 42 82% Yes Yes Standnes, 1982," exact="Norway" post="Propranolol (80) v. Timolol (10) v. Placebo Migraine-episodic Ad-hoc"/>
+ <result pre="Crossover 12 25 (28) 41.4 80% Yes Yes Stensrud, 1976," exact="Norway" post="Propranolol (160) v. Placebo Migraine-episodic Ad-hoc 1962 Crossover 4"/>
+ <result pre="Crossover 4 20 (5) 43.5 70% No Yes Stensrud, 1980," exact="Norway" post="Propranolol (80) v. Atenolol (50) v. Placebo Migraine-episodic Ad-hoc"/>
+ <result pre="Crossover 6 35 (20) NS 69% No Yes Stovner, 2014," exact="Norway" post="Propranolol (160) v. Candesartan (16) v. Placebo Migraine-episodic NS"/>
+ <result pre="Crossover 12 25 (24) 40.6 52% No Yes Wideroe, 1974," exact="Norway" post="Propranolol (160) v. Placebo Migraine-episodic Ad-hoc 1962 Crossover 12"/>
+ <result pre="Crossover 12 30 (13) 40 90% No Yes Wen, 2016," exact="China" post="Propranolol (30) v. Flunarizine (10) Migraine Episodic NS Parallel"/>
+ <result pre="Parallel 8 100 (0) 25.6 65% No Yes Yuan, 2005," exact="China" post="Propranolol (120) v. Topiramate (150) Migraine-unspecified IHS 1988 Parallel"/>
+ <result pre="Parallel 12 67 (0) 29.9 64% Yes No Zhu, 2005," exact="China" post="Propranolol (30) v. Flunarizine (10) Migraine-unspecified IHS 1988 Parallel"/>
+ <result pre="flunarizine (high quality, no difference). Flunarizine, not available in the" exact="United States," post="is well-established as effective in treating migraine headache. Universally,"/>
+ <result pre="prescription patters by specialty in ambulatory care settings in the" exact="United States" post=". Prev Med 2017; 9: 62– 67. 37 Hepp"/>
+</results>

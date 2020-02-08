@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6604354/results/search/country/results.xml">
+  <result pre="were published between 1997 and 2017, involving 7 countries: Italy," exact="Saudi Arabia," post="USA, France, Spain, Finland, and Iran. One study was"/>
+  <result pre="One study was an international study based on people in" exact="France" post="and Italy [ 10]. All of them were published"/>
+  <result pre="was an international study based on people in France and" exact="Italy" post="[ 10]. All of them were published in English"/>
+  <result pre="Retrospective Period 1994.09–1995.09 1998.08–1998.12 2010.07–2011.09 2012.04–2012.06 NA NA 2015–2016 Region" exact="Italy" post="Saudi Arabia USA France and Italy Spain Finland Iran"/>
+  <result pre="Period 1994.09–1995.09 1998.08–1998.12 2010.07–2011.09 2012.04–2012.06 NA NA 2015–2016 Region Italy" exact="Saudi Arabia" post="USA France and Italy Spain Finland Iran No. NA"/>
+  <result pre="2010.07–2011.09 2012.04–2012.06 NA NA 2015–2016 Region Italy Saudi Arabia USA" exact="France" post="and Italy Spain Finland Iran No. NA NA NA"/>
+  <result pre="NA NA 2015–2016 Region Italy Saudi Arabia USA France and" exact="Italy" post="Spain Finland Iran No. NA NA NA NA NA"/>
+  <result pre="NA 2015–2016 Region Italy Saudi Arabia USA France and Italy" exact="Spain" post="Finland Iran No. NA NA NA NA NA NA"/>
+  <result pre="2015–2016 Region Italy Saudi Arabia USA France and Italy Spain" exact="Finland" post="Iran No. NA NA NA NA NA NA NA"/>
+ </snippets>
+</snippetsTree>

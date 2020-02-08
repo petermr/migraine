@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6287109/results/search/country/results.xml">
+  <result pre="1 2 [], 1 Brain Trauma Foundation New York, NY" exact="United States" post="[], 2 Department of Neurosurgery, Stanford University School of"/>
+  <result pre="Department of Neurosurgery, Stanford University School of Medicine Stanford, CA" exact="United States" post="[], 3 Department of Rehabilitation and Human Performance New"/>
+  <result pre="3 Department of Rehabilitation and Human Performance New York, NY" exact="United States" post="[], 4 Department of Emergency Medicine, Stanford University School"/>
+  <result pre="of Emergency Medicine, Stanford University School of Medicine Stanford, CA" exact="United States" post="Edited by: Jack Tsao, University of Tennessee, Knoxville, United"/>
+  <result pre="United States Edited by: Jack Tsao, University of Tennessee, Knoxville," exact="United States" post="Reviewed by: Susan Elizabeth Esposito, Life University, United States;"/>
+  <result pre="Knoxville, United States Reviewed by: Susan Elizabeth Esposito, Life University," exact="United States;" post="Michael Sachs, Temple University, United States *Correspondence: Jun Maruta"/>
+  <result pre="Elizabeth Esposito, Life University, United States; Michael Sachs, Temple University," exact="United States" post="*Correspondence: Jun Maruta jun.maruta@mssm.edu This article was submitted to"/>
+ </snippets>
+</snippetsTree>

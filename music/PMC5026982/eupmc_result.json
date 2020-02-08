@@ -1,0 +1,285 @@
+{
+  "id": [
+    "PMC5026982"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5026982"
+  ],
+  "doi": [
+    "10.1186/s40064-016-3268-0"
+  ],
+  "title": [
+    "Identifying attachment ruptures underlying severe music performance anxiety in a professional musician undertaking an assessment and trial therapy of Intensive Short-Term Dynamic Psychotherapy (ISTDP)."
+  ],
+  "authorString": [
+    "Kenny DT, Arthey S, Abbass A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kenny DT"
+          ],
+          "firstName": [
+            "Dianna T."
+          ],
+          "lastName": [
+            "Kenny"
+          ],
+          "initials": [
+            "DT"
+          ],
+          "affiliation": [
+            "Faculty of Arts and Social Sciences, The University of Sydney, Room 468, Building H04, Sydney, 2006 Australia"
+          ]
+        },
+        {
+          "fullName": [
+            "Arthey S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Arthey"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Abbass A"
+          ],
+          "firstName": [
+            "Allan"
+          ],
+          "lastName": [
+            "Abbass"
+          ],
+          "initials": [
+            "A"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2423283"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SpringerPlus"
+          ],
+          "ISOAbbreviation": [
+            "Springerplus"
+          ],
+          "medlineAbbreviation": [
+            "Springerplus"
+          ],
+          "NLMid": [
+            "101597967"
+          ],
+          "ISSN": [
+            "2193-1801"
+          ],
+          "ESSN": [
+            "2193-1801"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "abstractText": [
+    "IntroductionKenny has proposed that severe music performance anxiety that is unresponsive to usual treatments such as cognitive-behaviour therapy may be one manifestation of unresolved attachment ruptures in early life. Intensive Short-Term Dynamic Psychotherapy specifically targets early relationship trauma. Accordingly, a trial of Intensive Short-Term Dynamic Psychotherapy with severely anxious musicians was implemented to assess whether resolution of attachment ruptures resulted in clinically significant relief from music performance anxiety.MethodsVolunteer musicians participating in a nationally funded study were screened for MPA severity. Those meeting the critical cut-off score on the  were offered a trial of Intensive Short-Term Dynamic Psychotherapy. In this paper, we present the theoretical foundations and rationale for the treatment approach, followed by sections of a verbatim transcript and process analysis of the assessment phase of treatment that comprised a 3-h trial therapy session.Case descriptionThe ‘case’ was a professional orchestral musician (male, aged 55) who had suffered severe music performance anxiety over the course of his entire career, which spanned more than 30 years at the time he presented for treatment following his failure to secure a position at audition.Discussion and evaluationThe participant was able to access the pain, rage and grief associated with unresolved attachment ruptures with both parents that demonstrated the likely nexus between early attachment trauma and severe music performance anxiety.ConclusionIntensive Short-Term Dynamic Psychotherapy is a potentially cost-effective treatment for severe music performance anxiety. Further research using designs with higher levels of evidence are required before clinical recommendations can be made for the use of this therapy with this population."
+  ],
+  "affiliation": [
+    "Faculty of Arts and Social Sciences, The University of Sydney, Room 468, Building H04, Sydney, 2006 Australia"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "LP0989486"
+          ],
+          "agency": [
+            "Australian Research Council (AU)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Australian Research Council (AU)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Attachment",
+        "Music Performance Anxiety",
+        "Intensive Short Term Dynamic Psychotherapy",
+        "Professional Musicians"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5026982/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5026982"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-09-25"
+  ],
+  "firstIndexDate": [
+    "2016-09-25"
+  ],
+  "fullTextReceivedDate": [
+    "2016-09-22"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "electronicPublicationDate": [
+    "2016-09-17"
+  ],
+  "firstPublicationDate": [
+    "2016-09-17"
+  ]
+}

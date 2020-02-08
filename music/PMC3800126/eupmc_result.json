@@ -1,0 +1,342 @@
+{
+  "id": [
+    "24147208"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24147208"
+  ],
+  "pmcid": [
+    "PMC3800126"
+  ],
+  "doi": [
+    "10.3402/ejpt.v4i0.21626"
+  ],
+  "title": [
+    "Pharmacological enhancement of exposure-based treatment in PTSD: a qualitative review."
+  ],
+  "authorString": [
+    "de Kleine RA, Rothbaum BO, van Minnen A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Kleine RA"
+          ],
+          "firstName": [
+            "Rianne A"
+          ],
+          "lastName": [
+            "de Kleine"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1040-5517",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Behavioral Science Institute, Radboud University Nijmegen, Nijmegen, the Netherlands ; Overwaal, Centre for Anxiety Disorders (Pro Persona), Nijmegen, the Netherlands ; NijCare, Nijmegen, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Rothbaum BO"
+          ],
+          "firstName": [
+            "Barbara O"
+          ],
+          "lastName": [
+            "Rothbaum"
+          ],
+          "initials": [
+            "BO"
+          ]
+        },
+        {
+          "fullName": [
+            "van Minnen A"
+          ],
+          "firstName": [
+            "Agnes"
+          ],
+          "lastName": [
+            "van Minnen"
+          ],
+          "initials": [
+            "A"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1040-5517",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2501305"
+      ],
+      "dateOfPublication": [
+        "2013 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of psychotraumatology"
+          ],
+          "ISOAbbreviation": [
+            "Eur J Psychotraumatol"
+          ],
+          "medlineAbbreviation": [
+            "Eur J Psychotraumatol"
+          ],
+          "NLMid": [
+            "101559025"
+          ],
+          "ISSN": [
+            "2000-8066"
+          ],
+          "ESSN": [
+            "2000-8066"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "abstractText": [
+    "There is a good amount of evidence that exposure therapy is an effective treatment for posttraumatic stress disorder (PTSD). Notwithstanding its efficacy, there is room for improvement, since a large proportion of patients does not benefit from treatment. Recently, an interesting new direction in the improvement of exposure therapy efficacy for PTSD emerged. Basic research found evidence of the pharmacological enhancement of the underlying learning and memory processes of exposure therapy. The current review aims to give an overview of clinical studies on pharmacological enhancement of exposure-based treatment for PTSD. The working mechanisms, efficacy studies in PTSD patients, and clinical utility of four different pharmacological enhancers will be discussed: d-cycloserine, MDMA, hydrocortisone, and propranolol."
+  ],
+  "affiliation": [
+    "Behavioral Science Institute, Radboud University Nijmegen, Nijmegen, the Netherlands ; Overwaal, Centre for Anxiety Disorders (Pro Persona), Nijmegen, the Netherlands ; NijCare, Nijmegen, the Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Posttraumatic Stress Disorder",
+        "Treatment Efficacy",
+        "Exposure Therapy",
+        "Cognitive Enhancers"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24147208/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24147208/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3402/ejpt.v4i0.21626"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3800126"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3800126?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-06-24"
+  ],
+  "dateOfCreation": [
+    "2013-10-22"
+  ],
+  "firstIndexDate": [
+    "2013-11-09"
+  ],
+  "fullTextReceivedDate": [
+    "2013-10-23"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2013-10-17"
+  ],
+  "firstPublicationDate": [
+    "2013-10-17"
+  ]
+}

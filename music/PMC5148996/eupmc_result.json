@@ -1,0 +1,208 @@
+{
+  "id": [
+    "30162738"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30162738"
+  ],
+  "pmcid": [
+    "PMC5148996"
+  ],
+  "title": [
+    "On Neuralgia and Functional Nervous Disorders."
+  ],
+  "authorString": [
+    "Allbutt TC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Allbutt TC"
+          ],
+          "firstName": [
+            "T Clifford"
+          ],
+          "lastName": [
+            "Allbutt"
+          ],
+          "initials": [
+            "TC"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "97"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "2720715"
+      ],
+      "dateOfPublication": [
+        "1872 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "1872"
+      ],
+      "printPublicationDate": [
+        "1872-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The British and foreign medico-chirurgical review"
+          ],
+          "ISOAbbreviation": [
+            "Br Foreign Med Chir Rev"
+          ],
+          "medlineAbbreviation": [
+            "Br Foreign Med Chir Rev"
+          ],
+          "NLMid": [
+            "0004021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1872"
+  ],
+  "pageInfo": [
+    "117-132"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5148996"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5148996?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-31"
+  ],
+  "firstIndexDate": [
+    "2018-08-31"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-31"
+  ],
+  "dateOfRevision": [
+    "2018-09-06"
+  ],
+  "firstPublicationDate": [
+    "1872-01-01"
+  ]
+}

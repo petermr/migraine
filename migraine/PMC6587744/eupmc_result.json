@@ -1,0 +1,719 @@
+{
+  "id": [
+    "30451318"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30451318"
+  ],
+  "pmcid": [
+    "PMC6587744"
+  ],
+  "doi": [
+    "10.1111/pde.13723"
+  ],
+  "title": [
+    "Glycopyrronium tosylate in pediatric primary axillary hyperhidrosis: Post hoc analysis of efficacy and safety findings by age from two phase three randomized controlled trials."
+  ],
+  "authorString": [
+    "Hebert AA, Glaser DA, Green L, Werschler WP, Forsha DW, Drew J, Gopalan R, Pariser DM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hebert AA"
+          ],
+          "firstName": [
+            "Adelaide A"
+          ],
+          "lastName": [
+            "Hebert"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9167-5729",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "UTHealth McGovern Medical School, Houston, Texas."
+          ]
+        },
+        {
+          "fullName": [
+            "Glaser DA"
+          ],
+          "firstName": [
+            "Dee Anna"
+          ],
+          "lastName": [
+            "Glaser"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Saint Louis University, St. Louis, Missouri."
+          ]
+        },
+        {
+          "fullName": [
+            "Green L"
+          ],
+          "firstName": [
+            "Lawrence"
+          ],
+          "lastName": [
+            "Green"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "George Washington University School of Medicine, Washington, District of Columbia."
+          ]
+        },
+        {
+          "fullName": [
+            "Werschler WP"
+          ],
+          "firstName": [
+            "William P"
+          ],
+          "lastName": [
+            "Werschler"
+          ],
+          "initials": [
+            "WP"
+          ],
+          "affiliation": [
+            "Premier Clinical Research, Spokane, Washington."
+          ]
+        },
+        {
+          "fullName": [
+            "Forsha DW"
+          ],
+          "firstName": [
+            "Douglass W"
+          ],
+          "lastName": [
+            "Forsha"
+          ],
+          "initials": [
+            "DW"
+          ],
+          "affiliation": [
+            "Jordan Valley Dermatology and Research Center, West Jordan, Utah."
+          ]
+        },
+        {
+          "fullName": [
+            "Drew J"
+          ],
+          "firstName": [
+            "Janice"
+          ],
+          "lastName": [
+            "Drew"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Dermira, Inc., Menlo Park, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Gopalan R"
+          ],
+          "firstName": [
+            "Ramanan"
+          ],
+          "lastName": [
+            "Gopalan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Dermira, Inc., Menlo Park, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Pariser DM"
+          ],
+          "firstName": [
+            "David M"
+          ],
+          "lastName": [
+            "Pariser"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "Eastern Virginia Medical School and Virginia Clinical Research, Inc., Norfolk, Virginia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9167-5729",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "36"
+      ],
+      "journalIssueId": [
+        "2773718"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pediatric dermatology"
+          ],
+          "ISOAbbreviation": [
+            "Pediatr Dermatol"
+          ],
+          "medlineAbbreviation": [
+            "Pediatr Dermatol"
+          ],
+          "NLMid": [
+            "8406799"
+          ],
+          "ISSN": [
+            "0736-8046"
+          ],
+          "ESSN": [
+            "1525-1470"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "89-99"
+  ],
+  "abstractText": [
+    "OBJECTIVES:Hyperhidrosis in pediatric patients has been understudied. Post hoc analyses of two phase 3 randomized, vehicle-controlled, 4-week trials (ATMOS-1 [NCT02530281] and ATMOS-2 [NCT02530294]) were performed to assess efficacy and safety of topical anticholinergic glycopyrronium tosylate (GT) in pediatric patients. METHODS:Patients had primary axillary hyperhidrosis ≥ 6 months, average Axillary Sweating Daily Diary (ASDD/ASDD-Children [ASDD-C]) Item 2 (sweating severity) score ≥ 4, sweat production ≥ 50 mg/5 min (each axilla), and Hyperhidrosis Disease Severity Scale (HDSS) ≥ 3. Coprimary end points were ≥ 4-point improvement on ASDD/ASDD-C Item 2 (a validated patient-reported outcome) and change in gravimetrically measured sweat production at Week 4. Efficacy and safety data are shown through Week 4 for the pediatric (≥ 9 to ≤ 16 years) vs older (> 16 years) subgroups. RESULTS:Six hundred and ninety-seven patients were randomized in ATMOS-1/ATMOS-2 (GT, N = 463; vehicle, N = 234); 44 were ≥ 9 to ≤ 16 years (GT, n = 25; vehicle, n = 19). Baseline disease characteristics were generally similar across subgroups. GT-treated pediatric vs older patients had comparable improvements in ASDD/ASDD-C Item 2 (sweating severity) responder rate, HDSS responder rate (≥ 2-grade improvement]), sweat production, and quality of life (mean change from Baseline in Dermatology Life Quality Index [DLQI]/children's DLQI), with greater improvement vs vehicle. Treatment-emergent adverse events were similar between subgroups, and most were mild, transient, and infrequently led to discontinuation. CONCLUSIONS:Topical, once-daily GT improved disease severity (ASDD/ASDD-C, HDSS), sweat production, and quality of life (DLQI), with similar findings in children, adults, and the pooled population. GT was well tolerated, and treatment-emergent adverse events were qualitatively similar between subgroups and consistent with other anticholinergics."
+  ],
+  "affiliation": [
+    "UTHealth McGovern Medical School, Houston, Texas."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Clinical Trial, Phase III",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Dermira, Inc."
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Axilla"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hyperhidrosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glycopyrrolate"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Muscarinic Antagonists"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Administration, Topical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Muscarinic Antagonists"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Glycopyrrolate"
+          ],
+          "registryNumber": [
+            "V92SO9WP2I"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/pde.13723"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6587744"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6587744?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31099927"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Pediatr Dermatol. 2019 May;36(3):424"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-08"
+  ],
+  "dateOfCreation": [
+    "2018-11-20"
+  ],
+  "firstIndexDate": [
+    "2018-11-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-05"
+  ],
+  "dateOfRevision": [
+    "2019-07-03"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-19"
+  ],
+  "firstPublicationDate": [
+    "2018-11-19"
+  ]
+}

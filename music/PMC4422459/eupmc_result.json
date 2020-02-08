@@ -1,0 +1,275 @@
+{
+  "id": [
+    "25973272"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25973272"
+  ],
+  "pmcid": [
+    "PMC4422459"
+  ],
+  "doi": [
+    "10.5041/RMMJ.10204"
+  ],
+  "title": [
+    "Central sensitization syndrome and the initial evaluation of a patient with fibromyalgia: a review."
+  ],
+  "authorString": [
+    "Fleming KC, Volcheck MM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fleming KC"
+          ],
+          "firstName": [
+            "Kevin C"
+          ],
+          "lastName": [
+            "Fleming"
+          ],
+          "initials": [
+            "KC"
+          ],
+          "affiliation": [
+            "Assistant Professor of Medicine, College of Medicine; Division of General Internal Medicine, Section of Complementary and Integrative Medicine, and Fibromyalgia and Chronic Fatigue Clinic, Mayo Clinic, Rochester, Minnesota, USA;"
+          ]
+        },
+        {
+          "fullName": [
+            "Volcheck MM"
+          ],
+          "firstName": [
+            "Mary M"
+          ],
+          "lastName": [
+            "Volcheck"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Nursing in Fibromyalgia/Pain Rehabilitation Center, Mayo Clinic, Rochester, Minnesota, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2284419"
+      ],
+      "dateOfPublication": [
+        "2015 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Rambam Maimonides medical journal"
+          ],
+          "ISOAbbreviation": [
+            "Rambam Maimonides Med J"
+          ],
+          "medlineAbbreviation": [
+            "Rambam Maimonides Med J"
+          ],
+          "NLMid": [
+            "101538065"
+          ],
+          "ISSN": [
+            "2076-9172"
+          ],
+          "ESSN": [
+            "2076-9172"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "e0020"
+  ],
+  "abstractText": [
+    "In both primary care and consultative practices, patients presenting with fibromyalgia (FM) often have other medically unexplained somatic symptoms and are ultimately diagnosed as having central sensitization (CS). Central sensitization encompasses many disorders where the central nervous system amplifies sensory input across many organ systems and results in myriad symptoms. A pragmatic approach to evaluate FM and related symptoms, including a focused review of medical records, interviewing techniques, and observations, is offered here, giving valuable tools for identifying and addressing the most relevant symptoms. At the time of the clinical evaluation, early consideration of CS may improve the efficiency of the visit, reduce excessive testing, and help in discerning between typical and atypical cases so as to avoid an inaccurate diagnosis. Discussion of pain and neurophysiology and sensitization often proves helpful."
+  ],
+  "affiliation": [
+    "Assistant Professor of Medicine, College of Medicine; Division of General Internal Medicine, Section of Complementary and Integrative Medicine, and Fibromyalgia and Chronic Fatigue Clinic, Mayo Clinic, Rochester, Minnesota, USA;"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Central sensitization",
+        "Fibromyalgia",
+        "Medically Unexplained Symptoms"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5041/RMMJ.10204"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4422459"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4422459?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-05-14"
+  ],
+  "dateOfCreation": [
+    "2015-05-15"
+  ],
+  "firstIndexDate": [
+    "2015-05-16"
+  ],
+  "fullTextReceivedDate": [
+    "2015-05-16"
+  ],
+  "dateOfRevision": [
+    "2019-01-29"
+  ],
+  "electronicPublicationDate": [
+    "2015-04-29"
+  ],
+  "firstPublicationDate": [
+    "2015-04-29"
+  ]
+}

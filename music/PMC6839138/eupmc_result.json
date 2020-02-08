@@ -1,0 +1,342 @@
+{
+  "id": [
+    "31699074"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31699074"
+  ],
+  "pmcid": [
+    "PMC6839138"
+  ],
+  "doi": [
+    "10.1186/s12905-019-0833-z"
+  ],
+  "title": [
+    "Female sexual dysfunction associated with idiopathic cerebellar ataxia: A case report."
+  ],
+  "authorString": [
+    "López-Sosa C, Gámez-Zapata J, Iglesias-de-Sena H, Alonso-Sardón M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "López-Sosa C"
+          ],
+          "firstName": [
+            "Carmen"
+          ],
+          "lastName": [
+            "López-Sosa"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Medicine, Faculty of Medicine, University of Salamanca, Campus Miguel de Unamuno, C/ Alfonso X El Sabio s/n, 37007, Salamanca, Spain. lopezsosa@usal.es."
+          ]
+        },
+        {
+          "fullName": [
+            "Gámez-Zapata J"
+          ],
+          "firstName": [
+            "Jorge"
+          ],
+          "lastName": [
+            "Gámez-Zapata"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Complexo Hospitalario Universitario A Coruña (CHUAC), A Coruña, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Iglesias-de-Sena H"
+          ],
+          "firstName": [
+            "Helena"
+          ],
+          "lastName": [
+            "Iglesias-de-Sena"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Area of Preventive Medicine and Public Health, School of Medicine, University of Salamanca, Campus Miguel de Unamuno. C/ Alfonso X El Sabio s/n, 37007, Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Alonso-Sardón M"
+          ],
+          "firstName": [
+            "Montserrat"
+          ],
+          "lastName": [
+            "Alonso-Sardón"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1829-5858",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Area of Preventive Medicine and Public Health, School of Medicine, University of Salamanca, Campus Miguel de Unamuno. C/ Alfonso X El Sabio s/n, 37007, Salamanca, Spain. sardonm@usal.es."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1829-5858",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2876261"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC women's health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Womens Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Womens Health"
+          ],
+          "NLMid": [
+            "101088690"
+          ],
+          "ISSN": [
+            "1472-6874"
+          ],
+          "ESSN": [
+            "1472-6874"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "133"
+  ],
+  "abstractText": [
+    "BACKGROUND:Cerebellar ataxia affects individuals in reproductive age. To date, few clinical cases of cerebellar ataxia and involvement of the cerebellum in sexual response were reported. We report a case of a woman that need to restore skills related for execution of sexual activity and coordination of movements during sexual intercourse. CASE PRESENTATION:We present a case of idiopathic cerebellar ataxia in a 25-year-old woman who was referred for sexual health consultation. The patient complained of sexual problems as follows: \"I forgot the behaviors that I should adopt in a sexual encounter, and I know what to do only after paying attention to my movements.\" The history of sexual behavior indicated that this patient presented a \"romantic love\" model. The Diagnostic and Statistical Manual of Mental Disorders (DSM-5) reports that this condition involves anorgasmia disorder and female sexual arousal disorder. In addition, there was a loss of automatism and coordination of movements in the pelvis and lower extremities. The patient's condition improved with occupational and physical therapy combined with rehabilitation therapy based on cognitive behavioral criteria for sexual therapy. CONCLUSIONS:The case evolved from the romantic-affective model to a realistic model. The patient reported being comfortable during sexual intercourse and could explain her sexual needs to her partner. She managed to coordinate lower limb and pelvic movements, but did not reach an orgasm. Moreover, vaginal lubrication occurred with a time lag of 15-30 min after the end of sexual intercourse or masturbation."
+  ],
+  "affiliation": [
+    "Department of Medicine, Faculty of Medicine, University of Salamanca, Campus Miguel de Unamuno, C/ Alfonso X El Sabio s/n, 37007, Salamanca, Spain. lopezsosa@usal.es."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Arousal",
+        "Desire",
+        "Female Sexual Dysfunction",
+        "Orgasm",
+        "Idiopathic Cerebellar Ataxia",
+        "Short Form Of The Changes In Sexual Functioning Questionnaire (Csfq-14)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12905-019-0833-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6839138"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6839138?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-09"
+  ],
+  "firstIndexDate": [
+    "2019-11-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-14"
+  ],
+  "dateOfRevision": [
+    "2019-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-07"
+  ],
+  "firstPublicationDate": [
+    "2019-11-07"
+  ]
+}

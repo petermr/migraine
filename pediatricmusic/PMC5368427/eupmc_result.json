@@ -1,0 +1,297 @@
+{
+  "id": [
+    "28264496"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28264496"
+  ],
+  "pmcid": [
+    "PMC5368427"
+  ],
+  "doi": [
+    "10.3390/children4030016"
+  ],
+  "title": [
+    "The Role of Mindfulness in Reducing the Adverse Effects of Childhood Stress and Trauma."
+  ],
+  "authorString": [
+    "Ortiz R, Sibinga EM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ortiz R"
+          ],
+          "firstName": [
+            "Robin"
+          ],
+          "lastName": [
+            "Ortiz"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0957-5850",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departments of Internal Medicine and Pediatrics Johns Hopkins Hospital, 1800 Orleans Street, Baltimore, MD 21231, USA, Robin.Ortiz@jhmi.edu. Robin.Ortiz@jhmi.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Sibinga EM"
+          ],
+          "firstName": [
+            "Erica M"
+          ],
+          "lastName": [
+            "Sibinga"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "affiliation": [
+            "Johns Hopkins School of Medicine, 733 North Broadway, Baltimore, MD 21205, USA. esibinga@jhmi.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0957-5850",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2527886"
+      ],
+      "dateOfPublication": [
+        "2017 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Children (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Children (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Children (Basel)"
+          ],
+          "NLMid": [
+            "101648936"
+          ],
+          "ISSN": [
+            "2227-9067"
+          ],
+          "ESSN": [
+            "2227-9067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Research suggests that many children are exposed to adverse experiences in childhood. Such adverse childhood exposures may result in stress and trauma, which are associated with increased morbidity and mortality into adulthood. In general populations and trauma-exposed adults, mindfulness interventions have demonstrated reduced depression and anxiety, reduced trauma-related symptoms, enhanced coping and mood, and improved quality of life. Studies in children and youth also demonstrate that mindfulness interventions improve mental, behavioral, and physical outcomes. Taken together, this research suggests that high-quality, structured mindfulness instruction may mitigate the negative effects of stress and trauma related to adverse childhood exposures, improving short- and long-term outcomes, and potentially reducing poor health outcomes in adulthood. Future work is needed to optimize implementation of youth-based mindfulness programs and to study long-term outcomes into adulthood."
+  ],
+  "affiliation": [
+    "Departments of Internal Medicine and Pediatrics Johns Hopkins Hospital, 1800 Orleans Street, Baltimore, MD 21231, USA, Robin.Ortiz@jhmi.edu. Robin.Ortiz@jhmi.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Trauma",
+        "Resilience",
+        "Allostatic Load",
+        "Mindfulness",
+        "At-risk Youth",
+        "Mind-body",
+        "Mbsr",
+        "Childhood Adversity",
+        "Toxic Stress",
+        "Adverse Childhood Events",
+        "Aces"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/children4030016"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5368427"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5368427?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-03-07"
+  ],
+  "firstIndexDate": [
+    "2017-03-08"
+  ],
+  "fullTextReceivedDate": [
+    "2017-04-13"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-02-28"
+  ],
+  "firstPublicationDate": [
+    "2017-02-28"
+  ]
+}

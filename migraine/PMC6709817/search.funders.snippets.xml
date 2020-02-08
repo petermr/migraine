@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6709817/results/search/funders/results.xml">
+  <result pre="Robblee Jennifer 1 VanderPluym Juliana 1 [1], Department of Neurology," exact="Mayo Clinic" post="Scottsdale AZ USA Correspondence: Juliana VanderPluym Department of Neurology,"/>
+  <result pre="Clinic Scottsdale AZ USA Correspondence: Juliana VanderPluym Department of Neurology," exact="Mayo Clinic," post="13400 E Shea Blvd, Scottsdale, AZ 85259, USAEmail vanderpluym.juliana@mayo.edu"/>
+  <result pre="2018; 58 Suppl 3: 276– 290. doi: 10.1111/head.13417 30403405 18." exact="U.S. Food and Drug Administration." post="Drug approval package: Ajovy (fremanezumab-vfrm). Teva Pharmaceuticals USA, Inc.;"/>
+  <result pre="58 Suppl 3: 276– 290. doi: 10.1111/head.13417 30403405 18. U.S." exact="Food and Drug Administration." post="Drug approval package: Ajovy (fremanezumab-vfrm). Teva Pharmaceuticals USA, Inc.;"/>
+ </snippets>
+</snippetsTree>

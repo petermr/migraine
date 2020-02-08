@@ -1,0 +1,285 @@
+{
+  "id": [
+    "31286707"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31286707"
+  ],
+  "pmcid": [
+    "PMC6620449"
+  ],
+  "doi": [
+    "10.3988/jcn.2019.15.3.347"
+  ],
+  "title": [
+    "Clinical Significance of Asymmetric Minimum Intensity Projection Images of Brain Magnetic Resonance Imaging in Children."
+  ],
+  "authorString": [
+    "Kim HS, Kim SJ, Kong YH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim HS"
+          ],
+          "firstName": [
+            "Han Sol"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chonbuk National University Children's Hospital, Jeonju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SJ"
+          ],
+          "firstName": [
+            "Sun Jun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chonbuk National University Children's Hospital, Jeonju, Korea. sunjun@jbnu.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Kong YH"
+          ],
+          "firstName": [
+            "Young Hwa"
+          ],
+          "lastName": [
+            "Kong"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chonbuk National University Children's Hospital, Jeonju, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2836882"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical neurology (Seoul, Korea)"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Neurol"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Neurol"
+          ],
+          "NLMid": [
+            "101252374"
+          ],
+          "ISSN": [
+            "1738-6586"
+          ],
+          "ESSN": [
+            "2005-5013"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "347-352"
+  ],
+  "abstractText": [
+    "BACKGROUND AND PURPOSE:The susceptibility-weighted imaging form of brain MRI using minimum intensity projection (mIP) is useful for assessing traumatic brain injuries because it readily reveals deoxyhemoglobin or paramagnetic compounds. We investigated the efficacy of using this methodology in nontraumatic patients. METHODS:We retrospectively analyzed the asymmetric mIP findings in nontraumatic patients. Asymmetric mIP images were first verified visually and then using ImageJ software. We enrolled patients with a difference of >5% between hemispheres in ImageJ analysis. All patients underwent detailed history-taking and EEG, and asymmetric mIP findings were compared. RESULTS:The visual analysis identified 54 pediatric patients (37 males and 17 females) with asymmetric mIP findings. Ten patients were excluded because they did not meet the ImageJ verification criteria. The 44 patients with asymmetry comprised 36 with epilepsy, 6 with headache, and 2 with cerebral infarction. Thirty-one of the 36 epileptic patients showed definite partial seizure activities in semiology, while the remaining patients did not demonstrate a history of partial seizure manifestations. The MRI findings were normal in all patients except for five with periventricular leukomalacia unrelated to seizure symptoms. There was agreement between mIP images and semiology in 29 (93.5%) of the 31 epileptic patients with focal signs, while the other 2 demonstrated discordance. Twenty (64.5%) of the 31 patients showed consistent EEG abnormalities. CONCLUSIONS:Our data suggest that asymmetric mIP findings are an excellent lateralizing indicator in pediatric patients with partial epilepsy."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Chonbuk National University Children's Hospital, Jeonju, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Susceptibility-weighted Imaging",
+        "Focal Epilepsy",
+        "Minimum Intensity Projection"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3988/jcn.2019.15.3.347"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6620449"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6620449?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-10"
+  ],
+  "firstIndexDate": [
+    "2019-07-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-27"
+  ],
+  "dateOfRevision": [
+    "2019-07-24"
+  ],
+  "firstPublicationDate": [
+    "2019-07-01"
+  ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="pediatricmusic/PMC4702057/results/species/binomial/results.xml">
+  <result pre=" factors that may lead to an increased infection risk [ 161]. An increased rate of " exact="Pseudomonas aeruginosa" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/div[4]/p[6]" match="Pseudomonas aeruginosa" post=" and other gram-negative germs was found in patients with diabetes mellitus in the context of endos" name="binomial"/>
+  <result pre="Meningitis caused by pneumococci or " exact="Hemophilus influenza" match="Hemophilus influenza" post=" or recurrent bacterial meningitis is often based on a defect of the skull base and the dura unless" name="binomial"/>
+ </snippets>
+</snippetsTree>

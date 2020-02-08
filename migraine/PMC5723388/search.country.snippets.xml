@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC5723388/results/search/country/results.xml">
+  <result pre="of Human and Aerospace Physiological Sciences, King’s College London London" exact="United Kingdom" post="[], 2 Physical Therapy, School of Health and Rehabilitation"/>
+  <result pre="of Health and Rehabilitation Sciences, University of Pittsburgh Pittsburgh, PA" exact="United States" post="[], 3 Physical Therapy, College of Applied Medical Sciences"/>
+  <result pre="Physical Therapy, College of Applied Medical Sciences Majmaah University Majmaah" exact="Saudi Arabia" post="[], 4 Department of Physiology, King’s College London London"/>
+  <result pre="Arabia [], 4 Department of Physiology, King’s College London London" exact="United Kingdom" post="[], 5 Department of Audiology, Royal National Throat, Nose"/>
+  <result pre="and Ear Hospital, University College London NHS Hospital Trust London" exact="United Kingdom" post="[], 6 Audiological Medicine Department, Great Ormond Street Hospital"/>
+  <result pre="Audiological Medicine Department, Great Ormond Street Hospital for Children London" exact="United Kingdom" post="[], 7 Division of Health and Social Care, King’s"/>
+  <result pre="Division of Health and Social Care, King’s College London London" exact="United Kingdom" post="[], 8 University College London Ear Institute London United"/>
+  <result pre="United Kingdom [], 8 University College London Ear Institute London" exact="United Kingdom" post="Edited by: Herman Kingma, Maastricht University, Netherlands Reviewed by:"/>
+  <result pre="Institute London United Kingdom Edited by: Herman Kingma, Maastricht University," exact="Netherlands" post="Reviewed by: Alexandre Bisdorff, Hospital Center Emile Mayrisch, Luxembourg;"/>
+  <result pre="Bisdorff, Hospital Center Emile Mayrisch, Luxembourg; Tjasse Bruintjes, Gelre Hospitals," exact="Netherlands" post="*Correspondence: Marousa Pavlou, marousa.pavlou@kcl.ac.uk Specialty section: This article was"/>
+  <result pre="and US versions 1 were used for participants in the" exact="United Kingdom" post="and United States, respectively. Primary school children in years"/>
+  <result pre="1 were used for participants in the United Kingdom and" exact="United States," post="respectively. Primary school children in years 1 and 2"/>
+ </snippets>
+</snippetsTree>

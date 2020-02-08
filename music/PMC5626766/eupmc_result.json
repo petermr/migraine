@@ -1,0 +1,431 @@
+{
+  "id": [
+    "28974725"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28974725"
+  ],
+  "pmcid": [
+    "PMC5626766"
+  ],
+  "doi": [
+    "10.1038/s41598-017-12802-9"
+  ],
+  "title": [
+    "Mobile Phone Use and The Risk of Headache: A Systematic Review and Meta-analysis of Cross-sectional Studies."
+  ],
+  "authorString": [
+    "Wang J, Su H, Xie W, Yu S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Neurology, Chinese PLA General Hospital, Beijing, 100853, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Su H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neurology, Chinese PLA General Hospital, Beijing, 100853, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Neurology, Chinese PLA General Hospital, Beijing, 100853, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu S"
+          ],
+          "firstName": [
+            "Shengyuan"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology, Chinese PLA General Hospital, Beijing, 100853, PR China. yusy1963@126.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2603102"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "12595"
+  ],
+  "abstractText": [
+    "Headache is increasingly being reported as a detrimental effect of mobile phone (MP) use. However, studies aimed to investigate the association between MP use and headache yielded conflicting results. To assess the consistency of the data on the topic, we performed a systematic review and meta-analysis of the available cross-sectional studies. Published literature from PubMed and other databases were retrieved and screened, and 7 cross-sectional studies were finally included in this meta-analysis. The pooled odds ratio (OR) and 95% confidence interval (CI) were calculated. We found that the risk of headache was increased by 38% in MP user compared with non-MP user (OR, 1.38; 95% CI, 1.18-1.61, p < 0.001). Among MP users, the risk of headache was also increased in those who had longer daily call duration (2-15 min vs. <2 min: OR, 1.62; 95% CI, 1.34-1.98, p < 0.001; >15 min vs. <2 min: OR, 2.50; 95% CI, 1.76-3.54, p < 0.001) and higher daily call frequency (2-4 calls vs. <2 calls: OR, 1.37; 95% CI, 1.07-1.76, p < 0.001; >4 calls vs. <2 calls: OR, 2.52; 95% CI, 1.78-3.58, p < 0.001). Our data indicate that MP use is significantly associated with headache, further epidemiologic and experimental studies are required to affirm and understand this association."
+  ],
+  "affiliation": [
+    "Department of Neurology, Chinese PLA General Hospital, Beijing, 100853, PR China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Systematic Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Odds Ratio"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Phone Use"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cell Phone"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-017-12802-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5626766"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5626766?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-06-25"
+  ],
+  "dateOfCreation": [
+    "2017-10-05"
+  ],
+  "firstIndexDate": [
+    "2017-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2017-10-14"
+  ],
+  "dateOfRevision": [
+    "2019-06-25"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-03"
+  ],
+  "firstPublicationDate": [
+    "2017-10-03"
+  ]
+}

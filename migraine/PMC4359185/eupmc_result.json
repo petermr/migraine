@@ -1,0 +1,467 @@
+{
+  "id": [
+    "25749803"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25749803"
+  ],
+  "pmcid": [
+    "PMC4359185"
+  ],
+  "doi": [
+    "10.1007/s40268-015-0085-9"
+  ],
+  "title": [
+    "Use of adjectives in abstracts when reporting results of randomized, controlled trials from industry and academia."
+  ],
+  "authorString": [
+    "Cepeda MS, Berlin JA, Glasser SC, Battisti WP, Schuemie MJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cepeda MS"
+          ],
+          "firstName": [
+            "M Soledad"
+          ],
+          "lastName": [
+            "Cepeda"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Janssen Research & Development, LLC, 1125 Trenton Harbourton Road, Titusville, NJ, 08560, USA, scepeda@its.jnj.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Berlin JA"
+          ],
+          "firstName": [
+            "Jesse A"
+          ],
+          "lastName": [
+            "Berlin"
+          ],
+          "initials": [
+            "JA"
+          ]
+        },
+        {
+          "fullName": [
+            "Glasser SC"
+          ],
+          "firstName": [
+            "Susan C"
+          ],
+          "lastName": [
+            "Glasser"
+          ],
+          "initials": [
+            "SC"
+          ]
+        },
+        {
+          "fullName": [
+            "Battisti WP"
+          ],
+          "firstName": [
+            "Wendy P"
+          ],
+          "lastName": [
+            "Battisti"
+          ],
+          "initials": [
+            "WP"
+          ]
+        },
+        {
+          "fullName": [
+            "Schuemie MJ"
+          ],
+          "firstName": [
+            "Martijn J"
+          ],
+          "lastName": [
+            "Schuemie"
+          ],
+          "initials": [
+            "MJ"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2264314"
+      ],
+      "dateOfPublication": [
+        "2015 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Drugs in R&D"
+          ],
+          "ISOAbbreviation": [
+            "Drugs R D"
+          ],
+          "medlineAbbreviation": [
+            "Drugs R D"
+          ],
+          "NLMid": [
+            "100883647"
+          ],
+          "ISSN": [
+            "1174-5886"
+          ],
+          "ESSN": [
+            "1179-6901"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "85-139"
+  ],
+  "abstractText": [
+    "Accurate representation of study findings is crucial to preserve public trust. The language used to describe results could affect perceptions of the efficacy or safety of interventions. We sought to compare the adjectives used in clinical trial reports of industry-authored and non-industry-authored research.We included studies in PubMed that were randomized trials and had an abstract. Studies were classified as \"non-industry-authored\" when all authors had academic or governmental affiliations, or as \"industry-authored\" when any of the authors had industry affiliations. Abstracts were analyzed using a part-of-speech tagger to identify adjectives. To reduce the risk of false positives, the analysis was restricted to adjectives considered relevant to \"coloring\" (influencing interpretation) of trial results. Differences between groups were determined using exact tests, stratifying by journal.A total of 306,007 publications met the inclusion criteria. We were able to classify 16,789 abstracts; 9,085 were industry-authored research, and 7,704 were non-industry-authored research. We found a differential use of adjectives between industry-authored and non-industry-authored reports. Adjectives such as \"well tolerated\" and \"meaningful\" were more commonly used in the title or conclusion of the abstract by industry authors, while adjectives such as \"feasible\" were more commonly used by non-industry authors.There are differences in the adjectives used when study findings are described in industry-authored reports compared with non-industry-authored reports. Authors should avoid overusing adjectives that could be inaccurate or result in misperceptions. Editors and peer reviewers should be attentive to the use of adjectives and assess whether the usage is context appropriate."
+  ],
+  "affiliation": [
+    "Janssen Research & Development, LLC, 1125 Trenton Harbourton Road, Titusville, NJ, 08560, USA, scepeda@its.jnj.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trust"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Authorship"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Publishing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Abstracting and Indexing as Topic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Terminology as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Periodicals as Topic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s40268-015-0085-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4359185"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4359185?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-12-03"
+  ],
+  "dateOfCreation": [
+    "2015-03-16"
+  ],
+  "firstIndexDate": [
+    "2015-03-10"
+  ],
+  "fullTextReceivedDate": [
+    "2015-03-20"
+  ],
+  "dateOfRevision": [
+    "2015-03-19"
+  ],
+  "firstPublicationDate": [
+    "2015-03-01"
+  ]
+}

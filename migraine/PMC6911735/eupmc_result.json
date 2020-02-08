@@ -1,0 +1,492 @@
+{
+  "id": [
+    "31432081"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31432081"
+  ],
+  "pmcid": [
+    "PMC6911735"
+  ],
+  "doi": [
+    "10.1093/neuros/nyz332"
+  ],
+  "title": [
+    "Concussion Guidelines Step 2: Evidence for Subtype Classification."
+  ],
+  "authorString": [
+    "Lumba-Brown A, Teramoto M, Bloom OJ, Brody D, Chesnutt J, Clugston JR, Collins M, Gioia G, Kontos A, Lal A, Sills A, Ghajar J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lumba-Brown A"
+          ],
+          "firstName": [
+            "Angela"
+          ],
+          "lastName": [
+            "Lumba-Brown"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9102-8791",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Emergency Medicine, Brain Performance Center, Stanford University, Stanford, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Teramoto M"
+          ],
+          "firstName": [
+            "Masaru"
+          ],
+          "lastName": [
+            "Teramoto"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Division of Physical Medicine & Rehabilitation, University of Utah, Salt Lake City, Utah."
+          ]
+        },
+        {
+          "fullName": [
+            "Bloom OJ"
+          ],
+          "firstName": [
+            "O Josh"
+          ],
+          "lastName": [
+            "Bloom"
+          ],
+          "initials": [
+            "OJ"
+          ],
+          "affiliation": [
+            "Carolina Sports Concussion Clinic, Cary, North Carolina."
+          ]
+        },
+        {
+          "fullName": [
+            "Brody D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Brody"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Center for Neuroscience and Regenerative Medicine, Uniformed Services University of the Health Sciences, Bethesda, Maryland."
+          ]
+        },
+        {
+          "fullName": [
+            "Chesnutt J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Chesnutt"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Depts. of Family Medicine, Neurology, Orthopedics & Rehabilitation, Oregon Health & Science University, Portland, Oregon."
+          ]
+        },
+        {
+          "fullName": [
+            "Clugston JR"
+          ],
+          "firstName": [
+            "James R"
+          ],
+          "lastName": [
+            "Clugston"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2103-1039",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departments of Community Health and Family Medicine and Neurology, University of Florida, Gainesville, Florida."
+          ]
+        },
+        {
+          "fullName": [
+            "Collins M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Collins"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic Surgery, University of Pittsburgh, Pittsburgh, Pennsylvania."
+          ]
+        },
+        {
+          "fullName": [
+            "Gioia G"
+          ],
+          "firstName": [
+            "Gerard"
+          ],
+          "lastName": [
+            "Gioia"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Division of Pediatric Neuropsychology, Safe Concussion Outcome Recovery & Education Program, Children's National Health System, Depts. of Pediatrics and Psychiatry & Behavioral Sciences, George Washington University School of Medicine, Rockville, Maryland."
+          ]
+        },
+        {
+          "fullName": [
+            "Kontos A"
+          ],
+          "firstName": [
+            "Anthony"
+          ],
+          "lastName": [
+            "Kontos"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic Surgery, University of Pittsburgh, Pittsburgh, Pennsylvania."
+          ]
+        },
+        {
+          "fullName": [
+            "Lal A"
+          ],
+          "firstName": [
+            "Avtar"
+          ],
+          "lastName": [
+            "Lal"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, Concussion and Brain Performance Center, Stanford University, Stanford, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Sills A"
+          ],
+          "firstName": [
+            "Allen"
+          ],
+          "lastName": [
+            "Sills"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery and Vanderbilt Sports Concussion Center, Vanderbilt University Medical Center, Nashville, Tennessee."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghajar J"
+          ],
+          "firstName": [
+            "Jamshid"
+          ],
+          "lastName": [
+            "Ghajar"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, Brain Performance Center, Stanford University, Stanford, California."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9102-8791",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2103-1039",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "86"
+      ],
+      "journalIssueId": [
+        "2892732"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neurosurgery"
+          ],
+          "ISOAbbreviation": [
+            "Neurosurgery"
+          ],
+          "medlineAbbreviation": [
+            "Neurosurgery"
+          ],
+          "NLMid": [
+            "7802914"
+          ],
+          "ISSN": [
+            "0148-396X"
+          ],
+          "ESSN": [
+            "1524-4040"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "2-13"
+  ],
+  "abstractText": [
+    "BACKGROUND:Concussion is a heterogeneous mild traumatic brain injury (mTBI) characterized by a variety of symptoms, clinical presentations, and recovery trajectories. By thematically classifying the most common concussive clinical presentations into concussion subtypes (cognitive, ocular-motor, headache/migraine, vestibular, and anxiety/mood) and associated conditions (cervical strain and sleep disturbance), we derive useful definitions amenable to future targeted treatments. OBJECTIVE:To use evidence-based methodology to characterize the 5 concussion subtypes and 2 associated conditions and report their prevalence in acute concussion patients as compared to baseline or controls within 3 d of injury. METHODS:A multidisciplinary expert workgroup was established to define the most common concussion subtypes and their associated conditions and select clinical questions related to prevalence and recovery. A literature search was conducted from January 1, 1990 to November 1, 2017. Two experts abstracted study characteristics and results independently for each article selected for inclusion. A third expert adjudicated disagreements. Separate meta-analyses were conducted to do the following: 1) examine the prevalence of each subtype/associated condition in concussion patients using a proportion, 2) assess subtype/associated conditions in concussion compared to baseline/uninjured controls using a prevalence ratio, and 3) compare the differences in symptom scores between concussion subtypes and uninjured/baseline controls using a standardized mean difference (SMD). RESULTS:The most prevalent concussion subtypes for pediatric and adult populations were headache/migraine (0.52; 95% CI = 0.37, 0.67) and cognitive (0.40; 95% CI = 0.25, 0.55), respectively. In pediatric patients, the prevalence of the vestibular subtype was also high (0.50; 95% CI = 0.40, 0.60). Adult patients were 4.4, 2.9, and 1.7 times more likely to demonstrate cognitive, vestibular, and anxiety/mood subtypes, respectively, as compared with their controls (P < .05). Children and adults with concussion showed significantly more cognitive symptoms than their respective controls (SMD = 0.66 and 0.24; P < .001). Furthermore, ocular-motor in adult patients (SMD = 0.72; P < .001) and vestibular symptoms in both pediatric and adult patients (SMD = 0.18 and 0.36; P < .05) were significantly worse in concussion patients than in controls. CONCLUSION:Five concussion subtypes with varying prevalence within 3 d following injury are commonly seen clinically and identifiable upon systematic literature review. Sleep disturbance, a concussion-associated condition, is also common. There was insufficient information available for analysis of cervical strain. A comprehensive acute concussion assessment defines and characterizes the injury and, therefore, should incorporate evaluations of all 5 subtypes and associated conditions."
+  ],
+  "affiliation": [
+    "Department of Emergency Medicine, Brain Performance Center, Stanford University, Stanford, California."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Subtype",
+        "Meta-analysis",
+        "Vestibular",
+        "Traumatic brain injury",
+        "Head injury",
+        "Systematic review",
+        "Concussion",
+        "Mild Traumatic Brain Injury",
+        "Oculomotor"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/neuros/nyz332"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6911735"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6911735?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-22"
+  ],
+  "firstIndexDate": [
+    "2019-08-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-12-15"
+  ],
+  "firstPublicationDate": [
+    "2020-01-01"
+  ]
+}

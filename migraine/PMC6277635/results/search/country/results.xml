@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="[], 1 Department of Psychology, University of Memphis Memphis, TN" exact="United States" post="[], 2 Neuroalgology Division, Fondazione IRCCS Istituto Neurologico Carlo"/>
+ <result pre="2 Neuroalgology Division, Fondazione IRCCS Istituto Neurologico Carlo Besta Milan" exact="Italy" post="[], 3 Neurology, Public Health and Disability Unit, Fondazione"/>
+ <result pre="Disability Unit, Fondazione IRCCS Istituto Neurologico Carlo Besta, Neurology Milan" exact="Italy" post="Edited by: Massimiliano Valeriani, Bambino Gesù Ospedale Pediatrico (IRCCS),"/>
+ <result pre="Italy Edited by: Massimiliano Valeriani, Bambino Gesù Ospedale Pediatrico (IRCCS)," exact="Italy" post="Reviewed by: Marco Carotenuto, Università degli Studi della Campania"/>
+ <result pre="&quot;Luigi Vanvitelli&quot;, Italy; Laura Papetti, Bambino Gesù Ospedale Pediatrico (IRCCS)," exact="Italy" post="*Correspondence: Frank Andrasik fndrasik@memphis.edu This article was submitted to"/>
+</results>

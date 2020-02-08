@@ -1,0 +1,296 @@
+{
+  "id": [
+    "31737722"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31737722"
+  ],
+  "pmcid": [
+    "PMC6791607"
+  ],
+  "doi": [
+    "10.14309/crj.0000000000000192"
+  ],
+  "title": [
+    "Celiac Disease in a 16-Month-Old Child Presenting as Motor Regression."
+  ],
+  "authorString": [
+    "Bashir A, Mousattat Y, Lawson A, Patel P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bashir A"
+          ],
+          "firstName": [
+            "Anam"
+          ],
+          "lastName": [
+            "Bashir"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, West Virginia University-Charleston/Charleston Area Medical Center, Charleston, WV."
+          ]
+        },
+        {
+          "fullName": [
+            "Mousattat Y"
+          ],
+          "firstName": [
+            "Youmna"
+          ],
+          "lastName": [
+            "Mousattat"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, West Virginia University-Charleston/Charleston Area Medical Center, Charleston, WV."
+          ]
+        },
+        {
+          "fullName": [
+            "Lawson A"
+          ],
+          "firstName": [
+            "April"
+          ],
+          "lastName": [
+            "Lawson"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Division of Pediatric Gastroenterology, West Virginia University-Charleston/Charleston Area Medical Center, Charleston, WV."
+          ]
+        },
+        {
+          "fullName": [
+            "Patel P"
+          ],
+          "firstName": [
+            "Pratikkumar"
+          ],
+          "lastName": [
+            "Patel"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Division of Pediatric Gastroenterology, West Virginia University-Charleston/Charleston Area Medical Center, Charleston, WV."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2882907"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACG case reports journal"
+          ],
+          "ISOAbbreviation": [
+            "ACG Case Rep J"
+          ],
+          "medlineAbbreviation": [
+            "ACG Case Rep J"
+          ],
+          "NLMid": [
+            "101638398"
+          ],
+          "ISSN": [
+            "2326-3253"
+          ],
+          "ESSN": [
+            "2326-3253"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e00192"
+  ],
+  "abstractText": [
+    "Neurodevelopmental symptoms were previously believed to be a complication of celiac disease (CD) and rarely seen as presenting symptoms. One case has been reported so far where motor regression was the presenting symptom. We present a 16-month-old girl with postprandial vomiting and regression of motor skills. Examination revealed abdominal distension, hypotonia, and decreased motor movements in lower extremities. Celiac serology showed elevated tissue transglutaminase (tTG) immunoglobulin A (IgA) levels. Esophagogastroduodenoscopy with biopsies confirmed CD. Gluten-free diet led to the improvement of neurological and gastrointestinal complaints. We recommend keeping CD as one of the differentials in children with neurodevelopmental symptoms."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, West Virginia University-Charleston/Charleston Area Medical Center, Charleston, WV."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.14309/crj.0000000000000192"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6791607"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6791607?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-19"
+  ],
+  "firstIndexDate": [
+    "2019-11-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-17"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-27"
+  ],
+  "firstPublicationDate": [
+    "2019-08-27"
+  ]
+}

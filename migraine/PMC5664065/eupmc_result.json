@@ -1,0 +1,292 @@
+{
+  "id": [
+    "29064441"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29064441"
+  ],
+  "pmcid": [
+    "PMC5664065"
+  ],
+  "doi": [
+    "10.3390/brainsci7100138"
+  ],
+  "title": [
+    "Pattern Recognition of the Multiple Sclerosis Syndrome."
+  ],
+  "authorString": [
+    "Zabad RK, Stewart R, Healey KM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zabad RK"
+          ],
+          "firstName": [
+            "Rana K"
+          ],
+          "lastName": [
+            "Zabad"
+          ],
+          "initials": [
+            "RK"
+          ],
+          "affiliation": [
+            "Department of Neurological Sciences, University of Nebraska Medical Center College of Medicine, Omaha, NE 68198-8440, USA. rzabad@unmc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Stewart R"
+          ],
+          "firstName": [
+            "Renee"
+          ],
+          "lastName": [
+            "Stewart"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "University of Nebraska Medical Center College of Nursing, Omaha, NE 68198-5330, USA. renee.stewart@unmc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Healey KM"
+          ],
+          "firstName": [
+            "Kathleen M"
+          ],
+          "lastName": [
+            "Healey"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "Department of Neurological Sciences, University of Nebraska Medical Center College of Medicine, Omaha, NE 68198-8440, USA. khealey@unmc.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2605282"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain sciences"
+          ],
+          "ISOAbbreviation": [
+            "Brain Sci"
+          ],
+          "medlineAbbreviation": [
+            "Brain Sci"
+          ],
+          "NLMid": [
+            "101598646"
+          ],
+          "ISSN": [
+            "2076-3425"
+          ],
+          "ESSN": [
+            "2076-3425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "During recent decades, the autoimmune disease neuromyelitis optica spectrum disorder (NMOSD), once broadly classified under the umbrella of multiple sclerosis (MS), has been extended to include autoimmune inflammatory conditions of the central nervous system (CNS), which are now diagnosable with serum serological tests. These antibody-mediated inflammatory diseases of the CNS share a clinical presentation to MS. A number of practical learning points emerge in this review, which is geared toward the pattern recognition of optic neuritis, transverse myelitis, brainstem/cerebellar and hemispheric tumefactive demyelinating lesion (TDL)-associated MS, aquaporin-4-antibody and myelin oligodendrocyte glycoprotein (MOG)-antibody NMOSD, overlap syndrome, and some yet-to-be-defined/classified demyelinating disease, all unspecifically labeled under MSsyndrome. The goal of this review is to increase clinicians' awareness of the clinical nuances of the autoimmune conditions for MS and NMSOD, and to highlight highly suggestive patterns of clinical, paraclinical or imaging presentations in order to improve differentiation. With overlay in clinical manifestations between MS and NMOSD, magnetic resonance imaging (MRI) of the brain, orbits and spinal cord, serology, and most importantly, high index of suspicion based on pattern recognition, will help lead to the final diagnosis."
+  ],
+  "affiliation": [
+    "Department of Neurological Sciences, University of Nebraska Medical Center College of Medicine, Omaha, NE 68198-8440, USA. rzabad@unmc.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "MS",
+        "Optic Neuritis",
+        "Transverse Myelitis",
+        "Clinically Isolated Syndrome (Cis)",
+        "Mog Antibodies",
+        "Nmosd",
+        "Tumefactive Demyelinating Lesions",
+        "Aqp4 Antibodies",
+        "Brainstem Syndrome"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/brainsci7100138"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5664065"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5664065?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-10-25"
+  ],
+  "firstIndexDate": [
+    "2017-10-24"
+  ],
+  "fullTextReceivedDate": [
+    "2017-11-08"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-24"
+  ],
+  "firstPublicationDate": [
+    "2017-10-24"
+  ]
+}

@@ -1,0 +1,1260 @@
+{
+  "id": [
+    "27802825"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27802825"
+  ],
+  "pmcid": [
+    "PMC5088671"
+  ],
+  "doi": [
+    "10.1186/s12974-016-0719-z"
+  ],
+  "title": [
+    "MOG-IgG in NMO and related disorders: a multicenter study of 50 patients. Part 3: Brainstem involvement - frequency, presentation and outcome."
+  ],
+  "authorString": [
+    "Jarius S, Kleiter I, Ruprecht K, Asgari N, Pitarokoili K, Borisow N, Hümmert MW, Trebst C, Pache F, Winkelmann A, Beume LA, Ringelstein M, Stich O, Aktas O, Korporal-Kuhnke M, Schwarz A, Lukas C, Haas J, Fechner K, Buttmann M, Bellmann-Strobl J, Zimmermann H, Brandt AU, Franciotta D, Schanda K, Paul F, Reindl M, Wildemann B, in cooperation with the Neuromyelitis Optica Study Group (NEMOS)."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jarius S"
+          ],
+          "firstName": [
+            "Sven"
+          ],
+          "lastName": [
+            "Jarius"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Molecular Neuroimmunology Group, Department of Neurology, University Hospital Heidelberg, Otto Meyerhof Center, Im Neuenheimer Feld 350, 69120, Heidelberg, Germany. sven.jarius@med.uni-heidelberg.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Kleiter I"
+          ],
+          "firstName": [
+            "Ingo"
+          ],
+          "lastName": [
+            "Kleiter"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Neurology, Ruhr University Bochum, Bochum, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ruprecht K"
+          ],
+          "firstName": [
+            "Klemens"
+          ],
+          "lastName": [
+            "Ruprecht"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Neurology, Charité - University Medicine Berlin, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Asgari N"
+          ],
+          "firstName": [
+            "Nasrin"
+          ],
+          "lastName": [
+            "Asgari"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8551-0947",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology and Institute of Molecular Medicine, University of Southern Denmark, Odense, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Pitarokoili K"
+          ],
+          "firstName": [
+            "Kalliopi"
+          ],
+          "lastName": [
+            "Pitarokoili"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Neurology, Ruhr University Bochum, Bochum, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Borisow N"
+          ],
+          "firstName": [
+            "Nadja"
+          ],
+          "lastName": [
+            "Borisow"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Neurology, NeuroCure Clinical Research Center and Clinical and Experimental Multiple Sclerosis Research Center, Charité University Medicine, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hümmert MW"
+          ],
+          "firstName": [
+            "Martin W"
+          ],
+          "lastName": [
+            "Hümmert"
+          ],
+          "initials": [
+            "MW"
+          ],
+          "affiliation": [
+            "Department of Neurology, Hannover Medical School, Hannover, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Trebst C"
+          ],
+          "firstName": [
+            "Corinna"
+          ],
+          "lastName": [
+            "Trebst"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Neurology, Hannover Medical School, Hannover, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pache F"
+          ],
+          "firstName": [
+            "Florence"
+          ],
+          "lastName": [
+            "Pache"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Neurology, NeuroCure Clinical Research Center and Clinical and Experimental Multiple Sclerosis Research Center, Charité University Medicine, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Winkelmann A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Winkelmann"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Rostock, Rostock, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Beume LA"
+          ],
+          "firstName": [
+            "Lena-Alexandra"
+          ],
+          "lastName": [
+            "Beume"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "affiliation": [
+            "Department of Neurology, Albert Ludwigs University, Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ringelstein M"
+          ],
+          "firstName": [
+            "Marius"
+          ],
+          "lastName": [
+            "Ringelstein"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neurology, Heinrich Heine University, Düsseldorf, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Stich O"
+          ],
+          "firstName": [
+            "Oliver"
+          ],
+          "lastName": [
+            "Stich"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Neurology, Albert Ludwigs University, Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Aktas O"
+          ],
+          "firstName": [
+            "Orhan"
+          ],
+          "lastName": [
+            "Aktas"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Neurology, Heinrich Heine University, Düsseldorf, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Korporal-Kuhnke M"
+          ],
+          "firstName": [
+            "Mirjam"
+          ],
+          "lastName": [
+            "Korporal-Kuhnke"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Molecular Neuroimmunology Group, Department of Neurology, University Hospital Heidelberg, Otto Meyerhof Center, Im Neuenheimer Feld 350, 69120, Heidelberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schwarz A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Schwarz"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Molecular Neuroimmunology Group, Department of Neurology, University Hospital Heidelberg, Otto Meyerhof Center, Im Neuenheimer Feld 350, 69120, Heidelberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lukas C"
+          ],
+          "firstName": [
+            "Carsten"
+          ],
+          "lastName": [
+            "Lukas"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Neuroradiology, Ruhr University Bochum, Bochum, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Haas J"
+          ],
+          "firstName": [
+            "Jürgen"
+          ],
+          "lastName": [
+            "Haas"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2314-7465",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Neuroimmunology Group, Department of Neurology, University Hospital Heidelberg, Otto Meyerhof Center, Im Neuenheimer Feld 350, 69120, Heidelberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Fechner K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Fechner"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute of Experimental Immunology, affiliated to Euroimmun AG, Lübeck, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Buttmann M"
+          ],
+          "firstName": [
+            "Mathias"
+          ],
+          "lastName": [
+            "Buttmann"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neurology, Julius Maximilians University, Würzburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Bellmann-Strobl J"
+          ],
+          "firstName": [
+            "Judith"
+          ],
+          "lastName": [
+            "Bellmann-Strobl"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Neurology, NeuroCure Clinical Research Center and Clinical and Experimental Multiple Sclerosis Research Center, Charité University Medicine, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Zimmermann H"
+          ],
+          "firstName": [
+            "Hanna"
+          ],
+          "lastName": [
+            "Zimmermann"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neurology, Charité - University Medicine Berlin, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Brandt AU"
+          ],
+          "firstName": [
+            "Alexander U"
+          ],
+          "lastName": [
+            "Brandt"
+          ],
+          "initials": [
+            "AU"
+          ],
+          "affiliation": [
+            "Department of Neurology, Charité - University Medicine Berlin, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Franciotta D"
+          ],
+          "firstName": [
+            "Diego"
+          ],
+          "lastName": [
+            "Franciotta"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "IRCCS, C. Mondino National Neurological Institute, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Schanda K"
+          ],
+          "firstName": [
+            "Kathrin"
+          ],
+          "lastName": [
+            "Schanda"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Neurology, Medical University Innsbruck, Innsbruck, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Paul F"
+          ],
+          "firstName": [
+            "Friedemann"
+          ],
+          "lastName": [
+            "Paul"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Neurology, NeuroCure Clinical Research Center and Clinical and Experimental Multiple Sclerosis Research Center, Charité University Medicine, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Reindl M"
+          ],
+          "firstName": [
+            "Markus"
+          ],
+          "lastName": [
+            "Reindl"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2817-1402",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, Medical University Innsbruck, Innsbruck, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Wildemann B"
+          ],
+          "firstName": [
+            "Brigitte"
+          ],
+          "lastName": [
+            "Wildemann"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Molecular Neuroimmunology Group, Department of Neurology, University Hospital Heidelberg, Otto Meyerhof Center, Im Neuenheimer Feld 350, 69120, Heidelberg, Germany."
+          ]
+        },
+        {
+          "collectiveName": [
+            "in cooperation with the Neuromyelitis Optica Study Group (NEMOS)"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2817-1402",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8551-0947",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2314-7465",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2484195"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of neuroinflammation"
+          ],
+          "ISOAbbreviation": [
+            "J Neuroinflammation"
+          ],
+          "medlineAbbreviation": [
+            "J Neuroinflammation"
+          ],
+          "NLMid": [
+            "101222974"
+          ],
+          "ISSN": [
+            "1742-2094"
+          ],
+          "ESSN": [
+            "1742-2094"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "281"
+  ],
+  "abstractText": [
+    "BACKGROUND:Myelin oligodendrocyte glycoprotein antibodies (MOG-IgG) are present in a subset of aquaporin-4 (AQP4)-IgG-negative patients with optic neuritis (ON) and/or myelitis. Little is known so far about brainstem involvement in MOG-IgG-positive patients. OBJECTIVE:To investigate the frequency, clinical and paraclinical features, course, outcome, and prognostic implications of brainstem involvement in MOG-IgG-positive ON and/or myelitis. METHODS:Retrospective case study. RESULTS:Among 50 patients with MOG-IgG-positive ON and/or myelitis, 15 (30 %) with a history of brainstem encephalitis were identified. All were negative for AQP4-IgG. Symptoms included respiratory insufficiency, intractable nausea and vomiting (INV), dysarthria, dysphagia, impaired cough reflex, oculomotor nerve palsy and diplopia, nystagmus, internuclear ophthalmoplegia (INO), facial nerve paresis, trigeminal hypesthesia/dysesthesia, vertigo, hearing loss, balance difficulties, and gait and limb ataxia; brainstem involvement was asymptomatic in three cases. Brainstem inflammation was already present at or very shortly after disease onset in 7/15 (47 %) patients. 16/21 (76.2 %) brainstem attacks were accompanied by acute myelitis and/or ON. Lesions were located in the pons (11/13), medulla oblongata (8/14), mesencephalon (cerebral peduncles; 2/14), and cerebellar peduncles (5/14), were adjacent to the fourth ventricle in 2/12, and periaqueductal in 1/12; some had concomitant diencephalic (2/13) or cerebellar lesions (1/14). MRI or laboratory signs of blood-brain barrier damage were present in 5/12. Cerebrospinal fluid pleocytosis was found in 11/14 cases, with neutrophils in 7/11 (3-34 % of all CSF white blood cells), and oligoclonal bands in 4/14. Attacks were preceded by acute infection or vaccination in 5/15 (33.3 %). A history of teratoma was noted in one case. The disease followed a relapsing course in 13/15 (87 %); the brainstem was involved more than once in 6. Immunosuppression was not always effective in preventing relapses. Interferon-beta was followed by new attacks in two patients. While one patient died from central hypoventilation, partial or complete recovery was achieved in the remainder following treatment with high-dose steroids and/or plasma exchange. Brainstem involvement was associated with a more aggressive general disease course (higher relapse rate, more myelitis attacks, more frequently supratentorial brain lesions, worse EDSS at last follow-up). CONCLUSIONS:Brainstem involvement is present in around one third of MOG-IgG-positive patients with ON and/or myelitis. Clinical manifestations are diverse and may include symptoms typically seen in AQP4-IgG-positive neuromyelitis optica, such as INV and respiratory insufficiency, or in multiple sclerosis, such as INO. As MOG-IgG-positive brainstem encephalitis may take a serious or even fatal course, particular attention should be paid to signs or symptoms of additional brainstem involvement in patients presenting with MOG-IgG-positive ON and/or myelitis."
+  ],
+  "affiliation": [
+    "Molecular Neuroimmunology Group, Department of Neurology, University Hospital Heidelberg, Otto Meyerhof Center, Im Neuenheimer Feld 350, 69120, Heidelberg, Germany. sven.jarius@med.uni-heidelberg.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Blood-Brain Barrier"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Stem"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Encephalitis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myelitis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuromyelitis Optica"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immunoglobulin G"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interferon-beta"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disability Evaluation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cohort Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Age Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myelin-Oligodendrocyte Glycoprotein"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rituximab"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hearing loss",
+        "Respiratory insufficiency",
+        "Ataxia",
+        "Myelitis",
+        "Optic Neuritis",
+        "Cerebellitis",
+        "Facial Nerve Palsy",
+        "Brainstem Encephalitis",
+        "Rhombencephalitis",
+        "Longitudinally Extensive Transverse Myelitis (Letm)",
+        "Mog-igg",
+        "Aquaporin-4 Antibodies (Aqp4-igg, Nmo-igg)",
+        "Diplopia Internuclear Ophthalmoplegia (Ino)",
+        "Intractable Nausea And Vomiting﻿",
+        "Myelin Oligodendrocyte Glycoprotein (Mog) Antibodies",
+        "Neuromyelitis Optica Spectrum Disorders (nmosd)"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Immunoglobulin G"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Interferon-beta"
+          ],
+          "registryNumber": [
+            "77238-31-4"
+          ]
+        },
+        {
+          "name": [
+            "Myelin-Oligodendrocyte Glycoprotein"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Rituximab"
+          ],
+          "registryNumber": [
+            "4F4X42SYQ6"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12974-016-0719-z"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12974-016-0719-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5088671"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5088671?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "42"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-10-06"
+  ],
+  "dateOfCreation": [
+    "2016-11-03"
+  ],
+  "firstIndexDate": [
+    "2016-11-04"
+  ],
+  "fullTextReceivedDate": [
+    "2016-12-05"
+  ],
+  "dateOfRevision": [
+    "2019-01-15"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-01"
+  ],
+  "firstPublicationDate": [
+    "2016-11-01"
+  ]
+}

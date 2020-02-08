@@ -1,0 +1,266 @@
+{
+  "id": [
+    "31636493"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31636493"
+  ],
+  "pmcid": [
+    "PMC6787535"
+  ],
+  "doi": [
+    "10.31887/DCNS.2019.21.2/vhede"
+  ],
+  "title": [
+    "Treating psychiatric symptoms and disorders with non-psychotropic medications ."
+  ],
+  "authorString": [
+    "Hede V, Devillé C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hede V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Hede"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Author affiliations: Liaison Psychiatry Unit (Vincent Hede); Young Adult Psychiatry Unit (Cédric Devillé); Department of Psychiatry, Geneva University Hospitals, Geneva, Switzerland. Address for correspondence: Dr Vincent Hede, Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4, 1205 Geneva, Switzerland. (e-mail: Vincent.Hede@hcuge.ch)."
+          ]
+        },
+        {
+          "fullName": [
+            "Devillé C"
+          ],
+          "firstName": [
+            "Cédric"
+          ],
+          "lastName": [
+            "Devillé"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Author affiliations: Liaison Psychiatry Unit (Vincent Hede); Young Adult Psychiatry Unit (Cédric Devillé); Department of Psychiatry, Geneva University Hospitals, Geneva, Switzerland. Address for correspondence: Dr Vincent Hede, Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4, 1205 Geneva, Switzerland. (e-mail: Vincent.Hede@hcuge.ch)."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2873189"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Dialogues in clinical neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Dialogues Clin Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Dialogues Clin Neurosci"
+          ],
+          "NLMid": [
+            "101238198"
+          ],
+          "ISSN": [
+            "1294-8322"
+          ],
+          "ESSN": [
+            "1958-5969"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "193-201"
+  ],
+  "abstractText": [
+    "A few drugs prescribed in internal medicine, ie, non-psychotropic drugs, can be used to treat certain neuropsychiatric disorders. For most of these situations, the level of evidence remains low. But when sufficient data becomes available, these molecules are then included in official guidelines for the treatment of neuropsychiatric disorders. In this article we review interesting drugs which may be relevant from an evidence-based medicine point of view, and could become part of psychiatric practice in the future. ."
+  ],
+  "affiliation": [
+    "Author affiliations: Liaison Psychiatry Unit (Vincent Hede); Young Adult Psychiatry Unit (Cédric Devillé); Department of Psychiatry, Geneva University Hospitals, Geneva, Switzerland. Address for correspondence: Dr Vincent Hede, Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4, 1205 Geneva, Switzerland. (e-mail: Vincent.Hede@hcuge.ch)."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Psychopharmacology",
+        "Psychiatric Disorder",
+        "evidence-based medicine",
+        "Non-psychotropic Medication"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6787535"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6787535?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-23"
+  ],
+  "firstIndexDate": [
+    "2019-10-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-25"
+  ],
+  "dateOfRevision": [
+    "2019-11-19"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

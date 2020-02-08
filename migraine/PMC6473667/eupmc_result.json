@@ -1,0 +1,329 @@
+{
+  "id": [
+    "30884753"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30884753"
+  ],
+  "pmcid": [
+    "PMC6473667"
+  ],
+  "doi": [
+    "10.3390/medsci7030044"
+  ],
+  "title": [
+    "Sport-Related Concussion: Evaluation, Treatment, and Future Directions."
+  ],
+  "authorString": [
+    "McKeithan L, Hibshman N, Yengo-Kahn AM, Solomon GS, Zuckerman SL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "McKeithan L"
+          ],
+          "firstName": [
+            "Lydia"
+          ],
+          "lastName": [
+            "McKeithan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Vanderbilt Sports Concussion Center, Vanderbilt University School of Medicine, Nashville, TN 37232, USA. lydia.j.mckeithan@vanderbilt.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Hibshman N"
+          ],
+          "firstName": [
+            "Natalie"
+          ],
+          "lastName": [
+            "Hibshman"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Vanderbilt Sports Concussion Center, Vanderbilt University School of Medicine, Nashville, TN 37232, USA. natalie.hibshman.1@vanderbilt.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Yengo-Kahn AM"
+          ],
+          "firstName": [
+            "Aaron M"
+          ],
+          "lastName": [
+            "Yengo-Kahn"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Vanderbilt Sports Concussion Center, Vanderbilt University School of Medicine, Nashville, TN 37232, USA. a.yengo@vumc.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Solomon GS"
+          ],
+          "firstName": [
+            "Gary S"
+          ],
+          "lastName": [
+            "Solomon"
+          ],
+          "initials": [
+            "GS"
+          ],
+          "affiliation": [
+            "Vanderbilt Sports Concussion Center, Vanderbilt University School of Medicine, Nashville, TN 37232, USA. gary.s.solomon@vumc.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Zuckerman SL"
+          ],
+          "firstName": [
+            "Scott L"
+          ],
+          "lastName": [
+            "Zuckerman"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Vanderbilt Sports Concussion Center, Vanderbilt University School of Medicine, Nashville, TN 37232, USA. scott.zuckerman@vumc.org."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2790472"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medical sciences (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Med Sci (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Med Sci (Basel)"
+          ],
+          "NLMid": [
+            "101629322"
+          ],
+          "ISSN": [
+            "2076-3271"
+          ],
+          "ESSN": [
+            "2076-3271"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Sport-related concussion (SRC) is a highly prevalent injury predominantly affecting millions of youth through high school athletes every year. In recent years, SRC has received a significant amount of attention due to potential for long-term neurologic sequelae. However, the acute symptoms and possibility of prolonged recovery account for the vast majority of morbidity from SRC. Modifying factors have been identified and may allow for improved prediction of a protracted course. Potential novel modifying factors may include genetic determinants of recovery, as well as radiographic biomarkers, which represent burgeoning subfields in SRC research. Helmet design and understanding the biomechanical stressors on the brain that lead to concussion also represent active areas of research. This narrative review provides a general synopsis of SRC, including relevant definitions, current treatment paradigms, and modifying factors for recovery, in addition to novel areas of research and future directions for SRC research."
+  ],
+  "affiliation": [
+    "Vanderbilt Sports Concussion Center, Vanderbilt University School of Medicine, Nashville, TN 37232, USA. lydia.j.mckeithan@vanderbilt.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetics",
+        "Biomechanics",
+        "Neuroimaging",
+        "Mild Traumatic Brain Injury",
+        "Sport-related Concussion"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/medsci7030044"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6473667"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6473667?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-20"
+  ],
+  "firstIndexDate": [
+    "2019-03-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-01"
+  ],
+  "dateOfRevision": [
+    "2019-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-15"
+  ],
+  "firstPublicationDate": [
+    "2019-03-15"
+  ]
+}

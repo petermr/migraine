@@ -1,0 +1,819 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="methods-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Basic Clin Neurosci</journal-id><journal-id journal-id-type="iso-abbrev">Basic Clin Neurosci</journal-id><journal-id journal-id-type="publisher-id">BCN</journal-id><journal-id journal-id-type="pmc">BCN</journal-id><journal-title-group><journal-title>Basic and Clinical Neuroscience</journal-title></journal-title-group><issn pub-type="ppub">2008-126X</issn><issn pub-type="epub">2228-7442</issn><publisher><publisher-name>Iranian Neuroscience Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4892319</article-id><article-id pub-id-type="doi">10.15412/J.BCN.03070208</article-id><article-id pub-id-type="publisher-id">bcn-7-143</article-id><article-categories><subj-group subj-group-type="heading"><subject>Methodological Note</subject></subj-group></article-categories><title-group><article-title>Neurofeedback: A Comprehensive Review on System Design, Methodology and Clinical Applications</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Marzbani</surname><given-names>Hengameh</given-names></name><xref ref-type="aff" rid="AFF1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Marateb</surname><given-names>Hamid Reza</given-names></name><xref ref-type="aff" rid="AFF1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Mansourian</surname><given-names>Marjan</given-names></name><xref ref-type="aff" rid="AFF2"><sup>2</sup></xref><xref ref-type="corresp" rid="C1"><sup>*</sup></xref></contrib><aff id="AFF1"><label>1.</label> Department of Biomedical Engineering, Faculty of Engineering, University of Isfahan, Isfahan, Iran.</aff><aff id="AFF2"><label>2.</label> Department of Biostatistics and Epidemiology, School of Health, Isfahan University of Medical Sciences, Isfahan, Iran.</aff></contrib-group><author-notes><corresp id="C1"><label>*</label><bold>Corresponding Author:</bold> Marjan Mansourian, PhD, <bold>Address:</bold> Department of Biostatistics and Epidemiology, School of Health, Isfahan University of Medical Sciences, Isfahan, Iran. <bold>Tel:</bold>+98 (31) 37923256, <bold>E-mail:</bold><email>j_mansourian@hlth.mui.ac.ir</email></corresp></author-notes><pub-date pub-type="ppub"><month>4</month><year>2016</year></pub-date><volume>7</volume><issue>2</issue><fpage>143</fpage><lpage>158</lpage><history><date date-type="received"><day>04</day><month>4</month><year>2015</year></date><date date-type="rev-recd"><day>06</day><month>5</month><year>2015</year></date><date date-type="accepted"><day>27</day><month>7</month><year>2015</year></date></history><permissions><copyright-statement>Copyright&#x000a9; 2016 Iranian Neuroscience Society</copyright-statement><copyright-year>2016</copyright-year><license><license-p>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License which allows users to read, copy, distribute and make derivative works for non-commercial purposes from the material, as long as the author of the original work is cited properly.</license-p></license></permissions><abstract><p>Neurofeedback is a kind of biofeedback, which teaches self-control of brain functions to subjects by measuring brain waves and providing a feedback signal. Neurofeedback usually provides the audio and or video feedback. Positive or negative feedback is produced for desirable or undesirable brain activities, respectively. In this review, we provided clinical and technical information about the following issues: (1) Various neurofeedback treatment protocols i.e. alpha, beta, alpha/theta, delta, gamma, and theta; (2) Different EEG electrode placements i.e. standard recording channels in the frontal, temporal, central, and occipital lobes; (3) Electrode montages (unipolar, bipolar); (4) Types of neurofeedback i.e. frequency, power, slow cortical potential, functional magnetic resonance imaging, and so on; (5) Clinical applications of neurofeedback i.e. treatment of attention deficit hyperactivity disorder, anxiety, depression, epilepsy, insomnia, drug addiction, schizophrenia, learning disabilities, dyslexia and dyscalculia, autistic spectrum disorders and so on as well as other applications such as pain management, and the improvement of musical and athletic performance; and (6) Neurofeedback softwares. To date, many studies have been conducted on the neurofeedback therapy and its effectiveness on the treatment of many diseases. Neurofeedback, like other treatments, has its own pros and cons. Although it is a non-invasive procedure, its validity has been questioned in terms of conclusive scientific evidence. For example, it is expensive, time-consuming and its benefits are not long-lasting. Also, it might take months to show the desired improvements. Nevertheless, neurofeedback is known as a complementary and alternative treatment of many brain dysfunctions. However, current research does not support conclusive results about its efficacy.</p></abstract><kwd-group><kwd>Brain diseases</kwd><kwd>Brain waves</kwd><kwd>Complementary therapies</kwd><kwd>Electroencephalography</kwd><kwd>Neurofeedback</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>Neurofeedback is not a new concept. It has been the subject of the study of researchers for several decades. Neurofeedback is a method that assists subjects to control their brain waves consciously. In fact, the electroencephalography (EEG) is recorded during the neurofeedback treatment. Then, its various components are extracted and fed to subjects using online feedback loop in the form of audio, video or their combination. Accordingly, electrophysiological components are separately demonstrated. As an illustration, the power of a signal in a frequency band can be shown by a varying bar graph. During this procedure, the subject becomes aware of the changes occurring during training and will be able to assess his/her progress in order to achieve optimum performance. For instance, the subject tries to improve the brain patterns based on the changes that occur in the sound or movie. Neurofeedback treatment protocols mainly focus on the alpha, beta, delta, theta, and gamma treatment or a combination of them such as alpha/theta ratio, beta/theta ratio, etc. (<xref rid="B17" ref-type="bibr">Dempster, 2012</xref>; <xref rid="B88" ref-type="bibr">Vernon, 2005</xref>). However, the most commonly used protocols are alpha, beta, theta, and alpha/theta ratio. In this review paper, we discussed various technical and clinical details of different neurofeedback treatment protocols.</p></sec><sec><title>2. Various Frequency Components</title><p>Activities of cerebral neurons have rich information about neuronal activities. When neurons are activated, they produce electrical pulses. By placing electrodes on the scalp, the electrical activity of the brain, known as EEG, can be recorded. In turn, EEG is generated by a specific type of synchronous activity of neurons which are known as pyramidal neurons and the electrical output is thus reflected in the following areas of the skin where the electrodes are located. Different patterns of electrical activity, known as brain waves, could be recognized by their amplitudes and frequencies. Frequency indicates how fast the waves oscillate which is measured by the number of waves per second (Hz), while amplitude represents the power of these waves measured by microvolt (&#x003bc;V).</p><p>Different frequency components are categorized into delta (less than 4 Hz), theta (4&#x02013;8 Hz), alpha (8&#x02013;13 Hz), beta (13&#x02013;30 Hz), and gamma (30&#x02013;100 Hz) where each represents a particular physiological function. In summary, delta waves are observed in the EEG signal when a person is asleep, theta waves when a person is sleepy, alpha waves when a person is relaxed and his/her muscles are loose but he/she is awake, beta waves when a person is alert and gamma waves are observed when a person is trying to solve a problem (<xref ref-type="table" rid="T1">Table 1</xref>). However, there are differences in defining the exact range of frequency components in different studies.</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Specific brainwaves with their characteristics.</p></caption><table frame="box" rules="all"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Common brainwave frequency</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Frequency range (Hz)</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>General characteristics</bold></th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Delta</td><td align="center" valign="middle" rowspan="1" colspan="1">1&#x02013;4</td><td align="center" valign="middle" rowspan="1" colspan="1">Sleep, repair, complex problem solving, unawareness, deep-unconsciousness</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Theta</td><td align="center" valign="middle" rowspan="1" colspan="1">4&#x02013;8</td><td align="center" valign="middle" rowspan="1" colspan="1">Creativity, insight, deep states, unconsciousness, optimal meditative state, depression, anxiety, distractibility</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Alpha</td><td align="center" valign="middle" rowspan="1" colspan="1">8&#x02013;13</td><td align="center" valign="middle" rowspan="1" colspan="1">Alertness and peacefulness, readiness, meditation, deeply-relaxed</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Lower alpha</td><td align="center" valign="middle" rowspan="1" colspan="1">8&#x02013;10</td><td align="center" valign="middle" rowspan="1" colspan="1">Recalling</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Upper alpha</td><td align="center" valign="middle" rowspan="1" colspan="1">10&#x02013;13</td><td align="center" valign="middle" rowspan="1" colspan="1">Optimize cognitive performance</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">SMR (sensorimotor rhythm)</td><td align="center" valign="middle" rowspan="1" colspan="1">13&#x02013;15</td><td align="center" valign="middle" rowspan="1" colspan="1">Mental alertness, physical relaxation</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Beta</td><td align="center" valign="middle" rowspan="1" colspan="1">15&#x02013;20</td><td align="center" valign="middle" rowspan="1" colspan="1">Thinking, focusing, sustained attention, tension, alertness, excitement</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">High beta</td><td align="center" valign="middle" rowspan="1" colspan="1">20&#x02013;32</td><td align="center" valign="middle" rowspan="1" colspan="1">Intensity, hyperalertness, anxiety</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Gamma</td><td align="center" valign="middle" rowspan="1" colspan="1">32&#x02013;100 or 40</td><td align="center" valign="middle" rowspan="1" colspan="1">Learning, cognitive processing, problem solving tasks, mental sharpness, brain activity, organize the brain</td></tr></tbody></table></table-wrap><p>These frequency components have subsets. For example, sensorimotor rhythm (SMR) frequency bands (13&#x02013;15 Hz) are related to the sensorimotor rhythm and entitled as low beta. Some studies claimed that alpha rhythm has two subsets: lower alpha in the range of 8&#x02013;10 Hz and upper alpha in the range of 10&#x02013;12 Hz. Whereas some studies indicate that the alpha rhythm has 3 subsets. These definitions indicate that high and low alpha exhibit different behaviors and performances. It is believed that lower alpha is related to remembering action in semantic memory which is not the case for high alpha (<xref rid="B17" ref-type="bibr">Dempster, 2012</xref>).</p></sec><sec><title>3. EEG Electrode Placement</title><p>Electrodes (placed on the scalp) can record those cortical activities of the brain regions that are close to them. Electrode System 10&#x02013;20 is a method for standardizing areas of the skull and comparing data. The term &#x0201c;10&#x02013;20&#x0201d; refers to the placement of electrodes over 10% or 20% of the total distance between specified skull locations. Studies have shown that these placements correlate with the corresponding cerebral cortical regions. Of 21 electrodes, 19 are used for recording cortical areas and 2 other electrodes as reference electrodes (<xref ref-type="fig" rid="F1">Figure 1</xref>). The skull regions are named using letters and numbers. Letters correspond with the brain regions and numbers to the hemisphere of the brain or the locations of this hemisphere. The letters <italic>F, P, T, O</italic>, and C are related to frontal, parietal, temporal, occipital, and central areas, respectively. Odd/even numbers are associated with the left/right side of the brain region. The letter z is used as P<sub>Z</sub> suggests that scalp location falls along the central line running between the nasion and the inion. F<sub>P1</sub> and F<sub>P2</sub> are respectively related to the left and right poles of the forehead. Also A<sub>1</sub> and A<sub>2</sub> are the left right regions of vestibular (ear) region that are two common sites for the placement of reference and ground electrodes (<xref ref-type="fig" rid="F1">Figure 1</xref>) (<xref rid="B17" ref-type="bibr">Dempster, 2012</xref>; <xref rid="B26" ref-type="bibr">Evans &#x00026; Abarbanel, 1999</xref>).</p><fig id="F1" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>The 10&#x02013;20 electrode placement system and the name of the skull regions.</p></caption><graphic xlink:href="BCN-7-143-g001"/></fig><p>Traditionally, two types of unipolar and bipolar montage are used in the neurofeedback treatment. In unipolar mode, the active electrode is placed on the skull and the recorded signal by the active electrode is compared to the second electrode entitled as the reference electrode. The activity of the active electrode minus the activity of the reference electrode represents the brain activity at the active electrode.</p><p>On the other hand, in the bipolar mode, two active electrodes are used that are separately placed on the skull. The difference between the recorded signals by these 2 electrodes, is the basis of the neurofeedback (<xref rid="B16" ref-type="bibr">Demos, 2005</xref>; <xref rid="B17" ref-type="bibr">Dempster, 2012</xref>). One of the advantages of the bipolar recording is the common mode rejection that occurs during the recording procedure. It means that any external artifact occurring at both channels and at the same time, its amplitude and phase are subtracted and the spatial selectivity is improved. For example, eye roll and blink artifacts could be reduced in this way (<xref rid="B26" ref-type="bibr">Evans &#x00026; Abarbanel, 1999</xref>).</p><p>Neurologists have observed that lesions occurring in specific regions of the brain produce specific symptoms mostly related to these regions. For example, frontal lobes, <italic>F<sub>P1</sub>, F<sub>P2</sub>, F<sub>PZ</sub>, F<sub>Z</sub>, F<sub>3</sub>, F<sub>4</sub>, F<sub>7</sub></italic> are responsible for immediate and sustained attention, time management, social skills, emotions, empathy, working memory, executive planning, moral fiber or character. Each region represents a specific feeling or task; Thus identification of these areas provides the best and the most accurate neurofeedback treatment. Parietal lobes, <italic>P<sub>Z</sub>, P<sub>3</sub></italic> and <italic>P<sub>4</sub></italic>, solve problems conceptualized by the frontal lobes. Complex grammar, naming of the objects, sentence construction, and mathematical processing are identifiable to the left parietal lobe while map orientation, spatial recognition, and knowing the difference between right and left are entirely functions of the right parietal lobe. Temporal lobes, <italic>T<sub>3</sub>, T<sub>4</sub>, T<sub>5</sub></italic> and <italic>T<sub>6</sub></italic> have various functions. Left hemisphere functions are associated with reading (word recognition), memory, learning and a positive mood, while right hemisphere functions are related to music, anxiety, facial recognition, and sense of direction.</p><p>On the other hand, visual memories, accurate reading and traumatic memories accompanying visual flashbacks are usually processed in the occipital lobes, <italic>O<sub>2</sub>, O<sub>1</sub></italic> and . The other functions of this lobe include helping to locate objects in the environment, seeing colors and recognizing drawings and correctly identifying objects, reading, writing, and spelling. Sensory and motor (sensorimotor) cortex, <italic>C<sub>Z</sub>, C<sub>3</sub></italic> and <italic>C<sub>4</sub></italic> have functions of conscious control of all skeletal movements such as typing, playing musical instruments, handwriting, operation of complex machinery, speaking, and the ability to recognize where bodily sensations originate.</p><p>Neurologists have mentioned that the motor cortex helps the cerebral cortex to encode both physical and cognitive tasks. Therefore, subjects who have trouble seeing the logical sequence of cognitive tasks may benefit from neurofeedback training along the left hemisphere sensorimotor cortex (<italic>C<sub>3</sub></italic>). Training along the right hemisphere sensorimotor cortex (<italic>C<sub>4</sub></italic>) may invoke feelings, emotions, or calmness. Training at the median or may facilitate a mixed response. The subjects who suffer from epilepsy are usually trained along the sensorimotor cortex (<italic>C<sub>3</sub></italic>) to increase SMR. Also, training along the sensorimotor cortex could be applied for the treatment of stroke, epilepsy, paralysis, ADHD, and disorders of sensory/motor integration (<xref ref-type="table" rid="T2">Table 2</xref>) (<xref rid="B16" ref-type="bibr">Demos, 2005</xref>).</p><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2.</label><caption><p>Brain lobes with their functions and areas (<xref rid="B16" ref-type="bibr">Demos, 2005</xref>).</p></caption><table frame="box" rules="all"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Sites</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Functions</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Considerations</bold></th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Parietal lobes</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>P<sub>z</sub>, P<sub>3</sub>, P<sub>4</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">LH: Problem solving, math, complex grammar, attention, association<break/>RH: Spatial awareness, Geometry</td><td align="center" valign="middle" rowspan="1" colspan="1">Dyscalculia sense of direction learning disorders</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Frontal lobes</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>F<sub>P1</sub>, F<sub>P2</sub>, F<sub>PZ</sub>, F<sub>Z</sub>, F<sub>3</sub>, F<sub>4</sub>, F<sub>7</sub>, F<sub>8</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">LH: Working memory, concentration, Executive planning, positive emotions.<break/>RH: Episodic memory, social awareness Frontal poles: attention judgment</td><td align="center" valign="middle" rowspan="1" colspan="1">LH: Depression<break/>RH: Anxiety, fear, executive planning, poor executive functioning</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Temporal lobes</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>T<sub>3</sub>, T<sub>4</sub>, T<sub>5</sub>, T<sub>6</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">LH: Word recognition, reading, language, memory<break/>RH: Object recognition, music, social cues<break/>Facial recognition</td><td align="center" valign="middle" rowspan="1" colspan="1">Anger, rage, dyslexia, long-term memory, closed head injury</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Occipital lobes</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>O<sub>Z</sub>, O<sub>1</sub>, O<sub>2</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Visual learning, reading, parietal- temporal-occipital functions</td><td align="center" valign="middle" rowspan="1" colspan="1">Learning disorders</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Sensorimotor cortex</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub>, C<sub>3</sub>, C<sub>4</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">LH: Attention, mental processing, RH: Calmness, emotion, Empathy Combined: Fine motor skills, manual dexterity, sensory and motor integration and processing</td><td align="center" valign="middle" rowspan="1" colspan="1">Paralysis (stroke), seizure disorder, poor handwriting, ADHD symptoms</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Cingulate gyrus</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>F<sub>PZ</sub>, F<sub>Z</sub>, C<sub>Z</sub>, P<sub>Z</sub>, O<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Mental flexibility, cooperation, attention, motivation, morals</td><td align="center" valign="middle" rowspan="1" colspan="1">Obsessions, compulsions, tics, perfectionism, worry, ADHD symptoms, OCD &#x00026; OCD spectrum</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Broca&#x02019;s area</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>F<sub>7</sub>, T<sub>3</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Verbal expression</td><td align="center" valign="middle" rowspan="1" colspan="1">Dyslexia, poor spelling, poor reading</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Left hemisphere</td><td align="center" valign="middle" rowspan="1" colspan="1">All odd numbered sites</td><td align="center" valign="middle" rowspan="1" colspan="1">Logical sequencing, detail oriented, language abilities, word retrieval, fluency, reading, math, science, problem solving, verbal memory</td><td align="center" valign="middle" rowspan="1" colspan="1">Depression (underactivation)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Right hemisphere</td><td align="center" valign="middle" rowspan="1" colspan="1">All even numbered sites</td><td align="center" valign="middle" rowspan="1" colspan="1">Episodic memory encoding, social awareness, eye contact, music, humor, empathy, spatial awareness, art, insight, intuition, non-verbal memory, seeing the whole picture</td><td align="center" valign="middle" rowspan="1" colspan="1">Anxiety (overactivation)</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><p><bold>Abbreviations:</bold> LH, Left hemisphere, RH: Right hemisphere, AHHD: Attention deficit hyperactivity disorder, OCD: Obsessive compulsive disorder.</p></fn></table-wrap-foot></table-wrap><p>Generally, electrodes are placed in a way that a particular EEG channel is located on one brain side (<xref rid="B4" ref-type="bibr">Bauer &#x00026; Pllana, 2014</xref>). For instance, low beta and beta are trained on the right (<italic>C<sub>4</sub></italic>) and left (<italic>C<sub>3</sub></italic>) brain side, respectively. If they were switched to the opposite brain side, undesirable results could be obtained. For example, training low beta wave on the left side will result in a depletion of mental energy instead of improvements in concentration. Thus, the location of the EEG electrodes during the neurofeedback procedure is important (<xref rid="B25" ref-type="bibr">Evans, 2007</xref>).</p></sec><sec><title>4. Types of Neurofeedback</title><p>There are 7 types of Neurofeedback for the treatment of various disorders:<list list-type="order"><list-item><p>The most frequently used neurofeedback is frequency/power neurofeedback. This technique typically includes the use of 2 to 4 surface electrodes, sometimes called &#x0201c;surface neurofeedback&#x0201d;. It is used to change the amplitude or speed of specific brain waves in particular brain locations to treat ADHD, anxiety, and insomnia.</p></list-item><list-item><p>Slow cortical potential neurofeedback (SCP-NF) improves the direction of slow cortical potentials to treat ADHD, epilepsy, and migraines (<xref rid="B9" ref-type="bibr">Christiansen, Reh, Schmidt, &#x00026; Rief, 2014</xref>).</p></list-item><list-item><p>Low-energy neurofeedback system (LENS) delivers a weak electromagnetic signal to change the patient&#x02019;s brain waves while they are motionless with their eyes closed (<xref rid="B94" ref-type="bibr">Zandi-Mehran, Firoozabadi, &#x00026; Rostami, 2014</xref>). This type of neurofeedback has been used to treat traumatic brain injury, ADHD, insomnia, fibromyalgia, restless legs syndrome, anxiety, depression, and anger.</p></list-item><list-item><p>Hemoencephalographic (HEG) neurofeedback provides feedback on cerebral blood flow to treat migraine (<xref rid="B18" ref-type="bibr">Dias, Van Deusen, Oda, &#x00026; Bonfim, 2012</xref>).</p></list-item><list-item><p>Live Z-score neurofeedback is used to treat insomnia. It introduces the continuous comparison of variables of brain electrical activity to a systematic database to provide continuous feedback (<xref rid="B12" ref-type="bibr">Collura, Guan, Tarrant, Bailey, &#x00026; Starr, 2010</xref>).</p></list-item><list-item><p>Low-resolution electromagnetic tomography (LORE-TA) involves the use of 19 electrodes to monitor phase, power, and coherence (<xref rid="B66" ref-type="bibr">Pascual-Marqui, Michel, &#x00026; Lehmann, 1994</xref>). This neurofeedback technique is used to treat addictions, depression, and obsessive-compulsive disorder.</p></list-item><list-item><p>Functional magnetic resonance imaging (fMRI) is the most recent type of neurofeedback to regulate brain activity based on the activity feedback from deep subcortical areas of the brain (<xref rid="B39" ref-type="bibr">Hurt, Arnold, &#x00026; Lofthouse, 2014</xref>; <xref rid="B50" ref-type="bibr">L&#x000e9;vesque, Beauregard, &#x00026; Mensour, 2006a</xref>).</p></list-item></list></p></sec><sec><title>5. Various Treatment Protocols</title><sec><title>5.1. Alpha protocol</title><p>The alpha wave of the brain is usually associated with alert relaxation (<xref rid="B26" ref-type="bibr">Evans &#x00026; Abarbanel, 1999</xref>). The alpha mood is described as a calm and pleasant situation. All alpha frequencies describe creative activity of the brain, so that it is used in the process of relaxation (relaxing the muscles), which eventually leads to sleep; Such waves emerge and expand rapidly on the skin. The evidence shows that alpha waves increases during meditation.</p><p>Alpha training is usually used for the treatment of various diseases such as pain relief (by 9 Hz simulation), reducing stress and anxiety (by 10 and 30 Hz simulation), memory improvement, improving mental performance, and treatment of brain injuries (by 10.2 Hz simulation). Various studies have been performed on the alpha protocol (<xref ref-type="table" rid="T3">Table 3</xref>). The most common frequency bandwidth for the alpha treatment is 7&#x02013;10 Hz frequency range, which is used for meditation, sleep, reducing stress and anxiety. Also frequency of 10 Hz causes deep muscle relaxation, pain reduction, regulating breathing rate, and decreasing heart rate (<xref rid="B17" ref-type="bibr">Dempster, 2012</xref>; <xref rid="B88" ref-type="bibr">Vernon, 2005</xref>).</p><table-wrap id="T3" orientation="portrait" position="float"><label>Table 3.</label><caption><p>Summary of studies using alpha protocol training.</p></caption><table frame="box" rules="all"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Site of treatment</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Enhance/inhibit</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Number of sessions</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Outcome</bold></th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B1" ref-type="bibr">Allen, Harmon-Jones, &#x00026; Cavender, 2001</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>F<sub>3</sub>, F<sub>4</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance alpha (8&#x02013;13 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">5</td><td align="center" valign="middle" rowspan="1" colspan="1">Impact of self-reported emotional responses and facial EMG</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B2" ref-type="bibr">Angelakis et al., 2007</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>F<sub>O3</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance peak alpha (8&#x02013;13 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">31&#x02013;36</td><td align="center" valign="middle" rowspan="1" colspan="1">Improve cognitive processing speed and executive function</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B33" ref-type="bibr">Hanslmayr, Sauseng, Doppelmayr, Schabus, &#x00026; Klimesch, 2005</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>F<sub>3</sub>, F<sub>4</sub>, F<sub>Z</sub>, P<sub>3</sub>, P<sub>4</sub>, P<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance upper alpha</td><td align="center" valign="middle" rowspan="1" colspan="1">1</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in cognitive performance</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B34" ref-type="bibr">Hardt &#x00026; Kamiya, 1978</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>O<sub>Z</sub>, O<sub>1</sub>, C<sub>3</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance alpha (8&#x02013;13 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">7</td><td align="center" valign="middle" rowspan="1" colspan="1">Decrease anxiety</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B36" ref-type="bibr">Hord, Tracy, Lubin, &#x00026; Johnson, 1975</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>O<sub>2</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance alpha</td><td align="center" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Help maintain performance such as counting and auditory discrimination</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B57" ref-type="bibr">Markovska-Simoska et al., 2008</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>F<sub>3</sub>-O<sub>1</sub>, F<sub>4</sub>-O<sub>2</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance individual upper alpha</td><td align="center" valign="middle" rowspan="1" colspan="1">20</td><td align="center" valign="middle" rowspan="1" colspan="1">Increasing the quality of musical performance</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B58" ref-type="bibr">Martindale &#x00026; Armstrong, 1974</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>O<sub>2</sub>, P<sub>4</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Reduction alpha (7&#x02013;13)</td><td align="center" valign="middle" rowspan="1" colspan="1">1</td><td align="center" valign="middle" rowspan="1" colspan="1">High creative</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B68" ref-type="bibr">Plotkin &#x00026; Rice, 1981</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>O<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance alpha</td><td align="center" valign="middle" rowspan="1" colspan="1">5&#x02013;7</td><td align="center" valign="middle" rowspan="1" colspan="1">Decrease anxiety</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B73" ref-type="bibr">Regestein, Buckland, &#x00026; Pegram, 1973</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">Parietal-occipital</td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance alpha (8&#x02013;13 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">2</td><td align="center" valign="middle" rowspan="1" colspan="1">Decrease sleep need</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B76" ref-type="bibr">Schmeidler &#x00026; Lewis, 1971</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">Right occipital</td><td align="center" valign="middle" rowspan="1" colspan="1">both</td><td align="center" valign="middle" rowspan="1" colspan="1">2</td><td align="center" valign="middle" rowspan="1" colspan="1">Mood changes</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B95" ref-type="bibr">Zoefel, Huster, &#x00026; Herrmann, 2011</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>P<sub>3</sub>, P<sub>Z</sub>, P<sub>4</sub>, O<sub>1</sub>, O<sub>2</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance individual upper alpha</td><td align="center" valign="middle" rowspan="1" colspan="1">5</td><td align="center" valign="middle" rowspan="1" colspan="1">Enhancement of cognitive performance</td></tr></tbody></table><table-wrap-foot><fn id="TFN2"><p>Abbreviation: EMG, Electromyogram.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>5.2 Beta protocol</title><p>Beta activity is a good indicator for mental performance and inappropriate beta activity represents mental and physical disorders like depression, ADHD, and insomnia (<xref rid="B22" ref-type="bibr">Egner &#x00026; Gruzelier, 2004</xref>). Beta brain waves are associated with conscious precision, strong focus, and ability to solve problems. Medications that are used to stimulate alertness and concentration such as Ritalin and Adderall also cause the brain to produce beta brainwaves.</p><p>Beta training is used to improve focus and attention (simulation of increased beta 12-14 Hz), improve the reading ability (simulation of 7&#x02013;9 Hz), and introduce positive changes in school performance. It also improves the computational performance, cognitive processing, reduction of worries, over-thinking, obsessive compulsive disorder (OCD), alcoholism, and insomnia (simulation of 14&#x02013;22 Hz and 12&#x02013;15 Hz). Meanwhile, this type of neurofeedback improves sleep cognitive performance as well as reducing fatigue and stress (simulation of light and sound of beta) (<xref ref-type="table" rid="T4">Table 4</xref>). The beta waves in the range of 12&#x02013;15 Hz (SMR) reduce anxiety, epilepsy, anger and stress (<xref rid="B22" ref-type="bibr">Egner &#x00026; Gruzelier, 2004</xref>; <xref rid="B88" ref-type="bibr">Vernon, 2005</xref>).</p><table-wrap id="T4" orientation="portrait" position="float"><label>Table 4.</label><caption><p>Summary of studies using beta protocol training.</p></caption><table frame="box" rules="all"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Site of treatment</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Enhance/inhibit</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Number of sessions</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Outcome</bold></th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B70" ref-type="bibr">Rasey, Lubar, McIntyre, Zoffuto, &#x00026; Abbott, 1995</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">Central-posterior region (<italic>C<sub>PZ</sub>, P<sub>CZ</sub></italic>)</td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance beta (16&#x02013;22 Hz) and inhibit high theta and low alpha</td><td align="center" valign="middle" rowspan="1" colspan="1">20</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in attentional performance</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B20" ref-type="bibr">Egner &#x00026; Gruzelier, 2001</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">(12&#x02013;15 Hz) at right central region (<italic>C<sub>4</sub></italic>) and (15&#x02013;18 Hz) at the left central region (<italic>C<sub>3</sub></italic>)</td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance low beta (12&#x02013;15 and 15&#x02013;18 Hz), inhibiting theta (4&#x02013;7 Hz) and high beta (22&#x02013;30 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">10</td><td align="center" valign="middle" rowspan="1" colspan="1">Successful enhancement of attentional performance</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B87" ref-type="bibr">Vernon et al., 2003</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance low beta (12&#x02013;15 Hz), inhibiting theta (4&#x02013;8 Hz) and high beta (18&#x02013;23 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">15</td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance cognitive performance</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B20" ref-type="bibr">Egner &#x00026; Gruzelier, 2001</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance SMR (12&#x02013;15 Hz) and inhibit theta (4&#x02013;7 Hz) and high beta (22&#x02013;30 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">10</td><td align="center" valign="middle" rowspan="1" colspan="1">Improve perceptual sensitivity</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B20" ref-type="bibr">Egner &#x00026; Gruzelier, 2001</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance low beta (15&#x02013;18 Hz), inhibiting theta (4&#x02013;7 Hz) and high beta (22&#x02013;30 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">10</td><td align="center" valign="middle" rowspan="1" colspan="1">Increase cortical arousal</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B87" ref-type="bibr">Vernon et al., 2003</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance SMR (12&#x02013;15 Hz) and inhibit theta (4&#x02013;7 Hz) and high beta (18&#x02013;22 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">8</td><td align="center" valign="middle" rowspan="1" colspan="1">Increased recall in semantic working memory</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B55" ref-type="bibr">Lubar, Swartwood, Swart-wood, &#x00026; O&#x02019;Donnell, 1995</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>F<sub>CZ</sub>, C<sub>PZ</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance beta (16&#x02013;20 Hz) and inhibit theta</td><td align="center" valign="middle" rowspan="1" colspan="1">40</td><td align="center" valign="middle" rowspan="1" colspan="1">Reduction of inattention, hyperactivity and impulsivity</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B27" ref-type="bibr">Fuchs, Birbaumer, Lutzenberger, Gruzelier, &#x00026; Kaiser, 2003</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>3</sub>, C<sub>4</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance beta (15&#x02013;18 Hz) and SMR (12&#x02013;15), inhibit theta</td><td align="center" valign="middle" rowspan="1" colspan="1">36</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in attention and intelligence</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B35" ref-type="bibr">Heinrich, Gevensleben, &#x00026; Strehl, 2007</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>4</sub>, C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance SMR and inhibit theta</td><td align="center" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Treatment epilepsy disorder and ADHD</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B35" ref-type="bibr">Heinrich, Gevensleben, &#x00026; Strehl, 2007</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub>, C<sub>3</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance beta (13&#x02013;20 Hz) and inhibit theta</td><td align="center" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Treatment ADHD</td></tr></tbody></table><table-wrap-foot><fn id="TFN3"><p><bold>Abbreviation:</bold> SMR, Sensorimotor rhythm.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>5.3. Alpha/theta protocol</title><p>Alpha/theta is an indicator between awareness and sleep. Alpha/theta training is one of the most popular neurofeedback trainings for stress reduction (<xref rid="B31" ref-type="bibr">Gruzelier, 2009</xref>; <xref rid="B72" ref-type="bibr">Raymond, Varney, Parkinson, &#x00026; Gruzelier, 2005</xref>). Also, this treatment is used for deep levels of depression, addiction, anxiety while it increases creativity, relaxation, musical performance, and promotes healing from trauma reactions. The electrodes are usually located on <italic>O<sub>1</sub>, O<sub>2</sub>, C<sub>Z</sub></italic> and <italic>P<sub>Z</sub></italic>. Alpha/theta frequency range is 7&#x02013;8.5 Hz with the typical value of 7.8 Hz. This treatment is done under eyes-closed condition that increases the ratio of theta to alpha waves using auditory feedback (<xref rid="B16" ref-type="bibr">Demos, 2005</xref>; <xref rid="B21" ref-type="bibr">Egner &#x00026; Gruzelier, 2003</xref>; <xref rid="B85" ref-type="bibr">Thompson &#x00026; Thompson, 2003</xref>). The summary of the studies using alpha/theta protocol training are presented in <xref ref-type="table" rid="T5">Table 5</xref>.</p><table-wrap id="T5" orientation="portrait" position="float"><label>Table 5.</label><caption><p>Summary of studies using alpha/theta protocol training.</p></caption><table frame="box" rules="all"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Site of treatment</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Enhance/inhibit</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Number of sessions</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Outcome</bold></th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B71" ref-type="bibr">Raymond, Sajid, Parkinson, &#x00026; Gruzelier, 2005</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>P<sub>4</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance theta (4&#x02013;7 Hz) over alpha (8&#x02013;11 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">10</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in artistic performance</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B21" ref-type="bibr">Egner &#x00026; Gruzelier, 2003</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>4</sub>, C<sub>3</sub>, P<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance theta (5&#x02013;8 Hz) over alpha (8&#x02013;11 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">10</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement of music performance</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B31" ref-type="bibr">Gruzelier, 2009</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Enhance theta (4&#x02013;7 Hz) over alpha (8&#x02013;11 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">Half-hour sessions, twice a week</td><td align="center" valign="middle" rowspan="1" colspan="1">Enhancement of artistic performance and mood</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B31" ref-type="bibr">Gruzelier, 2009</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Enhance theta (4&#x02013;7 Hz) over alpha (8&#x02013;11 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">10</td><td align="center" valign="middle" rowspan="1" colspan="1">Enhancement of music performance</td></tr></tbody></table></table-wrap></sec><sec><title>5.4. Delta protocol</title><p>Delta waves are the slowest brain waves, which are associated with stages 3 and 4 of the sleep (<xref rid="B81" ref-type="bibr">S&#x000fc;rmeli &#x00026; Ertem, 2007</xref>). They represent increased comfort, reduced pain, and sleep. Thus, they are used to alleviate headaches, traumatic brain injury, learning disorders, and to treatment hard and sharp contraction of muscles (by simulation of 1&#x02013;3 Hz delta wave). They also reduce concerns and improve sleep (<xref rid="B88" ref-type="bibr">Vernon, 2005</xref>).</p></sec><sec><title>5.5. Gamma protocol</title><p>Gamma waves have the highest frequency, and they are associated with cognitive processing and memory (<xref rid="B78" ref-type="bibr">Staufenbiel, Brouwer, Keizer, &#x00026; Van Wouwe, 2014</xref>). Thus, when these waves are faster, the speed of recalling memory is faster. Gamma waves are fast rhythms that are responsible for the brain&#x02019;s neural connections and data transfer to the outside world.</p><p>They are mainly observed in the hippocampus (an area of the brain which is responsible for converting short-term to long-term memory). Also, these rapid rhythms are observed in sudden attacks like seizure and spasm. Hence, gamma training is used for promoting cognition, mental sharpness, brain activity, and problem-solving tasks. It not only improves poor calculation, but also organizes the brain, improves the speed of information processing, short-term memory, and reduces the number of migraine attacks (Hughes, <xref rid="B88" ref-type="bibr">Vernon, 2005</xref>).</p></sec><sec><title>5.6. Theta protocol</title><p>Theta brain waves are related to a number of brain activities such as memory, emotion, creativity, sleep, meditation, and hypnosis. These waves are also associated with the first phase of sleep when the sleep is light and the person easily wakes up. Theta treatment reduces anxiety, depression, day dreaming, distractibility, emotional disorders, and ADHD (<xref rid="B5" ref-type="bibr">Beatty, Greenberg, Deibler, &#x00026; O&#x02019;Hanlon, 1974</xref>; <xref rid="B88" ref-type="bibr">Vernon, 2005</xref>).</p></sec><sec><title>5.7. Low frequency versus high frequency training</title><p>Basically, there are two classical directions in neurofeedback training. It is either focusing on low frequencies (alpha or theta) to strengthen relaxation and focus (<xref rid="B31" ref-type="bibr">Gruzelier, 2009</xref>) or emphasizing on high frequencies (low beta, beta, and theta) for reinforcing activation, organizing, and inhibiting distractibility (<xref rid="B74" ref-type="bibr">Ros et al., 2009</xref>).</p><p>A suitable comparison between these two directions could be found at <xref rid="B11" ref-type="bibr">Thomas F. Collura (2000)</xref>, and <xref rid="B46" ref-type="bibr">Kropotov (2010)</xref> studies. For example, in the former strategy eyes are closed while in the later one, eyes are open. Also, children are not involved in the first strategy while children and adult could undergo the second training procedure.</p></sec></sec><sec><title>6. Clinical Applications of Neurofeedback Training in the Treatment of Diseases and Disorders</title><p>Antisocial behavior of individuals, have an undesirable impact on the society. In recent years, with advances in brain science, the cause of abnormal brain function and mental illness has been attributed to the low activity of the anterior brain lobe that presents itself in different types of psychological damages (<xref rid="B29" ref-type="bibr">Gil, Li, &#x00026; Lee, 2009</xref>). The neuro-feedback training has been widely used in the treatment of many diseases and disorders; some of which are mentioned below.</p><sec><title>6.1. Attention deficit/hyperactivity disorder</title><p>Evidence suggests that the malfunction of the right frontal lobe, is the cause of attention deficit/hyperactivity disorder (ADHD) (<xref rid="B40" ref-type="bibr">Hynd et al., 1991</xref>). The resulting symptoms are inattention, distractibility, hyperactivity, and extreme dispassionateness. Neurofeedback therapy is a rehabilitation approach for its treatment. Its goal is to normalize the behavior without dependence on medications or behavioral therapy. For a long time, such drugs as Ritalin, Concerta, and Dexedrine have been used for treating ADHD. But, recent research showed that these drugs do not have any effect on the clinical treatment of ADHD on some of children. Also, these drugs have the side effects such as anxiety, irritability, abdominal pain, decreased appetite, insomnia, and headache. However, using neurofeedback is associated with their long-term improvement (<xref rid="B93" ref-type="bibr">Yan et al., 2008</xref>). Studies showed that people with ADHD disorder have slower brain wave activity (theta) and less beta activity compared to normal people.</p><p>In ADHD, the goal is to decrease the brain activity in the theta band and to increase its activity in the beta band (or to decrease theta/beta ratio) at the vertex (electrode) (<xref rid="B35" ref-type="bibr">Heinrich, Gevensleben, &#x00026; Strehl, 2007</xref>). This treatment is effective in reducing hyperactivity; Increasing focus, grades, and parental consent from children&#x02019;s behavior; and improving indicators of sustained attention (<xref rid="B30" ref-type="bibr">Gnecchi, Herrera Garcia, &#x00026; de Dios Ortiz Alvarado, 2007</xref>; <xref rid="B43" ref-type="bibr">Karimi, Haghshenas, &#x00026; Rostami, 2011</xref>; <xref rid="B91" ref-type="bibr">Wang &#x00026; Sourina, 2013</xref>). The studies on the neurofeedback treatment of ADHD in children are listed in <xref ref-type="table" rid="T6">Table 6</xref>. According to this Table, theta/beta protocol and the area for locating the EEG electrode are the most commonly used neurofeedback strategy in ADHD treatment.</p><table-wrap id="T6" orientation="portrait" position="float"><label>Table 6.</label><caption><p>Summary of neurofeedback treatment studies on ADHD.</p></caption><table frame="box" rules="all"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Site of treatment</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Neurofeedback Protocol</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Number of sessions</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>The age range (year)</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Outcome</bold></th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B52" ref-type="bibr">Linden, Habib, &#x00026; Radojevic, 1996</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance beta Inhibit theta</td><td align="center" valign="middle" rowspan="1" colspan="1">20</td><td align="center" valign="middle" rowspan="1" colspan="1">5&#x02013;15</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in mental functions and accuracy</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B65" ref-type="bibr">Palsson et al., 2001</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Theta/beta, SMR</td><td align="center" valign="middle" rowspan="1" colspan="1">40</td><td align="center" valign="middle" rowspan="1" colspan="1">9&#x02013;13</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in effects of ADHD</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B63" ref-type="bibr">Orlandi, 2004</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Theta/beta, SMR</td><td align="center" valign="middle" rowspan="1" colspan="1">40</td><td align="center" valign="middle" rowspan="1" colspan="1">9&#x02013;11</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in attention, focus and memory</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B51" ref-type="bibr">L&#x000e9;vesque, Beauregard, &#x00026; Mensour, 2006b</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Theta/beta, SMR</td><td align="center" valign="middle" rowspan="1" colspan="1">40</td><td align="center" valign="middle" rowspan="1" colspan="1">8&#x02013;12</td><td align="center" valign="middle" rowspan="1" colspan="1">Improving performance of anterior cingulate cortex</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B49" ref-type="bibr">Leins et al., 2007</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Theta/beta</td><td align="center" valign="middle" rowspan="1" colspan="1">30</td><td align="center" valign="middle" rowspan="1" colspan="1">8&#x02013;13</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in attention, hyperactivity and distraction</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B28" ref-type="bibr">Gevensleben et al., 2009</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Theta/beta</td><td align="center" valign="middle" rowspan="1" colspan="1">18</td><td align="center" valign="middle" rowspan="1" colspan="1">9&#x02013;12</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in combined treatment of neurofeedback protocols</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B67" ref-type="bibr">Perreau-Linck, Lessard, L&#x000e9;vesque, &#x00026; Beauregard, 2010</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>C<sub>Z</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Theta/SMR</td><td align="center" valign="middle" rowspan="1" colspan="1">40</td><td align="center" valign="middle" rowspan="1" colspan="1">8&#x02013;13</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in the effects of ADHD</td></tr></tbody></table><table-wrap-foot><fn id="TFN4"><p><bold>Abbreviations:</bold> ADHA: Attention deficit hyperactivity disorder, SMR: Sensorimotor rhythm.</p></fn></table-wrap-foot></table-wrap><sec><title>6.1.1. Schizophrenia</title><p>Schizophrenia is known as the most unbearable mental illness (<xref rid="B83" ref-type="bibr">Surmeli, Ertem, Eralp, &#x00026; Kos, 2012</xref>). People with schizophrenia have the illusion of auditory disorders, restlessness, non-flexible muscles, confusion, delirium, and depression. Based on several papers on the treatment of schizophrenia, Minnesota Multiphasic Personality Inventory (MMPI) and Test of Variables of Attention (TOVA), positive effect of neurofeedback training on the treatment of this disease is expressed in such a way that the person with schizophernia is able to adjust his/her brain activity on specific frequencies (<xref rid="B60" ref-type="bibr">McCarthy-Jones, 2012</xref>; <xref rid="B83" ref-type="bibr">Surmeli, Ertem, Eralp, &#x00026; Kos, 2012</xref>; <xref rid="B92" ref-type="bibr">Wenya et al., 2012</xref>; <xref rid="B29" ref-type="bibr">Gil, Li, &#x00026; Lee, 2009</xref>).</p></sec><sec><title>6.1.2. Insomnia</title><p>Insomnia is known as an epidemic disorder. The first change observed in patients, who are treated with neuro-feedback training is the change and improvement in their sleep pattern. Hence, the neurofeedback training is used in the treatment of sleep disorders (<xref rid="B32" ref-type="bibr">Hammer, Colbert, Brown, &#x00026; Ilioi, 2011</xref>). For example, the following process is used to improve sleep. One electrode is placed on and the treatment is done for 30 minutes at a frequency of 15&#x02013;18 Hz. This method makes the waking state, alert and active and assist people in waking up faster. The calmness treatment is done at frequencies of 12&#x02013;15 Hz and in location. Using neurofeedback helps the people who normally take about an hour in order to prepare their body and mind for sleep, go to sleep faster.</p></sec><sec><title>6.1.3. Learning disabilities, dyslexia and dyscalculia</title><p>Neurofeedback has created a big change in the treatment of these disorders. These disorders are more common at school age and patients with dyslexia have trouble in reading and spelling the characters (<xref rid="B6" ref-type="bibr">Breteler, Arns, Peters, Giepmans, &#x00026; Verhoeven, 2010</xref>). People having dyscalculia, are unable to understand and solve math problems. These disorders are treated with increased alpha wave activity using neurofeedback (<xref rid="B91" ref-type="bibr">Wang &#x00026; Sourina, 2013</xref>).</p></sec><sec><title>6.1.4. Drug addiction</title><p>Studies have shown that neurofeedback training is a good way to quit drug addiction whereas long-term use of the drug has a profound effect on the individual&#x02019;s EEG. Temptation and craving of drugs could be reduced by neurofeedback in patients addicted to cocaine (<xref rid="B37" ref-type="bibr">Horrell et al., 2010</xref>). This treatment can also be used to treat alcoholism and addiction to computer games (<xref rid="B62" ref-type="bibr">Moradi et al., 2011</xref>).</p></sec><sec><title>6.1.5. Enhancing the performance of athletes, artists, and surgeons</title><p>Studies have shown that professional athletes have different patterns of brain activity compared to those of the beginners. Recognition of the status of the professional&#x02019;s EEG before and during performance, provides a rationale for the use of neurofeedback training to create or emulate these patterns and to improve the performance of unprofessional individuals (<xref rid="B88" ref-type="bibr">Vernon, 2005</xref>). In fact the purpose of neurofeedback on athletes is improving the athlete&#x02019;s psychomotor and self-regulation ability, their confidence, and subsequent performance in important competitions of the year (<xref rid="B19" ref-type="bibr">Edmonds &#x00026; Tenenbaum, 2011</xref>).</p></sec><sec><title>6.1.6. Autistic spectrum disorder</title><p>Autistic spectrum disorder (ASD) is a neurodevelopmental disorder with challenges that maintain in adulthood. Children with autism have difficulty in functions such as social interaction, verbal and nonverbal communication, behavior and interests. ASD may be associated with emotional problems, mental retardation, or seizure disorders. These children may also have extreme sensitivity to sounds and smells. Also, children with autism may show idiosyncratic behaviors, obsessive rumination, poor social interrelatedness, and flat affect. Researchers found out that individuals with autism differ from normative samples with regard to impediments in empathy or theory of mind (TOM) tasks, weak central coherence, and executive functioning.</p><p>One of the primary symptoms of ASD is a qualitative impairment in social interactions related to mutual interest, understanding others&#x02019; intentions, empathy, emotional reciprocity, and the underlying concepts of TOM. Empathizing deficits are consistent with problems in reciprocating communication, difficulty in predicting thoughts and feelings of others, interpreting abstract emotions of others, and an appearance of social insensitivity. Individuals with autism are also often seen to have interest in system details and pursue careers in engineering, construction, clocks, machines, puzzles, or computers, which are often obsessive interests in ASD (<xref rid="B56" ref-type="bibr">Lucido, 2012</xref>).</p><p>There are several diagnostic tools designed to show abnormalities in brain&#x02019;s function for autism. They are (1) High-beta activity related to anxiety; (2) The high activity of delta/theta corresponding with the slow cortex, lack of attention, impulsivity and hyperactivity; and (3) Abnormal EEG/seizure activity. High beta type is the most common one seen among children with ASD (approximately 50&#x02013;60% of individuals with ASD) (<xref rid="B10" ref-type="bibr">Coben, Linden, &#x00026; Myers, 2010</xref>; <xref rid="B45" ref-type="bibr">Kouijzer, van Schie, de Moor, Gerrits, &#x00026; Buitelaar, 2010</xref>). The goal of neurofeedback in children with autism is to inhibit theta-alpha ratio while enhancing beta wave. Efficacy of neurofeedback in children diagnosed with autism has been well researched in qualitative case studies summarized in <xref ref-type="table" rid="T7">Table 7</xref>.</p><table-wrap id="T7" orientation="portrait" position="float"><label>Table 7.</label><caption><p>Summary of neurofeedback treatment studies on autistic spectrum disorder (ASD).</p></caption><table frame="box" rules="all"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Site of treatment</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Enhance/inhibit</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Number of sessions</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Outcome</bold></th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B15" ref-type="bibr">Cowan &#x00026; Markham, 1994</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">Parietal and occipital lobes</td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance (16&#x02013;20 HZ) Inhibit (4&#x02013;10 HZ)</td><td align="center" valign="middle" rowspan="1" colspan="1">21</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in focus, attention, and relax</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B85" ref-type="bibr">Thompson &#x00026; Thompson, 2003</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">Sensorimotor cortex (<italic>C<sub>2</sub>, C<sub>4</sub></italic>)</td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance (13&#x02013;15 Hz) Inhibit (3&#x02013;10 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">40&#x02013;100</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in neuropsychological functioning, improved educational performance, decrease anxiety and impulsivity</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B77" ref-type="bibr">Sichel, Fehmi, &#x00026; Goldstein, 1995</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">Sensorimotor strip and parietal lobe</td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance SMR (12&#x02013;15 Hz) Inhibit theta (4&#x02013;8 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">31</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in sleep, social behaviors Increase in appropriate eye contact Reduction in self-simulation</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B64" ref-type="bibr">Othmer, 2007</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>P<sub>4</sub>, T<sub>4</sub>, T<sub>3</sub>, F<sub>2</sub>, F<sub>P1</sub></italic></td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance SMR (12&#x02013;15 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">28&#x02013;100</td><td align="center" valign="middle" rowspan="1" colspan="1">Decreased need for special education services and autism symptoms</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B84" ref-type="bibr">Thompson, Thompson, &#x00026; Reid, 2010</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">Central sites</td><td align="center" valign="middle" rowspan="1" colspan="1">Enhance SMR (12&#x02013;15 or 13&#x02013;15 Hz) Inhibit theta (3&#x02013;7 Hz) and beta (23&#x02013;35 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">40&#x02013;60</td><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in intelligence testing and psychological assessments</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B15" ref-type="bibr">Cowan &#x00026; Markham, 1994</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Enhance beta (16&#x02013;20 Hz) Inhibit theta-alpha (4&#x02013;10 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Improvement in autistic behaviors, social, academic functioning and attention</td></tr></tbody></table><table-wrap-foot><fn id="TFN5"><p><bold>Abbreviation:</bold> SMR: Sensorimotor rhythm.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>6.1.8. Epilepsy</title><p>In about one-third of patients with epilepsy, medical treatment is ineffective. Neurofeedback training was shown to be a good alternative treatment for these patients. Research has been focused on increasing SMR (12&#x02013;15 Hz) and synchronous or asynchronous reduction of slow rhythms (4&#x02013;7 Hz) for diagnosing this disorder. Also, observing low-amplitude gamma wave after surgery is a good sign for the improvement of epilepsy. The results of studies on the treatment of epilepsy by neurofeedback indicated that continuous SMR treatment reduces the rate of seizures in severe and uncontrolled epilepsy (<xref ref-type="table" rid="T8">Table 8</xref>) (Hughes et al., 2009; <xref rid="B89" ref-type="bibr">Walker, 2010</xref>).</p><table-wrap id="T8" orientation="portrait" position="float"><label>Table 8.</label><caption><p>Summary of neurofeedback treatment studies on epilepsy that the results was the remission.</p></caption><table frame="box" rules="all"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Neurofeedback protocol</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Measuring results</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>Length of treatment</bold></th><th align="center" valign="middle" rowspan="1" colspan="1"><bold>The age range (year)</bold></th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B80" ref-type="bibr">Sterman, Macdonald, &#x00026; Stone, 1974</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">SMR (11&#x02013;15 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">Seizure frequency, EEG</td><td align="center" valign="middle" rowspan="1" colspan="1">6&#x02013;18 months</td><td align="center" valign="middle" rowspan="1" colspan="1">6&#x02013;46</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B42" ref-type="bibr">Kaplan, 1975</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">SMR</td><td align="center" valign="middle" rowspan="1" colspan="1">The number of seizures per day</td><td align="center" valign="middle" rowspan="1" colspan="1">20&#x02013;25 weeks</td><td align="center" valign="middle" rowspan="1" colspan="1">20&#x02013;30</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B53" ref-type="bibr">Lubar &#x00026; Bahler, 1976</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">SMR</td><td align="center" valign="middle" rowspan="1" colspan="1">The number of seizures</td><td align="center" valign="middle" rowspan="1" colspan="1">80&#x02013;260 days</td><td align="center" valign="middle" rowspan="1" colspan="1">12&#x02013;29</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B47" ref-type="bibr">Kuhlman &#x00026; Allison, 1977</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">SMR (4&#x02013;9 Hz)</td><td align="center" valign="middle" rowspan="1" colspan="1">The number of seizures, EEG</td><td align="center" valign="middle" rowspan="1" colspan="1">24 sessions</td><td align="center" valign="middle" rowspan="1" colspan="1">17&#x02013;42</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B79" ref-type="bibr">Sterman &#x00026; Macdonald, 1978</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">SMR</td><td align="center" valign="middle" rowspan="1" colspan="1">The number of seizures per month, EEG</td><td align="center" valign="middle" rowspan="1" colspan="1">12 months</td><td align="center" valign="middle" rowspan="1" colspan="1">10&#x02013;40</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B14" ref-type="bibr">Cott, Pavloski, &#x00026; Black, 1979</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">SMR</td><td align="center" valign="middle" rowspan="1" colspan="1">The number of seizures per month</td><td align="center" valign="middle" rowspan="1" colspan="1">210 days</td><td align="center" valign="middle" rowspan="1" colspan="1">16&#x02013;31</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B69" ref-type="bibr">Quy, Hutt, &#x00026; Forrest, 1979</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">SMR</td><td align="center" valign="middle" rowspan="1" colspan="1">The number of seizures per week, EEG</td><td align="center" valign="middle" rowspan="1" colspan="1">12 months</td><td align="center" valign="middle" rowspan="1" colspan="1">23&#x02013;49</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B54" ref-type="bibr">Lubar et al., 1981</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">SMR</td><td align="center" valign="middle" rowspan="1" colspan="1">Seizure frequency, EEG</td><td align="center" valign="middle" rowspan="1" colspan="1">10 months</td><td align="center" valign="middle" rowspan="1" colspan="1">13&#x02013;52</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">(<xref rid="B86" ref-type="bibr">Tozzo, Elfner, &#x00026; May, 1988</xref>)</td><td align="center" valign="middle" rowspan="1" colspan="1">SMR</td><td align="center" valign="middle" rowspan="1" colspan="1">The number of seizures</td><td align="center" valign="middle" rowspan="1" colspan="1">5 weeks</td><td align="center" valign="middle" rowspan="1" colspan="1">18&#x02013;29</td></tr></tbody></table><table-wrap-foot><fn id="TFN6"><p><bold>Abbreviation:</bold> EEG, Electroencephalogram, SMR, Sensorimotor rhythm.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>6.1.9. Depression</title><p>Depression is associated with hypometabolism in the cingulate and occasionally in the frontal cortex, insula, anterior temporal cortices, amygdala, basal ganglia, and thalamus. Along with the frontal electrophysiology findings in depression, there seems to be an inverse relationship between frontal alpha asymmetry and parietal asymmetries. More specifically, depressed patients who do not have significant anxiety, appear to have decreased right parietal activation (alpha wave at P<sub>4</sub>). Neurofeedback training is used to increase alpha and theta, while inhibit faster beta frequencies, produces significant improvements in depression (<xref rid="B7" ref-type="bibr">Budzynski, 2009a</xref>; <xref rid="B39" ref-type="bibr">Hurt, Arnold, &#x00026; Lofthouse, 2014</xref>).</p></sec><sec><title>6.1.10. Anxiety</title><p>In clinical medicine, anxiety is often defined, at least in part, as high level of muscle tension. Researchers found out that decreasing frontal electromyogram (EMG) levels by EMG biofeedback could alleviate both generalized and specific anxiety patterns. It was believed that anxiety inhibits alpha waves, so alpha training would relieve the anxiety (<xref rid="B7" ref-type="bibr">Budzynski, 2009a</xref>; <xref rid="B16" ref-type="bibr">Demos, 2005</xref>; <xref rid="B61" ref-type="bibr">Moore, 2000</xref>).</p></sec><sec><title>6.1.11. Pain management</title><p>Pain is considered a symptom associated with physical damage, purportedly having an objective element connected with the sensation. Neurofeedback methodology proposes that by teaching self-regulation, a patient can reduce or even eliminate pain sensations. Studies suggested that brain changes its functional organization at the level of the somatosensory cortex in chronic pain patients. Researchers recommend the use of biofeedback/neurofeedback for pain management. Biofeedback protocols are designed to address the peripheral correlation of arousal, such as temperature, heart rate variability, and muscle tension while neurofeedback directly affects the processing of pain perception (<xref rid="B41" ref-type="bibr">Ibric &#x00026; Dragomirescu, 2009</xref>).</p></sec></sec><sec><title>6.2. Other uses of neurofeedback</title><p>Other applications of neurofeedback include the recovery from an injury and stroke problems, improvement of memory by increasing alpha activity (<xref rid="B23" ref-type="bibr">Escolano, Aguilar, &#x00026; Minguez, 2011</xref>; <xref rid="B44" ref-type="bibr">Klimesch, 1999</xref>; <xref rid="B88" ref-type="bibr">Vernon, 2005</xref>; <xref rid="B92" ref-type="bibr">Wenya et al., 2012</xref>), treatment of headache and migraines (<xref rid="B90" ref-type="bibr">Walker, 2011</xref>), distraction, confusion, attention problems, withdrawal (<xref rid="B23" ref-type="bibr">Escolano, Aguilar, &#x00026; Minguez, 2011</xref>; <xref rid="B30" ref-type="bibr">Gnecchi, Herrera Garcia, &#x00026; de Dios Ortiz Alvarado, 2007</xref>), health promotion (<xref rid="B24" ref-type="bibr">Escolano, Olivan, Lopez-del-Hoyo, Garcia-Campayo, &#x00026; Minguez, 2012</xref>), treatment of mental illness (<xref rid="B35" ref-type="bibr">Heinrich, Gevensleben, &#x00026; Strehl, 2007</xref>), eating disorders (<xref rid="B3" ref-type="bibr">Bartholdy, Musiat, Campbell, &#x00026; Schmidt, 2013</xref>) Parkinson disease (<xref rid="B75" ref-type="bibr">Rossi-Izquierdo et al., 2013</xref>), fibromyalgia, restless legs syndrome (<xref rid="B39" ref-type="bibr">Hurt, Arnold, &#x00026; Loft-house, 2014</xref>), obsessive compulsive disorder (<xref rid="B82" ref-type="bibr">S&#x000fc;rmeli &#x00026; Ertem, 2011</xref>), and obsession (<xref rid="B57" ref-type="bibr">Markovska-Simoska, Pop-Jordanova, &#x00026; Georgiev, 2008</xref>; <xref rid="B82" ref-type="bibr">Surmeli &#x00026; Ertem, 2011</xref>). Meanwhile, artists and surgeons use neurofeedback to improve their music performance (<xref rid="B57" ref-type="bibr">Markovska-Simoska et al., 2008</xref>) and microsurgical operations (<xref rid="B74" ref-type="bibr">Ros et al., 2009</xref>), respectively.</p><p>Alpha-EEG/EMG biofeedback is capable of increasing voluntary self-regulation and the quality of musical performance (<xref rid="B8" ref-type="bibr">Budzynski, 2009b</xref>; <xref rid="B57" ref-type="bibr">Markovska-Simoska et al., 2008</xref>).</p></sec></sec><sec><title>7. Neurofeedback Softwares</title><p>Brain-computer interface systems (BCI) are widely used in clinical and research applications. BCI can propose a new aim for playing videogames or interacting with 3D virtual environments (VE). Interaction with VE includes tasks such as navigating to modify the selection and manipulation of virtual objects.</p><p>There are several examples of VE feedback games used in sports, puzzles, or trainings. Nowadays, many universities and laboratories are trying to provide more interactions with the virtual world through the BCI. Here, we describe some of the BCI VE feedback software.</p><p>Researchers at University College Dublin and Media Lab Europe manufactured Mind Balance videogame that uses BCI to interact with the virtual world. The game was designed to move an animated character in a 3D virtual environment. The purpose is to control the balance of an animated character on a thin rope, based on the EEG signals of a player.</p><p>In the other computer game, designed jointly by the University College London and Graz University of Technology, a disabled person in a virtual street controls the movements of the simulated wheelchair (GRAZ-BC). These results indicated that a disabled person sitting in a wheelchair can control his/her movement in the VE using asynchronous BCI based on signal EEG.</p><p>University of Tokyo performed several tests using a &#x0201c;virtual joystick&#x0201d; to navigate 3-D VE. Researchers provided two virtual buttons on the left and right sides of the VE. The participants were asked to gaze at either side to move the camera to the other side. The detection enabled the system to identify the button at which the user gazed.</p><p>Researchers at the University of Tokyo also worked on a system to keep the alertness level of car drivers. In this project, the driver&#x02019;s state of concentration was illustrated when placed in a virtual driving environment. Accordingly, the BCI hearing system actively monitors the state of alertness of drivers and warns them when loss of consciousness occurs.</p><p>In the field of promotion of neurofeedback in VE, INRIA designed several BCI systems. In one of them, called &#x0201c;use-the-force&#x0201d;, subjects were asked to control the launch of a virtual spaceship by using real or imagined foot movements. They studied the response of the subjects in challenging situations (<xref rid="B48" ref-type="bibr">Lecuyer et al., 2008</xref>). In another system (<xref rid="B30" ref-type="bibr">Gnecchi, Herrera Garcia, &#x00026; de Dios Ortiz Alvarado, 2007</xref>), neurofeedback was examined in order to diagnose ADHD and hyperactivity disorder. In this system, there are two graphical interfaces.</p><p>In the first interface, when the ratio of beta/theta goes higher than a predetermined threshold, dolphins are moving to an area where there are fish. Having maintained the focus, dolphin intercepts a fish. When the number of trapped fish increases, it reflects advances in process of treatment. In the second graphical interface, the speed of a racing car increases when subject&#x02019;s attention improved. There are various available neurofeedback softwares in the market whose information such as operating systems, developers, and supported devices could be assessed via Wikipedia (<xref rid="B13" ref-type="bibr">&#x0201c;Comparison of neurofeedback software&#x0201d;, April 11, 2015</xref>).</p></sec><sec><title>8. Conclusion</title><p>In this paper, we reviewed the clinical applications of neurofeedback, various protocols of treatment and some of the systems designs by BCI and VR technology.</p><p>In neurofeedback, EEG is usually recorded, and various brain-activity components are extracted and feedbacked to subjects. During this procedure, subjects become aware of the changes that occur during training and are able to assess their progress in order to achieve optimal performance. Electrode placement is performed according to specific brain functions and specific symptoms. Considering information about these skull regions, the entire treatment process is simplified. There are several protocols in neurofeedback training, but alpha, beta, theta, and alpha/theta protocol are the most commonly used ones.</p><p>BCI is an EEG-based communication device. VE is a human-computer interface system with which users can virtually move their viewpoint freely in real time. The purpose of using VE is to construct a virtual environment with natural interactivity and to create a real sensation from multimodality. Three-dimensional VR is much more attractive and interesting than most of two-dimensional environments.</p><p>To date, many studies have been conducted on the neuro-feedback therapy and its effectiveness on the treatment of many diseases. However, there are some methodological limitations and clinical ambiguities. For example, considering the alpha treatment protocols, there are some issues to deal with such as how many sessions are needed before participants can learn to exert an alert control over their own alpha waves, or how many sessions are needed before such training procedures produce the expected effect on the optimal performance, and how long the desired effects last without feedback (long-term effects). Thus, it is necessary to provide standard protocols to perform neurofeedback.</p><p>Similar to other treatments, neurofeedback has its own pros and cons. Although it is a safe and non-invasive procedure that showed improvement in the treatment of many problems and disorders such as ADHD, anxiety, depression, epilepsy, ASD, insomnia, drug addiction, schizophrenia, learning disabilities, dyslexia and dyscalculia, its validity has been questioned in terms of conclusive scientific evidence of its effectiveness. Moreover, it is an expensive procedure which is not covered by many insurance companies. It is also time-consuming and its benefits are not long-lasting. Finally, it might take several months to see the desired improvements (<xref rid="B59" ref-type="bibr">Mauro &#x00026; Cermak, 2006</xref>).</p></sec></body><back><fn-group><fn><p><bold>Conflicts of Interest:</bold></p><p>None declared.</p></fn></fn-group><ref-list><title>References</title><ref id="B1"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Allen</surname><given-names>J. J.</given-names></name><name><surname>Harmon-Jones</surname><given-names>E.</given-names></name><name><surname>Cavender</surname><given-names>J. H.</given-names></name></person-group> (
+<year>2001</year>). 
+<article-title>Manipulation of frontal EEG asymmetry through biofeedback alters self-reported emotional responses and facial EMG</article-title>. 
+<source>Psychophysiology</source>, 
+<volume>38</volume>(
+<issue>4</issue>), 
+<fpage>685</fpage>&#x02013;
+<lpage>693</lpage>.
+<pub-id pub-id-type="pmid">11446582</pub-id></mixed-citation></ref><ref id="B2"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Angelakis</surname><given-names>E.</given-names></name><name><surname>Stathopoulou</surname><given-names>S.</given-names></name><name><surname>Frymiare</surname><given-names>J. L.</given-names></name><name><surname>Green</surname><given-names>D. L.</given-names></name><name><surname>Lubar</surname><given-names>J. F.</given-names></name><name><surname>Kounios</surname><given-names>J.</given-names></name></person-group> (
+<year>2007</year>). 
+<article-title>EEG neurofeedback: a brief overview and an example of peak alpha frequency training for cognitive enhancement in the elderly</article-title>. 
+<source>Clinical Neuropsychologist</source>, 
+<volume>21</volume>(
+<issue>1</issue>), 
+<fpage>110</fpage>&#x02013;
+<lpage>129</lpage>.
+<pub-id pub-id-type="pmid">17366280</pub-id></mixed-citation></ref><ref id="B3"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bartholdy</surname><given-names>S.</given-names></name><name><surname>Musiat</surname><given-names>P.</given-names></name><name><surname>Campbell</surname><given-names>I. C.</given-names></name><name><surname>Schmidt</surname><given-names>U.</given-names></name></person-group> (
+<year>2013</year>). 
+<article-title>The potential of neurofeedback in the treatment of Eating Disorders: A Review of the Literature</article-title>. 
+<source>European Eating Disorders Review</source>, 
+<volume>21</volume>(
+<issue>6</issue>), 
+<fpage>456</fpage>&#x02013;
+<lpage>463</lpage>.
+<pub-id pub-id-type="pmid">24115445</pub-id></mixed-citation></ref><ref id="B4"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bauer</surname><given-names>H.</given-names></name><name><surname>Pllana</surname><given-names>A.</given-names></name></person-group> (
+<year>2014</year>). 
+<article-title>EEG-based local brain activity feedback training-tomographic neurofeedback</article-title>. 
+<source>Frontiers Human Neuroscience</source>, 
+<volume>8</volume>, 
+<fpage>1005</fpage>. doi: 
+<pub-id pub-id-type="doi">10.3389/fnhum.2014.01005</pub-id>.
+</mixed-citation></ref><ref id="B5"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beatty</surname><given-names>J.</given-names></name><name><surname>Greenberg</surname><given-names>A.</given-names></name><name><surname>Deibler</surname><given-names>W. P.</given-names></name><name><surname>O&#x02019;Hanlon</surname><given-names>J. F.</given-names></name></person-group> (
+<year>1974</year>). 
+<article-title>Operant control of occipital theta rhythm affects performance in a radar monitoring task</article-title>. 
+<source>Science</source>, 
+<volume>183</volume>(
+<issue>4127</issue>), 
+<fpage>871</fpage>&#x02013;
+<lpage>873</lpage>.
+<pub-id pub-id-type="pmid">4810845</pub-id></mixed-citation></ref><ref id="B6"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Breteler</surname><given-names>M. H.</given-names></name><name><surname>Arns</surname><given-names>M.</given-names></name><name><surname>Peters</surname><given-names>S.</given-names></name><name><surname>Giepmans</surname><given-names>I.</given-names></name><name><surname>Verhoeven</surname><given-names>L.</given-names></name></person-group> (
+<year>2010</year>). 
+<article-title>Improvements in spelling after QEEG-based neurofeedback in dyslexia: a randomized controlled treatment study</article-title>. 
+<source>Applied Psychophysiol Biofeedback</source>, 
+<volume>35</volume>(
+<issue>1</issue>), 
+<fpage>5</fpage>&#x02013;
+<lpage>11</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/s10484-009-9105-2</pub-id>.
+</mixed-citation></ref><ref id="B7"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Budzynski</surname><given-names>T.</given-names></name></person-group> (
+<year>2009a</year>). 
+<source>Introduction to quantitative EEG and neurofeedback: Advanced theory and applications</source> (
+<edition>2nd ed.</edition>). 
+<publisher-loc>Amsterdam</publisher-loc>, 
+<publisher-name>Elsevier</publisher-name>: <publisher-name>Academic Press</publisher-name>.
+</mixed-citation></ref><ref id="B8"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Budzynski</surname><given-names>T.</given-names></name></person-group> (
+<year>2009b</year>). 
+<source>Introduction to quantitative EEG and neurofeedback: Advanced theory and applications</source> (
+<edition>2nd ed.</edition>). 
+<publisher-loc>Amsterdam</publisher-loc>, 
+<publisher-name>Elsevier</publisher-name>: <publisher-name>Academic Press</publisher-name>.
+</mixed-citation></ref><ref id="B9"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Christiansen</surname><given-names>H.</given-names></name><name><surname>Reh</surname><given-names>V.</given-names></name><name><surname>Schmidt</surname><given-names>M. H.</given-names></name><name><surname>Rief</surname><given-names>W.</given-names></name></person-group> (
+<year>2014</year>). 
+<article-title>Slow cortical potential neurofeedback and self-management training in outpatient care for children with ADHD: Study protocol and first preliminary results of a randomized controlled trial</article-title>. 
+<source>Frontiers Human Neuroscience</source>, 
+<volume>8</volume>, 
+<fpage>943</fpage>. doi: 
+<pub-id pub-id-type="doi">10.3389/fnhum.2014.00943</pub-id>.
+</mixed-citation></ref><ref id="B10"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Coben</surname><given-names>R.</given-names></name><name><surname>Linden</surname><given-names>M.</given-names></name><name><surname>Myers</surname><given-names>T. E.</given-names></name></person-group> (
+<year>2010</year>). 
+<article-title>Neurofeedback for autistic spectrum disorder: A review of the literature</article-title>. 
+<source>Applied Psychophysiol Biofeedback</source>, 
+<volume>35</volume>(
+<issue>1</issue>), 
+<fpage>83</fpage>&#x02013;
+<lpage>105</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/s10484-009-9117-y</pub-id>.
+</mixed-citation></ref><ref id="B11"><mixed-citation publication-type="web">
+<person-group person-group-type="author"><name><surname>Collura</surname><given-names>T. F.</given-names></name></person-group> (
+<year>2000</year>). 
+<source>Practical Issues Concerning EEG Biofeedback Devices, Protocols and Methods</source> (Doctoral Dissertation). Retrieved from <ext-link ext-link-type="uri" xlink:href="http://openeeg.sourceforge.net/arch/att-0944/01-part">http://openeeg.sourceforge.net/arch/att-0944/01-part</ext-link>.
+</mixed-citation></ref><ref id="B12"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Collura</surname><given-names>T. F.</given-names></name><name><surname>Guan</surname><given-names>J.</given-names></name><name><surname>Tarrant</surname><given-names>J.</given-names></name><name><surname>Bailey</surname><given-names>J.</given-names></name><name><surname>Starr</surname><given-names>F.</given-names></name></person-group> (
+<year>2010</year>). 
+<article-title>EEG biofeedback case studies using live Z-score training and a normative database</article-title>. 
+<source>Journal of Neurotherapy</source>, 
+<volume>14</volume>(
+<issue>1</issue>), 
+<fpage>22</fpage>&#x02013;
+<lpage>46</lpage>.
+</mixed-citation></ref><ref id="B13"><mixed-citation publication-type="web">
+<person-group person-group-type="author"><collab>Comparison of neurofeedback software</collab></person-group> (
+<year>2015</year>, 
+<month>4</month>
+<day>11</day>). Retrieved from <ext-link ext-link-type="uri" xlink:href="http://en.wikipedia.org/w/index.php?title=Comparison_of_neurofeedback_software&#x00026;oldid=656032961">http://en.wikipedia.org/w/index.php?title=Comparison_of_neurofeedback_software&#x00026;oldid=656032961</ext-link>.
+</mixed-citation></ref><ref id="B14"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cott</surname><given-names>A.</given-names></name><name><surname>Pavloski</surname><given-names>R. P.</given-names></name><name><surname>Black</surname><given-names>A. H.</given-names></name></person-group> (
+<year>1979</year>). 
+<article-title>Reducing epileptic seizures through operant conditioning of central nervous system activity: Procedural variables</article-title>. 
+<source>Science</source>, 
+<volume>203</volume>(
+<issue>4375</issue>), 
+<fpage>73</fpage>&#x02013;
+<lpage>75</lpage>.
+<pub-id pub-id-type="pmid">758682</pub-id></mixed-citation></ref><ref id="B15"><mixed-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Cowan</surname><given-names>J.</given-names></name><name><surname>Markham</surname><given-names>L.</given-names></name></person-group> (
+<year>1994</year>, 
+<month>3</month>). 
+<article-title>EEG biofeedback for the attention problems of autism: A case study</article-title>. In 
+<conf-name>25th the Annual Meeting of the Association for applied Psychophysiology and Biofeedback</conf-name>.
+</mixed-citation></ref><ref id="B16"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Demos</surname><given-names>J. N.</given-names></name></person-group> (
+<year>2005</year>). 
+<source>Getting started with neurofeedback</source> (
+<edition>1th ed.</edition>). 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>W.W. Norton</publisher-name>.
+</mixed-citation></ref><ref id="B17"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Dempster</surname><given-names>T.</given-names></name></person-group> (
+<year>2012</year>). 
+<source>An investigation into the optimum training paradigm for alpha electroencephalographic biofeedback</source> (PhD Thesis). 
+<publisher-loc>U.K.</publisher-loc>: 
+<publisher-name>Canterbury Christ Church University</publisher-name>.
+</mixed-citation></ref><ref id="B18"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dias</surname><given-names>A. M.</given-names></name><name><surname>Van Deusen</surname><given-names>A. M.</given-names></name><name><surname>Oda</surname><given-names>E.</given-names></name><name><surname>Bonfim</surname><given-names>M. R.</given-names></name></person-group> (
+<year>2012</year>). 
+<article-title>Clinical efficacy of a new automated hemoencephalographic neurofeedback protocol</article-title>. 
+<source>Spanish Journal of Psychology</source>, 
+<volume>15</volume>(
+<issue>3</issue>), 
+<fpage>930</fpage>&#x02013;
+<lpage>941</lpage>.
+<pub-id pub-id-type="pmid">23156903</pub-id></mixed-citation></ref><ref id="B19"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Edmonds</surname><given-names>W. A.</given-names></name><name><surname>Tenenbaum</surname><given-names>G.</given-names></name></person-group> (
+<year>2011</year>). 
+<source>Case studies in applied psychophysiology: Neurofeedback and biofeedback treatments for advances in human performance</source>. 
+<publisher-loc>New Jersey</publisher-loc>: 
+<publisher-name>John Wiley &#x00026; Sons</publisher-name>.
+</mixed-citation></ref><ref id="B20"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Egner</surname><given-names>T.</given-names></name><name><surname>Gruzelier</surname><given-names>J. H.</given-names></name></person-group> (
+<year>2001</year>). 
+<article-title>Learned self-regulation of EEG frequency components affects attention and event-related brain potentials in humans</article-title>. 
+<source>Neuroreport</source>, 
+<volume>12</volume>(
+<issue>18</issue>), 
+<fpage>4155</fpage>&#x02013;
+<lpage>4159</lpage>.
+<pub-id pub-id-type="pmid">11742256</pub-id></mixed-citation></ref><ref id="B21"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Egner</surname><given-names>T.</given-names></name><name><surname>Gruzelier</surname><given-names>J. H.</given-names></name></person-group> (
+<year>2003</year>). 
+<article-title>Ecological validity of neuro-feedback: modulation of slow wave EEG enhances musical performance</article-title>. 
+<source>Neuroreport</source>, 
+<volume>14</volume>(
+<issue>9</issue>), 
+<fpage>1221</fpage>&#x02013;
+<lpage>1224</lpage>.
+<pub-id pub-id-type="pmid">12824763</pub-id></mixed-citation></ref><ref id="B22"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Egner</surname><given-names>T.</given-names></name><name><surname>Gruzelier</surname><given-names>J. H.</given-names></name></person-group> (
+<year>2004</year>). 
+<article-title>EEG Biofeedback of low beta band components: frequency-specific effects on variables of attention and event-related brain potentials</article-title>. 
+<source>Clinical Neurophysiology</source>, 
+<volume>115</volume>(
+<issue>1</issue>), 
+<fpage>131</fpage>&#x02013;<lpage>139</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1016/S1388-2457(03)00353-5</pub-id>.
+<pub-id pub-id-type="pmid">14706480</pub-id></mixed-citation></ref><ref id="B23"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Escolano</surname><given-names>C.</given-names></name><name><surname>Aguilar</surname><given-names>M.</given-names></name><name><surname>Minguez</surname><given-names>J.</given-names></name></person-group> (
+<year>2011</year>). 
+<article-title>EEG-based upper alpha neurofeedback training improves working memory performance</article-title>. <source>International Conference of the IEEE Engineering in Medicine and Biology Society, 2011</source>, 
+<fpage>2327</fpage>&#x02013;<lpage>2330</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1109/IEMBS.2011.6090651</pub-id>.
+</mixed-citation></ref><ref id="B24"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Escolano</surname><given-names>C.</given-names></name><name><surname>Olivan</surname><given-names>B.</given-names></name><name><surname>Lopez-del-Hoyo</surname><given-names>Y.</given-names></name><name><surname>Garcia-Campayo</surname><given-names>J.</given-names></name><name><surname>Minguez</surname><given-names>J.</given-names></name></person-group> (
+<year>2012</year>). 
+<article-title>Double-blind single-session neuro-feedback training in upper-alpha for cognitive enhancement of healthy subjects</article-title>. 
+<source>Conference Proceedings of the IEEE Engineering in Medicine and Biology Society, 2012</source>, 
+<fpage>4643</fpage>&#x02013;<lpage>4647</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1109/EMBC.2012.6347002</pub-id>.
+</mixed-citation></ref><ref id="B25"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Evans</surname><given-names>J. R.</given-names></name></person-group> (
+<year>2007</year>). 
+<source>Handbook of neurofeedback: dynamics and clinical applications</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>Haworth Medical Press</publisher-name>.
+</mixed-citation></ref><ref id="B26"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Evans</surname><given-names>J. R.</given-names></name><name><surname>Abarbanel</surname><given-names>A.</given-names></name></person-group> (
+<year>1999</year>). 
+<source>Introduction to quantitative EEG and neurofeedback</source>. 
+<publisher-loc>San Diego, Calif</publisher-loc>: 
+<publisher-name>Academic Press</publisher-name>.
+</mixed-citation></ref><ref id="B27"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fuchs</surname><given-names>T.</given-names></name><name><surname>Birbaumer</surname><given-names>N.</given-names></name><name><surname>Lutzenberger</surname><given-names>W.</given-names></name><name><surname>Gruzelier</surname><given-names>J. H.</given-names></name><name><surname>Kaiser</surname><given-names>J.</given-names></name></person-group> (
+<year>2003</year>). 
+<article-title>Neurofeedback treatment for attention-deficit/hyperactivity disorder in children: A comparison with methylphenidate</article-title>. 
+<source>Applied Psychophysiol Biofeedback</source>, 
+<volume>28</volume>(
+<issue>1</issue>), 
+<fpage>1</fpage>&#x02013;
+<lpage>12</lpage>.
+</mixed-citation></ref><ref id="B28"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gevensleben</surname><given-names>H.</given-names></name><name><surname>Holl</surname><given-names>B.</given-names></name><name><surname>Albrecht</surname><given-names>B.</given-names></name><name><surname>Vogel</surname><given-names>C.</given-names></name><name><surname>Schlamp</surname><given-names>D.</given-names></name><name><surname>Kratz</surname><given-names>O.</given-names></name><etal/></person-group> (
+<year>2009</year>). 
+<article-title>Is neurofeedback an efficacious treatment for ADHD? A randomised controlled clinical trial</article-title>. 
+<source>Journal of Child Psychology and Psychiatry</source>, 
+<volume>50</volume>(
+<issue>7</issue>), 
+<fpage>780</fpage>&#x02013;
+<lpage>789</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1111/j.1469-7610.2008.02033</pub-id>.
+<pub-id pub-id-type="pmid">19207632</pub-id></mixed-citation></ref><ref id="B29"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gil</surname><given-names>Y.</given-names></name><name><surname>Li</surname><given-names>G.</given-names></name><name><surname>Lee</surname><given-names>J.</given-names></name></person-group> (
+<year>2009</year>). 
+<article-title>Integrated real-time neurofeedback system to raise the frontal lobe activity: Design and Implementation</article-title>. 
+<source>Institute of Electrical and Electronics Engineers</source>, 
+<volume>2009</volume>, 
+<fpage>845</fpage>&#x02013;
+<lpage>848</lpage>.
+</mixed-citation></ref><ref id="B30"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Gnecchi</surname><given-names>J. A. G.</given-names></name><name><surname>Herrera Garcia</surname><given-names>J. C.</given-names></name><name><surname>de Dios Ortiz Alvarado</surname><given-names>J.</given-names></name></person-group> (
+<year>2007</year>, 
+<month>9</month>). 
+<article-title>Auxiliary Neurofeedback System for Diagnostic of Attention Deficit Hyperactivity Disorder</article-title>. 
+<source>Proceedings of the Electronics, Robotics and Automotive Mechanics Conference</source> (pp. 
+<fpage>135</fpage>&#x02013;<lpage>138</lpage>). 
+<publisher-loc>Mexico</publisher-loc>: 
+<publisher-name>Morelos</publisher-name>. doi: 
+<pub-id pub-id-type="doi">10.1109/CERMA.2007.4367674</pub-id>.
+</mixed-citation></ref><ref id="B31"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gruzelier</surname><given-names>J.</given-names></name></person-group> (
+<year>2009</year>). 
+<article-title>A theory of alpha/theta neurofeedback, creative performance enhancement, long distance functional connectivity and psychological integration</article-title>. 
+<source>Cognitive Processing</source>, 
+<volume>10</volume>(
+<issue>1</issue>), 
+<fpage>101</fpage>&#x02013;<lpage>109</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/s10339-008-0248-5</pub-id>.
+<pub-id pub-id-type="pmid">18923857</pub-id></mixed-citation></ref><ref id="B32"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hammer</surname><given-names>B. U.</given-names></name><name><surname>Colbert</surname><given-names>A. P.</given-names></name><name><surname>Brown</surname><given-names>K. A.</given-names></name><name><surname>Ilioi</surname><given-names>E. C.</given-names></name></person-group> (
+<year>2011</year>). 
+<article-title>Neurofeedback for insomnia: a pilot study of Z-score SMR and individualized protocols</article-title>. 
+<source>Applied Psychophysiol Biofeedback</source>, 
+<volume>36</volume>(
+<issue>4</issue>), 
+<fpage>251</fpage>&#x02013;
+<lpage>264</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/s10484-011-9165-y</pub-id>.
+</mixed-citation></ref><ref id="B33"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hanslmayr</surname><given-names>S.</given-names></name><name><surname>Sauseng</surname><given-names>P.</given-names></name><name><surname>Doppelmayr</surname><given-names>M.</given-names></name><name><surname>Schabus</surname><given-names>M.</given-names></name><name><surname>Klimesch</surname><given-names>W.</given-names></name></person-group> (
+<year>2005</year>). 
+<article-title>Increasing Individual Upper Alpha Power by Neurofeedback Improves Cognitive Performance in Human Subjects</article-title>. 
+<source>Applied Psychophysiol Biofeedback</source>, 
+<volume>30</volume>(
+<issue>1</issue>), 
+<fpage>1</fpage>&#x02013;
+<lpage>10</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/s10484-005-2169-8</pub-id>.
+</mixed-citation></ref><ref id="B34"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hardt</surname><given-names>J. V.</given-names></name><name><surname>Kamiya</surname><given-names>J.</given-names></name></person-group> (
+<year>1978</year>). 
+<article-title>Anxiety change through electroencephalographic alpha feedback seen only in high anxiety subjects</article-title>. 
+<source>Science</source>, 
+<volume>201</volume>(
+<issue>4350</issue>), 
+<fpage>79</fpage>&#x02013;
+<lpage>81</lpage>.
+<pub-id pub-id-type="pmid">663641</pub-id></mixed-citation></ref><ref id="B35"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heinrich</surname><given-names>H.</given-names></name><name><surname>Gevensleben</surname><given-names>H.</given-names></name><name><surname>Strehl</surname><given-names>U.</given-names></name></person-group> (
+<year>2007</year>). 
+<article-title>Annotation: Neurofeedback-train your brain to train behaviour</article-title>. 
+<source>Journal of Child Psychology and Psychiatry</source>, 
+<volume>48</volume>(
+<issue>1</issue>), 
+<fpage>3</fpage>&#x02013;
+<lpage>16</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1111/j.1469-7610.2006.01665.x</pub-id>.
+<pub-id pub-id-type="pmid">17244266</pub-id></mixed-citation></ref><ref id="B36"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hord</surname><given-names>D. J.</given-names></name><name><surname>Tracy</surname><given-names>M. L.</given-names></name><name><surname>Lubin</surname><given-names>A.</given-names></name><name><surname>Johnson</surname><given-names>L.</given-names></name></person-group> (
+<year>1975</year>). 
+<article-title>Effect of Self-Enhanced EEG Alpha on Performance and Mood After Two Nights of Sleep Loss</article-title>. 
+<source>Psychophysiology</source>, 
+<volume>12</volume>(
+<issue>5</issue>), 
+<fpage>585</fpage>&#x02013;
+<lpage>590</lpage>.
+<pub-id pub-id-type="pmid">1181610</pub-id></mixed-citation></ref><ref id="B37"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Horrell</surname><given-names>T.</given-names></name><name><surname>El-Baz</surname><given-names>A.</given-names></name><name><surname>Baruth</surname><given-names>J.</given-names></name><name><surname>Tasman</surname><given-names>A.</given-names></name><name><surname>Sokhadze</surname><given-names>G.</given-names></name><name><surname>Stewart</surname><given-names>C.</given-names></name><etal/></person-group> (
+<year>2010</year>). 
+<article-title>Neurofeedback Effects on Evoked and Induced EEG Gamma Band Reactivity to Drug-related Cues in Cocaine Addiction</article-title>. 
+<source>Journal of Neurotherapy</source>, 
+<volume>14</volume>(
+<issue>3</issue>), 
+<fpage>195</fpage>&#x02013;<lpage>216</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1080/10874208.2010.501498</pub-id>.
+<pub-id pub-id-type="pmid">20976131</pub-id></mixed-citation></ref><ref id="B38"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hughes</surname><given-names>J. R.</given-names></name></person-group> (
+<year>2008</year>). 
+<article-title>Gamma, fast, and ultrafast waves of the brain: Their relationships with epilepsy and behavior</article-title>. 
+<source>Epilepsy &#x00026; Behavior</source>, 
+<volume>13</volume>(
+<issue>1</issue>), 
+<fpage>25</fpage>&#x02013;
+<lpage>31</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1016/j.yebeh.2008.01.011</pub-id>.
+<pub-id pub-id-type="pmid">18439878</pub-id></mixed-citation></ref><ref id="B39"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hurt</surname><given-names>E.</given-names></name><name><surname>Arnold</surname><given-names>L. E.</given-names></name><name><surname>Lofthouse</surname><given-names>N.</given-names></name></person-group> (
+<year>2014</year>). 
+<article-title>Quantitative EEG Neurofeedback for the Treatment of Pediatric Attention-Deficit/Hyperactivity Disorder, Autism Spectrum Disorders, Learning Disorders, and Epilepsy</article-title>. 
+<source>Child and Adolescent Psychiatric Clinics of North America</source>, 
+<volume>23</volume>(
+<issue>3</issue>), 
+<fpage>465</fpage>&#x02013;
+<lpage>486</lpage>.
+<pub-id pub-id-type="pmid">24975622</pub-id></mixed-citation></ref><ref id="B40"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hynd</surname><given-names>G. W.</given-names></name><name><surname>Lorys</surname><given-names>A. R.</given-names></name><name><surname>Semrud-Clikeman</surname><given-names>M.</given-names></name><name><surname>Nieves</surname><given-names>N.</given-names></name><name><surname>Huettner</surname><given-names>M. I.</given-names></name><name><surname>Lahey</surname><given-names>B. B.</given-names></name></person-group> (
+<year>1991</year>). 
+<article-title>Attention deficit disorder without hyperactivity: a distinct behavioral and neurocognitive syndrome</article-title>. 
+<source>Journal of Child Neurology</source>, 
+<volume>6</volume>(
+<issue>1</issue>), 
+<fpage>S37</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="pmid">2002215</pub-id></mixed-citation></ref><ref id="B41"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Ibric</surname><given-names>V. L.</given-names></name><name><surname>Dragomirescu</surname><given-names>L. G.</given-names></name></person-group> (
+<year>2009</year>). 
+<article-title>Neurofeedback in pain management</article-title>. In 
+<person-group person-group-type="editor"><name><surname>Budzyknski</surname><given-names>T. H.</given-names></name><name><surname>Budzynski</surname><given-names>H. K.</given-names></name><name><surname>Evans</surname><given-names>J. R.</given-names></name><name><surname>Abarbanel</surname><given-names>A.</given-names></name></person-group> (Eds.). 
+<source>Introduction to quantitative EEG and neurofeedback: Advanced theory and applications</source> (
+<edition>2nd ed.</edition>) (pp. 
+<fpage>417</fpage>&#x02013;<lpage>451</lpage>). 
+<publisher-loc>Amsterdam</publisher-loc>, 
+<publisher-name>Elsevier</publisher-name>: <publisher-name>Academic Press</publisher-name>.
+</mixed-citation></ref><ref id="B42"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaplan</surname><given-names>B. J.</given-names></name></person-group> (
+<year>1975</year>). 
+<article-title>Biofeedback in Epileptics: Equivocal Relationship of Reinforced EEG Frequency to Seizure Reduction</article-title>. 
+<source>Epilepsia</source>, 
+<volume>16</volume>(
+<issue>3</issue>), 
+<fpage>477</fpage>&#x02013;<lpage>485</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1111/j.1528-1157.1975.tb06076.x</pub-id>.
+<pub-id pub-id-type="pmid">1183423</pub-id></mixed-citation></ref><ref id="B43"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karimi</surname><given-names>M.</given-names></name><name><surname>Haghshenas</surname><given-names>S.</given-names></name><name><surname>Rostami</surname><given-names>R.</given-names></name></person-group> (
+<year>2011</year>). 
+<article-title>Neurofeedback and autism spectrum: A case study</article-title>. 
+<source>Procedia-Social and Behavioral Sciences</source>, 
+<volume>30</volume>, 
+<fpage>1472</fpage>&#x02013;
+<lpage>1475</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1016/j.sbspro.2011.10.285</pub-id>.
+</mixed-citation></ref><ref id="B44"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klimesch</surname><given-names>W.</given-names></name></person-group> (
+<year>1999</year>). 
+<article-title>EEG alpha and theta oscillations reflect cognitive and memory performance: a review and analysis</article-title>. 
+<source>Brain Research Reviews</source>, 
+<volume>29</volume>(
+<issue>2&#x02013;3</issue>), 
+<fpage>169</fpage>&#x02013;
+<lpage>195</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1016/S0165-0173(98)00056-3</pub-id>.
+<pub-id pub-id-type="pmid">10209231</pub-id></mixed-citation></ref><ref id="B45"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kouijzer</surname><given-names>M. E. J.</given-names></name><name><surname>van Schie</surname><given-names>H. T.</given-names></name><name><surname>de Moor</surname><given-names>J. M. H.</given-names></name><name><surname>Gerrits</surname><given-names>B. J. L.</given-names></name><name><surname>Buitelaar</surname><given-names>J. K.</given-names></name></person-group> (
+<year>2010</year>). 
+<article-title>Neurofeedback treatment in autism. Preliminary findings in behavioral, cognitive, and neurophysiological functioning</article-title>. 
+<source>Research in Autism Spectrum Disorders</source>, 
+<volume>4</volume>(
+<issue>3</issue>), 
+<fpage>386</fpage>&#x02013;
+<lpage>399</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1016/j.rasd.2009.10.007</pub-id>.
+</mixed-citation></ref><ref id="B46"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kropotov</surname><given-names>J.</given-names></name></person-group> (
+<year>2010</year>). 
+<source>Introduction to Quantitative EEG, event-related potentials and neurotherapy</source>. 
+<publisher-loc>Amsterdam</publisher-loc>, 
+<publisher-name>Elsevier</publisher-name>: <publisher-name>Academic Press</publisher-name>.
+</mixed-citation></ref><ref id="B47"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuhlman</surname><given-names>W. N.</given-names></name><name><surname>Allison</surname><given-names>T.</given-names></name></person-group> (
+<year>1977</year>). 
+<article-title>EEG feedback training in the treatment of epilepsy: Some questions and some answers</article-title>. 
+<source>The Pavlovian Journal of Biological Science</source>, 
+<volume>12</volume>(
+<issue>2</issue>), 
+<fpage>112</fpage>&#x02013;
+<lpage>122</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/bf03004498</pub-id>.
+<pub-id pub-id-type="pmid">904959</pub-id></mixed-citation></ref><ref id="B48"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lecuyer</surname><given-names>A.</given-names></name><name><surname>Lotte</surname><given-names>F.</given-names></name><name><surname>Reilly</surname><given-names>R. B.</given-names></name><name><surname>Leeb</surname><given-names>R.</given-names></name><name><surname>Hirose</surname><given-names>M.</given-names></name><name><surname>Slater</surname><given-names>M.</given-names></name></person-group> (
+<year>2008</year>). 
+<article-title>Brain-Computer Interfaces, Virtual Reality, and Videogames</article-title>. 
+<source>Computer</source>, 
+<volume>41</volume>(
+<issue>10</issue>), 
+<fpage>66</fpage>&#x02013;
+<lpage>72</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1109/mc.2008.410</pub-id>.
+</mixed-citation></ref><ref id="B49"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leins</surname><given-names>U.</given-names></name><name><surname>Goth</surname><given-names>G.</given-names></name><name><surname>Hinterberger</surname><given-names>T.</given-names></name><name><surname>Klinger</surname><given-names>C.</given-names></name><name><surname>Rumpf</surname><given-names>N.</given-names></name><name><surname>Strehl</surname><given-names>U.</given-names></name></person-group> (
+<year>2007</year>). 
+<article-title>Neurofeedback for Children with ADHD: A Comparison of SCP and Theta/Beta Protocols</article-title>. 
+<source>Applied Psychophysiol Biofeedback</source>, 
+<volume>32</volume>(
+<issue>2</issue>), 
+<fpage>73</fpage>&#x02013;
+<lpage>88</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/s10484-007-9031-0</pub-id>.
+</mixed-citation></ref><ref id="B50"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>L&#x000e9;vesque</surname><given-names>J.</given-names></name><name><surname>Beauregard</surname><given-names>M.</given-names></name><name><surname>Mensour</surname><given-names>B.</given-names></name></person-group> (
+<year>2006a</year>). 
+<article-title>Effect of neurofeedback training on the neural substrates of selective attention in children with attention-deficit/hyperactivity disorder: A functional magnetic resonance imaging study</article-title>. 
+<source>Neuroscience Letters</source>, 
+<volume>394</volume>(
+<issue>3</issue>), 
+<fpage>216</fpage>&#x02013;
+<lpage>221</lpage>.
+<pub-id pub-id-type="pmid">16343769</pub-id></mixed-citation></ref><ref id="B51"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>L&#x000e9;vesque</surname><given-names>J.</given-names></name><name><surname>Beauregard</surname><given-names>M.</given-names></name><name><surname>Mensour</surname><given-names>B.</given-names></name></person-group> (
+<year>2006b</year>). 
+<article-title>Effect of neurofeedback training on the neural substrates of selective attention in children with attention-deficit/hyperactivity disorder: A functional magnetic resonance imaging study</article-title>. 
+<source>Neuroscience Letters</source>, 
+<volume>394</volume>(
+<issue>3</issue>), 
+<fpage>216</fpage>&#x02013;
+<lpage>221</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1016/j.neulet.2005.10.100</pub-id>.
+<pub-id pub-id-type="pmid">16343769</pub-id></mixed-citation></ref><ref id="B52"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Linden</surname><given-names>M.</given-names></name><name><surname>Habib</surname><given-names>T.</given-names></name><name><surname>Radojevic</surname><given-names>V.</given-names></name></person-group> (
+<year>1996</year>). 
+<article-title>A controlled study of the effects of EEG biofeedback on cognition and behavior of children with attention deficit disorder and learning disabilities</article-title>. 
+<source>Biofeedback &#x00026; Self Regulation</source>, 
+<volume>21</volume>(
+<issue>3</issue>), 
+<fpage>297</fpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/bf02214740</pub-id>.
+</mixed-citation></ref><ref id="B53"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lubar</surname><given-names>J.</given-names></name><name><surname>Bahler</surname><given-names>W. W.</given-names></name></person-group> (
+<year>1976</year>). 
+<article-title>Behavioral management of epileptic seizures following EEG biofeedback training of the sensorimotor rhythm</article-title>. 
+<source>Biofeedback and Self-regulation</source>, 
+<volume>1</volume>(
+<issue>1</issue>), 
+<fpage>77</fpage>&#x02013;<lpage>104</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/bf00998692</pub-id>.
+<pub-id pub-id-type="pmid">825150</pub-id></mixed-citation></ref><ref id="B54"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lubar</surname><given-names>J. F.</given-names></name><name><surname>Shabsin</surname><given-names>H. S.</given-names></name><name><surname>Natelson</surname><given-names>S. E.</given-names></name><name><surname>Holder</surname><given-names>G. S.</given-names></name><name><surname>Whitsett</surname><given-names>S. F.</given-names></name><name><surname>Pamplin</surname><given-names>W. E.</given-names></name><etal/></person-group> (
+<year>1981</year>). 
+<article-title>EEG operant conditioning in intractable epileptics</article-title>. 
+<source>Archives of Neurology</source>, 
+<volume>38</volume>(
+<issue>11</issue>), 
+<fpage>700</fpage>&#x02013;
+<lpage>704</lpage>.
+<pub-id pub-id-type="pmid">7305698</pub-id></mixed-citation></ref><ref id="B55"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lubar</surname><given-names>J. F.</given-names></name><name><surname>Swartwood</surname><given-names>M. O.</given-names></name><name><surname>Swartwood</surname><given-names>J. N.</given-names></name><name><surname>O&#x02019;Donnell</surname><given-names>P. H.</given-names></name></person-group> (
+<year>1995</year>). 
+<article-title>Evaluation of the effectiveness of EEG neurofeedback training for ADHD in a clinical setting as measured by changes in TOVA scores, behavioral ratings, and WISC-R performance</article-title>. 
+<source>Biofeedback and Self-regulation</source>, 
+<volume>20</volume>(
+<issue>1</issue>), 
+<fpage>83</fpage>&#x02013;
+<lpage>99</lpage>.
+<pub-id pub-id-type="pmid">7786929</pub-id></mixed-citation></ref><ref id="B56"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Lucido</surname><given-names>M.</given-names></name></person-group> (
+<year>2012</year>). 
+<source>College of social and behavioural sciences</source>. 
+<publisher-loc>Minneapolis, Minnesota</publisher-loc>: 
+<publisher-name>Walden University</publisher-name>.
+</mixed-citation></ref><ref id="B57"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Markovska-Simoska</surname><given-names>S.</given-names></name><name><surname>Pop-Jordanova</surname><given-names>N.</given-names></name><name><surname>Georgiev</surname><given-names>D.</given-names></name></person-group> (
+<year>2008</year>). 
+<article-title>Simultaneous EEG and EMG biofeedback for peak performance in musicians</article-title>. 
+<source>Prilozi</source>, 
+<volume>29</volume>(
+<issue>1</issue>), 
+<fpage>239</fpage>&#x02013;
+<lpage>252</lpage>.
+<pub-id pub-id-type="pmid">18709013</pub-id></mixed-citation></ref><ref id="B58"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martindale</surname><given-names>C.</given-names></name><name><surname>Armstrong</surname><given-names>J.</given-names></name></person-group> (
+<year>1974</year>). 
+<article-title>The relationship of creativity to cortical activation and its operant control</article-title>. 
+<source>Journal of Genetic Psychology</source>, 
+<volume>124</volume>(
+<issue>2</issue>), 
+<fpage>311</fpage>&#x02013;
+<lpage>320</lpage>.
+<pub-id pub-id-type="pmid">4842281</pub-id></mixed-citation></ref><ref id="B59"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Mauro</surname><given-names>T.</given-names></name><name><surname>Cermak</surname><given-names>S. A.</given-names></name></person-group> (
+<year>2006</year>). 
+<source>The Everything Parent&#x02019;s Guide to Sensory Integration Disorder: Get the Right Diagnosis, Understand Treatments, and Advocate for Your Child</source>. 
+<publisher-loc>USA</publisher-loc>: 
+<publisher-name>Adams Media Corporation</publisher-name>.
+</mixed-citation></ref><ref id="B60"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McCarthy-Jones</surname><given-names>S.</given-names></name></person-group> (
+<year>2012</year>). 
+<article-title>Taking back the brain: could neuro-feedback training be effective for relieving distressing auditory verbal hallucinations in patients with schizophrenia?</article-title>
+<source>Schizophrenia Bulletin</source>, 
+<volume>38</volume>(
+<issue>4</issue>), 
+<fpage>678</fpage>&#x02013;
+<lpage>682</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1093/schbul/sbs006</pub-id>.
+<pub-id pub-id-type="pmid">22323675</pub-id></mixed-citation></ref><ref id="B61"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moore</surname><given-names>N.</given-names></name></person-group> (
+<year>2000</year>). 
+<article-title>A review of EEG biofeedback treatment of anxiety disorders</article-title>. 
+<source>Clinical EEG and Neuroscience (Electroencephalography)</source>, 
+<volume>31</volume>(
+<issue>1</issue>), 
+<fpage>1</fpage>&#x02013;
+<lpage>6</lpage>.
+</mixed-citation></ref><ref id="B62"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moradi</surname><given-names>A.</given-names></name><name><surname>Pouladi</surname><given-names>F.</given-names></name><name><surname>Pishva</surname><given-names>N.</given-names></name><name><surname>Rezaei</surname><given-names>B.</given-names></name><name><surname>Torshabi</surname><given-names>M.</given-names></name><name><surname>Mehrjerdi</surname><given-names>Z. A.</given-names></name></person-group> (
+<year>2011</year>). 
+<article-title>Treatment of Anxiety Disorder with Neurofeedback: Case Study</article-title>. 
+<source>Procedia-Social and Behavioral Sciences</source>, 
+<volume>30</volume>, 
+<fpage>103</fpage>&#x02013;<lpage>107</lpage>. doi: j.sbspro.2011.10.021.
+</mixed-citation></ref><ref id="B63"><mixed-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Orlandi</surname><given-names>M. A.</given-names></name><name><surname>Greco</surname><given-names>D.</given-names></name></person-group> (
+<year>2004</year>, 
+<month>8</month>). 
+<article-title>A randomized, doubleblind clinical trial of EEG neurofeedback treatment for attention-deficit/hyperactivity disorder</article-title>. 
+<conf-name>Paper presented at the meeting of the International Society for Neuronal Regulation</conf-name>, 
+<conf-loc>Fort Lauderdale, FL</conf-loc>.
+</mixed-citation></ref><ref id="B64"><mixed-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Othmer</surname><given-names>S.</given-names></name></person-group> (
+<year>2007</year>). 
+<article-title>Progress in neurofeedback for the autism spectrum</article-title>. 
+<conf-name>Paper presented at the 38th Annual Meeting of the Association for Applied Psychophysiology &#x00026; Biofeedback</conf-name>
+<conf-loc>Monterey, Canada</conf-loc>, 
+<conf-date>15&#x02013;18 February 2007</conf-date>.
+</mixed-citation></ref><ref id="B65"><mixed-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Palsson</surname><given-names>O. S.</given-names></name><name><surname>Pope</surname><given-names>A. T.</given-names></name><name><surname>Ball</surname><given-names>J. D.</given-names></name><name><surname>Turner</surname><given-names>M. J.</given-names></name><name><surname>Nevin</surname><given-names>S.</given-names></name><name><surname>deBeus</surname><given-names>R.</given-names></name></person-group> (
+<year>2001</year>). 
+<article-title>Neurofeedback videogame ADHD technology: Results of the first concept study</article-title>. 
+<conf-name>Paper presented at the annual meeting of Association for Applied Psychophysiology &#x00026; Biofeedback</conf-name>, 
+<conf-loc>Research Triangle Park, NC</conf-loc>.
+</mixed-citation></ref><ref id="B66"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pascual-Marqui</surname><given-names>R. D.</given-names></name><name><surname>Michel</surname><given-names>C. M.</given-names></name><name><surname>Lehmann</surname><given-names>D.</given-names></name></person-group> (
+<year>1994</year>). 
+<article-title>Low resolution electromagnetic tomography: a new method for localizing electrical activity in the brain</article-title>. 
+<source>International Journal of Psychophysiology</source>, 
+<volume>18</volume>(
+<issue>1</issue>), 
+<fpage>49</fpage>&#x02013;
+<lpage>65</lpage>.
+<pub-id pub-id-type="pmid">7876038</pub-id></mixed-citation></ref><ref id="B67"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perreau-Linck</surname><given-names>E.</given-names></name><name><surname>Lessard</surname><given-names>N.</given-names></name><name><surname>L&#x000e9;vesque</surname><given-names>J.</given-names></name><name><surname>Beauregard</surname><given-names>M.</given-names></name></person-group> (
+<year>2010</year>). 
+<article-title>Effects of neurofeedback training on inhibitory capacities in ADHD children: A single-blind, randomized, placebo-controlled study</article-title>. 
+<source>Journal of Neurotherapy</source>, 
+<volume>14</volume>(
+<issue>3</issue>), 
+<fpage>229</fpage>&#x02013;
+<lpage>242</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1080/10874208.2010.501514</pub-id>.
+</mixed-citation></ref><ref id="B68"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Plotkin</surname><given-names>W. B.</given-names></name><name><surname>Rice</surname><given-names>K. M.</given-names></name></person-group> (
+<year>1981</year>). 
+<article-title>Biofeedback as a placebo: anxiety reduction facilitated by training in either suppression or enhancement of alpha brainwaves</article-title>. 
+<source>Journal of Consulting and Clinical Psychology</source>, 
+<volume>49</volume>(
+<issue>4</issue>), 
+<fpage>590</fpage>.
+<pub-id pub-id-type="pmid">7264040</pub-id></mixed-citation></ref><ref id="B69"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Quy</surname><given-names>R. J.</given-names></name><name><surname>Hutt</surname><given-names>S. J.</given-names></name><name><surname>Forrest</surname><given-names>S.</given-names></name></person-group> (
+<year>1979</year>). 
+<article-title>Sensorimotor rhythm feedback training and epilepsy: Some methodological and conceptual issues</article-title>. 
+<source>Biological Psychology</source>, 
+<volume>9</volume>(
+<issue>2</issue>), 
+<fpage>129</fpage>&#x02013;<lpage>149</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1016/0301-0511(79)90059-0</pub-id>.
+<pub-id pub-id-type="pmid">540111</pub-id></mixed-citation></ref><ref id="B70"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rasey</surname><given-names>H.</given-names></name><name><surname>Lubar</surname><given-names>J. F.</given-names></name><name><surname>McIntyre</surname><given-names>A.</given-names></name><name><surname>Zoffuto</surname><given-names>A.</given-names></name><name><surname>Abbott</surname><given-names>P. L.</given-names></name></person-group> (
+<year>1995</year>). 
+<article-title>EEG biofeedback for the enhancement of attentional processing in normal college students</article-title>. 
+<source>Journal of Neurotherapy</source>, 
+<volume>1</volume>(
+<issue>3</issue>), 
+<fpage>15</fpage>&#x02013;
+<lpage>21</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1300/J184v01n03_03</pub-id>.
+</mixed-citation></ref><ref id="B71"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raymond</surname><given-names>J.</given-names></name><name><surname>Sajid</surname><given-names>I.</given-names></name><name><surname>Parkinson</surname><given-names>L. A.</given-names></name><name><surname>Gruzelier</surname><given-names>J. H.</given-names></name></person-group> (
+<year>2005</year>). 
+<article-title>Biofeedback and dance performance: A preliminary investigation</article-title>. 
+<source>Applied Psychophysiology Biofeedback</source>, 
+<volume>30</volume>(
+<issue>1</issue>), 
+<fpage>65</fpage>&#x02013;
+<lpage>73</lpage>.
+</mixed-citation></ref><ref id="B72"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raymond</surname><given-names>J.</given-names></name><name><surname>Varney</surname><given-names>C.</given-names></name><name><surname>Parkinson</surname><given-names>L. A.</given-names></name><name><surname>Gruzelier</surname><given-names>J. H.</given-names></name></person-group> (
+<year>2005</year>). 
+<article-title>The effects of alpha/theta neurofeedback on personality and mood</article-title>. 
+<source>Cognitive Brain Research</source>, 
+<volume>23</volume>(
+<issue>2</issue>), 
+<fpage>287</fpage>&#x02013;
+<lpage>292</lpage>.
+<pub-id pub-id-type="pmid">15820636</pub-id></mixed-citation></ref><ref id="B73"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Regestein</surname><given-names>Q.</given-names></name><name><surname>Buckland</surname><given-names>G.</given-names></name><name><surname>Pegram</surname><given-names>G.</given-names></name></person-group> (
+<year>1973</year>). 
+<article-title>Effect of daytime alpha rhythm maintenance on subsequent sleep</article-title>. 
+<source>Psychosomatic Medicine</source>, 
+<volume>35</volume>(
+<issue>5</issue>), 
+<fpage>415</fpage>&#x02013;
+<lpage>418</lpage>.
+<pub-id pub-id-type="pmid">4372648</pub-id></mixed-citation></ref><ref id="B74"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ros</surname><given-names>T.</given-names></name><name><surname>Moseley</surname><given-names>M. J.</given-names></name><name><surname>Bloom</surname><given-names>P. A.</given-names></name><name><surname>Benjamin</surname><given-names>L.</given-names></name><name><surname>Parkinson</surname><given-names>L. A.</given-names></name><name><surname>Gruzelier</surname><given-names>J. H.</given-names></name></person-group> (
+<year>2009</year>). 
+<article-title>Optimizing microsurgical skills with EEG neurofeedback</article-title>. 
+<source>BMC Neuroscience</source>, 
+<volume>10</volume>(
+<issue>1</issue>), 
+<fpage>87</fpage>. doi: 
+<pub-id pub-id-type="doi">10.1186/1471-2202-10-87</pub-id>.
+<pub-id pub-id-type="pmid">19630948</pub-id></mixed-citation></ref><ref id="B75"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rossi-Izquierdo</surname><given-names>M.</given-names></name><name><surname>Ernst</surname><given-names>A.</given-names></name><name><surname>Soto-Varela</surname><given-names>A.</given-names></name><name><surname>Santos-P&#x000e9;rez</surname><given-names>S.</given-names></name><name><surname>Faraldo-Garc&#x000ed;a</surname><given-names>A.</given-names></name><name><surname>Sesar-Ignacio</surname><given-names>&#x000c1;.</given-names></name><name><surname>Basta</surname><given-names>D.</given-names></name></person-group> (
+<year>2013</year>). 
+<article-title>Vibrotactile neurofeedback balance training in patients with Parkinson&#x02019;s disease: Reducing the number of falls</article-title>. 
+<source>Gait &#x00026; Posture</source>, 
+<volume>37</volume>(
+<issue>2</issue>), 
+<fpage>195</fpage>&#x02013;
+<lpage>200</lpage>.
+<pub-id pub-id-type="pmid">22841586</pub-id></mixed-citation></ref><ref id="B76"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schmeidler</surname><given-names>G.</given-names></name><name><surname>Lewis</surname><given-names>L.</given-names></name></person-group> (
+<year>1971</year>). 
+<article-title>Mood changes after alpha feedback training</article-title>. 
+<source>Perceptual and Motor Skills</source>, 
+<volume>32</volume>(
+<issue>3</issue>), 
+<fpage>709</fpage>&#x02013;
+<lpage>710</lpage>.
+<pub-id pub-id-type="pmid">5557008</pub-id></mixed-citation></ref><ref id="B77"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sichel</surname><given-names>A. G.</given-names></name><name><surname>Fehmi</surname><given-names>L. G.</given-names></name><name><surname>Goldstein</surname><given-names>D. M.</given-names></name></person-group> (
+<year>1995</year>). 
+<article-title>Positive outcome with neurofeedback treatment in a case of mild autism</article-title>. 
+<source>Journal of Neurotherapy</source>, 
+<volume>1</volume>(
+<issue>1</issue>), 
+<fpage>60</fpage>&#x02013;
+<lpage>64</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1300/J184v01n01_08</pub-id>.
+</mixed-citation></ref><ref id="B78"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Staufenbiel</surname><given-names>S.</given-names></name><name><surname>Brouwer</surname><given-names>A. M.</given-names></name><name><surname>Keizer</surname><given-names>A.</given-names></name><name><surname>Van Wouwe</surname><given-names>N.</given-names></name></person-group> (
+<year>2014</year>). 
+<article-title>Effect of beta and gamma neurofeedback on memory and intelligence in the elderly</article-title>. 
+<source>Biological Psychology</source>, 
+<volume>95</volume>, 
+<fpage>74</fpage>&#x02013;
+<lpage>85</lpage>.
+<pub-id pub-id-type="pmid">23751914</pub-id></mixed-citation></ref><ref id="B79"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sterman</surname><given-names>M. B.</given-names></name><name><surname>Macdonald</surname><given-names>L. R.</given-names></name></person-group> (
+<year>1978</year>). 
+<article-title>Effects of central cortical EEG feedback training on incidence of poorly controlled seizures</article-title>. 
+<source>Epilepsia</source>, 
+<volume>19</volume>(
+<issue>3</issue>), 
+<fpage>207</fpage>&#x02013;
+<lpage>222</lpage>.
+<pub-id pub-id-type="pmid">354919</pub-id></mixed-citation></ref><ref id="B80"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sterman</surname><given-names>M. B.</given-names></name><name><surname>Macdonald</surname><given-names>L. R.</given-names></name><name><surname>Stone</surname><given-names>R. K.</given-names></name></person-group> (
+<year>1974</year>). 
+<article-title>Biofeedback Training of the Sensorimotor Electroencephalogram Rhythm in Man: Effects on Epilepsy</article-title>. 
+<source>Epilepsia</source>, 
+<volume>15</volume>(
+<issue>3</issue>), 
+<fpage>395</fpage>&#x02013;
+<lpage>416</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1111/j.1528-1157.1974.tb04016.x</pub-id>.
+<pub-id pub-id-type="pmid">4527675</pub-id></mixed-citation></ref><ref id="B81"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>S&#x000fc;rmeli</surname><given-names>T.</given-names></name><name><surname>Ertem</surname><given-names>A.</given-names></name></person-group> (
+<year>2007</year>). 
+<article-title>EEG neurofeedback treatment of patients with Down Syndrome</article-title>. 
+<source>Journal of Neurotherapy</source>, 
+<volume>11</volume>(
+<issue>1</issue>), 
+<fpage>63</fpage>&#x02013;
+<lpage>68</lpage>.
+</mixed-citation></ref><ref id="B82"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>S&#x000fc;rmeli</surname><given-names>T.</given-names></name><name><surname>Ertem</surname><given-names>A.</given-names></name></person-group> (
+<year>2011</year>). 
+<article-title>Obsessive Compulsive Disorder and the Efficacy of qEEG-Guided Neurofeedback Treatment: A Case Series</article-title>. 
+<source>Clinical EEG and Neuroscience</source>, 
+<volume>42</volume>(
+<issue>3</issue>), 
+<fpage>195</fpage>&#x02013;
+<lpage>201</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1177/155005941104200310</pub-id>.
+<pub-id pub-id-type="pmid">21870473</pub-id></mixed-citation></ref><ref id="B83"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Surmeli</surname><given-names>T.</given-names></name><name><surname>Ertem</surname><given-names>A.</given-names></name><name><surname>Eralp</surname><given-names>E.</given-names></name><name><surname>Kos</surname><given-names>I. H.</given-names></name></person-group> (
+<year>2012</year>). 
+<article-title>Schizophrenia and the efficacy of qEEG-guided neurofeedback treatment: a clinical case series</article-title>. 
+<source>Clinical EEG and Neuroscience</source>, 
+<volume>43</volume>(
+<issue>2</issue>), 
+<fpage>133</fpage>&#x02013;
+<lpage>144</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1177/1550059411429531</pub-id>.
+<pub-id pub-id-type="pmid">22715481</pub-id></mixed-citation></ref><ref id="B84"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thompson</surname><given-names>L.</given-names></name><name><surname>Thompson</surname><given-names>M.</given-names></name><name><surname>Reid</surname><given-names>A.</given-names></name></person-group> (
+<year>2010</year>). 
+<article-title>Neurofeedback outcomes in clients with Asperger&#x02019;s syndrome</article-title>. 
+<source>Applied Psychophysiol Biofeedback</source>, 
+<volume>35</volume>(
+<issue>1</issue>), 
+<fpage>63</fpage>&#x02013;
+<lpage>81</lpage>.
+</mixed-citation></ref><ref id="B85"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Thompson</surname><given-names>M.</given-names></name><name><surname>Thompson</surname><given-names>L.</given-names></name></person-group> (
+<year>2003</year>). 
+<source>The neurofeedback book: An introduction to basic concepts in applied psychophysiology</source>. 
+<publisher-loc>Wheat Ridge, CO</publisher-loc>: 
+<publisher-name>Association for Applied Psychophysiology and Biofeedback</publisher-name>.
+</mixed-citation></ref><ref id="B86"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tozzo</surname><given-names>C. A.</given-names></name><name><surname>Elfner</surname><given-names>L. F.</given-names></name><name><surname>May</surname><given-names>J. G.</given-names></name></person-group> (
+<year>1988</year>). 
+<article-title>EEG biofeedback and relaxation training in the control of epileptic seizures</article-title>. 
+<source>International Journal of Psychophysiology</source>, 
+<volume>6</volume>(
+<issue>3</issue>), 
+<fpage>185</fpage>&#x02013;
+<lpage>194</lpage>.
+<pub-id pub-id-type="pmid">3136105</pub-id></mixed-citation></ref><ref id="B87"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vernon</surname><given-names>D.</given-names></name><name><surname>Egner</surname><given-names>T.</given-names></name><name><surname>Cooper</surname><given-names>N.</given-names></name><name><surname>Compton</surname><given-names>T.</given-names></name><name><surname>Neilands</surname><given-names>C.</given-names></name><name><surname>Sheri</surname><given-names>A.</given-names></name><etal/></person-group> (
+<year>2003</year>). 
+<article-title>The effect of training distinct neurofeedback protocols on aspects of cognitive performance</article-title>. 
+<source>International Journal of Psychophysiology</source>, 
+<volume>47</volume>(
+<issue>1</issue>), 
+<fpage>75</fpage>&#x02013;
+<lpage>85</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1016/S0167-8760(02)00091-0</pub-id>.
+<pub-id pub-id-type="pmid">12543448</pub-id></mixed-citation></ref><ref id="B88"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vernon</surname><given-names>D. J.</given-names></name></person-group> (
+<year>2005</year>). 
+<article-title>Can neurofeedback training enhance performance? An evaluation of the evidence with implications for future research</article-title>. 
+<source>Applied Psychophysiol Biofeedback</source>, 
+<volume>30</volume>(
+<issue>4</issue>), 
+<fpage>347</fpage>&#x02013;<lpage>364</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/s10484-005-8421-4</pub-id>.
+</mixed-citation></ref><ref id="B89"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walker</surname><given-names>J. E.</given-names></name></person-group> (
+<year>2010</year>). 
+<article-title>Using QEEG-guided neurofeedback for epilepsy versus standardized protocols: Enhanced effectiveness?</article-title>
+<source>Applied Psychophysiol Biofeedback</source>, 
+<volume>35</volume>(
+<issue>1</issue>), 
+<fpage>29</fpage>&#x02013;
+<lpage>30</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/s10484-009-9123-0</pub-id>.
+</mixed-citation></ref><ref id="B90"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walker</surname><given-names>J. E.</given-names></name></person-group> (
+<year>2011</year>). 
+<article-title>QEEG-guided neurofeedback for recurrent migraine headaches</article-title>. 
+<source>Clinical EEG and Neuroscience</source>, 
+<volume>42</volume>(
+<issue>1</issue>), 
+<fpage>59</fpage>&#x02013;
+<lpage>61</lpage>.
+<pub-id pub-id-type="pmid">21309444</pub-id></mixed-citation></ref><ref id="B91"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Q.</given-names></name><name><surname>Sourina</surname><given-names>O.</given-names></name></person-group> (
+<year>2013</year>). 
+<article-title>Real-time mental arithmetic task recognition from EEG signals</article-title>. 
+<source>IEEE Transactions on Neural Systems and Rehabilitation Engineering</source>, 
+<volume>21</volume>(
+<issue>2</issue>), 
+<fpage>225</fpage>&#x02013;
+<lpage>232</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1109/TNSRE.2012.2236576</pub-id>.
+<pub-id pub-id-type="pmid">23314778</pub-id></mixed-citation></ref><ref id="B92"><mixed-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Wenya</surname><given-names>N.</given-names></name><name><surname>Lanshin</surname><given-names>C.</given-names></name><name><surname>Rodrigues</surname><given-names>J. P.</given-names></name><name><surname>Feng</surname><given-names>W.</given-names></name><name><surname>Peng Un</surname><given-names>M.</given-names></name><name><surname>Pui-In</surname><given-names>M.</given-names></name><etal/></person-group> (
+<year>2012</year>). 
+<article-title>Neurofeedback for the treatment of schizophrenia: Case study</article-title>. 
+<conf-name>Paper presented at the Virtual Environments Human-Computer Interfaces and Measurement Systems (VECIMS), 2012 IEEE International Conference on, Tianjin</conf-name>, 
+<conf-loc>China</conf-loc>, 
+<conf-date>2&#x02013;4 July 2012</conf-date>.
+</mixed-citation></ref><ref id="B93"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yan</surname><given-names>N.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>M.</given-names></name><name><surname>Zong</surname><given-names>L.</given-names></name><name><surname>Jiao</surname><given-names>Y.</given-names></name><name><surname>Yue</surname><given-names>J.</given-names></name><etal/></person-group> (
+<year>2008</year>). 
+<article-title>Designing a Brain-computer Interface Device for Neurofeedback Using Virtual Environments</article-title>. 
+<source>Medical and Biological Engineering</source>, 
+<volume>28</volume>(
+<issue>3</issue>), 
+<fpage>167</fpage>&#x02013;<lpage>172</lpage>.
+</mixed-citation></ref><ref id="B94"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zandi-Mehran</surname><given-names>Y.</given-names></name><name><surname>Firoozabadi</surname><given-names>M.</given-names></name><name><surname>Rostami</surname><given-names>R.</given-names></name></person-group> (
+<year>2014</year>). 
+<article-title>Improvement of Neurofeedback Therapy for Improved Attention Through Facilitation of Brain Activity Using Local Sinusoidal Extremely Low Frequency Magnetic Field Exposure</article-title>. 
+<source>Clinical EEG and Neuroscience</source>, 
+<volume>46</volume>(
+<issue>2</issue>), 
+<fpage>100</fpage>&#x02013;
+<lpage>12</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1177/1550059414524403</pub-id>.
+<pub-id pub-id-type="pmid">24939868</pub-id></mixed-citation></ref><ref id="B95"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zoefel</surname><given-names>B.</given-names></name><name><surname>Huster</surname><given-names>R. J.</given-names></name><name><surname>Herrmann</surname><given-names>C. S.</given-names></name></person-group> (
+<year>2011</year>). 
+<article-title>Neurofeedback training of the upper alpha frequency band in EEG improves cognitive performance</article-title>. 
+<source>NeuroImage</source>, 
+<volume>54</volume>(
+<issue>2</issue>), 
+<fpage>1427</fpage>&#x02013;
+<lpage>1431</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1016/j.neuroimage.2010.08.078</pub-id>.
+<pub-id pub-id-type="pmid">20850552</pub-id></mixed-citation></ref></ref-list></back></article>

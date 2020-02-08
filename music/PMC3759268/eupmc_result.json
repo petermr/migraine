@@ -1,0 +1,332 @@
+{
+  "id": [
+    "24023571"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24023571"
+  ],
+  "pmcid": [
+    "PMC3759268"
+  ],
+  "doi": [
+    "10.1155/2013/171852"
+  ],
+  "title": [
+    "Effects of Swedish massage therapy on blood pressure, heart rate, and inflammatory markers in hypertensive women."
+  ],
+  "authorString": [
+    "Supa'at I, Zakaria Z, Maskon O, Aminuddin A, Nordin NA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Supa'at I"
+          ],
+          "firstName": [
+            "Izreen"
+          ],
+          "lastName": [
+            "Supa'at"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Zakaria Z"
+          ],
+          "firstName": [
+            "Zaiton"
+          ],
+          "lastName": [
+            "Zakaria"
+          ],
+          "initials": [
+            "Z"
+          ]
+        },
+        {
+          "fullName": [
+            "Maskon O"
+          ],
+          "firstName": [
+            "Oteh"
+          ],
+          "lastName": [
+            "Maskon"
+          ],
+          "initials": [
+            "O"
+          ]
+        },
+        {
+          "fullName": [
+            "Aminuddin A"
+          ],
+          "firstName": [
+            "Amilia"
+          ],
+          "lastName": [
+            "Aminuddin"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Nordin NA"
+          ],
+          "firstName": [
+            "Nor Anita Megat Mohd"
+          ],
+          "lastName": [
+            "Nordin"
+          ],
+          "initials": [
+            "NA"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2013"
+      ],
+      "journalIssueId": [
+        "2004961"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "171852"
+  ],
+  "abstractText": [
+    "Swedish Massage Therapy (SMT) is known for its therapeutic relaxation effects. Hypertension is associated with stress and elevated endothelial inflammatory markers. This randomized control trial measured the effects of whole body SMT (massage group) or resting (control group) an hour weekly for four weeks on hypertensive women. Blood pressure (BP) and heart rate (HR) were measured before and after each intervention and endothelial inflammatory markers: vascular endothelial adhesion molecules 1 (VCAM-1) and intracellular adhesion molecules 1 (ICAM-1) were measured at baseline and after the last intervention. Massage group (n=8) showed significant systolic BP (SBP) reduction of 12 mmHg (P=0.01) and diastolic BP (DBP) reduction of 5 mmHg (P=0.01) after four sessions with no significant difference between groups. Reductions in HR were also seen in massage group after sessions 1, 3, and 4 with significant difference between groups. VCAM-1 showed significant reduction after four sessions: the massage group showed reduction of 998.05 ng/mL (P=0.03) and the control group of 375.70 ng/mL (P=0.01) with no significant differences between groups. There were no changes in ICAM-1. In conclusion, SMT or resting an hour weekly has effects on reducing BP, HR, and VCAM-1 in hypertensive women."
+  ],
+  "affiliation": [
+    "Faculty of Biomedical and Health Sciences, Universiti Selangor, Shah Alam, Malaysia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24023571/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24023571/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2013/171852"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3759268"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3759268?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-09-11"
+  ],
+  "dateOfCreation": [
+    "2013-09-11"
+  ],
+  "firstIndexDate": [
+    "2013-09-12"
+  ],
+  "fullTextReceivedDate": [
+    "2013-09-12"
+  ],
+  "dateOfRevision": [
+    "2013-09-13"
+  ],
+  "electronicPublicationDate": [
+    "2013-08-18"
+  ],
+  "firstPublicationDate": [
+    "2013-08-18"
+  ]
+}

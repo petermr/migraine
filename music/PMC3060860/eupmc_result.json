@@ -1,0 +1,468 @@
+{
+  "id": [
+    "21385357"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21385357"
+  ],
+  "pmcid": [
+    "PMC3060860"
+  ],
+  "doi": [
+    "10.1186/1746-4269-7-9"
+  ],
+  "title": [
+    "The faunal drugstore: animal-based remedies used in traditional medicines in Latin America."
+  ],
+  "authorString": [
+    "Alves RR, Alves HN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alves RR"
+          ],
+          "firstName": [
+            "Rômulo R N"
+          ],
+          "lastName": [
+            "Alves"
+          ],
+          "initials": [
+            "RR"
+          ]
+        },
+        {
+          "fullName": [
+            "Alves HN"
+          ],
+          "firstName": [
+            "Humberto N"
+          ],
+          "lastName": [
+            "Alves"
+          ],
+          "initials": [
+            "HN"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1803596"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of ethnobiology and ethnomedicine"
+          ],
+          "ISOAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "medlineAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "NLMid": [
+            "101245794"
+          ],
+          "ISSN": [
+            "1746-4269"
+          ],
+          "ESSN": [
+            "1746-4269"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "9"
+  ],
+  "abstractText": [
+    "Zootherapy is the treatment of human ailments with remedies made from animals and their products. Despite its prevalence in traditional medical practices worldwide, research on this phenomenon has often been neglected in comparison to medicinal plant research. This review discusses some related aspects of the use of animal-based remedies in Latin America, identifies those species used as folk remedies, and discusses the implications of zootherapy for public health and biological conservation. The review of literature revealed that at least 584 animal species, distributed in 13 taxonomic categories, have been used in traditional medicine in region. The number of medicinal species catalogued was quite expansive and demonstrates the importance of zootherapy as an alternative mode of therapy in Latin America. Nevertheless, this number is certainly underestimated since the number of studies on the theme are very limited. Animals provide the raw materials for remedies prescribed clinically and are also used in the form of amulets and charms in magic-religious rituals and ceremonies. Zootherapeutic resources were used to treat different diseases. The medicinal fauna is largely based on wild animals, including some endangered species. Besides being influenced by cultural aspects, the relations between humans and biodiversity in the form of zootherapeutic practices are conditioned by the social and economic relations between humans themselves. Further ethnopharmacological studies are necessary to increase our understanding of the links between traditional uses of faunistic resources and conservation biology, public health policies, sustainable management of natural resources and bio-prospecting."
+  ],
+  "affiliation": [
+    "Departamento de Biologia, Universidade Estadual da Paraíba, Avenida das Baraúnas, Campina Grande, Paraíba 58109-753, Brazil. romulo_nobrega@yahoo.com.br"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals, Wild"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Organotherapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Medicine, Traditional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Conservation of Natural Resources"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cultural Characteristics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Socioeconomic Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Latin America"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1746-4269-7-9.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1746-4269/7/9/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1746-4269/7/9"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21385357/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21385357/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1746-4269-7-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3060860"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3060860?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-06-09"
+  ],
+  "dateOfCreation": [
+    "2011-03-22"
+  ],
+  "firstIndexDate": [
+    "2011-03-10"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-01"
+  ],
+  "dateOfRevision": [
+    "2013-06-30"
+  ],
+  "electronicPublicationDate": [
+    "2011-03-07"
+  ],
+  "firstPublicationDate": [
+    "2011-03-07"
+  ]
+}

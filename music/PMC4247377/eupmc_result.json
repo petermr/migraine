@@ -1,0 +1,740 @@
+{
+  "id": [
+    "25224073"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25224073"
+  ],
+  "pmcid": [
+    "PMC4247377"
+  ],
+  "doi": [
+    "10.1016/j.sleep.2014.06.019"
+  ],
+  "title": [
+    "Auditory aura in nocturnal frontal lobe epilepsy: a red flag to suspect an extra-frontal epileptogenic zone."
+  ],
+  "authorString": [
+    "Ferri L, Bisulli F, Nobili L, Tassi L, Licchetta L, Mostacci B, Stipa C, Mainieri G, Bernabè G, Provini F, Tinuper P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ferri L"
+          ],
+          "firstName": [
+            "Lorenzo"
+          ],
+          "lastName": [
+            "Ferri"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bisulli F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Bisulli"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1109-7296",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy; IRCCS Institute of Neurological Sciences, Bologna, Italy. Electronic address: francesca.bisulli@unibo.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Nobili L"
+          ],
+          "firstName": [
+            "Lino"
+          ],
+          "lastName": [
+            "Nobili"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9317-5405",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "'C. Munari' Epilepsy Surgery Center, Niguarda Hospital, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Tassi L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Tassi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0632-7296",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "'C. Munari' Epilepsy Surgery Center, Niguarda Hospital, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Licchetta L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Licchetta"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy; IRCCS Institute of Neurological Sciences, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Mostacci B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Mostacci"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6994-0821",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy; IRCCS Institute of Neurological Sciences, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Stipa C"
+          ],
+          "firstName": [
+            "Carlotta"
+          ],
+          "lastName": [
+            "Stipa"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7628-3711",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy; IRCCS Institute of Neurological Sciences, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Mainieri G"
+          ],
+          "firstName": [
+            "Greta"
+          ],
+          "lastName": [
+            "Mainieri"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bernabè G"
+          ],
+          "firstName": [
+            "Giorgia"
+          ],
+          "lastName": [
+            "Bernabè"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Provini F"
+          ],
+          "firstName": [
+            "Federica"
+          ],
+          "lastName": [
+            "Provini"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy; IRCCS Institute of Neurological Sciences, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Tinuper P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Tinuper"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0588-3063",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy; IRCCS Institute of Neurological Sciences, Bologna, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0632-7296",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6994-0821",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0588-3063",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1109-7296",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9317-5405",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7628-3711",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2225052"
+      ],
+      "dateOfPublication": [
+        "2014 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sleep medicine"
+          ],
+          "ISOAbbreviation": [
+            "Sleep Med."
+          ],
+          "medlineAbbreviation": [
+            "Sleep Med"
+          ],
+          "NLMid": [
+            "100898759"
+          ],
+          "ISSN": [
+            "1389-9457"
+          ],
+          "ESSN": [
+            "1878-5506"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "1417-1423"
+  ],
+  "abstractText": [
+    "To describe the anatomo-electro-clinical findings of patients with nocturnal hypermotor seizures (NHS) preceded by auditory symptoms, to evaluate the localizing value of auditory aura.Our database of 165 patients with nocturnal frontal lobe epilepsy (NFLE) diagnosis confirmed by videopolysomnography (VPSG) was reviewed, selecting those who reported an auditory aura as the initial ictal symptom in at least two NHS during their lifetime.Eleven patients were selected (seven males, four females). According to the anatomo-electro-clinical data, three groups were identified. Group 1 [defined epileptogenic zone (EZ)]: three subjects were studied with stereo-EEG. The EZ lay in the left superior temporal gyrus in two cases, whereas in the third case seizures arose from a dysplastic lesion located in the left temporal lobe. One of these three patients underwent left Heschl's gyrus resection, and is currently seizure-free. Group 2 (presumed EZ): three cases in which a presumed EZ was identified; in the left temporal lobe in two cases and in the left temporal lobe extending to the insula in one subject. Group 3 (uncertain EZ): five cases had anatomo-electro-clinical correlations discordant.This work suggests that auditory aura may be a helpful anamnestic feature suggesting an extra-frontal seizure origin. This finding could guide secondary investigations to improve diagnostic definition and selection of candidates for surgical treatment."
+  ],
+  "affiliation": [
+    "Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "GGP13200"
+          ],
+          "agency": [
+            "Telethon"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Frontal Lobe"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epilepsy, Frontal Lobe"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hallucinations"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electroencephalography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polysomnography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuroimaging"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Epilepsy",
+        "Nocturnal Frontal Lobe Epilepsy",
+        "Epileptogenic Zone",
+        "Hypermotor Seizures",
+        "Auditory Aura",
+        "Localizing Value"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.sleep.2014.06.019"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4247377"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-07-27"
+  ],
+  "dateOfCreation": [
+    "2014-12-02"
+  ],
+  "firstIndexDate": [
+    "2014-09-17"
+  ],
+  "fullTextReceivedDate": [
+    "2014-12-05"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2014-08-15"
+  ],
+  "firstPublicationDate": [
+    "2014-08-15"
+  ]
+}

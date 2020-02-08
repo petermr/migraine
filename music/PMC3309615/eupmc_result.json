@@ -1,0 +1,271 @@
+{
+  "id": [
+    "22454821"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22454821"
+  ],
+  "pmcid": [
+    "PMC3309615"
+  ],
+  "doi": [
+    "10.4103/1947-2714.93878"
+  ],
+  "title": [
+    "The Influence of Pathologies upon Sensory Perception and Sensory Coordination in Children with Developmental Dyslexia and Learning Disorders: A Unified Theory of Developmental Dyslexia."
+  ],
+  "authorString": [
+    "Ewing GW, Parvez SH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ewing GW"
+          ],
+          "firstName": [
+            "Graham Wilfred"
+          ],
+          "lastName": [
+            "Ewing"
+          ],
+          "initials": [
+            "GW"
+          ],
+          "affiliation": [
+            "Montague Healthcare, Cotgrave, Nottingham NG12 3TU, England."
+          ]
+        },
+        {
+          "fullName": [
+            "Parvez SH"
+          ],
+          "firstName": [
+            "Syed Hasan"
+          ],
+          "lastName": [
+            "Parvez"
+          ],
+          "initials": [
+            "SH"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "1917985"
+      ],
+      "dateOfPublication": [
+        "2012 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "North American journal of medical sciences"
+          ],
+          "ISOAbbreviation": [
+            "N Am J Med Sci"
+          ],
+          "medlineAbbreviation": [
+            "N Am J Med Sci"
+          ],
+          "NLMid": [
+            "101521411"
+          ],
+          "ISSN": [
+            "2250-1541"
+          ],
+          "ESSN": [
+            "1947-2714"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "109-116"
+  ],
+  "abstractText": [
+    "This case is presented to explain that developmental dyslexia and related autistic spectrum disorders have solely pathological origins. There is a general consensus of opinion which supports the phonological theory. However, this largely ignores the biological basis for all aspects of the brain's development and function, and hence, for its dysfunction. A unified explanation must take into account all salient features including cognitive dysfunction, encephalograph (EEG) frequencies, neural networks, physiological systems, autonomic nervous system and the function of the cerebellum. It must explain the significance of the brain waves and neurons and their normally synchronized or coherent function. This article builds upon an earlier article by the authors, which incorporates a review and discussion of the prevailing theories or models for developmental dyslexia. It looks at the issues from a top-down 'systems biology' perspective. It concludes that it may be only the body's biochemistry and, in particular, the onset of pathologies that explain the phenomena which we recognize as developmental dyslexia. Pathologies experienced in the early prepubescent years influence neural development. They influence the speed and coherent transmission of data between the senses and neural centers. It is proposed that this explains the nature and occurrence of what we recognize as developmental dyslexia."
+  ],
+  "affiliation": [
+    "Montague Healthcare, Cotgrave, Nottingham NG12 3TU, England."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cognition",
+        "Autonomic nervous system",
+        "Autistic Spectrum Disorder",
+        "Physiological Systems",
+        "Developmental Dyslexia",
+        "Encephalograph Frequencies"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22454821/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/1947-2714.93878"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3309615"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-10-02"
+  ],
+  "dateOfCreation": [
+    "2012-03-29"
+  ],
+  "firstIndexDate": [
+    "2012-03-29"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-09"
+  ],
+  "dateOfRevision": [
+    "2018-12-24"
+  ],
+  "firstPublicationDate": [
+    "2012-03-01"
+  ]
+}

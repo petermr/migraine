@@ -1,0 +1,585 @@
+{
+  "id": [
+    "27160107"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27160107"
+  ],
+  "pmcid": [
+    "PMC4864730"
+  ],
+  "doi": [
+    "10.1186/s10194-016-0608-y"
+  ],
+  "title": [
+    "Electronic behavioral interventions for headache: a systematic review."
+  ],
+  "authorString": [
+    "Minen MT, Torous J, Raynowska J, Piazza A, Grudzen C, Powers S, Lipton R, Sevick MA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Minen MT"
+          ],
+          "firstName": [
+            "Mia Tova"
+          ],
+          "lastName": [
+            "Minen"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "affiliation": [
+            "Department of Neurology, NYU Langone Medical Center, 240 East 38th Street 20th floor, New York, NY, 10016, USA. minenmd@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Torous J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Torous"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Beth Israel Deaconess Medical Center and Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Raynowska J"
+          ],
+          "firstName": [
+            "Jenelle"
+          ],
+          "lastName": [
+            "Raynowska"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "NYU School of Medicine, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Piazza A"
+          ],
+          "firstName": [
+            "Allison"
+          ],
+          "lastName": [
+            "Piazza"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4955-9660",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Library Services, NYU School of Medicine, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Grudzen C"
+          ],
+          "firstName": [
+            "Corita"
+          ],
+          "lastName": [
+            "Grudzen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3039-8497",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Emergency Medicine, NYU Langone Medical Center, NYU School of Medicine, New York, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Powers S"
+          ],
+          "firstName": [
+            "Scott"
+          ],
+          "lastName": [
+            "Powers"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Cincinnati Children's Medical Center, Headache Center, Office for Clinical and Translational Research, Center for Child Behavior and Nutrition Research and Training, Pediatrics Cincinnati, Cincinnati, Ohio, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lipton R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Lipton"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Montefiore Headache Center, Department of Neurology, Albert Einstein College of Medicine, Neurology, Bronx, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sevick MA"
+          ],
+          "firstName": [
+            "Mary Ann"
+          ],
+          "lastName": [
+            "Sevick"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Center for Behavioral Change, Department of Population Health, NYU School of Medicine, New York, NY, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4955-9660",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3039-8497",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2418557"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "51"
+  ],
+  "abstractText": [
+    "There is increasing interest in using electronic behavioral interventions as well as mobile technologies such as smartphones for improving the care of chronic disabling diseases such as migraines. However, less is known about the current clinical evidence for the feasibility and effectiveness of such behavioral interventions.To review the published literature of behavioral interventions for primary headache disorders delivered by electronic means suitable for use outside of the clinician's office.An electronic database search of PubMed, PsycINFO, and Embase was conducted through December 11, 2015. All eligible studies were systematically reviewed to examine the modality in which treatment was delivered (computer, smartphone, watch and other), types of behavioral intervention delivered (cognitive behavioral therapy [CBT], biofeedback, relaxation, other), the headache type being treated, duration of treatment, adherence, and outcomes obtained by the trials to examine the overall feasibility of electronic behavioral interventions for headache.Our search produced 291 results from which 23 eligible articles were identified. Fourteen studies used the internet via the computer, 2 used Personal Digital Assistants, 2 used CD ROM and 5 used other types of devices. None used smartphones or wearable devices. Four were pilot studies (N ≤ 10) which assessed feasibility. For the behavioral intervention, CBT was used in 11 (48 %) of the studies, relaxation was used in 8 (35 %) of the studies, and biofeedback was used in 5 (22 %) of the studies. The majority of studies (14/23, 61 %) used more than one type of behavioral modality. The duration of therapy ranged from 4-8 weeks for CBT with a mean of 5.9 weeks. The duration of other behavioral interventions ranged from 4 days to 60 months. Outcomes measured varied widely across the individual studies.Despite the move toward individualized medicine and mHealth, the current literature shows that most studies using electronic behavioral intervention for the treatment of headache did not use mobile devices. The studies examining mobile devices showed that the behavioral interventions that employed them were acceptable to patients. Data are limited on the dose required, long term efficacy, and issues related to the security and privacy of this health data. This study was registered at the PROSPERO International Prospective Register of Systematic Reviews (CRD42015032284) (Prospero, 2015)."
+  ],
+  "affiliation": [
+    "Department of Neurology, NYU Langone Medical Center, 240 East 38th Street 20th floor, New York, NY, 10016, USA. minenmd@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feasibility Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Internet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computers, Handheld"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "UT"
+                  ],
+                  "qualifierName": [
+                    "utilization"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Behavioral medicine",
+        "Biofeedback",
+        "Headache",
+        "Cognitive Behavioral Therapy",
+        "Electronic",
+        "Progressive Muscle Relaxation Therapy"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-016-0608-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4864730"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4864730?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-10-21"
+  ],
+  "dateOfCreation": [
+    "2016-05-11"
+  ],
+  "firstIndexDate": [
+    "2016-05-11"
+  ],
+  "fullTextReceivedDate": [
+    "2016-06-02"
+  ],
+  "dateOfRevision": [
+    "2018-09-14"
+  ],
+  "electronicPublicationDate": [
+    "2016-05-10"
+  ],
+  "firstPublicationDate": [
+    "2016-05-10"
+  ]
+}

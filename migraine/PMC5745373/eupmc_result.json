@@ -1,0 +1,743 @@
+{
+  "id": [
+    "29285570"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29285570"
+  ],
+  "pmcid": [
+    "PMC5745373"
+  ],
+  "doi": [
+    "10.1186/s10194-017-0818-y"
+  ],
+  "title": [
+    "Experts' opinion about the primary headache diagnostic criteria of the ICHD-3rd edition beta in children and adolescents."
+  ],
+  "authorString": [
+    "Özge A, Faedda N, Abu-Arafeh I, Gelfand AA, Goadsby PJ, Cuvellier JC, Valeriani M, Sergeev A, Barlow K, Uludüz D, Yalın OÖ, Lipton RB, Rapoport A, Guidetti V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Özge A"
+          ],
+          "firstName": [
+            "Aynur"
+          ],
+          "lastName": [
+            "Özge"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurology, Mersin University Medical Faculty, Mersin, Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Faedda N"
+          ],
+          "firstName": [
+            "Noemi"
+          ],
+          "lastName": [
+            "Faedda"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Phd program in Behavioural Neuroscience, Department of Paediatrics and Child and Adolescent Neuropsychiatry, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Abu-Arafeh I"
+          ],
+          "firstName": [
+            "Ishaq"
+          ],
+          "lastName": [
+            "Abu-Arafeh"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1252-0153",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Royal Hospital for Sick Children, Glasgow, G3 8SJ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gelfand AA"
+          ],
+          "firstName": [
+            "Amy A"
+          ],
+          "lastName": [
+            "Gelfand"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "UCSF Headache Center and UCSF Benioff Children's Hospital, Pediatric Brain Center 2330 Post St 6th Floor San Francisco, Campus Box 1675, San Francisco, CA, 94115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Goadsby PJ"
+          ],
+          "firstName": [
+            "Peter James"
+          ],
+          "lastName": [
+            "Goadsby"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "affiliation": [
+            "NIHR-Wellcome Trust King's Clinical Research Facility, King's College London, London, England."
+          ]
+        },
+        {
+          "fullName": [
+            "Cuvellier JC"
+          ],
+          "firstName": [
+            "Jean Christophe"
+          ],
+          "lastName": [
+            "Cuvellier"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Division of Paediatric Neurology, Department of Paediatrics, Lille Faculty of Medicine and Children's Hospital, Lille, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Valeriani M"
+          ],
+          "firstName": [
+            "Massimiliano"
+          ],
+          "lastName": [
+            "Valeriani"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Division of Neurology, Ospedale Pediatrico Bambino Gesù, Piazza Sant'Onofrio 4, 00165, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sergeev A"
+          ],
+          "firstName": [
+            "Alexey"
+          ],
+          "lastName": [
+            "Sergeev"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurology and Clinical Neurophysiology, University Headache Clinic, Moscow State Medical University, Moscow, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Barlow K"
+          ],
+          "firstName": [
+            "Karen"
+          ],
+          "lastName": [
+            "Barlow"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2612-8507",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Medicine, University of Calgary, Alberta Children's Hospital, C4-335, 2888 Shaganappi Trail NW, Calgary, AB, T3B 6A8, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Uludüz D"
+          ],
+          "firstName": [
+            "Derya"
+          ],
+          "lastName": [
+            "Uludüz"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Cerrahpaşa Medical Faculty, Department of Neurology, İstanbul University, Kocamustafapaşa, İstanbul, Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Yalın OÖ"
+          ],
+          "firstName": [
+            "Osman Özgür"
+          ],
+          "lastName": [
+            "Yalın"
+          ],
+          "initials": [
+            "OÖ"
+          ],
+          "affiliation": [
+            "İstanbul Research and Education Hospital, Kocamustafapaşa, İstanbul, Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Lipton RB"
+          ],
+          "firstName": [
+            "Richard B"
+          ],
+          "lastName": [
+            "Lipton"
+          ],
+          "initials": [
+            "RB"
+          ],
+          "affiliation": [
+            "Department of Neurology Montefiore Headache Center, Albert Einstein College of Medicine, Louis and Dora Rousso Building, 1165 Morris Park Avenue, Room 332, Bronx, NY, 10461, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rapoport A"
+          ],
+          "firstName": [
+            "Alan"
+          ],
+          "lastName": [
+            "Rapoport"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "The David Geffen School of Medicine at UCLA, Los Angeles, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Guidetti V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Guidetti"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Pediatrics and Child and Adolescent Neuropsychiatry, Sapienza University, Rome, Italy. vincenzo.guidetti@uniroma1.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2612-8507",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1252-0153",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2633120"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "109"
+  ],
+  "abstractText": [
+    "BACKGROUND:The 2013 International Classification of Headache Disorders-3 (ICHD-3) was published in a beta version to allow the clinicians to confirm the validity of the criteria or to suggest improvements based on field studies. The aim of this work was to review the Primary Headache Disorders Section of ICHD-3 beta data on children and adolescents (age 0-18 years), and to suggest changes, additions, and amendments. METHODS:Several experts in childhood headache across the world applied different aspects of ICHD-3 beta in their normal clinical practice. Based on their personal experience and the literature available on pediatric headache, they made observations and proposed suggestions for the primary headache disorders section of ICHD-3 beta data on children and adolescents. RESULTS:Some headache disorders in children have specific features which are different from those seen in adults and which should be acknowledged and considered. Some features in children were found to be age-dependent: clinical characteristics, risks factors and etiologies have a strong bio psycho-social basis in children and adolescents making primary headache disorders in children distinct from those in adults. CONCLUSIONS:Several recommendations are presented in order to make ICHD-3 more appropriate for use with children."
+  ],
+  "affiliation": [
+    "Department of Neurology, Mersin University Medical Faculty, Mersin, Turkey."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Attitude"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Age Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Expert Testimony"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "International Classification of Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache Disorders, Primary"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Classification",
+        "Migraine",
+        "Headache",
+        "Cluster Headache",
+        "Tension-type Headache",
+        "Primary Headache Disorders",
+        "Childhood Headache",
+        "Adolescent Headache"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-017-0818-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5745373"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5745373?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-06-13"
+  ],
+  "dateOfCreation": [
+    "2017-12-30"
+  ],
+  "firstIndexDate": [
+    "2017-12-29"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-21"
+  ],
+  "dateOfRevision": [
+    "2019-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-23"
+  ],
+  "firstPublicationDate": [
+    "2017-11-23"
+  ]
+}

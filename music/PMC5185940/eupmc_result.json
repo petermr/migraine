@@ -1,0 +1,177 @@
+{
+  "id": [
+    "PMC5185940"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5185940"
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "66"
+      ],
+      "journalIssueId": [
+        "2598384"
+      ],
+      "dateOfPublication": [
+        "1931 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "1931"
+      ],
+      "printPublicationDate": [
+        "1931-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Indian medical gazette"
+          ],
+          "ISOAbbreviation": [
+            "Ind Med Gaz"
+          ],
+          "medlineAbbreviation": [
+            "Ind Med Gaz"
+          ],
+          "NLMid": [
+            "7501544"
+          ],
+          "ISSN": [
+            "0019-5863"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1931"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Admin"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5185940/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5185940"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-18"
+  ],
+  "firstIndexDate": [
+    "2017-09-18"
+  ],
+  "fullTextReceivedDate": [
+    "2017-09-18"
+  ],
+  "dateOfRevision": [
+    "2019-10-01"
+  ],
+  "firstPublicationDate": [
+    "1931-01-01"
+  ]
+}

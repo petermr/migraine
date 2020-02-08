@@ -1,0 +1,196 @@
+{
+  "id": [
+    "PMC5578953"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5578953"
+  ],
+  "doi": [
+    "10.1007/s13167-017-0108-4"
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6874-1599",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2599357"
+      ],
+      "dateOfPublication": [
+        "2017 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The EPMA Journal"
+          ],
+          "ISSN": [
+            "1878-5077"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1-54"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Calendar"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5578953/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5578953"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-09-20"
+  ],
+  "firstIndexDate": [
+    "2017-09-20"
+  ],
+  "fullTextReceivedDate": [
+    "2017-09-20"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-14"
+  ],
+  "firstPublicationDate": [
+    "2017-08-14"
+  ]
+}

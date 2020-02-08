@@ -1,0 +1,604 @@
+{
+  "id": [
+    "25533301"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25533301"
+  ],
+  "pmcid": [
+    "PMC4429167"
+  ],
+  "doi": [
+    "10.1177/1352458514564486"
+  ],
+  "title": [
+    "A systematic review of the incidence and prevalence of sleep disorders and seizure disorders in multiple sclerosis."
+  ],
+  "authorString": [
+    "Marrie RA, Reider N, Cohen J, Trojano M, Sorensen PS, Cutter G, Reingold S, Stuve O."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Marrie RA"
+          ],
+          "firstName": [
+            "Ruth Ann"
+          ],
+          "lastName": [
+            "Marrie"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1855-5595",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, University of Manitoba, Winnipeg, Canada/Department of Community Health Sciences, University of Manitoba, Winnipeg, Canada rmarrie@hsc.mb.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Reider N"
+          ],
+          "firstName": [
+            "Nadia"
+          ],
+          "lastName": [
+            "Reider"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, University of Manitoba, Winnipeg, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Cohen J"
+          ],
+          "firstName": [
+            "Jeffrey"
+          ],
+          "lastName": [
+            "Cohen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Mellen Center for MS Treatment and Research, Cleveland Clinic, Cleveland, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Trojano M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Trojano"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6329-8946",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Basic Medical Sciences, Neurosciences and Sense Organs, University of Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sorensen PS"
+          ],
+          "firstName": [
+            "Per Soelberg"
+          ],
+          "lastName": [
+            "Sorensen"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2818-3780",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, Copenhagen University Hospital Rigshospitalet, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Cutter G"
+          ],
+          "firstName": [
+            "Gary"
+          ],
+          "lastName": [
+            "Cutter"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Biostatistics, University of Alabama at Birmingham, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Reingold S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Reingold"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Scientific and Clinical Review Associates, LLC, Salisbury, CT, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Stuve O"
+          ],
+          "firstName": [
+            "Olaf"
+          ],
+          "lastName": [
+            "Stuve"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurotherapeutics, University of Texas Southwestern, Dallas, TX, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6329-8946",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2818-3780",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1855-5595",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2259214"
+      ],
+      "dateOfPublication": [
+        "2015 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Multiple sclerosis (Houndmills, Basingstoke, England)"
+          ],
+          "ISOAbbreviation": [
+            "Mult. Scler."
+          ],
+          "medlineAbbreviation": [
+            "Mult Scler"
+          ],
+          "NLMid": [
+            "9509185"
+          ],
+          "ISSN": [
+            "1352-4585"
+          ],
+          "ESSN": [
+            "1477-0970"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "342-349"
+  ],
+  "abstractText": [
+    "Several studies have suggested that comorbid neurologic disorders are more common than expected in multiple sclerosis (MS).To estimate the incidence and prevalence of comorbid seizure disorders and sleep disorders in persons with MS and to evaluate the quality of studies included.The PUBMED, EMBASE, Web of Knowledge, and SCOPUS databases, conference proceedings, and reference lists of retrieved articles were searched. Two reviewers independently screened abstracts to identify relevant articles, followed by full-text review of selected articles. We assessed included studies qualitatively and quantitatively (I² statistic), and conducted meta-analyses among population-based studies.We reviewed 32 studies regarding seizure disorders. Among population-based studies the incidence of seizure disorders was 2.28% (95% CI: 1.11-3.44%), while the prevalence was 3.09% (95% CI: 2.01-4.16%). For sleep disorders we evaluated 18 studies; none were population-based. The prevalence ranged from 0-1.6% for narcolepsy, 14.4-57.5% for restless legs syndrome, 2.22-3.2% for REM behavior disorder, and 7.14-58.1% for obstructive sleep apnea.This review suggests that seizure disorders and sleep disorders are common in MS, but highlights gaps in the epidemiological knowledge of these conditions in MS worldwide. Other than central-western Europe and North America, most regions are understudied."
+  ],
+  "affiliation": [
+    "Department of Internal Medicine, University of Manitoba, Winnipeg, Canada/Department of Community Health Sciences, University of Manitoba, Winnipeg, Canada rmarrie@hsc.mb.ca."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Canadian Institutes of Health Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multiple Sclerosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epilepsy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Incidence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Comorbidity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sleep Wake Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Epilepsy",
+        "Sleep",
+        "Prevalence",
+        "Multiple sclerosis",
+        "Seizures",
+        "incidence",
+        "Comorbidity"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1352458514564486"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4429167"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4429167?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "30"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-11-24"
+  ],
+  "dateOfCreation": [
+    "2015-03-03"
+  ],
+  "firstIndexDate": [
+    "2015-01-27"
+  ],
+  "fullTextReceivedDate": [
+    "2015-05-17"
+  ],
+  "dateOfRevision": [
+    "2016-10-19"
+  ],
+  "electronicPublicationDate": [
+    "2014-12-22"
+  ],
+  "firstPublicationDate": [
+    "2014-12-22"
+  ]
+}

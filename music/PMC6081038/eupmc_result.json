@@ -1,0 +1,375 @@
+{
+  "id": [
+    "22588442"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22588442"
+  ],
+  "pmcid": [
+    "PMC6081038"
+  ],
+  "doi": [
+    "10.5144/0256-4947.2012.293"
+  ],
+  "title": [
+    "Song listening does not affect pattern reversal visual evoked potentials."
+  ],
+  "authorString": [
+    "Sawaya R, Kanso MI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sawaya R"
+          ],
+          "firstName": [
+            "Raja"
+          ],
+          "lastName": [
+            "Sawaya"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Raja Sawaya American University Medical Center, Beirut, Lebanon. rs01@aub.edu.lb"
+          ]
+        },
+        {
+          "fullName": [
+            "Kanso MI"
+          ],
+          "firstName": [
+            "Mohamed I"
+          ],
+          "lastName": [
+            "Kanso"
+          ],
+          "initials": [
+            "MI"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "32"
+      ],
+      "journalIssueId": [
+        "1936542"
+      ],
+      "dateOfPublication": [
+        "2012 May-Jun"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Annals of Saudi medicine"
+          ],
+          "ISOAbbreviation": [
+            "Ann Saudi Med"
+          ],
+          "medlineAbbreviation": [
+            "Ann Saudi Med"
+          ],
+          "NLMid": [
+            "8507355"
+          ],
+          "ISSN": [
+            "0256-4947"
+          ],
+          "ESSN": [
+            "0975-4466"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "293-295"
+  ],
+  "abstractText": [
+    "The pattern reversal visual evoked response has been defined as a reproducible cortical response upon stimulation of the eyes. This response depends on the intensity of the light stimulus and its distance from the eyes and is not affected by simultaneous tactile or auditory stimulation. However, in some patients we observe different P100 latencies, at different intervals of testing, without lesions of the optic tracts. The purpose of this study was to evaluate whether a loud meaningful acoustic noise, simulated by song listening, during the testing of the visual evoked response, could alter the latency or amplitude of the cortical potentials.The study was performed in the Clinical Neurophysiology Laboratory of the Medical Center by one technician trained to perform visual evoked potential analysis.We performed pattern reversal visual evoked potentials on 40 eyes of normal individuals at rest and during auditory stimulation with loud meaningful acoustic noise in the form of songs familiar to the subject. We compared the latencies and amplitudes of the P100 wave during these two test conditions.The latencies and amplitudes of the P100 waves evoked upon stimulation of the eyes of the subjects did not differ statistically during the test at rest and upon stimulation with songs simulating loud acoustic noise.We conclude that loud song listening has no effect on the pattern reversal visual evoked potential latency or amplitude. Thus, it seems likely that the results are independent of environmental acoustic noise."
+  ],
+  "affiliation": [
+    "Raja Sawaya American University Medical Center, Beirut, Lebanon. rs01@aub.edu.lb"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electroencephalography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acoustic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Photic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Auditory Perception"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Visual Perception"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Evoked Potentials, Visual"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Music"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5144/0256-4947.2012.293"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6081038"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6081038?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-10-18"
+  ],
+  "dateOfCreation": [
+    "2012-05-17"
+  ],
+  "firstIndexDate": [
+    "2012-05-19"
+  ],
+  "fullTextReceivedDate": [
+    "2018-09-23"
+  ],
+  "dateOfRevision": [
+    "2018-09-23"
+  ],
+  "firstPublicationDate": [
+    "2012-05-01"
+  ]
+}

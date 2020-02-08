@@ -1,0 +1,307 @@
+{
+  "id": [
+    "31110955"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31110955"
+  ],
+  "pmcid": [
+    "PMC6506428"
+  ],
+  "doi": [
+    "10.5223/pghn.2019.22.3.225"
+  ],
+  "title": [
+    "Large Variation in Clinical Practice amongst Pediatricians in Treating Children with Recurrent Abdominal Pain."
+  ],
+  "authorString": [
+    "van Kalleveen MW, Noordhuis EJ, Lasham C, Plötz FB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "van Kalleveen MW"
+          ],
+          "firstName": [
+            "Michael W"
+          ],
+          "lastName": [
+            "van Kalleveen"
+          ],
+          "initials": [
+            "MW"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Tergooi Hospital, Blaricum, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Noordhuis EJ"
+          ],
+          "firstName": [
+            "Elise J"
+          ],
+          "lastName": [
+            "Noordhuis"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Tergooi Hospital, Blaricum, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Lasham C"
+          ],
+          "firstName": [
+            "Carole"
+          ],
+          "lastName": [
+            "Lasham"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Tergooi Hospital, Blaricum, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Plötz FB"
+          ],
+          "firstName": [
+            "Frans B"
+          ],
+          "lastName": [
+            "Plötz"
+          ],
+          "initials": [
+            "FB"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Tergooi Hospital, Blaricum, the Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2819252"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pediatric gastroenterology, hepatology & nutrition"
+          ],
+          "ISOAbbreviation": [
+            "Pediatr Gastroenterol Hepatol Nutr"
+          ],
+          "medlineAbbreviation": [
+            "Pediatr Gastroenterol Hepatol Nutr"
+          ],
+          "NLMid": [
+            "101590471"
+          ],
+          "ISSN": [
+            "2234-8646"
+          ],
+          "ESSN": [
+            "2234-8840"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "225-232"
+  ],
+  "abstractText": [
+    "Purpose:To evaluate intra- and inter-observer variability and guideline adherence amongst pediatricians in treating children aged between 4 and 18 years referred with recurrent abdominal pain (RAP) without red flags. Methods:The first part of the study is a retrospective single-center cohort study. The diagnostic work-ups of eight pediatricians were compared to the national guidelines. Intra- and inter-observer variability were examined by Cramer's V test. Intra-observer variability was defined as the amount of variation within a pediatrician and inter-observer variability as the amount of variation between pediatricians in the application of diagnostic work-up in children with RAP. Prospectively, the same pediatricians were requested to provide a report on their management strategy with a fictitious case to prove similarities in retrospective diagnostic work-up. Results:A total of 10 patients per pediatrician were analyzed. Retrospectively, a (very) weak association between pediatricians' diagnostic work-ups was found (0.22), which implies high inter-observer variability. The association between intra-observer diagnostic was moderate (range, 0.35-0.46). The Cramer's V of 0.60 in diagnostic work-up between pediatricians in the fictitious case implied the presence of a moderately strong association and lower inter-observer variability than in the retrospective study. Adherence to the guideline was 66.8%. Conclusion:We found a high intra- and inter-observer variability and moderate guideline adherence in daily clinical practice amongst pediatricians in treating children with RAP in a teaching hospital."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Tergooi Hospital, Blaricum, the Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Abdominal Pain",
+        "Guideline Adherence",
+        "Intra-observer Variability",
+        "Interobserver Variability",
+        "Pediatricians"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5223/pghn.2019.22.3.225"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6506428"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6506428?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-22"
+  ],
+  "firstIndexDate": [
+    "2019-05-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-24"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-17"
+  ],
+  "firstPublicationDate": [
+    "2019-04-17"
+  ]
+}

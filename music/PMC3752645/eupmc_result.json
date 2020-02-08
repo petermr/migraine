@@ -1,0 +1,373 @@
+{
+  "id": [
+    "24358816"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24358816"
+  ],
+  "pmcid": [
+    "PMC3752645"
+  ],
+  "doi": [
+    "10.12688/f1000research.1-65.v1"
+  ],
+  "title": [
+    "Student feedback about the use of role plays in Sparshanam, a medical humanities module."
+  ],
+  "authorString": [
+    "Shankar PR, Piryani RM, Singh KK, Karki BM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shankar PR"
+          ],
+          "firstName": [
+            "P Ravi"
+          ],
+          "lastName": [
+            "Shankar"
+          ],
+          "initials": [
+            "PR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6105-5636",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Education, KIST Medical College, Lalitpur, Nepal."
+          ]
+        },
+        {
+          "fullName": [
+            "Piryani RM"
+          ],
+          "firstName": [
+            "Rano M"
+          ],
+          "lastName": [
+            "Piryani"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "Department of Medicine, KIST Medical College, Lalitpur, Nepal."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh KK"
+          ],
+          "firstName": [
+            "Kundan K"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "Department of Clinical Pharmacology, KIST Medical College, Lalitpur, Nepal."
+          ]
+        },
+        {
+          "fullName": [
+            "Karki BM"
+          ],
+          "firstName": [
+            "Bal Man S"
+          ],
+          "lastName": [
+            "Karki"
+          ],
+          "initials": [
+            "BM"
+          ],
+          "affiliation": [
+            "Director of Academics, KIST Medical College, Lalitpur, Nepal."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6105-5636",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2064424"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "F1000Research"
+          ],
+          "ISOAbbreviation": [
+            "F1000Res"
+          ],
+          "medlineAbbreviation": [
+            "F1000Res"
+          ],
+          "NLMid": [
+            "101594320"
+          ],
+          "ISSN": [
+            "2046-1402"
+          ],
+          "ESSN": [
+            "2046-1402"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "65"
+  ],
+  "abstractText": [
+    "BACKGROUND: At KIST Medical College, Lalitpur, Nepal, a Medical Humanities module for first year medical students has been conducted. Role plays are used to explore social, medical and sexual issues in the Nepalese context. The present study obtained student feedback about the role plays used in the module, the difficulties faced, and obtained suggestions for further improvement. METHOD: The module was conducted from January to August 2011 using a total of 15 role plays. Student feedback was obtained using a semi-structured questionnaire. Informal discussions were held and a questionnaire was circulated among the first year students who had participated in the module. RESULTS: Ninety-eight of the 100 students in the module participated in the study. The overall opinion regarding the role plays was positive. Students stated role plays helped to make module objectives concrete and interesting, made students identify with the problem being investigated and improved communication skills. Role plays were designed to address important health issues in Nepal and prepare students for addressing these issues in future practice. A lack of sufficient time for preparing the role plays and initial problems with group dynamics were mentioned by the respondents during the study. CONCLUSIONS: Student feedback about the use of role plays during the module was positive. Role plays helped in making module objectives more concrete and interesting, improved communication skills and addressed important health issues in Nepal. Role plays are not resource intensive and can be considered for use in medical schools in developing nations."
+  ],
+  "affiliation": [
+    "Department of Medical Education, KIST Medical College, Lalitpur, Nepal."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24358816/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24358816/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12688/f1000research.1-65.v1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3752645"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3752645?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR40368"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-12-23"
+  ],
+  "dateOfCreation": [
+    "2013-12-23"
+  ],
+  "firstIndexDate": [
+    "2014-01-03"
+  ],
+  "fullTextReceivedDate": [
+    "2013-12-08"
+  ],
+  "dateOfRevision": [
+    "2014-07-31"
+  ],
+  "electronicPublicationDate": [
+    "2012-12-13"
+  ],
+  "firstPublicationDate": [
+    "2012-12-13"
+  ]
+}

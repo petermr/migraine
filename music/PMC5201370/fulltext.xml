@@ -1,0 +1,748 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Environ Res Public Health</journal-id><journal-id journal-id-type="iso-abbrev">Int J Environ Res Public Health</journal-id><journal-id journal-id-type="publisher-id">ijerph</journal-id><journal-title-group><journal-title>International Journal of Environmental Research and Public Health</journal-title></journal-title-group><issn pub-type="ppub">1661-7827</issn><issn pub-type="epub">1660-4601</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5201370</article-id><article-id pub-id-type="doi">10.3390/ijerph13121229</article-id><article-id pub-id-type="publisher-id">ijerph-13-01229</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>The Role of Soundscape in Nature-Based Rehabilitation: A Patient Perspective</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Cerw&#x000e9;n</surname><given-names>Gunnar</given-names></name><xref ref-type="aff" rid="af1-ijerph-13-01229">1</xref><xref rid="c1-ijerph-13-01229" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Pedersen</surname><given-names>Eja</given-names></name><xref ref-type="aff" rid="af2-ijerph-13-01229">2</xref></contrib><contrib contrib-type="author"><name><surname>P&#x000e1;lsd&#x000f3;ttir</surname><given-names>Anna Mar&#x000ed;a</given-names></name><xref ref-type="aff" rid="af3-ijerph-13-01229">3</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Sullivan</surname><given-names>William C.</given-names></name><role>Academic Editor</role></contrib><contrib contrib-type="editor"><name><surname>Chang</surname><given-names>Chun-Yen</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-ijerph-13-01229"><label>1</label>Department of Landscape Architecture, Planning and Management, Swedish University of Agricultural Sciences, SLU, SE-230 53 Alnarp, Sweden</aff><aff id="af2-ijerph-13-01229"><label>2</label>Environmental Psychology, Department of Architecture and Built Environment, LTH, Lund University, SE-221 00 Lund, Sweden; <email>eja.pedersen@arkitektur.lth.se</email></aff><aff id="af3-ijerph-13-01229"><label>3</label>Department of Work Science, Business Economics and Environmental Psychology, Swedish University of Agricultural Sciences, SLU, SE-230 53 Alnarp, Sweden; <email>anna.maria.palsdottir@slu.se</email></aff><author-notes><corresp id="c1-ijerph-13-01229"><label>*</label>Correspondence: <email>gunnar.cerwen@slu.se</email>; Tel.: +46-40-415-538</corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>12</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2016</year></pub-date><volume>13</volume><issue>12</issue><elocation-id>1229</elocation-id><history><date date-type="received"><day>29</day><month>9</month><year>2016</year></date><date date-type="accepted"><day>01</day><month>12</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors.</copyright-statement><copyright-year>2016</copyright-year><license license-type="open-access"><license-p>licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Nature-based rehabilitation (NBR) has convincing support in research, yet the underlying mechanisms are not fully understood. The present study sought to increase understanding of the role of soundscapes in NBR, an aspect paid little attention thus far. Transcribed interviews with 59 patients suffering from stress-related mental disorders and undergoing a 12-week therapy programme in the rehabilitation garden in Alnarp, Sweden, were analysed using Interpretative Phenomenology Analysis (IPA). Described sounds were categorised as natural, technological or human. The results showed that patients frequently referred to natural sounds as being part of a pleasant and &#x0201c;quiet&#x0201d; experience that supported recovery and induced &#x0201c;soft fascination&#x0201d;. Technological sounds were experienced as disturbing, while perception of human sounds varied depending on loudness and the social context. The study further uncovered how sound influenced patients&#x02019; behaviour and experiences in the garden, through examination of three cross-theme dimensions that materialised in the study; sound in relation to overall perception, sound in relation to garden usage, and increased susceptibility to sound. The findings are discussed in relation to NBR; the need for a more nuanced understanding of susceptibility to sound among people suffering from mental fatigue was identified and design considerations for future rehabilitation gardens were formulated.</p></abstract><kwd-group><kwd>garden therapy</kwd><kwd>soundscape</kwd><kwd>design</kwd><kwd>health</kwd><kwd>mental restoration</kwd><kwd>nature-based rehabilitation</kwd><kwd>soft fascination</kwd><kwd>horticulture therapy</kwd><kwd>therapeutic landscape</kwd></kwd-group></article-meta></front><body><sec id="sec1-ijerph-13-01229"><title>1. Introduction</title><sec id="sec1dot1-ijerph-13-01229"><title>1.1. Soundscape Research</title><p>Research on soundscapes&#x02014;as in the study of the experience of the acoustic environment [<xref rid="B1-ijerph-13-01229" ref-type="bibr">1</xref>,<xref rid="B2-ijerph-13-01229" ref-type="bibr">2</xref>]&#x02014;was first initiated in the late 1960s [<xref rid="B3-ijerph-13-01229" ref-type="bibr">3</xref>,<xref rid="B4-ijerph-13-01229" ref-type="bibr">4</xref>]. In recent years, there have been substantial developments in the field [<xref rid="B5-ijerph-13-01229" ref-type="bibr">5</xref>,<xref rid="B6-ijerph-13-01229" ref-type="bibr">6</xref>]. There is now an increased understanding of the contextual experience of sound, and also of how the sonic environment can be influenced in a strategic manner to improve the overall soundscape. Previously, such environmental considerations had been limited to a &#x0201c;defensive&#x0201d; approach [<xref rid="B7-ijerph-13-01229" ref-type="bibr">7</xref>,<xref rid="B8-ijerph-13-01229" ref-type="bibr">8</xref>]. In a defensive strategy, the main intention is to protect human beings from unwanted sounds (noise). However, while the defensive strategy has been a dominant and useful approach in environmental planning for many years, it has failed to pay attention to the actual experience of sound. In the opposite and more positive approach to sound, sometimes referred to as &#x0201c;offensive&#x0201d;, the focus shifts from noise to consideration of what people want to hear. These approaches, together with a third (&#x0201c;creative&#x0201d; approach), may be used interchangeably in order to improve the sonic environment [<xref rid="B9-ijerph-13-01229" ref-type="bibr">9</xref>]. In such a holistic soundscape approach, consideration of unwanted sounds (noise abatement) is combined with consideration of wanted sounds for improved experience and/or masking effects [<xref rid="B10-ijerph-13-01229" ref-type="bibr">10</xref>]. For instance, soundscapes can be influenced through noise screening [<xref rid="B11-ijerph-13-01229" ref-type="bibr">11</xref>], localisation of functions [<xref rid="B12-ijerph-13-01229" ref-type="bibr">12</xref>], creation of biotopes for birds [<xref rid="B13-ijerph-13-01229" ref-type="bibr">13</xref>], consideration of walking material [<xref rid="B14-ijerph-13-01229" ref-type="bibr">14</xref>], introduction of water features [<xref rid="B15-ijerph-13-01229" ref-type="bibr">15</xref>,<xref rid="B16-ijerph-13-01229" ref-type="bibr">16</xref>], rustling vegetation [<xref rid="B17-ijerph-13-01229" ref-type="bibr">17</xref>] or sound art [<xref rid="B8-ijerph-13-01229" ref-type="bibr">8</xref>,<xref rid="B18-ijerph-13-01229" ref-type="bibr">18</xref>].</p><p>The relationship between sound and mental health has mainly been studied from the perspective of the adverse effects of noise on humans, either directly or through stress reactions induced by negative associations [<xref rid="B19-ijerph-13-01229" ref-type="bibr">19</xref>,<xref rid="B20-ijerph-13-01229" ref-type="bibr">20</xref>,<xref rid="B21-ijerph-13-01229" ref-type="bibr">21</xref>]. There are clear indications of an enhanced risk of impaired mental health after long-term noise exposure. It has been suggested that greenery could mitigate the negative impact, so that the sound is perceived as less annoying if green urban areas are provided. Several studies have found that this is the case sometimes, but not always [<xref rid="B22-ijerph-13-01229" ref-type="bibr">22</xref>,<xref rid="B23-ijerph-13-01229" ref-type="bibr">23</xref>]. The provision of sound in green environments intended for psycho-physiological restoration purposes and whether this has an impact on the link between the physical environment and possible curative effects is less well studied, but an increasing number of recent studies point to such connections. In an investigation in which subjects were exposed to a psychological stressor [<xref rid="B24-ijerph-13-01229" ref-type="bibr">24</xref>], it was shown that stress recovery was faster during exposure to nature sounds at 50 dBA rather than to three different types of noises (40&#x02013;80 dBA). Similar findings were reported in a study [<xref rid="B25-ijerph-13-01229" ref-type="bibr">25</xref>] where subjects exposed to virtual reality nature (including sound) recovered faster after stress than subjects exposed to virtual reality without sound. It has also been shown that sounds perceived as pleasant (most typically birdsong, music and ocean sounds) can reduce skin conductance level for subjects at rest [<xref rid="B26-ijerph-13-01229" ref-type="bibr">26</xref>]. In healthcare, studies have shown that sounds of nature from speakers can have positive effects during difficult procedures, reducing stress and anxiety [<xref rid="B27-ijerph-13-01229" ref-type="bibr">27</xref>,<xref rid="B28-ijerph-13-01229" ref-type="bibr">28</xref>] as well as experienced pain [<xref rid="B29-ijerph-13-01229" ref-type="bibr">29</xref>].</p><p>In order to understand the experiential dimension of sound, it is necessary to go beyond measurements of sound pressure levels [<xref rid="B9-ijerph-13-01229" ref-type="bibr">9</xref>]. Soundscape research provides a platform for discussing perception of sound in terms other than annoyance, as well as opening up new possibilities for design and management of sounds. A soundscape includes all types of sounds in an environment, with emphasis on how they are experienced in a context [<xref rid="B1-ijerph-13-01229" ref-type="bibr">1</xref>,<xref rid="B5-ijerph-13-01229" ref-type="bibr">5</xref>,<xref rid="B6-ijerph-13-01229" ref-type="bibr">6</xref>].</p></sec><sec id="sec1dot2-ijerph-13-01229"><title>1.2. Nature-Based Rehabilitation and Stress</title><p>Problems relating to mental health are estimated to be among major reasons for work disabilities globally [<xref rid="B30-ijerph-13-01229" ref-type="bibr">30</xref>,<xref rid="B31-ijerph-13-01229" ref-type="bibr">31</xref>], and can have severe negative effects on everyday lifestyle [<xref rid="B32-ijerph-13-01229" ref-type="bibr">32</xref>] and in the long run lead to physical and mental depletion [<xref rid="B33-ijerph-13-01229" ref-type="bibr">33</xref>]. There have been reports that nature and nature-like environments can assist in mental recovery [<xref rid="B34-ijerph-13-01229" ref-type="bibr">34</xref>]. It has also been shown that by spending time in natural environments, concentration ability and directed attention can be improved [<xref rid="B35-ijerph-13-01229" ref-type="bibr">35</xref>,<xref rid="B36-ijerph-13-01229" ref-type="bibr">36</xref>], and perceived stress relieved [<xref rid="B37-ijerph-13-01229" ref-type="bibr">37</xref>].</p><p>In nature-based rehabilitation (NBR), it has been found that sensory stimuli of outdoor nature experiences can play an important role in treatment of stress-related mental conditions such as exhaustion disorder [<xref rid="B35-ijerph-13-01229" ref-type="bibr">35</xref>,<xref rid="B38-ijerph-13-01229" ref-type="bibr">38</xref>,<xref rid="B39-ijerph-13-01229" ref-type="bibr">39</xref>,<xref rid="B40-ijerph-13-01229" ref-type="bibr">40</xref>]. Caregivers in NBR claim that the connection to nature through sensory impressions can help patients &#x0201c;open up&#x0201d; to treatment [<xref rid="B38-ijerph-13-01229" ref-type="bibr">38</xref>]. The role of sensory experience in NBR could possibly also be related to the notion of &#x02018;soft fascination&#x02019; in attention restoration theory (ART) [<xref rid="B41-ijerph-13-01229" ref-type="bibr">41</xref>], an important form of experience that is useful for mental recovery. According to ART, soft fascination occurs when people experience things without a focus or specific demands. This recovery allegedly occurs in nature or nature-like environments, where the subject is free and able to discover, recover and relax.</p><p>A less well studied sensory input in the NBR context is sound, although this was indicated to be a potentially important aspect in a semi-structured interview study conducted previously with 59 former participants at Alnarp Rehabilitation Garden, where the role of nature as a supportive environment was explored [<xref rid="B42-ijerph-13-01229" ref-type="bibr">42</xref>]. A new aspect of NBR for individuals recovering from stress-related mental disorders was identified, i.e., social quietness, referring to the need for solitary encounters with nature without disturbance by others. Perception of sound in the rehabilitation garden was not a specific topic in that study, but the participants mentioned sound as an important hindering or supportive factor in a therapeutic environment. This finding suggested the need for a follow up analysis, in which sound was given more thorough attention.</p><p>The aim of the present study, consequently, is to examine the role of sound in NBR for individuals with stress-related mental disorders and to identify essential aspects for the future design of restorative spaces for mental recovery.</p></sec></sec><sec id="sec2-ijerph-13-01229"><title>2. Methods</title><p>The study was based on 59 semi-structured interviews with individuals recovering from stress-related mental disorders after 12 weeks of NBR. The interviews were initially part of a previous study focusing on the role of nature in the NBR context [<xref rid="B42-ijerph-13-01229" ref-type="bibr">42</xref>]. In the present study, the same material was re-analysed, but with the focus on sound. The data collection procedure is summarised in the following paragraphs (for more details see [<xref rid="B42-ijerph-13-01229" ref-type="bibr">42</xref>,<xref rid="B43-ijerph-13-01229" ref-type="bibr">43</xref>]). The specific analysis procedure used in the present study is then described.</p><sec id="sec2dot1-ijerph-13-01229"><title>2.1. The Informants</title><p>All informants (<italic>n</italic> = 59) had participated in a 12-week NBR programme at the Alnarp Rehabilitation Garden (Lomma, Sweden). The inclusion criterion for participating in the programme was one of the following International Classification of Disease (ICD-10) codes as the primary diagnosis: psychiatric diagnosis of adjustment disorder and reaction to severe stress (ICD-F43), such as exhaustion disorder (ICD-F43.8a) or depression (ICD-F32.0 and F32.1). The definition of exhaustion disorder includes, amongst other impairments, sensitivity to sound [<xref rid="B33-ijerph-13-01229" ref-type="bibr">33</xref>,<xref rid="B44-ijerph-13-01229" ref-type="bibr">44</xref>]. The informants, 50 females and nine males, were all Swedish citizens and varied in age between 25&#x02013;62 years. The relatively high proportion of female informants (85%) can to a great extent be explained by an overrepresentation of females among people that are sick-listed for stress-related mental disorders in Sweden [<xref rid="B45-ijerph-13-01229" ref-type="bibr">45</xref>].</p></sec><sec id="sec2dot2-ijerph-13-01229"><title>2.2. The Venue and Nature-Based Rehabilitation Programme</title><p>The NBR took place in a designed garden (<xref ref-type="fig" rid="ijerph-13-01229-f001">Figure 1</xref> and [<xref rid="B46-ijerph-13-01229" ref-type="bibr">46</xref>,<xref rid="B47-ijerph-13-01229" ref-type="bibr">47</xref>,<xref rid="B48-ijerph-13-01229" ref-type="bibr">48</xref>]) located at the campus of the Swedish University of Agricultural Sciences in Alnarp. The garden contains rooms for rest and recovery as well as work and social interaction. The 2-ha garden is divided into two main areas, a nature-like area in the north and an area for cultivation and gardening in the south.</p><p>The garden design includes health-promoting characteristics such as sensory experience through sight, smell, taste and sound [<xref rid="B46-ijerph-13-01229" ref-type="bibr">46</xref>]. For instance, the wild area contains rustling trees and fruits, while there is a small waterfall in the south-east end of the garden and a pond with a small stream near the entrance. A motorway (E6) runs around 0.6 km east of the garden, exposing it to some traffic noise, especially in the south-eastern parts (<xref ref-type="fig" rid="ijerph-13-01229-f002">Figure 2</xref>). The NBR programme was carried out as group therapy with eight participants each, supported by a multimodal rehabilitation team. The programme was provided four hours a day, four days per week, throughout its 12-week duration [<xref rid="B43-ijerph-13-01229" ref-type="bibr">43</xref>], thus ensuring frequency and length of nature exposure [<xref rid="B49-ijerph-13-01229" ref-type="bibr">49</xref>].</p></sec><sec id="sec2dot3-ijerph-13-01229"><title>2.3. Data Collection</title><p>The interviews were conducted during 2007&#x02013;2012, after the 12 weeks of NBR ended. All subjects who participated in the programme (<italic>n</italic> = 103) were invited for a follow-up interview. Altogether, 59 individuals accepted the invitation and participated in the study. The subjects that accepted the invitation were representative for the group as a whole in terms of age and gender. The interviews were conducted with an informal approach that was aided through incorporation of an interview guide that focused on the patient&#x02019;s experience of the rehabilitation and the natural environments in the garden. Each interview lasted about one hour and was recorded and verbally transcribed. The interviews were conducted over a period of five years covering all seasons, i.e., spring, summer, autumn and winter. As recommended by the Board of Science Ethics, Lund, all participants were asked to give their written consent before voluntarily entering the study.</p></sec><sec id="sec2dot4-ijerph-13-01229"><title>2.4. Data Analysis</title><p>A systematic search was conducted through all the transcribed interviews in order to extract information on perceived sound and soundscape. Altogether, 14 keywords describing sounds (<xref ref-type="app" rid="app1-ijerph-13-01229">Appendix A</xref>, <xref ref-type="table" rid="ijerph-13-01229-t001">Table A1</xref>) were used to search through the interview material. Each interview was treated individually. If a keyword was found in the interview, the whole section in which sound was discussed was cut and pasted in one document.</p><p>Once the search was completed, each of the three authors separately analysed the collected interview text in four steps, using Interpretative Phenomenological Analysis (IPA) [<xref rid="B51-ijerph-13-01229" ref-type="bibr">51</xref>] as a framework.
+<list list-type="bullet"><list-item><p>Step 1: Categorisation of the sounds mentioned into natural, technological and human sounds [<xref rid="B52-ijerph-13-01229" ref-type="bibr">52</xref>,<xref rid="B53-ijerph-13-01229" ref-type="bibr">53</xref>] (hereafter denoted &#x02018;sonic themes&#x02019;).</p></list-item><list-item><p>Step 2: Identification of cross-theme dimensions emerging from the text.</p></list-item><list-item><p>Step 3: Agreement on identified themes and categorisations, reached through discussions among the three researchers based on their individual findings.</p></list-item><list-item><p>Step 4: In-depth analysis allocating meaning to the themes.</p></list-item></list>
+</p></sec></sec><sec id="sec3-ijerph-13-01229"><title>3. Results</title><p>The systematic search resulted in a text document consisting of around 9000 words and including descriptions of sound from 27 of the 59 participants. The descriptions referred mainly to sounds in the rehabilitation garden, but also included recollections of other contexts and environments. The descriptions were approximately evenly distributed among the three sonic themes; natural, technological and human sounds. The findings in each of these themes constitute the first set of results (<xref ref-type="sec" rid="sec3dot1-ijerph-13-01229">Section 3.1</xref>), while the second <xref ref-type="sec" rid="sec3dot2-ijerph-13-01229">Section (3.2)</xref> deals with the cross-theme dimensions that emerged in the analysis.</p><sec id="sec3dot1-ijerph-13-01229"><title>3.1. Sonic Themes</title><sec id="sec3dot1dot1-ijerph-13-01229"><title>3.1.1. Natural Sounds</title><p>Stories about natural sounds in the rehabilitation garden were generally positive and were dominated by wind-induced sounds from vegetation and the sound of running water and of singing birds. Participants tended to describe natural sounds in a detailed and rich manner, often emphasising their own positive experience and participation in the garden. Natural sounds were further often discussed in <italic>relation to other sensations</italic>, such as smell, touch, visual impressions and colours. Several of these descriptions seemed to indicate a relationship to soft fascination. The following is an example from one of the participants who was asked to describe a favourite place in the garden:
+<disp-quote><p>&#x0201c;I chose it because of the bamboo behind it, where you&#x02026; where I sat so I could see the pond and so. And bamboo rustles, well first of all it is green and then there is a sound in it all the time which I like, this thing... yes. It moves in the wind and there is a sound... and then there was&#x02026; and looking at the water, I like that, and I think there were even little frogs in the water.&#x0201d;</p></disp-quote>
+</p><p>When participants talked about natural qualities, they commonly also spoke about <italic>silence</italic>. Words such as silent, calm and quiet were frequently combined with nature and other words to describe a positive state, often emphasising a relative state (most typically in relation to urban environments). In its strictest of meaning, the way participants used descriptions of silence was contradictory. For instance, it was common for participants to use silence in the same sentence as descriptions of sonic events, though only natural sounds were described in this manner:
+<disp-quote><p>&#x0201c;But you know that feeling of it just being you and nature and it&#x02019;s completely quiet, what, you hear a stream trickle somewhere and you hear a bird that&#x02026; you hear some slight rustling in the trees or whatever, just wonderful and it&#x02019;s so incredibly beautiful that you just&#x02026;&#x0201d;</p></disp-quote></p><p>Furthermore, sounds of nature experienced in the rehabilitation garden seemed to be able to <italic>awaken participants&#x02019; memories</italic> concerning e.g., activities they had undertaken in the past, or connections with loved ones:
+<disp-quote><p>&#x0201c;The feature I seem to recall most clearly are the birds. I mean, I have always enjoyed bird sounds and the same thing goes for the beach, the seagulls like when I lie out on the shore and out there in a house that, instead of calling a hovel, I have chosen to call a chateau.&#x0201d;</p></disp-quote>
+</p></sec><sec id="sec3dot1dot2-ijerph-13-01229"><title>3.1.2. Technological Sounds</title><p>Technological sounds were mainly described from other experiences than that of the rehabilitation garden and were perceived as negative and annoying. Most commonly described was noise from road traffic in and around the participants&#x02019; homes and the feeling of wanting to <italic>escape</italic> from that, but sounds from e.g., computers and fans were also mentioned. The possibility to get away from this, and the perceived relative silence of the garden, was in this sense positive. One participant described it thus:
+<disp-quote><p>&#x0201c;It&#x02019;s all that noise from cars and&#x02026; town and... this is getting away from that, getting out, and then I think too that you discover your creativity again, that you kind of want to create, it&#x02019;s the kind of environment where you feel more enthusiasm for doing things.&#x0201d;</p></disp-quote>
+</p><p>In the rehabilitation garden context, most participants described the garden as quiet, although several also mentioned the problems they had with the noise from the nearby motorway, which was defined as annoying. Whether or not the motorway was annoying seemed to be related to the participant&#x02019;s <italic>life situation</italic>. For some, the rehabilitation garden was a place without the annoying traffic noise they experienced at home, while for others&#x02014;living in a quiet environment&#x02014;the noise from the motorway became intrusive:
+<disp-quote><p>&#x0201c;We had an exercise here where we had to go out and sit down and just be quiet and listen. And then we had to draw, a doodle or whatever we felt like. But I wasn&#x02019;t able to do that because I could only hear cars, lorries. I heard an ambulance, I heard&#x02026; and I don&#x02019;t get that at home. At home it&#x02019;s quiet.&#x0201d;</p></disp-quote>
+</p></sec><sec id="sec3dot1dot3-ijerph-13-01229"><title>3.1.3. Human Sounds</title><p>Human sounds, the third and last of the sonic themes investigated, received the most varied responses. The human sounds discussed were mainly sounds in the rehabilitation garden, such as people talking to each other or moving around. Several participants described how they were distressed by social situations, some even by the sound from the therapist giving instructions. This annoyance seems to have been worst in the beginning of the therapy.</p><p>However, human sounds were in some situations also perceived as positive, contributing to the participants feeling safe. The presence of the therapists in particular seemed to have had a positive effect in this way. The sound of the therapists&#x02019; voices was described as soothing by several participants. For instance, when asked to describe what it was that made the garden seem tranquil to them, one participant said:
+<disp-quote><p>&#x0201c;I don&#x02019;t know actually. I think it has a lot to do with... with you could say the way Lena and the others spoke, they talk quietly and are very careful to say that...&#x0201d;</p></disp-quote>
+</p><p>The therapists spoke deliberately with calm and slow voices, and this seems to have had a positive effect on participants. Tempo, loudness and other <italic>physical qualities of spoken words</italic> can be important cues in perception of human sounds. This tendency was noted, not only regarding the therapists&#x02019; voices, but also in other social situations. One participant, for instance, described how a loud conversation interrupted the treatment:
+<disp-quote><p>&#x0201c;And we were just sitting there in the &#x0201c;Growpoint&#x0201d; in a chair and really enjoying it and then one of the other people in the group felt bad and stood like and talked loudly with Lotta about in there, what. Well, then I was, I actually couldn&#x02019;t really bear to listen, I got kind of unwillingly&#x02026; involved in it and I got so fed up of that so I was really insensitive and I said something like suddenly when I couldn&#x02019;t stand to hear it.&#x0201d;</p></disp-quote>
+</p><p><italic>Having control</italic> over the situation and avoiding risking unwanted encounters with others were expressed as important. The garden was designed so that the participants could choose to place themselves at different degrees of physical proximity, giving them opportunities to look out on the garden, choose whether to be with other visitors, or not. A social code based on mutual respect seemed to have developed subconsciously, so that certain places in the garden were considered social and other places private. The code also included reading other participants&#x02019; body language. Sound played a role in this avoidance or interaction with others; one participant described, for instance, how the sound of footsteps on the gravel-covered walkways gave a signal that someone was approaching, thus providing a constant warning of potential participation in social interaction.
+<disp-quote><p>&#x0201c;You can hear someone coming too, since there are these gravel paths in between. [...] That&#x02019;s probably mainly the reason why I did not choose [to sit at] the rear side, because it has no gravel paths. So there you have no warning, I could just be sitting there and someone could come round the corner&#x02026;&#x0201d;</p></disp-quote>
+</p></sec></sec><sec id="sec3dot2-ijerph-13-01229"><title>3.2. Cross-Theme Dimensions</title><sec id="sec3dot2dot1-ijerph-13-01229"><title>3.2.1. Sound in Relation to Overall Perception</title><p>As already noted in <xref ref-type="sec" rid="sec3dot1dot1-ijerph-13-01229">Section 3.1.1</xref>, the participants frequently associated auditory experiences with visual impressions. Natural elements in the garden, such as trees and bushes, were thus typically described with reference to two or more senses that interacted. This interplay between senses seemed to enforce a positive overall impression:
+<disp-quote><p>&#x0201c;And then outside these, since there were no walls and that, there you could see how they [the trees] swayed a little and hear a slight rustle of the leaves, and it was a really lovely place that place.&#x0201d;</p></disp-quote>
+</p><p>However, man-made features could also be experienced in a similar manner. Some participants described the special, soft sound produced when walking on wood as a positive experience. The sound of wood when walked upon could be construed here as a connection between the participant and the garden, reinforcing and confirming their own movement and presence in that space. Descriptions relating to their own movement were&#x02014;in a similar manner as natural sounds&#x02014;often associated with different sensory experiences. There were other descriptions of walking on material than wood, but the sound of the wooden plates in the garden seems to have been especially pleasant, as it produced a soft sound reminiscent to a pier in the water.
+<disp-quote><p>&#x0201c;Then I think it&#x02019;s been lovely to walk because here it&#x02019;s wood... the wooden plates. They have a special sound, exactly. Very special, a slightly soft sound, while they also remind you of walking on a jetty, it&#x02019;s a bit of that sound too.&#x0201d;</p></disp-quote>
+</p><p>Furthermore, the differences in quality between different walking materials in the garden seem to have had an effect on participants&#x02019; speed of movement, so that they slowed down after having walked on (hard) gravel and into softer material such as the wooden plates or wooden chips.</p><p>The possibility for participants to interact with the garden on their own terms seemed to be an important aspect. Yet this patient-garden interaction could be interrupted by noise, or sounds from other participants in the garden. Such interruptions moderated the experience in a negative way, and could make it difficult to take in experiences of the garden. One participant, for example, described how it was difficult to appreciate the presence of nature while in the company of others:
+<disp-quote><p>&#x0201c;Yeah, since then it&#x02019;s more like you can take in your experience more than when you&#x02019;re sitting there and talking to someone or I just wanted to be by myself and just be able to relax in it, kind of&#x02026;&#x0201d;</p></disp-quote>
+</p><p>Similarly, technological sounds could hinder the interaction with the garden and hence have an effect on the therapy. The sound from the motorway&#x02014;in addition to being an intruding feature in itself as discussed in <xref ref-type="sec" rid="sec3dot1dot2-ijerph-13-01229">Section 3.1.2</xref>&#x02014;could also make it difficult to hear the sounds of nature. This problem was mentioned by one participant who noted how the sound of the motorway seemed to mask out the sound of birds, so that they were not as audible as they would have been if the motorway had not been there. However, masking effects in the garden could also work in the reverse way, i.e., that sounds of nature could mitigate the negative impact of noise. The same participant described how when situated by the rippling water of the pond, the sound of the motorway seemed to disappear:
+<disp-quote><p>&#x0201c;Yes, I could stand and see the ripples and listen, it was able to take away the lorries... well the traffic... it took that away. And I listened to the rippling...&#x0201d;</p></disp-quote>
+</p></sec><sec id="sec3dot2dot2-ijerph-13-01229"><title>3.2.2. Sound in Relation to Garden Usage</title><p>In several cases, it was clear that participants preferred some locations within the rehabilitation garden to others, based on sonic characteristics of these environments. Such choices could be made in order to avoid certain sounds (most typically human sounds, but also technological), or to embrace certain sounds (most typically nature sounds). The following example illustrates how the sound from the rippling pond in the garden was embraced and contributed to one patient&#x02019;s experience and choice of place during an exercise that was part of the rehabilitation programme.
+<disp-quote><p>&#x0201c;Yes... I was sitting there once. One time we were given an exercise to go out and sit in the garden, on just one occasion. And I sat here beside the pond, or whatever you call it, that, and there was such a lovely sound of running water, so I actually just sat there, one time I sat there.&#x0201d;</p></disp-quote>
+</p><p>Another participant, who was disturbed by the noise from the motorway, described how a deliberate choice to be in a part of the garden that was exposed to as little noise as possible was made. The sound of the motorway thus influenced their behaviour in the opposite way to that described in the previous example.
+<disp-quote><p>&#x0201c;Mm and then I was here too because I was really, really disturbed by this. I am quite sensitive to sounds and this motorway noise, it was really stressful for me. And you could hear it least over here. Since I grew up in the country and in silence in a way, so for me that motorway noise, you can&#x02019;t shut it out and it&#x02019;s just a constant stressful sound that...&#x0201d;</p></disp-quote>
+</p><p>Some areas of the garden were perceived as socially quiet zones, even though there were no signs or acoustic arrangement to keep these zones quiet. Where and how participants placed themselves constituted a signal to the others on whether they sought quietness or were open for social interaction. One participant described how the smoking area (even though it had a central position in the garden) worked as a refuge where social interaction was not possible.
+<disp-quote><p>&#x0201c;Yeah, but you still have a bit of an idea about what&#x02019;s going on. But nobody comes up, there was another girl who smoked and often, we never went and smoked together but nobody goes up to smokers... You don&#x02019;t do it. No, no you went and smoked, kept away, so it&#x02019;s like perfect, because I was like... oasis and solitude as a smoker.&#x0201d;</p></disp-quote>
+</p><p>Whereas the smoker&#x02019;s lounge was coded as private, other places were coded as social where the presence of others was accepted, or even appreciated. When describing the need for solitude, one participant reflected on how different places seemed to have different social meaning encoded in them:
+<disp-quote><p>&#x0201c;And this is also a social place. There were many who walked and gardened there&#x02026; and it felt like people didn&#x02019;t talk. When you went here there was not as much socialising in the same way as there was here, or here...&#x0201d;</p></disp-quote>
+</p></sec><sec id="sec3dot2dot3-ijerph-13-01229"><title>3.2.3. Increased Susceptibility to Sound</title><p>Among the participants there were some who spontaneously mentioned that they had not been sensitive to noise before they got ill and those who classified themselves as generally noise sensitive, including one participant who suffered from tinnitus towards ambient sounds. Regardless of sensitivity history, several of the participants had experienced that they became more susceptible to sound when they became ill. This transition then happened rather suddenly.</p><p>The urge to get away from the sounds of the city, i.e., technological and human sounds, could in several cases be associated with an oversensitivity to sound. However, in the worst stages of the illness, the sensitivity to sound could also include natural sounds. One participant recalled how, before the treatment, it was difficult to cope with birdsong or even small sounds from water dripping outside the window. After spending time in the rehabilitation garden, the ability to enjoy natural sounds such as birdsong was regained. Some participants stated that they re-learned to listen. The rehabilitation garden and activities within provided a possibility to enter a stage in which it was possible to tolerate, and even appreciate, the sound of nature again.
+<disp-quote><p>&#x0201c;When I started feeling burnt out I found [&#x02026;] it was never quiet, all the traffic and all the voices and all the neighbours. Suddenly I became oversensitive to all sound [&#x02026;] I couldn&#x02019;t bear many sounds at all. [...] No, not even the birds. So all that has come back through this learning to relax again. [...] You forget how to do it.&#x0201d;</p></disp-quote>
+</p><p>In their previous stressful life, participants had not been aware of sounds around them, but the NBR brought with it an increased sensitivity to sounds. However, the enhanced listening that was facilitated in the rehabilitation garden did not only lead to positive experiences. For one participant, it meant an increased annoyance with noise in the home environment.
+<disp-quote><p>&#x0201c;And now I&#x02019;ve got so extremely sensitive to sound. In my flat I can hear sounds I never thought about before [&#x02026;] I have just complained to the warden about the neighbour above [&#x02026;] It&#x02019;s just become a whole new level of noise, sort of.&#x0201d;</p></disp-quote>
+</p></sec></sec></sec><sec id="sec4-ijerph-13-01229"><title>4. Discussion</title><sec id="sec4dot1-ijerph-13-01229"><title>4.1. Role of Sound in Nature-Based Rehabilitation</title><p>Most typically when discussing sound and health, the concern is with disturbance from unwanted sounds, i.e., noise. The present study confirmed the importance to avoid unwanted sounds, such as noise from infrastructure and/or intrusive human sounds in the context of NBR. The findings further indicated that such disturbance can be relative and dependent on experiences from other environments and/or life situations. It was also found that patients frequently referred to &#x0201c;quietness&#x0201d; as an ideal state to aid the recovery process. These references generally excluded human and technological sounds&#x02014;but often included natural sounds.</p><p>The study illustrated some of the ways in which positive experience of natural sound can play a role in NBR, helping subjects recovering from stress-related mental disorders. Sounds of nature were generally given rich and colourful descriptions that incorporated the patients&#x02019; own experiences; the nature sounds were prone to evoke memories and were often described together with other sensory stimuli. In many cases, descriptions of nature sounds indicated that they (especially together with other sensory input) could induce soft fascination [<xref rid="B41-ijerph-13-01229" ref-type="bibr">41</xref>] and result in possible mental restoration. This finding thus suggests that the interaction between different sensory inputs could be an important aspect to consider. In a previous comparative study of restorative effects between nature and a simulated (visual) natural environment [<xref rid="B54-ijerph-13-01229" ref-type="bibr">54</xref>], it was found that the group exposed to real nature experienced increased energy and altered states of consciousness compared with the group exposed to virtual nature. One difference between the groups that materialised was the relative sensory connection.</p><p>In addition to natural sounds, sounds of movement emerged as positive in the study. When patients moved in the garden, the sound of their own footsteps on different materials confirmed the movement and generated a positive effect. This role of sound in the environmental experience is interactive, because of the patient&#x02019;s own involvement in the creation of the sound. The interactive potential of sound has been noted previously [<xref rid="B55-ijerph-13-01229" ref-type="bibr">55</xref>] and could be extended to include effects such as echo and spatial reverberation. In our study, feedback from the different materials that were walked upon seemed to influence the pace with which patients&#x02019; walked. The potential of soundscape to influence walking pace has been reported previously [<xref rid="B56-ijerph-13-01229" ref-type="bibr">56</xref>] and it has also been suggested that there is a relationship between slow walking pace and reduced arousal [<xref rid="B56-ijerph-13-01229" ref-type="bibr">56</xref>,<xref rid="B57-ijerph-13-01229" ref-type="bibr">57</xref>].</p><p>Our study was based on the same interview material as a previous study [<xref rid="B42-ijerph-13-01229" ref-type="bibr">42</xref>], in which the participants&#x02019; need for social quietness when engaging alone with nature was highlighted. Human sounds and social contexts were described as disturbing and the need for solitude was profound. It was shown that, especially in the early phases of the treatment, the patients&#x02019; state of mind could not cope with such demanding stimuli. The present study showed that sensibility to social quietness&#x02014;in addition to treatment phase and individual differences&#x02014;could depend partly on physical characteristics of human sounds. Loud human sounds, for instance, were perceived as particularly disturbing, while the soft and gentle sound of the therapists&#x02019; voices could have an opposite, positive effect on rehabilitation.</p><p>In combination, the presence of natural sounds (e.g., [<xref rid="B24-ijerph-13-01229" ref-type="bibr">24</xref>,<xref rid="B25-ijerph-13-01229" ref-type="bibr">25</xref>]) along with sounds from walking materials [<xref rid="B14-ijerph-13-01229" ref-type="bibr">14</xref>,<xref rid="B56-ijerph-13-01229" ref-type="bibr">56</xref>], social quietness [<xref rid="B42-ijerph-13-01229" ref-type="bibr">42</xref>] and absence of technological sounds [<xref rid="B19-ijerph-13-01229" ref-type="bibr">19</xref>,<xref rid="B58-ijerph-13-01229" ref-type="bibr">58</xref>] could be regarded as important prerequisites for mental restoration and recovery from stress, and therefore considered essential aspects for designing restorative places.</p></sec><sec id="sec4dot2-ijerph-13-01229"><title>4.2. Increased Susceptibility</title><p>Increased susceptibility to sound was described by the participants in connection with their illness. Their stories comprised an array of different states, including being sensitive to technological and/or human sounds, not being able to bear any kind of sound, or being unable to listen. Susceptibility to sound is mentioned in the list of criteria for the diagnosis of exhaustion disorder set up by the National Board of Health and Welfare in Sweden [<xref rid="B44-ijerph-13-01229" ref-type="bibr">44</xref>], which mentions increased sensitivity to sound among physical symptoms such as aches and pains, palpitations, gastrointestinal problems and vertigo, but does not define it. There is a need to better understand the increased susceptibility among people with exhaustion disorder, so that soundscapes supporting recovery in different stages of the illness could be included in therapeutic environments.</p><p>There are basically two established categories of increased susceptibility, namely noise sensitivity and hyperacusis (though several other terms are used). The main distinction is that noise sensitivity results in stronger reactions to what would be considered noise in a general population (and increases the risk of noise annoyance), while hyperacusis evokes adverse reactions to common sounds not generally thought of as noise. From the participants&#x02019; stories, being annoyed by the noise from the motorway is an expression of being noise sensitive, while not being able to stand birdsong indicates hyperacusis.</p><p>Noise sensitivity is an individual variation in sensibility to sound that is partly genetic [<xref rid="B59-ijerph-13-01229" ref-type="bibr">59</xref>] and therefore defined as a personality trait [<xref rid="B60-ijerph-13-01229" ref-type="bibr">60</xref>]. There seems to be a variation within a lifespan, possibly also influenced by sound exposure or other experiences, indicating that the concept of noise sensitivity comprises a more changeable trait [<xref rid="B61-ijerph-13-01229" ref-type="bibr">61</xref>]. Of a general population, 20%&#x02013;30% could be classified as noise-sensitive when assessed by self-reporting protocols [<xref rid="B62-ijerph-13-01229" ref-type="bibr">62</xref>,<xref rid="B63-ijerph-13-01229" ref-type="bibr">63</xref>]. There is indication of an association between noise sensitivity and illness. In a cross-sectional study, highly noise-sensitive people reported higher prevalence of a number of symptoms, especially within psychological/neurovegetative, cardiovascular and ear-related categories [<xref rid="B64-ijerph-13-01229" ref-type="bibr">64</xref>]. This group was also overrepresented when it came to medically recorded non-specific physical symptoms and prescribed medication. Moreover, in a Finnish twin cohort study, the risk of cardiovascular mortality in the period 1989&#x02013;2003 was found to be higher among women that rated themselves noise-sensitive in 1988 than among other women [<xref rid="B65-ijerph-13-01229" ref-type="bibr">65</xref>]. Another longitudinal study showed that people suffering from depression became less noise-sensitive as they recovered, although they remained more sensitive than the rest of the population [<xref rid="B66-ijerph-13-01229" ref-type="bibr">66</xref>]. Complementary physiological measurements in that study revealed prolonged reset time after arousal due to sound exposure among those sensitive, indicating a biological mechanism. Recently published results show significant differences in heart rate change and heart rate variability between noise-sensitive people and others [<xref rid="B67-ijerph-13-01229" ref-type="bibr">67</xref>]. Based on this, those authors suggested that noise sensitivity may be explained by a hypoactive parasympathetic response and a hyperactive and sustained sympathetic response, due to an uncoupling of the autonomic nervous system and the amygdala-prefrontal circuits that interpret stressful stimuli and enact the appropriate stress response. Whether noise sensitivity is the driver, or whether self-reported measurements of sensitivity indicate other underlying causes is not clear. It has been suggested that there is not a straight connection from noise sensitivity to ill health, or vice versa, but an individual vulnerability linked to both [<xref rid="B68-ijerph-13-01229" ref-type="bibr">68</xref>].</p><p>Hyperacusis as a category of sound susceptibility has previously mainly been reserved for consequences of e.g., migraine and tinnitus, and has hence been treated as an adverse effect of these illnesses (e.g., [<xref rid="B69-ijerph-13-01229" ref-type="bibr">69</xref>]) and not a subject for research in larger populations [<xref rid="B70-ijerph-13-01229" ref-type="bibr">70</xref>]. The definition has since been broadened, however, and hyperacusis is now considered an unusual intolerance to ordinary sounds more generally [<xref rid="B71-ijerph-13-01229" ref-type="bibr">71</xref>]. Few studies have assessed the prevalence in a common population, but that study found it to be approximately 10%. However, it is difficult to develop instruments for self-reporting that distinguish between increased noise sensitivity and hyperacusis. At the current state of knowledge, hyperacusis cannot be seen as a personal trait, but a state caused by illness or possible other stressors.</p><p>Among the participants in this study, some stated that they were noise-sensitive as a personality trait and that this noise sensitivity also had an impact on their behaviour in the rehabilitation garden. It could be hypothesised based on the literature that the prevalence of noise sensitivity is greater among people diagnosed with exhaustion disorder than in the general population, but this remains to be confirmed. What can be learned from this study, however, is that an increased susceptibility to noise and to sounds that are commonly not considered noise is customary among the target group. The descriptions we were given indicated that the stress the participants had been exposed to could place them in a state where it was not possible to process audio stimuli. Some of the participants chose a coping strategy whereby they shut down completely and stopped listening. Others tried to avoid noise as much as they could. Gradually, as they recovered in therapy, they were able to get accustomed to sounds again, although technological sounds were still problematic for some and an increase in sound awareness could lead to lowered noise tolerability. It is clear that the soundscape in such a process is of great importance.</p></sec><sec id="sec4dot3-ijerph-13-01229"><title>4.3. Design Considerations</title><p>Our findings highlight several aspects that can be used to inform future design of environments for NBR treatment. Some of the findings can be directly related to design, such as sounds from a water feature (e.g., a ripple in a pond), or walking material (e.g., gravel or wood). Other things are indirectly related to design, such as sounds from twittering birds. There are also design measures that can be taken in order to avoid unwanted sounds, in the present case most typically the sound of the motorway and the sound of (certain) social activity.</p><p>From the survey material, we observed a general preference especially for sounds of nature, including the rustling of leaves, the rippling of water and the sound of birds. Sounds that were categorised as human also appeared to have a positive effect, such as the sound of one&#x02019;s own footsteps (on wood or gravel), or the sound of the therapist&#x02019;s voice. In designing rehabilitation gardens, the conditions for such wanted sounds could be accommodated.</p><p>Water features of different kinds have the potential to produce a range of different sounds. The possible variations in sonic character include rhythm, intensity and timbre, and can be considered in the design. The character of the sound influences appreciation as well as possibilities for masking effects [<xref rid="B15-ijerph-13-01229" ref-type="bibr">15</xref>,<xref rid="B72-ijerph-13-01229" ref-type="bibr">72</xref>]. The character may also have an influence on restorative qualities. One of the pioneers in soundscape research, suggests [<xref rid="B2-ijerph-13-01229" ref-type="bibr">2</xref>], for instance, that there is a connection between the rhythmic qualities of ocean waves and the soothing character that many people experience at the sea. That author argued that the average rhythm of waves corresponds to that of our breathing at rest. We have found no studies concerning rhythmic qualities of ocean waves, but it has been shown that the pace in music can influence the speed of everyday activities [<xref rid="B73-ijerph-13-01229" ref-type="bibr">73</xref>,<xref rid="B74-ijerph-13-01229" ref-type="bibr">74</xref>].</p><p>The materials on paths and other surfaces produce different sounds when walked upon. This can be used as a design feature. In our study, the sound of wood in particular was mentioned as a positive feature. Participants described how the sound that wood produced when walked upon encouraged them to move more slowly&#x02014;thus presumably also reducing the activation level. In another context, it has been shown that the impact from noise can be reduced when there is sound from walking material [<xref rid="B14-ijerph-13-01229" ref-type="bibr">14</xref>]. In our study, a gravel path was used as a warning for approaching people. A similar function can be found in some wooden walkways from edo-era Japan, where a nightingale floor, <italic>uguisubari</italic>, is constructed in such a way that it creaks when walked upon&#x02014;thus warning inhabitants of potential enemies approaching.</p><p>The rustling of vegetation is dependent on wind to reach the leaves to produce the effect. The mutual relationship between sound and wind can be taken into consideration with the choice of strategic windy position for plants&#x02014;such as topographically higher positions, in open areas, or in corners of (tall) buildings. In this way, the vegetation may have a dual effect of reducing wind disturbance and producing pleasant sounds. Certain species are known to make more sounds than others in response to wind; the poplar genus (including aspen) and bamboo being examples of good &#x0201c;rustlers&#x0201d;. In China, it is commonly known that bamboo constitutes a good way of inviting the wind into a garden (along with maple and pine), and also of enhancing the sound of rain (along with plantain and lotus) [<xref rid="B75-ijerph-13-01229" ref-type="bibr">75</xref>].</p><p>In our study, birds were mentioned as a general category of (almost exclusively) pleasant sounds. There were no mentions of relative preference between individual species. However it has previously been found that, while birds are generally perceived as being a positive category of sound, certain species may have a negative effect. In a previous interview study on bird sound and restoration [<xref rid="B76-ijerph-13-01229" ref-type="bibr">76</xref>], it was found, for instance, that magpie, owls and crows could have negative associations for some people in terms of restoration. In a study concerning attitudes to different animals in Norway [<xref rid="B77-ijerph-13-01229" ref-type="bibr">77</xref>], it was reported that some citizens experienced problems with pigeons and seagulls, but that the general attitude towards both species was neutral. The combination (or lack of combination) of species may also have an effect&#x02014;in a study investigating bird sound and environmental preference in different urban contexts [<xref rid="B78-ijerph-13-01229" ref-type="bibr">78</xref>], it was shown that increased birdsong diversity could have a positive effect on ratings. Considering the positive mentions of a variety of natural sounds in the present study, such diversity could be beneficial also in restorative contexts.</p><p>Birds can be attracted through creation of suitable biotopes [<xref rid="B13-ijerph-13-01229" ref-type="bibr">13</xref>]. Birds are generally attracted by basic affordances such as access to food (e.g., berries and insects), protection (e.g., shrubs, trees or birdhouses) and water [<xref rid="B79-ijerph-13-01229" ref-type="bibr">79</xref>,<xref rid="B80-ijerph-13-01229" ref-type="bibr">80</xref>]. Furthermore, songbirds are sensitive to vegetation structure and are attracted by plantings that are varied, dense and include different canopy layers. The age of vegetation may contribute as well&#x02014;in forest stands, bird species diversity has been found to correlate with stand maturity [<xref rid="B81-ijerph-13-01229" ref-type="bibr">81</xref>,<xref rid="B82-ijerph-13-01229" ref-type="bibr">82</xref>], a factor which has also been linked to restorative qualities [<xref rid="B83-ijerph-13-01229" ref-type="bibr">83</xref>]. Water features can be designed with consideration for birds, so that there are shallower parts and components for birds to stand on, such as stones [<xref rid="B84-ijerph-13-01229" ref-type="bibr">84</xref>]. It is also possible to design specifically to attract (or discourage) certain species of birds through consideration of individual preferences [<xref rid="B79-ijerph-13-01229" ref-type="bibr">79</xref>]. In order to emphasise the relationship between biotopes and the sounds that are likely to be produced there&#x02014;such as birds or any other animals that may have restorative potential [<xref rid="B85-ijerph-13-01229" ref-type="bibr">85</xref>]&#x02014;the term sonotope [<xref rid="B17-ijerph-13-01229" ref-type="bibr">17</xref>] can be used.</p><p>A predominant approach to treatment of sound in environmental planning and design situations to date has been defensive strategies (noise management) [<xref rid="B8-ijerph-13-01229" ref-type="bibr">8</xref>,<xref rid="B12-ijerph-13-01229" ref-type="bibr">12</xref>]. In defensive strategies, the focus is directed towards sound pressure levels and protection from unwanted sounds. The present study confirmed the importance of considering noise; noise from the nearby motorway was perceived as a disturbing feature by several participants. Disturbance from such unwanted nearby activities, as was shown in our study, can be avoided through design considerations. In strategic locations, where there is sufficient distance from the unwanted sound, or in shelter behind buildings, the impact can be reduced. However, defensive strategies are not sufficient&#x02014;the study also highlighted that the soundscape holds many other important qualities that should be given consideration in design of nature-based rehabilitation environments&#x02014;not least because positive sonic experiences can be used to shift the focus from noise through masking [<xref rid="B9-ijerph-13-01229" ref-type="bibr">9</xref>,<xref rid="B72-ijerph-13-01229" ref-type="bibr">72</xref>,<xref rid="B86-ijerph-13-01229" ref-type="bibr">86</xref>].</p><p>In the present study, several references were made to silence as a positive quality&#x02014;seemingly in line with the noise treatment strategy. However, the use of silence was never incorporated to refer to an acoustically measurable silence, such as the complete absence of sound. Silence was used, instead, to emphasise a tranquil state which included, most typically, presence of natural sounds. Traditional noise abatement should therefore be complemented with an experience perspective to form a holistic soundscape approach in which qualities such as those indicated in the study are given due recognition.</p></sec></sec><sec id="sec5-ijerph-13-01229"><title>5. Conclusions</title><p>To date, few studies have considered the role of soundscapes in the context of nature-based rehabilitation (NBR). The interview material studied here was not collected with the intention of focusing on sound, yet sound was mentioned spontaneously by around half the interviewees. Three sonic themes were examined in the study; natural, technological and human sounds. In addition to the main themes, three cross-theme dimensions emerged; sound in relation to overall perception; sound in relation to garden usage; and increased susceptibility. Given the qualitative nature of our study, the results should not be regarded as generalizable, but rather transferable. For instance, the results could be used to inform other garden therapy situations or similar contexts.</p><p>The study showed that sound influenced experience and behaviour in the garden, and that it can play several different roles in NBR&#x02014;with positive and negative effects on the rehabilitation process. Sounds of nature were almost exclusively considered to be a positive element in the garden&#x02014;the descriptions of nature sounds indicated that sound and other sensory experiences play an important role in &#x02018;soft fascination&#x02019; and natural sounds also seemed prone to stimulate memories. Technological sounds were exclusively considered to be a negative element&#x02014;yet the perceived disturbance from the nearby motorway in the garden varied between participants, and seemed to be set in relation to other environments to which the patient was accustomed.</p><p>Human sounds emerged as the most complex of the three themes that were studied. The preference seemed to vary between different individuals, moods and treatment phases. For several participants, it was crucial to be able to avoid social interaction with other people&#x02014;especially in early phases of the treatments&#x02014;which relates to the notion of &#x02018;social quietness&#x02019;. On the other hand, presence of human sounds that did not require interaction (for instance the sound of someone working in the distance, or the sound of a therapist&#x02019;s voice) seemed to be much less disturbing, and could even be reassuring&#x02014;for instance, several participants referred to the therapists&#x02019; voices in a positive manner.</p><p>The study produced several findings of value for design and maintenance regarding sounds in rehabilitation gardens. Some of these are general, while others&#x02014;especially those concerning human sounds&#x02014;are more complex. Suggested recommendations on how to implement the findings in design could be to make a garden that is varied and diverse as regards e.g., water features, vegetation and size of the garden. Variation would allow each participant to seek out their own favourite soundscape, based on aspects such as personality, mood and treatment phase, and meet the needs of different stages of sound sensibility. The role of variation also tallies with previous findings in the same rehabilitation garden that self-chosen places are an important aspect to consider in the garden. In our study, we saw that the actual act in which places were chosen, or avoided (based on the sounds), could take several forms, some of which were creative and innovative.</p><p>This study contributed with a perspective that, while studied in other contexts, has hitherto been given relatively little attention in NBR. Our findings suggest that sound should be taken into account when considering future design and management of rehabilitation gardens. It should be stressed, however, that environmental sounds constitute but one aspect of the environmental experience. As a consequence, not only sound needs to be given increased attention, but also the interplay between sound and other cues, like visual information. Our study indicated that such relationships could be of importance. Furthermore, and finally, we believe that an increased knowledge on sound in NBR could be a useful means to inform and further develop existing theories and models on nature-based rehabilitation.</p></sec></body><back><ack><title>Acknowledgments</title><p>We would like to express our gratitude to the Sound Environment Centre in Sweden (Ljudmilj&#x000f6;centrum) for supporting this research.</p></ack><notes><title>Author Contributions</title><p>All listed authors, Gunnar Cerw&#x000e9;n, Eja Pedersen and Anna Mar&#x000ed;a P&#x000e1;lsd&#x000f3;ttir, designed the study, analysed the data, wrote the paper and approved the final manuscript. Recruitment and interviews were carried out by Anna Mar&#x000ed;a P&#x000e1;lsd&#x000f3;ttir.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><app-group><app id="app1-ijerph-13-01229"><title>Appendix A</title><p>Thesaurus used for retrieving units of meaning from the transcribed interviews. The English translations give an indication of the words that were used, but not the exact meanings, as the words were often onomatopoeic, making them less suitable for direct translation.</p><table-wrap id="ijerph-13-01229-t001" position="anchor"><object-id pub-id-type="pii">ijerph-13-01229-t001_Table A1</object-id><label>Table A1</label><caption><p>Thesaurus of keywords.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Swedish Thesaurus</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">English Approximation</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">ljud * (ljud, ljudet, billjud, ljudk&#x000e4;nslig, motorv&#x000e4;gsljudet, trafikljud)</td><td align="center" valign="middle" rowspan="1" colspan="1">sound * (sound, the sound, car sound, sound sensitivity, motorway sounds, traffic sounds)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">tyst * (tyst, tystnad)</td><td align="center" valign="middle" rowspan="1" colspan="1">quiet * (quiet, quietness)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">h&#x000f6;r * (h&#x000f6;ra, h&#x000f6;rs, h&#x000f6;rt, h&#x000f6;rsel)</td><td align="center" valign="middle" rowspan="1" colspan="1">hear * (hear, heard, hearing)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">bull * (buller, bullrig)</td><td align="center" valign="middle" rowspan="1" colspan="1">noise * (noise, noisy)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">prat * (prat, pratar)</td><td align="center" valign="middle" rowspan="1" colspan="1">talk * (talk, talking)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">rassl * (prasslande, prassla, rassla, rasslande)</td><td align="center" valign="middle" rowspan="1" colspan="1">clutter * (rustle, rustling, rattle, rattling, clutter, cluttering)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">porl * (porla, porlande)</td><td align="center" valign="middle" rowspan="1" colspan="1">trickle * (tricking, rippling)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">kluck * (klucka)</td><td align="center" valign="middle" rowspan="1" colspan="1">lap * (lapping)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">brus * (brusa)</td><td align="center" valign="middle" rowspan="1" colspan="1">rush * (rushing)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">rinn * (rinna)</td><td align="center" valign="middle" rowspan="1" colspan="1">flow * (flowing)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">sus * (susa, susande)</td><td align="center" valign="middle" rowspan="1" colspan="1">rustle * (rustling)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">brum * (brummande)</td><td align="center" valign="middle" rowspan="1" colspan="1">throb * (throbbing)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">surr * (surra, surrande)</td><td align="center" valign="middle" rowspan="1" colspan="1">buzz * (buzzing)</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">knast * (knastra, knastrat)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">crunch * (crunching)</td></tr></tbody></table><table-wrap-foot><fn><p>* Indicate keywords used to search the transcribed interviews. Examples of words that the search returned are indicated in brackets.</p></fn></table-wrap-foot></table-wrap></app></app-group><ref-list><title>References</title><ref id="B1-ijerph-13-01229"><label>1.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>International Organization for Standardization</collab></person-group>
+<source>Iso 12913-1:2014 Acoustics&#x02014;Soundscape&#x02014;Part 1: Definition and Conceptual Framework</source>
+<publisher-name>ISO</publisher-name>
+<publisher-loc>Geneva, Switzerland</publisher-loc>
+<year>2014</year>
+</element-citation></ref><ref id="B2-ijerph-13-01229"><label>2.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Schafer</surname><given-names>R.M.</given-names></name></person-group>
+<source>The Soundscape: Our Sonic Environment and the Tuning of the World</source>
+<publisher-name>Destiny Books</publisher-name>
+<publisher-loc>Rochester, VT, USA</publisher-loc>
+<year>1994</year>
+</element-citation></ref><ref id="B3-ijerph-13-01229"><label>3.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Schafer</surname><given-names>R.M.</given-names></name></person-group>
+<source>The New Soundscape: A Handbook for the Modern Music Teacher</source>
+<publisher-name>Berandol Music</publisher-name>
+<publisher-loc>Toronto, ON, Canada</publisher-loc>
+<year>1969</year>
+</element-citation></ref><ref id="B4-ijerph-13-01229"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Southworth</surname><given-names>M.</given-names></name></person-group>
+<article-title>The sonic environment of cities</article-title>
+<source>Environ. Behav.</source>
+<year>1969</year>
+<volume>1</volume>
+<fpage>49</fpage>
+<lpage>70</lpage>
+</element-citation></ref><ref id="B5-ijerph-13-01229"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>A.L.</given-names></name></person-group>
+<article-title>A review of progress in soundscapes and an approach to soundscape planning</article-title>
+<source>Int. J. Acoust. Vibrat.</source>
+<year>2012</year>
+<volume>17</volume>
+<fpage>73</fpage>
+<lpage>81</lpage>
+<pub-id pub-id-type="doi">10.20855/ijav.2012.17.2302</pub-id>
+</element-citation></ref><ref id="B6-ijerph-13-01229"><label>6.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kang</surname><given-names>J.</given-names></name><name><surname>Schulte-Fortkamp</surname><given-names>B.</given-names></name></person-group>
+<source>Soundscape and the Built Environment</source>
+<publisher-name>Taylor &#x00026; Francis Group</publisher-name>
+<publisher-loc>Boca Raton, FL, USA</publisher-loc>
+<year>2016</year>
+</element-citation></ref><ref id="B7-ijerph-13-01229"><label>7.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Amphoux</surname><given-names>P.</given-names></name></person-group>
+<source>L&#x02019;identit&#x000e9; Sonore des Villes Europ&#x000e9;ennes, Guide M&#x000e9;thodologique</source>
+<publisher-name>CRESSON</publisher-name>
+<publisher-loc>Grenoble, France</publisher-loc>
+<year>1993</year>
+</element-citation></ref><ref id="B8-ijerph-13-01229"><label>8.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Hellstr&#x000f6;m</surname><given-names>B.</given-names></name></person-group>
+<article-title>Noise Design: Architectural Modelling and the Aesthetics of Urban Acoustic Space</article-title>
+<source>Ph.D. Thesis</source>
+<publisher-name>KTH Royal Institute of Technology</publisher-name>
+<publisher-loc>Stockholm, Sweden</publisher-loc>
+<month>9</month>
+<year>2003</year>
+</element-citation></ref><ref id="B9-ijerph-13-01229"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cerw&#x000e9;n</surname><given-names>G.</given-names></name></person-group>
+<article-title>Urban soundscapes: A quasi-experiment in landscape architecture</article-title>
+<source>Landsc. Res.</source>
+<year>2016</year>
+<volume>41</volume>
+<fpage>481</fpage>
+<lpage>494</lpage>
+<pub-id pub-id-type="doi">10.1080/01426397.2015.1117062</pub-id>
+</element-citation></ref><ref id="B10-ijerph-13-01229"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>A.L.</given-names></name><name><surname>Muhar</surname><given-names>A.</given-names></name></person-group>
+<article-title>An approach to the acoustic design of outdoor space</article-title>
+<source>J. Environ. Plan. Manag.</source>
+<year>2004</year>
+<volume>47</volume>
+<fpage>827</fpage>
+<lpage>842</lpage>
+<pub-id pub-id-type="doi">10.1080/0964056042000284857</pub-id>
+</element-citation></ref><ref id="B11-ijerph-13-01229"><label>11.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Nilsson</surname><given-names>M.E.</given-names></name><name><surname>Bengtsson</surname><given-names>J.</given-names></name><name><surname>Kl&#x000e6;boe</surname><given-names>R.</given-names></name></person-group>
+<source>Environmental Methods for Transport Noise Reduction</source>
+<publisher-name>CRC Press (Imprint of Taylor &#x00026; Francis)</publisher-name>
+<publisher-loc>Boca Raton, FL, USA</publisher-loc>
+<year>2015</year>
+</element-citation></ref><ref id="B12-ijerph-13-01229"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cerw&#x000e9;n</surname><given-names>G.</given-names></name><name><surname>Wingren</surname><given-names>C.</given-names></name><name><surname>Qvistrom</surname><given-names>M.</given-names></name></person-group>
+<article-title>Evaluating soundscape intentions in landscape architecture: A study of competition entries for a new cemetery in J&#x000e4;rva, Stockholm</article-title>
+<source>J. Environ. Plan. Manag.</source>
+<year>2016</year>
+<pub-id pub-id-type="doi">10.1080/09640568.2016.1215969</pub-id>
+</element-citation></ref><ref id="B13-ijerph-13-01229"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dawson</surname><given-names>K.J.</given-names></name></person-group>
+<article-title>Flight, fancy, and the garden&#x02019;s song</article-title>
+<source>Landsc. J.</source>
+<year>1988</year>
+<volume>7</volume>
+<fpage>170</fpage>
+<lpage>175</lpage>
+</element-citation></ref><ref id="B14-ijerph-13-01229"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aletta</surname><given-names>F.</given-names></name><name><surname>Kang</surname><given-names>J.</given-names></name><name><surname>Astolfi</surname><given-names>A.</given-names></name><name><surname>Fuda</surname><given-names>S.</given-names></name></person-group>
+<article-title>Differences in soundscape appreciation of walking sounds from different footpath materials in urban parks</article-title>
+<source>Sustain. Cities Soc.</source>
+<year>2016</year>
+<volume>27</volume>
+<fpage>367</fpage>
+<lpage>376</lpage>
+<pub-id pub-id-type="doi">10.1016/j.scs.2016.03.002</pub-id>
+</element-citation></ref><ref id="B15-ijerph-13-01229"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>A.L.</given-names></name><name><surname>Rutherford</surname><given-names>S.</given-names></name></person-group>
+<article-title>Using the sound of water in the city</article-title>
+<source>Landsc. Aust.</source>
+<year>1994</year>
+<volume>2</volume>
+<fpage>103</fpage>
+<lpage>107</lpage>
+</element-citation></ref><ref id="B16-ijerph-13-01229"><label>16.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Nikolajew</surname><given-names>M.</given-names></name></person-group>
+<article-title>At L&#x000e6;se Vandet: Et Redskab til Analyse af Vandkunst og Font&#x000e6;ner [Reading the Water: A Tool for Analysis of Water Art and Fountains]</article-title>
+<source>Ph.D. Thesis</source>
+<publisher-name>Kunstakademiets Arkitektskole</publisher-name>
+<publisher-loc>Copenhagen, Denmark</publisher-loc>
+<month>1</month>
+<year>2003</year>
+</element-citation></ref><ref id="B17-ijerph-13-01229"><label>17.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Hedfors</surname><given-names>P.</given-names></name></person-group>
+<article-title>Site Soundscapes: Landscape Architecture in the Light of Sound</article-title>
+<source>Ph.D. Thesis</source>
+<publisher-name>Swedish University of Agricultural Sciences, SLU</publisher-name>
+<publisher-loc>Uppsala, Sweden</publisher-loc>
+<month>8</month>
+<year>2003</year>
+</element-citation></ref><ref id="B18-ijerph-13-01229"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hellstr&#x000f6;m</surname><given-names>B.</given-names></name><name><surname>Nilsson</surname><given-names>M.</given-names></name><name><surname>Axelsson</surname><given-names>&#x000d6;.</given-names></name><name><surname>Lund&#x000e9;n</surname><given-names>P.</given-names></name></person-group>
+<article-title>Acoustic Design Artifacts and Methods for Urban Soundscapes: A Case Study on the Qualitative Dimensions of Sounds</article-title>
+<source>J. Archit. Plann. Res.</source>
+<year>2014</year>
+<volume>31</volume>
+<fpage>57</fpage>
+<lpage>71</lpage>
+</element-citation></ref><ref id="B19-ijerph-13-01229"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stansfeld</surname><given-names>S.</given-names></name><name><surname>Haines</surname><given-names>M.</given-names></name><name><surname>Brown</surname><given-names>B.</given-names></name></person-group>
+<article-title>Noise and health in the urban environment</article-title>
+<source>Rev. Environ. Health</source>
+<year>2000</year>
+<volume>15</volume>
+<fpage>43</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="doi">10.1515/REVEH.2000.15.1-2.43</pub-id>
+<?supplied-pmid 10939085?><pub-id pub-id-type="pmid">10939085</pub-id></element-citation></ref><ref id="B20-ijerph-13-01229"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beutel</surname><given-names>M.E.</given-names></name><name><surname>Junger</surname><given-names>C.</given-names></name><name><surname>Klein</surname><given-names>E.M.</given-names></name><name><surname>Wild</surname><given-names>P.</given-names></name><name><surname>Lackner</surname><given-names>K.</given-names></name><name><surname>Blettner</surname><given-names>M.</given-names></name><name><surname>Binder</surname><given-names>H.</given-names></name><name><surname>Michal</surname><given-names>M.</given-names></name><name><surname>Wiltink</surname><given-names>J.</given-names></name><name><surname>Brahler</surname><given-names>E.</given-names></name><etal/></person-group>
+<article-title>Noise annoyance is associated with depression and anxiety in the general population&#x02014;the contribution of aircraft noise</article-title>
+<source>PLoS ONE</source>
+<year>2016</year>
+<volume>11</volume>
+<elocation-id>e0155357</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0155357</pub-id>
+<?supplied-pmid 27195894?><pub-id pub-id-type="pmid">27195894</pub-id></element-citation></ref><ref id="B21-ijerph-13-01229"><label>21.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Van Kamp</surname><given-names>I.</given-names></name><name><surname>Kl&#x000e6;boe</surname><given-names>R.</given-names></name><name><surname>Brown</surname><given-names>L.</given-names></name><name><surname>Lercher</surname><given-names>P.</given-names></name></person-group>
+<article-title>Soundscapes, human restoration and quality of life</article-title>
+<source>Soundscape and the Built Environment</source>
+<person-group person-group-type="editor"><name><surname>Kang</surname><given-names>J.</given-names></name><name><surname>Schulte-Fortkamp</surname><given-names>B.</given-names></name></person-group>
+<publisher-name>Taylor &#x00026; Francis Group</publisher-name>
+<publisher-loc>Boca Raton, FL, USA</publisher-loc>
+<year>2016</year>
+<fpage>43</fpage>
+<lpage>68</lpage>
+</element-citation></ref><ref id="B22-ijerph-13-01229"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gidl&#x000f6;f-Gunnarsson</surname><given-names>A.</given-names></name><name><surname>&#x000d6;hrstr&#x000f6;m</surname><given-names>E.</given-names></name></person-group>
+<article-title>Noise and well-being in urban residential environments: The potential role of perceived availability to nearby green areas</article-title>
+<source>Landsc. Urban Plan.</source>
+<year>2007</year>
+<volume>83</volume>
+<fpage>115</fpage>
+<lpage>126</lpage>
+<pub-id pub-id-type="doi">10.1016/j.landurbplan.2007.03.003</pub-id>
+</element-citation></ref><ref id="B23-ijerph-13-01229"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Renterghem</surname><given-names>T.</given-names></name><name><surname>Botteldooren</surname><given-names>D.</given-names></name></person-group>
+<article-title>View on outdoor vegetation reduces noise annoyance for dwellers near busy roads</article-title>
+<source>Landsc. Urban Plan.</source>
+<year>2016</year>
+<volume>148</volume>
+<fpage>203</fpage>
+<lpage>215</lpage>
+<pub-id pub-id-type="doi">10.1016/j.landurbplan.2015.12.018</pub-id>
+</element-citation></ref><ref id="B24-ijerph-13-01229"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alvarsson</surname><given-names>J.J.</given-names></name><name><surname>Wiens</surname><given-names>S.</given-names></name><name><surname>Nilsson</surname><given-names>M.E.</given-names></name></person-group>
+<article-title>Stress recovery during exposure to nature sound and environmental noise</article-title>
+<source>Int. J. Environ. Res. Public Health</source>
+<year>2010</year>
+<volume>7</volume>
+<fpage>1036</fpage>
+<lpage>1046</lpage>
+<pub-id pub-id-type="doi">10.3390/ijerph7031036</pub-id>
+<?supplied-pmid 20617017?><pub-id pub-id-type="pmid">20617017</pub-id></element-citation></ref><ref id="B25-ijerph-13-01229"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Annerstedt</surname><given-names>M.</given-names></name><name><surname>Jonsson</surname><given-names>P.</given-names></name><name><surname>Wallergard</surname><given-names>M.</given-names></name><name><surname>Johansson</surname><given-names>G.</given-names></name><name><surname>Karlson</surname><given-names>B.</given-names></name><name><surname>Grahn</surname><given-names>P.</given-names></name><name><surname>Hansen</surname><given-names>A.M.</given-names></name><name><surname>Wahrborg</surname><given-names>P.</given-names></name></person-group>
+<article-title>Inducing physiological stress recovery with sounds of nature in a virtual reality forest&#x02014;Results from a pilot study</article-title>
+<source>Physiol. Behav.</source>
+<year>2013</year>
+<volume>118</volume>
+<fpage>240</fpage>
+<lpage>250</lpage>
+<pub-id pub-id-type="doi">10.1016/j.physbeh.2013.05.023</pub-id>
+<?supplied-pmid 23688947?><pub-id pub-id-type="pmid">23688947</pub-id></element-citation></ref><ref id="B26-ijerph-13-01229"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Medvedev</surname><given-names>O.</given-names></name><name><surname>Shepherd</surname><given-names>D.</given-names></name><name><surname>Hautus</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>The restorative potential of soundscapes: A physiological investigation</article-title>
+<source>Appl. Acoust.</source>
+<year>2015</year>
+<volume>96</volume>
+<fpage>20</fpage>
+<lpage>26</lpage>
+<pub-id pub-id-type="doi">10.1016/j.apacoust.2015.03.004</pub-id>
+</element-citation></ref><ref id="B27-ijerph-13-01229"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Saadatmand</surname><given-names>V.</given-names></name><name><surname>Rejeh</surname><given-names>N.</given-names></name><name><surname>Heravi-Karimooi</surname><given-names>M.</given-names></name><name><surname>Tadrisi</surname><given-names>S.D.</given-names></name><name><surname>Zayeri</surname><given-names>F.</given-names></name><name><surname>Vaismoradi</surname><given-names>M.</given-names></name><name><surname>Jasper</surname><given-names>M.</given-names></name></person-group>
+<article-title>Effect of nature-based sounds&#x02019; intervention on agitation, anxiety, and stress in patients under mechanical ventilator support: A randomised controlled trial</article-title>
+<source>Int. J. Nurs. Stud.</source>
+<year>2013</year>
+<volume>50</volume>
+<fpage>895</fpage>
+<lpage>904</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ijnurstu.2012.11.018</pub-id>
+<?supplied-pmid 23245705?><pub-id pub-id-type="pmid">23245705</pub-id></element-citation></ref><ref id="B28-ijerph-13-01229"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aghaie</surname><given-names>B.</given-names></name><name><surname>Rejeh</surname><given-names>N.</given-names></name><name><surname>Heravi-Karimooi</surname><given-names>M.</given-names></name><name><surname>Ebadi</surname><given-names>A.</given-names></name><name><surname>Moradian</surname><given-names>S.T.</given-names></name><name><surname>Vaismoradi</surname><given-names>M.</given-names></name><name><surname>Jasper</surname><given-names>M.</given-names></name></person-group>
+<article-title>Effect of nature-based sound therapy on agitation and anxiety in coronary artery bypass graft patients during the weaning of mechanical ventilation: A randomised clinical trial</article-title>
+<source>Int. J. Nurs. Stud.</source>
+<year>2014</year>
+<volume>51</volume>
+<fpage>526</fpage>
+<lpage>538</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ijnurstu.2013.08.003</pub-id>
+<?supplied-pmid 24035670?><pub-id pub-id-type="pmid">24035670</pub-id></element-citation></ref><ref id="B29-ijerph-13-01229"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diette</surname><given-names>G.B.</given-names></name><name><surname>Lechtzin</surname><given-names>N.</given-names></name><name><surname>Haponik</surname><given-names>E.</given-names></name><name><surname>Devrotes</surname><given-names>A.</given-names></name><name><surname>Rubin</surname><given-names>H.R.</given-names></name></person-group>
+<article-title>Distraction therapy with nature sights and sounds reduces pain during flexible bronchoscopy: A complementary approach to routine Analgesia</article-title>
+<source>Chest</source>
+<year>2003</year>
+<volume>123</volume>
+<fpage>941</fpage>
+<lpage>948</lpage>
+<pub-id pub-id-type="doi">10.1378/chest.123.3.941</pub-id>
+<?supplied-pmid 12628899?><pub-id pub-id-type="pmid">12628899</pub-id></element-citation></ref><ref id="B30-ijerph-13-01229"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Salomon</surname><given-names>J.A.</given-names></name><name><surname>Wang</surname><given-names>H.</given-names></name><name><surname>Freeman</surname><given-names>M.K.</given-names></name><name><surname>Vos</surname><given-names>T.</given-names></name><name><surname>Flaxman</surname><given-names>A.D.</given-names></name><name><surname>Lopez</surname><given-names>A.D.</given-names></name><name><surname>Murray</surname><given-names>C.J.</given-names></name></person-group>
+<article-title>Healthy life expectancy for 187 countries, 1990&#x02013;2010: A systematic analysis for the global burden disease study 2010</article-title>
+<source>Lancet</source>
+<year>2012</year>
+<volume>380</volume>
+<fpage>2144</fpage>
+<lpage>2162</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(12)61690-0</pub-id>
+<pub-id pub-id-type="pmid">23245606</pub-id></element-citation></ref><ref id="B31-ijerph-13-01229"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vos</surname><given-names>T.</given-names></name><name><surname>Flaxman</surname><given-names>A.D.</given-names></name><name><surname>Naghavi</surname><given-names>M.</given-names></name><name><surname>Lozano</surname><given-names>R.</given-names></name><name><surname>Michaud</surname><given-names>C.</given-names></name><name><surname>Ezzati</surname><given-names>M.</given-names></name><name><surname>Shibuya</surname><given-names>K.</given-names></name><name><surname>Salomon</surname><given-names>J.A.</given-names></name><name><surname>Abdalla</surname><given-names>S.</given-names></name><name><surname>Aboyans</surname><given-names>V.</given-names></name><etal/></person-group>
+<article-title>Years lived with disability (ylds) for 1160 sequelae of 289 diseases and injuries 1990&#x02013;2010: A systematic analysis for the global burden of disease study 2010</article-title>
+<source>Lancet</source>
+<year>2012</year>
+<volume>380</volume>
+<fpage>2163</fpage>
+<lpage>2196</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(12)61729-2</pub-id>
+<pub-id pub-id-type="pmid">23245607</pub-id></element-citation></ref><ref id="B32-ijerph-13-01229"><label>32.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Persson</surname><given-names>D.</given-names></name><name><surname>Jonsson</surname><given-names>H.</given-names></name></person-group>
+<article-title>Importance of experiential challenges in a balanced life. Micro- and macro-perspectives</article-title>
+<source>Life Balance: Multidisciplinary Theories and Research</source>
+<person-group person-group-type="editor"><name><surname>Matuska</surname><given-names>K.</given-names></name><name><surname>Christiansen</surname><given-names>C.</given-names></name></person-group>
+<publisher-name>Slack Inc.</publisher-name>
+<publisher-loc>Thorofare, NJ, USA</publisher-loc>
+<year>2009</year>
+</element-citation></ref><ref id="B33-ijerph-13-01229"><label>33.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Glise</surname><given-names>K.</given-names></name></person-group>
+<source>Exhaustion Disorder: Identification, Characterisation and Course of Illness</source>
+<publisher-name>Sahlgrenska Academy, University of Gothenburg</publisher-name>
+<publisher-loc>G&#x000f6;teborg, Sweden</publisher-loc>
+<year>2014</year>
+</element-citation></ref><ref id="B34-ijerph-13-01229"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hartig</surname><given-names>T.</given-names></name><name><surname>Mitchell</surname><given-names>R.</given-names></name><name><surname>Vries</surname><given-names>S.D.</given-names></name><name><surname>Frumkin</surname><given-names>H.</given-names></name></person-group>
+<article-title>Nature and health</article-title>
+<source>Annu. Rev. Public Health</source>
+<year>2014</year>
+<volume>35</volume>
+<fpage>207</fpage>
+<lpage>228</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev-publhealth-032013-182443</pub-id>
+<?supplied-pmid 24387090?><pub-id pub-id-type="pmid">24387090</pub-id></element-citation></ref><ref id="B35-ijerph-13-01229"><label>35.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Sahlin</surname><given-names>E.</given-names></name></person-group>
+<article-title>To Stress the Importance of Nature: Nature-Based Therapy for the Rehabilitation and Prevention of Stress-Related Disorders</article-title>
+<source>Ph.D. Thesis</source>
+<publisher-name>Swedish University of Agricultural Sciences, SLU</publisher-name>
+<publisher-loc>Alnarp, Sweden</publisher-loc>
+<month>12</month>
+<year>2014</year>
+</element-citation></ref><ref id="B36-ijerph-13-01229"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sahlin</surname><given-names>E.</given-names></name><name><surname>Lindeg&#x000e5;rd</surname><given-names>A.</given-names></name><name><surname>Hadzibajramovic</surname><given-names>E.</given-names></name><name><surname>Grahn</surname><given-names>P.</given-names></name><name><surname>Vega Matuszczyk</surname><given-names>J.</given-names></name><name><surname>Ahlborg</surname><given-names>G.</given-names></name></person-group>
+<article-title>The influence of the environment on directed attention, blood pressure and heart rate&#x02014;An experimental study using a relaxation intervention</article-title>
+<source>Landsc. Res.</source>
+<year>2016</year>
+<volume>41</volume>
+<fpage>7</fpage>
+<lpage>25</lpage>
+<pub-id pub-id-type="doi">10.1080/01426397.2014.982079</pub-id>
+</element-citation></ref><ref id="B37-ijerph-13-01229"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tyrv&#x000e4;inen</surname><given-names>L.</given-names></name><name><surname>Ojala</surname><given-names>A.</given-names></name><name><surname>Korpela</surname><given-names>K.</given-names></name><name><surname>Lanki</surname><given-names>T.</given-names></name><name><surname>Tsunetsugu</surname><given-names>Y.</given-names></name><name><surname>Kagawa</surname><given-names>T.</given-names></name></person-group>
+<article-title>The influence of urban green environments on stress relief measures: A field experiment</article-title>
+<source>J. Environ. Psychol.</source>
+<year>2014</year>
+<volume>38</volume>
+<fpage>1</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvp.2013.12.005</pub-id>
+</element-citation></ref><ref id="B38-ijerph-13-01229"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adevi</surname><given-names>A.A.</given-names></name><name><surname>Lieberg</surname><given-names>M.</given-names></name></person-group>
+<article-title>Stress rehabilitation through garden therapy: A caregiver perspective on factors considered most essential to the recovery process</article-title>
+<source>Urban For. Urban Green.</source>
+<year>2012</year>
+<volume>11</volume>
+<fpage>51</fpage>
+<lpage>58</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ufug.2011.09.007</pub-id>
+</element-citation></ref><ref id="B39-ijerph-13-01229"><label>39.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>P&#x000e1;lsd&#x000f3;ttir</surname><given-names>A.M.</given-names></name></person-group>
+<article-title>The Role of Nature in Rehabilitation for Individuals with Stress-Related Mental Disorders: Alnarp Rehabilitation Garden as Supportive Environment</article-title>
+<source>Ph.D. Thesis</source>
+<publisher-name>Swedish University of Agricultural Sciences, SLU</publisher-name>
+<publisher-loc>Alnarp, Sweden</publisher-loc>
+<month>6</month>
+<year>2014</year>
+</element-citation></ref><ref id="B40-ijerph-13-01229"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sonntag-&#x000d6;str&#x000f6;m</surname><given-names>E.</given-names></name><name><surname>Nordin</surname><given-names>M.</given-names></name><name><surname>Lundell</surname><given-names>Y.</given-names></name><name><surname>Dolling</surname><given-names>A.</given-names></name><name><surname>Wiklund</surname><given-names>U.</given-names></name><name><surname>Karlsson</surname><given-names>M.</given-names></name><name><surname>Carlberg</surname><given-names>B.</given-names></name><name><surname>Slunga J&#x000e4;rvholm</surname><given-names>L.</given-names></name></person-group>
+<article-title>Restorative effects of visits to urban and forest environments in patients with exhaustion disorder</article-title>
+<source>Urban For. Urban Green.</source>
+<year>2014</year>
+<volume>13</volume>
+<fpage>344</fpage>
+<lpage>354</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ufug.2013.12.007</pub-id>
+</element-citation></ref><ref id="B41-ijerph-13-01229"><label>41.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kaplan</surname><given-names>R.</given-names></name><name><surname>Kaplan</surname><given-names>S.</given-names></name></person-group>
+<source>The Experience of Nature: A Psychological Perspective</source>
+<publisher-name>Cambridge University Press</publisher-name>
+<publisher-loc>Cambridge, UK</publisher-loc>
+<year>1989</year>
+</element-citation></ref><ref id="B42-ijerph-13-01229"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>P&#x000e1;lsd&#x000f3;ttir</surname><given-names>A.M.</given-names></name><name><surname>Persson</surname><given-names>D.</given-names></name><name><surname>Persson</surname><given-names>B.</given-names></name><name><surname>Grahn</surname><given-names>P.</given-names></name></person-group>
+<article-title>The journey of recovery and empowerment embraced by nature&#x02014;Clients&#x02019; perspectives on nature-based rehabilitation in relation to the role of the natural environment</article-title>
+<source>Int. J. Environ. Res. Public Health</source>
+<year>2014</year>
+<volume>11</volume>
+<fpage>7094</fpage>
+<lpage>7115</lpage>
+<pub-id pub-id-type="doi">10.3390/ijerph110707094</pub-id>
+<?supplied-pmid 25026080?><pub-id pub-id-type="pmid">25026080</pub-id></element-citation></ref><ref id="B43-ijerph-13-01229"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>P&#x000e1;lsd&#x000f3;ttir</surname><given-names>A.M.</given-names></name><name><surname>Grahn</surname><given-names>P.</given-names></name><name><surname>Persson</surname><given-names>D.</given-names></name></person-group>
+<article-title>Changes in experienced value of everyday occupations after nature-based vocational rehabilitation</article-title>
+<source>Scand. J. Occup. Ther.</source>
+<year>2014</year>
+<volume>21</volume>
+<fpage>58</fpage>
+<lpage>68</lpage>
+<pub-id pub-id-type="doi">10.3109/11038128.2013.832794</pub-id>
+<?supplied-pmid 24041155?><pub-id pub-id-type="pmid">24041155</pub-id></element-citation></ref><ref id="B44-ijerph-13-01229"><label>44.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>Socialstyrelsen. [National Board of Health and Welfare in Sweden]</collab></person-group>
+<source>Utmattningssyndrom&#x02014;Stressrelaterad Psykisk Oh&#x000e4;lsa [Fatigue Syndrome&#x02014;Stress-Related Mental Illnesses]</source>
+<publisher-name>Elanders Gotab AB</publisher-name>
+<publisher-loc>Stockholm, Sweden</publisher-loc>
+<year>2003</year>
+</element-citation></ref><ref id="B45-ijerph-13-01229"><label>45.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>F&#x000f6;rs&#x000e4;kringskassan. [The Social Insurance Services in Sweden]</collab></person-group>
+<source>Psykisk Oh&#x000e4;lsa, Korta Analyser 2016:2 [Mental Illness, Short Analyses 2016:2]</source>
+<publisher-name>Bureau of Social Insurance</publisher-name>
+<publisher-loc>Stockholm, Sweden</publisher-loc>
+<year>2016</year>
+<comment>Fk-nr: 116&#x02013;4</comment>
+</element-citation></ref><ref id="B46-ijerph-13-01229"><label>46.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Grahn</surname><given-names>P.</given-names></name><name><surname>Tenngart-Ivarsson</surname><given-names>C.</given-names></name><name><surname>Stigsdotter</surname><given-names>U.K.</given-names></name><name><surname>Bengtsson</surname><given-names>I.-L.</given-names></name></person-group>
+<article-title>Using affordances as a health-promoting tool in therapeutic setting</article-title>
+<source>Innovative Approaches to Researching Landscape and Health: Open Space: People Space</source>
+<person-group person-group-type="editor"><name><surname>Ward Thompson</surname><given-names>C.</given-names></name><name><surname>Aspinall</surname><given-names>P.</given-names></name><name><surname>Bell</surname><given-names>S.</given-names></name></person-group>
+<publisher-name>Routledge</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2010</year>
+<fpage>116</fpage>
+<lpage>154</lpage>
+</element-citation></ref><ref id="B47-ijerph-13-01229"><label>47.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Stigsdotter</surname><given-names>U.K.</given-names></name><name><surname>Palsdottir</surname><given-names>A.M.</given-names></name><name><surname>Burls</surname><given-names>A.</given-names></name><name><surname>Chermaz</surname><given-names>A.</given-names></name><name><surname>Ferrini</surname><given-names>F.</given-names></name><name><surname>Grahn</surname><given-names>P.</given-names></name></person-group>
+<article-title>Nature based therapeutic intervention</article-title>
+<source>Forests, Trees and Human Health</source>
+<person-group person-group-type="editor"><name><surname>Nilsson</surname><given-names>K.</given-names></name></person-group>
+<publisher-name>Springer</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2011</year>
+</element-citation></ref><ref id="B48-ijerph-13-01229"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stigsdotter</surname><given-names>U.K.</given-names></name><name><surname>Grahn</surname><given-names>P.</given-names></name></person-group>
+<article-title>Experiencing a garden: A healing garden for people suffering from burnout diseases</article-title>
+<source>J. Ther. Hortic.</source>
+<year>2003</year>
+<volume>XIV</volume>
+<fpage>38</fpage>
+<lpage>49</lpage>
+</element-citation></ref><ref id="B49-ijerph-13-01229"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shanahan</surname><given-names>D.F.</given-names></name><name><surname>Bush</surname><given-names>R.</given-names></name><name><surname>Gaston</surname><given-names>K.J.</given-names></name><name><surname>Lin</surname><given-names>B.B.</given-names></name><name><surname>Dean</surname><given-names>J.</given-names></name><name><surname>Barber</surname><given-names>E.</given-names></name><name><surname>Fuller</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Health benefits from nature experiences depend on dose</article-title>
+<source>Sci. Rep.</source>
+<year>2016</year>
+<volume>6</volume>
+<fpage>28551</fpage>
+<pub-id pub-id-type="doi">10.1038/srep28551</pub-id>
+<?supplied-pmid 27334040?><pub-id pub-id-type="pmid">27334040</pub-id></element-citation></ref><ref id="B50-ijerph-13-01229"><label>50.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>Lomma municipality</collab></person-group>
+<source>Bullerkartl&#x000e4;ggning 10357 [Noise Survey 10357]</source>
+<publisher-name>Lomma Municipality &#x00026; Soundcon</publisher-name>
+<publisher-loc>J&#x000f6;nk&#x000f6;ping, Sweden</publisher-loc>
+<year>2010</year>
+</element-citation></ref><ref id="B51-ijerph-13-01229"><label>51.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>J.A.</given-names></name><name><surname>Osborn</surname><given-names>M.</given-names></name></person-group>
+<article-title>Interpretative phenomenological analysis</article-title>
+<source>Qualitative Psychology: A Practical Guide to Research Methods</source>
+<person-group person-group-type="editor"><name><surname>Smith</surname><given-names>J.A.</given-names></name></person-group>
+<publisher-name>SAGE</publisher-name>
+<publisher-loc>London, UK</publisher-loc>
+<year>2003</year>
+</element-citation></ref><ref id="B52-ijerph-13-01229"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Axelsson</surname><given-names>&#x000d6;.</given-names></name><name><surname>Nilsson</surname><given-names>M.E.</given-names></name><name><surname>Berglund</surname><given-names>B.</given-names></name></person-group>
+<article-title>A principal components model of soundscape perception</article-title>
+<source>J. Acoust. Soc. Am.</source>
+<year>2010</year>
+<volume>128</volume>
+<fpage>2836</fpage>
+<lpage>2846</lpage>
+<pub-id pub-id-type="doi">10.1121/1.3493436</pub-id>
+<?supplied-pmid 21110579?><pub-id pub-id-type="pmid">21110579</pub-id></element-citation></ref><ref id="B53-ijerph-13-01229"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nilsson</surname><given-names>M.E.</given-names></name><name><surname>Berglund</surname><given-names>B.</given-names></name></person-group>
+<article-title>Soundscape quality in suburban green areas and city parks</article-title>
+<source>Acta Acust. United Acust.</source>
+<year>2006</year>
+<volume>92</volume>
+<fpage>903</fpage>
+<lpage>911</lpage>
+</element-citation></ref><ref id="B54-ijerph-13-01229"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kjellgren</surname><given-names>A.</given-names></name><name><surname>Buhrkall</surname><given-names>H.</given-names></name></person-group>
+<article-title>A comparison of the restorative effect of a natural environment with that of a simulated natural environment</article-title>
+<source>J. Environ. Psychol.</source>
+<year>2010</year>
+<volume>30</volume>
+<fpage>464</fpage>
+<lpage>472</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvp.2010.01.011</pub-id>
+</element-citation></ref><ref id="B55-ijerph-13-01229"><label>55.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Pallasmaa</surname><given-names>J.</given-names></name></person-group>
+<article-title>An architecture of the seven senses</article-title>
+<source>Questions of Perception: Phenomenology of Architecture</source>
+<person-group person-group-type="editor"><name><surname>Holl</surname><given-names>S.</given-names></name><name><surname>Pallasmaa</surname><given-names>J.</given-names></name><name><surname>Perez-Gomez</surname><given-names>A.</given-names></name></person-group>
+<publisher-name>William Stout Publishers</publisher-name>
+<publisher-loc>San Francisco, CA, USA</publisher-loc>
+<year>2006</year>
+</element-citation></ref><ref id="B56-ijerph-13-01229"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maculewicz</surname><given-names>J.</given-names></name><name><surname>Erkut</surname><given-names>C.</given-names></name><name><surname>Serafin</surname><given-names>S.</given-names></name></person-group>
+<article-title>How can soundscapes affect the preferred walking pace?</article-title>
+<source>Appl. Acoust.</source>
+<year>2016</year>
+<volume>114</volume>
+<fpage>230</fpage>
+<lpage>239</lpage>
+<pub-id pub-id-type="doi">10.1016/j.apacoust.2016.07.031</pub-id>
+</element-citation></ref><ref id="B57-ijerph-13-01229"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Franek</surname><given-names>M.</given-names></name></person-group>
+<article-title>Environmental factors influencing pedestrian walking speed</article-title>
+<source>Percept. Motor Skills</source>
+<year>2013</year>
+<volume>116</volume>
+<fpage>992</fpage>
+<lpage>1019</lpage>
+<pub-id pub-id-type="doi">10.2466/06.50.PMS.116.3.992-1019</pub-id>
+<?supplied-pmid 24175468?><pub-id pub-id-type="pmid">24175468</pub-id></element-citation></ref><ref id="B58-ijerph-13-01229"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basner</surname><given-names>M.</given-names></name><name><surname>Babisch</surname><given-names>W.</given-names></name><name><surname>Davis</surname><given-names>A.</given-names></name><name><surname>Brink</surname><given-names>M.</given-names></name><name><surname>Clark</surname><given-names>C.</given-names></name><name><surname>Janssen</surname><given-names>S.</given-names></name><name><surname>Stansfeld</surname><given-names>S.</given-names></name></person-group>
+<article-title>Auditory and non-auditory effects of noise on health</article-title>
+<source>Lancet</source>
+<year>2014</year>
+<volume>383</volume>
+<fpage>1325</fpage>
+<lpage>1332</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(13)61613-X</pub-id>
+<pub-id pub-id-type="pmid">24183105</pub-id></element-citation></ref><ref id="B59-ijerph-13-01229"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heinonen-Guzejev</surname><given-names>M.</given-names></name><name><surname>Vuorinen</surname><given-names>H.S.</given-names></name><name><surname>Mussalo-Rauhamaa</surname><given-names>H.</given-names></name><name><surname>Heikkila</surname><given-names>K.</given-names></name><name><surname>Koskenvuo</surname><given-names>M.</given-names></name><name><surname>Kaprio</surname><given-names>J.</given-names></name></person-group>
+<article-title>Genetic component of noise sensitivity</article-title>
+<source>Twin Res. Hum. Genet.</source>
+<year>2005</year>
+<volume>8</volume>
+<fpage>245</fpage>
+<lpage>249</lpage>
+<pub-id pub-id-type="doi">10.1375/twin.8.3.245</pub-id>
+<?supplied-pmid 15989751?><pub-id pub-id-type="pmid">15989751</pub-id></element-citation></ref><ref id="B60-ijerph-13-01229"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellermeier</surname><given-names>W.</given-names></name><name><surname>Eigenstetter</surname><given-names>M.</given-names></name><name><surname>Zimmer</surname><given-names>K.</given-names></name></person-group>
+<article-title>Psychoacoustic correlates of individual noise sensitivity</article-title>
+<source>J. Acoust. Soc. Am.</source>
+<year>2001</year>
+<volume>109</volume>
+<fpage>1464</fpage>
+<lpage>1473</lpage>
+<pub-id pub-id-type="doi">10.1121/1.1350402</pub-id>
+<?supplied-pmid 11325118?><pub-id pub-id-type="pmid">11325118</pub-id></element-citation></ref><ref id="B61-ijerph-13-01229"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Job</surname><given-names>R.F.</given-names></name></person-group>
+<article-title>Noise sensitivity as a factor influencing human reaction to noise</article-title>
+<source>Noise Health</source>
+<year>1999</year>
+<volume>1</volume>
+<fpage>57</fpage>
+<lpage>68</lpage>
+<?supplied-pmid 12689500?><pub-id pub-id-type="pmid">12689500</pub-id></element-citation></ref><ref id="B62-ijerph-13-01229"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miedema</surname><given-names>H.M.</given-names></name><name><surname>Vos</surname><given-names>H.</given-names></name></person-group>
+<article-title>Noise sensitivity and reactions to noise and other environmental conditions</article-title>
+<source>J. Acoust. Soc. Am.</source>
+<year>2003</year>
+<volume>113</volume>
+<fpage>1492</fpage>
+<lpage>1504</lpage>
+<pub-id pub-id-type="doi">10.1121/1.1547437</pub-id>
+<?supplied-pmid 12656384?><pub-id pub-id-type="pmid">12656384</pub-id></element-citation></ref><ref id="B63-ijerph-13-01229"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pedersen</surname><given-names>E.</given-names></name><name><surname>Waye</surname><given-names>K.P.</given-names></name></person-group>
+<article-title>Perception and annoyance due to wind turbine noise&#x02014;A dose-response relationship</article-title>
+<source>J. Acoust. Soc. Am.</source>
+<year>2004</year>
+<volume>116</volume>
+<fpage>3460</fpage>
+<lpage>3470</lpage>
+<pub-id pub-id-type="doi">10.1121/1.1815091</pub-id>
+<?supplied-pmid 15658697?><pub-id pub-id-type="pmid">15658697</pub-id></element-citation></ref><ref id="B64-ijerph-13-01229"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baliatsas</surname><given-names>C.</given-names></name><name><surname>van Kamp</surname><given-names>I.</given-names></name><name><surname>Swart</surname><given-names>W.</given-names></name><name><surname>Hooiveld</surname><given-names>M.</given-names></name><name><surname>Yzermans</surname><given-names>J.</given-names></name></person-group>
+<article-title>Noise sensitivity: Symptoms, health status, illness behavior and co-occurring environmental sensitivities</article-title>
+<source>Environ. Res.</source>
+<year>2016</year>
+<volume>150</volume>
+<fpage>8</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.1016/j.envres.2016.05.029</pub-id>
+<?supplied-pmid 27232297?><pub-id pub-id-type="pmid">27232297</pub-id></element-citation></ref><ref id="B65-ijerph-13-01229"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heinonen-Guzejev</surname><given-names>M.</given-names></name><name><surname>Vuorinen</surname><given-names>H.S.</given-names></name><name><surname>Mussalo-Rauhamaa</surname><given-names>H.</given-names></name><name><surname>Heikkil&#x000e4;</surname><given-names>K.</given-names></name><name><surname>Koskenvuo</surname><given-names>M.</given-names></name><name><surname>Kaprio</surname><given-names>J.</given-names></name></person-group>
+<article-title>The association of noise sensitivity with coronary heart and cardiovascular mortality among finnish adults</article-title>
+<source>Sci. Total Environ.</source>
+<year>2007</year>
+<volume>372</volume>
+<fpage>406</fpage>
+<lpage>412</lpage>
+<pub-id pub-id-type="doi">10.1016/j.scitotenv.2006.08.048</pub-id>
+<?supplied-pmid 17129598?><pub-id pub-id-type="pmid">17129598</pub-id></element-citation></ref><ref id="B66-ijerph-13-01229"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stansfeld</surname><given-names>S.A.</given-names></name></person-group>
+<article-title>Noise, noise sensitivity and psychiatric disorder: Epidemiological and psychophysiological studies</article-title>
+<source>Psychol. Med. Monogr. Suppl.</source>
+<year>1992</year>
+<volume>22</volume>
+<fpage>1</fpage>
+<lpage>44</lpage>
+<pub-id pub-id-type="doi">10.1017/S0264180100001119</pub-id>
+<?supplied-pmid 1343357?><pub-id pub-id-type="pmid">1343357</pub-id></element-citation></ref><ref id="B67-ijerph-13-01229"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shepherd</surname><given-names>D.</given-names></name><name><surname>Hautus</surname><given-names>M.J.</given-names></name><name><surname>Lee</surname><given-names>S.Y.</given-names></name><name><surname>Mulgrew</surname><given-names>J.</given-names></name></person-group>
+<article-title>Electrophysiological approaches to noise sensitivity</article-title>
+<source>J. Clin. Exp. Neuropsychol.</source>
+<year>2016</year>
+<volume>38</volume>
+<fpage>900</fpage>
+<lpage>912</lpage>
+<pub-id pub-id-type="doi">10.1080/13803395.2016.1176995</pub-id>
+<?supplied-pmid 27171616?><pub-id pub-id-type="pmid">27171616</pub-id></element-citation></ref><ref id="B68-ijerph-13-01229"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fyhri</surname><given-names>A.</given-names></name><name><surname>Kl&#x000e6;boe</surname><given-names>R.</given-names></name></person-group>
+<article-title>Road traffic noise, sensitivity, annoyance and self-reported health&#x02014;A structural equation model exercise</article-title>
+<source>Environ. Int.</source>
+<year>2009</year>
+<volume>35</volume>
+<fpage>91</fpage>
+<lpage>97</lpage>
+<pub-id pub-id-type="doi">10.1016/j.envint.2008.08.006</pub-id>
+<?supplied-pmid 18823662?><pub-id pub-id-type="pmid">18823662</pub-id></element-citation></ref><ref id="B69-ijerph-13-01229"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gu</surname><given-names>J.W.</given-names></name><name><surname>Halpin</surname><given-names>C.F.</given-names></name><name><surname>Nam</surname><given-names>E.C.</given-names></name><name><surname>Levine</surname><given-names>R.A.</given-names></name><name><surname>Melcher</surname><given-names>J.R.</given-names></name></person-group>
+<article-title>Tinnitus, diminished sound-level tolerance, and elevated auditory activity in humans with clinically normal hearing sensitivity</article-title>
+<source>J. Neurophysiol.</source>
+<year>2010</year>
+<volume>104</volume>
+<fpage>3361</fpage>
+<lpage>3370</lpage>
+<pub-id pub-id-type="doi">10.1152/jn.00226.2010</pub-id>
+<?supplied-pmid 20881196?><pub-id pub-id-type="pmid">20881196</pub-id></element-citation></ref><ref id="B70-ijerph-13-01229"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baguley</surname><given-names>D.M.</given-names></name></person-group>
+<article-title>Hyperacusis</article-title>
+<source>J. R. Soc. Med.</source>
+<year>2003</year>
+<volume>96</volume>
+<fpage>582</fpage>
+<lpage>585</lpage>
+<pub-id pub-id-type="doi">10.1258/jrsm.96.12.582</pub-id>
+<?supplied-pmid 14645606?><pub-id pub-id-type="pmid">14645606</pub-id></element-citation></ref><ref id="B71-ijerph-13-01229"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Andersson</surname><given-names>G.</given-names></name><name><surname>Lindvall</surname><given-names>N.</given-names></name><name><surname>Hursti</surname><given-names>T.</given-names></name><name><surname>Carlbring</surname><given-names>P.</given-names></name></person-group>
+<article-title>Hypersensitivity to sound (hyperacusis): A prevalence study conducted via the internet and post</article-title>
+<source>Int. J. Audiol.</source>
+<year>2002</year>
+<volume>41</volume>
+<fpage>545</fpage>
+<lpage>554</lpage>
+<pub-id pub-id-type="doi">10.3109/14992020209056075</pub-id>
+<?supplied-pmid 12477175?><pub-id pub-id-type="pmid">12477175</pub-id></element-citation></ref><ref id="B72-ijerph-13-01229"><label>72.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>R&#x000e5;dsten Ekman</surname><given-names>M.</given-names></name></person-group>
+<article-title>Unwanted Wanted Sounds: Perception of Sounds from Water Structures in Urban Soundscapes</article-title>
+<source>Ph.D. Thesis</source>
+<publisher-name>Stockholm University</publisher-name>
+<publisher-loc>Stockholm, Sweden</publisher-loc>
+<month>9</month>
+<year>2015</year>
+</element-citation></ref><ref id="B73-ijerph-13-01229"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kampfe</surname><given-names>J.</given-names></name><name><surname>Sedlmeier</surname><given-names>P.</given-names></name><name><surname>Renkewitz</surname><given-names>F.</given-names></name></person-group>
+<article-title>The impact of background music on adult listeners: A meta-analysis</article-title>
+<source>Psychol. Music</source>
+<year>2011</year>
+<volume>39</volume>
+<fpage>424</fpage>
+<lpage>448</lpage>
+<pub-id pub-id-type="doi">10.1177/0305735610376261</pub-id>
+</element-citation></ref><ref id="B74-ijerph-13-01229"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Milliman</surname><given-names>R.E.</given-names></name></person-group>
+<article-title>Using background music to affect the behavior of supermarket shoppers</article-title>
+<source>J. Mark.</source>
+<year>1982</year>
+<volume>46</volume>
+<fpage>86</fpage>
+<lpage>91</lpage>
+<pub-id pub-id-type="doi">10.2307/1251706</pub-id>
+</element-citation></ref><ref id="B75-ijerph-13-01229"><label>75.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>S.</given-names></name><name><surname>Xie</surname><given-names>H.</given-names></name><name><surname>Mao</surname><given-names>H.</given-names></name><name><surname>Xia</surname><given-names>T.</given-names></name><name><surname>Cheng</surname><given-names>Y.</given-names></name><name><surname>Li</surname><given-names>H.</given-names></name></person-group>
+<article-title>A Summary of the Spatial Construction of Soundscape in Chinese Gardens</article-title>
+<source>Proceedings of the ICA 2016&#x02014;22nd International Congress on Acoustics</source>
+<conf-loc>Buenos Aires, Argentina</conf-loc>
+<conf-date>5&#x02013;9 September 2016</conf-date>
+</element-citation></ref><ref id="B76-ijerph-13-01229"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ratcliffe</surname><given-names>E.</given-names></name><name><surname>Gatersleben</surname><given-names>B.</given-names></name><name><surname>Sowden</surname><given-names>P.T.</given-names></name></person-group>
+<article-title>Bird sounds and their contributions to perceived attention restoration and stress recovery</article-title>
+<source>J. Environ. Psychol.</source>
+<year>2013</year>
+<volume>36</volume>
+<fpage>221</fpage>
+<lpage>228</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvp.2013.08.004</pub-id>
+</element-citation></ref><ref id="B77-ijerph-13-01229"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bjerke</surname><given-names>T.</given-names></name><name><surname>&#x000d8;stdahl</surname><given-names>T.</given-names></name></person-group>
+<article-title>Animal-related attitudes and activities in an urban population</article-title>
+<source>Anthrozo&#x000f6;s</source>
+<year>2004</year>
+<volume>17</volume>
+<fpage>109</fpage>
+<lpage>129</lpage>
+<pub-id pub-id-type="doi">10.2752/089279304786991783</pub-id>
+</element-citation></ref><ref id="B78-ijerph-13-01229"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hedblom</surname><given-names>M.</given-names></name><name><surname>Heyman</surname><given-names>E.</given-names></name><name><surname>Antonsson</surname><given-names>H.</given-names></name><name><surname>Gunnarsson</surname><given-names>B.</given-names></name></person-group>
+<article-title>Bird song diversity influences young people&#x02019;s appreciation of urban landscapes</article-title>
+<source>Urban For. Urban Green.</source>
+<year>2014</year>
+<volume>13</volume>
+<fpage>469</fpage>
+<lpage>474</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ufug.2014.04.002</pub-id>
+</element-citation></ref><ref id="B79-ijerph-13-01229"><label>79.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>DeGraaf</surname><given-names>R.M.</given-names></name></person-group>
+<source>Trees, Shrubs, and Vines for Attracting Birds</source>
+<publisher-name>University Press of New England</publisher-name>
+<publisher-loc>Hanover, NH, USA</publisher-loc>
+<year>2002</year>
+</element-citation></ref><ref id="B80-ijerph-13-01229"><label>80.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Forman</surname><given-names>R.T.T.</given-names></name></person-group>
+<source>Urban Ecology: Science of Cities</source>
+<publisher-name>Cambridge University Press</publisher-name>
+<publisher-loc>Cambridge, UK</publisher-loc>
+<year>2014</year>
+</element-citation></ref><ref id="B81-ijerph-13-01229"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jansson</surname><given-names>G.</given-names></name><name><surname>Andr&#x000e9;n</surname><given-names>H.</given-names></name></person-group>
+<article-title>Habitat composition and bird diversity in managed boreal forests</article-title>
+<source>Scand. J. For. Res.</source>
+<year>2003</year>
+<volume>18</volume>
+<fpage>225</fpage>
+<lpage>236</lpage>
+<pub-id pub-id-type="doi">10.1080/02827581.2003.9728293</pub-id>
+</element-citation></ref><ref id="B82-ijerph-13-01229"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gil-tena</surname><given-names>A.</given-names></name><name><surname>Brotons</surname><given-names>L.</given-names></name><name><surname>Saura</surname><given-names>S.</given-names></name></person-group>
+<article-title>Mediterranean forest dynamics and forest bird distribution changes in the late 20th century</article-title>
+<source>Glob. Chang. Biol.</source>
+<year>2009</year>
+<volume>15</volume>
+<fpage>474</fpage>
+<lpage>485</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2486.2008.01730.x</pub-id>
+</element-citation></ref><ref id="B83-ijerph-13-01229"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stoltz</surname><given-names>J.</given-names></name><name><surname>Lundell</surname><given-names>Y.</given-names></name><name><surname>Sk&#x000e4;rb&#x000e4;ck</surname><given-names>E.</given-names></name><name><surname>van den Bosch</surname><given-names>M.A.</given-names></name><name><surname>Grahn</surname><given-names>P.</given-names></name><name><surname>Nordstr&#x000f6;m</surname><given-names>E.-M.</given-names></name><name><surname>Dolling</surname><given-names>A.</given-names></name></person-group>
+<article-title>Planning for restorative forests: Describing stress-reducing qualities of forest stands using available forest stand data</article-title>
+<source>Eur. J. For. Res.</source>
+<year>2016</year>
+<volume>135</volume>
+<fpage>803</fpage>
+<lpage>813</lpage>
+<pub-id pub-id-type="doi">10.1007/s10342-016-0974-7</pub-id>
+</element-citation></ref><ref id="B84-ijerph-13-01229"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fowler</surname><given-names>M.D.</given-names></name></person-group>
+<article-title>Sound as a considered design parameter in the Japanese garden</article-title>
+<source>Stud. Hist. Gardens Des. Landsc.</source>
+<year>2015</year>
+<volume>35</volume>
+<fpage>312</fpage>
+<lpage>327</lpage>
+<pub-id pub-id-type="doi">10.1080/14601176.2015.1049478</pub-id>
+</element-citation></ref><ref id="B85-ijerph-13-01229"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Petersson</surname><given-names>A.</given-names></name><name><surname>Cerw&#x000e9;n</surname><given-names>G.</given-names></name><name><surname>Liljas</surname><given-names>M.</given-names></name><name><surname>Wingren</surname><given-names>C.</given-names></name></person-group>
+<article-title>Urban cemetery animals: An exploration of animals&#x02019; place in the human cemetery</article-title>
+<source>Mortality</source>
+<comment>Accepted</comment>
+</element-citation></ref><ref id="B86-ijerph-13-01229"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kang</surname><given-names>J.</given-names></name><name><surname>Aletta</surname><given-names>F.</given-names></name><name><surname>Gjestland</surname><given-names>T.T.</given-names></name><name><surname>Brown</surname><given-names>L.A.</given-names></name><name><surname>Botteldooren</surname><given-names>D.</given-names></name><name><surname>Schulte-Fortkamp</surname><given-names>B.</given-names></name><name><surname>Lercher</surname><given-names>P.</given-names></name><name><surname>van Kamp</surname><given-names>I.</given-names></name><name><surname>Genuit</surname><given-names>K.</given-names></name><name><surname>Fiebig</surname><given-names>A.</given-names></name><etal/></person-group>
+<article-title>Ten questions on the soundscapes of the built environment</article-title>
+<source>Build. Environ.</source>
+<year>2016</year>
+<volume>108</volume>
+<fpage>284</fpage>
+<lpage>294</lpage>
+<pub-id pub-id-type="doi">10.1016/j.buildenv.2016.08.011</pub-id>
+</element-citation></ref></ref-list></back><floats-group><fig id="ijerph-13-01229-f001" position="float"><label>Figure 1</label><caption><p>3D sketch depicting the Alnarp rehabilitation garden. Image rendered by: Gunnar Cerw&#x000e9;n.</p></caption><graphic xlink:href="ijerph-13-01229-g001"/></fig><fig id="ijerph-13-01229-f002" position="float"><label>Figure 2</label><caption><p>Noise map, illustrating A-weighted equivalent sound pressure levels in dB (L<sub>Aeq, 24 h</sub>), in and around the garden. Calculations are for 2 m above ground level and include all state- and municipal roads. The map was extracted from a noise survey commissioned by the Lomma municipality [<xref rid="B50-ijerph-13-01229" ref-type="bibr">50</xref>].</p></caption><graphic xlink:href="ijerph-13-01229-g002"/></fig></floats-group></article>

@@ -1,0 +1,355 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Transl Sci</journal-id><journal-id journal-id-type="iso-abbrev">Clin Transl Sci</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1752-8062</journal-id><journal-id journal-id-type="publisher-id">CTS</journal-id><journal-title-group><journal-title>Clinical and Translational Science</journal-title></journal-title-group><issn pub-type="ppub">1752-8054</issn><issn pub-type="epub">1752-8062</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6951453</article-id><article-id pub-id-type="doi">10.1111/cts.12687</article-id><article-id pub-id-type="publisher-id">CTS12687</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Reviews</subject></subj-group></article-categories><title-group><article-title>#Science: The Potential and the Challenges of Utilizing Social Media and Other Electronic Communication Platforms in Health Care</article-title><alt-title alt-title-type="right-running-head">#Science</alt-title><alt-title alt-title-type="left-running-head">Gijsen <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="cts12687-cr-0001" contrib-type="author" corresp="yes"><name><surname>Gijsen</surname><given-names>Violette</given-names></name><xref ref-type="aff" rid="cts12687-aff-0001">
+<sup>1</sup>
+</xref><address><email>violettegijsen@gmail.com</email></address></contrib><contrib id="cts12687-cr-0002" contrib-type="author"><name><surname>Maddux</surname><given-names>Michele</given-names></name><xref ref-type="aff" rid="cts12687-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cts12687-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cts12687-cr-0003" contrib-type="author"><name><surname>Lavertu</surname><given-names>Adam</given-names></name><xref ref-type="aff" rid="cts12687-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cts12687-cr-0004" contrib-type="author"><name><surname>Gonzalez&#x02010;Hernandez</surname><given-names>Graciela</given-names></name><xref ref-type="aff" rid="cts12687-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cts12687-cr-0005" contrib-type="author"><name><surname>Ram</surname><given-names>Nilam</given-names></name><xref ref-type="aff" rid="cts12687-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cts12687-cr-0006" contrib-type="author"><name><surname>Reeves</surname><given-names>Byron</given-names></name><xref ref-type="aff" rid="cts12687-aff-0007">
+<sup>7</sup>
+</xref><xref ref-type="aff" rid="cts12687-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="cts12687-cr-0007" contrib-type="author"><name><surname>Robinson</surname><given-names>Thomas</given-names></name><xref ref-type="aff" rid="cts12687-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="cts12687-cr-0008" contrib-type="author"><name><surname>Ziesenitz</surname><given-names>Victoria</given-names></name><xref ref-type="aff" rid="cts12687-aff-0009">
+<sup>9</sup>
+</xref><xref ref-type="aff" rid="cts12687-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="cts12687-cr-0009" contrib-type="author"><name><surname>Shakhnovich</surname><given-names>Valentina</given-names></name><xref ref-type="aff" rid="cts12687-aff-0011">
+<sup>11</sup>
+</xref><xref ref-type="aff" rid="cts12687-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="cts12687-cr-0010" contrib-type="author"><name><surname>Altman</surname><given-names>Russ</given-names></name><xref ref-type="aff" rid="cts12687-aff-0013">
+<sup>13</sup>
+</xref></contrib></contrib-group><aff id="cts12687-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>Maastricht University Medical Centre</institution>
+<city>Maastricht</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="cts12687-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Division of Developmental and Behavioral Sciences</named-content>
+<institution>Children's Mercy&#x02010;Kansas City</institution>
+<city>Kansas City</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts12687-aff-0003">
+<label><sup>3</sup></label>
+<institution>University of Missouri&#x02010;Kansas City School of Medicine</institution>
+<city>Kansas City</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts12687-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Biomedical Informatics Training Program</named-content>
+<institution>Stanford University</institution>
+<city>Stanford</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts12687-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Epidemiology, Biostatistics, and Informatics</named-content>
+<named-content content-type="organisation-division">The Perelman School of Medicine</named-content>
+<institution>University of Pennsylvania</institution>
+<city>Philadelphia</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts12687-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Human Development &#x00026; Family Studies</named-content>
+<institution>Pennsylvania State University</institution>
+<city>University Park</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts12687-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Communications</named-content>
+<institution>Stanford University</institution>
+<city>Stanford</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts12687-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Department of Pediatrics and of Medicine</named-content>
+<institution>Stanford University</institution>
+<city>Stanford</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts12687-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Department of Pediatric and Congenital Cardiology</named-content>
+<institution>University Hospital Heidelberg</institution>
+<city>Heidelberg</city>
+<country country="DE">Germany</country>
+</aff><aff id="cts12687-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Division of Pediatric Pharmacology and Pharmacometrics</named-content>
+<institution>University Children's Hospital</institution>
+<city>Basel</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="cts12687-aff-0011">
+<label><sup>11</sup></label>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>University of Missouri&#x02010;Kansas City School of Medicine</institution>
+<city>Kansas City</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts12687-aff-0012">
+<label><sup>12</sup></label>
+<named-content content-type="organisation-division">Division of Pediatric Gastroenterology, Hepatology and Nutrition and Division of Clinical Pharmacology, Toxicology and Therapeutic Innovation</named-content>
+<institution>Children's Mercy Kansas City</institution>
+<city>Kansas City</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts12687-aff-0013">
+<label><sup>13</sup></label>
+<named-content content-type="organisation-division">Departments of Bioengineering and Genetics</named-content>
+<institution>Stanford University</institution>
+<city>Stanford</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence: Violette Gijsen (<email>violettegijsen@gmail.com</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>9</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2020</year></pub-date><volume>13</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/cts.v13.1</issue-id><fpage>26</fpage><lpage>30</lpage><history><date date-type="received"><day>08</day><month>3</month><year>2019</year></date><date date-type="accepted"><day>03</day><month>7</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 ASCPT. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Clinical and Translational Science</italic> published by Wiley Periodicals, Inc. on behalf of the American Society for Clinical Pharmacology and Therapeutics.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CTS-13-26.pdf"/><abstract id="cts12687-abs-0001"><p>Electronic communication is becoming increasingly popular worldwide, as evidenced by its widespread and rapidly growing use. In medicine, however, it remains a novel approach to reach out to patients. Yet, they have the potential for further improving current health care. Electronic platforms could support therapy adherence and communication between physicians and patients. The power of social media as well as other electronic devices can improve adherence as evidenced by the development of the app <italic>bant</italic>. Additionally, systemic analysis of social media content by Screenome can identify health events not always captured by regular health care. By better identifying these healthcare events we can improve our current healthcare system as we will be able to better tailor to the patients&#x02019; needs. All these techniques are a valuable component of modern health care and will help us into the future of increasingly digital health care.</p></abstract><funding-group><award-group id="funding-0001"><funding-source>Stanford University Cyber Social Initiative</funding-source></award-group><award-group id="funding-0002"><funding-source>Knight Foundation</funding-source></award-group><award-group id="funding-0003"><funding-source>Stanford Child Health Research Institute</funding-source></award-group><award-group id="funding-0004"><funding-source>Stanford University Precision Health and Integrated Diagnostics Center (PHIND) </funding-source></award-group><award-group id="funding-0005"><funding-source>Pennsylvania State University Colleges of Health &#x00026; Human Development and Information Science &#x00026; Technology</funding-source></award-group><award-group id="funding-0006"><funding-source>National Science Foundation Graduate Research Fellowship</funding-source><award-id>DGE-1656518</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="5"/><word-count count="3962"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:09.01.2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="cts12687-body-0001"><p>Electronic communication refers to the exchange of information by technological means, including the World Wide Web, text and instant messaging, and social networking.<xref rid="cts12687-bib-0001" ref-type="ref">1</xref> It is becoming increasingly popular, as evidenced by its widespread and rapidly growing use. As of March 31, 2017, world internet usage and population statistics were at 4,346,561,853 internet users. It is also estimated that 15,220,700 texts are sent every minute of every day worldwide, with a median number of 60&#x02013;100 daily texts per person,<xref rid="cts12687-bib-0002" ref-type="ref">2</xref> and, as of 2017, daily social media usage of global internet users amounted to 135&#x000a0;minutes per day and global social networking audiences surpassed 2&#x000a0;billion users in 2016.<xref rid="cts12687-bib-0002" ref-type="ref">2</xref>, <xref rid="cts12687-bib-0003" ref-type="ref">3</xref>
+</p><p>Despite worldwide usage of electronic communications technology, it remains a novel approach used in medicine to reach out to patients. With so many of us constantly connected to the internet, electronic communications could be a great opportunity to tap into a popular mode of communication and connect with patients. For example, social media could be used to improve medication adherence, or to identify health problems and adverse drug reactions that never reach regulatory bodies or the physician's office. Electronic platforms could support therapy adherence and communication between physicians and patients. In this paper, we will discuss the challenges and opportunities in utilizing various forms of electronic communications for health care, including research that has been done to date.</p><sec id="cts12687-sec-0002"><title>Social Media and Electronic Platforms for Treatment Adherence: Opportunities for Patient Engagement and Patient Care</title><p>Adherence is the extent to which a patient follows medical advice. Poor adherence to treatment regimens is a significant problem across pediatric and adult populations. In fact, ~&#x000a0;50% of children and adults with a chronic illness are not taking enough of their prescribed medication.<xref rid="cts12687-bib-0004" ref-type="ref">4</xref> Nonadherence carries considerable implications for morbidity and mortality, cost&#x02010;effectiveness of medical care, and disease management decisions by healthcare providers. Poor adherence is also associated with significantly poorer quality of life, impairments in psychosocial and physical functioning, greater absenteeism from daily activities, and greater healthcare utilization.<xref rid="cts12687-bib-0004" ref-type="ref">4</xref>, <xref rid="cts12687-bib-0005" ref-type="ref">5</xref> Many efforts have been spent toward developing multicomponent interventions to promote better adherence in patients, with significant improvements in patient adherence. Yet, there is a paucity of information regarding social media use to monitor or improve medication adherence.</p><p>Social media may be a particularly appealing forum to target patient adherence. It capitalizes on a medium that many patients already use and are familiar with, and has potential to reach patients with limited healthcare access. Among the few that have evaluated social media for patient adherence is Scalzi <italic>et&#x000a0;al</italic>.<xref rid="cts12687-bib-0006" ref-type="ref">6</xref> They evaluated an intervention aimed at improving medication adherence in adolescents with systemic lupus. Participants were randomized to either answer questions about the intervention in a journal or on a social media site, where adolescents could discuss content of the educational site with other adolescents with systemic lupus. Medication adherence improved in both control and social media groups, but the proportion of adherent patients improved significantly only in the social media group. Similarly, an app called <italic>bant</italic> was developed to improve self&#x02010;management among adolescents with type 1 diabetes. This app allows youths to wirelessly transfer glucose readings, engage in a social community with peers, and earn rewards for blood glucose readings. A pilot test revealed that the daily average frequency of blood glucose readings increased by 50% using the <italic>bant</italic> app.<xref rid="cts12687-bib-0007" ref-type="ref">7</xref> A randomized clinical trial further confirmed a positive association between blood glucose readings and hemoglobin A1c control using the app.<xref rid="cts12687-bib-0008" ref-type="ref">8</xref>
+</p><p>Text messaging is another emerging electronic communication for enhancing treatment adherence. To date, texting has been shown to increase attendance at medical appointments and to prompt administration of prescribed treatments. A meta&#x02010;analysis regarding the use of text messaging for improving medication adherence found a 20% increase in patient adherence with 2&#x02010;way text messaging (sending reminders and requesting replies), but no effect with 1&#x02010;way text messaging (sending reminders only) highlighting specifically the advantage and the power of interactive electronic platforms similar to social media.<xref rid="cts12687-bib-0005" ref-type="ref">5</xref>
+</p><p>Other technical advances outside the use of social media have contributed to better adherence as well. Electronic platform monitors, devices that capture objective adherence data, can provide more valid measures of adherence compared with self&#x02010;reported estimates by patients. Electronic monitors record the date and time a medication is removed from the electronic device, and some have options for setting prompts when a medication is to be administered (e.g., alarms and text reminders). Electronic monitors are viewed favorably by patients and have been used to provide feedback to patients about their medication&#x02010;taking behaviors, with noted significant improvements in adherence.<xref rid="cts12687-bib-0009" ref-type="ref">9</xref>, <xref rid="cts12687-bib-0010" ref-type="ref">10</xref>, <xref rid="cts12687-bib-0011" ref-type="ref">11</xref>, <xref rid="cts12687-bib-0012" ref-type="ref">12</xref>
+</p></sec><sec id="cts12687-sec-0003"><title>Social Media as a Tool to Capture Adverse Drug Reactions</title><p>Adverse drug reactions sit between the fourth and sixth leading cause of death in the United States. According to a systematic review of 25 observational studies, including 106,586 patients who were hospitalized, ~&#x000a0;5.3% of all hospital admissions around the world are associated with adverse drug reactions (ADRs), with higher rates (a median of 10.7%) reported for elderly patients.<xref rid="cts12687-bib-0013" ref-type="ref">13</xref> An earlier review of 39 studies had similar findings, calculating the overall incidence of serious ADRs at 6.7% of all hospital admissions in the United States, with fatal ADRs at 0.32%.<xref rid="cts12687-bib-0014" ref-type="ref">14</xref> Thus, the study estimated 106,000 fatal ADRs nationally in 1994.</p><p>Due to the limitations of pre&#x02010;approval clinical trials, it is not possible to assess all of the ADRs associated with the use of a particular drug before it is released, and spontaneous reporting of suspected ADRs by the public and health professionals is essential for triggering signals of drug safety.<xref rid="cts12687-bib-0015" ref-type="ref">15</xref> Research has exposed the inadequacies of spontaneous reporting systems, particularly under&#x02010;reporting; it is estimated that only 6% of all ADRs are reported,<xref rid="cts12687-bib-0016" ref-type="ref">16</xref> which delays the triggering of signals and, if necessary, the corresponding action. The inadequacies of self&#x02010;reporting systems has prompted researchers and regulatory agencies in charge of drug safety to explore additional data sources for more effective ADR monitoring, such as electronic health records, claim forms, and, relatively recently, social media.<xref rid="cts12687-bib-0017" ref-type="ref">17</xref>
+</p><p>A systematic review from a pharmacology perspective confirmed that reports of adverse events are identifiable within social media and that the reports are generally consistent with what is known about the drugs in other sources (such as drug labels or published trials). Some studies reported a higher frequency of adverse events in social media, particularly for &#x0201c;symptom&#x02010;related&#x0201d; and &#x0201c;mild&#x0201d; adverse events.<xref rid="cts12687-bib-0018" ref-type="ref">18</xref>
+</p><p>Whether the differences found between adverse events reported in social media and those in traditional sources genuinely reflect new adverse effects/reactions or more accurate frequencies of adverse effects/reactions is unknown. What is clear is that social media can provide more complete information on adverse effects/reactions considered important by patients, and aid researchers in understanding patient perceptions.</p><p>Although there are still challenges, work in automatic extraction of these data from social media and processing methods relevant to pharmacovigilance has advanced, and it is indeed possible to extract these reports automatically.<xref rid="cts12687-bib-0019" ref-type="ref">19</xref> The potential for using social media for pharmacovigilance was envisioned relatively recently, with the first pilot study published in 2010,<xref rid="cts12687-bib-0020" ref-type="ref">20</xref> with publications in social media mining for pharmacovigilance growing significantly since around 2013. All the published studies between 2010 and 2014 took a lexicon&#x02010;based approach to finding adverse event expressions, a method that is inherently limited given that the variety of expressions present in colloquial text are not typically present in lexicons. More flexible approaches for extraction (machine&#x02010;learning or pattern based), such as ADRMine<xref rid="cts12687-bib-0021" ref-type="ref">21</xref> and Recurrent Neural Network,<xref rid="cts12687-bib-0022" ref-type="ref">22</xref> are able to capture expressions not present in a lexicon, but require an additional task to be addressed in the aftermath of extraction of such expressions: normalization. Mapping them to standard terms so &#x0201c;my head is being crushed by an elephant&#x0201d; is adequately identified as a report of &#x0201c;migraine.&#x0201d;</p><p>Traditional approaches to the normalization problem used in other health&#x02010;related text miss relevant information when applied to the colloquial language used in social media,<xref rid="cts12687-bib-0023" ref-type="ref">23</xref> given the amount of noise in the data and its unique level of creative license.<xref rid="cts12687-bib-0024" ref-type="ref">24</xref> Normalization models of user&#x02010;generated content (text messages) have proposed the use of various error models, such as Hidden Markov Models<xref rid="cts12687-bib-0025" ref-type="ref">25</xref> and noisy channel models.<xref rid="cts12687-bib-0026" ref-type="ref">26</xref>
+</p><p>Purely lexical normalization of social media texts, such as those from Twitter, have used similar approaches,<xref rid="cts12687-bib-0027" ref-type="ref">27</xref>, <xref rid="cts12687-bib-0028" ref-type="ref">28</xref>, <xref rid="cts12687-bib-0029" ref-type="ref">29</xref> focusing on correcting the irregularities of the text (misspellings, abbreviations, and such) to match to the lexicon. However, normalization of social media text is more complex than correcting irregularities in the text. For example, ADRMine<xref rid="cts12687-bib-0021" ref-type="ref">21</xref> can find expressions, such as &#x0201c;make my heart rate soar,&#x0201d; &#x0201c;I feel like my heart is gonna beat out of my chest,&#x0201d; &#x0201c;heart&#x02010;racy,&#x0201d; &#x0201c;heart rate off the charts,&#x0201d; &#x0201c;heart beeping,&#x0201d; and &#x0201c;heart racing,&#x0201d; among the collected postings and it can indicate that they are adverse effects of albuterol. A lexical or dictionary match approach would have missed all but &#x0201c;heart racing,&#x0201d; which is a concept listed in the Unified Medical Language System (concept ID C1868917). Mapping (normalizing) all of the other expressions to the Unified Medical Language System concept <italic>palpitations</italic> (C0030252) or the related <italic>heart racing</italic> (C1868917) or <italic>heart pounding</italic> (C1868917) is a challenging problem, and more creative normalization techniques that synergize with the nature of social media (unsupervised and semi&#x02010;supervised approaches that &#x0201c;learn&#x0201d; from the context of a mention) are needed. This can be highly significant in enabling pharmacovigilance and public health research from social media.</p><p>Social media data used with other established sources (the US Food and Drug Administration (FDA) adverse event registration system data and drug insert data) can significantly help clinicians, regulators, and researchers identify potential adverse effects that pose a threat to the public, stimulate in&#x02010;depth studies, and promote deeper understanding of the potential harms and public behaviors regarding the use of prescription drugs.</p></sec><sec id="cts12687-sec-0004"><title>The Screenome: Inferring Health Behaviors from Computer Screen Activity</title><p>Prior to the invention of the internet and the proliferation of smartphones, an individual's interaction with the healthcare system was primarily limited to the clinical setting. The advent of more mobile and accessible technologies has disrupted the clinical paradigm, with individuals having unprecedented access to health information at the tip of their fingers. That access can take many forms: search engines, forums, and smartphone applications. Despite the broad shift in how individuals manage their health in the modern age, there has been limited work to characterize these interactions, with most of the literature primarily focused on social media platforms, Facebook and Twitter, or patient chatrooms. An ideal data&#x000a0;set for studying digital behavior needs to be high frequency, as the modern human&#x02010;device interaction lasts from ~&#x000a0;10&#x000a0;seconds to 2&#x000a0;minutes, and passively/unobtrusively observed to avoid compliance and activity disruption issues.<xref rid="cts12687-bib-0030" ref-type="ref">30</xref>, <xref rid="cts12687-bib-0031" ref-type="ref">31</xref>
+</p><p>The primary means of communication between an individual and their device is through the device screen, thus screenshots represent a natural unit for data collection. Screenomics is a framework for passive high frequency collection of digital device activity through screenshots.<xref rid="cts12687-bib-0030" ref-type="ref">30</xref> To date, several cohorts have been recruited and installed applications on their smartphones and laptop computers that recorded screenshots and metadata at 5&#x02010;second intervals. A key benefit of using screenshots as the unit of observation is the ability to capture pan&#x02010;application activity, rather than having observation limited to a single platform, as with other data sources. These screenshots were then encrypted and uploaded to a cloud database and processed to extract text via optical character recognition and assign activity labels and other features.<xref rid="cts12687-bib-0031" ref-type="ref">31</xref>
+</p><p>This framework results in a data&#x000a0;set that preserves temporal information and contains rich high&#x02010;resolution feature content for further analysis. Thus, the Screenome captures previously unobservable interactions between individuals and digital health resources. Sequences of images within the data demonstrate the nature of the modern digital health landscape, especially the dynamic and heterogeneous nature of a user's device interactions. Users are observed accessing many different sources of information and/or avenues of communication related to health, even during a single interaction with the device. These interactions highlight the potential of Screenome data to enable prevention, treatment, and management of various aspects of an individual's health.</p><p>The initial work using the Screenome has focused on identifying human&#x02010;device interaction sessions related to health, the characterization of the health data sources used by the public, and the interplay between drug and disease interaction sessions. Future work with these data could lead to methods for early detection of health&#x02010;related risks, passive postmarket surveillance for adverse drug events and/or drug efficacy, and opportunities for precision interventions. There are many challenges posed by these data, including reliable detection of health&#x02010;related content and determination of whether detected content is indicative of the user's health (vs. friends, family, or personal interest).</p><p>The initial analysis focuses on using the extracted text to identify sessions related to diseases and drugs.<xref rid="cts12687-bib-0030" ref-type="ref">30</xref> Disease and drug word groups were defined using word vectors trained on a publicly available Reddit comment corpus. We selected sets of two to three seed words for each category, such as &#x0201c;diabetes&#x0201d; or &#x0201c;metformin.&#x0201d; The word groups were then defined as the 200 semantically closest word (cosine distance) for diseases and 50 closest words for drugs.<xref rid="cts12687-bib-0031" ref-type="ref">31</xref>
+</p><p>After removing stop&#x02010;words and non&#x02010;words from the text content of each screenshot, we computed counts of relevant words for each disease and drug category of interest. Arranged with respect to time (<bold>Figure</bold>
+<xref rid="cts12687-fig-0001" ref-type="fig">1</xref>), these counts indicate when users interact with specific health&#x02010;related content. Using eight initial drug and disease categories, pain, diabetes, cancer, depression, and their associated drug classes, we identified over 100,000 screenshots (of ~&#x000a0;6 million) with non&#x02010;zero scores for either drugs, diseases, or both.</p><fig fig-type="Figure" xml:lang="en" id="cts12687-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Diabetes and diabetes drugs text signal time&#x02010;plot with screenshots related to a signal peak shown in sequence. The bottom segment of the figure shows how the relevant word count in the screenshots changes across time in seconds (diabetes in purple, and diabetes drugs in green). The top segment shows the series of screenshots associated with the signal peak, with black arrows representing forward progress in time (~&#x000a0;2&#x02013;8&#x000a0;minutes).</p></caption><graphic id="nlm-graphic-1" xlink:href="CTS-13-26-g001"/></fig><p>This initial analysis demonstrates the presence of drug and disease&#x02010;related signals within Screenomes. Analysis of these health&#x02010;oriented device interaction sessions has the potential to further our understanding of health information seeking behavior in the digital age, across a heterogenous collection of applications and websites, which is not possible with other data types.</p></sec><sec id="cts12687-sec-0005"><title>Conclusion</title><p>For many years, the medical field has been struggling to improve adherence and reduce adverse health events. As discussed above, it is possible to harness the popularity and the power of social media and related, interactive, electronic devices to improve adherence by not only reminding patients to take their medication but to also give them actionable feedback in real time, opening a direct line of communication among the patient, healthcare provider, and other peers facing similar obstacles in treatment adherence. Additionally, systematic analysis of social media content (e.g., by Screenome) can identify adverse health events that are not always captured by regulatory agencies and represent real&#x02010;life patient experience that are relevant to health outcomes, behaviors, and generalizable to public health. Beyond current technologies, research into the development of other digital health tools through techniques like Screenome will continue to add to the momentum behind the digital health movement. In conclusion, electronic communications is declaring itself as a valuable component of modern health care in this digital age.</p></sec><sec id="cts12687-sec-0006"><title>Funding</title><p>The Screenomics Project was initially developed at the Center for Advanced Study of Behavioral Science at Stanford University, and is directly funded by grants from the Stanford University Cyber Social Initiative, the Knight Foundation, the Stanford Child Health Research Institute, the Stanford University Precision Health and Integrated Diagnostics Center (PHIND), and the Pennsylvania State University Colleges of Health &#x00026; Human Development and Information Science &#x00026; Technology. A.L. is supported by a National Science Foundation Graduate Research Fellowship, grant number, DGE&#x02010;1656518.</p></sec><sec sec-type="COI-statement" id="cts12687-sec-0007"><title>Conflict of Interest</title><p>As an Associate Editor for <italic>Clinical and Translational Science</italic>, Valentina Shakhnovich was not involved in the review or decision process for this paper. All other authors declared no competing interests for this work.</p></sec></body><back><ref-list content-type="cited-references" id="cts12687-bibl-0001"><ref id="cts12687-bib-0001"><label>1</label><mixed-citation publication-type="book" id="cts12687-cit-0001">
+<string-name>
+<surname>Iannarelli</surname>, <given-names>J.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>O'Shaughnessy</surname>, <given-names>M.</given-names>
+</string-name>
+<source xml:lang="en">The Technical Side. Information Governance and Security: Protecting and Managing Your Company's Proprietary Information</source>. (<publisher-name>Elsevier</publisher-name>, <publisher-loc>Oxford, UK</publisher-loc>, <year>2015</year>).</mixed-citation></ref><ref id="cts12687-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="cts12687-cit-0002">
+<collab collab-type="authors">Domo</collab>
+. <article-title>New Report Finds that Social Media Habits of Fortune 500 CEOs are Sputtering; Only 40% Have a Social Media Presence</article-title>. GlobeNewswire News Room (<year>2017</year>). &#x0003c;<ext-link ext-link-type="uri" xlink:href="https://www.globenewswire.com/news-release/2017/05/31/1004999/0/en/New-Report-Finds-that-Social-Media-Habits-of-Fortune-500-CEOs-are-Sputtering-Only-40-Have-a-Social-Media-Presence.html">https://www.globenewswire.com/news-release/2017/05/31/1004999/0/en/New-Report-Finds-that-Social-Media-Habits-of-Fortune-500-CEOs-are-Sputtering-Only-40-Have-a-Social-Media-Presence.html</ext-link>&#x0003e;. Accessed May 4, 2019.</mixed-citation></ref><ref id="cts12687-bib-0003"><label>3</label><mixed-citation publication-type="miscellaneous" id="cts12687-cit-0003">
+<collab collab-type="authors">Global time spent on social media daily 2017</collab>
+. <article-title>Statista</article-title>. &#x0003c;<ext-link ext-link-type="uri" xlink:href="https://www.statista.com/statistics/433871/daily-social-media-usage-worldwide/">https://www.statista.com/statistics/433871/daily-social-media-usage-worldwide/</ext-link>&#x0003e;. Accessed May 4, 2019.</mixed-citation></ref><ref id="cts12687-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cts12687-cit-0004">
+<string-name>
+<surname>DiMatteo</surname>, <given-names>M.R.</given-names>
+</string-name>
+<article-title>Variations in patients&#x02019; adherence to medical recommendations: a quantitative review of 50 years of research</article-title>. <source xml:lang="en">Med. Care</source>
+<volume>42</volume>, <fpage>200</fpage>&#x02013;<lpage>209</lpage> (<year>2004</year>).<pub-id pub-id-type="pmid">15076819</pub-id></mixed-citation></ref><ref id="cts12687-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cts12687-cit-0005">
+<string-name>
+<surname>Wu</surname>, <given-names>Y.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hommel</surname>, <given-names>K.A.</given-names>
+</string-name>
+<article-title>Using technology to assess and promote adherence to medical regimens in pediatric chronic illness</article-title>. <source xml:lang="en">J. Pediatr.</source>
+<volume>164</volume>, <fpage>922</fpage>&#x02013;<lpage>927</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24359939</pub-id></mixed-citation></ref><ref id="cts12687-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cts12687-cit-0006">
+<string-name>
+<surname>Scalzi</surname>, <given-names>L.V.</given-names>
+</string-name>, <string-name>
+<surname>Hollenbeak</surname>, <given-names>C.S.</given-names>
+</string-name>, <string-name>
+<surname>Mascuilli</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Olsen</surname>, <given-names>N.</given-names>
+</string-name>
+<article-title>Improvement of medication adherence in adolescents and young adults with SLE using web&#x02010;based education with and without a social media intervention, a pilot study</article-title>. <source xml:lang="en">Pediatr. Rheumatol. Online J.</source>
+<volume>16</volume>, <fpage>18</fpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29540181</pub-id></mixed-citation></ref><ref id="cts12687-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cts12687-cit-0007">
+<string-name>
+<surname>Cafazzo</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Casselman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hamming</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Katzman</surname>, <given-names>D.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Palmert</surname>, <given-names>M.R.</given-names>
+</string-name>
+<article-title>Design of an mHealth app for the self&#x02010;management of adolescent type 1 diabetes: a pilot study</article-title>. <source xml:lang="en">J. Med. Internet Res.</source>
+<volume>14</volume>, <fpage>e70</fpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22564332</pub-id></mixed-citation></ref><ref id="cts12687-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="cts12687-cit-0008">
+<string-name>
+<surname>Goyal</surname>, <given-names>S</given-names>
+</string-name>. <article-title>Influencing behaviour to improve diabetes self&#x02010;management: the design and evaluation of mobile health applications</article-title>. &#x0003c;<ext-link ext-link-type="uri" xlink:href="https://tspace.library.utoronto.ca/bitstream/1807/82381/3/Goyal_Shivani_201711_PhD_thesis.pdf">https://tspace.library.utoronto.ca/bitstream/1807/82381/3/Goyal_Shivani_201711_PhD_thesis.pdf</ext-link>&#x0003e; (<year>2017</year>).</mixed-citation></ref><ref id="cts12687-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cts12687-cit-0009">
+<string-name>
+<surname>Maddux</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ricks</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Delurgio</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hommel</surname>, <given-names>K.</given-names>
+</string-name>
+<article-title>A pilot study evaluating the impact of an adherence&#x02010;promoting intervention among nonadherent youth with inflammatory bowel disease</article-title>. <source xml:lang="en">J. Pediatr. Nurs.</source>
+<volume>35</volume>, <fpage>72</fpage>&#x02013;<lpage>77</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28728772</pub-id></mixed-citation></ref><ref id="cts12687-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cts12687-cit-0010">
+<string-name>
+<surname>Herzer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ramey</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rohan</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cortina</surname>, <given-names>S.</given-names>
+</string-name>
+<article-title>Incorporating electronic monitoring feedback into clinical care: a novel and promising adherence promotion approach</article-title>. <source xml:lang="en">Clin. Child Psychol. Psychiatry</source>
+<volume>17</volume>, <fpage>505</fpage>&#x02013;<lpage>518</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">21949048</pub-id></mixed-citation></ref><ref id="cts12687-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cts12687-cit-0011">
+<string-name>
+<surname>de Bruin</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Self&#x02010;regulatory processes mediate the intention&#x02010;behavior relation for adherence and exercise behaviors</article-title>. <source xml:lang="en">Health Psychol.</source>
+<volume>31</volume>, <fpage>695</fpage>&#x02013;<lpage>703</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22390738</pub-id></mixed-citation></ref><ref id="cts12687-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cts12687-cit-0012">
+<string-name>
+<surname>Otsuki</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Adherence feedback to improve asthma outcomes among inner&#x02010;city children: a randomized trial</article-title>. <source xml:lang="en">Pediatrics</source>
+<volume>124</volume>, <fpage>1513</fpage>&#x02013;<lpage>1521</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19948623</pub-id></mixed-citation></ref><ref id="cts12687-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cts12687-cit-0013">
+<string-name>
+<surname>Kongkaew</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Noyce</surname>, <given-names>P.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ashcroft</surname>, <given-names>D.M.</given-names>
+</string-name>
+<article-title>Hospital admissions associated with adverse drug reactions: a systematic review of prospective observational studies</article-title>. <source xml:lang="en">Ann. Pharmacother.</source>
+<volume>42</volume>, <fpage>1017</fpage>&#x02013;<lpage>1025</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18594048</pub-id></mixed-citation></ref><ref id="cts12687-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cts12687-cit-0014">
+<string-name>
+<surname>Lazarou</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pomeranz</surname>, <given-names>B.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Corey</surname>, <given-names>P.N.</given-names>
+</string-name>
+<article-title>Incidence of adverse drug reactions in hospitalized patients: a meta&#x02010;analysis of prospective studies</article-title>. <source xml:lang="en">JAMA</source>
+<volume>279</volume>, <fpage>1200</fpage>&#x02013;<lpage>1205</lpage> (<year>1998</year>).<pub-id pub-id-type="pmid">9555760</pub-id></mixed-citation></ref><ref id="cts12687-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cts12687-cit-0015">
+<string-name>
+<surname>Gonzalez&#x02010;Gonzalez</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Gonzalez</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Herdeiro</surname>, <given-names>M.T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Figueiras</surname>, <given-names>A.</given-names>
+</string-name>
+<article-title>Strategies to improve adverse drug reaction reporting: a critical and systematic review</article-title>. <source xml:lang="en">Drug Saf.</source>
+<volume>36</volume>, <fpage>317</fpage>&#x02013;<lpage>328</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23640659</pub-id></mixed-citation></ref><ref id="cts12687-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cts12687-cit-0016">
+<string-name>
+<surname>Hazell</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Shakir</surname>, <given-names>S.A.W.</given-names>
+</string-name>
+<article-title>Under&#x02010;reporting of adverse drug reactions: a systematic review</article-title>. <source xml:lang="en">Drug Saf.</source>
+<volume>29</volume>, <fpage>385</fpage>&#x02013;<lpage>396</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16689555</pub-id></mixed-citation></ref><ref id="cts12687-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cts12687-cit-0017">
+<string-name>
+<surname>Harpaz</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Combing signals from spontaneous reports and electronic health records for detection of adverse drug reactions</article-title>. <source xml:lang="en">J. Am. Med. Inform. Assoc.</source>
+<volume>20</volume>, <fpage>413</fpage>&#x02013;<lpage>419</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23118093</pub-id></mixed-citation></ref><ref id="cts12687-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cts12687-cit-0018">
+<string-name>
+<surname>Golder</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Norman</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Loke</surname>, <given-names>Y.K.</given-names>
+</string-name>
+<article-title>Systematic review on the prevalence, frequency and comparative value of adverse events data in social media</article-title>. <source xml:lang="en">Br. J. Clin. Pharmacol.</source>
+<volume>80</volume>, <fpage>878</fpage>&#x02013;<lpage>888</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26271492</pub-id></mixed-citation></ref><ref id="cts12687-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cts12687-cit-0019">
+<string-name>
+<surname>Sarker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Moll&#x000e1;</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Paris</surname>, <given-names>C.</given-names>
+</string-name>
+<article-title>Query&#x02010;oriented evidence extraction to support evidence&#x02010;based medicine practice</article-title>. <source xml:lang="en">J. Biomed. Inform.</source>
+<volume>59</volume>, <fpage>169</fpage>&#x02013;<lpage>184</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26631762</pub-id></mixed-citation></ref><ref id="cts12687-bib-0020"><label>20</label><mixed-citation publication-type="miscellaneous" id="cts12687-cit-0020">
+<string-name>
+<surname>Leaman</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Towards Internet&#x02010;Age Pharmacovigilance: Extracting Adverse Drug Reactions from User Posts in Health&#x02010;Related Social Networks</article-title>. In Proceedings of the 2010 Workshop on Biomedical Natural Language Processing, Association for Computational Linguistics, Uppsala, Sweden, July 15, 2010.</mixed-citation></ref><ref id="cts12687-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cts12687-cit-0021">
+<string-name>
+<surname>Nikfarjam</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sarker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>O'Connor</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ginn</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gonzalez</surname>, <given-names>G.</given-names>
+</string-name>
+<article-title>Pharmacovigilance from social media: mining adverse drug reaction mentions using sequence labeling with word embedding cluster features</article-title>. <source xml:lang="en">J. Am. Med. Inform. Assoc.</source>
+<volume>22</volume>, <fpage>671</fpage>&#x02013;<lpage>681</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25755127</pub-id></mixed-citation></ref><ref id="cts12687-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cts12687-cit-0022">
+<string-name>
+<surname>Cocos</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fiks</surname>, <given-names>A.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Masino</surname>, <given-names>A.J.</given-names>
+</string-name>
+<article-title>Deep learning for pharmacovigilance: recurrent neural network architectures for labeling adverse drug reactions in Twitter posts</article-title>. <source xml:lang="en">J. Am. Med. Inform. Assoc.</source>
+<volume>24</volume>, <fpage>813</fpage>&#x02013;<lpage>821</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28339747</pub-id></mixed-citation></ref><ref id="cts12687-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cts12687-cit-0023">
+<string-name>
+<surname>Denecke</surname>, <given-names>K.</given-names>
+</string-name>
+<article-title>Sublanguage analysis of medical weblogs</article-title>. <source xml:lang="en">Stud. Health Technol. Inform.</source>
+<volume>205</volume>, <fpage>565</fpage>&#x02013;<lpage>569</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25160249</pub-id></mixed-citation></ref><ref id="cts12687-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cts12687-cit-0024">
+<string-name>
+<surname>Han</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Baldwin</surname>, <given-names>T.</given-names>
+</string-name>
+<article-title>Lexical normalization for social media text</article-title>. <source xml:lang="en">ACM Trans. Intell. Syst. Technol.</source>
+<volume>4</volume>, <fpage>5:1</fpage>&#x02013;<lpage>5:27</lpage> (<year>2013</year>).</mixed-citation></ref><ref id="cts12687-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cts12687-cit-0025">
+<string-name>
+<surname>Choudhury</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Investigation and modeling of the structure of texting language</article-title>. <source xml:lang="en">Int. J. Doc. Anal. Recognit.</source>
+<volume>10</volume>, <fpage>157</fpage>&#x02013;<lpage>174</lpage> (<year>2007</year>).</mixed-citation></ref><ref id="cts12687-bib-0026"><label>26</label><mixed-citation publication-type="miscellaneous" id="cts12687-cit-0026">
+<string-name>
+<surname>Cook</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Keator</surname>, <given-names>P</given-names>
+</string-name>. <article-title>Automatic Noise Profile Generation</article-title> Google Patents. US Patent App 14 997 8. (<year>2016</year>).</mixed-citation></ref><ref id="cts12687-bib-0027"><label>27</label><mixed-citation publication-type="miscellaneous" id="cts12687-cit-0027">
+<string-name>
+<surname>Xue</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Davison</surname>, <given-names>B. D.</given-names>
+</string-name>
+<article-title>Normalizing microtext</article-title>. In Proceedings of 25th AAAI&#x02010;11 Workshop, San Francisco, CA, August 8, <year>2011</year>.</mixed-citation></ref><ref id="cts12687-bib-0028"><label>28</label><mixed-citation publication-type="book" id="cts12687-cit-0028">
+<string-name>
+<surname>Liu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Weng</surname>, <given-names>F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jiang</surname>, <given-names>X</given-names>
+</string-name>. <chapter-title>A broad&#x02010;coverage normalization system for social media language</chapter-title> In <source xml:lang="en">Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)</source>. <fpage>1035</fpage>&#x02013;<lpage>1044</lpage>. (<publisher-name>Association for Computational Linguistics</publisher-name>, <publisher-loc>Beijing, China</publisher-loc>, <year>2012</year>).</mixed-citation></ref><ref id="cts12687-bib-0029"><label>29</label><mixed-citation publication-type="book" id="cts12687-cit-0029">
+<string-name>
+<surname>Khoury</surname>, <given-names>R</given-names>
+</string-name>. <chapter-title>Microtext normalization using probably&#x02010;phonetically&#x02010;similar word discovery</chapter-title> In <source xml:lang="en">2015 IEEE 11th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)</source>
+<fpage>384</fpage>&#x02013;<lpage>391</lpage> (<year>2015</year>). &#x0003c;<pub-id pub-id-type="doi">10.1109/wimob.2015.7347988</pub-id>&#x0003e;.</mixed-citation></ref><ref id="cts12687-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cts12687-cit-0030">
+<string-name>
+<surname>Reeves</surname>, <given-names>B.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Screenomics: a framework to capture and analyze personal life experiences and the ways that technology shapes them</article-title>. <source xml:lang="en">Human&#x02010;Computer Interact.</source>
+<fpage>1</fpage>&#x02013;<lpage>52</lpage> (<year>2019</year>).</mixed-citation></ref><ref id="cts12687-bib-0031"><label>31</label><mixed-citation publication-type="book" id="cts12687-cit-0031">
+<string-name>
+<surname>Chiatti</surname>, <given-names>A.</given-names>
+</string-name>
+<italic>et al</italic>
+<chapter-title>Text extraction from smartphone screenshots to archive in situ media behavior</chapter-title> In <source xml:lang="en">Proceedings of the Knowledge Capture Conference</source>
+<fpage>40:1</fpage>&#x02013;<lpage>40:4</lpage> (<publisher-name>ACM</publisher-name>, <year>2017</year>). &#x0003c;<pub-id pub-id-type="doi">10.1145/3148011.3154468</pub-id>&#x0003e;.</mixed-citation></ref></ref-list></back></article>

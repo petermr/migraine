@@ -1,0 +1,289 @@
+{
+  "id": [
+    "27879631"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27879631"
+  ],
+  "pmcid": [
+    "PMC5184808"
+  ],
+  "doi": [
+    "10.3390/children3040033"
+  ],
+  "title": [
+    "Specialized Rehabilitation Programs for Children and Adolescents with Severe Disabling Chronic Pain: Indications, Treatment and Outcomes."
+  ],
+  "authorString": [
+    "Stahlschmidt L, Zernikow B, Wager J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stahlschmidt L"
+          ],
+          "firstName": [
+            "Lorin"
+          ],
+          "lastName": [
+            "Stahlschmidt"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Children's Pain Therapy and Paediatric Palliative Care, Faculty of Health, School of Medicine, Witten/Herdecke University, 58448 Witten, Germany. l.stahlschmidt@deutsches-kinderschmerzzentrum.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Zernikow B"
+          ],
+          "firstName": [
+            "Boris"
+          ],
+          "lastName": [
+            "Zernikow"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Children's Pain Therapy and Paediatric Palliative Care, Faculty of Health, School of Medicine, Witten/Herdecke University, 58448 Witten, Germany. b.zernikow@kinderklinik-datteln.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Wager J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Wager"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Children's Pain Therapy and Paediatric Palliative Care, Faculty of Health, School of Medicine, Witten/Herdecke University, 58448 Witten, Germany. j.wager@deutsches-kinderschmerzzentrum.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2485736"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Children (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Children (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Children (Basel)"
+          ],
+          "NLMid": [
+            "101648936"
+          ],
+          "ISSN": [
+            "2227-9067"
+          ],
+          "ESSN": [
+            "2227-9067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "abstractText": [
+    "Children and adolescents with highly disabling chronic pain of high intensity and frequency are admitted to specialized pain rehabilitation programs. Some barriers to obtaining this specialized care include a lack of availability of treatment centers, a perceived social stigma and individual barriers such as socioeconomic status. Specialized rehabilitation programs for severe disabling chronic pain worldwide have similarities regarding admission criteria, structure and therapeutic orientation. They differ, however, regarding their exclusion criteria and program descriptions. The short- and long-term effectiveness of some rehabilitation programs is well documented. All countries should promote the establishment of future pediatric pain centers to improve the health care of children and adolescents suffering from severe chronic pain. Standardized reporting guidelines should be developed to describe treatments and outcomes to enable comparability across treatment centers."
+  ],
+  "affiliation": [
+    "Department of Children's Pain Therapy and Paediatric Palliative Care, Faculty of Health, School of Medicine, Witten/Herdecke University, 58448 Witten, Germany. l.stahlschmidt@deutsches-kinderschmerzzentrum.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chronic pain",
+        "Effectiveness",
+        "Pediatric",
+        "indication",
+        "Rehabilitation Programs",
+        "Specialized Pain Treatment"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/children3040033"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5184808"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5184808?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-11-23"
+  ],
+  "firstIndexDate": [
+    "2016-11-24"
+  ],
+  "fullTextReceivedDate": [
+    "2017-01-12"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-21"
+  ],
+  "firstPublicationDate": [
+    "2016-11-21"
+  ]
+}

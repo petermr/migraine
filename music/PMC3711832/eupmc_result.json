@@ -1,0 +1,517 @@
+{
+  "id": [
+    "23849335"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23849335"
+  ],
+  "pmcid": [
+    "PMC3711832"
+  ],
+  "doi": [
+    "10.1186/1756-0500-6-269"
+  ],
+  "title": [
+    "Long-term outcomes of anthroposophic treatment for chronic disease: a four-year follow-up analysis of 1510 patients from a prospective observational study in routine outpatient settings."
+  ],
+  "authorString": [
+    "Hamre HJ, Kiene H, Glockmann A, Ziegler R, Kienle GS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hamre HJ"
+          ],
+          "firstName": [
+            "Harald Johan"
+          ],
+          "lastName": [
+            "Hamre"
+          ],
+          "initials": [
+            "HJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Kiene H"
+          ],
+          "firstName": [
+            "Helmut"
+          ],
+          "lastName": [
+            "Kiene"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Glockmann A"
+          ],
+          "firstName": [
+            "Anja"
+          ],
+          "lastName": [
+            "Glockmann"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Ziegler R"
+          ],
+          "firstName": [
+            "Renatus"
+          ],
+          "lastName": [
+            "Ziegler"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Kienle GS"
+          ],
+          "firstName": [
+            "Gunver Sophia"
+          ],
+          "lastName": [
+            "Kienle"
+          ],
+          "initials": [
+            "GS"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2000656"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC research notes"
+          ],
+          "ISOAbbreviation": [
+            "BMC Res Notes"
+          ],
+          "medlineAbbreviation": [
+            "BMC Res Notes"
+          ],
+          "NLMid": [
+            "101462768"
+          ],
+          "ISSN": [
+            "1756-0500"
+          ],
+          "ESSN": [
+            "1756-0500"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "269"
+  ],
+  "abstractText": [
+    "BACKGROUND: Anthroposophic treatment includes special artistic and physical therapies and special medications. We here report an update to a previously published study of anthroposophic treatment for chronic diseases, including more patients and a longer follow up. The Anthroposophic Medicine Outcomes Study (AMOS) was a prospective observational cohort study of anthroposophic treatment for chronic indications in routine outpatient settings in Germany. Anthroposophic treatment was associated with improvements of symptoms and quality of life. Previous follow-up-analyses have been performed after 24 months or, in subgroups of patients enrolled in the period 1999-2001, after 48 months. We conducted a 48-month follow-up analysis of all patients enrolled in AMOS in the period 1999-2005. METHODS: 1,510 outpatients aged 1-75 years, starting anthroposophic treatment for chronic conditions in routine German outpatient settings, participated in a prospective cohort study. Main outcomes were Symptom Score (primary outcome, mean symptom severity on numerical rating scales), SF-36 Physical and Mental Component scores in adults, and disease-specific outcomes in the six most common diagnosis groups: asthma, anxiety disorders and migraine (numerical rating scales), depression (Center for Epidemiological Studies Depression Scale), attention deficit hyperactivity symptoms (FBB-HKS Total score), and low back pain (Hanover Functional Ability Questionnaire, Low Back Pain Rating Scale). RESULTS: Median disease duration at baseline was 3.5 years. From baseline to 48-month follow-up all ten outcomes improved significantly (p < 0.001 for all pre-post comparisons). Standardised Response Mean effect sizes were large (range 0.84-1.24 standard deviations) for seven comparisons, medium for two comparisons (SF-36 Mental Component: 0.60, Low Back Pain Rating Scale: 0.55), and small for one comparison (SF-36 Physical Component: 0.39). Symptom Score improved significantly with large effect sizes in adults and children, and in the four main anthroposophic therapy modality groups (art therapy, eurythmy therapy, rhythmical massage therapy, medical therapy). CONCLUSIONS: This 48-month follow-up analysis confirmed previous analyses from the AMOS study. Outpatients receiving anthroposophic treatment for chronic indications had sustained, clinically relevant improvements of symptoms and quality of life."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ambulatory Care Facilities"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23849335/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23849335/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1756-0500-6-269"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3711832"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3711832?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-03-30"
+  ],
+  "dateOfCreation": [
+    "2014-07-26"
+  ],
+  "firstIndexDate": [
+    "2013-07-16"
+  ],
+  "fullTextReceivedDate": [
+    "2013-07-18"
+  ],
+  "electronicPublicationDate": [
+    "2013-07-13"
+  ],
+  "firstPublicationDate": [
+    "2013-07-13"
+  ]
+}

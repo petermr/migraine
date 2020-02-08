@@ -1,0 +1,347 @@
+{
+  "id": [
+    "31864414"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31864414"
+  ],
+  "pmcid": [
+    "PMC6925508"
+  ],
+  "doi": [
+    "10.1186/s40359-019-0350-8"
+  ],
+  "title": [
+    "A Sociodemographic variables questionnaire (Q-SV) for research on family caregivers of children with chronic disease."
+  ],
+  "authorString": [
+    "Toledano-Toledano F, Rodríguez-Rey R, Moral de la Rubia J, Luna D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Toledano-Toledano F"
+          ],
+          "firstName": [
+            "Filiberto"
+          ],
+          "lastName": [
+            "Toledano-Toledano"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7126-5351",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Unidad de Investigación en Medicina Basada en Evidencias, Hospital Infantil de México Federico Gómez Instituto Nacional de Salud, Dr. Márquez 162, Doctores, Cuauhtémoc, 06720, México City, Mexico. filiberto.toledano.phd@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Rodríguez-Rey R"
+          ],
+          "firstName": [
+            "Rocío"
+          ],
+          "lastName": [
+            "Rodríguez-Rey"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Universidad Europea de Madrid. Calle Tajo, s/n, 28670 Villaviciosa de Odón, Madrid, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Moral de la Rubia J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Moral de la Rubia"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Facultad de Psicología, Universidad Autónoma de Nuevo León. Dr. Carlos Canseco, 110, Esq. Dr. Aguirre Pequeño, Col. Mitras Centro, 64460, Monterrey, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Luna D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Luna"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Comisión Nacional de Arbitraje Médico, Mitla No. 250-10° Piso, esq. Eje 5 Sur (Eugenia). Col. Narvarte, 03020, Benito Juárez, Mexico City, Mexico."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7126-5351",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2891013"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychol"
+          ],
+          "NLMid": [
+            "101627676"
+          ],
+          "ISSN": [
+            "2050-7283"
+          ],
+          "ESSN": [
+            "2050-7283"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "85"
+  ],
+  "abstractText": [
+    "BACKGROUND:Chronic diseases in childhood can affect the physical and mental health of patients and their families. The literature on pediatric chronic diseases has found important associations between the sociodemographic variables of children and their caregivers and negative health consequences in families. METHODS:In this study, we aimed to design and validate a questionnaire on sociodemographic variables that would be useful for research on pediatric chronic diseases; and investigate the relationship between sociodemographic variables and psychosocial variables among family caregivers. First, we created a questionnaire that consists of 20 demographic, medical, and family-related items based on a literature review and expert evaluations. This questionnaire was then validated by 335 expert reviewers in the field of Social Work, who work daily with the families of patients with chronic diseases in 10 National Institutes of Health of Mexico. The validation was based on three empirical criteria created specifically for this study, and the reviewers evaluated the usefulness, relevance, and permanence of the items. In a second cross-sectional, correlational and comparative study, a total of 446 family caregivers of children with chronic diseases were interviewed, and they completed the Sociodemographic Variables Questionnaire for research on family caregivers of children with chronic sociodemographic diseases and four psychosocial measurement instruments for evaluating anxiety, depression, caregiver burden and quality of life. RESULTS:Based on the results of the first study, we created the Sociodemographic Variables Questionnaire (Q-SV) for research on family caregivers of children with chronic diseases, and it includes 17 items that assess demographic, medical, and family characteristics. The results of the second study showed that the 17 sociodemographic variables obtained in the validation by expert judges are useful for measuring and evaluating the relationship between psychosocial variables in families of children with chronic diseases. CONCLUSIONS:Psychosocial and sociodemographic factors are relevant for the development of research processes for families that care for children with chronic diseases."
+  ],
+  "affiliation": [
+    "Unidad de Investigación en Medicina Basada en Evidencias, Hospital Infantil de México Federico Gómez Instituto Nacional de Salud, Dr. Márquez 162, Doctores, Cuauhtémoc, 06720, México City, Mexico. filiberto.toledano.phd@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Depression",
+        "Quality of life",
+        "Anxiety",
+        "Questionnaire",
+        "Social Work",
+        "Social Workers",
+        "Family Caregivers",
+        "Sociodemographic Variables",
+        "Caregiver Burden",
+        "Pediatric Chronic Disease",
+        "Expert Judge"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40359-019-0350-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6925508"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6925508?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-23"
+  ],
+  "firstIndexDate": [
+    "2019-12-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-02"
+  ],
+  "dateOfRevision": [
+    "2019-12-31"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-21"
+  ],
+  "firstPublicationDate": [
+    "2019-12-21"
+  ]
+}

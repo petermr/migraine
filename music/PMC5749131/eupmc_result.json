@@ -1,0 +1,356 @@
+{
+  "id": [
+    "29333260"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29333260"
+  ],
+  "pmcid": [
+    "PMC5749131"
+  ],
+  "doi": [
+    "10.12688/f1000research.12324.1"
+  ],
+  "title": [
+    "Use of electroanalgesia and laser therapies as alternatives to opioids for acute and chronic pain management."
+  ],
+  "authorString": [
+    "White PF, Elvir Lazo OL, Galeas L, Cao X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "White PF"
+          ],
+          "firstName": [
+            "Paul F"
+          ],
+          "lastName": [
+            "White"
+          ],
+          "initials": [
+            "PF"
+          ],
+          "affiliation": [
+            "P.O. Box 548, Gualala, CA 95445, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Elvir Lazo OL"
+          ],
+          "firstName": [
+            "Ofelia Loani"
+          ],
+          "lastName": [
+            "Elvir Lazo"
+          ],
+          "initials": [
+            "OL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2825-5182",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Anesthesiology, Cedars-Sinai Medical Center, 8700 Beverly Boulevard, Los Angeles, CA 95445, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Galeas L"
+          ],
+          "firstName": [
+            "Lidia"
+          ],
+          "lastName": [
+            "Galeas"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Orlando Family Medicine, Orlando, FL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cao X"
+          ],
+          "firstName": [
+            "Xuezhao"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology, Cedars-Sinai Medical Center, 8700 Beverly Boulevard, Los Angeles, CA 95445, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2825-5182",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2520313"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "F1000Research"
+          ],
+          "ISOAbbreviation": [
+            "F1000Res"
+          ],
+          "medlineAbbreviation": [
+            "F1000Res"
+          ],
+          "NLMid": [
+            "101594320"
+          ],
+          "ISSN": [
+            "2046-1402"
+          ],
+          "ESSN": [
+            "2046-1402"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "2161"
+  ],
+  "abstractText": [
+    "The use of opioid analgesics for postoperative pain management has contributed to the global opioid epidemic. It was recently reported that prescription opioid analgesic use often continued after major joint replacement surgery even though patients were no longer experiencing joint pain. The use of epidural local analgesia for perioperative pain management was not found to be protective against persistent opioid use in a large cohort of opioid-naïve patients undergoing abdominal surgery. In a retrospective study involving over 390,000 outpatients more than 66 years of age who underwent minor ambulatory surgery procedures, patients receiving a prescription opioid analgesic within 7 days of discharge were 44% more likely to continue using opioids 1 year after surgery. In a review of 11 million patients undergoing elective surgery from 2002 to 2011, both opioid overdoses and opioid dependence were found to be increasing over time. Opioid-dependent surgical patients were more likely to experience postoperative pulmonary complications, require longer hospital stays, and increase costs to the health-care system. The Centers for Disease Control and Prevention emphasized the importance of finding alternatives to opioid medication for treating pain. In the new clinical practice guidelines for back pain, the authors endorsed the use of non-pharmacologic therapies. However, one of the more widely used non-pharmacologic treatments for chronic pain (namely radiofrequency ablation therapy) was recently reported to have no clinical benefit. Therefore, this clinical commentary will review evidence in the peer-reviewed literature supporting the use of electroanalgesia and laser therapies for treating acute pain, cervical (neck) pain, low back pain, persistent post-surgical pain after spine surgery (\"failed back syndrome\"), major joint replacements, and abdominal surgery as well as other common chronic pain syndromes (for example, myofascial pain, peripheral neuropathic pain, fibromyalgia, degenerative joint disease/osteoarthritis, and migraine headaches)."
+  ],
+  "affiliation": [
+    "P.O. Box 548, Gualala, CA 95445, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chronic pain",
+        "Acute pain",
+        "Opioid Abuse",
+        "Electroanalgesia",
+        "Cold Laser Therapy",
+        "Non-pharmacologic Analgesic Techniques"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12688/f1000research.12324.1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5749131"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5749131?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR41169"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-01-16"
+  ],
+  "firstIndexDate": [
+    "2018-01-15"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-13"
+  ],
+  "dateOfRevision": [
+    "2018-01-17"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-21"
+  ],
+  "firstPublicationDate": [
+    "2017-12-21"
+  ]
+}

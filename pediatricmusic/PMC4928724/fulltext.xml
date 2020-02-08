@@ -1,0 +1,953 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Children (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Children (Basel)</journal-id><journal-id journal-id-type="publisher-id">children</journal-id><journal-title-group><journal-title>Children</journal-title></journal-title-group><issn pub-type="epub">2227-9067</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4928724</article-id><article-id pub-id-type="doi">10.3390/children1020074</article-id><article-id pub-id-type="publisher-id">children-01-00074</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Clinical Hypnosis with Children and Adolescents&#x02014;What? Why? How?: Origins, Applications, and Efficacy</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kohen</surname><given-names>Daniel P.</given-names></name><xref ref-type="aff" rid="af1-children-01-00074">1</xref><xref rid="c1-children-01-00074" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Kaiser</surname><given-names>Pamela</given-names></name><xref ref-type="aff" rid="af2-children-01-00074">2</xref></contrib></contrib-group><aff id="af1-children-01-00074"><label>1</label>National Pediatric Hypnosis Training Institute (NPHTI), Developmental-Behavioral Pediatrics, Partners-in-Healing of Minneapolis, 10505 Wayzata Boulevard, Suite #200, Minnetonka, MN 55305, USA</aff><aff id="af2-children-01-00074"><label>2</label>National Pediatric Hypnosis Training Institute (NPHTI), Private Practice, 1220 University Drive, Suite #104, Menlo Park, CA 94025, USA; E-Mail: <email>drpkaiser@gmail.com</email></aff><author-notes><corresp id="c1-children-01-00074"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>dpkohen@umn.edu</email>; Tel.: +1-612-860-4119; Fax: +1-763-546-5754.</corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>8</month><year>2014</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2014</year></pub-date><volume>1</volume><issue>2</issue><fpage>74</fpage><lpage>98</lpage><history><date date-type="received"><day>27</day><month>5</month><year>2014</year></date><date date-type="rev-recd"><day>13</day><month>7</month><year>2014</year></date><date date-type="accepted"><day>21</day><month>7</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2014</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link>).</license-p></license></permissions><abstract><p>This review article addresses the process, intention, and therapeutic value of clinical hypnosis with children and adolescents. A brief historical perspective is followed by a digest of the published laboratory and clinical research that has accelerated substantially over the past two decades. This review lends appropriate credence to the benefits and integration to clinical practice of this powerful tool for teaching young people self-regulation skills. The breadth of application is described, and several clinical vignettes are provided as examples of what is possible. In addition to the provision of the most relevant citations in the pediatric, psychological, and neuroscience literature, this synopsis concludes with information regarding availability of skill development training in pediatric clinical hypnosis.</p></abstract><kwd-group><kwd>hypnosis</kwd><kwd>pediatric hypnosis</kwd><kwd>self-regulation</kwd><kwd>pediatric skills development</kwd><kwd>self-hypnosis</kwd><kwd>NPHTI</kwd><kwd>pediatric hypnosis workshops</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>The review that follows is designed to be a panoramic snapshot of the current state of the art, science, and clinical practice of child hypnosis and hypnotherapy. While substantial reference resource material is provided and clinical examples described, this is nonetheless a synopsis, and readers are advised and strongly encouraged to consult the resources and to avail themselves of &#x0201c;hands-on&#x0201d; skill-development workshop training to develop skills necessary to begin helping children with clinical hypnosis.</p><p>The field of pediatric hypnosis has blossomed in many ways and directions over time:
+<list list-type="bullet"><list-item><p>From a backdrop focus on societal and cultural beliefs and norms to a context of fostering respect for the child&#x02019;s creativity, imagination, unique perceptions, and choices.</p></list-item><list-item><p>From the view of hypnosis as a ritual completed by an authority figure <italic>on</italic> the individual to an interactive, dynamic &#x0201c;dance-like&#x0201d; experience <italic>between</italic> two individuals, with the clinician sometimes &#x0201c;leading&#x0201d; and other times &#x0201c;pacing&#x0201d; while the child leads.</p></list-item><list-item><p>From the use, writings, and research by a select group of clinicians, <italic>i.e</italic>., physicians and psychologists, to the broadened utilization by and contributions from various types of health care providers with advanced degrees.</p></list-item><list-item><p>From apprenticeship learning at the bedside of highly specified hypnotic techniques to the richness of multi-modal and multi-sensory training within a group setting, based on research about adult learning and skill acquisition, emphasizing the multiple paths toward similar clinical goals.</p></list-item><list-item><p>From definitions based on the fixed views and narrow theoretical concepts of a few to the fertile exchange by many within a global community.</p></list-item><list-item><p>From precise suggested commands applied rigidly to <italic>all</italic> patients to open-ended, permissive, and <italic>individualized</italic> suggestions utilizing the specific needs, resources, and interests of each child or teen.</p></list-item><list-item><p>From making conclusions and generalizations about the hypnotic experience based solely on behavioral observation to incorporating double-blind research studies evaluated in Cochrane reviews and state-of-the-art neuroimaging to correlate with the varying types of hypnotic behavior.</p></list-item></list></p></sec><sec><title>2. Brief History of Hypnosis &#x00026; Hypnosis with Children</title><p>In ancient times hypnotic-like techniques were utilized in healing and other ceremonies [<xref rid="B1-children-01-00074" ref-type="bibr">1</xref>]. (Biblical references in both the Old and New Testaments describe accounts of ill children responding to healing methods based on faith and suggestion (I Kings XVII: 17&#x02013;24; Mark IX: 17&#x02013;27). Primitive cultures have employed trance phenomena with children in initiation rites and other ceremonies [<xref rid="B1-children-01-00074" ref-type="bibr">1</xref>].</p><p>The modern history of hypnosis&#x02014;in both children and adults&#x02014;can be found in the rich, fascinating, and challenging history of many physicians of 18th century Europe and even more so in the 19th century. Many physicians contributed substantial clinical experience and theoretical concepts to our current understanding of clinical hypnosis and its usefulness in clinical health care. Amongst many, these included Franz Anton Mesmer (1734&#x02013;1815), the British Surgeon John Elliotson (1791&#x02013;1868) who also introduced the stethoscope to Great Britain, James Braid (1795&#x02013;1860) who coined the word hypnosis, and Jean-Martin Charcot (1835&#x02013;1893) whose descriptions of hypnosis in neurological terms gave it a new measure of scientific respectability. Of import, Liebault (1823&#x02013;1904) and Bernheim (1840&#x02013;1919) founded the School of Nancy devoted to the scientific investigation of hypnosis and described the first research on children&#x02019;s hypnotic susceptibility, describing over 750 subjects and the peak &#x0201c;susceptibility&#x0201d; thought in those days to occur between the ages of 7 and 14 years [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>] (Kohen and Olness, 2011; pp. 7&#x02013;12).</p><p>A more detailed description of the early history of hypnosis with children is beyond the scope of this article and can be found in Kohen and Olness&#x02019; text Hypnosis and Hypnotherapy with Children (4th edition, 2011) [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>].</p><p>Kohen and Olness (2011) note the apparent beginning of child hypnosis in the U.S. [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>] with Baldwin&#x02019;s paper entitled &#x0201c;Suggestion in Infancy&#x0201d; in <italic>Science</italic> published in 1891 [<xref rid="B3-children-01-00074" ref-type="bibr">3</xref>]. By 1900, interest in child hypnosis in Europe and the U.S. had decreased and it was not until the late 1950s and early 1960s that there was a resurgence of interest in research in Child Hypnosis. In the late 1950s psychiatrists Dr. Milton Erickson [<xref rid="B4-children-01-00074" ref-type="bibr">4</xref>] and Dr. M. Erik Wright [<xref rid="B5-children-01-00074" ref-type="bibr">5</xref>] described their clinical use of hypnosis/hypnotherapy with children.</p><p>In the 1960s Dr. Franz Baumann, a general pediatrician in San Francisco, was the first pediatrician to become President of a major Hypnosis Society (The American Society of Clinical Hypnosis). He published papers on the applications of hypnosis for adolescent drug abuse, enuresis, and encopresis [<xref rid="B6-children-01-00074" ref-type="bibr">6</xref>,<xref rid="B7-children-01-00074" ref-type="bibr">7</xref>]. In that decade several so-called Susceptibility Scales for Hypnotic Susceptibility in Children were developed (London and Cooper, 1969, [<xref rid="B8-children-01-00074" ref-type="bibr">8</xref>]; Barber &#x00026; Calverley, 1963, [<xref rid="B9-children-01-00074" ref-type="bibr">9</xref>]). The &#x0201c;gold standard&#x0201d; for hypnotic susceptibility in children, the Stanford Children&#x02019;s Hypnotic Susceptibility Scale (used primarily in research) was developed and published in 1979 by Arlene Morgan, Ph.D. &#x00026; Josephine Hilgard, Ph.D. (see Kohen and Olness, 2011, appendix) [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>].</p><p>Additional clinical reports emerged in the 1970s, most notably by G. Gail Gardner, Ph.D. [<xref rid="B10-children-01-00074" ref-type="bibr">10</xref>], Karen Olness, M.D., the acknowledged pioneer and &#x0201c;mother of pediatric clinical hypnosis&#x0201d; [<xref rid="B11-children-01-00074" ref-type="bibr">11</xref>], and Lonnie Zeltzer, M.D. and Sam LeBaron, M.D, Ph.D. who did early and important clinical and research work with pediatric oncology patients [<xref rid="B12-children-01-00074" ref-type="bibr">12</xref>,<xref rid="B13-children-01-00074" ref-type="bibr">13</xref>,<xref rid="B14-children-01-00074" ref-type="bibr">14</xref>], The first formal workshop in child hypnosis was taught in 1976 at the International Congress of Hypnosis in Philadelphia [<xref rid="B15-children-01-00074" ref-type="bibr">15</xref>].</p><p>The first textbook, Hypnosis and Hypnotherapy with Children, was written by G. Gail Gardner, Ph.D. and Karen Olness, M.D. and published in 1981 [<xref rid="B16-children-01-00074" ref-type="bibr">16</xref>]. The second edition was published in 1988 [<xref rid="B17-children-01-00074" ref-type="bibr">17</xref>], the third in 1996 by Karen Olness, M.D. and Daniel P. Kohen, M.D. [<xref rid="B18-children-01-00074" ref-type="bibr">18</xref>], and the most recent, fourth edition in 2011 by Kohen and Olness [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>]. The third edition was also translated into and published in German [<xref rid="B19-children-01-00074" ref-type="bibr">19</xref>] and French [<xref rid="B20-children-01-00074" ref-type="bibr">20</xref>].</p><p>Beyond milestones noted in <xref ref-type="table" rid="children-01-00074-t001">Table 1</xref> [<xref rid="B21-children-01-00074" ref-type="bibr">21</xref>,<xref rid="B22-children-01-00074" ref-type="bibr">22</xref>,<xref rid="B23-children-01-00074" ref-type="bibr">23</xref>,<xref rid="B24-children-01-00074" ref-type="bibr">24</xref>,<xref rid="B25-children-01-00074" ref-type="bibr">25</xref>,<xref rid="B26-children-01-00074" ref-type="bibr">26</xref>,<xref rid="B27-children-01-00074" ref-type="bibr">27</xref>,<xref rid="B28-children-01-00074" ref-type="bibr">28</xref>,<xref rid="B29-children-01-00074" ref-type="bibr">29</xref>,<xref rid="B30-children-01-00074" ref-type="bibr">30</xref>,<xref rid="B31-children-01-00074" ref-type="bibr">31</xref>,<xref rid="B32-children-01-00074" ref-type="bibr">32</xref>], many clinical applications of hypnosis in child health began to be reported in the 1980s and increasingly in the 1990s, notably clinical and research papers on the efficacy and applications for clinical hypnosis for children with asthma [<xref rid="B33-children-01-00074" ref-type="bibr">33</xref>,<xref rid="B34-children-01-00074" ref-type="bibr">34</xref>], children with cancer [<xref rid="B14-children-01-00074" ref-type="bibr">14</xref>,<xref rid="B22-children-01-00074" ref-type="bibr">22</xref>,<xref rid="B23-children-01-00074" ref-type="bibr">23</xref>,<xref rid="B24-children-01-00074" ref-type="bibr">24</xref>,<xref rid="B25-children-01-00074" ref-type="bibr">25</xref>] and tic and Tourette Syndrome [<xref rid="B35-children-01-00074" ref-type="bibr">35</xref>].</p><p>Following the aforementioned initial pediatric clinical hypnosis training workshop in 1976, occasional half-day to two day advanced workshops in pediatric hypnosis were offered to experienced child health clinicians sporadically during annual conferences of the American Society of Clinical Hypnosis (ASCH) and the Society for Clinical and Experimental Hypnosis (SCEH). Beginning in 1987, annual 3-day pediatric hypnosis workshops were offered under the auspices of the American organization, the Society for Developmental-Behavioral Pediatrics (SDBP), as part of its annual meeting. Given this workshop&#x02019;s wonderful success the following year concurrent Introductory <italic>and</italic> Intermediate Level training workshops were offered, and an Advanced Pediatric Clinical Hypnosis Workshop was added the next year. These three concurrent workshops were provided annually through 2009. Beginning in 2010, the Faculty from these preceding 24 years remained together and the National Pediatric Hypnosis Training Institute (NPHTI) was co-founded by Daniel Kohen, MD and Pamela Kaiser, PhD, CPNP, CNS. By Fall, 2014, NPHTI&#x02019;s 5th annual tri-level workshops will have tripled their faculty in order to meet the growing attendance by multi-disciplinary clinicians from around the globe.</p><table-wrap id="children-01-00074-t001" position="float"><object-id pub-id-type="pii">children-01-00074-t001_Table 1</object-id><label>Table 1</label><caption><p>Key Milestones in 20th&#x02013;21st Century Evolution of Pediatric Hypnosis.</p></caption><table frame="hsides" rules="rows"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1">Year</th><th align="center" valign="middle" rowspan="1" colspan="1">Milestone</th><th align="center" valign="middle" rowspan="1" colspan="1">Comment/Reference</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">1984</td><td align="left" valign="middle" rowspan="1" colspan="1">Largest clinical series (to date) of Pediatric patients treated with Hypnosis</td><td align="left" valign="middle" rowspan="1" colspan="1">[<xref rid="B21-children-01-00074" ref-type="bibr">21</xref>] Kohen, D.P., Olness, K.N., Colwell, S., &#x00026; Heimel</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">1986 &#x00026; 1999</td><td align="left" valign="middle" rowspan="1" colspan="1">Seminal Videos produced documenting the value of hypnosis in children with Cancer: &#x0201c;No Fears, No Tears&#x0201d; and the sequel &#x0201c;No Fears, No Tears- 13 years later&#x0201d;</td><td align="left" valign="middle" rowspan="1" colspan="1">[<xref rid="B22-children-01-00074" ref-type="bibr">22</xref>,<xref rid="B23-children-01-00074" ref-type="bibr">23</xref>] Leora Kuttner, Ph.D.<break/>Vancouver, BC Canada [<xref rid="B24-children-01-00074" ref-type="bibr">24</xref>,<xref rid="B25-children-01-00074" ref-type="bibr">25</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">1987 (to 2009)</td><td align="left" valign="middle" rowspan="1" colspan="1">First Annual Workshops in Pediatric Clinical Hypnosis for Child Health Clinicians&#x02013;under auspices of Society for Developmental and Behavioral Pediatrics</td><td align="left" valign="middle" rowspan="1" colspan="1">[<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>] Inaugural in Disneyland 1987 under auspices of SDBP Annually 1987&#x02013;2009.</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">1989</td><td align="left" valign="middle" rowspan="1" colspan="1">First Pediatric Psychoneuroimmunology study</td><td align="left" valign="middle" rowspan="1" colspan="1">[<xref rid="B26-children-01-00074" ref-type="bibr">26</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">1997</td><td align="left" valign="middle" rowspan="1" colspan="1">&#x0201c;Imaginative Medicine &#x02013; Hypnosis in Pediatric Practice &#x0201c;Video documenting value of hypnosis in primary care</td><td align="left" valign="middle" rowspan="1" colspan="1">[<xref rid="B27-children-01-00074" ref-type="bibr">27</xref>] Laurence I. Sugarman, M.D. Rochester Institute of Technology, Rochester NY</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">2005, 2009</td><td align="left" valign="middle" rowspan="1" colspan="1">Harry the Hypno-potamus: Metaphorical Tales for Pediatric Problems (Vol I 2005, Vol II in 2009)</td><td align="left" valign="middle" rowspan="1" colspan="1">[<xref rid="B28-children-01-00074" ref-type="bibr">28</xref>,<xref rid="B29-children-01-00074" ref-type="bibr">29</xref>] Linda Thomson, CPNP</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">1996, 2011</td><td align="left" valign="middle" rowspan="1" colspan="1">Hypnosis and Hypnotherapy with Children published 3rd edition 1996,<break/>4th edition 2011</td><td align="left" valign="middle" rowspan="1" colspan="1">[<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>,<xref rid="B18-children-01-00074" ref-type="bibr">18</xref>] 3rd ed Olness KN and Kohen, DP 1996<break/>4th ed Kohen, DP and Olness, KN 2011</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">2007&#x02014;2nd ed 2013</td><td align="left" valign="middle" rowspan="1" colspan="1">Therapeutic Hypnosis with Children and Adolescents published 1st edition 2007 and 2nd edition 2014</td><td align="left" valign="middle" rowspan="1" colspan="1">[<xref rid="B30-children-01-00074" ref-type="bibr">30</xref>] Editors: WC Wester and LI Sugarman 2007<break/>2nd ed: Sugarman &#x00026; Wester 2014</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">2010 (annual)</td><td align="left" valign="middle" rowspan="1" colspan="1"><bold>Formation of NPHTI&#x02014;National Pediatric Hypnosis Training Institute</bold> -Inaugural Annual Skill Development Workshops in Pediatric Clinical Hypnosis (Introductory, Intermediate and Advanced) <bold><uri xlink:type="simple" xlink:href="www.nphti.com">www.nphti.com</uri></bold></td><td align="left" valign="middle" rowspan="1" colspan="1">[<xref rid="B31-children-01-00074" ref-type="bibr">31</xref>] Co-Founders and Co-Directors<break/>Pamela Kaiser, PhD, CPNP, CNS<break/>Daniel P. Kohen, MD, FAAP, ABMH<break/>2010&#x02013;2014 and ongoing<break/><bold><uri xlink:type="simple" xlink:href="www.nphti.com">www.nphti.com</uri></bold></td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">2010</td><td align="left" valign="middle" rowspan="1" colspan="1">&#x0201c;Non-pharmacological treatment of tics in Tourette Syndrome with videotape training in self-hypnosis.&#x0201d; <italic><bold>JDBP</bold></italic></td><td align="left" valign="middle" rowspan="1" colspan="1">[<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>] (p 310) Lazarus and Klein article including link to video illustration of hypnosis with a child with Tourette Syndrome.</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">1990, 1992, 1997, 2002, 2005, 2009, 2013</td><td align="left" valign="middle" rowspan="1" colspan="1">Kindertagung = Largest Child Hypnosis Congress <italic>in the world</italic>&#x02014;begun 1990, most recent Heidelberg Germany, 2013</td><td align="left" valign="middle" rowspan="1" colspan="1">[<xref rid="B32-children-01-00074" ref-type="bibr">32</xref>] Bernhard Trenkle, Dipl Psych</td></tr></tbody></table></table-wrap><p>Kindertagung&#x02014;the Child Hypnosis Congress&#x02014;is the largest child hypnosis congress in the world, due to the vision of organizer and teacher, Bernhard Trenkle, Dipl. Psych. and Director of the Milton Erickson Institute in Rottweil, Germany. It was established initially in 1990 in Rottweil, and attracted 300 participants. Two years later, it was offered by a larger faculty in Heidelberg, Germany, and over 450 attended. Over the next sixteen years, it was offered four additional times with continued exponential growth in attendance. In 2013 the 7th Kindertagung was held in Heidelberg , with 2000 attendees including 114 faculty from Germany, France, Italy, Switzerland, South Africa, Canada, and the U.S. [<xref rid="B32-children-01-00074" ref-type="bibr">32</xref>].</p></sec><sec><title>3. Definition</title><p>Over the past three decades professionals have proposed a variety of theoretical definitions based upon controlled clinical laboratory research [<xref rid="B36-children-01-00074" ref-type="bibr">36</xref>].</p><p>The American Society of Clinical Hypnosis provides the following definition on its website (<uri xlink:type="simple" xlink:href="www.asch.net">www.asch.net</uri>):
+<disp-quote><p>&#x0201c;<bold>Definition of Hypnosis:</bold> Hypnosis is a state of inner absorption, concentration and focused attention. It is like using a magnifying glass to focus the rays of the sun and make them more powerful. Similarly, when our minds are concentrated and focused, we are able to use our minds more powerfully. Because hypnosis allows people to use more of their potential, learning self-hypnosis is the ultimate act of self-control&#x02026;. Recent research supports the view that hypnotic communication and suggestions effectively changes aspects of the persons physiological and neurological functions.&#x0201d;</p></disp-quote></p><p>The American Psychological Association Division 30 states in their 2014 revised official definition [<xref rid="B37-children-01-00074" ref-type="bibr">37</xref>].
+<disp-quote><p><bold>Hypnosis</bold> is a state of consciousness involving focused attention and reduced peripheral awareness characterized by an enhanced capacity for response to suggestion; <bold>hypnotizability</bold> is an individual&#x02019;s ability to experience suggested alterations in physiology, sensations, emotions, thoughts, or behavior during hypnosis; and <bold>hypnotherapy</bold>: The use of hypnosis in the treatment of a medical or psychological disorder or concern.</p></disp-quote></p><p>OR, as pediatrician Laurence Sugarman added his perspective [<xref rid="B38-children-01-00074" ref-type="bibr">38</xref>] (Sugarman, NPHTI presentation, September 2013).
+<disp-quote><p>&#x0201c;When we are IN hypnosis, we intensify our attention, decrease our peripheral awareness and become more receptive to new ideas and associations whenever we reinforce, rewire, reframe or otherwise alter the neurophysiological networks we call &#x0201c;experience&#x0201d;. Trance is what happens when we engage in changing our minds.&#x0201d; He goes on to say that &#x0201c;Hypnosis is about creating therapeutic interpersonal space for trance-formation that leads to transformation.&#x0201d; [<xref rid="B38-children-01-00074" ref-type="bibr">38</xref>] and, provides a definition that says that &#x0201c;Hypnosis is A skill set involving interpersonal communication designed to facilitate therapeutic change in maladaptive psycho- physiological reflexes.&#x0201d;</p><attrib>[<xref rid="B38-children-01-00074" ref-type="bibr">38</xref>] (Otherwise, of course, WHY do it?!)</attrib></disp-quote></p><p>More recently theories and definitions have been proposed based upon neurophysiological research aimed precisely at identifying and describing the neurophysiologic correlates of hypnotic behavior, reported and observed hypnotic features and effects, now verified with the availability and use of functional MRI (fMRI), PET scans, and related physiologic measures [<xref rid="B39-children-01-00074" ref-type="bibr">39</xref>,<xref rid="B40-children-01-00074" ref-type="bibr">40</xref>] <italic>etc</italic>.</p><p>Using brain imaging, cognitive neuroscientists have identified the power that suggestions have over attention functions and associated brain networks and their impact on physical and mental experience (Raz, 2011, [<xref rid="B40-children-01-00074" ref-type="bibr">40</xref>]). Still, Amir Raz, a leader in the field of neurohypnosis, cautions about the common over-interpretation of fMRI findings. He notes that researchers are now using newer techniques combined with fMRIs in the goal of identifying brain regions associated with different cognitive functions [<xref rid="B40-children-01-00074" ref-type="bibr">40</xref>] We await further exciting discoveries from these and other researchers.</p><p>The most recent issue of Mind-Body-Regulation [<xref rid="B41-children-01-00074" ref-type="bibr">41</xref>] (MBR, 5 May 2014) brought together the world&#x02019;s most distinguished scholars to create a decisive definition of hypnosis that has eluded scholars over the past century. While they provided stimulating food for thought, they did not reach a mutually agreed upon conclusion or provide a unifying definition [<xref rid="B41-children-01-00074" ref-type="bibr">41</xref>].</p><p>Although there is no universally agreed-upon or scientifically validated definition of hypnosis, we prefer a descriptive definition that elucidates what we believe to be the fundamental ingredients of the hypnotic experience and phenomenon from a clinical perspective/in a clinical setting:
+<disp-quote><p>A spontaneously occurring or induced alternative state of awareness (with or without relaxation, which may or may not be evident) in which an individual develops a focused concentration on some idea or image with the expressed purpose of maximizing potential, creating a CHANGE, and/or reducing or resolving some problem.</p><attrib>[<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>] (Kohen and Olness, 2011)</attrib></disp-quote></p></sec><sec><title>4. What is It?</title><p>Building on the preceding purposes delineated in the definition by Kohen and Olness, we would like to expand our conceptualization of clinical pediatric hypnosis as a tool to facilitate the evolution and refinement of <bold>self-regulation skills and capacities</bold>. More specifically, hypnosis is a tool to strengthen children&#x02019;s existing or under-developed skills in self-regulation, <italic>i.e</italic>., capacities to <italic>shift attention</italic>, maintain <italic>focused attention</italic>, inhibit and control reflexive actions, delay gratification, use problem solving strategies, and self-monitor and modulate thinking, emotion, behavior, and psycho-physiological reactivity [<xref rid="B42-children-01-00074" ref-type="bibr">42</xref>]. Children typically develop this capacity during infancy and childhood [<xref rid="B43-children-01-00074" ref-type="bibr">43</xref>]. With appropriate clinical pediatric hypnosis training, child health clinicians can help children and youth to identify, discover, develop, and cultivate these capacities and other internal resources for their own benefit in managing and shaping their responses to a broad range of health and life problems, dilemmas, and challenges [<xref rid="B42-children-01-00074" ref-type="bibr">42</xref>]. In this regard clinical hypnosis helps children and their parents develop and refine the concept of &#x0201c;skills not pills&#x0201d; [<xref rid="B44-children-01-00074" ref-type="bibr">44</xref>] as strategies to apply to their particular problems or concerns.</p><p>We wish to emphasize that we believe that the critical ingredients of the therapeutic hypnotic experience in children (as well as in adults) are focused attention to and absorption in imagination which includes a focus on multi-sensory imagery and a particular <bold><italic>cultivation of that imagination</italic></bold> on steps and strategies toward goals for resolution of problems and change of ineffective patterns. Examples of possible specific goals include diminution or disappearance of undesirable symptoms, accurate discrimination of distorted thinking about situations and stressors, re-framing of perception of problems as solvable and conditions as manageable, building positive expectations, control of exaggerated reactivity, and creation and enhancement of the belief in the ability of the mind and body to work together to evoke and create desirable changes in outcome.</p><p>While this is not the forum for an expanded discussion of the similarities and differences between hypnosis and other self-regulatory activities, we are aware of other modalities that incorporate experiential learning and mechanisms for change. We are clear in telling our clients and patients that &#x0201c;some people call this work hypnosis, some call it imagery, some call it visualization, others refer to it as mindfulness, and some call it biofeedback.&#x0201d; We indicate our belief that these approaches bear some similarity to one another and may reflect some overlap of the same phenomenology. These activities share the goals of helping people to cultivate internal resources, to explore new possibilities, to accomplish physiologic, perceptual, sensory, and behavioral changes, and to facilitate mind-body communication and modulation [<xref rid="B45-children-01-00074" ref-type="bibr">45</xref>,<xref rid="B46-children-01-00074" ref-type="bibr">46</xref>,<xref rid="B47-children-01-00074" ref-type="bibr">47</xref>].</p></sec><sec><title>5. Why Use Hypnosis? Why Do It?</title><p>In a video prepared by one of us (DK) for teaching clinicians how children understand and apply self-hypnosis [<xref rid="B48-children-01-00074" ref-type="bibr">48</xref>] an eleven-year-old boy with Asthma who improved substantially with the application of his self-hypnosis skills is asked &#x0201c;<bold>How</bold> does <bold>your</bold> hypnosis help you with your asthma?&#x0201d; He begins by saying &#x0201c;How does it help the medicine work better and faster? Yeah, it does, I don&#x02019;t know how. How does it help me feel better&#x02026; breathe easier? Well, ummmmm, uhhh, it&#x02019;s kind of hard to explain&#x02026;..&#x0201d; and then turns his face to the camera and says, &#x0201c;Well, it works&#x02026;.. okay, all you people out there, it works!&#x0201d; This clinical evidence is followed below by a review of the published evidence.</p></sec><sec><title>6. Wide Spectrum of Applications</title><p>As described in the historical review, the beginning of a surge of clinical reports and clinical research in pediatric hypnosis began in the 1970s and continues today. This substantive increase may be causally related&#x02014;and certainly temporally related&#x02014;to the concurrent evolution of increased workshop training in pediatric clinical hypnosis during these decades as discussed above.</p><p>In 1984 Kohen and colleagues published what remains today the largest clinical series of children (505 children) and youth treated with hypnosis for a variety of clinical problems, including enuresis, pain, asthma, habit disorders, obesity, encopresis, and anxiety [<xref rid="B21-children-01-00074" ref-type="bibr">21</xref>]. In 1987 Olness, Uden and McDonald published their seminal research documenting the superiority of hypnosis training to medication in the treatment of juvenile migraine [<xref rid="B49-children-01-00074" ref-type="bibr">49</xref>].</p><p>In appropriate search of physiologic correlates of the hypnotic experience in children, studies have been conducted describing changes found in peripheral skin temperature during hypnosis [<xref rid="B50-children-01-00074" ref-type="bibr">50</xref>], in transcutaneous oxygen flux [<xref rid="B51-children-01-00074" ref-type="bibr">51</xref>], cardiovascular changes in association with hypnosis [<xref rid="B52-children-01-00074" ref-type="bibr">52</xref>,<xref rid="B53-children-01-00074" ref-type="bibr">53</xref>], pulmonary function changes in children with asthma learning hypnosis [<xref rid="B34-children-01-00074" ref-type="bibr">34</xref>,<xref rid="B54-children-01-00074" ref-type="bibr">54</xref>].</p><p>The value of hypnosis in modulating the negative effects of chemotherapy for children with cancer (such as nausea and vomiting) has been demonstrated in the research and clinical work of Zeltzer and LeBaron [<xref rid="B12-children-01-00074" ref-type="bibr">12</xref>,<xref rid="B13-children-01-00074" ref-type="bibr">13</xref>,<xref rid="B14-children-01-00074" ref-type="bibr">14</xref>], Olness [<xref rid="B55-children-01-00074" ref-type="bibr">55</xref>], Jacknow and colleagues [<xref rid="B56-children-01-00074" ref-type="bibr">56</xref>], and dramatically in Kuttner&#x02019;s award-winning educational videos &#x0201c;No Fears, No Tears&#x0201d; and &#x0201c;No Fears, No Tears&#x02014;13 years Later&#x0201d; [<xref rid="B22-children-01-00074" ref-type="bibr">22</xref>,<xref rid="B23-children-01-00074" ref-type="bibr">23</xref>] 1986, and Making Every Moment Count [<xref rid="B25-children-01-00074" ref-type="bibr">25</xref>]. Kohen and Zajac recently described the efficacy of hypnosis for headaches in children and teens [<xref rid="B57-children-01-00074" ref-type="bibr">57</xref>]. Subsequently Kohen reported an important follow-up survey demonstrating the long-term benefits of hypnosis for those who had originally benefited from learning hypnosis for relief of headaches and reported not only long-term sustained relief, but also the application of those skills to other areas of their lives [<xref rid="B58-children-01-00074" ref-type="bibr">58</xref>]. Recently, Sugarman and colleagues have published an award-winning article describing new theories and promising research regarding the value of hypnosis (and biofeedback) with young people with autism [<xref rid="B59-children-01-00074" ref-type="bibr">59</xref>].</p><p>In recent years the increase in use of clinical hypnosis with children has resulted in a plethora of publications for a wide variety of clinical problems. For example, in preparation of the fourth edition of Hypnosis and Hypnotherapy with Children (2011) [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>] the authors reviewed over 500 newly published articles from the English, French, and German literature, published since the third edition in 1996 [<xref rid="B18-children-01-00074" ref-type="bibr">18</xref>].</p><p>For a detailed and wide-ranging description of the myriad of clinical conditions for which hypnosis is applicable and effective in children and youth, readers are encouraged to consult the two standard texts in this field, Kohen and Olness&#x02019; 2011 fourth edition Hypnosis the Hypnotherapy with Children [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>] and Sugarman and Wester&#x02019;s edited text, Therapeutic Hypnosis with Children and Adolescents, secondedition (2014) [<xref rid="B30-children-01-00074" ref-type="bibr">30</xref>].</p><p>Additionally, we refer to the following <xref ref-type="table" rid="children-01-00074-t002">Table 2</xref> that highlights a broad range of applications.</p><table-wrap id="children-01-00074-t002" position="float"><object-id pub-id-type="pii">children-01-00074-t002_Table 2</object-id><label>Table 2</label><caption><p>Applications of Hypnotherapy for Children and Adolescents <bold>*</bold>.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" rowspan="1" colspan="1">Category</th><th align="left" valign="middle" rowspan="1" colspan="1">Examples</th><th align="left" valign="middle" rowspan="1" colspan="1">Key References</th></tr></thead><tbody><tr><td rowspan="8" align="left" valign="middle" colspan="1">1. Habit Problems</td><td rowspan="8" align="left" valign="middle" colspan="1">Thumb-sucking, nail-biting, Hair-pulling, Nocturnal Enuresis, Habit Cough</td><td align="left" valign="middle" rowspan="1" colspan="1">GGailGardner 1978 [<xref rid="B10-children-01-00074" ref-type="bibr">10</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">D Kohen 1996 [<xref rid="B60-children-01-00074" ref-type="bibr">60</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">L Thomson (2002) [<xref rid="B61-children-01-00074" ref-type="bibr">61</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Gottsegen (2003) [<xref rid="B62-children-01-00074" ref-type="bibr">62</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Anbar and Hall (2004) [<xref rid="B63-children-01-00074" ref-type="bibr">63</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Shenefelt (2004) [<xref rid="B64-children-01-00074" ref-type="bibr">64</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Anbar (2007) [<xref rid="B65-children-01-00074" ref-type="bibr">65</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Olness (1975) [<xref rid="B11-children-01-00074" ref-type="bibr">11</xref>]</td></tr><tr style="border-top: solid thin"><td rowspan="16" align="left" valign="middle" colspan="1">2. Mental Health Conditions</td><td rowspan="16" align="left" valign="middle" colspan="1">Separation Anxiety &#x02022; Social Anxiety &#x02022; Performance Anxiety (speeches, recital, sports) &#x02022; post traumatic stress disorder (PTSD) &#x02022; obsessive compulsive disorder (OCD) &#x02022; Phobias<break/>Grief &#x00026; Bereavement<break/>Major Depression<break/>&#x02022; Dysthymia<break/>&#x02022; Adjustment Disorder with Depression and Anxiety<break/>Anger &#x02022; Adjustment Disorder &#x02022; Coping with family change</td><td align="left" valign="middle" rowspan="1" colspan="1">Kaiser (2011) [<xref rid="B42-children-01-00074" ref-type="bibr">42</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kaiser (2014) [<xref rid="B94-children-01-00074" ref-type="bibr">94</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Spies (1979) [<xref rid="B95-children-01-00074" ref-type="bibr">95</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kuttner, Friedrichsdorf (2014) [<xref rid="B96-children-01-00074" ref-type="bibr">96</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Golden (2012) [<xref rid="B97-children-01-00074" ref-type="bibr">97</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kerns et al (2013) [<xref rid="B98-children-01-00074" ref-type="bibr">98</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Yapko (2001) [<xref rid="B99-children-01-00074" ref-type="bibr">99</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Yapko (2006) [<xref rid="B100-children-01-00074" ref-type="bibr">100</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Yapko (2011) [<xref rid="B70-children-01-00074" ref-type="bibr">70</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kohen, Murray (2006) [<xref rid="B101-children-01-00074" ref-type="bibr">101</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kohen (2014) [<xref rid="B102-children-01-00074" ref-type="bibr">102</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Cyr, Culbert, Kaiser 2003 [<xref rid="B66-children-01-00074" ref-type="bibr">66</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Tschann, Kaiser, Boyce, Chesney, Alkon-Leonard (1996) [<xref rid="B67-children-01-00074" ref-type="bibr">67</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Culbert &#x00026; R-Cyr, Ped Mind-Body Interface (2005) [<xref rid="B68-children-01-00074" ref-type="bibr">68</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Olness (2009) [<xref rid="B69-children-01-00074" ref-type="bibr">69</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Yapko (2011) [<xref rid="B70-children-01-00074" ref-type="bibr">70</xref>]</td></tr><tr style="border-top: solid thin"><td rowspan="16" align="left" valign="middle" colspan="1">3. Psycho-Physiological Disorders</td><td rowspan="16" align="left" valign="middle" colspan="1">Asthma &#x02022; Migraine HA &#x02022;IBS<break/>Inflammatory Bowel Disease<break/>&#x02022; Warts &#x02022; Tourette Syndrome</td><td align="left" valign="middle" rowspan="1" colspan="1">Kohen &#x00026; Zajac 2007 [<xref rid="B57-children-01-00074" ref-type="bibr">57</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kohen (2010, 2011) [<xref rid="B58-children-01-00074" ref-type="bibr">58</xref>,<xref rid="B71-children-01-00074" ref-type="bibr">71</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Olness, MacDonald Uden (1987) [<xref rid="B44-children-01-00074" ref-type="bibr">44</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">LaBaw (1975) [<xref rid="B72-children-01-00074" ref-type="bibr">72</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Anbar (2003) [<xref rid="B73-children-01-00074" ref-type="bibr">73</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Hackman ( 2000 ) [<xref rid="B74-children-01-00074" ref-type="bibr">74</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kohen (1995) [<xref rid="B33-children-01-00074" ref-type="bibr">33</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kohen, Wynne (1997) [<xref rid="B34-children-01-00074" ref-type="bibr">34</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Culbert, Kajander, Kohen Reaney (1996) [<xref rid="B75-children-01-00074" ref-type="bibr">75</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Gottsegen (2011) [<xref rid="B76-children-01-00074" ref-type="bibr">76</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kuttner et al (2006) [<xref rid="B77-children-01-00074" ref-type="bibr">77</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Vlieger, Menko-Frankenhuis (2007) [<xref rid="B78-children-01-00074" ref-type="bibr">78</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Pendergrast (2003) [<xref rid="B79-children-01-00074" ref-type="bibr">79</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Lazarus, Klein (2010) [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>] (p. 310)</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kohen, Botts (1987) [<xref rid="B35-children-01-00074" ref-type="bibr">35</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kohen (1995) [<xref rid="B80-children-01-00074" ref-type="bibr">80</xref>]</td></tr><tr style="border-top: solid thin"><td rowspan="19" align="left" valign="middle" colspan="1">4. Pain</td><td rowspan="19" align="left" valign="middle" colspan="1">Acute (injury, illness, medical procedures) &#x02022; Chronic pain &#x02022; Recurrent Pain</td><td align="left" valign="middle" rowspan="1" colspan="1">Kuttner (2006) [<xref rid="B81-children-01-00074" ref-type="bibr">81</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Olness (1981) [<xref rid="B50-children-01-00074" ref-type="bibr">50</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Berberich, Landman (2009) [<xref rid="B82-children-01-00074" ref-type="bibr">82</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Myers, Bergman, Zeltzer (2004) [<xref rid="B83-children-01-00074" ref-type="bibr">83</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Zeltzer, Dolgin, LeBaron, S., LeBaon, C. (1991) [<xref rid="B84-children-01-00074" ref-type="bibr">84</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Vlieger, Menko-Frankenhuis (2007) [<xref rid="B78-children-01-00074" ref-type="bibr">78</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Gottsegen (2011) [<xref rid="B76-children-01-00074" ref-type="bibr">76</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Anbar (2001) [<xref rid="B85-children-01-00074" ref-type="bibr">85</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Antich (1967) [<xref rid="B86-children-01-00074" ref-type="bibr">86</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Bernstein (1965) [<xref rid="B87-children-01-00074" ref-type="bibr">87</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Butler et al (2005) [<xref rid="B88-children-01-00074" ref-type="bibr">88</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">French, GM et al (1994) [<xref rid="B89-children-01-00074" ref-type="bibr">89</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kohen, (1996) [<xref rid="B90-children-01-00074" ref-type="bibr">90</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kuttner (1988) [<xref rid="B24-children-01-00074" ref-type="bibr">24</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kuttner (2010) [<xref rid="B91-children-01-00074" ref-type="bibr">91</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">LeBaron, Hilgard (1984) [<xref rid="B14-children-01-00074" ref-type="bibr">14</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Tsao, <italic>et al</italic>., (2007) [<xref rid="B92-children-01-00074" ref-type="bibr">92</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Uman et al (2008) [<xref rid="B93-children-01-00074" ref-type="bibr">93</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Gulewitsch, Muller, Hutzinger, Schlarb (2013) [<xref rid="B109-children-01-00074" ref-type="bibr">109</xref>]</td></tr><tr><td rowspan="6" align="left" valign="middle" colspan="1">5. Sleep Disorders</td><td rowspan="6" align="left" valign="middle" colspan="1">Sleep onset insomnia (Anx),<break/>Circadian Rhythm Disorder, Parasomnias</td><td align="left" valign="middle" rowspan="1" colspan="1">Culbert, Kajander (2007) [<xref rid="B103-children-01-00074" ref-type="bibr">103</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kuttner (2009) [<xref rid="B104-children-01-00074" ref-type="bibr">104</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kaiser (2011) [<xref rid="B42-children-01-00074" ref-type="bibr">42</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kohen et al (1996) [<xref rid="B105-children-01-00074" ref-type="bibr">105</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Stanton (1989) [<xref rid="B106-children-01-00074" ref-type="bibr">106</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Schlarb, Liddle, Hautzinger (2011) [<xref rid="B110-children-01-00074" ref-type="bibr">110</xref>]</td></tr><tr style="border-top: solid thin"><td rowspan="8" align="left" valign="middle" colspan="1">6. Chronic Illness</td><td rowspan="8" align="left" valign="middle" colspan="1">Adjustment &#x00026; coping<break/>Palliative Care, Grief, Bereavement</td><td align="left" valign="middle" rowspan="1" colspan="1">Anbar (2000) [<xref rid="B54-children-01-00074" ref-type="bibr">54</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Anbar (2001) [<xref rid="B85-children-01-00074" ref-type="bibr">85</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Zeltzer, Schlank (2005) [<xref rid="B107-children-01-00074" ref-type="bibr">107</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kuttner, Friedrichsdorf (2014), [<xref rid="B96-children-01-00074" ref-type="bibr">96</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kuttner (2006), [<xref rid="B81-children-01-00074" ref-type="bibr">81</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kuttner (2003), [<xref rid="B25-children-01-00074" ref-type="bibr">25</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Kohen, Olness (2011, Chapter 15) [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>]</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Gardner (1976) [<xref rid="B108-children-01-00074" ref-type="bibr">108</xref>] *</td></tr></tbody></table><table-wrap-foot><fn><p><bold>*</bold> While several illustrative references are cited, additional relevant examples and references can be found in the two major textbooks, noted in references [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>,<xref rid="B30-children-01-00074" ref-type="bibr">30</xref>].</p></fn></table-wrap-foot></table-wrap><p>The value of brain imaging in amplifying how hypnotic suggestions impact mental and physical experience is described by Lifshitz, Cusumano, and Raz (2013) [<xref rid="B111-children-01-00074" ref-type="bibr">111</xref>]. It is also noteworthy that Cochrane and other systematic reviews support the efficacy of pediatric hypnosis for various clinical applications, including Curtis <italic>et al</italic>., (2012) [<xref rid="B112-children-01-00074" ref-type="bibr">112</xref>], Gold <italic>et al</italic>., (2007) [<xref rid="B113-children-01-00074" ref-type="bibr">113</xref>], Landier &#x00026; Tse (2010) [<xref rid="B114-children-01-00074" ref-type="bibr">114</xref>], McClaffery (2011) [<xref rid="B115-children-01-00074" ref-type="bibr">115</xref>], Rickardson <italic>et al</italic>., (2006) [<xref rid="B116-children-01-00074" ref-type="bibr">116</xref>], Schnur <italic>et al</italic>., (2008) [<xref rid="B117-children-01-00074" ref-type="bibr">117</xref>], and Uman <italic>et al</italic>., (2013) [<xref rid="B118-children-01-00074" ref-type="bibr">118</xref>].</p></sec><sec><title>7. Case Presentations</title><p>The remainder of this paper offers several case vignettes to illustrate common applications of hypnosis and hypnotherapy in every-day child and adolescent health care. These case examples also demonstrate the nature and value of these empowering hypnosis strategies for children who previously struggled substantially before developing various self-regulation skills:</p><sec><title>7.1. Case of Anxiety</title><sec><title>7.1.1. CASE #1: Performance Anxiety: From Baseball Bawling to Behavioral and Emotional Self-Regulation</title><p>J. is a 9-year-old fourth grader who presented with a long history of anxiety about not measuring up to his own very high standards. This was associated with poor emotional and behavioral self-regulation when frustrated and disappointed with his mistakes, which was particularly detrimental when playing his beloved sport, baseball. Despite his Dad&#x02019;s coaching tricks to let go of these feelings, he typically needed to be assisted off the pitcher&#x02019;s mound due to uncontrollable tears, kicking the dirt, and hitting himself with his glove. He was unable to &#x0201c;regroup&#x0201d; from this marked emotional and behavioral disintegration and the sobbing continued, resulting in reduced playing time, embarrassment, and later regret and further anxiety.</p><p>As with all initial encounters with new patients, developing rapport with the child and parents is critical to the process and outcome of the treatment. Similarly, the clinician learns the child&#x02019;s personal and family history, and assesses motivation, expectations, strengths and other internal resources, such as capacity to accurately discriminate or interpret a situation and to self-regulate their emotions, thoughts, and behavior in other areas of their life. Time is spent to appraise the child&#x02019;s understanding of the &#x0201c;problem&#x0201d; as well as <italic>how</italic> they accomplished past mastery experiences.</p><p>While there may be some exceptions, the more formalized introduction of hypnosis <italic>per se</italic> and discussion and demystification of hypnosis may not take place until subsequent visit(s). Given this child&#x02019;s strong interest in sports, the clinician linked the explanation about hypnosis to references about top athletes&#x02019; learned skills in focused attention, mental rehearsal, and being &#x0201c;in the zone&#x0201d;. She emphasized that &#x0201c;learning to do &#x02018;self-hypnosis&#x02019; like those athletes do will certainly help his game&#x0201d;.</p><p>Children in this age range are particularly receptive and responsive to hypnosis. The clinician capitalizes on this developmental phase, by utilizing the child&#x02019;s expanded attention span, intellectual curiosity, motivation to master new skills, capacity to understand and create metaphors, and the ability to access memories of the past and to richly imagine the future.</p><p>This child saw his &#x0201c;hypnosis coach&#x0201d; weekly for several sessions, during which hypnosis was incorporated into other interventions, including Cognitive Behavior Therapy (CBT) to address his faulty beliefs and perfectionism, computerized biofeedback to enhance his psycho-physiological reactivity, and parent counseling to shift from their sense of helplessness to learning how to support their son&#x02019;s own growing capacities to dampen strong emotions. He also kept a calendar to record his improving self-regulation skills, using a scale from 0 to 10 to indicate level of control over behavioral outbursts.</p><p>When designing a hypnotic or hypnosis trance experience, the clinician &#x0201c;utilizes&#x0201d; the child&#x02019;s interests, capacities, and goals. J&#x02019;s notable strengths included his passion and knowledge of baseball, his overall congenial personality and sportsmanship, and his motivation to gain self-control. Given his pronounced passion for baseball, the child and therapist made an agreement: He would teach her baseball terms and she would teach him &#x0201c;tricks&#x0201d; to improve his self-control and focus during baseball games. Accordingly, sports terminology, the self-calming rituals of his favorite star ball players, and his capacity to focus his attention were incorporated into therapeutic suggestions. In this regard, J. was asked to &#x0201c;teach&#x0201d; the clinician about sports slang and to tell some stories about key players. This language and information became &#x0201c;hooks&#x0201d; woven into suggestions during the hypnosis work.</p><p>For example, the phrase &#x0201c;on to the next one!&#x0201d; was introduced to J. as self-talk, an immediate inner response, to dissociate from any personal errors during the game and to sustain positive expectations. He also learned to &#x0201c;turn off the faucets&#x0201d; just before each practice and game, in order to control his past tearful responses and to regulate his intense emotional reactivity to mistakes. While he imagined playing a close game, he was taught to pair or link a calming breath with the touch of the ball when pitching, bat when hitting, and base when running.</p><p>He was also told a metaphoric story about a boy who decided it was time to no longer feel like a <italic>loser</italic> by being tricked by <italic>curve balls</italic> inside his head that were <italic>stealing</italic> his attention, focus and control. First, he found a <italic>specialty coach</italic> to work with on his <italic>mental game</italic> during his <italic>spring training</italic> and he found immediate <italic>relief</italic> with the <italic>assist</italic> of calming breaths. Second, he taught himself to <italic>throw</italic> away any <italic>errors</italic> that were <italic>running around</italic> in his head, in order to quickly <italic>catch</italic> on to practicing new <italic>plays.</italic> Third, he worked hard on <italic>drills</italic> to <italic>line up</italic> his new strategies in his mind. Before the end of his inner strength training, he <italic>struck out</italic> the old disappointment and frustration that had <italic>fouled</italic> up his <italic>game</italic>. He became a <italic>champion</italic> as a <italic>triple threat</italic> with his MVP&#x02014;Most Valuable Playing&#x02014;with full attention, focus, and self-control. <italic>Watch him keeping his eyes on the ball, instead of bawling!</italic></p><p>This story was recorded and given to him, with instructions to listen to it daily as part of his ongoing practice doing self-hypnosis exercises to foster calmness and an enhanced capacity to modulate his emotions when coping with normal, every day &#x0201c;hassles&#x0201d;. In subsequent sessions, the clinician reviewed his progress calendar and added other hypnosis experiences for him to listen to daily.</p><p>Within a number of weeks, this child showed significantly enhanced self-regulation of his emotions and behavior, both on and off the field. He became an athlete who shared his self-control strategies with his teammates.</p></sec><sec><title>7.1.2. CASE #2: Anger Management and Primary Nocturnal Enuresis</title><p>Almost 10-year-old &#x0201c;Z&#x0201d; was brought by his parents for &#x0201c;issues&#x0201d; of angry behavior and not wanting to do what he is told or asked, occurring exclusively at home. He has had no problems in school or in after-school programs, but acknowledged &#x0201c;issues&#x0201d; with stomping his feet, slamming doors, and defiantly refusing to do things he is &#x0201c;supposed&#x0201d; to do at home, either on his own or when asked.</p><p>The day before his first visit he had a public tantrum at a local store when his mother said he could not get the toy he wanted. As a &#x0201c;consequence&#x0201d; of his tantrum, he was &#x0201c;grounded&#x0201d; from using his electronic games for a week. His mother reported that she was surprised that he had spontaneously come to her to apologize that same evening before bed. He was surprised and proud when the clinician spontaneously gave him a &#x0201c;high 5!&#x0201d; for that spontaneous apology.</p><p>During the initial visit the clinician inquired what &#x0201c;issues&#x0201d; Z wanted to work on. He said he did not like the way he gets angry and was surprised when the clinician told him that &#x0201c;feeling angry is okay, everyone I ever met got angry or gets angry sometimes, and then they get un-angry. It is only okay or not okay <italic>how</italic> we get angry and <italic>how</italic> we act, not <italic>if</italic> we get angry. We are not allowed to hurt people or things when we get <italic>angry</italic>. The clinician noted Z&#x02019;s spontaneous focused attention (spontaneous hypnotic trance) and complimented <italic>all those other times that you might have gotten angry and did not.</italic></p><p>During the first visit the clinician identified Z&#x02019;s strengths, including cooperation at school (i.e. no behavior problems or acting out there), great soccer skills, and being a &#x0201c;quick learner&#x0201d;.</p><p>Almost as an after-thought Z. mentioned that he had an &#x0201c;issue&#x0201d; with his bladder and he and his parents noted that he <italic>never</italic> wakes up in a dry bed. When asked about the <italic>reason</italic> for this, they said &#x0201c;because he sleeps too soundly, he&#x02019;s a heavy, deep sleeper&#x0201d;. When he told the clinician that there was no problem with daytime wetting <italic>ever</italic>, the clinician purposely and dramatically showed pleasant surprise: &#x0201c;<italic>really</italic>? Well, that&#x02019;s going to make this <italic>much easier to solve</italic> than I thought, we&#x02019;ll work on this as soon as you know how to manage the <italic>angry</italic> feelings.&#x0201d; This &#x0201c;waking hypnotic suggestion&#x0201d; was planted as a seed for building upon at a future visit.</p><p>At the second visit, Z. was taught a hypnotic anger (or other feeling) management strategy called the &#x0201c;jettison technique&#x0201d;. Offering a &#x0201c;personal&#x0201d; example, the clinician gave a blank piece of paper to Z. and one for himself. Without formally mentioning hypnosis, the clinician said &#x0201c;Just listen and watch first. Then you&#x02019;ll have a chance to <italic>do</italic> this too&#x02026; Sometimes when I feel angry I just close my eyes or I look inside my mind with my eyes <italic>open</italic>&#x02014;either way is fine&#x02014;and I picture what <italic>color and shape</italic> angry is&#x02026;. Let&#x02019;s see, hmmmm, right now it&#x02019;s a <italic>red square</italic>! Then, I imagine or pretend there is a faucet or drain pipe in the side of that square. I turn it on and the angry feeling runs out of my thinking (touching each next part while describing it) down the side of my neck, down my shoulder on my (either) arm and down and around the bend at the elbow and all the way down into the palm of my hand (holding palm upward) until all of the angry feeling has filled up my hand. Then I roll it up into a tight fist, take a deep breath and hold it, then as I blow out <italic>I throw it away</italic>!! (forcibly crumpling up the piece of paper as tight as possible and throwing it onto the floor!). At the end, I look <italic>back</italic> into my thinking to see the <italic>color and shape of comfortable or relief or relaxed</italic>&#x02026;wow, now it&#x02019;s a yellow circle, smiley face!! Okay, your turn!&#x0201d; He reproduced it, reporting different colors and shapes than the clinician&#x02019;s. It was suggested that he have a pile of scrap paper in his room to use &#x0201c;as needed&#x0201d;.</p><p>At the next visit he and his parents reported considerably fewer tantrums and much more cooperation. He asked about getting <italic>dry</italic> at night. He was told quite directly that his brain and bladder <italic>know each other very well,</italic> that they work together great, and are in a good <italic>pattern</italic> of talking to each other, so much so that he does not wet his pants <italic>even</italic> if he has to &#x0201c;go really, really badly&#x02026;&#x0201d; He agreed, and said that what was just described was exactly what he <italic>does</italic> every day all day except that he does not say it <italic>out loud</italic>.</p><p>Z. demonstrated another spontaneous hypnotic state while focusing carefully on a participatory drawing of genitourinary anatomy and physiology, capitalizing on his curiosity about how the body works, and his quick learning.</p><p>In the drawing, urine was depicted being sent from the kidneys (aka &#x0201c;pee factory&#x0201d;) to the bladder, shown as a &#x0201c;sack with a muscle around it&#x0201d; with a &#x0201c;gate&#x0201d; made of muscle that is closed most of the time, opening only upon signal from the &#x0201c;main computer&#x0201d;, <italic>i.e</italic>., the brain, when it is full. The drawing showed the brain and bladder connection, with bi-directional arrows communicating between the full bladder and the brain, keeping the gate &#x0201c;closed&#x0201d; until the right time and place.</p><p>Z. was taught that nighttime accidents are just that, <italic>i.e.</italic> that <italic>his brain and bladder accidentally got into an accidental habit or pattern of not talking with each other at night</italic>. Therefore, he has to remind them before he goes to sleep <italic>because</italic> he is going to be asleep. Since the bladder and brain have perfect communication all day long, they &#x0201c;are already friends and know how to talk to each other, so <italic>all</italic> you have to do is <italic>remind them before you go to sleep.</italic>&#x0201d;</p><p>Z. committed to giving instructions at bedtime to his brain and bladder &#x0201c;taking no longer than 5 min to do so&#x0201d;. &#x0201c;For example, you could say &#x0201c;Bladder, tonight let the brain know when you&#x02019;re full. Brain, you have a choice: WHEN the bladder says it&#x02019;s full, tell me to wake up, walk to the bathroom, open the gate, pee in the toilet, close the gate, flush , and go back to my <italic>nice, warm, comfortable dry bed</italic>, or, instead <italic>tell the bladder gate to stay closed and locked all night until morning</italic>, and <italic>then</italic> wake up happy and proud in a nice warm dry bed&#x0201d; With either choice, the bed is dry in the morning.</p><p>Z listened carefully. His parents and he agreed to discontinue using &#x0201c;diapers&#x0201d; (pull-ups) that he had worn&#x02014;and soaked&#x02014;nightly. Although they missed the scheduled appointment 2 weeks later, they returned in 4 weeks to report 29 out of 32 nights being totally <italic>dry</italic>, or 91% dryness. His parents were astounded, and he was very proud.</p></sec><sec><title>7.1.3. Case #3: Fear of Shots and Embarrassing Warts</title><p>K. was a 10-year-old fifth grader who asked her parents to see the &#x0201c;special doctor&#x0201d; who helped her good friend get over daily tummy aches while at school when she was away from her Mom. K. wanted to get over her long-time fear of shots. She was also highly motivated to get rid of several large warts on her knees. She was tired of always wearing pants to cover them for fear of being teased.</p><p>The evaluation showed that her fear of injections met criteria for a Specific Phobia, given her excessive and developmentally inappropriate level of fear reactivity regarding the procedure. Her mother described K&#x02019;s intense distress and panic whenever faced with this procedure in the past. She begged loudly for a delay, tried to hide in the corner of the exam room, cried and screamed in protest when the nurse approached her. Her screeches &#x0201c;No! No! No!&#x0201d; lasted until some minutes after the administration.</p><p>Given her panic symptoms of high psychophysiological and emotional reactivity, K. was taught diaphragmatic breathing (aka &#x0201c;belly breathing&#x0201d;) to activate the parasympathetic nervous system (aka the &#x0201c;calming control center, CCC&#x0201d;). She was urged to practice this new skill several times a day.</p><p>Because Exposure Therapy with Systematic Desensitization is the treatment of choice for phobias, K. was gradually exposed to the equipment (e.g., cleaning swab, syringe) and procedure for injections, until those items and &#x0201c;pretend&#x0201d; shot-giving no longer evoked activation of panic symptoms. In addition to this &#x0201c;<italic>in vivo</italic>&#x0201d; exposure, she was taught self-hypnosis to be used as repeated &#x0201c;imaginal exposure&#x0201d; that focused on her capacity for self-regulation of her body&#x02019;s &#x0201c;false alarm&#x0201d; that had prompted such strong reactions with her emotions, thoughts, and behavior.</p><p>Given her gift for creative writing and love of biographies about strong-willed girls who became famous women, she was encouraged to &#x0201c;go to a special <italic>safe</italic> place where she was completely in charge and in control of herself&#x0201d;. She was invited to &#x0201c;just enjoy being <italic>there</italic> where she could also <italic>now</italic> turn on a special TV in her mind&#x0201d;. Suggestions were offered &#x0201c;to use your imagination to watch a Mastery Movie on the K Channel. Instead of watching the <italic>old</italic> disaster film of being out of control while getting a shot, this is a &#x02018;<italic>future</italic> film&#x02019;, you are the scriptwriter, the producer, the director, <italic>and</italic> the star of the show&#x0201d;.</p><p>She was encouraged to use her five senses to intensify the experience &#x0201c;<italic>as if</italic> you are really there: calmly and confidently walking into the waiting room, becoming even more relaxed and completely in control as you enter the exam room. Now notice how easily you deepen your sense of calmness by using your belly breathing and self-hypnosis when the nurse comes in to <italic>give</italic> the medicine <italic>that keeps you healthy</italic>. Pay attention to how you go so quickly to your Special Place so you can be more <italic>there where</italic> you&#x02019;d like to be, there where you <italic>don&#x02019;t care</italic> while the nurse <italic>takes care</italic> of the arm and the medicine. And, when it&#x02019;s over, then you&#x02019;ll be done, so when you&#x02019;re ready you can now return to your usual alertness and awareness&#x0201d;.</p><p>K was also taught to use self-hypnosis to get rid of &#x0201c;those warts you don&#x02019;t need anymore&#x0201d;. In each session, she experienced hypnosis so she could &#x0201c;use your imagination and creative mind to shrink yourself down in order to travel inside your body&#x0201d;. She had already been taught about the blood vessels underneath the warts. The suggestion was given to &#x0201c;decide for yourself your own special way to stop the blood supply from feeding the warts&#x0201d;. She heard a few ideas used by other children, such as a rope and lasso, a knife, a detour. Within a few moments her dominant handmade slashing gestures, as if she held a knife. Such ideomotor gestures are common during hypnosis.</p><p>K. practiced her self-hypnosis three times daily for two weeks, re-enacting the &#x0201c;scenes&#x0201d; elicited above. Upon return the warts were notably smaller, and she indicated readiness for the needed immunization. Two weeks later she returned again, wearing a lovely skirt, and proudly announced her successful experience with that immunization procedure. The warts were gone.</p></sec><sec><title>7.1.4. CASE #4: Adolescent with Chronic Daily Headache (HA)</title><p>W was 15-2/12 at the time of her first visit. She was referred by one of her two pediatric neurologists for help with chronic, daily, severe headaches.</p><p>A detailed history was taken, revealing headaches since early childhood that increased in frequency, duration, and severity over time. There was a very strong family history of migraines. Over the years, she was evaluated by many physicians at various clinics and hospitals for the continuing severe headaches triggered by &#x0201c;lack of sleep/water, MSG, scents, physical activity, thinking, breathing, living in general.&#x0201d; Diagnostic testing for autonomic dysfunction revealed no positive results. Interventions included multiple medication trials, and a recent three-month intensive inpatient rehab program that involved a comprehensive and multi-modal approach: physical therapy, &#x0201c;group biofeedback&#x0201d;, relaxation including diaphragmatic breathing, listening to music, meditation, progressive relaxation, distraction, socialization with games, reading, movies, peers and positive self-talk, and an agreement to avoid opioids and daily pain medications. There was no mention of hypnosis.</p><p>W.&#x02019;s academic history was marked by absence and numerous changes in locations and types of schooling.</p><p>During the initial visit, the typical <italic>assessment</italic> scale to measure pain severity scale was also used <italic>therapeutically</italic>. Using an agreed upon range of 0&#x02013;12 (12 = worst imaginable HA, 0 = none), her average was eight. Surprised with the question: &#x0201c;What would you <italic>prefer</italic>?&#x0201d; she replied, &#x0201c;Four or less but I don&#x02019;t think zero would be a good idea because I do feel I have this for a reason and it has enabled me to meet people.&#x0201d; When asked the last time it was <italic>zero</italic> she indicated &#x0201c;before it became daily 17 months earlier&#x0201d;.</p><p>The clinician gently corrected her by offering a <italic>re-framing idea</italic> that it is <italic>zero</italic> &#x0201c;whenever you are asleep&#x0201d; and in a purposely constructed &#x0201c;waking hypnotic suggestion&#x0201d;, the clinician said &#x0201c;So, <italic>all</italic> we have to do really is find out how to move the file in your brain called <italic>no headache</italic> from only at night to also when you&#x02019;re awake&#x0201d;. As with most patients with chronic recurrent pain, the clinician introduced the possibility of change while simultaneously assessing motivation through the use of embedded suggestions with carefully selected wording in the following questions:
+<list list-type="simple"><list-item><p>Will you miss the HA&#x02019;s when they&#x02019;re gone? &#x02794; &#x0201c;No.&#x0201d;</p></list-item><list-item><p>Is there anything good about the HA&#x02019;s? &#x02794; &#x0201c;No&#x0201d;</p></list-item><list-item><p>Do you need them for anything? &#x02794; &#x0201c;No&#x0201d;</p></list-item><list-item><p>Do you think you have had them long enough? &#x02794; &#x0201c;Yes&#x0201d;</p></list-item></list></p><p>Given W.&#x02019;s very chronic and severe headache history without relief despite multiple interventions, the clinician then set a therapeutic goal to <italic>shift her focus</italic> from over-investment in her pain to positive expectations for self-healing. W. agreed to keep a written HA diary, and was given a therapeutic suggestion &#x0201c;to track the reduced frequency and intensity. The clinician also asked W. if she &#x0201c;needed to find or know the &#x0201c;reason&#x0201d; for the HA if she could find a way for it to not bother her&#x0201d;, and she said she did NOT need to know the reason. <italic>Of course had she said she did need to know the reason, additional and alternative clinical approaches would have been the appropriate next step.</italic></p><p>During the initial visit, multiple therapeutic seeds of &#x0201c;waking suggestions&#x0201d; were planted for her consideration, including (1) pain is pain, suffering is optional; (2) pain is a signal, nothing more, nothing less; and (3) when everything that can be done and should be done, has been done, there is no reason for pain to bother. At the end of this visit the clinician again evoked positive expectations when telling W. that he was absolutely sure he could <italic>help her help herself</italic>, that everyone whom he had ever met with a HA problem had gotten better without exception, and that she was invited to leave all past, present, and future headaches in the clinician&#x02019;s file cabinet. She laughed.</p><p>At the second visit, training in hypnosis and self hypnosis began with viewing a couple of videos of youngsters both talking about and doing self-hypnosis. Induction (initiation) of hypnosis was easily accomplished with &#x0201c;favorite place imagery&#x0201d;. Suggestions for multisensory imagery along with progressive relaxation served to intensify (or &#x0201c;deepen&#x0201d;) the hypnotic experience. To amplify that self-hypnosis training emphasizes personal choice and self-control, therapeutic hypnotic suggestions for controlling HA were offered as a &#x0201c;menu&#x0201d; from which W could choose. For example, she was told &#x0201c;I don&#x02019;t know how you will lower those HA&#x02019;s that used to be there more, but somewhere in your inner mind you know how because you want to be and can be the boss of those HA&#x02019;s instead of them begin the boss of you. I&#x02019;d like to tell you some stories of how <italic>other</italic> young people got rid of <italic>their</italic> HA&#x02019;s&#x02026;.I knew this one 12-year-old boy who had migraines and he used the idea of being on an elevator, so if he had a migraine that was a &#x02019;10&#x02019;, he&#x02019;d push the button to ride down to nine, and then the light would go off at 10 and on at nine, and then eight&#x02026;.and then . . . . . . six or five . . . . . and . . . then . . . . all the way to one or zero,&#x0201d; I met this one little girl who was only five; and she had a stomach-ache problem and she didn&#x02019;t like elevators, so what <italic>she</italic> did in <italic>her</italic> imagination was imagine being on a water slide; and the 12 was at the top and the zero was at the bottom in the cool refreshing water, and whenever she had a tummy ache she would get on the water slide in her mind and zooooommmm down from 11-10-9-8-7-6-5-4-3-2-1-<underline>splash</underline>! A few years ago, I worked with a 17-year-old young woman, with migraine problems, who rode horses. To control her migraines she&#x02019;d imagine riding on the beach with the horses&#x02019; hooves gradually erasing the zero&#x02013;12 numbers in the sand. And, of course, when it got to zero it stayed there. I don&#x02019;t know which of those stories you&#x02019;ll use, or maybe some combination, or probably you&#x02019;ve already come up with a couple in your own mind from your experiences. And, like everything, the more you practice, the better you&#x02019;ll get. Whichever works best for you is the best for you.&#x0201d;</p><p>W. practiced self-hypnosis a couple of times each day as suggested. She improved gradually. She agreed to also keep a concurrent diary of &#x0201c;How am I dealing with it?&#x0201d; ratings, with zero = dealing with it best, and 12 = worst. W. soon reported much less use of medication for &#x0201c;severe&#x0201d; HA, and decrease of migraine prevention and anxiolytic medications.</p><p>By the middle of the following school year she was substantially improved. Nine months after the first visit, W. reported that her average HA rating was now down to 3.6 (from average of 8.5) and her &#x0201c;dealing with it&#x0201d; had improved 23%! to 2.3 With the intention of increasing her awareness of and empowering her own abilities the clinician asked W. &#x0201c;How did you DO that?&#x0201d; She replied &#x0201c;I am <italic>stunned</italic> it is <italic>astonishing</italic>&#x02026; I never thought I could do it&#x02026; you know, change my body with my mind. I did continue what you told me to do, so I imagine being at the cabin, and reading and then I swim in the lake and the closer I come back to shore the lower the number of my HA is and when I get to shore it&#x02019;s fine!&#x0201d;</p></sec></sec></sec><sec><title>8. Contraindications and Caveats</title><p>While the foregoing cases are representative of common conditions <italic>and</italic> common responses to hypnotic interventions, it is essential to note that not everyone responds so positively and so quickly. Like any strategic therapeutic intervention, positive rapport is essential to good clinical work, and ongoing re-evaluation, flexibility, and engagement in brainstorming with patients and families are fundamental to ultimate progress, problem resolution, and healing.</p><p>As with any clinical intervention, treatment with clinical hypnosis is not without obstacles or roadblocks. As with any skill, rehearsal (&#x0201c;practice&#x0201d;) of self-hypnosis skills enhances competence, confidence, and positive outcomes whereas absence of regular rehearsal is more likely to result in slower and/or less positive results. We give &#x0201c;homework&#x0201d; assignments involving practice of self-hypnosis, counsel parents about their level of involvement <italic>versus</italic> interference, and encourage children and youth to come to appointments <italic>with</italic> their hypnosis and not only <italic>for</italic> it. Not unlike other therapies, however, inconsistent follow-up appointments and/or inconsistent attention to home rehearsal are potential contributors to less than desired outcomes.</p><p>For some children&#x02019;s problems&#x02014;as noted in the foregoing tables, hypnosis may be clearly the treatment of choice (e.g., enuresis, migraine) and have the best &#x0201c;track record&#x0201d; compared to what might otherwise have been considered &#x0201c;traditional&#x0201d; approaches to that problem. By contrast, for other problems/conditions (e.g., behavioral and mental health issues) hypnosis may be clearly more adjunctive, but nonetheless highly valued as an important ingredient in an overall management plan (e.g., with asthma or other chronic illnesses where learning self-hypnosis may not provide &#x0201c;cure&#x0201d; or resolution, but can/will contribute to reduced morbidity such as less medication needs, fewer days missed from school, better sleep, <italic>etc.</italic>) [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>,<xref rid="B30-children-01-00074" ref-type="bibr">30</xref>].</p></sec><sec><title>9. Contraindications</title><p>There are a few absolute contraindications to the utilization of hypnosis with children, and several more relative contraindications [<xref rid="B2-children-01-00074" ref-type="bibr">2</xref>].
+<list list-type="bullet"><list-item><p>Hypnosis should not be utilized for entertainment. As we have discussed and illustrated, hypnosis is a very effective clinical tool; and often may have powerful and dramatic positive effects on medical and mental health. We strongly advocate against the use of hypnosis for public entertainment as is seen commonly during high school graduation parties.</p></list-item><list-item><p>Hypnosis should only be used by clinicians trained in the appropriate use of hypnosis and hypnotherapy and within the scope of their clinical practice. Thus, while hypnosis/hypnotherapy are very appropriate and useful adjuncts to help children with anxiety and/or discomfort during dental work, it would of course be unethical and inappropriate for a pediatrician or a psychologist who has learned hypnosis to start doing dental extractions! Of course it would be appropriate for those professionals to teach their clients how to use self-hypnosis WHEN they go to the dentist).</p></list-item></list></p><p>Analogously, though hypnosis can be a very helpful tool in treating posttraumatic stress disorder (PTSD), clinicians who learn hypnosis yet have no specialized training in treating children with PTSD should not start offering hypnosis for PTSD.
+<list list-type="bullet"><list-item><p>Hypnosis should not be used to treat a condition for which there is already a fundamentally appropriate, acceptable, accessible, and effective treatment. One example might be strep throat. Or appendicitis. Of course, however, one might well learn self-hypnosis to help allay anxiety or discomfort associated with having a throat culture; or learn methods of control of anxiety, discomfort, and return of normal bodily functions pre- and post-operatively for an appendectomy.</p></list-item><list-item><p>Hypnosis should be tailored to the developmental level and capacities of the individual child. Designing a hypnosis session to address clinical anxiety for a six-year-old would be very different for a nine-year-old. Typically, developing toddlers and those children with significantly impaired intellectual and language abilities and limited capacity for internal absorption would benefit from repetitive sensorimotor stimuli known to induce a calmer, steadier state of comfort, such as rhythmic rocking, patting, swaying, or music.</p></list-item></list></p></sec><sec><title>10. HOW?: Learning Hypnosis Skills</title><p>While this article is intended to be an overview of the value of clinical hypnosis in children, it is neither a &#x0201c;HOW to do it&#x02026;&#x0201d; nor a manual or a written suggestion to imply that clinicians reading this article can now go to the office and begin using hypnosis. Quite the contrary, even the case illustrations noted carry the <bold>notable <italic>caveat</italic></bold> that the involved experienced pediatric clinicians were very well trained in pediatric clinical hypnosis <italic>before</italic> they began to apply these skills in their clinical work.</p><p>It is our hope and intention that the foregoing will serve as a stimulus for further study, inquiry, and most importantly, for appropriate clinical skill development through training by licensed health care professionals. Pediatric-specific didactic presentations and experiential learning through supervised practice by licensed pediatric professionals are essential to the development of the expertise required to help children and families help themselves through the learning of self-hypnosis in fostering self-regulation abilities and other internal resources, as well as symptom reduction.</p><p>As briefly noted earlier, starting in 1987, a cadre of multidisciplinary faculty of licensed health care professionals began teaching what has become the longest-running pediatric clinical hypnosis workshop training in the United States, sponsored by the Society for Developmental and Behavioral Pediatrics (SDBP). Beyond those twenty-four years of workshops, the enduring and growing Faculty initiated the National Pediatric Hypnosis Training Institute (NPHTI = nifty!) in 2010 which continues to provide the tri-level pediatric hypnosis training workshops annually. Over the past 4 years over 400 child health professionals with graduate degrees have availed themselves of the NPHTI skill development workshops. These past participants, representing over forty states in the U.S.A. and seven foreign countries, include pediatricians, pediatric subspecialists (e.g., developmental-behavioral pediatricians, pediatric-trained pulmonologists, gastroenterologists, neurologists, oncologists, anesthesiologists), pediatric psychologists and child and adolescent psychiatrists, pediatric social workers, marriage and family therapists, Child Life Specialists, advanced practice pediatric nurses (e.g., clinical nurse specialists, pediatric nurse practitioners, and advanced practice RNs), and pediatric occupational therapists and physical therapists.</p><p>NPHTI is a rapidly growing professional organization open to inquiries from licensed professionals with advanced degrees and would be pleased to welcome qualified applicants to future training. (See <uri xlink:type="simple" xlink:href="www.nphti.com">www.nphti.com</uri>).</p></sec></body><back><ack><title>Acknowledgments</title><p>We are grateful to our colleagues whose research and publications cited herein make this endeavor so exciting, and to the children and families with whom we are privileged to work and teach.</p></ack><notes><title>Author Contributions</title><p>Each author contributed two of the case reports, and contributed to, reviewed, and approved the text of the manuscript.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-children-01-00074"><label>1.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Mead</surname><given-names>M.</given-names></name></person-group>
+<source>Male and Female: A Study of the Sexes in a Changing World</source>
+<publisher-name>William Morrow</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1949</year>
+</element-citation></ref><ref id="B2-children-01-00074"><label>2.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name><name><surname>Olness</surname><given-names>K.N.</given-names></name></person-group>
+<source>Hypnosis and Hypnotherapy with Children</source>
+<edition>4th ed.</edition>
+<publisher-name>Routledge Publications, Taylor &#x00026; Francis</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2011</year>
+</element-citation></ref><ref id="B3-children-01-00074"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baldwin</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Suggestion in Infancy</article-title>
+<source>Science</source>
+<year>1891</year>
+<volume>17</volume>
+<fpage>113</fpage>
+<lpage>117</lpage>
+</element-citation></ref><ref id="B4-children-01-00074"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Erickson</surname><given-names>M.H.</given-names></name></person-group>
+<article-title>Pediatric Hypnotherapy</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>1958</year>
+<volume>1</volume>
+<fpage>25</fpage>
+<lpage>29</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.1958.10401769</pub-id>
+</element-citation></ref><ref id="B5-children-01-00074"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wright</surname><given-names>M.E.</given-names></name></person-group>
+<article-title>Hypnosis and Child Therapy</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>1960</year>
+<volume>2</volume>
+<fpage>197</fpage>
+<lpage>205</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.1960.10401823</pub-id>
+</element-citation></ref><ref id="B6-children-01-00074"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baumann</surname><given-names>F.W.</given-names></name><name><surname>Hinman</surname><given-names>F.</given-names></name></person-group>
+<article-title>Treatment of incontinent boys with non-obstructive disease</article-title>
+<source>J. Urol.</source>
+<year>1974</year>
+<volume>111</volume>
+<fpage>114</fpage>
+<lpage>116</lpage>
+<pub-id pub-id-type="pmid">4813545</pub-id></element-citation></ref><ref id="B7-children-01-00074"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baumann</surname><given-names>F.W.</given-names></name></person-group>
+<article-title>Hypnosis and the adolescent drug abuser</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>1970</year>
+<volume>13</volume>
+<fpage>17</fpage>
+<lpage>21</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.1970.10402074</pub-id>
+<pub-id pub-id-type="pmid">5507272</pub-id></element-citation></ref><ref id="B8-children-01-00074"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>London</surname><given-names>P.</given-names></name><name><surname>Cooper</surname><given-names>L.M.</given-names></name></person-group>
+<article-title>Norms of hypnotic susceptibility in children</article-title>
+<source>Dev. Psychol.</source>
+<year>1969</year>
+<volume>1</volume>
+<fpage>113</fpage>
+<lpage>124</lpage>
+<pub-id pub-id-type="doi">10.1037/h0027002</pub-id>
+</element-citation></ref><ref id="B9-children-01-00074"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barber</surname><given-names>T.X.</given-names></name><name><surname>Calverley</surname><given-names>D.S.</given-names></name></person-group>
+<article-title>&#x0201c;Hypnotic-like&#x0201d; suggestibility in children</article-title>
+<source>J. Abnorm. Soc. Psychol.</source>
+<year>1963</year>
+<volume>66</volume>
+<fpage>589</fpage>
+<lpage>597</lpage>
+<pub-id pub-id-type="doi">10.1037/h0041709</pub-id>
+<pub-id pub-id-type="pmid">13966524</pub-id></element-citation></ref><ref id="B10-children-01-00074"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gardner</surname><given-names>G.G.</given-names></name></person-group>
+<article-title>Hypnotherapy in the management of childhood habit disorders</article-title>
+<source>J. Pediatr.</source>
+<year>1978</year>
+<volume>92</volume>
+<fpage>838</fpage>
+<lpage>840</lpage>
+<pub-id pub-id-type="doi">10.1016/S0022-3476(78)80171-1</pub-id>
+<pub-id pub-id-type="pmid">641639</pub-id></element-citation></ref><ref id="B11-children-01-00074"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olness</surname><given-names>K.</given-names></name></person-group>
+<article-title>The use of self-hypnosis in the treatment of childhood nocturnal enuresis. A report on forty patients</article-title>
+<source>Clin. Pediatr.</source>
+<year>1975</year>
+<volume>14</volume>
+<fpage>273</fpage>
+<lpage>279</lpage>
+</element-citation></ref><ref id="B12-children-01-00074"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zeltzer</surname><given-names>L.K.</given-names></name><name><surname>LeBaron</surname><given-names>S.</given-names></name></person-group>
+<article-title>Hypnosis and non-hypnotic techniques for reduction of pain and anxiety during painful procedures in children and adolescents with cancer</article-title>
+<source>J. Pediatr.</source>
+<year>1982</year>
+<volume>101</volume>
+<fpage>1032</fpage>
+<lpage>1035</lpage>
+<pub-id pub-id-type="doi">10.1016/S0022-3476(82)80040-1</pub-id>
+<pub-id pub-id-type="pmid">7143158</pub-id></element-citation></ref><ref id="B13-children-01-00074"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zeltzer</surname><given-names>L.K.</given-names></name><name><surname>LeBaron</surname><given-names>S.</given-names></name><name><surname>Zeltzer</surname><given-names>P.M.</given-names></name></person-group>
+<article-title>The effectiveness of behavioral intervention for reducing nausea and vomiting in children and adolescents receiving chemotherapy</article-title>
+<source>J. Clin. Oncol.</source>
+<year>1984</year>
+<volume>2</volume>
+<fpage>683</fpage>
+<lpage>690</lpage>
+<pub-id pub-id-type="pmid">6726307</pub-id></element-citation></ref><ref id="B14-children-01-00074"><label>14.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>LeBaron</surname><given-names>S.</given-names></name><name><surname>Hilgard</surname><given-names>J.R.</given-names></name></person-group>
+<source>Hypnotherapy of Pain in Children With Cancer</source>
+<publisher-name>William Kaufman</publisher-name>
+<publisher-loc>Los Altos, CA, USA</publisher-loc>
+<year>1984</year>
+</element-citation></ref><ref id="B15-children-01-00074"><label>15.</label><element-citation publication-type="commun">
+<person-group person-group-type="author"><name><surname>Olness</surname><given-names>K.N.</given-names></name><aff>Case Western Reserve University, Cleveland, OH, USA</aff></person-group>
+<source>Personal Communication</source>
+<year>2014</year>
+</element-citation></ref><ref id="B16-children-01-00074"><label>16.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Gardner</surname><given-names>G.G.</given-names></name><name><surname>Olness</surname><given-names>K.N.</given-names></name></person-group>
+<source>Hypnosis and Hypnotherapy with Children</source>
+<publisher-name>Grune and Stratton</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1981</year>
+</element-citation></ref><ref id="B17-children-01-00074"><label>17.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Olness</surname><given-names>K.N.</given-names></name><name><surname>Gardner</surname><given-names>G.G.</given-names></name></person-group>
+<source>Hypnosis and Hypnotherapy with Children</source>
+<edition>2nd ed.</edition>
+<publisher-name>Guilford Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1988</year>
+</element-citation></ref><ref id="B18-children-01-00074"><label>18.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Olness</surname><given-names>K.N.</given-names></name><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<source>Hypnosis and Hypnotherapy with Children</source>
+<publisher-name>Guilford Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1996</year>
+</element-citation></ref><ref id="B19-children-01-00074"><label>19.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Olness</surname><given-names>K.N.</given-names></name><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<source>Lehrbuch der Kinderhypnose und hypnotherapie</source>
+<publisher-name>Carl-Auer-Systeme Verlag</publisher-name>
+<year>2001</year>
+<comment>(originally published in English under the title <italic>Hypnosis and Hypnotherapy with Children</italic>, 3rd ed.; The Guilford Press: New York, NY, USA, 1996. see reference 18 above).</comment>
+</element-citation></ref><ref id="B20-children-01-00074"><label>20.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Olness</surname><given-names>K.</given-names></name><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<source>Hypnose et Hypnotherapie chez l&#x02019;enfant</source>
+<publisher-name>SATAS s.a.</publisher-name>
+<publisher-loc>Bruxelles, Belgiques</publisher-loc>
+<year>2006</year>
+<comment>(Original: <italic>Hypnosis and Hypnotherapy with Children</italic>; Olness, K., Kohen, D.P., Eds.; Guilford Press: New York, NY, USA, 1996, see #18 above).</comment>
+</element-citation></ref><ref id="B21-children-01-00074"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name><name><surname>Olness</surname><given-names>K.N.</given-names></name><name><surname>Colwell</surname><given-names>S.</given-names></name><name><surname>Heimel</surname><given-names>A.</given-names></name></person-group>
+<article-title>The use of relaxation/mental imagery (self-hypnosis) in the management of 505 pediatric behavioral encounters</article-title>
+<source>J. Dev. Behav. Pediatr.</source>
+<year>1984</year>
+<volume>1</volume>
+<fpage>21</fpage>
+<lpage>25</lpage>
+<pub-id pub-id-type="pmid">6365978</pub-id></element-citation></ref><ref id="B22-children-01-00074"><label>22.</label><element-citation publication-type="webpage">
+<person-group person-group-type="author"><name><surname>Kuttner</surname><given-names>L.</given-names></name></person-group>
+<article-title>No Fears, No Tears (29 min). DVD</article-title>
+<comment>Available online:<ext-link ext-link-type="uri" xlink:href="http://bookstore.cw.bc.ca">http://bookstore.cw.bc.ca</ext-link></comment>
+<date-in-citation>(accessed on 15 May 2014)</date-in-citation>
+</element-citation></ref><ref id="B23-children-01-00074"><label>23.</label><element-citation publication-type="webpage">
+<person-group person-group-type="author"><name><surname>Kuttner</surname><given-names>L.</given-names></name></person-group>
+<article-title>No Fears, No Tears 13 Years Later: Children Coping with Pain (46 min). DVD</article-title>
+<comment>Available online:<ext-link ext-link-type="uri" xlink:href="http://bookstore.cw.bc.ca">http://bookstore.cw.bc.ca</ext-link></comment>
+<date-in-citation>(accessed on 15 May 2014)</date-in-citation>
+</element-citation></ref><ref id="B24-children-01-00074"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuttner</surname><given-names>L.</given-names></name></person-group>
+<article-title>Favourite stories. A hypnotic pain reduction technique for children in acute pain</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>1988</year>
+<volume>30</volume>
+<fpage>289</fpage>
+<lpage>295</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.1988.10402752</pub-id>
+<pub-id pub-id-type="pmid">3364392</pub-id></element-citation></ref><ref id="B25-children-01-00074"><label>25.</label><element-citation publication-type="webpage">
+<person-group person-group-type="author"><name><surname>Kuttner</surname><given-names>L.</given-names></name></person-group>
+<article-title><italic>Making Every Moment Count Documentary</italic> (38 min); Co-production with The National Film Board of Canada, 2003</article-title>
+<comment>Available online:<ext-link ext-link-type="uri" xlink:href="www.nfb.ca">www.nfb.ca</ext-link></comment>
+<date-in-citation>(accessed on 15 May 2014)</date-in-citation>
+</element-citation></ref><ref id="B26-children-01-00074"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olness</surname><given-names>K.N.</given-names></name><name><surname>Culbert</surname><given-names>T.C.</given-names></name><name><surname>Uden</surname><given-names>D.</given-names></name></person-group>
+<article-title>Self-regulation of salivary immunoglobulin A by children</article-title>
+<source>Pediatrics</source>
+<year>1989</year>
+<volume>83</volume>
+<fpage>66</fpage>
+<lpage>71</lpage>
+<pub-id pub-id-type="pmid">2642622</pub-id></element-citation></ref><ref id="B27-children-01-00074"><label>27.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Sugarman</surname><given-names>L.I.</given-names></name></person-group>
+<source>Hypnosis in Pediatric Practice: Imaginative Medicine in Action</source>
+<comment>DVD and booklet</comment>
+<publisher-name>Crown House Publishing</publisher-name>
+<publisher-loc>Carmarthen, Wales, UK</publisher-loc>
+<year>2006</year>
+</element-citation></ref><ref id="B28-children-01-00074"><label>28.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Thomson</surname><given-names>L.</given-names></name></person-group>
+<source>Harry Hypno-Potamus: Metaphorical Tales for Pediatric Problems</source>
+<publisher-name>Crown House Publishing Bancyfelin</publisher-name>
+<publisher-loc>Carmarthen, UK</publisher-loc>
+<year>2005</year>
+</element-citation></ref><ref id="B29-children-01-00074"><label>29.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Thomson</surname><given-names>L.</given-names></name></person-group>
+<source>Harry Hypno-Potamus: More Metaphorical Tales for Pediatric Problems</source>
+<publisher-name>Crown House Publishing</publisher-name>
+<publisher-loc>Bancyfelin, Carmarthen, UK</publisher-loc>
+<year>2009</year>
+<volume>Volume 2</volume>
+</element-citation></ref><ref id="B30-children-01-00074"><label>30.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Sugarman</surname><given-names>L.I.</given-names></name><name><surname>Wester</surname><given-names>W.C.</given-names></name></person-group>
+<source>Therapeutic Hypnosis with Children and Adolescents</source>
+<edition>2nd ed.</edition>
+<publisher-name>Crown House Publishing</publisher-name>
+<publisher-loc>Bancyfelin Carmarthen, Wales, UK</publisher-loc>
+<year>2014</year>
+</element-citation></ref><ref id="B31-children-01-00074"><label>31.</label><element-citation publication-type="webpage">
+<article-title>National Pediatric Hypnosis Training Institute</article-title>
+<comment>Available online:<ext-link ext-link-type="uri" xlink:href="www.nphti.com">www.nphti.com</ext-link></comment>
+<date-in-citation>(accessed on 20 May 2014)</date-in-citation>
+</element-citation></ref><ref id="B32-children-01-00074"><label>32.</label><element-citation publication-type="webpage">
+<person-group person-group-type="author"><name><surname>Trenkle</surname><given-names>B.</given-names></name></person-group>
+<article-title>Kindertagung History&#x02014;Heidelberg, Germany</article-title>
+<source>Personal Communication</source>
+<month>5</month>
+<year>2014</year>
+<comment>Available online:<ext-link ext-link-type="uri" xlink:href="http://www.trenkle-organisation.de">http://www.trenkle-organisation.de</ext-link></comment>
+<date-in-citation>(accessed on 21 May 2014)</date-in-citation>
+</element-citation></ref><ref id="B33-children-01-00074"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<article-title>Relaxation/Mental imagery (self-hypnosis) for childhood asthma: Behavioral outcomes in a prospective, controlled study</article-title>
+<source>Hypnos</source>
+<year>1995</year>
+<volume>22</volume>
+<fpage>132</fpage>
+<lpage>143</lpage>
+</element-citation></ref><ref id="B34-children-01-00074"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name><name><surname>Wynne</surname><given-names>E.</given-names></name></person-group>
+<article-title>Applying hypnosis in a preschool family asthma education program: Uses of storytelling, imagery and relaxation</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>1997</year>
+<volume>39</volume>
+<fpage>2</fpage>
+<lpage>14</lpage>
+</element-citation></ref><ref id="B35-children-01-00074"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name><name><surname>Botts</surname><given-names>P.</given-names></name></person-group>
+<article-title>Relaxation-imagery (self-hypnosis) in Tourette syndrome: Experience with four children</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>1987</year>
+<volume>29</volume>
+<fpage>227</fpage>
+<lpage>237</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.1987.10402701</pub-id>
+<pub-id pub-id-type="pmid">3296729</pub-id></element-citation></ref><ref id="B36-children-01-00074"><label>36.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Lynn</surname><given-names>S.J.</given-names></name><name><surname>Rhue</surname><given-names>J.W.</given-names></name></person-group>
+<source>Theories of Hypnosis: Current Models and Perspectives</source>
+<publisher-name>Guilford Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1991</year>
+</element-citation></ref><ref id="B37-children-01-00074"><label>37.</label><element-citation publication-type="webpage">
+<article-title>The Society of Psychological Hypnosis, Division 30 of the American Psychological Association</article-title>
+<comment>Available online:<ext-link ext-link-type="uri" xlink:href="http://psychologicalhypnosis.com/info/">http://psychologicalhypnosis.com/info/</ext-link></comment>
+<date-in-citation>(accessed on 5 May 2014)</date-in-citation>
+</element-citation></ref><ref id="B38-children-01-00074"><label>38.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Sugarman</surname><given-names>L.I.</given-names></name></person-group>
+<article-title>Re-Thinking Hypnosis/Refining Utilization</article-title>
+<source>Proceedings of Intermediate Pediatric Hypnosis Workshop&#x02014;National Pediatric Hypnosis Training Institute</source>
+<conf-loc>Minneapolis, MN, USA</conf-loc>
+<conf-date>3 October 2013</conf-date>
+</element-citation></ref><ref id="B39-children-01-00074"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rainville</surname><given-names>P.</given-names></name><name><surname>Carrier</surname><given-names>B.</given-names></name><name><surname>Hoffbauer</surname><given-names>R.K.</given-names></name><name><surname>Bushnell</surname><given-names>M.C.</given-names></name><name><surname>Duncan</surname><given-names>G.H.</given-names></name></person-group>
+<article-title>Dissociation of sensory and affective dimensions of pain using hypnotic modulation</article-title>
+<source>Pain</source>
+<year>2001</year>
+<volume>82</volume>
+<fpage>159</fpage>
+<lpage>171</lpage>
+<pub-id pub-id-type="pmid">10467921</pub-id></element-citation></ref><ref id="B40-children-01-00074"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raz</surname><given-names>A.</given-names></name></person-group>
+<article-title>Does neuroimaging of suggestion elucidate hypnotic trance?</article-title>
+<source>Int. J. Clin. Exp. Hypn.</source>
+<year>2011</year>
+<volume>59</volume>
+<fpage>363</fpage>
+<lpage>377</lpage>
+<pub-id pub-id-type="doi">10.1080/00207144.2011.570682</pub-id>
+<pub-id pub-id-type="pmid">21644126</pub-id></element-citation></ref><ref id="B41-children-01-00074"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wagstaff</surname><given-names>G.F.</given-names></name></person-group>
+<article-title>On the centrality of the concept of an altered state to definitions of hypnosis</article-title>
+<source>J. Mind-Body Regul.</source>
+<year>2014</year>
+<volume>2</volume>
+<fpage>90</fpage>
+<lpage>108</lpage>
+</element-citation></ref><ref id="B42-children-01-00074"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaiser</surname><given-names>P.</given-names></name></person-group>
+<article-title>Chlldhood Anxiety, Worry, and Fear: Individualizing Hypnosis Goals and Suggestions for Self-Regulation</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>2011</year>
+<volume>54</volume>
+<fpage>16</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.2011.575965</pub-id>
+<pub-id pub-id-type="pmid">21922709</pub-id></element-citation></ref><ref id="B43-children-01-00074"><label>43.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Berger</surname><given-names>A.</given-names></name></person-group>
+<source>Self-Regulation: Brain, Cognition, and Development</source>
+<publisher-name>American Psychological Association</publisher-name>
+<publisher-loc>Washington, DC, USA</publisher-loc>
+<year>2011</year>
+</element-citation></ref><ref id="B44-children-01-00074"><label>44.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Hall</surname><given-names>H.</given-names></name></person-group>
+<article-title>Resources for Future Training</article-title>
+<source>Presented at National Pediatric Hypnosis Training Institute Introductory Workshop</source>
+<conf-loc>Chaska, MN, USA</conf-loc>
+<conf-date>5 October 2013</conf-date>
+</element-citation></ref><ref id="B45-children-01-00074"><label>45.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<article-title>A pediatric perspective on mind-body medicine</article-title>
+<source>Integrative Pediatrics</source>
+<person-group person-group-type="editor"><name><surname>Culbert</surname><given-names>T.P.</given-names></name><name><surname>Olness</surname><given-names>K.</given-names></name></person-group>
+<publisher-name>Oxford University Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2010</year>
+<fpage>267</fpage>
+<lpage>301</lpage>
+</element-citation></ref><ref id="B46-children-01-00074"><label>46.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Yapko</surname><given-names>M.D.</given-names></name></person-group>
+<source>Trancework: An Introduction to the Practice of Clinical Hypnosis</source>
+<edition>4th ed.</edition>
+<publisher-name>Routledge</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2012</year>
+</element-citation></ref><ref id="B47-children-01-00074"><label>47.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Benson</surname><given-names>H.</given-names></name></person-group>
+<source>The Relaxation Response</source>
+<edition>2nd ed.</edition>
+<publisher-name>Avon Books</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1990</year>
+</element-citation></ref><ref id="B48-children-01-00074"><label>48.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<article-title>Interview and demonstration of Relaxation and Mental Imagery for an 11 y.o. Boy (John H.) with Asthma and Anxiety</article-title>
+<publisher-loc>Minneapolis, MN, USA</publisher-loc>
+<year>1996</year>
+</element-citation></ref><ref id="B49-children-01-00074"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olness</surname><given-names>K.</given-names></name><name><surname>MacDonald</surname><given-names>J.T.</given-names></name><name><surname>Uden</surname><given-names>D.L.</given-names></name></person-group>
+<article-title>Comparison of self-hypnosis and propranolol in the treatment of juvenile classic migraine</article-title>
+<source>Pediatrics</source>
+<year>1987</year>
+<volume>79</volume>
+<fpage>593</fpage>
+<lpage>597</lpage>
+<pub-id pub-id-type="pmid">3822681</pub-id></element-citation></ref><ref id="B50-children-01-00074"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dikel</surname><given-names>W.</given-names></name><name><surname>Olness</surname><given-names>K.</given-names></name></person-group>
+<article-title>Self-hypnosis, biofeedback, and voluntary peripheral temperature control in children</article-title>
+<source>Pediatrics</source>
+<year>1980</year>
+<volume>66</volume>
+<fpage>335</fpage>
+<lpage>340</lpage>
+<pub-id pub-id-type="pmid">7422423</pub-id></element-citation></ref><ref id="B51-children-01-00074"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olness</surname><given-names>K.N.</given-names></name><name><surname>Conroy</surname><given-names>M.</given-names></name></person-group>
+<article-title>Voluntary control of transcutaneous pO2 by children</article-title>
+<source>Int. J. Clin. Exp. Hypn.</source>
+<year>1985</year>
+<volume>33</volume>
+<fpage>1</fpage>
+<lpage>5</lpage>
+<pub-id pub-id-type="doi">10.1080/00207148508406630</pub-id>
+<pub-id pub-id-type="pmid">3988382</pub-id></element-citation></ref><ref id="B52-children-01-00074"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name><name><surname>Ondich</surname><given-names>S.</given-names></name></person-group>
+<article-title>Children&#x02019;s self-regulation of cardiovascular function with relaxation mental imagery (self-hypnosis): Report of a controlled study</article-title>
+<source>Hypnos: J. Eur. Soc. Hypn. Psychother. Psychosom. Med.</source>
+<year>2004</year>
+<volume>31</volume>
+<fpage>61</fpage>
+<lpage>74</lpage>
+</element-citation></ref><ref id="B53-children-01-00074"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>L.H.</given-names></name><name><surname>Olness</surname><given-names>K.N.</given-names></name></person-group>
+<article-title>Effects of self-induced mental imagery on autonomic reactivity in children</article-title>
+<source>J. Dev. Behav. Pediatr.</source>
+<year>1996</year>
+<volume>17</volume>
+<fpage>323</fpage>
+<lpage>327</lpage>
+<pub-id pub-id-type="doi">10.1097/00004703-199610000-00006</pub-id>
+<pub-id pub-id-type="pmid">8897220</pub-id></element-citation></ref><ref id="B54-children-01-00074"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anbar</surname><given-names>R.D.</given-names></name></person-group>
+<article-title>Self-hypnosis for patients with cystic fibrosis</article-title>
+<source>Pediatr. Pulm.</source>
+<year>2000</year>
+<volume>30</volume>
+<fpage>461</fpage>
+<lpage>465</lpage>
+<pub-id pub-id-type="doi">10.1002/1099-0496(200012)30:6&#x0003c;461::AID-PPUL4&#x0003e;3.0.CO;2-4</pub-id>
+</element-citation></ref><ref id="B55-children-01-00074"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olness</surname><given-names>K.N.</given-names></name></person-group>
+<article-title>Imagery (self-hypnosis) as adjunctive therapy in childhood cancer: Clinical experience with 25 patients</article-title>
+<source>Am. J. Pediatr. Hem./Onc.</source>
+<year>1981</year>
+<volume>3</volume>
+<fpage>313</fpage>
+<lpage>321</lpage>
+</element-citation></ref><ref id="B56-children-01-00074"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jacknow</surname><given-names>D.S.</given-names></name><name><surname>Tschann</surname><given-names>J.M.</given-names></name><name><surname>Link</surname><given-names>M.P.</given-names></name><name><surname>Boyce</surname><given-names>W.T.</given-names></name></person-group>
+<article-title>Hypnosis in the prevention of chemotherapy&#x02014;Related nausea and vomiting in children: A prospective study</article-title>
+<source>J. Dev. Behav. Pediatr.</source>
+<year>1994</year>
+<volume>15</volume>
+<fpage>22</fpage>
+<lpage>306</lpage>
+</element-citation></ref><ref id="B57-children-01-00074"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name><name><surname>Zajac</surname><given-names>R.</given-names></name></person-group>
+<article-title>Self-hypnosis training for headaches in children and adolescents</article-title>
+<source>J. Pediatr.</source>
+<year>2007</year>
+<volume>150</volume>
+<fpage>635</fpage>
+<lpage>639</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpeds.2007.02.014</pub-id>
+<pub-id pub-id-type="pmid">17517250</pub-id></element-citation></ref><ref id="B58-children-01-00074"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<article-title>Long-term follow-up of self-hypnosis training for recurrent headaches: What the children say</article-title>
+<source>Int. J. Clin. Exp. Hypn.</source>
+<year>2010</year>
+<volume>58</volume>
+<fpage>417</fpage>
+<lpage>432</lpage>
+<pub-id pub-id-type="doi">10.1080/00207144.2010.499342</pub-id>
+<pub-id pub-id-type="pmid">20799121</pub-id></element-citation></ref><ref id="B59-children-01-00074"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sugarman</surname><given-names>L.I.</given-names></name><name><surname>Garrison</surname><given-names>B.L.</given-names></name><name><surname>Williford</surname><given-names>K.L.</given-names></name></person-group>
+<article-title>Symptoms as solutions: Hypnosis and biofeedback for autonomic regulation in autism spectrum disorders</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>2013</year>
+<volume>56</volume>
+<fpage>152</fpage>
+<lpage>173</lpage>
+<pub-id pub-id-type="pmid">24665817</pub-id></element-citation></ref><ref id="B60-children-01-00074"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<article-title>Management of trichotillomania with relaxation/mental imagery (self-hypnosis): Experience with five children</article-title>
+<source>J. Dev. Behav. Pediatr.</source>
+<year>1996</year>
+<volume>17</volume>
+<fpage>328</fpage>
+<lpage>334</lpage>
+<pub-id pub-id-type="doi">10.1097/00004703-199610000-00007</pub-id>
+<pub-id pub-id-type="pmid">8897221</pub-id></element-citation></ref><ref id="B61-children-01-00074"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thomson</surname><given-names>L.</given-names></name></person-group>
+<article-title>Hypnosis for habit disorders. Helping children help themselves</article-title>
+<source>Adv. Nurse Pract.</source>
+<year>2002</year>
+<volume>10</volume>
+<fpage>59</fpage>
+<lpage>62</lpage>
+<pub-id pub-id-type="pmid">12420554</pub-id></element-citation></ref><ref id="B62-children-01-00074"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gottsegen</surname><given-names>D.N.</given-names></name></person-group>
+<article-title>Curing bedwetting on the spot: A review of one session cures</article-title>
+<source>Clin. Pediatr. (Phila)</source>
+<year>2003</year>
+<volume>42</volume>
+<fpage>273</fpage>
+<lpage>275</lpage>
+<pub-id pub-id-type="doi">10.1177/000992280304200312</pub-id>
+<pub-id pub-id-type="pmid">12739927</pub-id></element-citation></ref><ref id="B63-children-01-00074"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anbar</surname><given-names>R.D.</given-names></name><name><surname>Hall</surname><given-names>H.R.</given-names></name></person-group>
+<article-title>Childhood habit cough treated with self-hypnosis</article-title>
+<source>J. Pediatr.</source>
+<year>2004</year>
+<volume>144</volume>
+<fpage>213</fpage>
+<lpage>217</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpeds.2003.10.041</pub-id>
+<pub-id pub-id-type="pmid">14760264</pub-id></element-citation></ref><ref id="B64-children-01-00074"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shenefelt</surname><given-names>P.D.</given-names></name></person-group>
+<article-title>Using hypnosis to facilitate resolution of psychogenic excoriations in acne excoriee</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>2004</year>
+<volume>46</volume>
+<fpage>239</fpage>
+<lpage>245</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.2004.10403603</pub-id>
+<pub-id pub-id-type="pmid">15190729</pub-id></element-citation></ref><ref id="B65-children-01-00074"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anbar</surname><given-names>R.D.</given-names></name></person-group>
+<article-title>User friendly hypnosis as an adjunct for treatment of habit cough: A case report</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>2007</year>
+<volume>50</volume>
+<fpage>171</fpage>
+<lpage>175</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.2007.10401613</pub-id>
+<pub-id pub-id-type="pmid">18030928</pub-id></element-citation></ref><ref id="B66-children-01-00074"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cyr</surname><given-names>L.R.</given-names></name><name><surname>Culbert</surname><given-names>T.</given-names></name><name><surname>Kaiser</surname><given-names>P.</given-names></name></person-group>
+<article-title>Helping children with stress and anxiety: An integrative medicine approach</article-title>
+<source>Biofeedback</source>
+<year>2003</year>
+<volume>31</volume>
+<fpage>12</fpage>
+<lpage>17</lpage>
+</element-citation></ref><ref id="B67-children-01-00074"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tschann</surname><given-names>J.</given-names></name><name><surname>Kaiser</surname><given-names>P.</given-names></name><name><surname>Boyce</surname><given-names>W.T.</given-names></name><name><surname>Chesney</surname><given-names>M.A.</given-names></name><name><surname>Alkon-Leonard</surname><given-names>A.</given-names></name></person-group>
+<article-title>Resilience and vulnerability among preschoolers: Family functioning, temperament, and behavior problems</article-title>
+<source>J. Child Adol. Psychiatry</source>
+<year>1996</year>
+<volume>35</volume>
+<fpage>184</fpage>
+<lpage>192</lpage>
+</element-citation></ref><ref id="B68-children-01-00074"><label>68.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Culbert</surname><given-names>T.</given-names></name><name><surname>Richtsmeier-Cyr</surname><given-names>L.</given-names></name></person-group>
+<article-title>Pediatric Mind/Body Medicine: The Hypnosis/Biofeedback Interface. (Entire Issue)</article-title>
+<source>Biofeedback Newsmagazine of the AAPB</source>
+<person-group person-group-type="editor"><name><surname>Culbert</surname><given-names>T.</given-names></name><name><surname>Richtsmeier-Cyr</surname><given-names>L.</given-names></name></person-group>
+<publisher-name>The Association for Applied Psychophysiology and Biofeedback (AAPB)</publisher-name>
+<publisher-loc>Wheat Ridge, CO, USA</publisher-loc>
+<year>2005</year>
+</element-citation></ref><ref id="B69-children-01-00074"><label>69.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Olness</surname><given-names>K.</given-names></name></person-group>
+<article-title>Self control and regulation</article-title>
+<source>Developmental Behavioral Pediatrics</source>
+<edition>4th ed.</edition>
+<person-group person-group-type="editor"><name><surname>Carey</surname><given-names>W.</given-names></name><name><surname>Crocker</surname><given-names>A.</given-names></name><name><surname>Elias</surname><given-names>E.</given-names></name><name><surname>Feldman</surname><given-names>H.</given-names></name><name><surname>Coleman</surname><given-names>W.</given-names></name></person-group>
+<publisher-name>Saunders</publisher-name>
+<publisher-loc>Philadelphia, PA, USA</publisher-loc>
+<year>2009</year>
+</element-citation></ref><ref id="B70-children-01-00074"><label>70.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Yapko</surname><given-names>M.</given-names></name></person-group>
+<source>Mindfulness and Hypnosis: The Power of Suggestion to Transform Experience</source>
+<publisher-name>W.W. Norton &#x00026; Co.</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2011</year>
+</element-citation></ref><ref id="B71-children-01-00074"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<article-title>Chronic daily headache: Helping adolescents help themselves with self-hypnosis</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>2011</year>
+<volume>54</volume>
+<fpage>32</fpage>
+<lpage>46</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.2011.566767</pub-id>
+<pub-id pub-id-type="pmid">21922710</pub-id></element-citation></ref><ref id="B72-children-01-00074"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Labaw</surname><given-names>W.L.</given-names></name></person-group>
+<article-title>Auto-hypnosis in hemophilia</article-title>
+<source>Haematologia</source>
+<year>1975</year>
+<volume>9</volume>
+<fpage>103</fpage>
+<lpage>110</lpage>
+<pub-id pub-id-type="pmid">1230395</pub-id></element-citation></ref><ref id="B73-children-01-00074"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anbar</surname><given-names>R.D.</given-names></name></person-group>
+<article-title>Self-hypnosis for anxiety associated with severe asthma: A case report</article-title>
+<source>BMC Pediatr.</source>
+<year>2003</year>
+<volume>3</volume>
+<fpage>7</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2431-3-7</pub-id>
+<pub-id pub-id-type="pmid">12875663</pub-id></element-citation></ref><ref id="B74-children-01-00074"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hackman</surname><given-names>R.M.</given-names></name><name><surname>Stern</surname><given-names>J.S.</given-names></name><name><surname>Gershwin</surname><given-names>M.E.</given-names></name></person-group>
+<article-title>Hypnosis and asthma: A critical review</article-title>
+<source>J. Asthma.</source>
+<year>2000</year>
+<volume>b37</volume>
+<fpage>1</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="doi">10.3109/02770900009055424</pub-id>
+<pub-id pub-id-type="pmid">10724294</pub-id></element-citation></ref><ref id="B75-children-01-00074"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Culbert</surname><given-names>T.</given-names></name><name><surname>Kajander</surname><given-names>R.</given-names></name><name><surname>Kohen</surname><given-names>D.</given-names></name><name><surname>Reaney</surname><given-names>J.</given-names></name></person-group>
+<article-title>Hypnobehavioral approaches for school-age children with dysphagia and food aversion</article-title>
+<source>J. Dev. Behav. Pediatr.</source>
+<year>1996</year>
+<volume>17</volume>
+<fpage>335</fpage>
+<lpage>341</lpage>
+<pub-id pub-id-type="doi">10.1097/00004703-199610000-00008</pub-id>
+<pub-id pub-id-type="pmid">8897222</pub-id></element-citation></ref><ref id="B76-children-01-00074"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gottsegen</surname><given-names>D.</given-names></name></person-group>
+<article-title>Hypnosis for functional abdominal pain</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>2011</year>
+<volume>54</volume>
+<fpage>56</fpage>
+<lpage>69</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.2011.575964</pub-id>
+<pub-id pub-id-type="pmid">21922712</pub-id></element-citation></ref><ref id="B77-children-01-00074"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuttner</surname><given-names>L.</given-names></name><name><surname>Chambers</surname><given-names>C.T.</given-names></name><name><surname>Hardial</surname><given-names>J.</given-names></name><name><surname>Israel</surname><given-names>D.M.</given-names></name><name><surname>Jacobsen</surname><given-names>K.</given-names></name><name><surname>Evans</surname><given-names>K.</given-names></name></person-group>
+<article-title>A randomized trial of yoga for adolescents with irritable bowel syndrome</article-title>
+<source>Pain Res. Manag.</source>
+<year>2006</year>
+<volume>11</volume>
+<fpage>217</fpage>
+<lpage>223</lpage>
+<pub-id pub-id-type="pmid">17149454</pub-id></element-citation></ref><ref id="B78-children-01-00074"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vlieger</surname><given-names>A.M.</given-names></name><name><surname>Menko-Frankenhuis</surname><given-names>C.</given-names></name><name><surname>Wolfkamp</surname><given-names>S.C.S.</given-names></name></person-group>
+<article-title>Hypnotherapy for children with functional abdominal pain or Irritable Bowel Syndrome: A randomized controlled trial</article-title>
+<source>Gastroenterology</source>
+<year>2007</year>
+<volume>133</volume>
+<fpage>1430</fpage>
+<lpage>1436</lpage>
+<pub-id pub-id-type="doi">10.1053/j.gastro.2007.08.072</pub-id>
+<pub-id pub-id-type="pmid">17919634</pub-id></element-citation></ref><ref id="B79-children-01-00074"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pendergrast</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Imagine Something Different</article-title>
+<source>Arch. Pediatr. Adolesc. Med.</source>
+<year>2003</year>
+<volume>157</volume>
+<fpage>325</fpage>
+<lpage>326</lpage>
+<pub-id pub-id-type="doi">10.1001/archpedi.157.4.325</pub-id>
+<pub-id pub-id-type="pmid">12695225</pub-id></element-citation></ref><ref id="B80-children-01-00074"><label>80.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<article-title>Ericksonian communication and hypnotic strategies in the management of tics and Tourette syndrome in children and adolescents with Tourette syndrome</article-title>
+<source>Difficult Contexts for Therapy&#x02014;Ericksonian Monographs</source>
+<person-group person-group-type="editor"><name><surname>Lankton</surname><given-names>S.R.</given-names></name><name><surname>Zeig</surname><given-names>J.K.</given-names></name></person-group>
+<publisher-name>Brunner/Mazel</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1995</year>
+<volume>Volume 10</volume>
+<fpage>117</fpage>
+<lpage>142</lpage>
+</element-citation></ref><ref id="B81-children-01-00074"><label>81.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kuttner</surname><given-names>L.</given-names></name></person-group>
+<article-title>Pain&#x02014;An integrative approach</article-title>
+<source>Oxford Textbook of Palliative Care for Children</source>
+<person-group person-group-type="editor"><name><surname>Goldman</surname><given-names>A.</given-names></name><name><surname>Hain</surname><given-names>R.</given-names></name><name><surname>Liben</surname><given-names>S.</given-names></name></person-group>
+<publisher-name>Oxford University Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2006</year>
+<fpage>332</fpage>
+<lpage>341</lpage>
+</element-citation></ref><ref id="B82-children-01-00074"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berberich</surname><given-names>F.R.</given-names></name><name><surname>Landman</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Reducing immunization discomfort in 4- to 6-year-old children: A randomized clinical trial</article-title>
+<source>Pediatrics</source>
+<year>2009</year>
+<volume>124</volume>
+<fpage>e203</fpage>
+<lpage>e209</lpage>
+<pub-id pub-id-type="doi">10.1542/peds.2007-3466</pub-id>
+<pub-id pub-id-type="pmid">19596729</pub-id></element-citation></ref><ref id="B83-children-01-00074"><label>83.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Myers</surname><given-names>C.D.</given-names></name><name><surname>Bergman</surname><given-names>J.</given-names></name><name><surname>Zeltzer</surname><given-names>L.K.</given-names></name></person-group>
+<article-title>Complementary and alternative medicine use in children with cancer</article-title>
+<source>Psychosocial Aspects of Pediatric Oncology</source>
+<person-group person-group-type="editor"><name><surname>Kreitler</surname><given-names>S.</given-names></name><name><surname>Arush</surname><given-names>M.B.</given-names></name></person-group>
+<publisher-name>John Wiley and Sons</publisher-name>
+<publisher-loc>Hoboken, NJ, USA</publisher-loc>
+<year>2004</year>
+<fpage>335</fpage>
+<lpage>350</lpage>
+</element-citation></ref><ref id="B84-children-01-00074"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zeltzer</surname><given-names>L.K.</given-names></name><name><surname>Dolgin</surname><given-names>M.J.</given-names></name><name><surname>LeBaron</surname><given-names>S.</given-names></name><name><surname>LeBaron</surname><given-names>C.</given-names></name></person-group>
+<article-title>A randomized, controlled study of behavioral intervention for chemotherapy distress in children with cancer</article-title>
+<source>Pediatrics</source>
+<year>1991</year>
+<volume>88</volume>
+<fpage>34</fpage>
+<lpage>42</lpage>
+<pub-id pub-id-type="pmid">2057271</pub-id></element-citation></ref><ref id="B85-children-01-00074"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anbar</surname><given-names>R.D.</given-names></name></person-group>
+<article-title>Self-hypnosis for management of chronic dyspnea in pediatric patients</article-title>
+<source>Pediatrics</source>
+<year>2001</year>
+<volume>107</volume>
+<fpage>395</fpage>
+<lpage>396</lpage>
+<pub-id pub-id-type="doi">10.1542/peds.107.2.e21</pub-id>
+</element-citation></ref><ref id="B86-children-01-00074"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Antich</surname><given-names>J.L.S.</given-names></name></person-group>
+<article-title>The use of hypnosis in pediatric anesthesia</article-title>
+<source>J. Am. Soc. Psychosom. Dent. Med.</source>
+<year>1967</year>
+<volume>14</volume>
+<fpage>70</fpage>
+<lpage>73</lpage>
+<pub-id pub-id-type="pmid">5232840</pub-id></element-citation></ref><ref id="B87-children-01-00074"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bernstein</surname><given-names>N.R.</given-names></name></person-group>
+<article-title>Observations on the use of hypnosis with burned children on a pediatric ward</article-title>
+<source>Int. J. Clin. Exp. Hypn.</source>
+<year>1965</year>
+<volume>13</volume>
+<fpage>1</fpage>
+<lpage>10</lpage>
+<pub-id pub-id-type="doi">10.1080/00207146508412920</pub-id>
+<pub-id pub-id-type="pmid">14255620</pub-id></element-citation></ref><ref id="B88-children-01-00074"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Butler</surname><given-names>L.D.</given-names></name><name><surname>Symons</surname><given-names>B.K.</given-names></name><name><surname>Henderson</surname><given-names>S.L.</given-names></name><name><surname>Shortliffe</surname><given-names>L.D.</given-names></name><name><surname>Spiegel</surname><given-names>D.</given-names></name></person-group>
+<article-title>Hypnosis Reduces Distress and Duration of an Invasive Medical Procedure for Children</article-title>
+<source>Pediatrics</source>
+<year>2005</year>
+<volume>115</volume>
+<fpage>77</fpage>
+<lpage>85</lpage>
+</element-citation></ref><ref id="B89-children-01-00074"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>French</surname><given-names>G.M.</given-names></name><name><surname>Painter</surname><given-names>E.C.</given-names></name><name><surname>Coury</surname><given-names>D.L.</given-names></name></person-group>
+<article-title>Blowing away shot pain: A technique for pain management during immunization</article-title>
+<source>Pediatrics</source>
+<year>1994</year>
+<volume>93</volume>
+<fpage>384</fpage>
+<lpage>390</lpage>
+<pub-id pub-id-type="pmid">8115196</pub-id></element-citation></ref><ref id="B90-children-01-00074"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<article-title>Applications of relaxation/mental imagery (self-hypnosis) in pediatric emergencies</article-title>
+<source>Int. J. Clin. Exp. Hypn.</source>
+<year>1996</year>
+<volume>34</volume>
+<fpage>283</fpage>
+<lpage>294</lpage>
+<pub-id pub-id-type="doi">10.1080/00207148608406994</pub-id>
+<pub-id pub-id-type="pmid">3542845</pub-id></element-citation></ref><ref id="B91-children-01-00074"><label>91.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kuttner</surname><given-names>L.</given-names></name></person-group>
+<source>A Child in Pain: How to Help: What Health Professionals Can Do to Help Crown</source>
+<publisher-name>House Publishing</publisher-name>
+<publisher-loc>Bethel, CT, USA</publisher-loc>
+<year>2010</year>
+</element-citation></ref><ref id="B92-children-01-00074"><label>92.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tsao</surname><given-names>J.C.I.</given-names></name><name><surname>Meldrum</surname><given-names>M.</given-names></name><name><surname>Kim</surname><given-names>S.C.</given-names></name><name><surname>Jacob</surname><given-names>M.C.</given-names></name></person-group>
+<article-title>Treatment preferences for CAM in pediatric chronic pain patients</article-title>
+<source>Evid.-Based Complement. Altern. Med.</source>
+<year>2007</year>
+<volume>4</volume>
+<fpage>367</fpage>
+<lpage>374</lpage>
+<pub-id pub-id-type="doi">10.1093/ecam/nel084</pub-id>
+</element-citation></ref><ref id="B93-children-01-00074"><label>93.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Uman</surname><given-names>L.S.</given-names></name><name><surname>Chambers</surname><given-names>C.T.</given-names></name><name><surname>McGrath</surname><given-names>P.J.</given-names></name><name><surname>Kisely</surname><given-names>S.A.</given-names></name></person-group>
+<article-title>A systematic review of randomized controlled trials examining psychological interventions for needle-related procedural pain and distress in children and adolescents: An abbreviated Cochrane Review</article-title>
+<source>J. Pediatr. Psychol.</source>
+<year>2008</year>
+<volume>33</volume>
+<fpage>842</fpage>
+<lpage>854</lpage>
+<pub-id pub-id-type="doi">10.1093/jpepsy/jsn031</pub-id>
+<pub-id pub-id-type="pmid">18387963</pub-id></element-citation></ref><ref id="B94-children-01-00074"><label>94.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaiser</surname><given-names>P.</given-names></name></person-group>
+<article-title>Childhood anxiety and psychophysiological reactivity: Hypnosis to build discrimination and self-regulation skills</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>2014</year>
+<volume>56</volume>
+<fpage>343</fpage>
+<lpage>367</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.2014.884487</pub-id>
+<pub-id pub-id-type="pmid">24938076</pub-id></element-citation></ref><ref id="B95-children-01-00074"><label>95.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spies</surname><given-names>G.</given-names></name></person-group>
+<article-title>Desensitization of test anxiety: Hypnosis compared with biofeedback</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>1979</year>
+<volume>22</volume>
+<fpage>108</fpage>
+<lpage>111</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.1979.10403207</pub-id>
+<pub-id pub-id-type="pmid">44106</pub-id></element-citation></ref><ref id="B96-children-01-00074"><label>96.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kuttner</surname><given-names>L.</given-names></name><name><surname>Friedrichsdorf</surname><given-names>S.J.</given-names></name></person-group>
+<source>Hypnosis and palliative care In Therapeutic Hypnosis with Children and Adolescents</source>
+<edition>2nd ed.</edition>
+<person-group person-group-type="editor"><name><surname>Sugarman</surname><given-names>L.I.</given-names></name><name><surname>Wester</surname><given-names>W.C.</given-names><suffix>II</suffix></name></person-group>
+<publisher-name>Crown House Publishing</publisher-name>
+<publisher-loc>Bancyfelin, Carmarthen, Wales, UK</publisher-loc>
+<year>2014</year>
+<fpage>491</fpage>
+<lpage>509</lpage>
+</element-citation></ref><ref id="B97-children-01-00074"><label>97.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Golden</surname><given-names>W.</given-names></name></person-group>
+<article-title>Cognitive Hypnotherapy for Anxiety Disorders</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>2012</year>
+<volume>54</volume>
+<fpage>263</fpage>
+<lpage>274</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.2011.650333</pub-id>
+<pub-id pub-id-type="pmid">22655330</pub-id></element-citation></ref><ref id="B98-children-01-00074"><label>98.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kerns</surname><given-names>C.M.</given-names></name><name><surname>Read</surname><given-names>K.L.</given-names></name><name><surname>Klugman</surname><given-names>J.</given-names></name><name><surname>Kendall</surname><given-names>P.C.</given-names></name></person-group>
+<article-title>Cognitive-behavioral therapy for youth with social anxiety: Differential short and long-term treatment outcomes</article-title>
+<source>J. Anxiety Disord.</source>
+<year>2013</year>
+<volume>27</volume>
+<fpage>210</fpage>
+<lpage>215</lpage>
+<pub-id pub-id-type="doi">10.1016/j.janxdis.2013.01.009</pub-id>
+<pub-id pub-id-type="pmid">23474911</pub-id></element-citation></ref><ref id="B99-children-01-00074"><label>99.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Yapko</surname><given-names>M.D.</given-names></name></person-group>
+<source>Treating Depression With Hypnosis: Integrating Cognitive-Behavioral and Strategic Approaches</source>
+<publisher-name>Brunner-Routledge</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2001</year>
+</element-citation></ref><ref id="B100-children-01-00074"><label>100.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Yapko</surname><given-names>M.D.</given-names></name></person-group>
+<source>Applying Hypnosis in Treating Depression: Innovations in Clinical Practice</source>
+<publisher-name>Routledge Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2006</year>
+</element-citation></ref><ref id="B101-children-01-00074"><label>101.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name><name><surname>Murray</surname><given-names>K.</given-names></name></person-group>
+<article-title>Depression in Children and Youth: Applications of Hypnosis to Help Young People Help Themselves</article-title>
+<source>Applying Hypnosis in Treating Depression: Innovations in Clinical Practice</source>
+<person-group person-group-type="editor"><name><surname>Yapko</surname><given-names>M.D.</given-names></name></person-group>
+<publisher-name>Routledge Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2006</year>
+<fpage>189</fpage>
+<lpage>216</lpage>
+</element-citation></ref><ref id="B102-children-01-00074"><label>102.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name></person-group>
+<article-title>Depression</article-title>
+<source>Therapeutic Hypnosis with Children and Adolescents</source>
+<person-group person-group-type="editor"><name><surname>Sugarman</surname><given-names>L.I.</given-names></name><name><surname>Wester</surname><given-names>W.C.</given-names><suffix>II</suffix></name></person-group>
+<publisher-name>Crown House Publishing</publisher-name>
+<publisher-loc>Bancyfelin, Carmarthen, Wales, UK</publisher-loc>
+<year>2014</year>
+<comment>Chapter 9</comment>
+<fpage>187</fpage>
+<lpage>208</lpage>
+</element-citation></ref><ref id="B103-children-01-00074"><label>103.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Culbert</surname><given-names>T.</given-names></name><name><surname>Kajander</surname><given-names>R.</given-names></name></person-group>
+<source>Be the Boss of Your Sleep: Self-Care for Kids</source>
+<publisher-name>FreeSpirit Press</publisher-name>
+<publisher-loc>Minneapolis, MN, USA</publisher-loc>
+<year>2007</year>
+</element-citation></ref><ref id="B104-children-01-00074"><label>104.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kuttner</surname><given-names>L.</given-names></name></person-group>
+<article-title>Treating pain, anxiety and sleep disorders with children and adolescents</article-title>
+<source>Advances in the Use of Hypnosis in Medicine, Dentistry, Pain Prevention and Management</source>
+<person-group person-group-type="editor"><name><surname>Brown</surname><given-names>D.C.</given-names></name></person-group>
+<publisher-name>Crown House Publishers</publisher-name>
+<publisher-loc>Bethel, CT, USA</publisher-loc>
+<year>2009</year>
+<comment>Chapter 11</comment>
+<fpage>177</fpage>
+<lpage>194</lpage>
+</element-citation></ref><ref id="B105-children-01-00074"><label>105.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohen</surname><given-names>D.P.</given-names></name><name><surname>Mahowald</surname><given-names>M.W.</given-names></name><name><surname>Rosen</surname><given-names>G.R.</given-names></name></person-group>
+<article-title>Sleep-terror disorder in children: The role of self-hypnosis in management</article-title>
+<source>Am. J. Clin. Hypn.</source>
+<year>1992</year>
+<volume>34</volume>
+<fpage>233</fpage>
+<lpage>244</lpage>
+<pub-id pub-id-type="doi">10.1080/00029157.1992.10402853</pub-id>
+<pub-id pub-id-type="pmid">1580230</pub-id></element-citation></ref><ref id="B106-children-01-00074"><label>106.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stanton</surname><given-names>H.E.</given-names></name></person-group>
+<article-title>Hypnotic relaxation and the reduction of sleep onset insomnia</article-title>
+<source>Int. J. Psychosom.</source>
+<year>1989</year>
+<volume>36</volume>
+<fpage>64</fpage>
+<lpage>68</lpage>
+<pub-id pub-id-type="pmid">2689375</pub-id></element-citation></ref><ref id="B107-children-01-00074"><label>107.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Zeltzer</surname><given-names>L.K.</given-names></name><name><surname>Schlank</surname><given-names>C.</given-names></name></person-group>
+<source>Conquering your Child&#x02019;s Chronic Pain</source>
+<publisher-name>Harper and Collins</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2005</year>
+</element-citation></ref><ref id="B108-children-01-00074"><label>108.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gardner</surname><given-names>G.G.</given-names></name></person-group>
+<article-title>Childhood, death and human dignity: Hypnotherapy for David</article-title>
+<source>Int J. Clin. Exp. Hypn.</source>
+<year>1976</year>
+<volume>24</volume>
+<fpage>122</fpage>
+<lpage>139</lpage>
+<pub-id pub-id-type="doi">10.1080/00207147608405603</pub-id>
+<pub-id pub-id-type="pmid">1262073</pub-id></element-citation></ref><ref id="B109-children-01-00074"><label>109.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gulewitsch</surname><given-names>M.</given-names></name><name><surname>Muller</surname><given-names>J.</given-names></name><name><surname>Hautzinger</surname><given-names>M.</given-names></name><name><surname>Schlarb</surname><given-names>A.A.</given-names></name></person-group>
+<article-title>Brief hypnotherapeutic-behavioral intervention for functional abdominal pain and irritable bowel syndrome in childhood: A randomized controlled trial</article-title>
+<source>Eur. J. Pediatr.</source>
+<year>2013</year>
+<volume>172</volume>
+<fpage>1043</fpage>
+<lpage>1051</lpage>
+<pub-id pub-id-type="doi">10.1007/s00431-013-1990-y</pub-id>
+<pub-id pub-id-type="pmid">23568514</pub-id></element-citation></ref><ref id="B110-children-01-00074"><label>110.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schlarb</surname><given-names>A.A.</given-names></name><name><surname>Liddle</surname><given-names>C.C.</given-names></name><name><surname>Hautzinger</surname><given-names>M.</given-names></name></person-group>
+<article-title>JuSt&#x02014;A multimodal treatment program for adolescents with insomnia. Pilot study</article-title>
+<source>Nat. Sci. Sleep.</source>
+<year>2011</year>
+<volume>3</volume>
+<fpage>13</fpage>
+<lpage>20</lpage>
+<pub-id pub-id-type="pmid">23616715</pub-id></element-citation></ref><ref id="B111-children-01-00074"><label>111.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lifshitz</surname><given-names>M.</given-names></name><name><surname>Cusumano</surname><given-names>E.P.</given-names></name><name><surname>Raz</surname><given-names>A.</given-names></name></person-group>
+<article-title>Hypnosis as neurophenomenology</article-title>
+<source>Front. Hum. Neurosci.</source>
+<year>2013</year>
+<pub-id pub-id-type="doi">10.3389/fnhum.2013.00469</pub-id>
+</element-citation></ref><ref id="B112-children-01-00074"><label>112.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Curtis</surname><given-names>S.</given-names></name><name><surname>Wingert</surname><given-names>A.</given-names></name><name><surname>Ali</surname><given-names>S.</given-names></name></person-group>
+<article-title><italic>The Cochrane Library</italic> and Procedural Pain in Children: An Overview of Reviews</article-title>
+<source>Evid.-Based Child Health: A Cochrane Rev. J.</source>
+<year>2012</year>
+<volume>7</volume>
+<fpage>1363</fpage>
+<lpage>1399</lpage>
+<pub-id pub-id-type="doi">10.1002/ebch.1864</pub-id>
+</element-citation></ref><ref id="B113-children-01-00074"><label>113.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gold</surname><given-names>J.I.</given-names></name><name><surname>Kant</surname><given-names>A.J.</given-names></name><name><surname>Belmont</surname><given-names>K.A.</given-names></name><name><surname>Butler</surname><given-names>L.D.</given-names></name></person-group>
+<article-title>Practitioner review: Clinical applications of pediatric hypnosis</article-title>
+<source>J. Child Psychol. Psychiatry</source>
+<year>2007</year>
+<volume>48</volume>
+<fpage>744</fpage>
+<lpage>754</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-7610.2007.01759.x</pub-id>
+<pub-id pub-id-type="pmid">17683446</pub-id></element-citation></ref><ref id="B114-children-01-00074"><label>114.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Landier</surname><given-names>W.</given-names></name><name><surname>Tse</surname><given-names>A.</given-names></name></person-group>
+<article-title>Use of Complementary and Alternative Medical Interventions for the Managaement of Procedure-Related Pain, Anxiety, and Distress in Pediatric Oncology: An Integrative Review</article-title>
+<source>J. Pediatr. Nurs.</source>
+<year>2010</year>
+<volume>25</volume>
+<fpage>566</fpage>
+<lpage>579</lpage>
+<pub-id pub-id-type="doi">10.1016/j.pedn.2010.01.009</pub-id>
+<pub-id pub-id-type="pmid">21035021</pub-id></element-citation></ref><ref id="B115-children-01-00074"><label>115.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McClafferty</surname><given-names>H.</given-names></name></person-group>
+<article-title>Complementary, Holistic, and Integrative Medicine: Mind-Body Medicine</article-title>
+<source>Pediatr. Rev.</source>
+<year>2011</year>
+<volume>32</volume>
+<fpage>201</fpage>
+<lpage>203</lpage>
+<pub-id pub-id-type="doi">10.1542/pir.32-5-201</pub-id>
+<pub-id pub-id-type="pmid">21536778</pub-id></element-citation></ref><ref id="B116-children-01-00074"><label>116.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Richardson</surname><given-names>J.</given-names></name><name><surname>Smith</surname><given-names>J.</given-names></name><name><surname>McCall</surname><given-names>G.</given-names></name><name><surname>Pilkington</surname><given-names>J.</given-names></name></person-group>
+<article-title>Hypnosis for Procedure-Related Pain and Distress in Pediatric Cancer Patients: A Systematic Review of Effectiveness and Methodology Related to Hypnosis Interventions</article-title>
+<source>J. Pain Symp. Manag.</source>
+<year>2006</year>
+<volume>31</volume>
+<fpage>70</fpage>
+<lpage>84</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpainsymman.2005.06.010</pub-id>
+</element-citation></ref><ref id="B117-children-01-00074"><label>117.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schnur</surname><given-names>J.B.</given-names></name><name><surname>Kafer</surname><given-names>I.</given-names></name><name><surname>Marcus</surname><given-names>C.</given-names></name><name><surname>Montgomery</surname><given-names>G.H.</given-names></name></person-group>
+<article-title>Hypnosis to Manage Distress Related To Medical Procedures: A Meta-Analysis</article-title>
+<source>Contemp Hypn.</source>
+<year>2008</year>
+<volume>25</volume>
+<fpage>114</fpage>
+<lpage>128</lpage>
+<pub-id pub-id-type="doi">10.1002/ch.364</pub-id>
+<pub-id pub-id-type="pmid">19746190</pub-id></element-citation></ref><ref id="B118-children-01-00074"><label>118.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Uman</surname><given-names>L.S.</given-names></name><name><surname>Birnie</surname><given-names>K.A.</given-names></name><name><surname>Noel</surname><given-names>M.</given-names></name><name><surname>Parker</surname><given-names>J.A.</given-names></name><name><surname>Chambers</surname><given-names>C.T.</given-names></name><name><surname>McGrath</surname><given-names>P.J.</given-names></name><name><surname>Kisely</surname><given-names>S.R.</given-names></name></person-group>
+<article-title>Psychological interventions for needle-related procedural pain and distress in children and adolescents</article-title>
+<source>Cochrane Database Syst. Rev.</source>
+<year>2013</year>
+<volume>10</volume>
+<pub-id pub-id-type="doi">10.1002/14651858.CD005179.pub3</pub-id>
+</element-citation></ref></ref-list></back></article>

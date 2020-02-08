@@ -1,0 +1,236 @@
+{
+  "id": [
+    "30692755"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30692755"
+  ],
+  "pmcid": [
+    "PMC6327687"
+  ],
+  "doi": [
+    "10.4103/aian.AIAN_201_18"
+  ],
+  "title": [
+    "Propranolol: A 50-Year Historical Perspective."
+  ],
+  "authorString": [
+    "Srinivasan AV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Srinivasan AV"
+          ],
+          "firstName": [
+            "A V"
+          ],
+          "lastName": [
+            "Srinivasan"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "affiliation": [
+            "Former Professor of Neurology and Head - Institute of Neurology, Madras Medical College, Chennai, Emeritus Professor - The Tamil Nadu Dr. M.G.R. Medical University, Adjunct Professor - Indian Institute of Technology (IIT - Chennai), Tamil Nadu, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2775072"
+      ],
+      "dateOfPublication": [
+        "2019 Jan-Mar"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Annals of Indian Academy of Neurology"
+          ],
+          "ISOAbbreviation": [
+            "Ann Indian Acad Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Ann Indian Acad Neurol"
+          ],
+          "NLMid": [
+            "101273955"
+          ],
+          "ISSN": [
+            "0972-2327"
+          ],
+          "ESSN": [
+            "1998-3549"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "21-26"
+  ],
+  "abstractText": [
+    "Propranolol is a beta-adrenergic receptor antagonist that was developed by the British scientist Sir James Black primarily for the treatment of angina pectoris, more than 50 years ago. It was not long before several other cardiovascular as well as noncardiovascular therapeutic uses of propranolol were discovered. Propranolol soon became a powerful tool for physicians in the treatment of numerous conditions such as hypertension, cardiac arrhythmias, myocardial infarction, migraine, portal hypertension, anxiety, essential tremors, hyperthyroidism, and pheochromocytoma. Owing to its action at multiple receptor sites, propranolol exerts several central and peripheral effects and is therefore useful in various conditions. Right from reduction in postmyocardial mortality to control of anxiety in performers, propranolol plays an important role in a plethora of medical conditions. Interestingly, even today, newer indications of this age-old drug are being discovered. Moreover, propranolol treatment has been found to be cost-effective when compared to other corresponding treatment options for individual indications. In this article, we attempt to recount the journey of propranolol right from its inception to the present day."
+  ],
+  "affiliation": [
+    "Former Professor of Neurology and Head - Institute of Neurology, Madras Medical College, Chennai, Emeritus Professor - The Tamil Nadu Dr. M.G.R. Medical University, Adjunct Professor - Indian Institute of Technology (IIT - Chennai), Tamil Nadu, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Myocardial infarction",
+        "propranolol",
+        "Anxiety",
+        "Beta-blocker",
+        "portal hypertension"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/aian.AIAN_201_18"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6327687"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-30"
+  ],
+  "firstIndexDate": [
+    "2019-01-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-31"
+  ],
+  "dateOfRevision": [
+    "2019-02-01"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

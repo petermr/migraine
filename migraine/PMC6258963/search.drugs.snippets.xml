@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6258963/results/search/drugs/results.xml">
+  <result pre="congenital malformations in 3. Medications were used in 29 patients:" exact="acetaminophen" post="in 17, ibuprofen in 8, naproxen sodium in 1,"/>
+  <result pre="3. Medications were used in 29 patients: acetaminophen in 17," exact="ibuprofen" post="in 8, naproxen sodium in 1, and topiramate or"/>
+  <result pre="used in 29 patients: acetaminophen in 17, ibuprofen in 8," exact="naproxen" post="sodium in 1, and topiramate or amitriptyline in 3."/>
+  <result pre="in 17, ibuprofen in 8, naproxen sodium in 1, and" exact="topiramate" post="or amitriptyline in 3. Conclusion In children aged &amp;lt;7"/>
+  <result pre="ibuprofen in 8, naproxen sodium in 1, and topiramate or" exact="amitriptyline" post="in 3. Conclusion In children aged &amp;lt;7 years, headache"/>
+  <result pre="used acetaminophen, 8 (5.5%) used ibuprofen, and 1 (0.7%) used" exact="naproxen" post="sodium to control the acute pain. In addition, 2"/>
+  <result pre="to control the acute pain. In addition, 2 (1.4%) took" exact="topiramate" post="and 1 (0.7%) used amitriptyline. In terms of prognosis,"/>
+  <result pre="version has less diagnostic power for children. Acetaminophen, ibuprofen, and" exact="naproxen" post="sodium were used in a total of 26 patients"/>
+  <result pre="for children patients with acute headache [ 24]. Topiramate and" exact="amitriptyline" post="were chosen as preventive medicines for 3 patients. According"/>
+  <result pre="half of patients were treated with acute medication such as" exact="ketoprofen" post="or paracetamol and 13.6% took a prophylactic pharmacological treatment."/>
+  <result pre="patients were treated with acute medication such as ketoprofen or" exact="paracetamol" post="and 13.6% took a prophylactic pharmacological treatment. They suggested"/>
+ </snippets>
+</snippetsTree>

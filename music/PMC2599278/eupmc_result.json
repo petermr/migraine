@@ -1,0 +1,218 @@
+{
+  "id": [
+    "PMC2599278"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC2599278"
+  ],
+  "title": [
+    "Events."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "75269"
+      ],
+      "dateOfPublication": [
+        "1952 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "1952"
+      ],
+      "printPublicationDate": [
+        "1952-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Yale journal of biology and medicine"
+          ],
+          "ISOAbbreviation": [
+            "Yale J Biol Med"
+          ],
+          "medlineAbbreviation": [
+            "Yale J Biol Med"
+          ],
+          "NLMid": [
+            "0417414"
+          ],
+          "ISSN": [
+            "0044-0086"
+          ],
+          "ESSN": [
+            "1551-4056"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1952"
+  ],
+  "pageInfo": [
+    "578-582"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2599278/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2599278/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2599278"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2599278?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2009-11-19"
+  ],
+  "firstIndexDate": [
+    "2010-02-22"
+  ],
+  "fullTextReceivedDate": [
+    "2009-05-09"
+  ],
+  "dateOfRevision": [
+    "2019-10-01"
+  ],
+  "firstPublicationDate": [
+    "1952-06-01"
+  ]
+}

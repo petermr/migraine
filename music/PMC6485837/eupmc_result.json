@@ -1,0 +1,632 @@
+{
+  "id": [
+    "30985665"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30985665"
+  ],
+  "pmcid": [
+    "PMC6485837"
+  ],
+  "doi": [
+    "10.1097/MD.0000000000015107"
+  ],
+  "title": [
+    "Effectiveness of music therapy with relaxation technique on stress management as measured by perceived stress scale."
+  ],
+  "authorString": [
+    "Ogba FN, Ede MO, Onyishi CN, Agu PU, Ikechukwu-Ilomuanya AB, Igbo JN, Egenti N, Manafa I, Amoke C, Nwosu NC, Omeke FC, Nwafor BN, Amadi KC, Nwokenna EN, Ugwoke SC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ogba FN"
+          ],
+          "firstName": [
+            "Francisca N"
+          ],
+          "lastName": [
+            "Ogba"
+          ],
+          "initials": [
+            "FN"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, Alex Ekwueme Federal University, Ndufu-Alike Ebonyi State."
+          ]
+        },
+        {
+          "fullName": [
+            "Ede MO"
+          ],
+          "firstName": [
+            "Moses O"
+          ],
+          "lastName": [
+            "Ede"
+          ],
+          "initials": [
+            "MO"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, University of Nigeria, Nsukka, Enugu State."
+          ]
+        },
+        {
+          "fullName": [
+            "Onyishi CN"
+          ],
+          "firstName": [
+            "Charity N"
+          ],
+          "lastName": [
+            "Onyishi"
+          ],
+          "initials": [
+            "CN"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, University of Nigeria, Nsukka, Enugu State."
+          ]
+        },
+        {
+          "fullName": [
+            "Agu PU"
+          ],
+          "firstName": [
+            "Patricia U"
+          ],
+          "lastName": [
+            "Agu"
+          ],
+          "initials": [
+            "PU"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, University of Nigeria, Nsukka, Enugu State."
+          ]
+        },
+        {
+          "fullName": [
+            "Ikechukwu-Ilomuanya AB"
+          ],
+          "firstName": [
+            "Amaka B"
+          ],
+          "lastName": [
+            "Ikechukwu-Ilomuanya"
+          ],
+          "initials": [
+            "AB"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, University of Nigeria, Nsukka, Enugu State."
+          ]
+        },
+        {
+          "fullName": [
+            "Igbo JN"
+          ],
+          "firstName": [
+            "Janet N"
+          ],
+          "lastName": [
+            "Igbo"
+          ],
+          "initials": [
+            "JN"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, University of Nigeria, Nsukka, Enugu State."
+          ]
+        },
+        {
+          "fullName": [
+            "Egenti N"
+          ],
+          "firstName": [
+            "Nkechi"
+          ],
+          "lastName": [
+            "Egenti"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, University of Nigeria, Nsukka, Enugu State."
+          ]
+        },
+        {
+          "fullName": [
+            "Manafa I"
+          ],
+          "firstName": [
+            "Ifeyinwa"
+          ],
+          "lastName": [
+            "Manafa"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, Chukwuemeka Odumegwu Ojukwu University, Igbariam Anambra State."
+          ]
+        },
+        {
+          "fullName": [
+            "Amoke C"
+          ],
+          "firstName": [
+            "Chijioke"
+          ],
+          "lastName": [
+            "Amoke"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, University of Nigeria, Nsukka, Enugu State."
+          ]
+        },
+        {
+          "fullName": [
+            "Nwosu NC"
+          ],
+          "firstName": [
+            "Nneka C"
+          ],
+          "lastName": [
+            "Nwosu"
+          ],
+          "initials": [
+            "NC"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, University of Nigeria, Nsukka, Enugu State."
+          ]
+        },
+        {
+          "fullName": [
+            "Omeke FC"
+          ],
+          "firstName": [
+            "Faith C"
+          ],
+          "lastName": [
+            "Omeke"
+          ],
+          "initials": [
+            "FC"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, University of Nigeria, Nsukka, Enugu State."
+          ]
+        },
+        {
+          "fullName": [
+            "Nwafor BN"
+          ],
+          "firstName": [
+            "Bernedeth N"
+          ],
+          "lastName": [
+            "Nwafor"
+          ],
+          "initials": [
+            "BN"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, University of Nigeria, Nsukka, Enugu State."
+          ]
+        },
+        {
+          "fullName": [
+            "Amadi KC"
+          ],
+          "firstName": [
+            "Kingsley C"
+          ],
+          "lastName": [
+            "Amadi"
+          ],
+          "initials": [
+            "KC"
+          ],
+          "affiliation": [
+            "Department of Sociology and Anthropology, Faculty of Education, University of Nigeria, Nsukka."
+          ]
+        },
+        {
+          "fullName": [
+            "Nwokenna EN"
+          ],
+          "firstName": [
+            "Edith N"
+          ],
+          "lastName": [
+            "Nwokenna"
+          ],
+          "initials": [
+            "EN"
+          ],
+          "affiliation": [
+            "Department of Art Education, University of Nigeria, Nsukka, Enugu State, Nigeria."
+          ]
+        },
+        {
+          "fullName": [
+            "Ugwoke SC"
+          ],
+          "firstName": [
+            "Samuel C"
+          ],
+          "lastName": [
+            "Ugwoke"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "affiliation": [
+            "Department of Educational Foundations, University of Nigeria, Nsukka, Enugu State."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "15"
+      ],
+      "volume": [
+        "98"
+      ],
+      "journalIssueId": [
+        "2806439"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0025-7974"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e15107"
+  ],
+  "abstractText": [
+    "BACKGROUND:Living in Nigerian environment is enough stress. In our time, many students could not cope with the stress of school environment like ours and others are still suffering from different health problems attributed to stress. Based on this, we investigated the effect of music therapy with relaxation technique on stress management among university students in southeastern Nigeria. METHODS:Participants for the study were 142 university students in the Southeastern Nigeria. Perceived stress scale (PSS) was used to measure the symptoms of stress. Statistical tool used was repeated measures with analysis of variance (ANOVA) to ascertain the effectiveness of music therapy with relaxation. Among other tools used was Partial η to examine the effect sizes and level of changes inthemanagement of stress across groups. RESULTS:The finding indicated that there were no baseline differences in levels of stress management between participants in the treatment and waitlist control conditions. Results revealed significant improvement in stress management for participants in the music therapy with relaxation group, whereas the waitlist control group showed no significant change in their score over the same period. Furthermore, the positive effect of music therapy with relaxation was maintained at follow-up. CONCLUSION:The findings of this study suggest that the efficacy of music therapy with relaxation technique for improving the students' stress management can be consistent at follow-up. Hence, music therapists, counsellors and psychotherapists should continue to investigate the beneficial effects of music therapy with relaxation on stress management among university students in every part of the world."
+  ],
+  "affiliation": [
+    "Department of Educational Foundations, Alex Ekwueme Federal University, Ndufu-Alike Ebonyi State."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Music Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress, Psychological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Perception"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychiatric Status Rating Scales"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Students"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Universities"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Relaxation Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/MD.0000000000015107"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6485837"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6485837?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-22"
+  ],
+  "dateOfCreation": [
+    "2019-04-16"
+  ],
+  "firstIndexDate": [
+    "2019-04-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-05"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "firstPublicationDate": [
+    "2019-04-01"
+  ]
+}

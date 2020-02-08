@@ -1,0 +1,189 @@
+{
+  "id": [
+    "PMC6750507"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6750507"
+  ],
+  "doi": [
+    "10.1097/01.GOX.0000584192.17752.69"
+  ],
+  "title": [
+    "PSTM 2019 Abstract Supplement."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8 Suppl"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2869536"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plastic and reconstructive surgery. Global open"
+          ],
+          "ISOAbbreviation": [
+            "Plast Reconstr Surg Glob Open"
+          ],
+          "medlineAbbreviation": [
+            "Plast Reconstr Surg Glob Open"
+          ],
+          "NLMid": [
+            "101622231"
+          ],
+          "ISSN": [
+            "2169-7574"
+          ],
+          "ESSN": [
+            "2169-7574"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6750507/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6750507"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-11"
+  ],
+  "firstIndexDate": [
+    "2019-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-10"
+  ],
+  "dateOfRevision": [
+    "2019-10-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-10"
+  ],
+  "firstPublicationDate": [
+    "2019-08-01"
+  ]
+}

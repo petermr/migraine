@@ -1,0 +1,379 @@
+{
+  "id": [
+    "30795645"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30795645"
+  ],
+  "pmcid": [
+    "PMC6406753"
+  ],
+  "doi": [
+    "10.3390/children6020033"
+  ],
+  "title": [
+    "Multidisciplinary Pain Management for Pediatric Patients with Acute and Chronic Pain: A Foundational Treatment Approach When Prescribing Opioids."
+  ],
+  "authorString": [
+    "Wren AA, Ross AC, D'Souza G, Almgren C, Feinstein A, Marshall A, Golianu B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wren AA"
+          ],
+          "firstName": [
+            "Anava A"
+          ],
+          "lastName": [
+            "Wren"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Division of Pediatric Gastroenterology, Hepatology and Nutrition, Stanford University, Palo Alto, CA 94305, USA. awren2@stanford.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Ross AC"
+          ],
+          "firstName": [
+            "Alexandra C"
+          ],
+          "lastName": [
+            "Ross"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Child and Adolescent Headache Program, University of California San Francisco, San Francisco, CA 94158, USA. alexandra.ross2@ucsf.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Souza G"
+          ],
+          "firstName": [
+            "Genevieve"
+          ],
+          "lastName": [
+            "D'Souza"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology Perioperative and Pain Medicine, Stanford University, Palo Alto, CA 94305, USA. gdsouza@stanford.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Almgren C"
+          ],
+          "firstName": [
+            "Christina"
+          ],
+          "lastName": [
+            "Almgren"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology Perioperative and Pain Medicine, Stanford University, Palo Alto, CA 94305, USA. calmgren@stanfordchildrens.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Feinstein A"
+          ],
+          "firstName": [
+            "Amanda"
+          ],
+          "lastName": [
+            "Feinstein"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology Perioperative and Pain Medicine, Stanford University, Palo Alto, CA 94305, USA. abfein@stanford.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Marshall A"
+          ],
+          "firstName": [
+            "Amanda"
+          ],
+          "lastName": [
+            "Marshall"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh EH16 4SB, UK. a.marshall-15@sms.ed.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Golianu B"
+          ],
+          "firstName": [
+            "Brenda"
+          ],
+          "lastName": [
+            "Golianu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0731-9535",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Anesthesiology Perioperative and Pain Medicine, Stanford University, Palo Alto, CA 94305, USA. bgolianu@stanford.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0731-9535",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2778456"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Children (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Children (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Children (Basel)"
+          ],
+          "NLMid": [
+            "101648936"
+          ],
+          "ISSN": [
+            "2227-9067"
+          ],
+          "ESSN": [
+            "2227-9067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Opioid therapy is the cornerstone of treatment for acute procedural and postoperative pain and is regularly prescribed for severe and debilitating chronic pain conditions. Although beneficial for many patients, opioid therapy may have side effects, limited efficacy, and potential negative outcomes. Multidisciplinary pain management treatments incorporating pharmacological and integrative non-pharmacological therapies have been shown to be effective in acute and chronic pain management for pediatric populations. A multidisciplinary approach can also benefit psychological functioning and quality of life, and may have the potential to reduce reliance on opioids. The aims of this paper are to: (1) provide a brief overview of a multidisciplinary pain management approach for pediatric patients with acute and chronic pain, (2) highlight the mechanisms of action and evidence base of commonly utilized integrative non-pharmacological therapies in pediatric multidisciplinary pain management, and (3) explore the opioid sparing effects of multidisciplinary treatment for pediatric pain."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Division of Pediatric Gastroenterology, Hepatology and Nutrition, Stanford University, Palo Alto, CA 94305, USA. awren2@stanford.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Acupuncture",
+        "Hypnosis",
+        "Cognitive Behavioral Therapy",
+        "Pain Rehabilitation",
+        "Mindfulness-based Stress Reduction",
+        "Non-pharmacological Therapy",
+        "Multidisciplinary Pain Management Strategies",
+        "Opioid Reduction Therapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/children6020033"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6406753"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6406753?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-24"
+  ],
+  "firstIndexDate": [
+    "2019-02-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-16"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-21"
+  ],
+  "firstPublicationDate": [
+    "2019-02-21"
+  ]
+}

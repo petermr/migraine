@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6957294/results/word/frequencies/results.xml">
+  <result title="frequency" word="IVIG" count="67"/>
+  <result title="frequency" word="IVIG-AEs" count="57"/>
+  <result title="frequency" word="AEs" count="32"/>
+  <result title="frequency" word="immunoglobulin" count="31"/>
+  <result title="frequency" word="study" count="27"/>
+  <result title="frequency" word="(.–.)" count="26"/>
+  <result title="frequency" word="(–)" count="26"/>
+  <result title="frequency" word="median" count="23"/>
+  <result title="frequency" word="delayed" count="22"/>
+  <result title="frequency" word="infusion" count="21"/>
+  <result title="frequency" word="patients" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,395 @@
+{
+  "id": [
+    "31146331"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31146331"
+  ],
+  "pmcid": [
+    "PMC6631815"
+  ],
+  "doi": [
+    "10.3390/medicines6020060"
+  ],
+  "title": [
+    "Leri-Weill Dyschondrosteosis Syndrome: Analysis via 3DCT Scan."
+  ],
+  "authorString": [
+    "Al Kaissi A, Shboul M, Kenis V, Grill F, Ganger R, Kircher SG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Al Kaissi A"
+          ],
+          "firstName": [
+            "Ali"
+          ],
+          "lastName": [
+            "Al Kaissi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1599-6050",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Ludwig Boltzmann Institute of Osteology, at the Hanusch Hospital of WGKK and, AUVA Trauma Centre Meidling, First Medical Department, Hanusch Hospital, Vienna 1140, Austria. ali.alkaissi@oss.at."
+          ]
+        },
+        {
+          "fullName": [
+            "Shboul M"
+          ],
+          "firstName": [
+            "Mohammad"
+          ],
+          "lastName": [
+            "Shboul"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Medical Laboratory Sciences, Jordan University of Science and Technology, Irbid 22110, Jordan. mohammad.shboul@reversade.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kenis V"
+          ],
+          "firstName": [
+            "Vladimir"
+          ],
+          "lastName": [
+            "Kenis"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7651-8485",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Foot and Ankle Surgery, Neuroorthopaedics and Systemic Disorders, Pediatric Orthopedic Institute n.a. H. Turner, Parkovaya str., 64-68, Pushkin, Saint Petersburg, Russia. kenis@mail.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Grill F"
+          ],
+          "firstName": [
+            "Franz"
+          ],
+          "lastName": [
+            "Grill"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Paediatric department, Orthopaedic Hospital of Speising, Vienna 1130, Austria. grill.franz@gmx.net."
+          ]
+        },
+        {
+          "fullName": [
+            "Ganger R"
+          ],
+          "firstName": [
+            "Rudolf"
+          ],
+          "lastName": [
+            "Ganger"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Paediatric department, Orthopaedic Hospital of Speising, Vienna 1130, Austria. rudolf.ganger@oss.at."
+          ]
+        },
+        {
+          "fullName": [
+            "Kircher SG"
+          ],
+          "firstName": [
+            "Susanne Gerit"
+          ],
+          "lastName": [
+            "Kircher"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0127-5837",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Chemistry, Medical University of Vienna, Vienna 1090, Austria. susanne.kircher@meduniwien.ac.at."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7651-8485",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1599-6050",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0127-5837",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2814926"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicines (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Medicines (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Medicines (Basel)"
+          ],
+          "NLMid": [
+            "101671069"
+          ],
+          "ISSN": [
+            "2305-6320"
+          ],
+          "ESSN": [
+            "2305-6320"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Background: Leri-Weill dyschondrosteosis (LWD) is a pseudoautosomal form of skeletal dysplasia, characterized by abnormal craniofacial phenotype, short stature, and mesomelia of the upper and lower limbs. Methods: We describe two female patients with LWD. Their prime clinical complaints were severe bouts of migraine and antalgic gait. Results: Interestingly, via a 3D reconstruction CT scan we encountered several major anomalies. Notable features of craniosynostosis through premature fusion of the squamosal sutures and partial closure of the coronal sutures were the reason behind the development of abnormal craniofacial contour. A 3D reconstruction CT scan showed apparent bulging of the clavarium through the partially synostosed coronal and totally synostosed squamosal sutures. Additional deformities include deficient number of ribs (10 ribs on both sides), defective ossification of the ischium and dysplasia of the iliac-ischial junction, and coxa valga have been noted. Conclusions: The constellation of observed deformities can be considered as a novel features associated with LWD."
+  ],
+  "affiliation": [
+    "Ludwig Boltzmann Institute of Osteology, at the Hanusch Hospital of WGKK and, AUVA Trauma Centre Meidling, First Medical Department, Hanusch Hospital, Vienna 1140, Austria. ali.alkaissi@oss.at."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Tomography",
+        "Craniosynostosis",
+        "Shox Gene",
+        "Coxa Valga",
+        "Leri-weil Dyschondrosteosis",
+        "Deficient Ribs Number",
+        "Ischial Dysplasia"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/medicines6020060"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6631815"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6631815?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "omim"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-01"
+  ],
+  "firstIndexDate": [
+    "2019-06-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-21"
+  ],
+  "dateOfRevision": [
+    "2019-08-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-29"
+  ],
+  "firstPublicationDate": [
+    "2019-05-29"
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "id": [
+    "31031695"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31031695"
+  ],
+  "pmcid": [
+    "PMC6473052"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00364"
+  ],
+  "title": [
+    "Non-invasive Brain Stimulation in Pediatric Migraine: A Perspective From Evidence in Adult Migraine."
+  ],
+  "authorString": [
+    "Brighina F, Raieli V, Messina LM, Santangelo G, Puma D, Drago F, Rocchitelli L, Vanadia F, Giglia G, Mangano S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Brighina F"
+          ],
+          "firstName": [
+            "Filippo"
+          ],
+          "lastName": [
+            "Brighina"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Dipartimento di Biomedicina, Neuroscienze and Diagnostica Avanzata (BiND), University of Palermo, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Raieli V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Raieli"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "ARNAS Ospedali Civico Di Cristina Benfratelli, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Messina LM"
+          ],
+          "firstName": [
+            "Luca Maria"
+          ],
+          "lastName": [
+            "Messina"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "affiliation": [
+            "ARNAS Ospedali Civico Di Cristina Benfratelli, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Santangelo G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Santangelo"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "ARNAS Ospedali Civico Di Cristina Benfratelli, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Puma D"
+          ],
+          "firstName": [
+            "Domenico"
+          ],
+          "lastName": [
+            "Puma"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "ARNAS Ospedali Civico Di Cristina Benfratelli, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Drago F"
+          ],
+          "firstName": [
+            "Flavia"
+          ],
+          "lastName": [
+            "Drago"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "ARNAS Ospedali Civico Di Cristina Benfratelli, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Rocchitelli L"
+          ],
+          "firstName": [
+            "Lucia"
+          ],
+          "lastName": [
+            "Rocchitelli"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "ARNAS Ospedali Civico Di Cristina Benfratelli, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Vanadia F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Vanadia"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "ARNAS Ospedali Civico Di Cristina Benfratelli, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Giglia G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Giglia"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Dipartimento di Biomedicina, Neuroscienze and Diagnostica Avanzata (BiND), University of Palermo, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Mangano S"
+          ],
+          "firstName": [
+            "Salvatore"
+          ],
+          "lastName": [
+            "Mangano"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Dipartimento di Promozione della Salute, Materno-Infantile, di Medicina Interna e Specialistica di Eccellenza \"G. D'Alessandro\", University of Palermo, Palermo, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "364"
+  ],
+  "abstractText": [
+    "Pediatric migraine remains still a challenge for the headache specialists as concerns both diagnostic and therapeutic aspects. The less ability of children to describe the exact features of their migraines and the lack of reliable biomarker for migraine contribute to complicate the diagnostic process. Therefore, there's need for new effective tools for supporting diagnostic and therapeutic approach in children with migraine. Recently, promising results have been obtained in adult headache by means of application of neurostimulation techniques both for investigating pathophysiological mechanisms and also for therapeutical applications. Non-invasive brain stimulation (NIBS) techniques like transcranial magnetic stimulation (TMS) and transcranial direct current stimulation (tDCS) indeed proved to be generally safe and showing also some evidence of efficacy particularly for the symptomatic treatment. On such basis, in the last years increasing interest is rising in scientific pediatric community to evaluate the potential of such approaches for treatment pediatric headaches, particularly in migraine, even if the evidence provided is still very poor. Here we present a perspective for application of TMS and tDCS technique in children migraine principally based on evidence coming by studies in adults."
+  ],
+  "affiliation": [
+    "Dipartimento di Biomedicina, Neuroscienze and Diagnostica Avanzata (BiND), University of Palermo, Palermo, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcranial magnetic stimulation",
+        "Therapeutics",
+        "Transcranial Direct Current Stimulation",
+        "Non-invasive Brain Stimulation",
+        "Pediatric Migraine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00364"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6473052"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6473052?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-30"
+  ],
+  "firstIndexDate": [
+    "2019-04-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-28"
+  ],
+  "dateOfRevision": [
+    "2019-05-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-12"
+  ],
+  "firstPublicationDate": [
+    "2019-04-12"
+  ]
+}

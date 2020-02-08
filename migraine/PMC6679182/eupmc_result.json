@@ -1,0 +1,521 @@
+{
+  "id": [
+    "31252698"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31252698"
+  ],
+  "pmcid": [
+    "PMC6679182"
+  ],
+  "doi": [
+    "10.3390/jcm8070928"
+  ],
+  "title": [
+    "Hsa-miR-34a-5p and hsa-miR-375 as Biomarkers for Monitoring the Effects of Drug Treatment for Migraine Pain in Children and Adolescents: A Pilot Study."
+  ],
+  "authorString": [
+    "Gallelli L, Cione E, Peltrone F, Siviglia S, Verano A, Chirchiglia D, Zampogna S, Guidetti V, Sammartino L, Montana A, Caroleo MC, De Sarro G, Di Mizio G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gallelli L"
+          ],
+          "firstName": [
+            "Luca"
+          ],
+          "lastName": [
+            "Gallelli"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0858-7902",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Health Sciences, University of Magna Graecia, 88100 Catanzaro CZ, Italy. gallelli@unicz.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Cione E"
+          ],
+          "firstName": [
+            "Erika"
+          ],
+          "lastName": [
+            "Cione"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, Health and Nutritional Sciences, Department of Excellence 2018-2022, University of Calabria, 87036 Arcavacata, Rende CS, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Peltrone F"
+          ],
+          "firstName": [
+            "Fancesco"
+          ],
+          "lastName": [
+            "Peltrone"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Operative Unit of Pediatric diseases, Pugliese Ciaccio Hospital, 88100 Catanzaro CZ, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Siviglia S"
+          ],
+          "firstName": [
+            "Serena"
+          ],
+          "lastName": [
+            "Siviglia"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6537-5549",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Health Sciences, University of Magna Graecia, 88100 Catanzaro CZ, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Verano A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Verano"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, Health and Nutritional Sciences, Department of Excellence 2018-2022, University of Calabria, 87036 Arcavacata, Rende CS, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Chirchiglia D"
+          ],
+          "firstName": [
+            "Domenico"
+          ],
+          "lastName": [
+            "Chirchiglia"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4869-6249",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, University of Catanzaro, Campus Germaneto, 88100 Catanzaro CZ, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Zampogna S"
+          ],
+          "firstName": [
+            "Stefania"
+          ],
+          "lastName": [
+            "Zampogna"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Operative Unit of Pediatric diseases, Pugliese Ciaccio Hospital, 88100 Catanzaro CZ, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Guidetti V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Guidetti"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, \"Sapienza\" University, 00185, Rome RM, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sammartino L"
+          ],
+          "firstName": [
+            "Luca"
+          ],
+          "lastName": [
+            "Sammartino"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Dentasam, 95128 Catania CT, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Montana A"
+          ],
+          "firstName": [
+            "Angelo"
+          ],
+          "lastName": [
+            "Montana"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Medical Science, Surgical Science and advanced Technologies \"G.F, Ingrassia\", University of Catania, 95124 Catania CT, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Caroleo MC"
+          ],
+          "firstName": [
+            "Maria Cristina"
+          ],
+          "lastName": [
+            "Caroleo"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, Health and Nutritional Sciences, Department of Excellence 2018-2022, University of Calabria, 87036 Arcavacata, Rende CS, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "De Sarro G"
+          ],
+          "firstName": [
+            "Giovambattista"
+          ],
+          "lastName": [
+            "De Sarro"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Health Sciences, University of Magna Graecia, 88100 Catanzaro CZ, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Di Mizio G"
+          ],
+          "firstName": [
+            "Giulio"
+          ],
+          "lastName": [
+            "Di Mizio"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7279-3693",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Science, Surgical Science and advanced Technologies \"G.F, Ingrassia\", University of Catania, 95124 Catania CT, Italy. giulio.dimizio@unicz.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0858-7902",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4869-6249",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7279-3693",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6537-5549",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2831561"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Med"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Med"
+          ],
+          "NLMid": [
+            "101606588"
+          ],
+          "ISSN": [
+            "2077-0383"
+          ],
+          "ESSN": [
+            "2077-0383"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "MicroRNAs (miRs) have emerged as biomarkers of migraine disease in both adults and children. In this study we evaluated the expression of hsa-miR-34a-5p and hsa-miR-375 in serum and saliva of young subjects (age 11 ± 3.467 years) with migraine without aura (MWA), while some underwent pharmacological treatment, and healthy young subjects were used as controls. miRs were determined using the qRT-PCR method, and gene targets of hsa-miR-34a-5p and hsa-miR-375 linked to pain-migraine were found by in silico analysis. qRT-PCR revealed comparable levels of hsa-miRs in both blood and saliva. Higher expression of hsa-miR-34a-5p and hsa-miR-375 was detected in saliva of untreated MWAs compared to healthy subjects (hsa-miR-34a-5p: p < 0.05; hsa-miR-375 p < 0.01). Furthermore, in MWA treated subjects, a significant decrease of hsa-miR-34a-5p and of hsa-miR-375 was documented in saliva and blood compared to MWA untreated ones. Altogether, these findings suggested thathsa-miR-34a-5p and hsa-miR-375 are expressed equally in blood and saliva and that they could be a useful biomarker of disease and of drug efficacy in patients with MWA."
+  ],
+  "affiliation": [
+    "Department of Health Sciences, University of Magna Graecia, 88100 Catanzaro CZ, Italy. gallelli@unicz.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Blood",
+        "Saliva",
+        "Biomarkers",
+        "Drug treatment",
+        "Mirs",
+        "Clinical Risk Management",
+        "Pain-migraine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/jcm8070928"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6679182"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6679182?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-30"
+  ],
+  "firstIndexDate": [
+    "2019-07-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-21"
+  ],
+  "dateOfRevision": [
+    "2019-08-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-27"
+  ],
+  "firstPublicationDate": [
+    "2019-06-27"
+  ]
+}

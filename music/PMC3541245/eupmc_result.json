@@ -1,0 +1,467 @@
+{
+  "id": [
+    "23286319"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23286319"
+  ],
+  "pmcid": [
+    "PMC3541245"
+  ],
+  "doi": [
+    "10.1186/1471-244X-13-3"
+  ],
+  "title": [
+    "Developmental trauma disorder: pros and cons of including formal criteria in the psychiatric diagnostic systems."
+  ],
+  "authorString": [
+    "Schmid M, Petermann F, Fegert JM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Schmid M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "Schmid"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Petermann F"
+          ],
+          "firstName": [
+            "Franz"
+          ],
+          "lastName": [
+            "Petermann"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Fegert JM"
+          ],
+          "firstName": [
+            "Joerg M"
+          ],
+          "lastName": [
+            "Fegert"
+          ],
+          "initials": [
+            "JM"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2000654"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "NLMid": [
+            "100968559"
+          ],
+          "ISSN": [
+            "1471-244X"
+          ],
+          "ESSN": [
+            "1471-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "3"
+  ],
+  "abstractText": [
+    "BACKGROUND: This article reviews the current debate on developmental trauma disorder (DTD) with respect to formalizing its diagnostic criteria. Victims of abuse, neglect, and maltreatment in childhood often develop a wide range of age-dependent psychopathologies with various mental comorbidities. The supporters of a formal DTD diagnosis argue that post-traumatic stress disorder (PTSD) does not cover all consequences of severe and complex traumatization in childhood. DISCUSSION: Traumatized individuals are difficult to treat, but clinical experience has shown that they tend to benefit from specific trauma therapy. A main argument against inclusion of formal DTD criteria into existing diagnostic systems is that emphasis on the etiology of the disorder might force current diagnostic systems to deviate from their purely descriptive nature. Furthermore, comorbidities and biological aspects of the disorder may be underdiagnosed using the DTD criteria. SUMMARY: Here, we discuss arguments for and against the proposal of DTD criteria and address implications and consequences for the clinical practice."
+  ],
+  "affiliation": [
+    "Department of child and adolescent psychiatry University Basel, Schanzenstrasse 13, CH-4056, Basel, Switzerland. marc.Schmid@upkbs.ch"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "discussion",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interpersonal Relations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Attention"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress Disorders, Traumatic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress Disorders, Post-Traumatic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diagnostic and Statistical Manual of Mental Disorders"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Executive Function"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23286319/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23286319/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-244X-13-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3541245"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3541245?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-06-28"
+  ],
+  "dateOfCreation": [
+    "2013-01-10"
+  ],
+  "firstIndexDate": [
+    "2013-01-06"
+  ],
+  "fullTextReceivedDate": [
+    "2013-01-13"
+  ],
+  "dateOfRevision": [
+    "2013-07-11"
+  ],
+  "electronicPublicationDate": [
+    "2013-01-03"
+  ],
+  "firstPublicationDate": [
+    "2013-01-03"
+  ]
+}

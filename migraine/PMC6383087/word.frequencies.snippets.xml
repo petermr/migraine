@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6383087/results/word/frequencies/results.xml">
+  <result title="frequency" word="concussion" count="59"/>
+  <result title="frequency" word="symptoms" count="57"/>
+  <result title="frequency" word="children" count="49"/>
+  <result title="frequency" word="following" count="48"/>
+  <result title="frequency" word="injury" count="40"/>
+  <result title="frequency" word="SRC" count="39"/>
+  <result title="frequency" word="brain" count="39"/>
+  <result title="frequency" word="mTBI" count="39"/>
+  <result title="frequency" word="pediatric" count="38"/>
+  <result title="frequency" word="traumatic" count="38"/>
+  <result title="frequency" word="school" count="31"/>
+  <result title="frequency" word="mild" count="29"/>
+  <result title="frequency" word="social" count="28"/>
+  <result title="frequency" word="adolescents" count="25"/>
+  <result title="frequency" word="athletes" count="25"/>
+  <result title="frequency" word="postconcussive" count="22"/>
+  <result title="frequency" word="studies" count="22"/>
+  <result title="frequency" word="symptom" count="21"/>
+ </snippets>
+</snippetsTree>

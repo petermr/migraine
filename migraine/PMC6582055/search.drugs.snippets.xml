@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6582055/results/search/drugs/results.xml">
+  <result pre="pain was attributed to this diagnosis. The patient was prescribed" exact="azithromycin" post="as well as an oral antihistamine. A steroid injection"/>
+  <result pre="afebrile upon presentation to the ED. He was administered empiric" exact="ceftriaxone" post="and clindamycin for 2 days. On physical exam, the"/>
+  <result pre="nearly closed. His home medications included bismuth subsalicylate, acetaminophen, and" exact="pseudoephedrine" post="which did not appear to alleviate his symptoms. According"/>
+  <result pre="the left oculomotor nerve ( Fig. 2B). He was administered" exact="topiramate" post="with significant improvement in the severity of his headaches"/>
+  <result pre="Fig 2C). The patient's symptoms improved during the admission on" exact="topiramate" post="therapy, and the headache had resolved on discharge. Discussion"/>
+ </snippets>
+</snippetsTree>

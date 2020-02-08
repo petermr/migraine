@@ -1,0 +1,272 @@
+{
+  "id": [
+    "30761065"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30761065"
+  ],
+  "pmcid": [
+    "PMC6361827"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00021"
+  ],
+  "title": [
+    "Role of Sonification and Rhythmic Auditory Cueing for Enhancing Gait Associated Deficits Induced by Neurotoxic Cancer Therapies: A Perspective on Auditory Neuroprosthetics."
+  ],
+  "authorString": [
+    "Ghai S, Ghai I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ghai S"
+          ],
+          "firstName": [
+            "Shashank"
+          ],
+          "lastName": [
+            "Ghai"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Sports Science, Leibniz University Hannover, Hanover, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghai I"
+          ],
+          "firstName": [
+            "Ishan"
+          ],
+          "lastName": [
+            "Ghai"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Consultation Division, Program Management Discovery Sciences, RSGBIOGEN, New Delhi, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "21"
+  ],
+  "abstractText": [
+    "Patients undergoing chemotherapy, radiotherapy, and immunotherapy experience neurotoxic changes in the central and peripheral nervous system. These neurotoxic changes adversely affect functioning in the sensory, motor, and cognitive domains. Thereby, considerably affecting autonomic activities like gait and posture. Recent evidence from a range of systematic reviews and meta-analyses have suggested the beneficial influence of music-based external auditory stimulations i.e., rhythmic auditory cueing and real-time auditory feedback (sonification) on gait and postural stability in population groups will balance disorders. This perspective explores the conjunct implications of auditory stimulations during cancer treatment to simultaneously reduce gait and posture related deficits. Underlying neurophysiological mechanisms by which auditory stimulations might influence motor performance have been discussed. Prompt recognition of this sensorimotor training strategy in future studies can have a widespread impact on patient care in all areas of oncology."
+  ],
+  "affiliation": [
+    "Institute of Sports Science, Leibniz University Hannover, Hanover, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stability",
+        "Rehabilitation",
+        "Performance",
+        "Chemotherapy",
+        "Balance",
+        "perception",
+        "Cueing"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00021"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6361827"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6361827?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-15"
+  ],
+  "firstIndexDate": [
+    "2019-02-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-24"
+  ],
+  "dateOfRevision": [
+    "2019-02-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-29"
+  ],
+  "firstPublicationDate": [
+    "2019-01-29"
+  ]
+}

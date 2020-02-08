@@ -1,0 +1,339 @@
+{
+  "id": [
+    "PMC4182057"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC4182057"
+  ],
+  "doi": [
+    "10.1186/1129-2377-15-S1-E18"
+  ],
+  "title": [
+    "EHMTI-0085. White matter microstructure abnormalities in pediatric migraine patients: in-vivo measures of brain hyperexcitability?"
+  ],
+  "authorString": [
+    "Messina R, Rocca M, Colombo B, Pagani E, Falini A, Comi G, Filippi M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Messina R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Messina"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Neuroimaging Research Unit and Dept. of Neurology, Scientific Institute and University Hospital San Raffaele, Milan, Italy"
+          ]
+        },
+        {
+          "fullName": [
+            "Rocca M"
+          ],
+          "firstName": [
+            "MA"
+          ],
+          "lastName": [
+            "Rocca"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2358-4320",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Colombo B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Colombo"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Pagani E"
+          ],
+          "firstName": [
+            "E"
+          ],
+          "lastName": [
+            "Pagani"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Falini A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Falini"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Comi G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Comi"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Filippi M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Filippi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5485-0479",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5485-0479",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2358-4320",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2207909"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "E18-E18"
+  ],
+  "affiliation": [
+    "Neuroimaging Research Unit and Dept. of Neurology, Scientific Institute and University Hospital San Raffaele, Milan, Italy"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4182057/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4182057"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2014-10-05"
+  ],
+  "firstIndexDate": [
+    "2014-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2014-10-05"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "electronicPublicationDate": [
+    "2014-09-18"
+  ],
+  "firstPublicationDate": [
+    "2014-09-18"
+  ]
+}

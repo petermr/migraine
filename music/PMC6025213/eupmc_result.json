@@ -1,0 +1,293 @@
+{
+  "id": [
+    "29978151"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29978151"
+  ],
+  "pmcid": [
+    "PMC6025213"
+  ],
+  "doi": [
+    "10.1210/js.2018-00113"
+  ],
+  "title": [
+    "Unveiling \"Musica Universalis\" of the Cell: A Brief History of Biological 12-Hour Rhythms."
+  ],
+  "authorString": [
+    "Zhu B, Dacso CC, O'Malley BW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhu B"
+          ],
+          "firstName": [
+            "Bokai"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, Texas."
+          ]
+        },
+        {
+          "fullName": [
+            "Dacso CC"
+          ],
+          "firstName": [
+            "Clifford C"
+          ],
+          "lastName": [
+            "Dacso"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, Texas."
+          ]
+        },
+        {
+          "fullName": [
+            "O'Malley BW"
+          ],
+          "firstName": [
+            "Bert W"
+          ],
+          "lastName": [
+            "O'Malley"
+          ],
+          "initials": [
+            "BW"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, Texas."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2699977"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of the Endocrine Society"
+          ],
+          "ISOAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "medlineAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "NLMid": [
+            "101697997"
+          ],
+          "ISSN": [
+            "2472-1972"
+          ],
+          "ESSN": [
+            "2472-1972"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "727-752"
+  ],
+  "abstractText": [
+    "\"Musica universalis\" is an ancient philosophical concept claiming the movements of celestial bodies follow mathematical equations and resonate to produce an inaudible harmony of music, and the harmonious sounds that humans make were an approximation of this larger harmony of the universe. Besides music, electromagnetic waves such as light and electric signals also are presented as harmonic resonances. Despite the seemingly universal theme of harmonic resonance in various disciplines, it was not until recently that the same harmonic resonance was discovered also to exist in biological systems. Contrary to traditional belief that a biological system is either at stead-state or cycles with a single frequency, it is now appreciated that most biological systems have no homeostatic \"set point,\" but rather oscillate as composite rhythms consisting of superimposed oscillations. These oscillations often cycle at different harmonics of the circadian rhythm, and among these, the ~12-hour oscillation is most prevalent. In this review, we focus on these 12-hour oscillations, with special attention to their evolutionary origin, regulation, and functions in mammals, as well as their relationship to the circadian rhythm. We further discuss the potential roles of the 12-hour clock in regulating hepatic steatosis, aging, and the possibility of 12-hour clock-based chronotherapy. Finally, we posit that biological rhythms are also musica universalis: whereas the circadian rhythm is synchronized to the 24-hour light/dark cycle coinciding with the Earth's rotation, the mammalian 12-hour clock may have evolved from the circatidal clock, which is entrained by the 12-hour tidal cues orchestrated by the moon."
+  ],
+  "affiliation": [
+    "Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, Texas."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mitochondria",
+        "Aging",
+        "ER stress",
+        "Chronotherapy",
+        "Nafld",
+        "Xbp1",
+        "12H-clock"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1210/js.2018-00113"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6025213"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6025213?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-07"
+  ],
+  "firstIndexDate": [
+    "2018-07-07"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-07"
+  ],
+  "dateOfRevision": [
+    "2018-07-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-06"
+  ],
+  "firstPublicationDate": [
+    "2018-06-06"
+  ]
+}

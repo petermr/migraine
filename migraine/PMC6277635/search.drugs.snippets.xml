@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6277635/results/search/drugs/results.xml">
+  <result pre="( 13, 16), headache education ( 14, 15), education plus" exact="amitriptyline" post="( 12), amitriptyline or gabapentin ( 22). The majority"/>
+  <result pre="headache education ( 14, 15), education plus amitriptyline ( 12)," exact="amitriptyline" post="or gabapentin ( 22). The majority of the studies"/>
+  <result pre="( 14, 15), education plus amitriptyline ( 12), amitriptyline or" exact="gabapentin" post="( 22). The majority of the studies evaluated the"/>
+  <result pre="to education ( 13, 14), TAU ( 15, 16) or" exact="amitriptyline" post="plus education ( 12). Two of these studies focused"/>
+  <result pre="a group of patients who received a preventative medication, either" exact="amitriptyline" post="or gabapentin. The multimodal treatment group was instructed to"/>
+  <result pre="AD Powers SW Bentti AL Degrauw TJ . Effectiveness of" exact="amitriptyline" post="in the prophylactic management of childhood headaches. Headache ("/>
+  <result pre="Slater SK Zafar M. et al. Cognitive behavioral therapy plus" exact="amitriptyline" post="for chronic migraine in children and adolescents: a randomized"/>
+ </snippets>
+</snippetsTree>

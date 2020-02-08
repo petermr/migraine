@@ -1,0 +1,316 @@
+{
+  "id": [
+    "24961619"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24961619"
+  ],
+  "pmcid": [
+    "PMC4061890"
+  ],
+  "doi": [
+    "10.3390/brainsci3041483"
+  ],
+  "title": [
+    "Olfactory Hallucinations without Clinical Motor Activity: A Comparison of Unirhinal with Birhinal Phantosmia."
+  ],
+  "authorString": [
+    "Henkin RI, Potolicchio SJ, Levy LM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Henkin RI"
+          ],
+          "firstName": [
+            "Robert I"
+          ],
+          "lastName": [
+            "Henkin"
+          ],
+          "initials": [
+            "RI"
+          ],
+          "affiliation": [
+            "Center for Molecular Nutrition and Sensory Disorders, The Taste and Smell Clinic, 5125 MacArthur Blvd, NW, Suite 20, Washington, DC 20016, USA. doc@tasteandsmell.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Potolicchio SJ"
+          ],
+          "firstName": [
+            "Samuel J"
+          ],
+          "lastName": [
+            "Potolicchio"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Department of Neurology, The George Washington University Medical Center, 2150 Pennsylvania Avenue, NW, 7th Floor, Washington, DC 20037, USA. spotolicchio@mfa.gwu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Levy LM"
+          ],
+          "firstName": [
+            "Lucien M"
+          ],
+          "lastName": [
+            "Levy"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "affiliation": [
+            "Department of Radiology, The George Washington University Medical Center, 900 23rd Street, NW, Washington, DC 20037, USA. llevy@mfa.gwu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2130586"
+      ],
+      "dateOfPublication": [
+        "2013 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain sciences"
+          ],
+          "ISOAbbreviation": [
+            "Brain Sci"
+          ],
+          "medlineAbbreviation": [
+            "Brain Sci"
+          ],
+          "NLMid": [
+            "101598646"
+          ],
+          "ISSN": [
+            "2076-3425"
+          ],
+          "ESSN": [
+            "2076-3425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "1483-1553"
+  ],
+  "abstractText": [
+    "Olfactory hallucinations without subsequent myoclonic activity have not been well characterized or understood. Herein we describe, in a retrospective study, two major forms of olfactory hallucinations labeled phantosmias: one, unirhinal, the other, birhinal. To describe these disorders we performed several procedures to elucidate similarities and differences between these processes. From 1272, patients evaluated for taste and smell dysfunction at The Taste and Smell Clinic, Washington, DC with clinical history, neurological and otolaryngological examinations, evaluations of taste and smell function, EEG and neuroradiological studies 40 exhibited cyclic unirhinal phantosmia (CUP) usually without hyposmia whereas 88 exhibited non-cyclic birhinal phantosmia with associated symptomology (BPAS) with hyposmia. Patients with CUP developed phantosmia spontaneously or after laughing, coughing or shouting initially with spontaneous inhibition and subsequently with Valsalva maneuvers, sleep or nasal water inhalation; they had frequent EEG changes usually ipsilateral sharp waves. Patients with BPAS developed phantosmia secondary to several clinical events usually after hyposmia onset with few EEG changes; their phantosmia could not be initiated or inhibited by any physiological maneuver. CUP is uncommonly encountered and represents a newly defined clinical syndrome. BPAS is commonly encountered, has been observed previously but has not been clearly defined. Mechanisms responsible for phantosmia in each group were related to decreased gamma-aminobutyric acid (GABA) activity in specific brain regions. Treatment which activated brain GABA inhibited phantosmia in both groups."
+  ],
+  "affiliation": [
+    "Center for Molecular Nutrition and Sensory Disorders, The Taste and Smell Clinic, 5125 MacArthur Blvd, NW, Suite 20, Washington, DC 20016, USA. doc@tasteandsmell.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24961619/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24961619/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/brainsci3041483"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4061890"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4061890?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-25"
+  ],
+  "dateOfCreation": [
+    "2014-06-26"
+  ],
+  "firstIndexDate": [
+    "2014-06-26"
+  ],
+  "fullTextReceivedDate": [
+    "2014-06-21"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2013-11-15"
+  ],
+  "firstPublicationDate": [
+    "2013-11-15"
+  ]
+}

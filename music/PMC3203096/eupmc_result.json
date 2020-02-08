@@ -1,0 +1,576 @@
+{
+  "id": [
+    "21982203"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21982203"
+  ],
+  "pmcid": [
+    "PMC3203096"
+  ],
+  "doi": [
+    "10.1186/1472-6882-11-89"
+  ],
+  "title": [
+    "Attitudes towards complementary and alternative medicine in chronic pain syndromes: a questionnaire-based comparison between primary headache and low back pain."
+  ],
+  "authorString": [
+    "Gaul C, Schmidt T, Czaja E, Eismann R, Zierz S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gaul C"
+          ],
+          "firstName": [
+            "Charly"
+          ],
+          "lastName": [
+            "Gaul"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Schmidt T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Schmidt"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Czaja E"
+          ],
+          "firstName": [
+            "Eva"
+          ],
+          "lastName": [
+            "Czaja"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Eismann R"
+          ],
+          "firstName": [
+            "Regina"
+          ],
+          "lastName": [
+            "Eismann"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Zierz S"
+          ],
+          "firstName": [
+            "Stephan"
+          ],
+          "lastName": [
+            "Zierz"
+          ],
+          "initials": [
+            "S"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "1798865"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC complementary and alternative medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "NLMid": [
+            "101088661"
+          ],
+          "ISSN": [
+            "1472-6882"
+          ],
+          "ESSN": [
+            "1472-6882"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "89"
+  ],
+  "abstractText": [
+    "BACKGROUND: Complementary and Alternative Medicine (CAM) is widely used and popular among patients with primary headache or low back pain (LBP). Aim of the study was to analyze attitudes of headache and LBP patients towards the use of CAM. METHODS: Two questionnaire-based surveys were applied comparing 432 primary headache and 194 LBP patients. RESULTS: In total, 84.75% of all patients reported use of CAM; with significantly more LBP patients. The most frequently-used CAM therapies in headache were acupuncture (71.4%), massages (56.4%), and thermotherapy (29.2%), in LBP thermotherapy (77.4%), massages (62.7%), and acupuncture (51.4%). The most frequent attitudes towards CAM use in headache vs. LBP: \"leave nothing undone\" (62.5% vs. 52.1%; p = 0.006), \"take action against the disease\" (56.8% vs. 43.2%; p = 0.006). Nearly all patients with previous experience with CAM currently use CAM in both conditions (93.6% in headache; 100% in LBP). However, the majority of the patients had no previous experience. CONCLUSION: Understanding motivations for CAM treatment is important, because attitudes derive from wishes for non-pharmacological treatment, to be more involved in treatment and avoid side effects. Despite higher age and more permanent pain in LBP, both groups show high use of CAM with only little specific difference in preferred methods and attitudes towards CAM use. This may reflect deficits and unfulfilled goals in conventional treatment. Maybe CAM can decrease the gap between patients' expectations about pain therapy and treatment reality, considering that both conditions are often chronic diseases, causing high burdens for daily life."
+  ],
+  "affiliation": [
+    "Department of Neurology, University Duisburg-Essen, Essen, Germany. Charly.Gaul@gmx.de"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Low Back Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Complementary Therapies"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "UT"
+                  ],
+                  "qualifierName": [
+                    "utilization"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Data Collection"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Questionnaires"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Attitude to Health"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21982203/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21982203/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1472-6882-11-89"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3203096"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3203096?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-12-27"
+  ],
+  "dateOfCreation": [
+    "2011-10-27"
+  ],
+  "firstIndexDate": [
+    "2011-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-05"
+  ],
+  "dateOfRevision": [
+    "2013-06-27"
+  ],
+  "electronicPublicationDate": [
+    "2011-10-07"
+  ],
+  "firstPublicationDate": [
+    "2011-10-07"
+  ]
+}

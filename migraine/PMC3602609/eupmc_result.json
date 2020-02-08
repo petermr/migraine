@@ -1,0 +1,292 @@
+{
+  "id": [
+    "23526480"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23526480"
+  ],
+  "pmcid": [
+    "PMC3602609"
+  ],
+  "doi": [
+    "10.1186/2193-1801-2-77"
+  ],
+  "title": [
+    "Brief migraine episodes in children and adolescents-a modification to International Headache Society pediatric migraine (without aura) diagnostic criteria."
+  ],
+  "authorString": [
+    "Francis MV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Francis MV"
+          ],
+          "firstName": [
+            "Muttamthottil Varghese"
+          ],
+          "lastName": [
+            "Francis"
+          ],
+          "initials": [
+            "MV"
+          ],
+          "affiliation": [
+            "Headache & Neuroophthalmology Services Teresa Eye and Migraine Centre, Cherthala, Alleppey, Kerala 688527 India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2009497"
+      ],
+      "dateOfPublication": [
+        "2013 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SpringerPlus"
+          ],
+          "ISOAbbreviation": [
+            "Springerplus"
+          ],
+          "medlineAbbreviation": [
+            "Springerplus"
+          ],
+          "NLMid": [
+            "101597967"
+          ],
+          "ISSN": [
+            "2193-1801"
+          ],
+          "ESSN": [
+            "2193-1801"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "77"
+  ],
+  "abstractText": [
+    "The international Headache Society (I H S) diagnostic criteria (International classification of headache disorders edition 2- ICHD 2) for headache in children and adults improved the accuracy of migraine diagnoses. However many short duration headaches in children, receive an atypical migraine diagnosis. This study is to diagnose children and adolescents who presented with such atypical migraines of less than one hour duration. 1402 children and adolescents aged 5 to 15 years who presented with recurrent brief activity affected head pain, were studied. Known and common migraine triggers and family history of migraine were recorded in all. All the children studied had moderate to severe headache lasting 5 to 45 minutes which forced them motionless during the attacks (thus fulfilling 2 diagnostic pain features). At least one of the ICHD2 pediatric migraine diagnostic symptoms (nausea / vomiting / photophobia / phonophobia) were present in all. Two additional features were diagnostic of brief migraines in all of them- one of the parents or siblings was a migrainer and one of the common migraine triggers as a precipitating factor. This study concludes that if duration of head pain is less than one hour ,two additional features to be included to diagnose definitive migraine in children and adolescents - one migraine parent or sibling and one of the migraine triggers precipitating the head pain."
+  ],
+  "affiliation": [
+    "Headache & Neuroophthalmology Services Teresa Eye and Migraine Centre, Cherthala, Alleppey, Kerala 688527 India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Modification",
+        "Brief Migraines",
+        "Ichd2",
+        "Common Migraine Triggers Family History"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23526480/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23526480/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/2193-1801-2-77"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3602609"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3602609?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-11-26"
+  ],
+  "dateOfCreation": [
+    "2014-11-26"
+  ],
+  "firstIndexDate": [
+    "2013-04-03"
+  ],
+  "fullTextReceivedDate": [
+    "2013-03-28"
+  ],
+  "dateOfRevision": [
+    "2014-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2013-03-04"
+  ],
+  "firstPublicationDate": [
+    "2013-03-04"
+  ]
+}

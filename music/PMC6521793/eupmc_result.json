@@ -1,0 +1,307 @@
+{
+  "id": [
+    "31143156"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31143156"
+  ],
+  "pmcid": [
+    "PMC6521793"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00473"
+  ],
+  "title": [
+    "Alice in Wonderland Syndrome as a Presenting Manifestation of Creutzfeldt-Jakob Disease."
+  ],
+  "authorString": [
+    "Naarden T, Ter Meulen BC, van der Weele SI, Blom JD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Naarden T"
+          ],
+          "firstName": [
+            "Tirza"
+          ],
+          "lastName": [
+            "Naarden"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Neurology, Onze Lieve Vrouwe Gasthuis, Amsterdam, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Ter Meulen BC"
+          ],
+          "firstName": [
+            "Bastiaan C"
+          ],
+          "lastName": [
+            "Ter Meulen"
+          ],
+          "initials": [
+            "BC"
+          ],
+          "affiliation": [
+            "Department of Neurology, Onze Lieve Vrouwe Gasthuis, Amsterdam, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van der Weele SI"
+          ],
+          "firstName": [
+            "Sarah I"
+          ],
+          "lastName": [
+            "van der Weele"
+          ],
+          "initials": [
+            "SI"
+          ],
+          "affiliation": [
+            "Department of Neurology, Onze Lieve Vrouwe Gasthuis, Amsterdam, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Blom JD"
+          ],
+          "firstName": [
+            "Jan Dirk"
+          ],
+          "lastName": [
+            "Blom"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Outpatient Clinic for Uncommon Psychiatric Syndromes, Parnassia Psychiatric Institute, The Hague, Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "473"
+  ],
+  "abstractText": [
+    "Background: Alice in Wonderland syndrome (AIWS) is a rare neurological disorder characterized by distortions of visual perception (metamorphopsias), the body image, and the experience of time, along with derealization and depersonalization. Some 85% of patients present with perceptual distortions in a single sensory modality, e.g., only visual or only somesthetic in nature. Moreover, the majority experience only a single type of distortion, e.g., only micropsia or only macropsia. AIWS has many different etiologies, and hence an extensive differential diagnosis. Its amenability to treatment depends on the underlying pathological process, which in children is mostly encephalitis, and in adults, migraine. In the literature, no more than 180 \"clinical\" cases of AIWS have been described (i.e., cases in need of medical attention). Of them, some 50% showed a favorable prognosis. However, non-clinical cases (i.e., fleeting, transient cases of AIWS for which no professional help is needed) have been described in up to 30% of the general population. This indicates that AIWS is perhaps not as rare as traditionally assumed, and has led some authors to conclude that, prognostically, AIWS is usually harmless. Methods: From our own clinical practice, we describe the first known case of Creutzfeldt-Jakob Disease (CJD, Heidenhain variant) that presented with symptoms of AIWS. Results: In our patient, disease onset was sudden and rapidly progressive, starting with isolated visual symptoms. Symptoms of AIWS comprised akinetopsia, chloropsia, micropsia, macropsia, zoom vision, and time distortions (quick-motion phenomenon and protracted duration). Soon, these were complicated by paraesthesias, gait instability, aphasia, expressive amusia, cognitive decline, and behavioral changes in the form of agitation and emotional lability. The diagnosis of probable sporadic CJD was confirmed with the aid of a head MRI and cerebrospinal fluid (14-3-3 protein). In the absence of any treatment options, our patient was discharged home and died within 2 months after his visual symptoms had begun. Autopsy consent was not obtained. Conclusion: We conclude that AIWS is not always as harmless as sometimes suggested, and that CJD, although extremely rare, must be part of its extensive differential diagnosis, notably in the presence of rapid cognitive decline."
+  ],
+  "affiliation": [
+    "Department of Neurology, Onze Lieve Vrouwe Gasthuis, Amsterdam, Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Etiology",
+        "Prognosis",
+        "Neurodegeneration",
+        "Visual Perception",
+        "Prion Disease",
+        "Metamorphopsia",
+        "Heidenhain Variant",
+        "Time Distortion"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00473"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6521793"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6521793?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-31"
+  ],
+  "firstIndexDate": [
+    "2019-05-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-09"
+  ],
+  "firstPublicationDate": [
+    "2019-05-09"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6131682/results/search/funders/results.xml">
+  <result pre="of Neurology, Bispebjerg Hospital and University of Copenhagen, [4], grid.410567.1" exact="Department of Obstetrics and Gynecology," post="University Hospital of Basel, [5], 0000 0001 2171 2558"/>
+  <result pre="University Hospital of Basel, [5], 0000 0001 2171 2558 grid.5842.b" exact="Université Paris-Saclay," post="University Paris-Sud, UVSQ, CESP, Inserm UMRS1018, [6], 0000 0001"/>
+  <result pre="Centre for Neuroscience &amp;amp; Trauma, BICMS, Barts and the London" exact="School of Medicine" post="and Dentistry, [11], 0000 0000 9244 0345 grid.416353.6 Barts"/>
+  <result pre="0000 0001 2155 0800 grid.5216.0 Department of Neurology, Aeginition Hospital," exact="National and Kapodistrian University of Athens," post="[14], 0000 0004 1762 5736 grid.8982.b Research Centre for"/>
+ </snippets>
+</snippetsTree>

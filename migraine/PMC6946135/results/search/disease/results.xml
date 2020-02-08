@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="disease">
+ <result pre="many neurological disorders with minimal side effects [ 6], including" exact="migraine" post="[ 7], stroke [ 8], Parkinson’s disease [ 9],"/>
+ <result pre="with minimal side effects [ 6], including migraine [ 7]," exact="stroke" post="[ 8], Parkinson’s disease [ 9], pain disorders ["/>
+ <result pre="is also seen in pediatric studies applying tDCS contralateral to" exact="stroke" post="lesions in an effort to augment motor learning of"/>
+ <result pre="weeks after tDCS intervention have been seen in primary progressive" exact="aphasia" post="[ 11]; though those changes were seen at the"/>
+ <result pre="therapy for a range of disorders including migraine, pain and" exact="stroke" post="[ 6– 8, 10, 12, 20, 41]. While these"/>
+ <result pre="of the motor cortex is altered during headache-free intervals in" exact="migraine" post="with aura . Cereb Cortex. 2008; 18( 11): 2701–"/>
+ <result pre="brain DC stimulation is associated with motor function improvement in" exact="stroke" post="patients . Restor Neurol Neurosci. 2007; 25( 2): 123–"/>
+ <result pre="et al. Transcranial direct current stimulation for children with perinatal" exact="stroke" post="and hemiparesis. Neurology. 2016; 88( 3): 259– 67. 10.1212/WNL.0000000000003518"/>
+ <result pre="developmental plasticity after perinatal stroke: Defining central therapeutic targets in" exact="cerebral palsy" post=". Vol. 48, Pediatric Neurology. 2013 p. 81– 94."/>
+ <result pre="biomarkers after transcranial direct current stimulation in children with perinatal" exact="stroke" post=". Brain Stimul. 2018; 11( 1): 94– 103. 10.1016/j.brs.2017.09.007"/>
+ <result pre="current stimulation (HD-tDCS) to enhance treatment outcomes in persons with" exact="aphasia" post=". NeuroRehabilitation. 2015; 36( 1): 115– 26. 10.3233/NRE-141199 25547776"/>
+ <result pre="direct current stimulation therapy and predictors of its efficacy in" exact="fibromyalgia" post=". Arthritis Rheumatol. 2015; 67( 2): 576– 81. 10.1002/art.38945"/>
+</results>

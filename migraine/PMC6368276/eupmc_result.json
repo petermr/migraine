@@ -1,0 +1,626 @@
+{
+  "id": [
+    "30735506"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30735506"
+  ],
+  "pmcid": [
+    "PMC6368276"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0205874"
+  ],
+  "title": [
+    "Prevalence of TMD and level of chronic pain in a group of Brazilian adolescents."
+  ],
+  "authorString": [
+    "de Melo Júnior PC, Aroucha JMCNL, Arnaud M, Lima MGS, Gomes SGF, Ximenes R, Rosenblatt A, Caldas AF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Melo Júnior PC"
+          ],
+          "firstName": [
+            "Paulo Correia"
+          ],
+          "lastName": [
+            "de Melo Júnior"
+          ],
+          "initials": [
+            "PC"
+          ],
+          "affiliation": [
+            "Postgraduate Program in Dentistry, Department of Pediatric Dentistry, School of Dentistry, University of Pernambuco, Camaragibe, Pernambuco, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Aroucha JMCNL"
+          ],
+          "firstName": [
+            "João Marcílio Coelho Netto Lins"
+          ],
+          "lastName": [
+            "Aroucha"
+          ],
+          "initials": [
+            "JMCNL"
+          ],
+          "affiliation": [
+            "Postgraduate Program in Dentistry, Federal University of Pernambuco, Recife, Pernambuco, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Arnaud M"
+          ],
+          "firstName": [
+            "Manuela"
+          ],
+          "lastName": [
+            "Arnaud"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Postgraduate Program in Dentistry, Department of Pediatric Dentistry, School of Dentistry, University of Pernambuco, Camaragibe, Pernambuco, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Lima MGS"
+          ],
+          "firstName": [
+            "Maria Goretti de Souza"
+          ],
+          "lastName": [
+            "Lima"
+          ],
+          "initials": [
+            "MGS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2539-2357",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Postgraduate Program in Dentistry, Department of Pediatric Dentistry, School of Dentistry, University of Pernambuco, Camaragibe, Pernambuco, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Gomes SGF"
+          ],
+          "firstName": [
+            "Simone Guimarães Farias"
+          ],
+          "lastName": [
+            "Gomes"
+          ],
+          "initials": [
+            "SGF"
+          ],
+          "affiliation": [
+            "Department of Prosthesis and Oral Facial Surgery, Federal University of Pernambuco, Recife, Pernambuco, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Ximenes R"
+          ],
+          "firstName": [
+            "Rosana"
+          ],
+          "lastName": [
+            "Ximenes"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neuropsychiatry, Federal University of Pernambuco, Recife, Pernambuco, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Rosenblatt A"
+          ],
+          "firstName": [
+            "Aronita"
+          ],
+          "lastName": [
+            "Rosenblatt"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatric Dentistry, School of Dentistry, University of Pernambuco, Camaragibe, Pernambuco, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Caldas AF Jr"
+          ],
+          "firstName": [
+            "Arnaldo de França"
+          ],
+          "lastName": [
+            "Caldas"
+          ],
+          "initials": [
+            "AF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3713-7532",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatric Dentistry, School of Dentistry, University of Pernambuco, Camaragibe, Pernambuco, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2539-2357",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3713-7532",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2776759"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0205874"
+  ],
+  "abstractText": [
+    "AIMS:To determine the prevalence of temporomandibular disorders and associated factors in an adolescent sample from Recife, Brazil. MATERIALS AND METHODS:A cross-sectional study was conducted with 1342 adolescents aged 10-17 years. The Research Diagnostic Criteria for Temporomandibular Disorders (RDC/TMD) was used by calibrated examiners to evaluate the presence and levels of chronic pain. To evaluate the socioeconomic conditions, the subjects answered the Brazilian Economic Classification Criteria (CCEB) questionnaire. Data were analyzed by means of binary logistic regression in SPSS. RESULTS:The results showed that 33.2% of the subjects had TMD irrespective of age (p = 0.153) or economic class (p = 0.653). Statistically significant associations were found between TMD and female gender (p = 0.017), headache/migraine in the past six months (p<0.001), chronic pain (p<0.001) and chronic pain level (p<0.001). In the final model, logistic regression showed that the level of chronic pain and the headache/migraine in the past six months were related to the presence of TMD. CONCLUSIONS:The prevalence of TMD was considered high (33.2%) and adolescents with chronic pain and headache in the past six months were more likely to have TMD. CLINICAL RELEVANCE:The data contribute to the understanding of TMD among adolescents and to the development of preventive measures and polices to identify the dysfunction promptly."
+  ],
+  "affiliation": [
+    "Postgraduate Program in Dentistry, Department of Pediatric Dentistry, School of Dentistry, University of Pernambuco, Camaragibe, Pernambuco, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Observational Study"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Temporomandibular Joint Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Age Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sex Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Socioeconomic Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brazil"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0205874"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6368276"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6368276?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR57773"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-12"
+  ],
+  "dateOfCreation": [
+    "2019-02-09"
+  ],
+  "firstIndexDate": [
+    "2019-02-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-08"
+  ],
+  "firstPublicationDate": [
+    "2019-02-08"
+  ]
+}

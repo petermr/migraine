@@ -1,0 +1,308 @@
+{
+  "id": [
+    "30877696"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30877696"
+  ],
+  "pmcid": [
+    "PMC6444142"
+  ],
+  "doi": [
+    "10.3988/jcn.2019.15.2.191"
+  ],
+  "title": [
+    "Transient and Adult Patients with Neurologic Diseases in the Pediatric Emergency Department: Trends and Characteristics."
+  ],
+  "authorString": [
+    "Na JH, Lee YM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Na JH"
+          ],
+          "firstName": [
+            "Ji Hoon"
+          ],
+          "lastName": [
+            "Na"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3051-2010",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Yonsei University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee YM"
+          ],
+          "firstName": [
+            "Young Mock"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "YM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5838-249X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Yonsei University College of Medicine, Seoul, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3051-2010",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5838-249X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2799886"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical neurology (Seoul, Korea)"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Neurol"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Neurol"
+          ],
+          "NLMid": [
+            "101252374"
+          ],
+          "ISSN": [
+            "1738-6586"
+          ],
+          "ESSN": [
+            "2005-5013"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "191-204"
+  ],
+  "abstractText": [
+    "BACKGROUND AND PURPOSE:There is an increasing rate of presentations by transient and adult patients (TAPs) to pediatric emergency departments (PED-EDs). TAPs with neurologic diseases (N-TAPs) comprise most of these patients. We investigated this trend and compared the characteristics of N-TAPs with those of pediatric patients with neurologic diseases (N-PEDs) who presented to the PED-ED of a tertiary-care hospital in Korea. METHODS:We reviewed the medical records of neurologic patients who presented to the PED-ED of a single tertiary-care hospital from 2013 to 2017. We included patients with neurologic symptoms or diseases and those who were treated in the pediatric neurology department and underwent neurologic evaluations and treatment in the PED-ED. RESULTS:Presentations by N-TAPs to the PED-ED increased over time, whereas the number of N-PEDs gradually decreased, with a significant difference between the groups (p<0.001). The number of N-TAPs who presented to the PED-ED almost tripled from 2013 to 2017. N-TAPs had significantly more acute symptoms than N-PEDs, and a significantly higher proportion of N-TAPs were insured by Medical Aid compared to N-PEDs (p<0.001). The admission rate was significantly higher (p<0.001) and the mean hospital stay was longer (p=0.046) for N-TAPs. Epilepsy and neurometabolic diseases were mainly responsible for the increased presentations by N-TAPs. CONCLUSIONS:We have clarified the status of N-TAPs in the PED-ER and the role of pediatric neurologists who manage them. Multidisciplinary treatments focusing on the role of pediatric neurologists should be developed to that systematic long-term care plans are applied to N-TAPs."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Yonsei University College of Medicine, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Adult",
+        "Pediatrics",
+        "Emergency Department",
+        "Transient",
+        "Pediatric Neurology",
+        "Neurologic Patient"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3988/jcn.2019.15.2.191"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6444142"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6444142?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-17"
+  ],
+  "firstIndexDate": [
+    "2019-03-17"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-06"
+  ],
+  "dateOfRevision": [
+    "2019-04-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-11"
+  ],
+  "firstPublicationDate": [
+    "2019-03-11"
+  ]
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="disease">
+ <result pre="MEG examinations remain few, mainly restricted to the diagnostics of" exact="epilepsy" post="and to preoperative functional evaluation of neurosurgical patients. We"/>
+ <result pre="current dipole ECoG, electrocorticography fMRI, functional magnetic resonance imaging HE," exact="hepatic encephalopathy" post="IAP, intracarotid amobarbital procedure ICA, independent component analysis IES,"/>
+ <result pre="dipole ECoG, electrocorticography fMRI, functional magnetic resonance imaging HE, hepatic" exact="encephalopathy" post="IAP, intracarotid amobarbital procedure ICA, independent component analysis IES,"/>
+ <result pre="Preoperative evaluation Stroke Pain Traumatic brain injury Parkinson’s disease Hepatic" exact="encephalopathy" post="Alzheimer’s disease and dementia Neuropsychiatric disorders Brain maturation and"/>
+ <result pre="Traumatic brain injury Parkinson’s disease Hepatic encephalopathy Alzheimer’s disease and" exact="dementia" post="Neuropsychiatric disorders Brain maturation and development Dyslexia Guidelines See"/>
+ <result pre="the functional state of the primary motor cortex. Specifically, 20-Hz" exact="suppression" post="begins 0.5–2 s prior to a voluntary movement, with a"/>
+ <result pre="about 0.5 s after the movement ends. This type of mu" exact="suppression" post="can also occur during action viewing and motor imagery"/>
+ <result pre="illustrates how tSSS cleans spontaneous MEG data recorded from an" exact="epilepsy" post="patient in whom magnetic particles in the skull produced"/>
+ <result pre="framework has been developed that allows optimization of the sensor-noise" exact="suppression" post="by fully exploiting both the spatial and temporal properties"/>
+ <result pre="2008, Larson and Taulu, 2017b) Below we recommend some artifact" exact="suppression" post="methods, suitable for dampening different types of nuisance signals."/>
+ <result pre="seizures but also occur in healthy infants. Here the recommended" exact="suppression" post="methods are SSS and tSSS. Minimum-norm-based methods (see below)"/>
+ <result pre="be used as well, but a separate algorithm for the" exact="suppression" post="of movement-induced artifacts would need to be applied. Continuous"/>
+ <result pre="al., 2002), and abnormal EEG–EMG coherence in acute and chronic" exact="stroke" post="patients ( von Carlowitz-Ghori et al., 2014). In general,"/>
+ <result pre="manifestations, such as physiological tremor ( Raethjen et al., 2002)," exact="essential tremor" post="( Schnitzler et al., 2009), Parkinsonian tremor ( Timmermann"/>
+ <result pre="reason not to always record EEG with MEG, especially in" exact="epilepsy" post="patients ( Lopes da Silva, 2008, Stefan and Trinka,"/>
+ <result pre="MEG has become part of the standard of care at" exact="epilepsy" post="centers, utilized frequently to guide the implantation of intracranial"/>
+ <result pre="only for localization of epileptic sources, but for diagnosis of" exact="epilepsy" post="( Colon et al., 2009, Duez et al., 2016,"/>
+ <result pre="and Knowlton, 2015). MEG can confirm a patient’s suitability for" exact="epilepsy" post="surgery. The spatial resolution of MEG and the ability"/>
+ <result pre="seizures. MEG has proven helpful for selecting good candidates for" exact="epilepsy" post="surgery when structural brain MRI is negative ( Jung"/>
+ <result pre="Accordingly, MEG has been found more effective than EEG in" exact="epilepsy" post="screening ( Ossenblok et al., 2007). Identification of &quot;MEG-unique&quot;"/>
+ <result pre="resected region. In the workup of patients under consideration for" exact="epilepsy" post="surgery, MEG provides complementary information. The MEG findings can"/>
+ <result pre="acutely in the operating room, or chronically in a long-term" exact="epilepsy" post="monitoring unit (or neurosurgical intensive-care unit). Language-sensitive cortex is"/>
+ <result pre="studies. 4 Clinical applications on the horizon 4.1 Stroke A" exact="stroke" post="in the territory of the middle cerebral artery typically"/>
+ <result pre="to altered brain connectivity, some of the symptoms after a" exact="stroke" post="can arise from brain areas remote from the damaged"/>
+ <result pre="skills. MEG is well suited for investigating neurophysiological changes after" exact="stroke" post="because it, unlike MRI, is independent of hemodynamic alterations;"/>
+ <result pre="the patient, they are well suited for studies of acute" exact="stroke" post="patients ( Forss et al., 1999, Wikström et al.,"/>
+ <result pre="Parkkonen et al., 2017). MEG recordings in severely ill acute" exact="stroke" post="patients are demanding as the co-operation may be poor"/>
+ <result pre="in phantom pain ( Flor et al., 1995) and in" exact="complex regional pain syndrome" post="( Juottonen et al., 2002; Maihöfner et al., 2003)."/>
+ <result pre="in patients suffering from various types of chronic pain including" exact="migraine" post="( Li et al., 2016, Xiang et al., 2016),"/>
+ <result pre="al., 2016), menstrual pain ( Kuo et al., 2017), and" exact="fibromyalgia" post="( Lim et al., 2016, Hsiao et al., 2017)."/>
+ <result pre="explored enough to be useful for clinical applications. 4.5 Hepatic" exact="encephalopathy" post="Hepatic encephalopathy (HE) is a complex neuropsychiatric disorder resulting"/>
+ <result pre="to be useful for clinical applications. 4.5 Hepatic encephalopathy Hepatic" exact="encephalopathy" post="(HE) is a complex neuropsychiatric disorder resulting from acute"/>
+ <result pre="is a complex neuropsychiatric disorder resulting from acute or chronic" exact="liver disease." post="Depending on the disease stage, the clinical symptoms range"/>
+ <result pre="and monitor individual patients with HE. 4.6 Neuropsychiatric disorders and" exact="dementia" post="MEG has been used to investigate alterations in brain"/>
+ <result pre="Monaural stimulation is preferred because during binaural stimulation significant central" exact="suppression" post="takes place so that the cortical responses to binaural"/>
+ <result pre="their electrical counterparts—somatosensory evoked potentials—combined with high-resolution anatomical MRI. In" exact="stroke" post="patients, SEFs can provide information about disruptions of the"/>
+ <result pre="in noninvasive presurgical evaluation of patients with medically intractable localization-related" exact="epilepsy" post="J Clin Neurophysiol 26 2009 290 293 19602984 Bagic"/>
+ <result pre="M. Towards source volume estimation of interictal spikes in focal" exact="epilepsy" post="using magnetoencephalography Neuroimage 59 2012 3955 3966 22036998 Bouet"/>
+ <result pre="D. Schnitzler A. The slowed brain: cortical oscillatory activity in" exact="hepatic encephalopathy" post="Arch Biochem Biophys 536 2013 197 203 23603113 Canolty"/>
+ <result pre="Schnitzler A. The slowed brain: cortical oscillatory activity in hepatic" exact="encephalopathy" post="Arch Biochem Biophys 536 2013 197 203 23603113 Canolty"/>
+ <result pre="J.A. MEG-based detection and localization of perilesional dysfunction in chronic" exact="stroke" post="Neuroimage Clin 8 2015 157 169 26106540 Cimatti Z."/>
+ <result pre="Use of routine MEG in the primary diagnostic process of" exact="epilepsy" post="J Clin Neurophysiol 26 2009 326 332 19752741 Colon"/>
+ <result pre="P. Evaluation of MEG vs EEG after sleep deprivation in" exact="epilepsy" post="Acta Neurol Scand 135 2017 247 251 26957488 Conway"/>
+ <result pre="R.M. Spatial MEG laterality maps for language: clinical applications in" exact="epilepsy" post="Hum Brain Mapp 34 2013 1749 1760 22419535 Dabek"/>
+ <result pre="J.S. Ebersole S.M. Combining MEG and EEG source modeling in" exact="epilepsy" post="evaluations J Clin Neurophysiol 27 2010 360 371 21076318"/>
+ <result pre="Modified activation of somatosensory cortical network in patients with right-hemisphere" exact="stroke" post="Brain 122 1999 1889 1899 10506091 Forss N. Raij"/>
+ <result pre="Salonen O. Activation in parietal operculum parallels motor recovery in" exact="stroke" post="Hum Brain Mapp 33 2012 534 541 21425393 Fries"/>
+ <result pre="MEG and EEG sensitivity in a case of medial occipital" exact="epilepsy" post="Brain Topogr 27 2014 192 196 24005334 Giraud A.L."/>
+ <result pre="of biomarkers and MEG-based imaging markers in the diagnosis of" exact="post-traumatic stress disorder" post="and blast-induced mild traumatic brain injury Psychoneuroendocrinology 63 2016"/>
+ <result pre="magnetoencephalography for seizure-onset zone localization in magnetic resonance imaging-negative partial" exact="epilepsy" post="Brain 136 2013 3176 3186 24014520 Juottonen K.M.G. Silén"/>
+ <result pre="R. Forss N. Altered central sensorimotor processing in patients with" exact="complex regional pain syndrome" post="Pain 98 2002 315 323 12127033 Kakigi R. Hoshiyama"/>
+ <result pre="Kharkar S. Knowlton R. Magnetoencephalography in the presurgical evaluation of" exact="epilepsy" post="Epilepsy Behav 46 2015 19 26 25555504 Kiebel S.J."/>
+ <result pre="Limdi N. Elgavish R.A. Killen J. Blount J. Effect of" exact="epilepsy" post="magnetic source imaging on intracranial electrode placement Ann Neurol"/>
+ <result pre="L. Effect of afferent input on motor cortex excitability during" exact="stroke" post="recovery Clin Neurophysiol 123 2012 2429 2436 22721651 Laaksonen"/>
+ <result pre="Mäkelä J.P. Mustanoja S. Alterations in spontaneous brain oscillations during" exact="stroke" post="recovery PLoS One 8 2013 e61146 23593414 Lankinen K."/>
+ <result pre="Zhu D. Shi J. Abnormal resting-state brain activity in headache-free" exact="migraine" post="patients: a magnetoencephalography study Clin Neurophysiol 127 2016 2855"/>
+ <result pre="low- and high-frequency oscillatory activity in the prefrontal cortex of" exact="fibromyalgia" post="patients Front Hum Neurosci 10 2016 111 27014041 Lin"/>
+ <result pre="Wong T.T. Yeh T.C. Magnetoencephalographic yield of interictal spikes in" exact="temporal lobe epilepsy." post="Comparison with scalp EEG recordings Neuroimage 19 2003 1115"/>
+ <result pre="signal processing and modeling in the diagnostic and management of" exact="epilepsy" post="IEEE Rev Biomed Eng 1 2008 143 156 22274902"/>
+ <result pre="H.O. Neundorfer B. Birklein F. Patterns of cortical reorganization in" exact="complex regional pain syndrome" post="Neurol 61 2003 1707 1715 Mäkelä J. Kirveskari E."/>
+ <result pre="Kaste M. Cortical excitability measured with nTMS and MEG during" exact="stroke" post="recovery Neural Plast 2015 2015 309546 26491569 Manshanden I."/>
+ <result pre="R.A. Kakisaka Y. Correlating magnetoencephalography to stereo-electroencephalography in patients undergoing" exact="epilepsy" post="surgery Brain 39 2016 2935 2947 Muthukumaraswamy S.D. High-frequency"/>
+ <result pre="Magnetoencephalography is more successful for screening and localizing frontal lobe" exact="epilepsy" post="than electroencephalography Epilepsia 48 2007 2139 2149 17662061 Oswal"/>
+ <result pre="Forss N. Strength of ∼20-Hz rebound and motor recovery after" exact="stroke" post="Neurorehabil Neural Repair 31 2017 475 486 28164736 Parkkonen"/>
+ <result pre="O. Tatlisumak T. Reorganization of the primary somatosensory cortex during" exact="stroke" post="recovery Clin Neurophysiol 122 2011 339 345 20673646 Romani"/>
+ <result pre="M. Timmermann L. Gross J. Synchronized brain network associated with" exact="essential tremor" post="as revealed by magnetoencephalography Mov Disord 24 2009 1629"/>
+ <result pre="Takano K. Okajima M. Knake S. Application of magnetoencephalography in" exact="epilepsy" post="patients with widespread spike or slow-wave activity Epilepsia 46"/>
+ <result pre="of the ∼20-Hz motor-cortex rhythm in Univerricht-Lundborg type progresssive myoclonus" exact="epilepsy" post="Neuroimage 12 2000 707 717 11112402 Smeds E. Piitulainen"/>
+ <result pre="Influence of magnetic source imaging for planning intracranial EEG in" exact="epilepsy" post="Neurol 71 2008 990 996 Takemi M. Masakado Y."/>
+ <result pre="Stam C.J. Disruption of structural and functional networks in long-standing" exact="multiple sclerosis" post="Hum Brain Mapp 35 2014 5946 5961 25053254 The"/>
+ <result pre="Uhlhaas P.J. Singer W. Abnormal neural oscillations and synchrony in" exact="schizophrenia" post="Nat Rev Neurosci 11 2010 100 113 20087360 Uhlhaas"/>
+ <result pre="J.C. Verbunt J.P. Spike cluster analysis in neocortical localization related" exact="epilepsy" post="yields clinically significant equivalent source localization results in magnetoencephalogram"/>
+ <result pre="techniques for improved functional localization for a selected group of" exact="epilepsy" post="surgery candidates Neuroimage 45 2009 342 348 19159694 von"/>
+ <result pre="Curio G. Nikulin V.V. Corticomuscular coherence in acute and chronic" exact="stroke" post="Clin Neurophysiol 125 2014 1182 1191 24315544 Wada J."/>
+ <result pre="magnetic fields from the primary somatosensory cortex (SI) in acute" exact="stroke" post="Clin Neurophysiol 110 1999 916 923 10400206 Wipf D."/>
+ <result pre="Powers S.W. Hershey A.D. Spatial heterogeneity of cortical excitability in" exact="migraine" post="revealed by multifrequency neuromagnetic signals J Pain 17 2016"/>
+</results>

@@ -1,0 +1,391 @@
+{
+  "id": [
+    "28748680"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28748680"
+  ],
+  "pmcid": [
+    "PMC5532325"
+  ],
+  "doi": [
+    "10.3988/jcn.2017.13.3.281"
+  ],
+  "title": [
+    "Factors Associated with Favorable Outcome of Topiramate Migraine Prophylaxis in Pediatric Patients."
+  ],
+  "authorString": [
+    "Yoo IH, Kim W, Kim H, Lim BC, Hwang H, Chae JH, Choi J, Kim KJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yoo IH"
+          ],
+          "firstName": [
+            "Il Han"
+          ],
+          "lastName": [
+            "Yoo"
+          ],
+          "initials": [
+            "IH"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Seoul National University Bundang Hospital, Seongnam, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim W"
+          ],
+          "firstName": [
+            "WooJoong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Pediatric Clinical Neuroscience Center, Department of Pediatrics, Seoul National University Children's Hospital, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim H"
+          ],
+          "firstName": [
+            "Hunmin"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Seoul National University Bundang Hospital, Seongnam, Korea. 65714@snubh.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Lim BC"
+          ],
+          "firstName": [
+            "Byung Chan"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "BC"
+          ],
+          "affiliation": [
+            "Pediatric Clinical Neuroscience Center, Department of Pediatrics, Seoul National University Children's Hospital, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Hwang H"
+          ],
+          "firstName": [
+            "Hee"
+          ],
+          "lastName": [
+            "Hwang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Seoul National University Bundang Hospital, Seongnam, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Chae JH"
+          ],
+          "firstName": [
+            "Jong Hee"
+          ],
+          "lastName": [
+            "Chae"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Pediatric Clinical Neuroscience Center, Department of Pediatrics, Seoul National University Children's Hospital, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi J"
+          ],
+          "firstName": [
+            "Jieun"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6845-8745",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, SMG-SNU Boramae Medical Center, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim KJ"
+          ],
+          "firstName": [
+            "Ki Joong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "affiliation": [
+            "Pediatric Clinical Neuroscience Center, Department of Pediatrics, Seoul National University Children's Hospital, Seoul, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6845-8745",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2580612"
+      ],
+      "dateOfPublication": [
+        "2017 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical neurology (Seoul, Korea)"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Neurol"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Neurol"
+          ],
+          "NLMid": [
+            "101252374"
+          ],
+          "ISSN": [
+            "1738-6586"
+          ],
+          "ESSN": [
+            "2005-5013"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "281-286"
+  ],
+  "abstractText": [
+    "There are few studies that have investigated predictive factors related to migraine prophylaxis of which produced inconsistent results. The aim of this study was to identify factors that can predict the treatment response to topiramate prophylaxis in pediatric patients with migraine.One hundred and thirteen patients who were older than 7 years and received topiramate for at least 3 months were recruited from the Seoul National University Bundang Hospital outpatient clinic from 2005 to 2014. A positive response was defined as a reduction of more than 50% in the number of migraine episodes after topiramate treatment. Proposed predictive factors such as migraine characteristics including severity and frequency were assessed, as were other data on sex, disease duration, associated symptoms, family history, and impairment of daily activities.Seventy patients (61.9%) responded to prophylactic treatment with topiramate. Patients who experienced significant impairment in daily activities showed significant benefit from the treatment (p=0.004). Sex, the severity, frequency, and duration of migraine episodes, disease duration, treatment duration, age at onset, and associated symptoms were not significantly related to a response to topiramate treatment.Migraine characteristics and associated symptoms were not significantly related to a response to topiramate treatment. However, patients with significant impairment in daily activities showed significant benefit from the treatment, and so prophylactic topiramate treatment should be strongly encouraged in this patient group."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Seoul National University Bundang Hospital, Seongnam, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Prophylaxis",
+        "Topiramate",
+        "Predictive Factor"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3988/jcn.2017.13.3.281"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5532325"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5532325?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-07-28"
+  ],
+  "firstIndexDate": [
+    "2017-07-31"
+  ],
+  "fullTextReceivedDate": [
+    "2017-08-01"
+  ],
+  "dateOfRevision": [
+    "2018-03-08"
+  ],
+  "firstPublicationDate": [
+    "2017-07-01"
+  ]
+}

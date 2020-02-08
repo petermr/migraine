@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6921558/results/word/frequencies/results.xml">
+  <result title="frequency" word="(.)" count="62"/>
+  <result title="frequency" word="anesthesia" count="47"/>
+  <result title="frequency" word="complications" count="43"/>
+  <result title="frequency" word="respiratory" count="39"/>
+  <result title="frequency" word=".–." count="30"/>
+  <result title="frequency" word="general" count="30"/>
+  <result title="frequency" word="sedation" count="29"/>
+  <result title="frequency" word="MRI" count="27"/>
+  <result title="frequency" word="children" count="27"/>
+  <result title="frequency" word="patients" count="24"/>
+ </snippets>
+</snippetsTree>

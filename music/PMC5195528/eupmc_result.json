@@ -1,0 +1,183 @@
+{
+  "id": [
+    "PMC5195528"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5195528"
+  ],
+  "title": [
+    "\"The Hospital\" Nursing Mirror."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "732"
+      ],
+      "volume": [
+        "29"
+      ],
+      "journalIssueId": [
+        "2687888"
+      ],
+      "dateOfPublication": [
+        "1900 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "1900"
+      ],
+      "printPublicationDate": [
+        "1900-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Hospital"
+          ],
+          "ISOAbbreviation": [
+            "Hospital (Lond 1886)"
+          ],
+          "medlineAbbreviation": [
+            "Hospital (Lond 1886)"
+          ],
+          "NLMid": [
+            "0012036"
+          ],
+          "ISSN": [
+            "0267-6478"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1900"
+  ],
+  "pageInfo": [
+    ""
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Other"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195528/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5195528"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-26"
+  ],
+  "firstIndexDate": [
+    "2018-05-26"
+  ],
+  "fullTextReceivedDate": [
+    "2018-05-26"
+  ],
+  "dateOfRevision": [
+    "2019-10-01"
+  ],
+  "firstPublicationDate": [
+    "1900-10-01"
+  ]
+}

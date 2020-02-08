@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6890234/results/search/country/results.xml">
+  <result pre="[1], Psychology Department, Lakehead University Thunder Bay Ontario P7B 5E1" exact="Canada" post="[2], Center for Pediatric Excellence Ottawa ON K2G 1W2"/>
+  <result pre="Canada [2], Center for Pediatric Excellence Ottawa ON K2G 1W2" exact="Canada" post="Correspondence: Michael F Wesner Psychology Department, Lakehead University, 955"/>
+  <result pre="Lakehead University, 955 Oliver Road, Thunder Bay, Ontario P7B 5E1," exact="Canada" post="Tel +1-807-768-0564 Email michael.wesner@lakeheadu.ca epub: 2019-11-11 collection: 2019 11"/>
+  <result pre="parvocellular magnocellular spatiochromatic Funding This work was funded by the" exact="Canada" post="Foundation for Innovation (CFI grant #7841). fig-count: table-count: ref-count:"/>
+  <result pre="Research (CIHR), the Natural Sciences and Engineering Research Council of" exact="Canada" post="(NSERC) and the Social Sciences and Humanities Research Council"/>
+  <result pre="(NSERC) and the Social Sciences and Humanities Research Council of" exact="Canada" post="(SSHRC) Tri-Council Policy Statement (TCPS2) regarding ethical conduct for"/>
+  <result pre="of Helsinki. Disclosure Dr Michael F. Wesner report grants from" exact="Canada" post="Foundation for Innovation, during the conduct of the study."/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,291 @@
+{
+  "id": [
+    "31686900"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31686900"
+  ],
+  "pmcid": [
+    "PMC6709817"
+  ],
+  "doi": [
+    "10.2147/JPR.S166427"
+  ],
+  "title": [
+    "Fremanezumab in the treatment of migraines: evidence to date."
+  ],
+  "authorString": [
+    "Robblee J, VanderPluym J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Robblee J"
+          ],
+          "firstName": [
+            "Jennifer"
+          ],
+          "lastName": [
+            "Robblee"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2556-1125",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, Mayo Clinic, Scottsdale, AZ, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "VanderPluym J"
+          ],
+          "firstName": [
+            "Juliana"
+          ],
+          "lastName": [
+            "VanderPluym"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Neurology, Mayo Clinic, Scottsdale, AZ, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2556-1125",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2762019"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of pain research"
+          ],
+          "ISOAbbreviation": [
+            "J Pain Res"
+          ],
+          "medlineAbbreviation": [
+            "J Pain Res"
+          ],
+          "NLMid": [
+            "101540514"
+          ],
+          "ISSN": [
+            "1178-7090"
+          ],
+          "ESSN": [
+            "1178-7090"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2589-2595"
+  ],
+  "abstractText": [
+    "Calcitonin gene-related peptide (CGRP) is a major player in migraine pathophysiology, and CGRP monoclonal antibodies including fremanezumab may be a safe effective preventive therapy. Phase IIb studies in episodic migraine (EM) and chronic migraine (CM) demonstrated efficacy at both the monthly 225 mg and quarterly 675 mg doses. The Phase III trials for EM and CM both showed a reduction in the primary endpoint of monthly migraine days (MMD). In the EM trial, the baseline MMD of 8.9 days was reduced to 5.3 at 12 weeks and to 4.0 days in the 6-month open-label extension (OLE) for monthly dosing. In the quarterly dosing, the baseline was 9.2 days reduced to 5.3 at 12 weeks and to 4.2 days in the OLE. In the CM data for monthly dosing, the baseline was 16.2 days decreased to 11.4 at 12 weeks then to 8.3 in the OLE. In the CM quarterly dosing, the baseline of 16.4 days was reduced to 11.9 at 12 weeks and 9.9 days in the OLE. Randomized controlled trials of fremanezumab in both episodic cluster and post-traumatic headache are underway, but the trial for chronic cluster headache was stopped for futility. The most common adverse events are injection site pain (24% vs 22% for placebo), induration (17% vs 13% for placebo), and erythema (16% vs 12% for placebo). Severe adverse events were reported in 3.9% of the fremanezumab vs 3.7% of the placebo. No changes in vitals or ECG were reported. The long-term effects are not known, but the American Headache Society recommends that CGRP monoclonal antibodies be considered in EM or CM depending on previous medication trials and headache disability/frequency. Further, post-market studies are required, but for EM and CM fremanezumab is a new option for migraine preventive treatment."
+  ],
+  "affiliation": [
+    "Department of Neurology, Mayo Clinic, Scottsdale, AZ, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Monoclonal antibody",
+        "Treatment",
+        "Migraine",
+        "Headache",
+        "Calcitonin Gene-related Peptide, Cgrp",
+        "Fremanezumab"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/JPR.S166427"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6709817"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6709817?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-06"
+  ],
+  "firstIndexDate": [
+    "2019-11-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-22"
+  ],
+  "firstPublicationDate": [
+    "2019-08-22"
+  ]
+}

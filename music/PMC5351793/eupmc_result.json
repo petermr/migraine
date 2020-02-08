@@ -1,0 +1,709 @@
+{
+  "id": [
+    "28055228"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28055228"
+  ],
+  "pmcid": [
+    "PMC5351793"
+  ],
+  "doi": [
+    "10.1080/02699052.2016.1231343"
+  ],
+  "title": [
+    "Preliminary investigation of Brain Network Activation (BNA) and its clinical utility in sport-related concussion."
+  ],
+  "authorString": [
+    "Reches A, Kutcher J, Elbin RJ, Or-Ly H, Sadeh B, Greer J, McAllister DJ, Geva A, Kontos AP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Reches A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Reches"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "a ElMindA Ltd , Herzliya , Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Kutcher J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Kutcher"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "b The Sports Neurology Clinic , University of Michigan , Ann Arbor , MI , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Elbin RJ"
+          ],
+          "firstName": [
+            "R J"
+          ],
+          "lastName": [
+            "Elbin"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "c Department of Health, Human Performance and Recreation , University of Arkansas , Fayetteville , AR , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Or-Ly H"
+          ],
+          "firstName": [
+            "H"
+          ],
+          "lastName": [
+            "Or-Ly"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "a ElMindA Ltd , Herzliya , Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Sadeh B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Sadeh"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "a ElMindA Ltd , Herzliya , Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Greer J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Greer"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "b The Sports Neurology Clinic , University of Michigan , Ann Arbor , MI , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "McAllister DJ"
+          ],
+          "firstName": [
+            "D J"
+          ],
+          "lastName": [
+            "McAllister"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "d UPMC Sports Medicine Concussion Program, Department of Orthopaedic Surgery , University of Pittsburgh , Pittsburgh , PA , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Geva A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Geva"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3159-3673",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a ElMindA Ltd , Herzliya , Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Kontos AP"
+          ],
+          "firstName": [
+            "A P"
+          ],
+          "lastName": [
+            "Kontos"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3749-4310",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "d UPMC Sports Medicine Concussion Program, Department of Orthopaedic Surgery , University of Pittsburgh , Pittsburgh , PA , USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3159-3673",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3749-4310",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "31"
+      ],
+      "journalIssueId": [
+        "2531609"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain injury"
+          ],
+          "ISOAbbreviation": [
+            "Brain Inj"
+          ],
+          "medlineAbbreviation": [
+            "Brain Inj"
+          ],
+          "NLMid": [
+            "8710358"
+          ],
+          "ISSN": [
+            "0269-9052"
+          ],
+          "ESSN": [
+            "1362-301X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "237-246"
+  ],
+  "abstractText": [
+    "The clinical diagnosis and management of patients with sport-related concussion is largely dependent on subjectively reported symptoms, clinical examinations, cognitive, balance, vestibular and oculomotor testing. Consequently, there is an unmet need for objective assessment tools that can identify the injury from a physiological perspective and add an important layer of information to the clinician's decision-making process.The goal of the study was to evaluate the clinical utility of the EEG-based tool named Brain Network Activation (BNA) as a longitudinal assessment method of brain function in the management of young athletes with concussion.Athletes with concussion (n = 86) and age-matched controls (n = 81) were evaluated at four time points with symptom questionnaires and BNA. BNA scores were calculated by comparing functional networks to a previously defined normative reference brain network model to the same cognitive task.Subjects above 16 years of age exhibited a significant decrease in BNA scores immediately following injury, as well as notable changes in functional network activity, relative to the controls. Three representative case studies of the tested population are discussed in detail, to demonstrate the clinical utility of BNA.The data support the utility of BNA to augment clinical examinations, symptoms and additional tests by providing an effective method for evaluating objective electrophysiological changes associated with sport-related concussions."
+  ],
+  "affiliation": [
+    "a ElMindA Ltd , Herzliya , Israel."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K01 DC012332"
+          ],
+          "agency": [
+            "NIDCD NIH HHS"
+          ],
+          "acronym": [
+            "DC"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nerve Net"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Concussion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Athletic Injuries"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electroencephalography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reaction Time"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Athletes"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Functional Brain Imaging",
+        "Mild Traumatic Brain Injury (Mtbi)",
+        "Electroencephalogram (Eeg)",
+        "Event Related Potential (Erp)",
+        "Concussion Management",
+        "Brain Network Activation (Bna)",
+        "Sports-related Concussion (Src)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/02699052.2016.1231343"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5351793"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5351793?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-01-12"
+  ],
+  "dateOfCreation": [
+    "2017-01-06"
+  ],
+  "firstIndexDate": [
+    "2017-01-06"
+  ],
+  "fullTextReceivedDate": [
+    "2017-03-31"
+  ],
+  "dateOfRevision": [
+    "2018-01-30"
+  ],
+  "electronicPublicationDate": [
+    "2017-01-05"
+  ],
+  "firstPublicationDate": [
+    "2017-01-05"
+  ]
+}

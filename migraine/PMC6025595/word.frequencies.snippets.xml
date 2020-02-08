@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6025595/results/word/frequencies/results.xml">
+  <result title="frequency" word="headache" count="57"/>
+  <result title="frequency" word="Headache" count="29"/>
+  <result title="frequency" word="acupuncture" count="27"/>
+  <result title="frequency" word="headaches" count="26"/>
+  <result title="frequency" word="therapies" count="25"/>
+  <result title="frequency" word="CMH" count="21"/>
+  <result title="frequency" word="migraine" count="21"/>
+  <result title="frequency" word="patients" count="21"/>
+  <result title="frequency" word="treatment" count="21"/>
+ </snippets>
+</snippetsTree>

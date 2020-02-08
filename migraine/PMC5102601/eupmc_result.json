@@ -1,0 +1,407 @@
+{
+  "id": [
+    "27833682"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27833682"
+  ],
+  "pmcid": [
+    "PMC5102601"
+  ],
+  "doi": [
+    "10.5811/westjem.2016.8.31197"
+  ],
+  "title": [
+    "U.S. Food and Drug Administration: Review for the Emergency Physician of Approval Process and Limitations."
+  ],
+  "authorString": [
+    "Zuabi N, Patel B, Langdorf MI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zuabi N"
+          ],
+          "firstName": [
+            "Nadia"
+          ],
+          "lastName": [
+            "Zuabi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "University of California, Irvine, School of Medicine, Irvine, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Patel B"
+          ],
+          "firstName": [
+            "Bhavesh"
+          ],
+          "lastName": [
+            "Patel"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0196-5448",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of California, Irvine, School of Biological Sciences, Irvine, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Langdorf MI"
+          ],
+          "firstName": [
+            "Mark I"
+          ],
+          "lastName": [
+            "Langdorf"
+          ],
+          "initials": [
+            "MI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9019-2047",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of California, Irvine, School of Medicine, Department of Emergency Medicine, Irvine, California."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9019-2047",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0196-5448",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2488254"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The western journal of emergency medicine"
+          ],
+          "ISOAbbreviation": [
+            "West J Emerg Med"
+          ],
+          "medlineAbbreviation": [
+            "West J Emerg Med"
+          ],
+          "NLMid": [
+            "101476450"
+          ],
+          "ISSN": [
+            "1936-900X"
+          ],
+          "ESSN": [
+            "1936-9018"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "741-746"
+  ],
+  "affiliation": [
+    "University of California, Irvine, School of Medicine, Irvine, California."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Device Approval"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Approval"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "United States Food and Drug Administration"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Physicians"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Emergency Service, Hospital"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5811/westjem.2016.8.31197"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5102601"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5102601?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-04-11"
+  ],
+  "dateOfCreation": [
+    "2016-11-11"
+  ],
+  "firstIndexDate": [
+    "2016-11-12"
+  ],
+  "fullTextReceivedDate": [
+    "2016-12-09"
+  ],
+  "dateOfRevision": [
+    "2017-04-11"
+  ],
+  "electronicPublicationDate": [
+    "2016-09-12"
+  ],
+  "firstPublicationDate": [
+    "2016-09-12"
+  ]
+}

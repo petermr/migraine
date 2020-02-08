@@ -1,0 +1,272 @@
+{
+  "id": [
+    "30008540"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30008540"
+  ],
+  "pmcid": [
+    "PMC6024458"
+  ],
+  "doi": [
+    "10.15844/pedneurbriefs-32-1"
+  ],
+  "title": [
+    "Pediatric Neurology Briefs: Year in Review."
+  ],
+  "authorString": [
+    "Millichap JJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Millichap JJ"
+          ],
+          "firstName": [
+            "John J"
+          ],
+          "lastName": [
+            "Millichap"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0798-0131",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Neurology, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, IL; and Departments of Pediatrics and Neurology, Northwestern University Feinberg School of Medicine, Chicago, IL."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0798-0131",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "32"
+      ],
+      "journalIssueId": [
+        "2707349"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pediatric neurology briefs"
+          ],
+          "ISOAbbreviation": [
+            "Pediatr Neurol Briefs"
+          ],
+          "medlineAbbreviation": [
+            "Pediatr Neurol Briefs"
+          ],
+          "NLMid": [
+            "9889575"
+          ],
+          "ISSN": [
+            "1043-3155"
+          ],
+          "ESSN": [
+            "2166-6482"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1"
+  ],
+  "abstractText": [
+    "In 2018, the mission of Pediatric Neurology Briefs (PNB) remains the same: \"PNB is a continuing education service designed to expedite and facilitate the review of current scientific research and advances in child neurology and related subjects.\""
+  ],
+  "affiliation": [
+    "Division of Neurology, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, IL; and Departments of Pediatrics and Neurology, Northwestern University Feinberg School of Medicine, Chicago, IL."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nervous system diseases",
+        "Brain diseases",
+        "Child Development",
+        "Neurology",
+        "Pediatrics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.15844/pedneurbriefs-32-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6024458"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6024458?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-17"
+  ],
+  "firstIndexDate": [
+    "2018-07-17"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-15"
+  ],
+  "dateOfRevision": [
+    "2018-07-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-18"
+  ],
+  "firstPublicationDate": [
+    "2018-06-18"
+  ]
+}

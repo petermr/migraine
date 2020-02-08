@@ -1,0 +1,731 @@
+{
+  "id": [
+    "31470791"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31470791"
+  ],
+  "pmcid": [
+    "PMC6734211"
+  ],
+  "doi": [
+    "10.1186/s10194-019-1038-4"
+  ],
+  "title": [
+    "Current and emerging evidence-based treatment options in chronic migraine: a narrative review."
+  ],
+  "authorString": [
+    "Agostoni EC, Barbanti P, Calabresi P, Colombo B, Cortelli P, Frediani F, Geppetti P, Grazzi L, Leone M, Martelletti P, Pini LA, Prudenzano MP, Sarchielli P, Tedeschi G, Russo A, Italian chronic migraine group."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Agostoni EC"
+          ],
+          "firstName": [
+            "Elio Clemente"
+          ],
+          "lastName": [
+            "Agostoni"
+          ],
+          "initials": [
+            "EC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0462-0755",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "S.C. Neurologia e Stroke Unit ASST Grande Ospedale Metropolitano Niguarda, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Barbanti P"
+          ],
+          "firstName": [
+            "Piero"
+          ],
+          "lastName": [
+            "Barbanti"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5670-3755",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Headache and Pain Unit, Department of Neurological, Motor and Sensorial Sciences, IRCCS San Raffaele Pisana, Rome, Italy. piero.barbanti@sanraffaele.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Calabresi P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Calabresi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Neurologic Clinic, Ospedale Santa Maria della, Perugia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Colombo B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "Colombo"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Dipartimento di Neurologia, Università Vita-Salute, Ospedale San Raffaele, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cortelli P"
+          ],
+          "firstName": [
+            "Pietro"
+          ],
+          "lastName": [
+            "Cortelli"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "IRCCS- Istituto di Scienze Neurologiche di Bologna, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Frediani F"
+          ],
+          "firstName": [
+            "Fabio"
+          ],
+          "lastName": [
+            "Frediani"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Headache Centre, UOC Neurologia e Stroke Unit, P.O. San Carlo Borromeo, ASST Santi Paolo e Carlo, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Geppetti P"
+          ],
+          "firstName": [
+            "Pietrangelo"
+          ],
+          "lastName": [
+            "Geppetti"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Health Sciences, Section of Clinical Pharmacology and Headache Center, University of Florence, Florence, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Grazzi L"
+          ],
+          "firstName": [
+            "Licia"
+          ],
+          "lastName": [
+            "Grazzi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Fondazione IRCCS Istituto Neurologico \"C.Besta\", Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Leone M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Leone"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Fondazione IRCCS Istituto Neurologico \"C.Besta\", Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Martelletti P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Martelletti"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Clinical and Molecular Medicine, Sapienza University, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Pini LA"
+          ],
+          "firstName": [
+            "Luigi Alberto"
+          ],
+          "lastName": [
+            "Pini"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "affiliation": [
+            "Headache Center, Department of Biomedical, Metabolic and Neuro Science, University of Modena and Reggio Emilia, Modena, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Prudenzano MP"
+          ],
+          "firstName": [
+            "Maria Pia"
+          ],
+          "lastName": [
+            "Prudenzano"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "Headache Center, Department of Basic Medical Sciences, Neurosciences and Sense Organs, University of Bari, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sarchielli P"
+          ],
+          "firstName": [
+            "Paola"
+          ],
+          "lastName": [
+            "Sarchielli"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Headache Center, Neurologic Clinic, Ospedale Santa Maria della Misericordia, Perugia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Tedeschi G"
+          ],
+          "firstName": [
+            "Gioacchino"
+          ],
+          "lastName": [
+            "Tedeschi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Headache Center Department of Medical, Surgical, Neurological, Metabolic, and Aging Sciences, University of Campania \"Luigi Vanvitelli\", Naples, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Russo A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Russo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Headache Center Department of Medical, Surgical, Neurological, Metabolic, and Aging Sciences, University of Campania \"Luigi Vanvitelli\", Naples, Italy."
+          ]
+        },
+        {
+          "collectiveName": [
+            "Italian chronic migraine group"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0462-0755",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5670-3755",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2843898"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "92"
+  ],
+  "abstractText": [
+    "BACKGROUND:Chronic migraine is a disabling condition that is currently underdiagnosed and undertreated. In this narrative review, we discuss the future of chronic migraine management in relation to recent progress in evidence-based pharmacological treatment. FINDINGS:Patients with chronic migraine require prophylactic therapy to reduce the frequency of migraine attacks, but the only currently available evidence-based prophylactic treatment options for chronic migraine are topiramate and onabotulinumtoxinA. Improved prophylactic therapy is needed to reduce the high burden of chronic migraine in Italy. Monoclonal antibodies that target the calcitonin gene-related peptide (CGRP) pathway of migraine pathogenesis have been specifically developed for the prophylactic treatment of chronic migraine. These anti-CGRP/R monoclonal antibodies have demonstrated good efficacy and excellent tolerability in phase II and III clinical trials, and offer new hope to patients who are currently not taking any prophylactic therapy or not benefitting from their current treatment. CONCLUSIONS:Treatment of chronic migraine is a dynamic and rapidly advancing area of research. New developments in this field have the potential to improve the diagnosis and provide more individualised treatments for this condition. Establishing a culture of prevention is essential for reducing the personal, social and economic burden of chronic migraine."
+  ],
+  "affiliation": [
+    "S.C. Neurologia e Stroke Unit ASST Grande Ospedale Metropolitano Niguarda, Milan, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Disease"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antibodies, Monoclonal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disabled Persons"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Botulinum Toxins, Type A"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Topiramate"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Prophylaxis",
+        "Topiramate",
+        "Onabotulinumtoxina",
+        "Chronic Migraine",
+        "Fremanezumab",
+        "Anti-cgrp Monoclonal Antibodies"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antibodies, Monoclonal"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Botulinum Toxins, Type A"
+          ],
+          "registryNumber": [
+            "EC 3.4.24.69"
+          ]
+        },
+        {
+          "name": [
+            "topiramate"
+          ],
+          "registryNumber": [
+            "0H73WJJ391"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-019-1038-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734211"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734211?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-12-02"
+  ],
+  "dateOfCreation": [
+    "2019-09-01"
+  ],
+  "firstIndexDate": [
+    "2019-09-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-12-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-30"
+  ],
+  "firstPublicationDate": [
+    "2019-08-30"
+  ]
+}

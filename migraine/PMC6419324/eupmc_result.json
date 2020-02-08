@@ -1,0 +1,805 @@
+{
+  "id": [
+    "30871574"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30871574"
+  ],
+  "pmcid": [
+    "PMC6419324"
+  ],
+  "doi": [
+    "10.1186/s13052-019-0624-z"
+  ],
+  "title": [
+    "An observational study of fixed-dose Tanacetum parthenium nutraceutical preparation for prophylaxis of pediatric headache."
+  ],
+  "authorString": [
+    "Moscano F, Guiducci M, Maltoni L, Striano P, Ledda MG, Zoroddu F, Raucci U, Villa MP, Parisi P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Moscano F"
+          ],
+          "firstName": [
+            "Filomena"
+          ],
+          "lastName": [
+            "Moscano"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Child & Adolescent Neuropsychiatry, Hospital S. Orsola Malpighi, Bologna University, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Guiducci M"
+          ],
+          "firstName": [
+            "Michela"
+          ],
+          "lastName": [
+            "Guiducci"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Child Neurology, Pediatric Headache & Sleep Disorders Centre, Chair of Pediatrics, NESMOS Department, Faculty of Medicine and Psychology, Sapienza University, Via Di Grottarossa, 1035-1039, 00189, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Maltoni L"
+          ],
+          "firstName": [
+            "Lucia"
+          ],
+          "lastName": [
+            "Maltoni"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Child & Adolescent Neuropsychiatry, Hospital S. Orsola Malpighi, Bologna University, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Striano P"
+          ],
+          "firstName": [
+            "Pasquale"
+          ],
+          "lastName": [
+            "Striano"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Paediatric Neurology and Muscular Diseases Unit, Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, Maternal and Child Health, University of Genoa, 'G. Gaslini' Institute, Genoa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ledda MG"
+          ],
+          "firstName": [
+            "Maria Giuseppina"
+          ],
+          "lastName": [
+            "Ledda"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "affiliation": [
+            "Child & Adolescent Neuropsychiatry Unit, \"Antonio Cao\" Paediatric Hospital, \"G.Brotzu\" Hospital, Cagliari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Zoroddu F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Zoroddu"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Pediatric Headache Center, Neurology Unit Hospital, University of Sassari, Sassari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Raucci U"
+          ],
+          "firstName": [
+            "Umberto"
+          ],
+          "lastName": [
+            "Raucci"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Pediatric Emergency Department, Bambino Gesù Children's Hospital, IRCCS, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Villa MP"
+          ],
+          "firstName": [
+            "Maria Pia"
+          ],
+          "lastName": [
+            "Villa"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "Child Neurology, Pediatric Headache & Sleep Disorders Centre, Chair of Pediatrics, NESMOS Department, Faculty of Medicine and Psychology, Sapienza University, Via Di Grottarossa, 1035-1039, 00189, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Parisi P"
+          ],
+          "firstName": [
+            "Pasquale"
+          ],
+          "lastName": [
+            "Parisi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9042-8120",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Child Neurology, Pediatric Headache & Sleep Disorders Centre, Chair of Pediatrics, NESMOS Department, Faculty of Medicine and Psychology, Sapienza University, Via Di Grottarossa, 1035-1039, 00189, Rome, Italy. pasquale.parisi@uniroma1.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9042-8120",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "45"
+      ],
+      "journalIssueId": [
+        "2789531"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Italian journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Ital J Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Ital J Pediatr"
+          ],
+          "NLMid": [
+            "101510759"
+          ],
+          "ISSN": [
+            "1824-7288"
+          ],
+          "ESSN": [
+            "1824-7288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "36"
+  ],
+  "abstractText": [
+    "BACKGROUND:Migraine is one of the most prevalent chronic pain manifestations of childhood. Despite the multitude of available treatments, parents are often concerned about chronic therapies and pediatricians have insufficient confidence in prescribing prophylactic drugs. Therefore, there is now growing interest for natural supplements used to control recurrent migraine headaches. Such approach may increase acceptance and adherence to long-term prophylaxis therapy in children. METHODS:This is an observational multicenter study performed in children (n = 91) with migraine, with (MO) or without aura (MA), or tension-type headache (TTH). A fixed-dose Andrographis paniculata, CoQ10, riboflavin, and magnesium, was administered for 16 weeks. Patients were evaluated at baseline (T0), at week 8 (T1) and at the end of treatment at week 16 (T2). A follow-up period occurred at week 20 (T3) and week 32 (T4). RESULTS:The herbal supplement significantly reduced the frequency of headaches in TTH patients during treatment period (T0: 11.97 + 1.92 vs T2: 5.13 + 1.93; p < 0.001) and the efficacy was maintained after 16 weeks of treatment withdrawal (T4: 4.46 + 1.75; p < 0.001 vs T0). The frequency of migraine attacks was also reduced in the MO group during treatment (T0: 9.70 + 0.96 vs T2: 4.03 + 0.75; p < 0.01) and after withdrawal (T4: 2.96 + 0.65; p < 0.01 vs T0). Conversely, MA patients showed reduction in migraine's frequency during treatment (T0: 8.74 + 1.91 vs T2: 3.78 + 2.02; p < 0.01) but not at the end of the study (T4: 5.57 + 3.31; p > 0.05 vs T0). TTH patients did not report significant improvement of pain intensity. A significant effect was observed in the MO group during treatment (T0: 3.06 + 0.11 vs T2: 2.14 + 0.19; p < 0.001) and after treatment withdrawal (T4: 2.20 + 0.21; p < 0.001 vs T0). Likewise, MA group showed a significant treatment effect (T0: 2.57 + 0.20 vs T2: 0.86 + 0.45; p < 0.001) and the efficacy persisted at the end of the study (T4: 1.00 + 0.58; p < 0.001 vs T0). CONCLUSION:This fixed-dose Tanacetum parthenium preparation improved headache frequency and pain intensity in children affected by TTH. Despite the main limits, this study supports the use of nutraceutical in pediatric headache/migraine."
+  ],
+  "affiliation": [
+    "Child & Adolescent Neuropsychiatry, Hospital S. Orsola Malpighi, Bologna University, Bologna, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Multicenter Study",
+        "Journal Article",
+        "Observational Study"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Tanacetum parthenium"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnesium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ubiquinone"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AA"
+                  ],
+                  "qualifierName": [
+                    "analogs & derivatives"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Riboflavin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Measurement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Holistic Health"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Analysis of Variance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Assessment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Statistics, Nonparametric"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cohort Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Dietary Supplements"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Italy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tension-Type Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Tanacetum parthenium",
+        "Prophylaxis",
+        "Observational Study",
+        "Nutraceuticals",
+        "Pediatric Migraine"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Ubiquinone"
+          ],
+          "registryNumber": [
+            "1339-63-5"
+          ]
+        },
+        {
+          "name": [
+            "Magnesium"
+          ],
+          "registryNumber": [
+            "I38ZP9992A"
+          ]
+        },
+        {
+          "name": [
+            "Riboflavin"
+          ],
+          "registryNumber": [
+            "TLM2976OFR"
+          ]
+        },
+        {
+          "name": [
+            "coenzyme Q10"
+          ],
+          "registryNumber": [
+            "EJ27X76M46"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13052-019-0624-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6419324"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6419324?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-08-06"
+  ],
+  "dateOfCreation": [
+    "2019-03-16"
+  ],
+  "firstIndexDate": [
+    "2019-03-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-30"
+  ],
+  "dateOfRevision": [
+    "2019-08-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-12"
+  ],
+  "firstPublicationDate": [
+    "2019-03-12"
+  ]
+}

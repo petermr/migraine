@@ -1,0 +1,276 @@
+{
+  "id": [
+    "19465405"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19465405"
+  ],
+  "pmcid": [
+    "PMC3136881"
+  ],
+  "doi": [
+    "10.1093/ecam/nep044"
+  ],
+  "title": [
+    "How Much of CAM Is Based on Research Evidence?"
+  ],
+  "authorString": [
+    "Ernst E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ernst E"
+          ],
+          "firstName": [
+            "Edzard"
+          ],
+          "lastName": [
+            "Ernst"
+          ],
+          "initials": [
+            "E"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2011"
+      ],
+      "journalIssueId": [
+        "1766212"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "676490"
+  ],
+  "abstractText": [
+    "The aim of this article is to provide a preliminary estimate of how much CAM is evidence-based. For this purpose, I calculated the percentage of 685 treatment/condition pairings evaluated in the \"Desktop Guide to Complementary and Alternative Medicine\" which are supported by sound data. The resulting figure was 7.4%. For a range of reasons, it might be a gross over-estimate. Further investigations into this subject are required to arrive at more representative figures."
+  ],
+  "affiliation": [
+    "Complementary Medicine, Peninsula Medical School, Universities of Exeter and Plymouth, Exeter, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19465405/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19465405/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/ecam/nep044"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3136881"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3136881?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-23"
+  ],
+  "dateOfCreation": [
+    "2012-05-30"
+  ],
+  "firstIndexDate": [
+    "2009-12-23"
+  ],
+  "fullTextReceivedDate": [
+    "2012-05-31"
+  ],
+  "dateOfRevision": [
+    "2013-03-27"
+  ],
+  "electronicPublicationDate": [
+    "2011-06-18"
+  ],
+  "firstPublicationDate": [
+    "2011-06-18"
+  ]
+}

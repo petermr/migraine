@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC5923275/results/word/frequencies/results.xml">
+  <result title="frequency" word="migraine" count="94"/>
+  <result title="frequency" word="abdominal" count="72"/>
+  <result title="frequency" word="patients" count="59"/>
+  <result title="frequency" word="pain" count="50"/>
+  <result title="frequency" word="children" count="42"/>
+  <result title="frequency" word="symptoms" count="31"/>
+  <result title="frequency" word="AM." count="29"/>
+  <result title="frequency" word="functional" count="29"/>
+  <result title="frequency" word="Abdominal" count="27"/>
+  <result title="frequency" word="Rome" count="27"/>
+  <result title="frequency" word="diagnosis" count="24"/>
+  <result title="frequency" word="Pediatr" count="22"/>
+  <result title="frequency" word="studies" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,186 @@
+{
+  "id": [
+    "PMC6849404"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6849404"
+  ],
+  "title": [
+    "Abstract."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2892505"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Annals of Indian Academy of Neurology"
+          ],
+          "ISOAbbreviation": [
+            "Ann Indian Acad Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Ann Indian Acad Neurol"
+          ],
+          "NLMid": [
+            "101273955"
+          ],
+          "ISSN": [
+            "0972-2327"
+          ],
+          "ESSN": [
+            "1998-3549"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "S45-S157"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6849404/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6849404"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-15"
+  ],
+  "firstIndexDate": [
+    "2019-12-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-12-15"
+  ],
+  "firstPublicationDate": [
+    "2019-09-01"
+  ]
+}

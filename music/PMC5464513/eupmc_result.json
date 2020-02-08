@@ -1,0 +1,253 @@
+{
+  "id": [
+    "28620492"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28620492"
+  ],
+  "pmcid": [
+    "PMC5464513"
+  ],
+  "doi": [
+    "10.1177/2050313X17713150"
+  ],
+  "title": [
+    "Tinnitus after administration of sublingual immunotherapy."
+  ],
+  "authorString": [
+    "Juel J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Juel J"
+          ],
+          "firstName": [
+            "Jacob"
+          ],
+          "lastName": [
+            "Juel"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Plastic Surgery, Aalborg University Hospital, Aalborg, Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2526825"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SAGE open medical case reports"
+          ],
+          "ISOAbbreviation": [
+            "SAGE Open Med Case Rep"
+          ],
+          "medlineAbbreviation": [
+            "SAGE Open Med Case Rep"
+          ],
+          "NLMid": [
+            "101638686"
+          ],
+          "ISSN": [
+            "2050-313X"
+          ],
+          "ESSN": [
+            "2050-313X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "2050313X17713150"
+  ],
+  "abstractText": [
+    "BACKGROUND/OBJECTIVES:Sublingual immunotherapy was first described in 1986. Since then, its use has been increased as an alternative to subcutaneously administered immunotherapy in the treatment of allergic rhinitis. The most common side effects are of oropharyngeal and gastrointestinal in nature, for example, itching, swelling, irritation, ulceration of the oropharynx and nausea, abdominal pain, diarrhoea, and vomiting. More severe side effects are dominated by systemic and respiratory tract manifestations. RESULTS:In this clinical case, the author reports a right-sided transient tinnitus lasting for 48 h after administration of sublingual immunotherapy for house dust mite in allergic rhinitis. CONCLUSIONS:This case provide important insights for clinical practice, as tinnitus has not been previously reported as a side effect of sublingual immunotherapy with house dust mite allergens."
+  ],
+  "affiliation": [
+    "Department of Plastic Surgery, Aalborg University Hospital, Aalborg, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Tinnitus",
+        "Side effects",
+        "allergic rhinitis",
+        "Sublingual Immunotherapy",
+        "Acarizax"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/2050313X17713150"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5464513"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5464513?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-06-17"
+  ],
+  "firstIndexDate": [
+    "2017-06-16"
+  ],
+  "fullTextReceivedDate": [
+    "2017-06-18"
+  ],
+  "dateOfRevision": [
+    "2019-02-26"
+  ],
+  "electronicPublicationDate": [
+    "2017-06-06"
+  ],
+  "firstPublicationDate": [
+    "2017-06-06"
+  ]
+}

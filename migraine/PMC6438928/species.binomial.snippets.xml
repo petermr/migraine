@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6438928/results/species/binomial/results.xml">
+  <result pre="e displacement and absolute displacement did not differ between the migraine patients and the HC [ " exact="Relative displacement" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Relative displacement" post=" (mean ± SD): migraine patients: 0.06 ± 0.03 mm, HC: 0.06 ± 0.02 mm, t(70) = 0.05, p " name="binomial"/>
+  <result pre=" SD): migraine patients: 0.06 ± 0.03 mm, HC: 0.06 ± 0.02 mm, t(70) = 0.05, p = 0.96; " exact="Absolute displacement" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Absolute displacement" post=": migraine patients: 0.25 ± 0.12, HC: 0.28 ± 0.13, t(70) = -1.13, p = 0.26], nor betw" name="binomial"/>
+  <result pre=", t(70) = -1.13, p = 0.26], nor between adolescents and young adults with migraine [ " exact="Relative displacement" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Relative displacement" post=": adolescents migraineurs: 0.07 ± 0.04 mm, young adult migraineurs: 0.06 ± 0.02 mm, t(34) = " name="binomial"/>
+  <result pre="rs: 0.07 ± 0.04 mm, young adult migraineurs: 0.06 ± 0.02 mm, t(34) = 1.07, p = 0.29; " exact="Absolute displacement" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Absolute displacement" post=": adolescents migraineurs: 0.28 ± 0.13 mm, young adult migraineurs: 0.22 ± 0.10 mm, t(34) = " name="binomial"/>
+  <result pre=" ± 0.10 mm, t(34) = 1.47, p = 0.15], or between adolescents HC and young adults HC [ " exact="Relative displacement" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Relative displacement" post=": adolescents: 0.06 ± 0.02, young adults: 0.06 ± 0.02, t(34) = -0.45, p = 0.66; Ab" name="binomial"/>
+  <result pre="t: adolescents: 0.06 ± 0.02, young adults: 0.06 ± 0.02, t(34) = -0.45, p = 0.66; " exact="Absolute displacement" match="Absolute displacement" post=": adolescents: 0.28 ± 0.13 mm, young adult: 0.28 ± 0.14 mm, t(34) &amp;amp;lt;0.001, p = " name="binomial"/>
+ </snippets>
+</snippetsTree>

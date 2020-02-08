@@ -1,0 +1,309 @@
+{
+  "id": [
+    "31635298"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31635298"
+  ],
+  "pmcid": [
+    "PMC6826633"
+  ],
+  "doi": [
+    "10.3390/brainsci9100283"
+  ],
+  "title": [
+    "A Review of Neurostimulation for Epilepsy in Pediatrics."
+  ],
+  "authorString": [
+    "Starnes K, Miller K, Wong-Kisiel L, Lundstrom BN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Starnes K"
+          ],
+          "firstName": [
+            "Keith"
+          ],
+          "lastName": [
+            "Starnes"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA. starnes.donnie@mayo.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Miller K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Miller"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Neurologic Surgery, Mayo Clinic, Rochester, MN 55905, USA. miller.kai@mayo.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong-Kisiel L"
+          ],
+          "firstName": [
+            "Lily"
+          ],
+          "lastName": [
+            "Wong-Kisiel"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA. wongkisiel.lily@mayo.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Lundstrom BN"
+          ],
+          "firstName": [
+            "Brian Nils"
+          ],
+          "lastName": [
+            "Lundstrom"
+          ],
+          "initials": [
+            "BN"
+          ],
+          "affiliation": [
+            "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA. Lundstrom.brian@mayo.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2867049"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain sciences"
+          ],
+          "ISOAbbreviation": [
+            "Brain Sci"
+          ],
+          "medlineAbbreviation": [
+            "Brain Sci"
+          ],
+          "NLMid": [
+            "101598646"
+          ],
+          "ISSN": [
+            "2076-3425"
+          ],
+          "ESSN": [
+            "2076-3425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Neurostimulation for epilepsy refers to the application of electricity to affect the central nervous system, with the goal of reducing seizure frequency and severity. We review the available evidence for the use of neurostimulation to treat pediatric epilepsy, including vagus nerve stimulation (VNS), responsive neurostimulation (RNS), deep brain stimulation (DBS), chronic subthreshold cortical stimulation (CSCS), transcranial magnetic stimulation (TMS) and transcranial direct current stimulation (tDCS). We consider possible mechanisms of action and safety concerns, and we propose a methodology for selecting between available options. In general, we find neurostimulation is safe and effective, although any high quality evidence applying neurostimulation to pediatrics is lacking. Further research is needed to understand neuromodulatory systems, and to identify biomarkers of response in order to establish optimal stimulation paradigms."
+  ],
+  "affiliation": [
+    "Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA. starnes.donnie@mayo.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcranial magnetic stimulation",
+        "Deep brain stimulation",
+        "Neuromodulation",
+        "Transcranial Direct Current Stimulation",
+        "Drug-resistant Epilepsy",
+        "Vagus Nerve Stimulation",
+        "Responsive Neurostimulation",
+        "Chronic Subthreshold Cortical Stimulation",
+        "Pediatric Neurostimulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/brainsci9100283"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6826633"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6826633?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-23"
+  ],
+  "firstIndexDate": [
+    "2019-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-18"
+  ],
+  "firstPublicationDate": [
+    "2019-10-18"
+  ]
+}

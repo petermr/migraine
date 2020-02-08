@@ -1,0 +1,325 @@
+{
+  "id": [
+    "27777829"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27777829"
+  ],
+  "pmcid": [
+    "PMC5074346"
+  ],
+  "doi": [
+    "10.1109/JTEHM.2016.2615899"
+  ],
+  "title": [
+    "Non-Invasive Neuromodulation Using Time-Varying Caloric Vestibular Stimulation."
+  ],
+  "authorString": [
+    "Black RD, Rogers LL, Ade KK, Nicoletto HA, Adkins HD, Laskowitz DT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Black RD"
+          ],
+          "firstName": [
+            "Robert D"
+          ],
+          "lastName": [
+            "Black"
+          ],
+          "initials": [
+            "RD"
+          ],
+          "affiliation": [
+            "Scion NeuroStim, LLC Raleigh NC 27613 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rogers LL"
+          ],
+          "firstName": [
+            "Lesco L"
+          ],
+          "lastName": [
+            "Rogers"
+          ],
+          "initials": [
+            "LL"
+          ],
+          "affiliation": [
+            "Scion NeuroStim, LLC Raleigh NC 27613 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ade KK"
+          ],
+          "firstName": [
+            "Kristen K"
+          ],
+          "lastName": [
+            "Ade"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "Scion NeuroStim, LLC Raleigh NC 27613 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nicoletto HA"
+          ],
+          "firstName": [
+            "Heather A"
+          ],
+          "lastName": [
+            "Nicoletto"
+          ],
+          "initials": [
+            "HA"
+          ],
+          "affiliation": [
+            "Department of Neurology Duke University Medical Center Durham NC 27710 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Adkins HD"
+          ],
+          "firstName": [
+            "Heather D"
+          ],
+          "lastName": [
+            "Adkins"
+          ],
+          "initials": [
+            "HD"
+          ],
+          "affiliation": [
+            "Department of Neurology Duke University Medical Center Durham NC 27710 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Laskowitz DT"
+          ],
+          "firstName": [
+            "Daniel T"
+          ],
+          "lastName": [
+            "Laskowitz"
+          ],
+          "initials": [
+            "DT"
+          ],
+          "affiliation": [
+            "Department of Neurology Duke University Medical Center Durham NC 27710 USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2443483"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "IEEE journal of translational engineering in health and medicine"
+          ],
+          "ISOAbbreviation": [
+            "IEEE J Transl Eng Health Med"
+          ],
+          "medlineAbbreviation": [
+            "IEEE J Transl Eng Health Med"
+          ],
+          "NLMid": [
+            "101623153"
+          ],
+          "ISSN": [
+            "2168-2372"
+          ],
+          "ESSN": [
+            "2168-2372"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "2000310"
+  ],
+  "abstractText": [
+    "Caloric vestibular stimulation (CVS) to elicit the vestibulo-ocular reflex has long been used in clinical settings to aid in the diagnosis of balance disorders and to confirm the absence of brainstem function. While a number of studies have hinted at the potential therapeutic applications of CVS, the limitations of existing devices have frustrated that potential. Current CVS irrigators use water or air during short-duration applications; however, this approach is not tenable for longer duration therapeutic protocols or home use. Here, we describe a solid-state CVS device we developed in order to address these limitations. This device delivers tightly controlled time-varying thermal waveforms, which can be programmed through an external control unit. It contains several safety features, which limit patients to the prescribed waveform and prevent the potential for temperature extremes. In this paper, we provide evidence that CVS treatment with time-varying, but not constant temperature waveforms, elicits changes in cerebral blood flow physiology consistent with the neuromodulation of brainstem centers, and we present results from a small pilot study, which demonstrate that the CVS can safely and feasibly be used longitudinally in the home setting to treat episodic migraine. Together, these results indicate that this solid-state CVS device may be a viable tool for non-invasive neuromodulation."
+  ],
+  "affiliation": [
+    "Scion NeuroStim, LLC Raleigh NC 27613 USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Brainstem",
+        "Cerebral blood flow",
+        "Neuromodulation",
+        "Caloric Vestibular Stimulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1109/JTEHM.2016.2615899"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5074346"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2016-10-25"
+  ],
+  "firstIndexDate": [
+    "2016-10-28"
+  ],
+  "fullTextReceivedDate": [
+    "2016-10-26"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2016-10-07"
+  ],
+  "firstPublicationDate": [
+    "2016-10-07"
+  ]
+}

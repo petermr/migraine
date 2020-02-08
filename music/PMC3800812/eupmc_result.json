@@ -1,0 +1,293 @@
+{
+  "id": [
+    "24155703"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24155703"
+  ],
+  "pmcid": [
+    "PMC3800812"
+  ],
+  "doi": [
+    "10.3389/fnhum.2013.00657"
+  ],
+  "title": [
+    "Serotonergic hyperactivity as a potential factor in developmental, acquired and drug-induced synesthesia."
+  ],
+  "authorString": [
+    "Brogaard B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Brogaard B"
+          ],
+          "firstName": [
+            "Berit"
+          ],
+          "lastName": [
+            "Brogaard"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Philosophy and Center for Neurodynamics, University of Missouri St. Louis, MO, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2004142"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "657"
+  ],
+  "abstractText": [
+    "Though synesthesia research has seen a huge growth in recent decades, and tremendous progress has been made in terms of understanding the mechanism and cause of synesthesia, we are still left mostly in the dark when it comes to the mechanistic commonalities (if any) among developmental, acquired and drug-induced synesthesia. We know that many forms of synesthesia involve aberrant structural or functional brain connectivity. Proposed mechanisms include direct projection and disinhibited feedback mechanisms, in which information from two otherwise structurally or functionally separate brain regions mix. We also know that synesthesia sometimes runs in families. However, it is unclear what causes its onset. Studies of psychedelic drugs, such as psilocybin, LSD and mescaline, reveal that exposure to these drugs can induce synesthesia. One neurotransmitter suspected to be central to the perceptual changes is serotonin. Excessive serotonin in the brain may cause many of the characteristics of psychedelic intoxication. Excessive serotonin levels may also play a role in synesthesia acquired after brain injury. In brain injury sudden cell death floods local brain regions with serotonin and glutamate. This neurotransmitter flooding could perhaps result in unusual feature binding. Finally, developmental synesthesia that occurs in individuals with autism may be a result of alterations in the serotonergic system, leading to a blockage of regular gating mechanisms. I conclude on these grounds that one commonality among at least some cases of acquired, developmental and drug-induced synesthesia may be the presence of excessive levels of serotonin, which increases the excitability and connectedness of sensory brain regions."
+  ],
+  "affiliation": [
+    "Department of Philosophy and Center for Neurodynamics, University of Missouri St. Louis, MO, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Traumatic brain injury",
+        "Autism Spectrum Disorder",
+        "Savant Syndrome",
+        "Multisensory Perception",
+        "Acquired Synesthesia",
+        "Drug-induced Synaesthesia",
+        "Left-hemisphere Injuries",
+        "Serotonin Hypothesis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24155703/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24155703/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2013.00657"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3800812"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3800812?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-10-24"
+  ],
+  "dateOfCreation": [
+    "2013-10-25"
+  ],
+  "firstIndexDate": [
+    "2013-10-28"
+  ],
+  "fullTextReceivedDate": [
+    "2013-10-25"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2013-10-21"
+  ],
+  "firstPublicationDate": [
+    "2013-10-21"
+  ]
+}

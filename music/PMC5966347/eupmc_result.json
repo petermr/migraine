@@ -1,0 +1,760 @@
+{
+  "id": [
+    "29796865"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29796865"
+  ],
+  "pmcid": [
+    "PMC5966347"
+  ],
+  "doi": [
+    "10.1186/s10194-018-0866-y"
+  ],
+  "title": [
+    "Evaluation of gray matter perfusion in episodic migraine using voxel-wise comparison of 3D pseudo-continuous arterial spin labeling."
+  ],
+  "authorString": [
+    "Chen Z, Chen X, Liu M, Liu M, Ma L, Yu S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zhiye"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Radiology, Chinese PLA General Hospital, 28 Fuxing Road, Beijing, 100853, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xiaoyan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Neurology, Chinese PLA General Hospital, 28 Fuxing Road, Beijing, 100853, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu M"
+          ],
+          "firstName": [
+            "Mengyu"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Radiology, Chinese PLA General Hospital, 28 Fuxing Road, Beijing, 100853, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu M"
+          ],
+          "firstName": [
+            "Mengqi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Radiology, Chinese PLA General Hospital, 28 Fuxing Road, Beijing, 100853, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Radiology, Chinese PLA General Hospital, 28 Fuxing Road, Beijing, 100853, China. cjr.malin@vip.163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu S"
+          ],
+          "firstName": [
+            "Shengyuan"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3961-2464",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, Chinese PLA General Hospital, 28 Fuxing Road, Beijing, 100853, China. yusy1963@126.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3961-2464",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2682204"
+      ],
+      "dateOfPublication": [
+        "2018 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "36"
+  ],
+  "abstractText": [
+    "BACKGROUND:Although previous studies have demonstrated that structural and functional abnormalities in episodic migraine (EM), less is known about altered brain perfusion in the EM. The aim of this study is to investigate altered gray matter perfusion in EM using a 3D volumetric perfusion imaging. METHODS:Fifteen EM patients and 15 normal controls (NC) underwent structural and 3D pseudo-continuous arterial spin labeling (3D pc-ASL). The structural images were segmented using DARTEL methods and the generated normalized T1 tissue probability maps were used to coregister the cerebral blood flow (CBF) images, which would further be performed with standardization using Fisher Z Transformation. Voxel-wise analysis was applied to CBF map with Z standardization, and the Z value of the abnormal brain region was extracted and performed with correlation with the clinical variables. RESULTS:The increased CBF value located in the left Brodmann 38 (BA38) and no significantly decreased CBF value were detected in EM. HAMD scores presented significantly positive correlation with the CBF value of the left BA38. CONCLUSION:The current study indicated that the pattern of cerebral hyperperfusion may elucidate the neurogenic mechanism in the EM genesis, and 3D pc-ASL technique would non-invasively provide valuable cerebral perfusion information for the further pathophysiological and neuropsychological study in EM."
+  ],
+  "affiliation": [
+    "Department of Radiology, Chinese PLA General Hospital, 28 Fuxing Road, Beijing, 100853, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "818MS153"
+          ],
+          "agency": [
+            "supported by Hainan Provincial Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "12KMM39"
+          ],
+          "agency": [
+            "the Nursery Fund of Chinese PLA General Hospital"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2014T70960"
+          ],
+          "agency": [
+            "the Special Financial Grant from the China Postdoctoral Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016YW37"
+          ],
+          "agency": [
+            "the Foundation for Medical and health Sci & Tech innovation Project of Sanya"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cerebral Arteries"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Spin Labels"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Imaging, Three-Dimensional"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cerebrovascular Circulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gray Matter"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brain",
+        "Magnetic Resonance Imaging",
+        "Gray Matter",
+        "Episodic Migraine",
+        "3D Pseudo-continuous Arterial Spin Labeling"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Spin Labels"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-018-0866-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5966347"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5966347?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-09-20"
+  ],
+  "dateOfCreation": [
+    "2018-05-26"
+  ],
+  "firstIndexDate": [
+    "2018-05-26"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-13"
+  ],
+  "dateOfRevision": [
+    "2018-10-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-23"
+  ],
+  "firstPublicationDate": [
+    "2018-05-23"
+  ]
+}

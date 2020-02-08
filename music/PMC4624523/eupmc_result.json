@@ -1,0 +1,314 @@
+{
+  "id": [
+    "26587391"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26587391"
+  ],
+  "pmcid": [
+    "PMC4624523"
+  ],
+  "doi": [
+    "10.1016/j.jtcme.2015.08.008"
+  ],
+  "title": [
+    "Revisiting reflexology: Concept, evidence, current practice, and practitioner training."
+  ],
+  "authorString": [
+    "Embong NH, Soh YC, Ming LC, Wong TW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Embong NH"
+          ],
+          "firstName": [
+            "Nurul Haswani"
+          ],
+          "lastName": [
+            "Embong"
+          ],
+          "initials": [
+            "NH"
+          ],
+          "affiliation": [
+            "Faculty of Pharmacy, Universiti Teknologi MARA, Puncak Alam, Selangor, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Soh YC"
+          ],
+          "firstName": [
+            "Yee Chang"
+          ],
+          "lastName": [
+            "Soh"
+          ],
+          "initials": [
+            "YC"
+          ],
+          "affiliation": [
+            "Faculty of Pharmacy, Universiti Teknologi MARA, Puncak Alam, Selangor, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ming LC"
+          ],
+          "firstName": [
+            "Long Chiau"
+          ],
+          "lastName": [
+            "Ming"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6971-1383",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Pharmacy, Universiti Teknologi MARA, Puncak Alam, Selangor, Malaysia ; Brain Degeneration and Therapeutics Group, Pharmaceutical and Life Sciences CoRe, Universiti Teknologi MARA, Shah Alam, Selangor, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong TW"
+          ],
+          "firstName": [
+            "Tin Wui"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "TW"
+          ],
+          "affiliation": [
+            "Non-Destructive Biomedical and Pharmaceutical Research Centre, iPROMISE, Universiti Teknologi MARA, Puncak Alam, Selangor, Malaysia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6971-1383",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2344594"
+      ],
+      "dateOfPublication": [
+        "2015 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of traditional and complementary medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Tradit Complement Med"
+          ],
+          "medlineAbbreviation": [
+            "J Tradit Complement Med"
+          ],
+          "NLMid": [
+            "101605474"
+          ],
+          "ISSN": [
+            "2225-4110"
+          ],
+          "ESSN": [
+            "2225-4110"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "197-206"
+  ],
+  "abstractText": [
+    "Reflexology is basically a study of how one part of the human body relates to another part of the body. Reflexology practitioners rely on the reflexes map of the feet and hands to all the internal organs and other human body parts. They believe that by applying the appropriate pressure and massage certain spots on the feet and hands, all other body parts could be energized and rejuvenated. This review aimed to revisit the concept of reflexology and examine its effectiveness, practices, and the training for reflexology practitioners. PubMed, SCOPUS, Google Scholar, and SpringerLink databases were utilized to search the following medical subject headings or keywords: foot massage, reflexology, foot reflexotherapy, reflexological treatment, and zone therapy. The articles published for the last 10 years were included. Previous systematic reviews failed to show concrete evidence for any specific effect of reflexology in any conditions. Due to its non-invasive, non-pharmacological complementary nature, reflexology is widely accepted and anecdotal evidence of positive effect reflexology in a variety of health conditions are available. Adequate training for practitioners is necessary to ensure the consistency of service provided."
+  ],
+  "affiliation": [
+    "Faculty of Pharmacy, Universiti Teknologi MARA, Puncak Alam, Selangor, Malaysia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Treatment effect",
+        "Pain Management",
+        "Complementary And Alternative Medicine",
+        "Foot Massage Reflexology",
+        "Zone Therapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jtcme.2015.08.008"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4624523"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-11-20"
+  ],
+  "dateOfCreation": [
+    "2015-11-20"
+  ],
+  "firstIndexDate": [
+    "2015-11-21"
+  ],
+  "fullTextReceivedDate": [
+    "2015-11-27"
+  ],
+  "dateOfRevision": [
+    "2015-12-14"
+  ],
+  "electronicPublicationDate": [
+    "2015-09-28"
+  ],
+  "firstPublicationDate": [
+    "2015-09-28"
+  ]
+}

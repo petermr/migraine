@@ -1,0 +1,340 @@
+{
+  "id": [
+    "29449820"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29449820"
+  ],
+  "pmcid": [
+    "PMC5799825"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2018.00048"
+  ],
+  "title": [
+    "Headache and Alexithymia in Children and Adolescents: What Is the Connection?"
+  ],
+  "authorString": [
+    "Natalucci G, Faedda N, Calderoni D, Cerutti R, Verdecchia P, Guidetti V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Natalucci G"
+          ],
+          "firstName": [
+            "Giulia"
+          ],
+          "lastName": [
+            "Natalucci"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Paediatric and Child and Adolescent Neuropsychiatry, \"Sapienza\" University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Faedda N"
+          ],
+          "firstName": [
+            "Noemi"
+          ],
+          "lastName": [
+            "Faedda"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Behavioural Neuroscience, Department of Paediatric and Child and Adolescent Neuropsychiatry, \"Sapienza\" University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Calderoni D"
+          ],
+          "firstName": [
+            "Dario"
+          ],
+          "lastName": [
+            "Calderoni"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Paediatric and Child and Adolescent Neuropsychiatry, \"Sapienza\" University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cerutti R"
+          ],
+          "firstName": [
+            "Rita"
+          ],
+          "lastName": [
+            "Cerutti"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Dynamic and Clinical Psychology, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Verdecchia P"
+          ],
+          "firstName": [
+            "Paola"
+          ],
+          "lastName": [
+            "Verdecchia"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Paediatric and Child and Adolescent Neuropsychiatry, \"Sapienza\" University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Guidetti V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Guidetti"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Paediatric and Child and Adolescent Neuropsychiatry, \"Sapienza\" University of Rome, Rome, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2645273"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "48"
+  ],
+  "abstractText": [
+    "Background: Headache is one of the most common complaints in children and adolescents and comorbidity rates are very high and the major associated diseases are depression, anxiety, atopic disorders, sleep, and behavioral disorders. In recent years, it has been highlighted that difficulties regulating emotions such as alexithymia have also been associated with diagnosis of somatization. Methods: We carried out a mini review analyzing the relation between alexithymia and primary headache (e.g., migraine and tension type headache) in children and adolescents by synthesizing the relevant studies in the literature on PubMed, PsycINFO, and Google Scholar. Search terms were \"alexithymia\" combined with the \"primary headache,\" \"migraine,\" \"tension type headache,\" \"children,\" and \"adolescents.\" Results: All analyzed studies found higher levels of alexithymia in children and adolescents with headache than control groups but there are different opinions about the relationship between headache and alexithymia. For example, some studies suggest that the association between headache and alexithymia in children may be due to an incomplete development of emotive competency or a general immature cognitive development, instead other studies found a correlation between headache symptoms, insecure attachment, and alexithymia. There seems to be also differences between children with migraine compared to those with tension type headache (TTH). Conclusion: There are some studies on adults suffering from headache or migraine and alexithymia, but there is only a moderate amount of research on pediatric age with different opinions and theories about this relationship. Further studies on children and adolescents are necessary to effectively understand this relationship and to help children to reduce headache and improve emotional consciousness."
+  ],
+  "affiliation": [
+    "Department of Paediatric and Child and Adolescent Neuropsychiatry, \"Sapienza\" University of Rome, Rome, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Migraine",
+        "Adolescents",
+        "Headache",
+        "Alexithymia",
+        "Tension Type Headache"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2018.00048"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5799825"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5799825?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-17"
+  ],
+  "firstIndexDate": [
+    "2018-02-17"
+  ],
+  "fullTextReceivedDate": [
+    "2018-02-18"
+  ],
+  "dateOfRevision": [
+    "2018-02-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-01"
+  ],
+  "firstPublicationDate": [
+    "2018-02-01"
+  ]
+}

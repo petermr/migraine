@@ -1,0 +1,275 @@
+{
+  "id": [
+    "27610179"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27610179"
+  ],
+  "pmcid": [
+    "PMC5014910"
+  ],
+  "doi": [
+    "10.3345/kjp.2016.59.8.313"
+  ],
+  "title": [
+    "The use of complementary and alternative medicine in children with common neurologic diseases."
+  ],
+  "authorString": [
+    "Yeon GM, Nam SO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yeon GM"
+          ],
+          "firstName": [
+            "Gyu-Min"
+          ],
+          "lastName": [
+            "Yeon"
+          ],
+          "initials": [
+            "GM"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Kosin University Gospel Hospital, Kosin University College of Medicine, Busan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Nam SO"
+          ],
+          "firstName": [
+            "Sang Ook"
+          ],
+          "lastName": [
+            "Nam"
+          ],
+          "initials": [
+            "SO"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Pusan National University Children's Hospital, Pusan National University School of Medicine, Yangsan, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "59"
+      ],
+      "journalIssueId": [
+        "2449304"
+      ],
+      "dateOfPublication": [
+        "2016 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Korean journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Korean J Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Korean J Pediatr"
+          ],
+          "NLMid": [
+            "101215374"
+          ],
+          "ISSN": [
+            "1738-1061"
+          ],
+          "ESSN": [
+            "2092-7258"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "313-318"
+  ],
+  "abstractText": [
+    "Complementary and alternative medicine (CAM) is a phrase used to describe additional health care methods such as mind/body practices and natural products not regarded as treatments by conventional medicine. The use of CAM in children with common neurologic diseases is more frequent than its use in healthy children (24%-78% vs. 12%). However, less than half of patients report such use to their physicians. The preferred modalities of CAM vary in different countries due to their different cultures and traditions. The most common factor significantly associated with the use of CAM is parental CAM use in most studies. The frequency of the use of CAM in children and adults with neurologic diseases is similar, and both rates are higher than the rates in those without these conditions. The preferred modalities of CAM in adults are diverse, and megavitamins and mind/body therapy (prayer and chiropractic care) are included. The most common factor significantly associated with the use of CAM in adults with neurologic diseases is high educational level. Physicians need to be concerned with patients' use of CAM and provide correct information about CAM so that patients may make the right decisions. Further study is needed to determine the evidence-based efficacy of CAM use in children with common neurologic diseases."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Kosin University Gospel Hospital, Kosin University College of Medicine, Busan, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Nervous system diseases",
+        "Complementary Therapies"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3345/kjp.2016.59.8.313"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5014910"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5014910?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-09-09"
+  ],
+  "dateOfCreation": [
+    "2016-09-09"
+  ],
+  "firstIndexDate": [
+    "2016-09-13"
+  ],
+  "fullTextReceivedDate": [
+    "2016-09-11"
+  ],
+  "dateOfRevision": [
+    "2017-02-24"
+  ],
+  "electronicPublicationDate": [
+    "2016-08-24"
+  ],
+  "firstPublicationDate": [
+    "2016-08-24"
+  ]
+}

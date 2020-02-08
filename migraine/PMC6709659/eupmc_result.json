@@ -1,0 +1,325 @@
+{
+  "id": [
+    "31481920"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31481920"
+  ],
+  "pmcid": [
+    "PMC6709659"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00846"
+  ],
+  "title": [
+    "The Tadpole Pupil: Case Series With Review of the Literature and New Considerations."
+  ],
+  "authorString": [
+    "Udry M, Kardon RH, Sadun F, Kawasaki A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Udry M"
+          ],
+          "firstName": [
+            "Morgane"
+          ],
+          "lastName": [
+            "Udry"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "FondationAsile des Aveugles, Department of Biology and Medicine, Hôpital Ophtalmique Jules Gonin, University of Lausanne, Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Kardon RH"
+          ],
+          "firstName": [
+            "Randy H"
+          ],
+          "lastName": [
+            "Kardon"
+          ],
+          "initials": [
+            "RH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3173-7123",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Ophthalmology and Visual Sciences, Iowa City VA Center of Excellence for the Prevention and Treatment of Vision Loss, University of Iowa and Veterans Affairs Hospital, Iowa City, IA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Sadun F"
+          ],
+          "firstName": [
+            "Federico"
+          ],
+          "lastName": [
+            "Sadun"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Ospedale Oftalmico Roma, ASL RM1, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Kawasaki A"
+          ],
+          "firstName": [
+            "Aki"
+          ],
+          "lastName": [
+            "Kawasaki"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "FondationAsile des Aveugles, Department of Biology and Medicine, Hôpital Ophtalmique Jules Gonin, University of Lausanne, Lausanne, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3173-7123",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "846"
+  ],
+  "abstractText": [
+    "Tadpole pupil is a rare phenomenon in which segmental spasm of the iris dilator muscle results in a tadpole-shaped pupil. The pupillary distortion is usually unilateral, lasts several minutes, and can recur in clusters. Any segment of the iris can be affected; thus, for some patients, a different-shaped tadpole pupil is noticed from episode to episode. Tadpole pupil most commonly appears spontaneously in young women. Tadpole pupil is not associated with any systemic disorders, but an ipsilateral Horner syndrome is noted in 46% of patients. In this article, we have reviewed the existing literature of tadpole pupil, compiling all the published cases in a table and reporting four additional cases to re-examine the clinical profile of this disorder and to consider the different purported mechanisms as means to understand its possible etiology and treatment. The common denominator in the pathophysiology of tadpole pupil is a focal excessive contraction (segmental spasm) of the iris dilator muscle. Based on various proposed pathophysiologic mechanism of tadpole pupil, we can consider potential forms of treatment."
+  ],
+  "affiliation": [
+    "FondationAsile des Aveugles, Department of Biology and Medicine, Hôpital Ophtalmique Jules Gonin, University of Lausanne, Lausanne, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pupil",
+        "Horner Syndrome",
+        "Mydriasis",
+        "Iris Dilator Muscle",
+        "Pupillary Distortion",
+        "Tadpole Pupil"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00846"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6709659"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6709659?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-05"
+  ],
+  "firstIndexDate": [
+    "2019-09-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-05"
+  ],
+  "dateOfRevision": [
+    "2019-09-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-19"
+  ],
+  "firstPublicationDate": [
+    "2019-08-19"
+  ]
+}

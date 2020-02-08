@@ -1,0 +1,750 @@
+{
+  "id": [
+    "30428826"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30428826"
+  ],
+  "pmcid": [
+    "PMC6755612"
+  ],
+  "doi": [
+    "10.1186/s10194-018-0939-y"
+  ],
+  "title": [
+    "Headache attributed to aeroplane travel: the first multicentric survey in a paediatric population affected by primary headaches."
+  ],
+  "authorString": [
+    "De Carlo D, Toldo I, Tamborino AM, Bolzonella B, Ledda MG, Margari L, Raieli V, Santucci M, Sciruicchio V, Vecchio A, Zanini S, Sartori S, Gatta M, Verrotti A, Battistella PA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "De Carlo D"
+          ],
+          "firstName": [
+            "Debora"
+          ],
+          "lastName": [
+            "De Carlo"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Juvenile Headache Centre, University of Padua, via Giustiniani 3, 35128, Padua, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Toldo I"
+          ],
+          "firstName": [
+            "Irene"
+          ],
+          "lastName": [
+            "Toldo"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Juvenile Headache Centre, University of Padua, via Giustiniani 3, 35128, Padua, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Tamborino AM"
+          ],
+          "firstName": [
+            "Agnese Maria"
+          ],
+          "lastName": [
+            "Tamborino"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "L'Aquila, Department of Pediatrics, San Salvatore Hospital, University of L'Aquila, L'Aquila, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bolzonella B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Bolzonella"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Juvenile Headache Centre, University of Padua, via Giustiniani 3, 35128, Padua, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ledda MG"
+          ],
+          "firstName": [
+            "Maria Giuseppina"
+          ],
+          "lastName": [
+            "Ledda"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Neuropsychiatry, University Hospital of Cagliari, Cagliari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Margari L"
+          ],
+          "firstName": [
+            "Lucia"
+          ],
+          "lastName": [
+            "Margari"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Child Neuropsychiatry Unit, Department of Neuroscience and Sense Organs, University of \"Aldo Moro\" Bari, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Raieli V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Raieli"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Child Neuropsychiatry Unit, Di Cristina Hospital, ARNAS civico, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Santucci M"
+          ],
+          "firstName": [
+            "Margherita"
+          ],
+          "lastName": [
+            "Santucci"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Child Neuropsychiatry, Università degli Studi di Bologna Scuola di Medicina e Chirurgia, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sciruicchio V"
+          ],
+          "firstName": [
+            "Vittorio"
+          ],
+          "lastName": [
+            "Sciruicchio"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Neurologic and Psychiatric Sciences Department, Ist Neurological Clinic, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Vecchio A"
+          ],
+          "firstName": [
+            "Angelo"
+          ],
+          "lastName": [
+            "Vecchio"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Child Neuropsychiatry, Università degli Studi di Palermo, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Zanini S"
+          ],
+          "firstName": [
+            "Sergio"
+          ],
+          "lastName": [
+            "Zanini"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "IRCCS \"La Nostra Famiglia - E. Medea\", Pasian di Prato, Udine, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sartori S"
+          ],
+          "firstName": [
+            "Stefano"
+          ],
+          "lastName": [
+            "Sartori"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Juvenile Headache Centre, University of Padua, via Giustiniani 3, 35128, Padua, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Gatta M"
+          ],
+          "firstName": [
+            "Michela"
+          ],
+          "lastName": [
+            "Gatta"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Juvenile Headache Centre, University of Padua, via Giustiniani 3, 35128, Padua, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Verrotti A"
+          ],
+          "firstName": [
+            "Alberto"
+          ],
+          "lastName": [
+            "Verrotti"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "L'Aquila, Department of Pediatrics, San Salvatore Hospital, University of L'Aquila, L'Aquila, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Battistella PA"
+          ],
+          "firstName": [
+            "Pier Antonio"
+          ],
+          "lastName": [
+            "Battistella"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "affiliation": [
+            "Juvenile Headache Centre, University of Padua, via Giustiniani 3, 35128, Padua, Italy. pierantonio.battistella@unipd.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2743430"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "108"
+  ],
+  "abstractText": [
+    "BACKGROUND:This multicentric survey investigates the prevalence and characteristics of Airplane Headache in children affected by primary headaches. METHODS:Patients with symptoms of Airplane Headache were recruited from nine Italian Pediatric Headache Centres. Each patient was handed a structured questionnaire which met the ICHD-III criteria. RESULTS:Among 320 children suffering from primary headaches who had flights during their lifetime, 15 (4.7%) had Airplane Headache, with mean age of 12.4 years. Most of the patients were females (80%). The headache was predominantly bilateral (80%) and localized to the frontal area (60%); it was mainly pulsating, and lasted less than 30 min in all cases. Accompanying symptoms were tearing, photophobia, phonophobia in most of the cases (73.3%). More than 30% of patients used medications to treat the attacks, with good results. CONCLUSION:Our study shows that Airplane Headache is not a rare disorder in children affected by primary headaches and highlights that its features in children are peculiar and differ from those described in adults. In children Airplane Headache prevails in females, is more often bilateral, has frequently accompanying symptoms and occurs at any time during the flight. Further studies are needed to confirm the actual frequency of Airplane Headache in the general pediatric population not selected from specialized Headache Centres, with and without other concomitant headache condition, and to better clarify the clinical characteristics, pathophysiology and potential therapies."
+  ],
+  "affiliation": [
+    "Juvenile Headache Centre, University of Padua, via Giustiniani 3, 35128, Padua, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Multicenter Study",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Photophobia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Measurement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Travel"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Aircraft"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Italy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Headache",
+        "Pediatric Headache",
+        "Primary Headaches",
+        "Airplane",
+        "Aeroplane Travel",
+        "Ichd-iii"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-018-0939-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6755612"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6755612?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-31"
+  ],
+  "dateOfCreation": [
+    "2018-11-16"
+  ],
+  "firstIndexDate": [
+    "2018-11-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-14"
+  ],
+  "firstPublicationDate": [
+    "2018-11-14"
+  ]
+}

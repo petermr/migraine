@@ -1,0 +1,343 @@
+{
+  "id": [
+    "29872400"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29872400"
+  ],
+  "pmcid": [
+    "PMC5972278"
+  ],
+  "doi": [
+    "10.3389/fphys.2018.00525"
+  ],
+  "title": [
+    "Different Types of Sounds and Their Relationship With the Electrocardiographic Signals and the Cardiovascular System - Review."
+  ],
+  "authorString": [
+    "Idrobo-Ávila EH, Loaiza-Correa H, van Noorden L, Muñoz-Bolaños FG, Vargas-Cañas R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Idrobo-Ávila EH"
+          ],
+          "firstName": [
+            "Ennio H"
+          ],
+          "lastName": [
+            "Idrobo-Ávila"
+          ],
+          "initials": [
+            "EH"
+          ],
+          "affiliation": [
+            "Percepción y Sistemas Inteligentes, Escuela de Ingeniería Eléctrica y Electrónica, Universidad del Valle, Cali, Colombia."
+          ]
+        },
+        {
+          "fullName": [
+            "Loaiza-Correa H"
+          ],
+          "firstName": [
+            "Humberto"
+          ],
+          "lastName": [
+            "Loaiza-Correa"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Percepción y Sistemas Inteligentes, Escuela de Ingeniería Eléctrica y Electrónica, Universidad del Valle, Cali, Colombia."
+          ]
+        },
+        {
+          "fullName": [
+            "van Noorden L"
+          ],
+          "firstName": [
+            "Leon"
+          ],
+          "lastName": [
+            "van Noorden"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Psychoacoustics and Electronic Music for Systematic Musicology, Department of Art, Music and Theatre Sciences, Ghent University, Ghent, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Muñoz-Bolaños FG"
+          ],
+          "firstName": [
+            "Flavio G"
+          ],
+          "lastName": [
+            "Muñoz-Bolaños"
+          ],
+          "initials": [
+            "FG"
+          ],
+          "affiliation": [
+            "Ciencias Fisiológicas Experimentales, Departamento de Ciencias Fisiológicas, Universidad del Cauca, Popayán, Colombia."
+          ]
+        },
+        {
+          "fullName": [
+            "Vargas-Cañas R"
+          ],
+          "firstName": [
+            "Rubiel"
+          ],
+          "lastName": [
+            "Vargas-Cañas"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1548-942X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Sistemas Dinámicos de Instrumentación y Control, Departamento de Física, Universidad del Cauca, Popayán, Colombia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1548-942X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644114"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "525"
+  ],
+  "abstractText": [
+    "Background: For some time now, the effects of sound, noise, and music on the human body have been studied. However, despite research done through time, it is still not completely clear what influence, interaction, and effects sounds have on human body. That is why it is necessary to conduct new research on this topic. Thus, in this paper, a systematic review is undertaken in order to integrate research related to several types of sound, both pleasant and unpleasant, specifically noise and music. In addition, it includes as much research as possible to give stakeholders a more general vision about relevant elements regarding methodologies, study subjects, stimulus, analysis, and experimental designs in general. This study has been conducted in order to make a genuine contribution to this area and to perhaps to raise the quality of future research about sound and its effects over ECG signals. Methods: This review was carried out by independent researchers, through three search equations, in four different databases, including: engineering, medicine, and psychology. Inclusion and exclusion criteria were applied and studies published between 1999 and 2017 were considered. The selected documents were read and analyzed independently by each group of researchers and subsequently conclusions were established between all of them. Results: Despite the differences between the outcomes of selected studies, some common factors were found among them. Thus, in noise studies where both BP and HR increased or tended to increase, it was noted that HRV (HF and LF/HF) changes with both sound and noise stimuli, whereas GSR changes with sound and musical stimuli. Furthermore, LF also showed changes with exposure to noise. Conclusion: In many cases, samples displayed a limitation in experimental design, and in diverse studies, there was a lack of a control group. There was a lot of variability in the presented stimuli providing a wide overview of the effects they could produce in humans. In the listening sessions, there were numerous examples of good practice in experimental design, such as the use of headphones and comfortable positions for study subjects, while the listening sessions lasted 20 min in most of the studies."
+  ],
+  "affiliation": [
+    "Percepción y Sistemas Inteligentes, Escuela de Ingeniería Eléctrica y Electrónica, Universidad del Valle, Cali, Colombia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Noise",
+        "Electrocardiography",
+        "Electrocardiogram",
+        "Sound",
+        "music",
+        "Signals"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphys.2018.00525"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5972278"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5972278?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-07"
+  ],
+  "firstIndexDate": [
+    "2018-06-07"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-07"
+  ],
+  "dateOfRevision": [
+    "2018-06-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-22"
+  ],
+  "firstPublicationDate": [
+    "2018-05-22"
+  ]
+}

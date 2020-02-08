@@ -1,0 +1,316 @@
+{
+  "id": [
+    "31010318"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31010318"
+  ],
+  "pmcid": [
+    "PMC6480981"
+  ],
+  "doi": [
+    "10.1177/2324709619838309"
+  ],
+  "title": [
+    "A 17-Year-Old Girl With Unilateral Headache and Double Vision."
+  ],
+  "authorString": [
+    "Rodriguez-Homs LG, Goerlitz-Jessen M, Das SU."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rodriguez-Homs LG"
+          ],
+          "firstName": [
+            "Larissa G"
+          ],
+          "lastName": [
+            "Rodriguez-Homs"
+          ],
+          "initials": [
+            "LG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4998-1519",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1 Duke University School of Medicine, Durham, NC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Goerlitz-Jessen M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Goerlitz-Jessen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "1 Duke University School of Medicine, Durham, NC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Das SU"
+          ],
+          "firstName": [
+            "Samrat U"
+          ],
+          "lastName": [
+            "Das"
+          ],
+          "initials": [
+            "SU"
+          ],
+          "affiliation": [
+            "1 Duke University School of Medicine, Durham, NC, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4998-1519",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2781087"
+      ],
+      "dateOfPublication": [
+        "2019 Jan-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of investigative medicine high impact case reports"
+          ],
+          "ISOAbbreviation": [
+            "J Investig Med High Impact Case Rep"
+          ],
+          "medlineAbbreviation": [
+            "J Investig Med High Impact Case Rep"
+          ],
+          "NLMid": [
+            "101624758"
+          ],
+          "ISSN": [
+            "2324-7096"
+          ],
+          "ESSN": [
+            "2324-7096"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2324709619838309"
+  ],
+  "abstractText": [
+    "Tolosa-Hunt syndrome is characterized by a painful ophthalmoplegia secondary to a granulomatous inflammation in or adjacent to the cavernous sinus. Magnetic resonance imaging will show enhancement of the cavernous sinus and/or the orbital apex. Although this syndrome is extremely rare in children, it should be a diagnostic consideration in patients presenting with painful ophthalmoplegia with variable involvement of cranial nerves II to VI. The differential diagnosis for unilateral cavernous sinus lesion is broad, including vascular lesions (cavernous sinus thrombosis), inflammatory processes (sarcoidosis, autoimmune), neoplastic processes (schwannoma, lymphoma), as well as infectious etiologies. We describe a pediatric patient presenting with neurological symptoms from a unilateral cavernous sinus magnetic resonance imaging abnormality and the thorough diagnostic approach to arrive at the diagnosis of Tolosa-Hunt syndrome."
+  ],
+  "affiliation": [
+    "1 Duke University School of Medicine, Durham, NC, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Tolosa-hunt Syndrome",
+        "Pediatric Neurology",
+        "Pediatric Neuro-ophthalmology"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/2324709619838309"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6480981"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6480981?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-24"
+  ],
+  "firstIndexDate": [
+    "2019-04-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-03"
+  ],
+  "dateOfRevision": [
+    "2020-01-09"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

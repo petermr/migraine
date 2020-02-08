@@ -1,0 +1,593 @@
+{
+  "id": [
+    "30419806"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30419806"
+  ],
+  "pmcid": [
+    "PMC6755590"
+  ],
+  "doi": [
+    "10.1186/s10194-018-0940-5"
+  ],
+  "title": [
+    "Perampanel inhibits calcitonin gene-related peptide release from rat brainstem in vitro."
+  ],
+  "authorString": [
+    "Tringali G, Currò D, Navarra P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tringali G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Tringali"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1030-9429",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Pharmacology, Fondazione Policlinico Universitario A. Gemelli IRCSS, Roma - Università Cattolica del Sacro Cuore, Largo Francesco Vito 1, 00168, Rome, Italy. giuseppe.tringali@unicatt.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Currò D"
+          ],
+          "firstName": [
+            "Diego"
+          ],
+          "lastName": [
+            "Currò"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Pharmacology, Fondazione Policlinico Universitario A. Gemelli IRCSS, Roma - Università Cattolica del Sacro Cuore, Largo Francesco Vito 1, 00168, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Navarra P"
+          ],
+          "firstName": [
+            "Pierluigi"
+          ],
+          "lastName": [
+            "Navarra"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Institute of Pharmacology, Fondazione Policlinico Universitario A. Gemelli IRCSS, Roma - Università Cattolica del Sacro Cuore, Largo Francesco Vito 1, 00168, Rome, Italy. pierluigi.navarra@unicatt.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1030-9429",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2743430"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "107"
+  ],
+  "abstractText": [
+    "BACKGROUND:Perampanel is a novel antiepileptic drug acting via non-competitive antagonism on glutamatergic AMPA receptors, and the subsequent inhibition of ion calcium influx. Since it was recently postulated that the antagonists of glutamate receptors might play a role in the treatment of migraine, in this study we investigated the putative anti-migraine activity of perampanel in an in vitro animal model involving the static incubation of rat brainstem explants and the subsequent measurement of immune-reactive calcitonin gene-related peptide released into the incubation medium. METHODS:Acute rat brainstem explants were incubated in plain medium or in medium containing graded concentrations of perampanel. The release into the medium was assessed by radioimmunoassay either under baseline conditions or after stimulation by such secretagogues as high K+ concentrations, veratridine or capsaicin. RESULTS:We found that: 1) under baseline conditions perampanel, given in the range 0.01-100 μM, inhibited in a concentration-dependent manner calcitonin gene-related peptide's release compared to controls; the decrease was statistically significant as from 10 μM; 2) a significant and consistent increase in calcitonin gene-related peptide's secretion was induced by all depolarizing stimuli after 1 h of incubation; 3) under these conditions, calcitonin gene-related peptide's release stimulated by 56 mM KCl was significantly reduced by perampanel from 0.1 μM onward, whereas secretion stimulated by veratridine was significantly reduced as from 1 μM; 4) on the contrary, perampanel had no effect on capsaicin-induced calcitonin gene-related peptide's release up to 100 μM. CONCLUSIONS:Here we provided preliminary in vitro evidence suggesting that perampanel might control pain transmission under conditions of activated trigeminal system, in a preclinical model mimicking the pathophysiology of human migraine."
+  ],
+  "affiliation": [
+    "Institute of Pharmacology, Fondazione Policlinico Universitario A. Gemelli IRCSS, Roma - Università Cattolica del Sacro Cuore, Largo Francesco Vito 1, 00168, Rome, Italy. giuseppe.tringali@unicatt.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Linea D1:2013-2018"
+          ],
+          "agency": [
+            "Internal funding (Fondi di Ateneo )"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Stem"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats, Wistar"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pyridones"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Calcitonin Gene-Related Peptide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptors, AMPA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anticonvulsants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Organ Culture Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dose-Response Relationship, Drug"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rat",
+        "Calcitonin gene-related peptide",
+        "Brainstem",
+        "AMPA",
+        "Perampanel",
+        "Innovative Biotechnologies",
+        "Glutammatergic"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anticonvulsants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Pyridones"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Receptors, AMPA"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "perampanel"
+          ],
+          "registryNumber": [
+            "H821664NPK"
+          ]
+        },
+        {
+          "name": [
+            "Calcitonin Gene-Related Peptide"
+          ],
+          "registryNumber": [
+            "JHB2QIZ69Z"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-018-0940-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6755590"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6755590?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-31"
+  ],
+  "dateOfCreation": [
+    "2018-11-14"
+  ],
+  "firstIndexDate": [
+    "2018-11-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-12"
+  ],
+  "firstPublicationDate": [
+    "2018-11-12"
+  ]
+}

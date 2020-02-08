@@ -1,0 +1,428 @@
+{
+  "id": [
+    "30967767"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30967767"
+  ],
+  "pmcid": [
+    "PMC6438928"
+  ],
+  "doi": [
+    "10.3389/fnhum.2019.00087"
+  ],
+  "title": [
+    "Migraine in the Young Brain: Adolescents vs. Young Adults."
+  ],
+  "authorString": [
+    "Colon E, Ludwick A, Wilcox SL, Youssef AM, Danehy A, Fair DA, Lebel AA, Burstein R, Becerra L, Borsook D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Colon E"
+          ],
+          "firstName": [
+            "Elisabeth"
+          ],
+          "lastName": [
+            "Colon"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology, Perioperative and Pain Medicine, Center for Pain and the Brain, Boston Children's Hospital, Harvard Medical School, Boston, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Ludwick A"
+          ],
+          "firstName": [
+            "Allison"
+          ],
+          "lastName": [
+            "Ludwick"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology, Perioperative and Pain Medicine, Center for Pain and the Brain, Boston Children's Hospital, Harvard Medical School, Boston, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilcox SL"
+          ],
+          "firstName": [
+            "Sophie L"
+          ],
+          "lastName": [
+            "Wilcox"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology, Perioperative and Pain Medicine, Center for Pain and the Brain, Boston Children's Hospital, Harvard Medical School, Boston, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Youssef AM"
+          ],
+          "firstName": [
+            "Andrew M"
+          ],
+          "lastName": [
+            "Youssef"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology, Perioperative and Pain Medicine, Center for Pain and the Brain, Boston Children's Hospital, Harvard Medical School, Boston, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Danehy A"
+          ],
+          "firstName": [
+            "Amy"
+          ],
+          "lastName": [
+            "Danehy"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Radiology, Boston Children's Hospital, Boston, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Fair DA"
+          ],
+          "firstName": [
+            "Damien A"
+          ],
+          "lastName": [
+            "Fair"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Department of Behavioral Neuroscience, Oregon Health & Science University, Portland, OR, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Lebel AA"
+          ],
+          "firstName": [
+            "Alyssa A"
+          ],
+          "lastName": [
+            "Lebel"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology, Perioperative and Pain Medicine, Center for Pain and the Brain, Boston Children's Hospital, Harvard Medical School, Boston, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Burstein R"
+          ],
+          "firstName": [
+            "Rami"
+          ],
+          "lastName": [
+            "Burstein"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Anesthesia, Critical Care and Pain Medicine, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Becerra L"
+          ],
+          "firstName": [
+            "Lino"
+          ],
+          "lastName": [
+            "Becerra"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology, Perioperative and Pain Medicine, Center for Pain and the Brain, Boston Children's Hospital, Harvard Medical School, Boston, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Borsook D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Borsook"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology, Perioperative and Pain Medicine, Center for Pain and the Brain, Boston Children's Hospital, Harvard Medical School, Boston, MA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2776216"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "87"
+  ],
+  "abstractText": [
+    "Migraine is a disease that peaks in late adolescence and early adulthood. The aim of this study was to evaluate age-related brain changes in resting state functional connectivity (rs-FC) in migraineurs vs. age-sex matched healthy controls at two developmental stages: adolescence vs. young adulthood. The effect of the disease was assessed within each developmental group and age- and sex-matched healthy controls and between developmental groups (migraine-related age effects). Globally the within group comparisons indicated more widespread abnormal rs-FC in the adolescents than in the young adults and more abnormal rs-FC associated with sensory networks in the young adults. Direct comparison of the two groups showed a number of significant changes: (1) more connectivity changes in the default mode network in the adolescents than in the young adults; (2) stronger rs-FC in the cerebellum network in the adolescents in comparison to young adults; and (3) stronger rs-FC in the executive and sensorimotor network in the young adults. The duration and frequency of the disease were differently associated with baseline intrinsic connectivity in the two groups. fMRI resting state networks demonstrate significant changes in brain function at critical time point of brain development and that potentially different treatment responsivity for the disease may result."
+  ],
+  "affiliation": [
+    "Department of Anesthesiology, Perioperative and Pain Medicine, Center for Pain and the Brain, Boston Children's Hospital, Harvard Medical School, Boston, MA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K24 NS064050"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brain",
+        "Functional magnetic resonance imaging",
+        "Brain Development",
+        "Age-related",
+        "Pediatric",
+        "Headaches",
+        "Resting-state Functional Connectivity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2019.00087"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6438928"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6438928?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-11"
+  ],
+  "firstIndexDate": [
+    "2019-04-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-13"
+  ],
+  "dateOfRevision": [
+    "2019-04-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-22"
+  ],
+  "firstPublicationDate": [
+    "2019-03-22"
+  ]
+}

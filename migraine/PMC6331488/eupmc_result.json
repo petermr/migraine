@@ -1,0 +1,574 @@
+{
+  "id": [
+    "30043349"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30043349"
+  ],
+  "pmcid": [
+    "PMC6331488"
+  ],
+  "doi": [
+    "10.1007/s10803-018-3697-4"
+  ],
+  "title": [
+    "Physical health in children with neurodevelopmental disorders."
+  ],
+  "authorString": [
+    "Alabaf S, Gillberg C, Lundström S, Lichtenstein P, Kerekes N, Råstam M, Anckarsäter H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alabaf S"
+          ],
+          "firstName": [
+            "Setareh"
+          ],
+          "lastName": [
+            "Alabaf"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2690-1109",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Gillberg Neuropsychiatry Centre, Institute of Neuroscience and Physiology, University of Gothenburg, Gothenburg, Sweden. setareh.alabaf@gu.se."
+          ]
+        },
+        {
+          "fullName": [
+            "Gillberg C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Gillberg"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Gillberg Neuropsychiatry Centre, Institute of Neuroscience and Physiology, University of Gothenburg, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Lundström S"
+          ],
+          "firstName": [
+            "Sebastian"
+          ],
+          "lastName": [
+            "Lundström"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7235-8499",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Gillberg Neuropsychiatry Centre, Institute of Neuroscience and Physiology, University of Gothenburg, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Lichtenstein P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Lichtenstein"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Medical Epidemiology and Biostatistics, Karolinska Institute, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Kerekes N"
+          ],
+          "firstName": [
+            "Nóra"
+          ],
+          "lastName": [
+            "Kerekes"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8854-0399",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Health Sciences, University West, Trollhättan, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Råstam M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Råstam"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Gillberg Neuropsychiatry Centre, Institute of Neuroscience and Physiology, University of Gothenburg, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Anckarsäter H"
+          ],
+          "firstName": [
+            "Henrik"
+          ],
+          "lastName": [
+            "Anckarsäter"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Center for Ethics, Law and Mental health (CELAM), Institute of Neuroscience and Physiology, University of Gothenburg, Gothenburg, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8854-0399",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7235-8499",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2690-1109",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "2770718"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of autism and developmental disorders"
+          ],
+          "ISOAbbreviation": [
+            "J Autism Dev Disord"
+          ],
+          "medlineAbbreviation": [
+            "J Autism Dev Disord"
+          ],
+          "NLMid": [
+            "7904301"
+          ],
+          "ISSN": [
+            "0162-3257"
+          ],
+          "ESSN": [
+            "1573-3432"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "83-95"
+  ],
+  "abstractText": [
+    "With increasing numbers of children being diagnosed with neurodevelopmental disorders (NDDs) attention has been drawn to these children's physical health. We aimed to identify the prevalence of defined physical problems (epilepsy, migraine, asthma, cancer, diabetes, psoriasis, lactose intolerance, celiac disease, diarrhea, constipation, daytime enuresis, encopresis) in a nationwide population of 9- and 12-year-old twins subdivided into those with and without indications of NDDs. Parents of 28,058 twins participated in a well-validated telephone interview regarding their children's mental health and answered questions about their physical problems. The results indicate a high rate of physical problems in children with NDDs, particularly in those with indications of the presence of combinations of several NDDs."
+  ],
+  "affiliation": [
+    "Gillberg Neuropsychiatry Centre, Institute of Neuroscience and Physiology, University of Gothenburg, Gothenburg, Sweden. setareh.alabaf@gu.se."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Twin Study",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Health Status"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Twins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sweden"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurodevelopmental Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Twins",
+        "Physical Health",
+        "Neurodevelopmental Disorders",
+        "Attention-deficit/hyperactivity Disorder (Adhd)",
+        "Autism Spectrum Disorder (Asd)",
+        "Learning Disorder (Ld)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10803-018-3697-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6331488"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6331488?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30341628"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "J Autism Dev Disord. 2018 Oct 19;:"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-07"
+  ],
+  "dateOfCreation": [
+    "2018-07-26"
+  ],
+  "firstIndexDate": [
+    "2018-07-26"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-31"
+  ],
+  "dateOfRevision": [
+    "2019-05-14"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

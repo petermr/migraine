@@ -1,0 +1,550 @@
+{
+  "id": [
+    "31086412"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31086412"
+  ],
+  "pmcid": [
+    "PMC6516648"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0216812"
+  ],
+  "title": [
+    "Diagnostic tool for initial evaluation of the intracranial pressure on computed tomography in pediatric patients with headache."
+  ],
+  "authorString": [
+    "Bartsikhovsky T, Klar MM, Bekerman I, Nagieva S, Tal S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bartsikhovsky T"
+          ],
+          "firstName": [
+            "Tetiana"
+          ],
+          "lastName": [
+            "Bartsikhovsky"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8704-0608",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Radiology, Shamir Medical Center (Assaf Harofeh), Zeriffin, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Klar MM"
+          ],
+          "firstName": [
+            "Miriam M"
+          ],
+          "lastName": [
+            "Klar"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7609-5470",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Radiology, Shamir Medical Center (Assaf Harofeh), Zeriffin, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Bekerman I"
+          ],
+          "firstName": [
+            "Inessa"
+          ],
+          "lastName": [
+            "Bekerman"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Radiology, Shamir Medical Center (Assaf Harofeh), Zeriffin, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Nagieva S"
+          ],
+          "firstName": [
+            "Saida"
+          ],
+          "lastName": [
+            "Nagieva"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Radiology, Shamir Medical Center (Assaf Harofeh), Zeriffin, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Tal S"
+          ],
+          "firstName": [
+            "Sigal"
+          ],
+          "lastName": [
+            "Tal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Radiology, Shamir Medical Center (Assaf Harofeh), Zeriffin, Israel."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7609-5470",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8704-0608",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2839730"
+      ],
+      "dateOfPublication": [
+        "2019"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0216812"
+  ],
+  "abstractText": [
+    "BACKGROUND:Headache is one of the most common complaints among pediatric patients and can be due to many causes, some benign but others potentially seriously. Increased intracranial pressure, which is known to cause papilledema, is a serious cause of headache, and immediate diagnosis is critical, although difficult. The current study evaluates the diagnostic value of optic nerve sheath diameter (ONSD) and eyeball transverse diameter (ETD) ratio in pediatric patients presenting with headache and papilledema. METHODS:A retrospective analysis of all pediatric patients undergoing head computed tomography scans between January 2013 and December 2015. Patients with normal brain scans were included in the study. Patients presenting with headache underwent funduscopic evaluation and grouped as either headache with papilledema or headache without papilledema. A control group of patients without headache was also included. Studies were reviewed blindly by a neuroradiologist and ONSD and ETD for both eyes were measured. RESULTS:ONSD/ETD index was found to have significantly higher values (p<0.001) in patients with papilledema (median 0.24, interquartile range (IQR) = 0.22-0.25) compared to patients without papilledema (median 0.18, IQR = 0.16-0.19) and the control group (median 0.17, IQR = 0.15-0.18). The ONSD/ETD index showed excellent discrimination ability for patients with headache and papilledema (AUC = 0.96, 95% CI, 0.94-0.99). The ONSD/ETD index of 0.21 was found to have a sensitivity and specificity of 82% and 93%, respectively, for identifying pediatric patients with headache and papilledema. CONCLUSION:Our study shows that ONSD/ETD index of 0.21 can be used as an easy-to-use reference tool for diagnosing papilledema and elevated intracranial pressure in pediatric patients."
+  ],
+  "affiliation": [
+    "Department of Radiology, Shamir Medical Center (Assaf Harofeh), Zeriffin, Israel."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intracranial Hypertension"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Papilledema"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tomography, X-Ray Computed"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retrospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intracranial Pressure"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0216812"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6516648"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6516648?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-01-22"
+  ],
+  "dateOfCreation": [
+    "2019-05-16"
+  ],
+  "firstIndexDate": [
+    "2019-05-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2020-01-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-14"
+  ],
+  "firstPublicationDate": [
+    "2019-05-14"
+  ]
+}

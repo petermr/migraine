@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="[]," count="19"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="University" count="14"/>
+ <result title="frequency" word="grid.." count="12"/>
+ <result title="frequency" word="Department" count="11"/>
+ <result title="frequency" word="women" count="10"/>
+ <result title="frequency" word="./," count="9"/>
+ <result title="frequency" word="Headache" count="8"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="risk" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="European" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="ischemic" count="6"/>
+ <result title="frequency" word="stroke" count="6"/>
+ <result title="frequency" word="use" count="6"/>
+ <result title="frequency" word="Health" count="5"/>
+ <result title="frequency" word="Pain" count="5"/>
+ <result title="frequency" word="Reproductive" count="5"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="migraine" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="Hospital," count="4"/>
+ <result title="frequency" word="Medicine," count="4"/>
+ <result title="frequency" word="article" count="4"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="contraception" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="hormonal" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+ <result title="frequency" word="year" count="4"/>
+ <result title="frequency" word="young" count="4"/>
+</results>

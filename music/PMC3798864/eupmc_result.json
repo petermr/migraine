@@ -1,0 +1,321 @@
+{
+  "id": [
+    "24151478"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24151478"
+  ],
+  "pmcid": [
+    "PMC3798864"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2013.00754"
+  ],
+  "title": [
+    "Affect-related synesthesias: a prospective view on their existence, expression and underlying mechanisms."
+  ],
+  "authorString": [
+    "Dael N, Sierro G, Mohr C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dael N"
+          ],
+          "firstName": [
+            "Nele"
+          ],
+          "lastName": [
+            "Dael"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Institute of Psychology, University of Lausanne Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Sierro G"
+          ],
+          "firstName": [
+            "Guillaume"
+          ],
+          "lastName": [
+            "Sierro"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Mohr C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Mohr"
+          ],
+          "initials": [
+            "C"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2472954"
+      ],
+      "dateOfPublication": [
+        "2013 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "754"
+  ],
+  "abstractText": [
+    "The literature on developmental synesthesia has seen numerous sensory combinations, with surprisingly few reports on synesthesias involving affect. On the one hand, emotion, or more broadly affect, might be of minor importance to the synesthetic experience (e.g., Sinke et al., 2012). On the other hand, predictions on how affect could be relevant to the synesthetic experience remain to be formulated, in particular those that are driven by emotion theories. In this theoretical paper, we hypothesize that a priori studies on synesthesia involving affect will observe the following. Firstly, the synesthetic experience is not merely about discrete emotion processing or overall valence (positive, negative) but is determined by or even altered through cognitive appraisal processes. Secondly, the synesthetic experience changes temporarily on a quantitative level according to (i) the affective appraisal of the inducing stimulus or (ii) the current affective state of the individual. These hypotheses are inferred from previous theoretical and empirical accounts on synesthesia (including the few examples involving affect), different emotion theories, crossmodal processing accounts in synesthetes, and non-synesthetes, and the presumed stability of the synesthetic experience. We hope that the current review will succeed in launching a new series of studies on \"affective synesthesias.\" We particularly hope that such studies will apply the same creativity in experimental paradigms as we have seen and still see when assessing and evaluating \"traditional\" synesthesias."
+  ],
+  "affiliation": [
+    "Institute of Psychology, University of Lausanne Lausanne, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stability",
+        "Appraisal",
+        "Affect",
+        "emotion",
+        "Crossmodal",
+        "Synesthesia",
+        "State Dependency"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24151478/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24151478/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2013.00754"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3798864"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3798864?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-24"
+  ],
+  "dateOfCreation": [
+    "2013-10-24"
+  ],
+  "firstIndexDate": [
+    "2013-11-09"
+  ],
+  "fullTextReceivedDate": [
+    "2013-10-24"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2013-10-18"
+  ],
+  "firstPublicationDate": [
+    "2013-10-18"
+  ]
+}

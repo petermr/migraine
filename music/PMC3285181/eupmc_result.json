@@ -1,0 +1,715 @@
+{
+  "id": [
+    "22384070"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22384070"
+  ],
+  "pmcid": [
+    "PMC3285181"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0031763"
+  ],
+  "title": [
+    "AVPR1A and SLC6A4 polymorphisms in choral singers and non-musicians: a gene association study."
+  ],
+  "authorString": [
+    "Morley AP, Narayanan M, Mines R, Molokhia A, Baxter S, Craig G, Lewis CM, Craig I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Morley AP"
+          ],
+          "firstName": [
+            "Andrew P"
+          ],
+          "lastName": [
+            "Morley"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "affiliation": [
+            "King's Health Partners Academic Health Sciences Centre, London, United Kingdom. andrew.morley@gstt.nhs.uk"
+          ]
+        },
+        {
+          "fullName": [
+            "Narayanan M"
+          ],
+          "firstName": [
+            "Madan"
+          ],
+          "lastName": [
+            "Narayanan"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Mines R"
+          ],
+          "firstName": [
+            "Rebecca"
+          ],
+          "lastName": [
+            "Mines"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Molokhia A"
+          ],
+          "firstName": [
+            "Ashraf"
+          ],
+          "lastName": [
+            "Molokhia"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Baxter S"
+          ],
+          "firstName": [
+            "Sebastian"
+          ],
+          "lastName": [
+            "Baxter"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Craig G"
+          ],
+          "firstName": [
+            "Gavin"
+          ],
+          "lastName": [
+            "Craig"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Lewis CM"
+          ],
+          "firstName": [
+            "Cathryn M"
+          ],
+          "lastName": [
+            "Lewis"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8249-8476",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Craig I"
+          ],
+          "firstName": [
+            "Ian"
+          ],
+          "lastName": [
+            "Craig"
+          ],
+          "initials": [
+            "I"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4063-1005",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8249-8476",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1903435"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "e31763"
+  ],
+  "abstractText": [
+    "Amateur choral singing is a common pastime and worthy of study, possibly conferring benefits to health and social behaviour. Participants might be expected to possess musical ability and share some behavioural characteristics. Polymorphisms in genes concerned with serotonergic neurotransmission are associated with both behaviour and musical aptitude. Those investigated previously include the variable number tandem repeats RS1, RS3 and AVR in the AVPR1A (arginine vasopressin receptor 1a) gene and STin2 in the SLC6A4 (solute carrier family 6 [neurotransmitter transporter, serotonin], member 4) gene, as well as the SLC6A4 promoter region polymorphism, 5-HTTLPR. We conducted a genetic association study on 523 participants to establish whether alleles at these polymorphisms occur more commonly in choral singers than in those not regularly participating in organised musical activity (non-musicians). We also analysed tagging single nucleotide polymorphisms (SNPs) for AVPR1A and SLC6A4 to determine whether other variants in these genes were associated with singer/non-musician status. At the STin2 polymorphism, overall association with singer/non-musician status was evident at P = 0.006. The 9-repeat (P = 0.04) and 12-repeat (P = 0.04) alleles were more common in singers and the 10-repeat allele less so (P = 0.009). Odds ratios were 0.73 (95% CI 0.57-0.94) for the 10-repeat allele and 2.47 (95% CI 0.88-6.94) for the rarer 9-repeat allele. No overall association was detected at P<0.05 between any other polymorphism and singer/non-musician status. Our null findings with respect to RS3, RS1 and AVR, polymorphisms associated with musical ability by other authors, suggest that choir membership may depend partly on factors other than musical ability. In a related musical project involving one participating choir, a new 40-part unaccompanied choral work, \"Allele\", was composed and broadcast on national radio. In the piece, each singer's part incorporated their personal RS3 genotype."
+  ],
+  "affiliation": [
+    "King's Health Partners Academic Health Sciences Centre, London, United Kingdom. andrew.morley@gstt.nhs.uk"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G9817803B"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "WT089550A"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "WT089550Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptors, Vasopressin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Odds Ratio"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Minisatellite Repeats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Haplotypes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Homozygote"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polymorphism, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Alleles"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Music"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Serotonin Plasma Membrane Transport Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Receptors, Vasopressin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "SLC6A4 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Serotonin Plasma Membrane Transport Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22384070/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22384070/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0031763"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3285181"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3285181?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2012-08-27"
+  ],
+  "dateOfCreation": [
+    "2012-03-03"
+  ],
+  "firstIndexDate": [
+    "2012-03-04"
+  ],
+  "fullTextReceivedDate": [
+    "2012-06-14"
+  ],
+  "dateOfRevision": [
+    "2018-03-15"
+  ],
+  "electronicPublicationDate": [
+    "2012-02-22"
+  ],
+  "firstPublicationDate": [
+    "2012-02-22"
+  ]
+}

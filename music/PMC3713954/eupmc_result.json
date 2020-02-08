@@ -1,0 +1,400 @@
+{
+  "id": [
+    "23770578"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23770578"
+  ],
+  "pmcid": [
+    "PMC3713954"
+  ],
+  "doi": [
+    "10.2196/jmir.2600"
+  ],
+  "title": [
+    "Mobile health applications for the most prevalent conditions by the World Health Organization: review and analysis."
+  ],
+  "authorString": [
+    "Martínez-Pérez B, de la Torre-Díez I, López-Coronado M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Martínez-Pérez B"
+          ],
+          "firstName": [
+            "Borja"
+          ],
+          "lastName": [
+            "Martínez-Pérez"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1681-9726",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Valladolid, Department of Signal Theory and Communications, and Telematics Engineering., University of Valladolid, Valladolid, Spain. borja.martinez@uva.es"
+          ]
+        },
+        {
+          "fullName": [
+            "de la Torre-Díez I"
+          ],
+          "firstName": [
+            "Isabel"
+          ],
+          "lastName": [
+            "de la Torre-Díez"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3134-7720",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "López-Coronado M"
+          ],
+          "firstName": [
+            "Miguel"
+          ],
+          "lastName": [
+            "López-Coronado"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3134-7720",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1681-9726",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2058368"
+      ],
+      "dateOfPublication": [
+        "2013 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of medical Internet research"
+          ],
+          "ISOAbbreviation": [
+            "J. Med. Internet Res."
+          ],
+          "medlineAbbreviation": [
+            "J Med Internet Res"
+          ],
+          "NLMid": [
+            "100959882"
+          ],
+          "ISSN": [
+            "1439-4456"
+          ],
+          "ESSN": [
+            "1438-8871"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "e120"
+  ],
+  "abstractText": [
+    "BACKGROUND:New possibilities for mHealth have arisen by means of the latest advances in mobile communications and technologies. With more than 1 billion smartphones and 100 million tablets around the world, these devices can be a valuable tool in health care management. Every aid for health care is welcome and necessary as shown by the more than 50 million estimated deaths caused by illnesses or health conditions in 2008. Some of these conditions have additional importance depending on their prevalence. OBJECTIVE:To study the existing applications for mobile devices exclusively dedicated to the eight most prevalent health conditions by the latest update (2004) of the Global Burden of Disease (GBD) of the World Health Organization (WHO): iron-deficiency anemia, hearing loss, migraine, low vision, asthma, diabetes mellitus, osteoarthritis (OA), and unipolar depressive disorders. METHODS:Two reviews have been carried out. The first one is a review of mobile applications in published articles retrieved from the following systems: IEEE Xplore, Scopus, ScienceDirect, Web of Knowledge, and PubMed. The second review is carried out by searching the most important commercial app stores: Google play, iTunes, BlackBerry World, Windows Phone Apps+Games, and Nokia's Ovi store. Finally, two applications for each condition, one for each review, were selected for an in-depth analysis. RESULTS:Search queries up to April 2013 located 247 papers and more than 3673 apps related to the most prevalent conditions. The conditions in descending order by the number of applications found in literature are diabetes, asthma, depression, hearing loss, low vision, OA, anemia, and migraine. However when ordered by the number of commercial apps found, the list is diabetes, depression, migraine, asthma, low vision, hearing loss, OA, and anemia. Excluding OA from the former list, the four most prevalent conditions have fewer apps and research than the final four. Several results are extracted from the in-depth analysis: most of the apps are designed for monitoring, assisting, or informing about the condition. Typically an Internet connection is not required, and most of the apps are aimed for the general public and for nonclinical use. The preferred type of data visualization is text followed by charts and pictures. Assistive and monitoring apps are shown to be frequently used, whereas informative and educational apps are only occasionally used. CONCLUSIONS:Distribution of work on mobile applications is not equal for the eight most prevalent conditions. Whereas some conditions such as diabetes and depression have an overwhelming number of apps and research, there is a lack of apps related to other conditions, such as anemia, hearing loss, or low vision, which must be filled."
+  ],
+  "affiliation": [
+    "University of Valladolid, Department of Signal Theory and Communications, and Telematics Engineering., University of Valladolid, Valladolid, Spain. borja.martinez@uva.es"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "World Health Organization"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mobile Applications"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mobile Applications",
+        "World Health Organization (Who)",
+        "Mhealth",
+        "Apps",
+        "Prevalent Conditions"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23770578/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2196/jmir.2600"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3713954"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "123"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-01-09"
+  ],
+  "dateOfCreation": [
+    "2013-06-18"
+  ],
+  "firstIndexDate": [
+    "2013-06-18"
+  ],
+  "fullTextReceivedDate": [
+    "2013-07-20"
+  ],
+  "dateOfRevision": [
+    "2018-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2013-06-14"
+  ],
+  "firstPublicationDate": [
+    "2013-06-14"
+  ]
+}

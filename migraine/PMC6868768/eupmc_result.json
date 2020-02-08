@@ -1,0 +1,500 @@
+{
+  "id": [
+    "31747874"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31747874"
+  ],
+  "pmcid": [
+    "PMC6868768"
+  ],
+  "doi": [
+    "10.1186/s10194-019-1047-3"
+  ],
+  "title": [
+    "Functional connectivity studies in migraine: what have we learned?"
+  ],
+  "authorString": [
+    "Skorobogatykh K, van Hoogstraten WS, Degan D, Prischepa A, Savitskaya A, Ileen BM, Bentivegna E, Skiba I, D'Acunto L, Ferri L, Sacco S, Hansen JM, Amin FM, European Headache Federation School of Advanced Studies (EHF-SAS)."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Skorobogatykh K"
+          ],
+          "firstName": [
+            "Kirill"
+          ],
+          "lastName": [
+            "Skorobogatykh"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "University Headache Clinic, Moscow, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "van Hoogstraten WS"
+          ],
+          "firstName": [
+            "Willem Sebastiaan"
+          ],
+          "lastName": [
+            "van Hoogstraten"
+          ],
+          "initials": [
+            "WS"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Erasmus MC, Rotterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Degan D"
+          ],
+          "firstName": [
+            "Diana"
+          ],
+          "lastName": [
+            "Degan"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Applied Clinical Sciences and Biotechnology, University of L'Aquila, L'Aquila, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Prischepa A"
+          ],
+          "firstName": [
+            "Anastasia"
+          ],
+          "lastName": [
+            "Prischepa"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurology, Sechenov University, Moscow, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Savitskaya A"
+          ],
+          "firstName": [
+            "Anastasya"
+          ],
+          "lastName": [
+            "Savitskaya"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurology, Sechenov University, Moscow, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ileen BM"
+          ],
+          "firstName": [
+            "Biondo Michela"
+          ],
+          "lastName": [
+            "Ileen"
+          ],
+          "initials": [
+            "BM"
+          ],
+          "affiliation": [
+            "Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bentivegna E"
+          ],
+          "firstName": [
+            "Enrico"
+          ],
+          "lastName": [
+            "Bentivegna"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Internal Medicine Unit, Sant' Andrea Hospital, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Skiba I"
+          ],
+          "firstName": [
+            "Iaroslav"
+          ],
+          "lastName": [
+            "Skiba"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Neurology Department, Military Medical Academy, St. Petersburg, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Acunto L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "D'Acunto"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Clinical Unit of Neurology, Department of Medical Sciences, University Hospital and Health Services of Trieste, University of Trieste, Trieste, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ferri L"
+          ],
+          "firstName": [
+            "Livia"
+          ],
+          "lastName": [
+            "Ferri"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Internal Medicine Unit, Sant' Andrea Hospital, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sacco S"
+          ],
+          "firstName": [
+            "Simona"
+          ],
+          "lastName": [
+            "Sacco"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0651-1939",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Clinical Neurology Section, Department of Applied Clinical Sciences and Biotechnology, University of L'Aquila, L'Aquila, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Hansen JM"
+          ],
+          "firstName": [
+            "Jakob Møller"
+          ],
+          "lastName": [
+            "Hansen"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, University of Copenhagen, Valdemar Hansens Vej 5, Glostrup, 2600, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Amin FM"
+          ],
+          "firstName": [
+            "Faisal Mohammad"
+          ],
+          "lastName": [
+            "Amin"
+          ],
+          "initials": [
+            "FM"
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, University of Copenhagen, Valdemar Hansens Vej 5, Glostrup, 2600, Copenhagen, Denmark. faisal@dadlnet.dk."
+          ]
+        },
+        {
+          "collectiveName": [
+            "European Headache Federation School of Advanced Studies (EHF-SAS)"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0651-1939",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2878648"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "108"
+  ],
+  "abstractText": [
+    "BACKGROUND:Resting-state functional connectivity (FC) MRI has widely been used to understand migraine pathophysiology and to identify an imaging marker of the disorder. Here, we review what we have learned from FC studies. METHODS:We performed a literature search on the PubMed website for original articles reporting data obtained from conventional resting-state FC recording in migraine patients compared with healthy controls or during and outside of migraine attacks in the same patients. RESULTS:We found 219 articles and included 28 in this review after screening for inclusion and exclusion criteria. Twenty-five studies compared migraine patients with healthy controls, whereas three studies investigated migraine patients during and outside of attacks. In the studies of interictal migraine more alterations of more than 20 FC networks (including amygdala, caudate nucleus, central executive, cerebellum, cuneus, dorsal attention network, default mode, executive control, fronto-parietal, hypothalamus, insula, neostriatum, nucleus accumbens, occipital lobe, periaqueductal grey, prefrontal cortex, salience, somatosensory cortex I, thalamus and visual) were reported. We found a poor level of reproducibility and no migraine specific pattern across these studies. CONCLUSION:Based on the findings in the present review, it seems very difficult to extract knowledge of migraine pathophysiology or to identify a biomarker of migraine. There is an unmet need of guidelines for resting-state FC studies in migraine, which promote the use of homogenous terminology, public availability of protocol and the a priori hypothesis in line with for instance randomized clinical trial guidelines."
+  ],
+  "affiliation": [
+    "University Headache Clinic, Moscow, Russia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Headache",
+        "Functional Connectivity",
+        "Neuroimaging",
+        "Resting-state Fmri"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-019-1047-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6868768"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6868768?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-22"
+  ],
+  "firstIndexDate": [
+    "2019-11-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-20"
+  ],
+  "firstPublicationDate": [
+    "2019-11-20"
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "id": [
+    "30806074"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30806074"
+  ],
+  "pmcid": [
+    "PMC6343438"
+  ],
+  "doi": [
+    "10.1177/1759091418822405"
+  ],
+  "title": [
+    "A Longitudinal Investigation of Sleep and Daytime Wakefulness in Children and Youth With Concussion."
+  ],
+  "authorString": [
+    "Wiseman-Hakes C, Gosselin N, Sharma B, Langer L, Gagnon I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wiseman-Hakes C"
+          ],
+          "firstName": [
+            "Catherine"
+          ],
+          "lastName": [
+            "Wiseman-Hakes"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8441-884X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1 Rehabilitation Sciences Institute, University of Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Gosselin N"
+          ],
+          "firstName": [
+            "Nadia"
+          ],
+          "lastName": [
+            "Gosselin"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "2 Centre for Advanced Research in Sleep Medicine, Hôpital du Sacré-Coeur de Montréal, Québec, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma B"
+          ],
+          "firstName": [
+            "Bhanu"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "4 McMaster University, Hamilton, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Langer L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Langer"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4408-355X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "5 University Health Network, Toronto Rehabilitation Institute, Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Gagnon I"
+          ],
+          "firstName": [
+            "Isabelle"
+          ],
+          "lastName": [
+            "Gagnon"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "6 Montreal Children's Hospital, McGill University Health Center, Montreal, Québec, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4408-355X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8441-884X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2786348"
+      ],
+      "dateOfPublication": [
+        "2019 Jan-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ASN neuro"
+          ],
+          "ISOAbbreviation": [
+            "ASN Neuro"
+          ],
+          "medlineAbbreviation": [
+            "ASN Neuro"
+          ],
+          "NLMid": [
+            "101507115"
+          ],
+          "ISSN": [
+            "1759-0914"
+          ],
+          "ESSN": [
+            "1759-0914"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1759091418822405"
+  ],
+  "abstractText": [
+    "A high proportion of adults who sustain a concussion identify changes in their sleep during the acute stage, typically reporting an increased need for sleep or nonrestful sleep. Our understanding of sleep following concussion is less well understood within a pediatric population. In this study, we investigated the trajectory of sleep and daytime sleepiness in a prospective cohort of 40 children and youth (6-18 years old) with concussion, 40 age-and sex-matched healthy children and youth, and 40 with upper-extremity orthopedic injury. Evaluations occurred during the acute stage (<2 weeks) and at 3-, 6-, and 12-month postinjury using the Sleep Disturbance Scale for Children and the Postconcussion Symptom Scale. There were no significant differences within- or between-group differences in sleep across all four time points with analysis of the groups as a whole. When groups were divided by age (6-11 and 12- < 18 years), there was a significant difference in the ability to initiate sleep for the younger concussed group during the acute stage, compared with healthy controls, as well as significantly greater daytime nap duration that decreased over time. Significant correlations were also found between the frequency and duration of daytime naps and Postconcussion Symptom Scale total score and subscores (cognitive, physical/migraine, mood, and sleep) in the concussed group during the acute stage. Our results suggest that in a group with noncomplicated concussion, children and youth have transient alterations in daytime sleepiness that are related to concussion symptoms. Younger children may be more vulnerable to disturbances in sleep and daytime wakefulness."
+  ],
+  "affiliation": [
+    "1 Rehabilitation Sciences Institute, University of Toronto, Ontario, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Sleep",
+        "Youth",
+        "Concussion",
+        "Longitudinal",
+        "Daytime Wakefulness"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1759091418822405"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6343438"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6343438?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-27"
+  ],
+  "firstIndexDate": [
+    "2019-02-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-19"
+  ],
+  "dateOfRevision": [
+    "2019-11-20"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

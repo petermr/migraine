@@ -1,0 +1,476 @@
+{
+  "id": [
+    "23064890"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23064890"
+  ],
+  "pmcid": [
+    "PMC3484252"
+  ],
+  "doi": [
+    "10.1007/s10194-012-0489-7"
+  ],
+  "title": [
+    "Identified risk factors and adolescents' beliefs about triggers for headaches: results from a cross-sectional study."
+  ],
+  "authorString": [
+    "Milde-Busch A, Straube A, Heinen F, von Kries R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Milde-Busch A"
+          ],
+          "firstName": [
+            "Astrid"
+          ],
+          "lastName": [
+            "Milde-Busch"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Social Paediatrics and Adolescent Medicine, Ludwig-Maximilians-University, Heiglhofstrasse 63, 81377, Munich, Germany. Astrid.Milde-Busch@med.uni-muenchen.de"
+          ]
+        },
+        {
+          "fullName": [
+            "Straube A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Straube"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Heinen F"
+          ],
+          "firstName": [
+            "Florian"
+          ],
+          "lastName": [
+            "Heinen"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "von Kries R"
+          ],
+          "firstName": [
+            "Rüdiger"
+          ],
+          "lastName": [
+            "von Kries"
+          ],
+          "initials": [
+            "R"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "1979423"
+      ],
+      "dateOfPublication": [
+        "2012 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "639-643"
+  ],
+  "abstractText": [
+    "Although there are few studies on adolescents' beliefs about triggers of headache, none of these compared the associations between perceived and observed triggers. This study aimed at comparing the prevalence of self-perceived and observed risk factors for headache among adolescents. Adolescents from the 10th and 11th grades of high schools answered questionnaires on their headaches and on potential risk factors regarding lifestyle, stress and muscle pain. Individuals reporting to have experienced headache in the preceding 6 months were asked to report what they believed to cause their headache (self-perceived triggers). 1,047 (83 %) of 1,260 adolescents reported headaches. Stress, lack of sleep and too much school work were the most frequently reported self-perceived triggers of headache; in contrast the statistical analysis identified alcohol and coffee consumption, smoking, neck pain, stress and physical inactivity as risk factors for headache. Among individuals with headache, 48 % believed that stress might trigger their headaches, while increased stress scores were only observed in 23 %. In contrast, while 7, 4, 0.3 and 0 % of individuals reporting headache considered consumption of too much alcohol, neck pain, physical inactivity and consumption of coffee might trigger their headache, 56, 51, 36 and 14 %, respectively, were exposed to these risk factors. The prevalence of self-perceived triggers of headache does not correspond to the prevalence of identified risk factors for headaches. While the role of stress was overestimated, the high prevalence of the other confirmed risk factors in adolescents with headache suggests potential for prevention by increasing awareness for these risk factors and appropriate interventions."
+  ],
+  "affiliation": [
+    "Institute of Social Paediatrics and Adolescent Medicine, Ludwig-Maximilians-University, Heiglhofstrasse 63, 81377, Munich, Germany. Astrid.Milde-Busch@med.uni-muenchen.de"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Life Style"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Culture"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23064890/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23064890/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10194-012-0489-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3484252"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3484252?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-04-19"
+  ],
+  "dateOfCreation": [
+    "2012-10-16"
+  ],
+  "firstIndexDate": [
+    "2012-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2012-11-11"
+  ],
+  "dateOfRevision": [
+    "2018-09-14"
+  ],
+  "electronicPublicationDate": [
+    "2012-10-14"
+  ],
+  "firstPublicationDate": [
+    "2012-10-14"
+  ]
+}

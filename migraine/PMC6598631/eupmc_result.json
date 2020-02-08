@@ -1,0 +1,609 @@
+{
+  "id": [
+    "31209474"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31209474"
+  ],
+  "pmcid": [
+    "PMC6598631"
+  ],
+  "doi": [
+    "10.1093/brain/awz144"
+  ],
+  "title": [
+    "Assessment of lesions on magnetic resonance imaging in multiple sclerosis: practical guidelines."
+  ],
+  "authorString": [
+    "Filippi M, Preziosa P, Banwell BL, Barkhof F, Ciccarelli O, De Stefano N, Geurts JJG, Paul F, Reich DS, Toosy AT, Traboulsee A, Wattjes MP, Yousry TA, Gass A, Lubetzki C, Weinshenker BG, Rocca MA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Filippi M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Filippi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5485-0479",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, IRCCS San Raffaele Scientific Institute, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Preziosa P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Preziosa"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7826-0019",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, IRCCS San Raffaele Scientific Institute, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Banwell BL"
+          ],
+          "firstName": [
+            "Brenda L"
+          ],
+          "lastName": [
+            "Banwell"
+          ],
+          "initials": [
+            "BL"
+          ],
+          "affiliation": [
+            "Division of Neurology, Children's Hospital of Philadelphia, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Barkhof F"
+          ],
+          "firstName": [
+            "Frederik"
+          ],
+          "lastName": [
+            "Barkhof"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Radiology and Nuclear Medicine, Amsterdam Neuroscience, Amsterdam UMC, Vrije Universiteit, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Ciccarelli O"
+          ],
+          "firstName": [
+            "Olga"
+          ],
+          "lastName": [
+            "Ciccarelli"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Queen Square MS Centre, Department of Neuroinflammation, UCL Queen Square Institute of Neurology, University College London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "De Stefano N"
+          ],
+          "firstName": [
+            "Nicola"
+          ],
+          "lastName": [
+            "De Stefano"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Medicine, Surgery and Neuroscience, University of Siena, Siena, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Geurts JJG"
+          ],
+          "firstName": [
+            "Jeroen J G"
+          ],
+          "lastName": [
+            "Geurts"
+          ],
+          "initials": [
+            "JJG"
+          ],
+          "affiliation": [
+            "Department of Anatomy and Neurosciences, Amsterdam Neuroscience, Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Paul F"
+          ],
+          "firstName": [
+            "Friedemann"
+          ],
+          "lastName": [
+            "Paul"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "NeuroCure Clinical Research Center and Experimental and Clinical Research Center, Max Delbrück Center for Molecular Medicine and Charité -Universitätsmedizin Berlin, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Reich DS"
+          ],
+          "firstName": [
+            "Daniel S"
+          ],
+          "lastName": [
+            "Reich"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Translational Neuroradiology Section, Division of Neuroimmunology and Neurovirology, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Toosy AT"
+          ],
+          "firstName": [
+            "Ahmed T"
+          ],
+          "lastName": [
+            "Toosy"
+          ],
+          "initials": [
+            "AT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4441-3750",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Queen Square MS Centre, Department of Neuroinflammation, UCL Queen Square Institute of Neurology, University College London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Traboulsee A"
+          ],
+          "firstName": [
+            "Anthony"
+          ],
+          "lastName": [
+            "Traboulsee"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "MS/MRI Research Group, Djavad Mowafaghian Centre for Brain Health, Division of Neurology, University of British Columbia, Vancouver, British Columbia, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Wattjes MP"
+          ],
+          "firstName": [
+            "Mike P"
+          ],
+          "lastName": [
+            "Wattjes"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "Department of Neuroradiology, Hannover Medical School, Hannover, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Yousry TA"
+          ],
+          "firstName": [
+            "Tarek A"
+          ],
+          "lastName": [
+            "Yousry"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "affiliation": [
+            "Division of Neuroradiology and Neurophysics, UCL Institute of Neurology, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gass A"
+          ],
+          "firstName": [
+            "Achim"
+          ],
+          "lastName": [
+            "Gass"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurology, Universitätsmedizin Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lubetzki C"
+          ],
+          "firstName": [
+            "Catherine"
+          ],
+          "lastName": [
+            "Lubetzki"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Sorbonne University, AP-HP Pitié-Salpétriére Hospital, Department of Neurology, 75013 Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Weinshenker BG"
+          ],
+          "firstName": [
+            "Brian G"
+          ],
+          "lastName": [
+            "Weinshenker"
+          ],
+          "initials": [
+            "BG"
+          ],
+          "affiliation": [
+            "Department of Neurology, Mayo Clinic, Rochester, MN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rocca MA"
+          ],
+          "firstName": [
+            "Maria A"
+          ],
+          "lastName": [
+            "Rocca"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2358-4320",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, IRCCS San Raffaele Scientific Institute, Milan, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4441-3750",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2358-4320",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5485-0479",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7826-0019",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "142"
+      ],
+      "journalIssueId": [
+        "2835239"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain : a journal of neurology"
+          ],
+          "ISOAbbreviation": [
+            "Brain"
+          ],
+          "medlineAbbreviation": [
+            "Brain"
+          ],
+          "NLMid": [
+            "0372537"
+          ],
+          "ISSN": [
+            "0006-8950"
+          ],
+          "ESSN": [
+            "1460-2156"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1858-1875"
+  ],
+  "abstractText": [
+    "MRI has improved the diagnostic work-up of multiple sclerosis, but inappropriate image interpretation and application of MRI diagnostic criteria contribute to misdiagnosis. Some diseases, now recognized as conditions distinct from multiple sclerosis, may satisfy the MRI criteria for multiple sclerosis (e.g. neuromyelitis optica spectrum disorders, Susac syndrome), thus making the diagnosis of multiple sclerosis more challenging, especially if biomarker testing (such as serum anti-AQP4 antibodies) is not informative. Improvements in MRI technology contribute and promise to better define the typical features of multiple sclerosis lesions (e.g. juxtacortical and periventricular location, cortical involvement). Greater understanding of some key aspects of multiple sclerosis pathobiology has allowed the identification of characteristics more specific to multiple sclerosis (e.g. central vein sign, subpial demyelination and lesional rims), which are not included in the current multiple sclerosis diagnostic criteria. In this review, we provide the clinicians and researchers with a practical guide to enhance the proper recognition of multiple sclerosis lesions, including a thorough definition and illustration of typical MRI features, as well as a discussion of red flags suggestive of alternative diagnoses. We also discuss the possible place of emerging qualitative features of lesions which may become important in the near future."
+  ],
+  "affiliation": [
+    "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, IRCCS San Raffaele Scientific Institute, Milan, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Multiple sclerosis",
+        "Diagnostic criteria",
+        "Magnetic Resonance Imaging",
+        "Guidelines",
+        "Lesions"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/brain/awz144"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6598631"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6598631?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-19"
+  ],
+  "firstIndexDate": [
+    "2019-06-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-05"
+  ],
+  "dateOfRevision": [
+    "2019-09-10"
+  ],
+  "firstPublicationDate": [
+    "2019-07-01"
+  ]
+}

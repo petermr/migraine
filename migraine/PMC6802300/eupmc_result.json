@@ -1,0 +1,593 @@
+{
+  "id": [
+    "31638888"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31638888"
+  ],
+  "pmcid": [
+    "PMC6802300"
+  ],
+  "doi": [
+    "10.1186/s10194-019-1051-7"
+  ],
+  "title": [
+    "Acute and preventive pharmacological treatment of post-traumatic headache: a systematic review."
+  ],
+  "authorString": [
+    "Larsen EL, Ashina H, Iljazi A, Al-Khazali HM, Seem K, Ashina M, Ashina S, Schytz HW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Larsen EL"
+          ],
+          "firstName": [
+            "Eigil Lindekilde"
+          ],
+          "lastName": [
+            "Larsen"
+          ],
+          "initials": [
+            "EL"
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Ashina H"
+          ],
+          "firstName": [
+            "Håkan"
+          ],
+          "lastName": [
+            "Ashina"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Iljazi A"
+          ],
+          "firstName": [
+            "Afrim"
+          ],
+          "lastName": [
+            "Iljazi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Khazali HM"
+          ],
+          "firstName": [
+            "Haidar Muhsen"
+          ],
+          "lastName": [
+            "Al-Khazali"
+          ],
+          "initials": [
+            "HM"
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Seem K"
+          ],
+          "firstName": [
+            "Kristoffer"
+          ],
+          "lastName": [
+            "Seem"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Ashina M"
+          ],
+          "firstName": [
+            "Messoud"
+          ],
+          "lastName": [
+            "Ashina"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Ashina S"
+          ],
+          "firstName": [
+            "Sait"
+          ],
+          "lastName": [
+            "Ashina"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Departments of Neurology and Anesthesia, Critical Care, and Pain Medicine, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schytz HW"
+          ],
+          "firstName": [
+            "Henrik Winther"
+          ],
+          "lastName": [
+            "Schytz"
+          ],
+          "initials": [
+            "HW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6262-2986",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark. henrik.winther.schytz.01@regionh.dk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6262-2986",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3973-6640",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2873256"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "98"
+  ],
+  "abstractText": [
+    "BACKGROUND:Post-traumatic headache (PTH) is associated with considerable disability and reduced health-related quality of life. Despite the very high prevalence of PTH, there are no evidence-based guidelines for PTH treatment. Thus, we found it timely to provide a systematic review of the current literature on acute and preventive pharmacological treatment of PTH using PubMed and Embase databases. FINDINGS:Included studies involved acute and preventive pharmacological treatment of headache attributed to traumatic injury to the head in adherence to the International Classification of Headache Disorders (ICHD) criteria. Of 1424 potentially relevant articles identified, 63 were retrieved for detailed evaluation and seven studies (one prospective and six retrospective) met the inclusion criteria. None of the seven included studies were randomized clinical trials (RCTs) or used a placebo-controlled study design. CONCLUSION:We found that there is a lack of high-quality evidence-based studies on the pharmacological treatment of PTH. Future studies are highly needed and must emphasize open-label studies with rigorous methodology or RCTs with a placebo-controlled design."
+  ],
+  "affiliation": [
+    "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Systematic Review",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Analgesics, Opioid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Inflammatory Agents, Non-Steroidal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retrospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Post-Traumatic Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Treatment",
+        "Traumatic brain injury",
+        "Head injury",
+        "Systematic review",
+        "Concussion",
+        "Post-traumatic Headache"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Inflammatory Agents, Non-Steroidal"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Analgesics, Opioid"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-019-1051-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6802300"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6802300?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-01-07"
+  ],
+  "dateOfCreation": [
+    "2019-10-23"
+  ],
+  "firstIndexDate": [
+    "2019-10-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-02"
+  ],
+  "dateOfRevision": [
+    "2020-01-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-21"
+  ],
+  "firstPublicationDate": [
+    "2019-10-21"
+  ]
+}

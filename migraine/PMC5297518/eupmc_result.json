@@ -1,0 +1,378 @@
+{
+  "id": [
+    "27960628"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27960628"
+  ],
+  "pmcid": [
+    "PMC5297518"
+  ],
+  "doi": [
+    "10.1080/19420862.2016.1269580"
+  ],
+  "title": [
+    "Antibodies to watch in 2017."
+  ],
+  "authorString": [
+    "Reichert JM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Reichert JM"
+          ],
+          "firstName": [
+            "Janice M"
+          ],
+          "lastName": [
+            "Reichert"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0400-1951",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Executive Director, The Antibody Society , Framingham , MA , USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0400-1951",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2530468"
+      ],
+      "dateOfPublication": [
+        "2017 Feb/Mar"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "mAbs"
+          ],
+          "ISOAbbreviation": [
+            "MAbs"
+          ],
+          "medlineAbbreviation": [
+            "MAbs"
+          ],
+          "NLMid": [
+            "101479829"
+          ],
+          "ISSN": [
+            "1942-0862"
+          ],
+          "ESSN": [
+            "1942-0870"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "167-181"
+  ],
+  "abstractText": [
+    "Over 50 investigational monoclonal antibody (mAb) therapeutics are currently undergoing evaluation in late-stage clinical studies, which is expected to drive a trend toward first marketing approvals of at least 6-9 mAbs per year in the near-term. In the United States (US), a total of 6 and 9 mAbs were granted first approvals during 2014 and 2015, respectively; all these products are also approved in the European Union (EU). As of December 1, 2016, 6 mAbs (atezolizumab, olaratumab, reslizumab, ixekizumab, bezlotoxumab, oblitoxaximab) had been granted first approvals during 2016 in either the EU or US. Brodalumab, was granted a first approval in Japan in July 2016. Regulatory actions on marketing applications for brodalumab in the EU and US are not expected until 2017. In 2017, first EU or US approvals may also be granted for at least nine mAbs (ocrelizumab, avelumab, Xilonix, inotuzumab ozogamicin, dupilumab, sirukumab, sarilumab, guselkumab, romosozumab) that are not yet approved in any country. Based on announcements of company plans for regulatory submissions and the estimated completion dates for late-stage clinical studies, and assuming the study results are positive, marketing applications for at least 6 antibody therapeutics (benralizumab, tildrakizumab, emicizumab, galcanezumab, ibalizumab, PRO-140) that are now being evaluated in late-stage clinical studies may be submitted during December 2016* or 2017. Other 'antibodies to watch' in 2017 include 20 mAbs are undergoing evaluation in pivotal studies that have estimated primary completion dates in late 2016 or during 2017. Of these, 5 mAbs are for cancer (durvalumab, JNJ-56022473, ublituximab, anetumab ravtansine, glembatumumab vedotin) and 15 mAbs are for non-cancer indications (caplacizumab, lanadelumab, roledumab, tralokinumab, risankizumab, SA237, emapalumab, suptavumab, erenumab, eptinezumab, fremanezumab, fasinumab, tanezumab, lampalizumab, brolucizumab). Positive results from these studies may enable submission of marketing applications in 2017 or 2018, or provide justification for additional studies. *See note added in proof for update through December 31, 2016."
+  ],
+  "affiliation": [
+    "a Executive Director, The Antibody Society , Framingham , MA , USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Antineoplastic Agents"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Antibodies, Monoclonal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Food And Drug Administration",
+        "Antibody Therapeutics",
+        "European Medicines Agency",
+        "Immune-mediated Disorders"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antineoplastic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antibodies, Monoclonal"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19420862.2016.1269580"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5297518"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5297518?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "108"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-11-28"
+  ],
+  "dateOfCreation": [
+    "2016-12-15"
+  ],
+  "firstIndexDate": [
+    "2016-12-17"
+  ],
+  "fullTextReceivedDate": [
+    "2017-02-19"
+  ],
+  "dateOfRevision": [
+    "2018-03-05"
+  ],
+  "electronicPublicationDate": [
+    "2016-12-14"
+  ],
+  "firstPublicationDate": [
+    "2016-12-14"
+  ]
+}

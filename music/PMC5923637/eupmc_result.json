@@ -1,0 +1,703 @@
+{
+  "id": [
+    "29587433"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29587433"
+  ],
+  "pmcid": [
+    "PMC5923637"
+  ],
+  "doi": [
+    "10.3390/ijerph15040595"
+  ],
+  "title": [
+    "What Persons with Chronic Health Conditions Need to Maintain or Return to Work-Results of an Online-Survey in Seven European Countries."
+  ],
+  "authorString": [
+    "Foitzek N, Ávila CC, Ivandic I, Bitenc Č, Cabello M, Gruber S, Leonardi M, Muñoz-Murillo A, Scaratti C, Scaratti C, Tobiasz-Adamczyk B, Vlachou A, Esteban E, Sabariego C, Coenen M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Foitzek N"
+          ],
+          "firstName": [
+            "Nicole"
+          ],
+          "lastName": [
+            "Foitzek"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Chair for Public Health and Health Services Research, Research Unit for Biopsychosocial Health, Department of Medical Information Processing, Biometry and Epidemiology (IBE), Ludwig-Maximilians-Universität (LMU), 81377 Munich, Germany. nicole.foitzek@web.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Ávila CC"
+          ],
+          "firstName": [
+            "Carolina C"
+          ],
+          "lastName": [
+            "Ávila"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Universidad Autónoma de Madrid and Institute of Health Carlos III, CIBER of Mental Health (CIBERSAM), 28038 Madrid, Spain. carolina.avila@uam.es."
+          ]
+        },
+        {
+          "fullName": [
+            "Ivandic I"
+          ],
+          "firstName": [
+            "Ivana"
+          ],
+          "lastName": [
+            "Ivandic"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Chair for Public Health and Health Services Research, Research Unit for Biopsychosocial Health, Department of Medical Information Processing, Biometry and Epidemiology (IBE), Ludwig-Maximilians-Universität (LMU), 81377 Munich, Germany. ivana.ivandic@med.lmu.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Bitenc Č"
+          ],
+          "firstName": [
+            "Črtomir"
+          ],
+          "lastName": [
+            "Bitenc"
+          ],
+          "initials": [
+            "Č"
+          ],
+          "affiliation": [
+            "Development Center for Vocational Rehabilitation, University Rehabilitation Institute Republic of Slovenia, 1000 Ljubljana, Slovenia. crtomir.bitenc@ir-rs.si."
+          ]
+        },
+        {
+          "fullName": [
+            "Cabello M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Cabello"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2362-6092",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Universidad Autónoma de Madrid and Institute of Health Carlos III, CIBER of Mental Health (CIBERSAM), 28038 Madrid, Spain. maria.cabello@uam.es."
+          ]
+        },
+        {
+          "fullName": [
+            "Gruber S"
+          ],
+          "firstName": [
+            "Sonja"
+          ],
+          "lastName": [
+            "Gruber"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Disability and Diversity Studies, Carinthia University of Applied Science (CUAS), 9020 Klagenfurt, Austria. s.gruber@fh-kaernten.at."
+          ]
+        },
+        {
+          "fullName": [
+            "Leonardi M"
+          ],
+          "firstName": [
+            "Matilde"
+          ],
+          "lastName": [
+            "Leonardi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Neurology, Public Health and Disability Unit; Neurological Institute Carlo Besta IRCCS Foundation, 20133 Milan, Italy. matilde.leonardi@istituto-besta.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Muñoz-Murillo A"
+          ],
+          "firstName": [
+            "Amalia"
+          ],
+          "lastName": [
+            "Muñoz-Murillo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Research Unit, Parc Sanitari Sant Joan de Déu, Universitat de Barcelona, 08830 Sant Boi de Llobregat, Barcelona, Spain. a.munoz@pssjd.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Scaratti C"
+          ],
+          "firstName": [
+            "Chiara"
+          ],
+          "lastName": [
+            "Scaratti"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6664-4787",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Neurology, Public Health and Disability Unit; Neurological Institute Carlo Besta IRCCS Foundation, 20133 Milan, Italy. chiara.scaratti@istituto-besta.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Scaratti C"
+          ],
+          "firstName": [
+            "Chiara"
+          ],
+          "lastName": [
+            "Scaratti"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0552-8923",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Neurology, Public Health and Disability Unit; Neurological Institute Carlo Besta IRCCS Foundation, 20133 Milan, Italy. chiara.scaratti@istituto-besta.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Tobiasz-Adamczyk B"
+          ],
+          "firstName": [
+            "Beata"
+          ],
+          "lastName": [
+            "Tobiasz-Adamczyk"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Chair of Epidemiology and Preventive Medicine, Jagiellonian University Medical College, 31-034 Krakow, Poland. mytobias@cyf-kr.edu.pl."
+          ]
+        },
+        {
+          "fullName": [
+            "Vlachou A"
+          ],
+          "firstName": [
+            "Anastasia"
+          ],
+          "lastName": [
+            "Vlachou"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Special Education, University of Thessaly, 38221 Volos, Greece. anavlachou@uth.gr."
+          ]
+        },
+        {
+          "fullName": [
+            "Esteban E"
+          ],
+          "firstName": [
+            "Eva"
+          ],
+          "lastName": [
+            "Esteban"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Chair for Public Health and Health Services Research, Research Unit for Biopsychosocial Health, Department of Medical Information Processing, Biometry and Epidemiology (IBE), Ludwig-Maximilians-Universität (LMU), 81377 Munich, Germany. eva.esteban@med.lmu.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Sabariego C"
+          ],
+          "firstName": [
+            "Carla"
+          ],
+          "lastName": [
+            "Sabariego"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6946-0177",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chair for Public Health and Health Services Research, Research Unit for Biopsychosocial Health, Department of Medical Information Processing, Biometry and Epidemiology (IBE), Ludwig-Maximilians-Universität (LMU), 81377 Munich, Germany. carla.sabariego@med.lmu.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Coenen M"
+          ],
+          "firstName": [
+            "Michaela"
+          ],
+          "lastName": [
+            "Coenen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7492-7907",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chair for Public Health and Health Services Research, Research Unit for Biopsychosocial Health, Department of Medical Information Processing, Biometry and Epidemiology (IBE), Ludwig-Maximilians-Universität (LMU), 81377 Munich, Germany. michaela.coenen@med.lmu.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2362-6092",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7492-7907",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6664-4787",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0552-8923",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6946-0177",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2663655"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Chronic health conditions represent the major share of the disease burden in Europe and have a significant impact on work. This study aims to: (1) identify factors that have a negative or positive impact on the work lives of persons with chronic health conditions; (2) explore the needs of these persons to maintain a job or return to work and (3) compare these results with respect to these persons' occupational status. An online survey was performed in seven European countries. Open-ended survey questions were analyzed using qualitative methods. In total, 487 participants with six chronic health conditions participated. The majority of participants named work-related aspects (such as career development, stress at the workplace, work structure and schedule as well as workload), support of others and attitudes of others as being the factors positively and negatively impact their work lives the most. Our study shed light on the importance of changing the attitudes of supervisors and co-workers to counteract stigmatization of persons with chronic health conditions in the workplace. In conclusion, this study provides a basis for developing new strategies of integration and reintegration at work for persons with chronic health conditions in European countries."
+  ],
+  "affiliation": [
+    "Chair for Public Health and Health Services Research, Research Unit for Biopsychosocial Health, Department of Medical Information Processing, Biometry and Epidemiology (IBE), Ludwig-Maximilians-Universität (LMU), 81377 Munich, Germany. nicole.foitzek@web.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Chronic Disease"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stereotyping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Employment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Workload"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Europe"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Occupational Stress"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chronic disease",
+        "Needs",
+        "Work",
+        "Employment",
+        "Qualitative Research"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph15040595"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5923637"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5923637?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-03-29"
+  ],
+  "firstIndexDate": [
+    "2018-03-28"
+  ],
+  "fullTextReceivedDate": [
+    "2018-05-11"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-26"
+  ],
+  "firstPublicationDate": [
+    "2018-03-26"
+  ]
+}

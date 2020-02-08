@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectSnippetsTree>
+ <snippetsTree>
+  <snippets file="pediatricmusic/PMC3865373/results/species/binomial/results.xml">
+   <result pre=" intensely. 46 , 47 Mistletoe ( " exact="Viscum album" xpath="/html[1]/body[1]/div[2]/div[6]/div[2]/div[2]/p[2]" match="Viscum album" post=" L, not to be confused with Phoradendron, the American mistletoe) is a shrub that grows on d" name="binomial"/>
+   <result pre="47&quot;&gt; 47 such as lectins, viscotoxins, other low molecular weight proteins, VisalbCBA ( " exact="Viscum album" match="Viscum album" post=" chitin-binding agglutinin), oligo- and polysaccharides, flavonoids, 48 " name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="pediatricmusic/PMC4244175/results/species/binomial/results.xml">
+   <result pre="was induced in C57BL/6 mice (n=12) using MOG 35-55 peptide emulsified in CFA containing " exact="M. tuberculosis" match="M. tuberculosis" post=". Seven days post-EAE induction, mice underwent unilateral stereotaxic injections of TNF-α and IFN-" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="pediatricmusic/PMC4702057/results/species/binomial/results.xml">
+   <result pre=" factors that may lead to an increased infection risk [ 161]. An increased rate of " exact="Pseudomonas aeruginosa" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/div[4]/p[6]" match="Pseudomonas aeruginosa" post=" and other gram-negative germs was found in patients with diabetes mellitus in the context of endos" name="binomial"/>
+   <result pre="Meningitis caused by pneumococci or " exact="Hemophilus influenza" match="Hemophilus influenza" post=" or recurrent bacterial meningitis is often based on a defect of the skull base and the dura unless" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="pediatricmusic/PMC4782684/results/species/binomial/results.xml">
+   <result pre="nt exposures where a positive plant identification was made were the following (descending order): " exact="Phytolacca americana" xpath="/html[1]/body[1]/div[2]/div[4]/div[19]/p[1]" match="Phytolacca americana" post=" (L.) (Botanic name), Spathiphyllum species (Botanic name), Cherry (Species unspecifi" name="binomial"/>
+   <result pre="ecies unspecified), Ilex species (Botanic name), Philodendron (Species unspecified), " exact="Caladium species" match="Caladium species" post=" (Botanic name of all species of the genus caladium) and Malus species (Botanic name) " name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="pediatricmusic/PMC5474682/results/species/binomial/results.xml">
+   <result pre=" " exact="Orthostatic intolerance" xpath="/html[1]/body[1]/div[2]/div[7]/div[2]/p[8]" match="Orthostatic intolerance" post=": prolonged upright posture can induce symptoms that can include lightheadedness, increased fatigue" name="binomial"/>
+   <result pre=" " exact="Gastrointestinal symptoms" xpath="/html[1]/body[1]/div[2]/div[7]/div[2]/p[8]" match="Gastrointestinal symptoms" post=": abdominal pain, nausea and/or anorexia. " name="binomial"/>
+   <result pre=" " exact="Orthostatic hypotension" match="Orthostatic hypotension" post=" is defined by a BP reduction of at least 20 mm Hg systolic or 10 mm Hg diastolic within the first " name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="pediatricmusic/PMC6045462/results/species/binomial/results.xml">
+   <result pre=" " exact="Head movements" match="Head movements" post=" are important to take into account if they are larger than the otherwise expected source-localizat" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="pediatricmusic/PMC6918555/results/species/binomial/results.xml">
+   <result pre=" [2,3] . Widespread implementation of vaccination policies against meningococcal, pneumococcal and " exact="Haemophilus influenzae" match="Haemophilus influenzae" post=" type b diseases has led to a significant decline in the frequency of bacterial meningitis over the" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+</projectSnippetsTree>

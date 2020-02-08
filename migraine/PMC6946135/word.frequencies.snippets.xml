@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6946135/results/word/frequencies/results.xml">
+  <result title="frequency" word="tDCS" count="82"/>
+  <result title="frequency" word="stimulation" count="74"/>
+  <result title="frequency" word="motor" count="72"/>
+  <result title="frequency" word="GABA" count="69"/>
+  <result title="frequency" word="changes" count="52"/>
+  <result title="frequency" word="Glx" count="42"/>
+  <result title="frequency" word="Transcranial" count="41"/>
+  <result title="frequency" word="sensorimotor" count="39"/>
+  <result title="frequency" word="cortex" count="38"/>
+  <result title="frequency" word="current" count="35"/>
+  <result title="frequency" word="left" count="33"/>
+  <result title="frequency" word="Brain" count="30"/>
+  <result title="frequency" word="intervention" count="30"/>
+  <result title="frequency" word="brain" count="29"/>
+  <result title="frequency" word="anodal" count="28"/>
+  <result title="frequency" word="HD-tDCS" count="26"/>
+  <result title="frequency" word="direct" count="26"/>
+  <result title="frequency" word="right" count="25"/>
+  <result title="frequency" word="Stimulation" count="23"/>
+  <result title="frequency" word="transcranial" count="23"/>
+  <result title="frequency" word="data" count="22"/>
+  <result title="frequency" word="learning" count="22"/>
+  <result title="frequency" word="group" count="21"/>
+ </snippets>
+</snippetsTree>

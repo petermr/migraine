@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6664028/results/search/country/results.xml">
+  <result pre="Faculty of Medicine and Psychology, Sapienza University, Sant'Andrea Hospital Rome" exact="Italy" post="[], 2 Pediatric Emergency Department, Bambino Gesù Children's Hospital,"/>
+  <result pre="2 Pediatric Emergency Department, Bambino Gesù Children's Hospital, IRCCS Rome" exact="Italy" post="[], 3 Department of Pediatrics, University of Campania Luigi"/>
+  <result pre="3 Department of Pediatrics, University of Campania Luigi Vanvitelli Naples" exact="Italy" post="[], 4 Neurology Unit, Department of Neuroscience, Sant'Anna Hospital"/>
+  <result pre="[], 4 Neurology Unit, Department of Neuroscience, Sant'Anna Hospital Como" exact="Italy" post="[], 5 Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, Maternal"/>
+  <result pre="Ophthalmology, Genetics, Maternal and Child Health, University of Genoa Genova" exact="Italy" post="[], 6 Paediatric Neurology and Muscular Diseases Unit, G."/>
+  <result pre="Paediatric Neurology and Muscular Diseases Unit, G. Gaslini' Institute Genova" exact="Italy" post="Edited by: Massimiliano Valeriani, Bambino Gesù Children Hospital (IRCCS),"/>
+  <result pre="Italy Edited by: Massimiliano Valeriani, Bambino Gesù Children Hospital (IRCCS)," exact="Italy" post="Reviewed by: Andrea Nistri, Scuola Internazionale Superiore di Studi"/>
+  <result pre="di Studi Avanzati (SISSA), Italy; Yohannes W. Woldeamanuel, Stanford University," exact="United States" post="*Correspondence: Pasquale Parisi pasquale.parisi@uniroma1.it; parpas@iol.it This article was submitted"/>
+ </snippets>
+</snippetsTree>

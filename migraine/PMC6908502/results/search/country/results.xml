@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="[], 1 Headache Center, Ospedale Pediatrico Bambino Gesù, IRCCS Rome" exact="Italy" post="[], 2 Center for Sensory-Motor Interaction, Aalborg University Aalborg"/>
+ <result pre="Italy [], 2 Center for Sensory-Motor Interaction, Aalborg University Aalborg" exact="Denmark" post="[], 3 Paediatric Neurosciences Unit, Royal Hospital for Children"/>
+ <result pre="[], 3 Paediatric Neurosciences Unit, Royal Hospital for Children Glasgow" exact="United Kingdom" post="[], 4 Department of Neurology, Mersin University Medical Faculty"/>
+ <result pre="[], 4 Department of Neurology, Mersin University Medical Faculty Mersin" exact="Turkey" post="Edited and reviewed by: Cristina Tassorelli, Department of Nervous"/>
+ <result pre="Department of Nervous System and Behavioral Sciences, University of Pavia," exact="Italy" post="*Correspondence: Massimiliano Valeriani m.valeriani@tiscali.it This article was submitted to"/>
+</results>

@@ -1,0 +1,339 @@
+{
+  "id": [
+    "30304907"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30304907"
+  ],
+  "pmcid": [
+    "PMC6258963"
+  ],
+  "doi": [
+    "10.3345/kjp.2018.06331"
+  ],
+  "title": [
+    "Clinical manifestations of headache in children younger than 7 years."
+  ],
+  "authorString": [
+    "Kang BS, Lee J, Choi JH, Kwon HH, Kang JW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kang BS"
+          ],
+          "firstName": [
+            "Bu Seon"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "affiliation": [
+            "Department of Medicine, Chungnam National University School of Medicine, Daejeon, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee J"
+          ],
+          "firstName": [
+            "Jinsun"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chungnam National University Hospital, Chungnam National University School of Medicine, Daejeon, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi JH"
+          ],
+          "firstName": [
+            "Jin Hyuk"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chungnam National University Hospital, Chungnam National University School of Medicine, Daejeon, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kwon HH"
+          ],
+          "firstName": [
+            "Hyeok Hee"
+          ],
+          "lastName": [
+            "Kwon"
+          ],
+          "initials": [
+            "HH"
+          ],
+          "affiliation": [
+            "Department of Medical Science, College of Medicine, Chungnam National University, Daejeon, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang JW"
+          ],
+          "firstName": [
+            "Joon Won"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chungnam National University Hospital, Chungnam National University School of Medicine, Daejeon, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "61"
+      ],
+      "journalIssueId": [
+        "2753635"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Korean journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Korean J Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Korean J Pediatr"
+          ],
+          "NLMid": [
+            "101215374"
+          ],
+          "ISSN": [
+            "1738-1061"
+          ],
+          "ESSN": [
+            "2092-7258"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "355-361"
+  ],
+  "abstractText": [
+    "PURPOSE:Headache is a common symptom during childhood. It is usually persistent and requires special care. This study aimed to identify the characteristics of headache in children <7 years of age. METHODS:We reviewed 3 years of clinical files on children <7 years of age with a chief complaint of headache. RESULTS:This study included 146 children (66 males, 80 females; mean age, 5.5±1.0 years). Mean symptom duration was 5.8±7.9 months. Attack durations were longer than 2 hours in 31 patients, shorter than 2 hours in 70 patients, and unchecked in 45 patients. Attack frequency was 15.1±10.6 times per month. Pain locations and characteristics were also variable. Mean pain severity score was 5.1±2.2 on the visual analog scale. Of 38 patients who underwent electroencephalography, 9 showed positive findings. Of 41 who underwent brain magnetic resonance imaging, 20 showed positive findings. The diagnoses were migraine (including probable migraine) in 34, tension-type headache in 5, and congenital malformations in 3. Medications were used in 29 patients: acetaminophen in 17, ibuprofen in 8, naproxen sodium in 1, and topiramate or amitriptyline in 3. CONCLUSION:In children aged <7 years, headache has a relatively benign course, but detailed history taking is needed for more accurate diagnosis."
+  ],
+  "affiliation": [
+    "Department of Medicine, Chungnam National University School of Medicine, Daejeon, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2016-1516-01"
+          ],
+          "agency": [
+            "Chungnam National University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Migraine",
+        "Headache"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3345/kjp.2018.06331"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6258963"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6258963?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-12"
+  ],
+  "firstIndexDate": [
+    "2018-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-05"
+  ],
+  "dateOfRevision": [
+    "2018-11-28"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-16"
+  ],
+  "firstPublicationDate": [
+    "2018-09-16"
+  ]
+}

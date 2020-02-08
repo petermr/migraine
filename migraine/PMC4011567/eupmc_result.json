@@ -1,0 +1,760 @@
+{
+  "id": [
+    "24621808"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24621808"
+  ],
+  "pmcid": [
+    "PMC4011567"
+  ],
+  "doi": [
+    "10.1097/HJH.0000000000000145"
+  ],
+  "title": [
+    "Cardiovascular effects of phentermine and topiramate: a new drug combination for the treatment of obesity."
+  ],
+  "authorString": [
+    "Jordan J, Astrup A, Engeli S, Narkiewicz K, Day WW, Finer N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jordan J"
+          ],
+          "firstName": [
+            "Jens"
+          ],
+          "lastName": [
+            "Jordan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "aInstitute of Clinical Pharmacology, Hannover Medical School, Hannover, Germany bDepartment of Nutrition, Exercise and Sports, Faculty of Science, University of Copenhagen, Denmark cDepartment of Hypertension and Diabetology, Medical University of Gdańsk, Dębinki, Gdańsk, Poland dVIVUS, Inc., Mountain View, California, USA eNational Centre for Cardiovascular Prevention and Outcomes, Institute for Cardiovascular Science, University College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Astrup A"
+          ],
+          "firstName": [
+            "Arne"
+          ],
+          "lastName": [
+            "Astrup"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Engeli S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Engeli"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Narkiewicz K"
+          ],
+          "firstName": [
+            "Krzysztof"
+          ],
+          "lastName": [
+            "Narkiewicz"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5949-5018",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Day WW"
+          ],
+          "firstName": [
+            "Wesley W"
+          ],
+          "lastName": [
+            "Day"
+          ],
+          "initials": [
+            "WW"
+          ]
+        },
+        {
+          "fullName": [
+            "Finer N"
+          ],
+          "firstName": [
+            "Nick"
+          ],
+          "lastName": [
+            "Finer"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2468-6804",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2468-6804",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5949-5018",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "32"
+      ],
+      "journalIssueId": [
+        "2154055"
+      ],
+      "dateOfPublication": [
+        "2014 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of hypertension"
+          ],
+          "ISOAbbreviation": [
+            "J. Hypertens."
+          ],
+          "medlineAbbreviation": [
+            "J Hypertens"
+          ],
+          "NLMid": [
+            "8306882"
+          ],
+          "ISSN": [
+            "0263-6352"
+          ],
+          "ESSN": [
+            "1473-5598"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "1178-1188"
+  ],
+  "abstractText": [
+    "Weight loss can reduce the increased cardiovascular risk associated with obesity. Pharmacotherapy is a recognized weight loss treatment option; however, cardiovascular safety issues with some previous weight loss drugs raise concerns for newly approved pharmacotherapies. Phentermine is approved for short-term obesity treatment in conjunction with lifestyle modifications, but is commonly used chronically. Topiramate, approved for treating epilepsy and preventing migraines, also induces weight loss. A single-dose combination of low-dose phentermine and topiramate extended-release was recently approved by the United States Food and Drug Administration as an adjunct to lifestyle intervention for the chronic treatment of overweight/obese adults. This review summarizes and evaluates the cardiovascular risk/benefit profile associated with phentermine and topiramate, individually and in combination. Cardiovascular data associated with long-term use of phentermine and topiramate extended-release indicate that this combination may be a safe and effective option for reducing weight in overweight/obese patients at low-to-intermediate cardiovascular risk."
+  ],
+  "affiliation": [
+    "aInstitute of Clinical Pharmacology, Hannover Medical School, Hannover, Germany bDepartment of Nutrition, Exercise and Sports, Faculty of Science, University of Copenhagen, Denmark cDepartment of Hypertension and Diabetology, Medical University of Gdańsk, Dębinki, Gdańsk, Poland dVIVUS, Inc., Mountain View, California, USA eNational Centre for Cardiovascular Prevention and Outcomes, Institute for Cardiovascular Science, University College London, London, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cardiovascular Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weight Loss"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phentermine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fructose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AA"
+                  ],
+                  "qualifierName": [
+                    "analogs & derivatives"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Obesity Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Appetite Depressants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Combinations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Comorbidity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Overweight"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Trials, Phase III as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Drug Combinations"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Appetite Depressants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fructose"
+          ],
+          "registryNumber": [
+            "30237-26-4"
+          ]
+        },
+        {
+          "name": [
+            "Anti-Obesity Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "topiramate"
+          ],
+          "registryNumber": [
+            "0H73WJJ391"
+          ]
+        },
+        {
+          "name": [
+            "Phentermine"
+          ],
+          "registryNumber": [
+            "C045TQL4WP"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24621808/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24621808/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/HJH.0000000000000145"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4011567"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4011567?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "17"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-02-19"
+  ],
+  "dateOfCreation": [
+    "2014-04-30"
+  ],
+  "firstIndexDate": [
+    "2014-03-14"
+  ],
+  "fullTextReceivedDate": [
+    "2014-05-09"
+  ],
+  "firstPublicationDate": [
+    "2014-06-01"
+  ]
+}

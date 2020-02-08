@@ -1,0 +1,584 @@
+{
+  "id": [
+    "25000507"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25000507"
+  ],
+  "pmcid": [
+    "PMC4197753"
+  ],
+  "doi": [
+    "10.1155/2014/935278"
+  ],
+  "title": [
+    "iCanCope with Pain™: User-centred design of a web- and mobile-based self-management program for youth with chronic pain based on identified health care needs."
+  ],
+  "authorString": [
+    "Stinson JN, Lalloo C, Harris L, Isaac L, Campbell F, Brown S, Ruskin D, Gordon A, Galonski M, Pink LR, Buckley N, Henry JL, White M, Karim A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stinson JN"
+          ],
+          "firstName": [
+            "Jennifer N"
+          ],
+          "lastName": [
+            "Stinson"
+          ],
+          "initials": [
+            "JN"
+          ]
+        },
+        {
+          "fullName": [
+            "Lalloo C"
+          ],
+          "firstName": [
+            "Chitra"
+          ],
+          "lastName": [
+            "Lalloo"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Harris L"
+          ],
+          "firstName": [
+            "Lauren"
+          ],
+          "lastName": [
+            "Harris"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Isaac L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Isaac"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Campbell F"
+          ],
+          "firstName": [
+            "Fiona"
+          ],
+          "lastName": [
+            "Campbell"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Brown S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Ruskin D"
+          ],
+          "firstName": [
+            "Danielle"
+          ],
+          "lastName": [
+            "Ruskin"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Gordon A"
+          ],
+          "firstName": [
+            "Allan"
+          ],
+          "lastName": [
+            "Gordon"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Galonski M"
+          ],
+          "firstName": [
+            "Marilyn"
+          ],
+          "lastName": [
+            "Galonski"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Pink LR"
+          ],
+          "firstName": [
+            "Leah R"
+          ],
+          "lastName": [
+            "Pink"
+          ],
+          "initials": [
+            "LR"
+          ]
+        },
+        {
+          "fullName": [
+            "Buckley N"
+          ],
+          "firstName": [
+            "Norman"
+          ],
+          "lastName": [
+            "Buckley"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Henry JL"
+          ],
+          "firstName": [
+            "James Lorne"
+          ],
+          "lastName": [
+            "Henry"
+          ],
+          "initials": [
+            "JL"
+          ]
+        },
+        {
+          "fullName": [
+            "White M"
+          ],
+          "firstName": [
+            "Meghan"
+          ],
+          "lastName": [
+            "White"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Karim A"
+          ],
+          "firstName": [
+            "Allia"
+          ],
+          "lastName": [
+            "Karim"
+          ],
+          "initials": [
+            "A"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2210485"
+      ],
+      "dateOfPublication": [
+        "2014 Sep-Oct"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pain research & management"
+          ],
+          "ISOAbbreviation": [
+            "Pain Res Manag"
+          ],
+          "medlineAbbreviation": [
+            "Pain Res Manag"
+          ],
+          "NLMid": [
+            "9612504"
+          ],
+          "ISSN": [
+            "1203-6765"
+          ],
+          "ESSN": [
+            "1918-1523"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "257-265"
+  ],
+  "abstractText": [
+    "BACKGROUND:While there are emerging web-based self-management programs for children and adolescents with chronic pain, there is currently not an integrated web- and smartphone-based app that specifically addresses the needs of adolescents with chronic pain. OBJECTIVES:To conduct a needs assessment to inform the development of an online chronic pain self-management program for adolescents, called iCanCope with Pain™. METHODS:A purposive sample of adolescents (n=23; 14 to 18 years of age) was recruited from two pediatric chronic pain clinics in Ontario. Interdisciplinary health care providers were also recruited from these sites. Three focus groups were conducted with adolescents (n=16) and one with pediatric health care providers (n=7). Individual adolescent interviews were also conducted (n=7). RESULTS:Qualitative analysis uncovered four major themes: pain impact; barriers to care; pain management strategies; and transition to adult care. Pain impacted social, emotional, physical and role functioning, as well as future goals. Barriers to care were revealed at the health care system, patient and societal levels. Pain management strategies included support systems, and pharmacological, physical and psychological approaches. Transition subthemes were: disconnect between pediatric and adult systems; skills development; parental role; and fear⁄anxiety. Based on these identified needs, the iCanCope with Pain™ architecture will include the core theory-based functionalities of: symptom self-monitoring; personalized goal setting; pain coping skills training; peer-based social support; and chronic pain education. CONCLUSIONS:The proposed iCanCope with Pain™ program aims to address the self-management needs of adolescents with chronic pain by improving access to disease information, strategies to manage symptoms and social support."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Self Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Needs Assessment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Internet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Management"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mobile Applications"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2014/935278"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4197753"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4197753?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "36"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-06-08"
+  ],
+  "dateOfCreation": [
+    "2014-07-08"
+  ],
+  "firstIndexDate": [
+    "2014-07-09"
+  ],
+  "fullTextReceivedDate": [
+    "2014-10-26"
+  ],
+  "dateOfRevision": [
+    "2019-06-09"
+  ],
+  "electronicPublicationDate": [
+    "2014-07-07"
+  ],
+  "firstPublicationDate": [
+    "2014-07-07"
+  ]
+}

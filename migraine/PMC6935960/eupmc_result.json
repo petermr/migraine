@@ -1,0 +1,303 @@
+{
+  "id": [
+    "31893144"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31893144"
+  ],
+  "pmcid": [
+    "PMC6935960"
+  ],
+  "doi": [
+    "10.25259/SNI_491_2019"
+  ],
+  "title": [
+    "Fatal status migrainosus in Chiari 1 malformation."
+  ],
+  "authorString": [
+    "Jokonya L, Makarawo S, Mduluza-Jokonya TL, Ngwende G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jokonya L"
+          ],
+          "firstName": [
+            "Luxwell"
+          ],
+          "lastName": [
+            "Jokonya"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Surgery, College of Health Sciences, University of Zimbabwe, Harare, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Makarawo S"
+          ],
+          "firstName": [
+            "Sydney"
+          ],
+          "lastName": [
+            "Makarawo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Surgery, Parirenyatwa Hospital, Harare, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Mduluza-Jokonya TL"
+          ],
+          "firstName": [
+            "Tariro Lavender"
+          ],
+          "lastName": [
+            "Mduluza-Jokonya"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "affiliation": [
+            "Department of Medical Lab-Sciences, University of KwaZulu Natal, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Ngwende G"
+          ],
+          "firstName": [
+            "Gift"
+          ],
+          "lastName": [
+            "Ngwende"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Medicine, University of Zimbabwe, Harare, Zimbabwe."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2784011"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Surgical neurology international"
+          ],
+          "ISOAbbreviation": [
+            "Surg Neurol Int"
+          ],
+          "medlineAbbreviation": [
+            "Surg Neurol Int"
+          ],
+          "NLMid": [
+            "101535836"
+          ],
+          "ISSN": [
+            "2229-5097"
+          ],
+          "ESSN": [
+            "2152-7806"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "243"
+  ],
+  "abstractText": [
+    "Background:Headaches are common in Chiari Type 1 malformation (CM-1). The prevalence of migraine headaches in CM-1 is similar to that of the general population. However, when migraine headaches occur with CM-1, they tend to have an earlier age of onset, are more frequent and certainly more severe than when they occur without CM-1 association. The exact role or impact of CM-1 in migraine headaches has not been fully elucidated. Case Description:We report a fatal case of status migrainosus in 7 years old with CM-1 and review the literature on the possible associations. Conclusion:Migraines occurring in association with CM-1 pose a management challenge and can be potentially fatal especially if associated with autonomic symptoms. The exact pathophysiological interaction between these two conditions when they occur simultaneously needs to be further elucidated."
+  ],
+  "affiliation": [
+    "Department of Surgery, College of Health Sciences, University of Zimbabwe, Harare, Zimbabwe."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Status Migrainosus",
+        "Chiari Malformations",
+        "Fatal Migraine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.25259/SNI_491_2019"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6935960"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6935960?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-02"
+  ],
+  "firstIndexDate": [
+    "2020-01-03"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-03"
+  ],
+  "dateOfRevision": [
+    "2020-01-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-13"
+  ],
+  "firstPublicationDate": [
+    "2019-12-13"
+  ]
+}

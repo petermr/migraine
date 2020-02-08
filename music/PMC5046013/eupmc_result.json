@@ -1,0 +1,513 @@
+{
+  "id": [
+    "27721995"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27721995"
+  ],
+  "pmcid": [
+    "PMC5046013"
+  ],
+  "doi": [
+    "10.1155/2016/2734915"
+  ],
+  "title": [
+    "Environmental Enrichment Therapy for Autism: Outcomes with Increased Access."
+  ],
+  "authorString": [
+    "Aronoff E, Hillyer R, Leon M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Aronoff E"
+          ],
+          "firstName": [
+            "Eyal"
+          ],
+          "lastName": [
+            "Aronoff"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Mendability, LLC, 915 South 500 East, American Fork, UT 84003, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hillyer R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Hillyer"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6826-8711",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Mendability, LLC, 915 South 500 East, American Fork, UT 84003, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Leon M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Leon"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2684-6955",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Autism Research and Translation, Center for the Neurobiology of Learning and Memory, Department of Neurobiology and Behavior, 2205 McGaugh Hall, The University of California Irvine, Irvine, CA 92697-4550, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6826-8711",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2684-6955",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2016"
+      ],
+      "journalIssueId": [
+        "2370425"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural plasticity"
+          ],
+          "ISOAbbreviation": [
+            "Neural Plast."
+          ],
+          "medlineAbbreviation": [
+            "Neural Plast"
+          ],
+          "NLMid": [
+            "100883417"
+          ],
+          "ISSN": [
+            "2090-5904"
+          ],
+          "ESSN": [
+            "1687-5443"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "2734915"
+  ],
+  "abstractText": [
+    "We have previously shown in two randomized clinical trials that environmental enrichment is capable of ameliorating symptoms of autism spectrum disorder (ASD), and in the present study, we determined whether this therapy could be effective under real-world circumstances. 1,002 children were given daily Sensory Enrichment Therapy, by their parents, using personalized therapy instructions given over the Internet. Parents were asked to assess the symptoms of their child every 2 weeks for up to 7 months. An intention-to-treat analysis showed significant overall gains for a wide range of symptoms in these children, including learning, memory, anxiety, attention span, motor skills, eating, sleeping, sensory processing, self-awareness, communication, social skills, and mood/autism behaviors. The children of compliant caregivers were more likely to experience a significant improvement in their symptoms. The treatment was effective across a wide age range and there was equal progress reported for males and females, for USA and international subjects, for those who paid and those who did not pay for the therapy, and for individuals at all levels of initial symptom severity. Environmental enrichment, delivered via an online system, therefore appears to be an effective, low-cost means of treating the symptoms of ASD."
+  ],
+  "affiliation": [
+    "Mendability, LLC, 915 South 500 East, American Fork, UT 84003, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parents"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Autistic Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Autism Spectrum Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2016/2734915"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2016/2734915"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5046013"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5046013?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-10-26"
+  ],
+  "dateOfCreation": [
+    "2016-10-11"
+  ],
+  "firstIndexDate": [
+    "2016-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2016-10-12"
+  ],
+  "dateOfRevision": [
+    "2017-12-07"
+  ],
+  "electronicPublicationDate": [
+    "2016-09-18"
+  ],
+  "firstPublicationDate": [
+    "2016-09-18"
+  ]
+}

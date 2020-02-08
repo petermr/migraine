@@ -1,0 +1,184 @@
+{
+  "id": [
+    "PMC5077952"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5077952"
+  ],
+  "title": [
+    "The Young Freud."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2521357"
+      ],
+      "dateOfPublication": [
+        "1953 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "1953"
+      ],
+      "printPublicationDate": [
+        "1953-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Mental health (London)"
+          ],
+          "ISOAbbreviation": [
+            "Ment Health (Lond)"
+          ],
+          "medlineAbbreviation": [
+            "Ment Health (Lond)"
+          ],
+          "NLMid": [
+            "0312437"
+          ],
+          "ISSN": [
+            "0025-9632"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1953"
+  ],
+  "pageInfo": [
+    "32-33"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "book-review",
+        "Book Review"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5077952/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5077952"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-02-05"
+  ],
+  "firstIndexDate": [
+    "2017-02-05"
+  ],
+  "fullTextReceivedDate": [
+    "2017-02-05"
+  ],
+  "dateOfRevision": [
+    "2019-10-01"
+  ],
+  "firstPublicationDate": [
+    "1953-01-01"
+  ]
+}

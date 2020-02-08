@@ -1,0 +1,521 @@
+{
+  "id": [
+    "26200715"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26200715"
+  ],
+  "pmcid": [
+    "PMC4595860"
+  ],
+  "doi": [
+    "10.1017/S0033291715001166"
+  ],
+  "title": [
+    "Religious and spiritual interventions in mental health care: a systematic review and meta-analysis of randomized controlled clinical trials."
+  ],
+  "authorString": [
+    "Gonçalves JP, Lucchetti G, Menezes PR, Vallada H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gonçalves JP"
+          ],
+          "firstName": [
+            "J P B"
+          ],
+          "lastName": [
+            "Gonçalves"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Department of Psychiatry,University of Sao Paulo Medical School,Sao Paulo,SP,Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Lucchetti G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Lucchetti"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5384-9476",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Federal University of Juiz de Fora,Juiz de Fora,Minas Gerais,Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Menezes PR"
+          ],
+          "firstName": [
+            "P R"
+          ],
+          "lastName": [
+            "Menezes"
+          ],
+          "initials": [
+            "PR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6330-3314",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Preventive Medicine,University of Sao Paulo Medical School,Sao Paulo,SP,Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Vallada H"
+          ],
+          "firstName": [
+            "H"
+          ],
+          "lastName": [
+            "Vallada"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5123-8295",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry,University of Sao Paulo Medical School,Sao Paulo,SP,Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5123-8295",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5384-9476",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6330-3314",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "14"
+      ],
+      "volume": [
+        "45"
+      ],
+      "journalIssueId": [
+        "2328106"
+      ],
+      "dateOfPublication": [
+        "2015 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Psychological medicine"
+          ],
+          "ISOAbbreviation": [
+            "Psychol Med"
+          ],
+          "medlineAbbreviation": [
+            "Psychol Med"
+          ],
+          "NLMid": [
+            "1254142"
+          ],
+          "ISSN": [
+            "0033-2917"
+          ],
+          "ESSN": [
+            "1469-8978"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "2937-2949"
+  ],
+  "abstractText": [
+    "Despite the extensive literature assessing associations between religiosity/spirituality and health, few studies have investigated the clinical applicability of this evidence. The purpose of this paper was to assess the impact of religious/spiritual interventions (RSI) through randomized clinical trials (RCTs).A systematic review was performed in the following databases: PubMed, Scopus, Web of Science, PsycINFO, Cochrane Collaboration, Embase and SciELO. Through the use of a Boolean expression, articles were included if they: (i) investigated mental health outcomes; (ii) had a design consistent with RCTs. We excluded protocols involving intercessory prayer or distance healing. The study was conducted in two phases by reading: (1) title and abstracts; (2) full papers and assessing their methodological quality. Then, a meta-analysis was carried out.Through this method, 4751 papers were obtained, of which 23 remained included. The meta-analysis showed significant effects of RSI on anxiety general symptoms (p < 0.001) and in subgroups: meditation (p < 0.001); psychotherapy (p = 0.02); 1 month of follow-up (p < 0.001); and comparison groups with interventions (p < 0.001). Two significant differences were found in depressive symptoms: between 1 and 6 months and comparison groups with interventions (p = 0.05). In general, studies have shown that RSI decreased stress, alcoholism and depression.RCTs on RSI showed additional benefits including reduction of clinical symptoms (mainly anxiety). The diversity of protocols and outcomes associated with a lack of standardization of interventions point to the need for further studies evaluating the use of religiosity/spirituality as a complementary treatment in health care."
+  ],
+  "affiliation": [
+    "Department of Psychiatry,University of Sao Paulo Medical School,Sao Paulo,SP,Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Meditation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depression"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mental Health"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pastoral Care"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychotherapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Clinical Trials",
+        "Spirituality",
+        "Religiosity",
+        "Clinical Care",
+        "Meta-analyses"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1017/S0033291715001166"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4595860"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4595860?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-07-18"
+  ],
+  "dateOfCreation": [
+    "2015-11-03"
+  ],
+  "firstIndexDate": [
+    "2015-07-23"
+  ],
+  "fullTextReceivedDate": [
+    "2015-10-11"
+  ],
+  "dateOfRevision": [
+    "2015-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2015-07-23"
+  ],
+  "firstPublicationDate": [
+    "2015-07-23"
+  ]
+}

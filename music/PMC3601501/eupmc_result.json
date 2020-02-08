@@ -1,0 +1,335 @@
+{
+  "id": [
+    "23519073"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23519073"
+  ],
+  "pmcid": [
+    "PMC3601501"
+  ],
+  "doi": [
+    "10.4021/jocmr1222w"
+  ],
+  "title": [
+    "22q11 deletion syndrome and multiple complex developmental disorder: a case report."
+  ],
+  "authorString": [
+    "Scandurra V, Scordo MR, Canitano R, de Bruin EI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Scandurra V"
+          ],
+          "firstName": [
+            "Valeria"
+          ],
+          "lastName": [
+            "Scandurra"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Child Neuropsychiatry, University of Florence; Viale Pieraccini - 50139, Firenze, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Scordo MR"
+          ],
+          "firstName": [
+            "Maria R"
+          ],
+          "lastName": [
+            "Scordo"
+          ],
+          "initials": [
+            "MR"
+          ]
+        },
+        {
+          "fullName": [
+            "Canitano R"
+          ],
+          "firstName": [
+            "Roberto"
+          ],
+          "lastName": [
+            "Canitano"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "de Bruin EI"
+          ],
+          "firstName": [
+            "Esther I"
+          ],
+          "lastName": [
+            "de Bruin"
+          ],
+          "initials": [
+            "EI"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2022780"
+      ],
+      "dateOfPublication": [
+        "2013 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical medicine research"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Med Res"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Med Res"
+          ],
+          "NLMid": [
+            "101538301"
+          ],
+          "ISSN": [
+            "1918-3003"
+          ],
+          "ESSN": [
+            "1918-3011"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "135-139"
+  ],
+  "abstractText": [
+    "22q11.2 Deletion Syndrome (22q11 DS) is a multisystemic condition that may also include neuropsychiatric disorders. We present a case of a 15-year-old boy that was evaluated for social difficulties, and anxiety with the above genetic abnormality. Clinical features were rather complex as different neuropsychiatric symptoms emerged from assessment and clinical evaluation. As a result we propose that Multiple Complex Developmental Disorder (MCDD) would be the best fitting comprehensive diagnosis to be added to the DSM-IV category of Pervasive Developmental Disorder-Not Otherwise Specified."
+  ],
+  "affiliation": [
+    "Department of Child Neuropsychiatry, University of Florence; Viale Pieraccini - 50139, Firenze, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetics",
+        "Autism",
+        "22Q11 Deletion Syndrome",
+        "Multiple Complex Developmental Disorder",
+        "Pervasive Developmental Disorder-not Otherwise Specified Line"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23519073/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23519073/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4021/jocmr1222w"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3601501"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3601501?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-03-25"
+  ],
+  "dateOfCreation": [
+    "2013-03-23"
+  ],
+  "firstIndexDate": [
+    "2013-04-02"
+  ],
+  "fullTextReceivedDate": [
+    "2013-03-26"
+  ],
+  "dateOfRevision": [
+    "2019-02-26"
+  ],
+  "electronicPublicationDate": [
+    "2013-02-25"
+  ],
+  "firstPublicationDate": [
+    "2013-02-25"
+  ]
+}

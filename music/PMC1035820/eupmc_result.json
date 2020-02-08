@@ -1,0 +1,312 @@
+{
+  "id": [
+    "2651823"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "2651823"
+  ],
+  "pmcid": [
+    "PMC1035820"
+  ],
+  "doi": [
+    "10.1017/s0025727300049243"
+  ],
+  "title": [
+    "Thomas Arnold: a provincial psychiatrist in Georgian England."
+  ],
+  "authorString": [
+    "Carpenter PK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Carpenter PK"
+          ],
+          "firstName": [
+            "P K"
+          ],
+          "lastName": [
+            "Carpenter"
+          ],
+          "initials": [
+            "PK"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "33"
+      ],
+      "journalIssueId": [
+        "655555"
+      ],
+      "dateOfPublication": [
+        "1989 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "1989"
+      ],
+      "printPublicationDate": [
+        "1989-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medical History"
+          ],
+          "ISOAbbreviation": [
+            "Med Hist"
+          ],
+          "medlineAbbreviation": [
+            "Med Hist"
+          ],
+          "NLMid": [
+            "0401052"
+          ],
+          "ISSN": [
+            "0025-7273"
+          ],
+          "ESSN": [
+            "2048-8343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1989"
+  ],
+  "pageInfo": [
+    "199-216"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Historical Article",
+        "research-article",
+        "Biography",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychiatry"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 18th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 19th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "England"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        },
+        {
+          "code": [
+            "Q"
+          ],
+          "name": [
+            "History of medicine"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1017/s0025727300049243"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC1035820"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC1035820?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "1989-06-02"
+  ],
+  "dateOfCreation": [
+    "1989-04-01"
+  ],
+  "firstIndexDate": [
+    "2010-09-11"
+  ],
+  "fullTextReceivedDate": [
+    "2010-04-06"
+  ],
+  "dateOfRevision": [
+    "2019-05-16"
+  ],
+  "firstPublicationDate": [
+    "1989-04-01"
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "id": [
+    "18826582"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "18826582"
+  ],
+  "pmcid": [
+    "PMC2570361"
+  ],
+  "doi": [
+    "10.1186/1477-7525-6-74"
+  ],
+  "title": [
+    "Patient satisfaction with primary care: an observational study comparing anthroposophic and conventional care."
+  ],
+  "authorString": [
+    "Esch BM, Marian F, Busato A, Heusser P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Esch BM"
+          ],
+          "firstName": [
+            "Barbara M"
+          ],
+          "lastName": [
+            "Esch"
+          ],
+          "initials": [
+            "BM"
+          ]
+        },
+        {
+          "fullName": [
+            "Marian F"
+          ],
+          "firstName": [
+            "Florica"
+          ],
+          "lastName": [
+            "Marian"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Busato A"
+          ],
+          "firstName": [
+            "André"
+          ],
+          "lastName": [
+            "Busato"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Heusser P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Heusser"
+          ],
+          "initials": [
+            "P"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "1508751"
+      ],
+      "dateOfPublication": [
+        "2008 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Health and quality of life outcomes"
+          ],
+          "ISOAbbreviation": [
+            "Health Qual Life Outcomes"
+          ],
+          "medlineAbbreviation": [
+            "Health Qual Life Outcomes"
+          ],
+          "NLMid": [
+            "101153626"
+          ],
+          "ISSN": [
+            "1477-7525"
+          ],
+          "ESSN": [
+            "1477-7525"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2008"
+  ],
+  "pageInfo": [
+    "74"
+  ],
+  "abstractText": [
+    "BACKGROUND: This study is part of a cross-sectional evaluation of complementary medicine providers in primary care in Switzerland. It compares patient satisfaction with anthroposophic medicine (AM) and conventional medicine (CON). METHODS: We collected baseline data on structural characteristics of the physicians and their practices and health status and demographics of the patients. Four weeks later patients assessed their satisfaction with the received treatment (five items, four point rating scale) and evaluated the praxis care (validated 23-item questionnaire, five point rating scale). 1946 adult patients of 71 CON and 32 AM primary care physicians participated. RESULTS: 1. Baseline characteristics: AM patients were more likely female (75.6% vs. 59.0%, p < 0.001) and had higher education (38.6% vs. 24.7%, p < 0.001). They suffered more often from chronic illnesses (52.8% vs. 46.2%, p = 0.015) and cancer (7.4% vs. 1.1%). AM consultations lasted on average 23,3 minutes (CON: 16,8 minutes, p < 0.001). 2. Satisfaction: More AM patients expressed a general treatment satisfaction (56.1% vs. 43.4%, p < 0.001) and saw their expectations completely fulfilled at follow-up (38.7% vs. 32.6%, p < 0.001). AM patients reported significantly fewer adverse side effects (9.3% vs. 15.4%, p = 0.003), and more other positive effects from treatment (31.7% vs. 17.1%, p < 0.001). Europep: AM patients appreciated that their physicians listened to them (80.0% vs. 67.1%, p < 0.001), spent more time (76.5% vs. 61.7%, p < 0.001), had more interest in their personal situation (74.6% vs. 60.3%, p < 0.001), involved them more in decisions about their medical care (67.8% vs. 58.4%, p = 0.022), and made it easy to tell the physician about their problems (71.6% vs. 62.9%, p = 0.023). AM patients gave significantly better rating as to information and support (in 3 of 4 items p [less than or equal to] 0.044) and for thoroughness (70.4% vs. 56.5%, p < 0.001). CONCLUSION: AM patients were significantly more satisfied and rated their physicians as valuable partners in the treatment. This suggests that subject to certain limitations, AM therapy may be beneficial in primary care. To confirm this, more detailed qualitative studies would be necessary."
+  ],
+  "affiliation": [
+    "Institute for Evaluative Research in Orthopaedic Surgery, University of Bern, Stauffacherstrasse 78, 3014 Bern, Switzerland. b.esch@bluewin.ch"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anthroposophy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Holistic Health"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Questionnaires"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Attitude of Health Personnel"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Communication"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physician-Patient Relations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Family Practice"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Status"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Expenditures"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Satisfaction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Primary Health Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Physician's Practice Patterns"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Outcome and Process Assessment (Health Care)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Switzerland"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1477-7525/6/74/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1477-7525/6/74"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1477-7525-6-74.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18826582/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18826582/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1477-7525-6-74"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2570361"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2570361?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "20"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2008-12-30"
+  ],
+  "dateOfCreation": [
+    "2008-10-21"
+  ],
+  "firstIndexDate": [
+    "2009-12-24"
+  ],
+  "fullTextReceivedDate": [
+    "2011-02-02"
+  ],
+  "dateOfRevision": [
+    "2013-06-05"
+  ],
+  "electronicPublicationDate": [
+    "2008-09-30"
+  ],
+  "firstPublicationDate": [
+    "2008-09-30"
+  ]
+}

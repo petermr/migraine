@@ -1,0 +1,563 @@
+{
+  "id": [
+    "29386418"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29386418"
+  ],
+  "pmcid": [
+    "PMC5820821"
+  ],
+  "doi": [
+    "10.4103/jpgm.JPGM_306_17"
+  ],
+  "title": [
+    "Cinema-like sensory phenomena in a migraine patient on topiramate."
+  ],
+  "authorString": [
+    "Tandon R, Verma SK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tandon R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Tandon"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Medicine, King George's Medical University, Lucknow, Uttar Pradesh, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Verma SK"
+          ],
+          "firstName": [
+            "S K"
+          ],
+          "lastName": [
+            "Verma"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "affiliation": [
+            "Department of Medicine, King George's Medical University, Lucknow, Uttar Pradesh, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "64"
+      ],
+      "journalIssueId": [
+        "2644846"
+      ],
+      "dateOfPublication": [
+        "2018 Jan-Mar"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of postgraduate medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Postgrad Med"
+          ],
+          "medlineAbbreviation": [
+            "J Postgrad Med"
+          ],
+          "NLMid": [
+            "2985196R"
+          ],
+          "ISSN": [
+            "0022-3859"
+          ],
+          "ESSN": [
+            "0972-2823"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "66-67"
+  ],
+  "affiliation": [
+    "Department of Medicine, King George's Medical University, Lucknow, Uttar Pradesh, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Amitriptyline"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fructose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Analgesics, Non-Narcotic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anticonvulsants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dose-Response Relationship, Drug"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Topiramate"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anticonvulsants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fructose"
+          ],
+          "registryNumber": [
+            "30237-26-4"
+          ]
+        },
+        {
+          "name": [
+            "Analgesics, Non-Narcotic"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "topiramate"
+          ],
+          "registryNumber": [
+            "0H73WJJ391"
+          ]
+        },
+        {
+          "name": [
+            "Amitriptyline"
+          ],
+          "registryNumber": [
+            "1806D8D52K"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/jpgm.JPGM_306_17"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5820821"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-10-11"
+  ],
+  "dateOfCreation": [
+    "2018-02-02"
+  ],
+  "firstIndexDate": [
+    "2018-02-02"
+  ],
+  "fullTextReceivedDate": [
+    "2018-03-02"
+  ],
+  "dateOfRevision": [
+    "2019-10-11"
+  ],
+  "firstPublicationDate": [
+    "2018-01-01"
+  ]
+}

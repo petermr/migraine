@@ -1,0 +1,708 @@
+{
+  "id": [
+    "30937360"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30937360"
+  ],
+  "pmcid": [
+    "PMC6437217"
+  ],
+  "doi": [
+    "10.1038/s41531-019-0077-5"
+  ],
+  "title": [
+    "The Parkinson's phenome-traits associated with Parkinson's disease in a broadly phenotyped cohort."
+  ],
+  "authorString": [
+    "Heilbron K, Noyce AJ, Fontanillas P, Alipanahi B, Nalls MA, 23andMe Research Team, Cannon P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Heilbron K"
+          ],
+          "firstName": [
+            "Karl"
+          ],
+          "lastName": [
+            "Heilbron"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "123andMe, Inc., 899W Evelyn Avenue, Mountain View, CA 94041 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Noyce AJ"
+          ],
+          "firstName": [
+            "Alastair J"
+          ],
+          "lastName": [
+            "Noyce"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3027-5497",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "2Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, Queen Mary University of London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Fontanillas P"
+          ],
+          "firstName": [
+            "Pierre"
+          ],
+          "lastName": [
+            "Fontanillas"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "123andMe, Inc., 899W Evelyn Avenue, Mountain View, CA 94041 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Alipanahi B"
+          ],
+          "firstName": [
+            "Babak"
+          ],
+          "lastName": [
+            "Alipanahi"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8216-7178",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "123andMe, Inc., 899W Evelyn Avenue, Mountain View, CA 94041 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nalls MA"
+          ],
+          "firstName": [
+            "Mike A"
+          ],
+          "lastName": [
+            "Nalls"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Data Tecnica International, Glen Echo, MD USA."
+          ]
+        },
+        {
+          "collectiveName": [
+            "23andMe Research Team"
+          ]
+        },
+        {
+          "fullName": [
+            "Cannon P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Cannon"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "123andMe, Inc., 899W Evelyn Avenue, Mountain View, CA 94041 USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Agee M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Agee"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Auton A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Auton"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Bell RK"
+          ],
+          "firstName": [
+            "R K"
+          ],
+          "lastName": [
+            "Bell"
+          ],
+          "initials": [
+            "RK"
+          ]
+        },
+        {
+          "fullName": [
+            "Bryc K"
+          ],
+          "firstName": [
+            "K"
+          ],
+          "lastName": [
+            "Bryc"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Elson SL"
+          ],
+          "firstName": [
+            "S L"
+          ],
+          "lastName": [
+            "Elson"
+          ],
+          "initials": [
+            "SL"
+          ]
+        },
+        {
+          "fullName": [
+            "Furlotte NA"
+          ],
+          "firstName": [
+            "N A"
+          ],
+          "lastName": [
+            "Furlotte"
+          ],
+          "initials": [
+            "NA"
+          ]
+        },
+        {
+          "fullName": [
+            "Hinds DA"
+          ],
+          "firstName": [
+            "D A"
+          ],
+          "lastName": [
+            "Hinds"
+          ],
+          "initials": [
+            "DA"
+          ]
+        },
+        {
+          "fullName": [
+            "McCreight JC"
+          ],
+          "firstName": [
+            "J C"
+          ],
+          "lastName": [
+            "McCreight"
+          ],
+          "initials": [
+            "JC"
+          ]
+        },
+        {
+          "fullName": [
+            "Huber KE"
+          ],
+          "firstName": [
+            "K E"
+          ],
+          "lastName": [
+            "Huber"
+          ],
+          "initials": [
+            "KE"
+          ]
+        },
+        {
+          "fullName": [
+            "Kleinman A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Kleinman"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Litterman NK"
+          ],
+          "firstName": [
+            "N K"
+          ],
+          "lastName": [
+            "Litterman"
+          ],
+          "initials": [
+            "NK"
+          ]
+        },
+        {
+          "fullName": [
+            "McIntyre MH"
+          ],
+          "firstName": [
+            "M H"
+          ],
+          "lastName": [
+            "McIntyre"
+          ],
+          "initials": [
+            "MH"
+          ]
+        },
+        {
+          "fullName": [
+            "Mountain JL"
+          ],
+          "firstName": [
+            "J L"
+          ],
+          "lastName": [
+            "Mountain"
+          ],
+          "initials": [
+            "JL"
+          ]
+        },
+        {
+          "fullName": [
+            "Noblin ES"
+          ],
+          "firstName": [
+            "E S"
+          ],
+          "lastName": [
+            "Noblin"
+          ],
+          "initials": [
+            "ES"
+          ]
+        },
+        {
+          "fullName": [
+            "Northover CAM"
+          ],
+          "firstName": [
+            "C A M"
+          ],
+          "lastName": [
+            "Northover"
+          ],
+          "initials": [
+            "CAM"
+          ]
+        },
+        {
+          "fullName": [
+            "Pitts SJ"
+          ],
+          "firstName": [
+            "S J"
+          ],
+          "lastName": [
+            "Pitts"
+          ],
+          "initials": [
+            "SJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Sathirapongsasuti JF"
+          ],
+          "firstName": [
+            "J F"
+          ],
+          "lastName": [
+            "Sathirapongsasuti"
+          ],
+          "initials": [
+            "JF"
+          ]
+        },
+        {
+          "fullName": [
+            "Sazonova OV"
+          ],
+          "firstName": [
+            "O V"
+          ],
+          "lastName": [
+            "Sazonova"
+          ],
+          "initials": [
+            "OV"
+          ]
+        },
+        {
+          "fullName": [
+            "Shelton JF"
+          ],
+          "firstName": [
+            "J F"
+          ],
+          "lastName": [
+            "Shelton"
+          ],
+          "initials": [
+            "JF"
+          ]
+        },
+        {
+          "fullName": [
+            "Shringarpure S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Shringarpure"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Tian C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Tung JY"
+          ],
+          "firstName": [
+            "J Y"
+          ],
+          "lastName": [
+            "Tung"
+          ],
+          "initials": [
+            "JY"
+          ]
+        },
+        {
+          "fullName": [
+            "Vacic V"
+          ],
+          "firstName": [
+            "V"
+          ],
+          "lastName": [
+            "Vacic"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson CH"
+          ],
+          "firstName": [
+            "C H"
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "CH"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3027-5497",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8216-7178",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2775599"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "NPJ Parkinson's disease"
+          ],
+          "ISOAbbreviation": [
+            "NPJ Parkinsons Dis"
+          ],
+          "medlineAbbreviation": [
+            "NPJ Parkinsons Dis"
+          ],
+          "NLMid": [
+            "101675390"
+          ],
+          "ISSN": [
+            "2373-8057"
+          ],
+          "ESSN": [
+            "2373-8057"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4"
+  ],
+  "abstractText": [
+    "In order to systematically describe the Parkinson's disease phenome, we performed a series of 832 cross-sectional case-control analyses in a large database. Responses to 832 online survey-based phenotypes including diseases, medications, and environmental exposures were analyzed in 23andMe research participants. For each phenotype, survey respondents were used to construct a cohort of Parkinson's disease cases and age-matched and sex-matched controls, and an association test was performed using logistic regression. Cohorts included a median of 3899 Parkinson's disease cases and 49,808 controls, all of European ancestry. Highly correlated phenotypes were removed and the novelty of each significant association was systematically assessed (assigned to one of four categories: known, likely, unclear, or novel). Parkinson's disease diagnosis was associated with 122 phenotypes. We replicated 27 known associations and found 23 associations with a strong a priori link to a known association. We discovered 42 associations that have not previously been reported. Migraine, obsessive-compulsive disorder, and seasonal allergies were associated with Parkinson's disease and tend to occur decades before the typical age of diagnosis for Parkinson's disease. The phenotypes that currently comprise the Parkinson's disease phenome have mostly been explored in relatively small purpose-built studies. Using a single large dataset, we have successfully reproduced many of these established associations and have extended the Parkinson's disease phenome by discovering novel associations. Our work paves the way for studies of these associated phenotypes that explore shared molecular mechanisms with Parkinson's disease, infer causal relationships, and improve our ability to identify individuals at high-risk of Parkinson's disease."
+  ],
+  "affiliation": [
+    "123andMe, Inc., 899W Evelyn Avenue, Mountain View, CA 94041 USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41531-019-0077-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6437217"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6437217?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-03"
+  ],
+  "firstIndexDate": [
+    "2019-04-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-05"
+  ],
+  "dateOfRevision": [
+    "2019-04-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-27"
+  ],
+  "firstPublicationDate": [
+    "2019-03-27"
+  ]
+}

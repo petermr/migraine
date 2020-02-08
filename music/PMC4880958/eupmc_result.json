@@ -1,0 +1,372 @@
+{
+  "id": [
+    "27229306"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27229306"
+  ],
+  "pmcid": [
+    "PMC4880958"
+  ],
+  "doi": [
+    "10.1186/s12906-016-1124-y"
+  ],
+  "title": [
+    "Facilitators and barriers of herbal medicine use in Accra, Ghana: an inductive exploratory study."
+  ],
+  "authorString": [
+    "Aziato L, Antwi HO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Aziato L"
+          ],
+          "firstName": [
+            "Lydia"
+          ],
+          "lastName": [
+            "Aziato"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Nursing, College of Health Sciences, University of Ghana, P.O. Box LG 43, Legon, Accra, Ghana. aziatol@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Antwi HO"
+          ],
+          "firstName": [
+            "Hannah Ohemeng"
+          ],
+          "lastName": [
+            "Antwi"
+          ],
+          "initials": [
+            "HO"
+          ],
+          "affiliation": [
+            "Department of Adult Health, School of Nursing, University of Ghana, Legon, Accra, Ghana."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2477688"
+      ],
+      "dateOfPublication": [
+        "2016 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC complementary and alternative medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "NLMid": [
+            "101088661"
+          ],
+          "ISSN": [
+            "1472-6882"
+          ],
+          "ESSN": [
+            "1472-6882"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "142"
+  ],
+  "abstractText": [
+    "The use of complementary and alternative medicine including herbal medicine is increasing in many countries including Ghana. However, there is paucity of research on the perspectives of patrons of herbal medicine regarding the facilitators and barriers of herbal medicine use. This study sought to investigate the facilitators and barriers of herbal medicine among Ghanaian adults who use one form of herbal medicine or the other.The study employed an inductive exploratory qualitative approach. It was conducted at a private herbal clinic in Accra. Purposive sampling was employed to recruit 16 participants. Data collection was through individual face-to-face interviews and these were transcribed and analysed using content analysis procedures.It was realized that the factors that enhanced the use of herbal medicine included use of convincing information to enhance the initiation of herbal medicine use, effectiveness of herbal medicine, personal preference for herbal medicine, perceived ineffectiveness of western medicine and integration of spirituality in herbal medicine. The factors that hindered herbal medicine use included negative perceptions and attitudes about herbal medicine, poor vending environment, poor knowledge of vendors, high cost of herbal products at credible herbal clinics and inconsistent effectiveness of some herbal products. Participants desired that the national health insurance scheme will cover the cost of herbal medicine to alleviate the financial burden associated with herbal medicine use.Although some Ghanaians patronize herbal medicine, the negative perceptions about herbal medicine resulting from deceitful producers and vendors call for enhanced education and monitoring to ensure that effective herbal products are used."
+  ],
+  "affiliation": [
+    "School of Nursing, College of Health Sciences, University of Ghana, P.O. Box LG 43, Legon, Accra, Ghana. aziatol@yahoo.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Attitude to Health"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Perception"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ghana"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Herbal Medicine"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Effectiveness",
+        "Qualitative",
+        "Complementary And Alternative Medicine (Cam)",
+        "Herbal Clinic"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12906-016-1124-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4880958"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4880958?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-01-12"
+  ],
+  "dateOfCreation": [
+    "2016-05-27"
+  ],
+  "firstIndexDate": [
+    "2016-05-28"
+  ],
+  "fullTextReceivedDate": [
+    "2016-05-28"
+  ],
+  "dateOfRevision": [
+    "2017-01-13"
+  ],
+  "electronicPublicationDate": [
+    "2016-05-26"
+  ],
+  "firstPublicationDate": [
+    "2016-05-26"
+  ]
+}

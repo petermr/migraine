@@ -1,0 +1,511 @@
+{
+  "id": [
+    "31492106"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31492106"
+  ],
+  "pmcid": [
+    "PMC6734209"
+  ],
+  "doi": [
+    "10.1186/s10194-019-1046-4"
+  ],
+  "title": [
+    "Differences in treatment response between migraine with aura and migraine without aura: lessons from clinical practice and RCTs."
+  ],
+  "authorString": [
+    "Hansen JM, Charles A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hansen JM"
+          ],
+          "firstName": [
+            "Jakob Møller"
+          ],
+          "lastName": [
+            "Hansen"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9417-2481",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Danish Headache Centre and Department of Neurology, Rigshospitalet Glostrup, Valdemar Hansen Vej 5, DK-2600, Glostrup, Denmark. jmh@dadlnet.dk."
+          ]
+        },
+        {
+          "fullName": [
+            "Charles A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Charles"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "UCLA Goldberg Migraine Program, Department of Neurology, University of California Los Angeles, Los Angeles, CA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9417-2481",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2853872"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "96"
+  ],
+  "abstractText": [
+    "Migraine is a major public health problem afflicting approximately 10% of the general population and is a leading cause of disability worldwide, yet our understanding of the basis mechanisms of migraine remains incomplete. About a third of migraine patients have attacks with aura, consisting of transient neurological symptoms that precede or accompany headache, or occur without headache. For patients, aura symptoms are alarming and may be transiently disabling. For clinicians and scientists, aura represents an intriguing neurophysiological event that may provide important insight into basic mechanisms of migraine. Several observations point toward important differences between migraine with and without aura. Compared with migraine without aura, migraine with aura has different heritability, greater association with different conditions including stroke, different alterations of brain structure and function as revealed by imaging studies. A number of studies also indicate that migraine with aura may respond differently to acute and preventive therapies as compared to migraine without aura. The purpose of this review is to provide an overview of these differences in treatment responses, and to discuss the possibility of different therapeutic strategies for migraine with vs. without aura."
+  ],
+  "affiliation": [
+    "Danish Headache Centre and Department of Neurology, Rigshospitalet Glostrup, Valdemar Hansen Vej 5, DK-2600, Glostrup, Denmark. jmh@dadlnet.dk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disabled Persons"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine with Aura"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine without Aura"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cortical Spreading Depression"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Review",
+        "Migraine",
+        "Clinical Trials",
+        "Migraine Treatment",
+        "Migraine Aura"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-019-1046-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734209"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734209?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-01-07"
+  ],
+  "dateOfCreation": [
+    "2019-09-08"
+  ],
+  "firstIndexDate": [
+    "2019-09-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2020-01-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-06"
+  ],
+  "firstPublicationDate": [
+    "2019-09-06"
+  ]
+}

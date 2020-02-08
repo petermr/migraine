@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6646427/results/search/country/results.xml">
+  <result pre="Department of Neuroscience, Headache Center, Bambino Gesù Children Hospital Rome" exact="Italy" post="[], 2 Child Neurology Unit, Systems Medicine Department, Tor"/>
+  <result pre="Systems Medicine Department, Tor Vergata University Hospital of Rome Rome" exact="Italy" post="[], 3 Center for Sensory-Motor Interaction, Aalborg University Aalborg"/>
+  <result pre="Italy [], 3 Center for Sensory-Motor Interaction, Aalborg University Aalborg" exact="Denmark" post="Edited by: Vincenzo Guidetti, Sapienza University of Rome, Italy"/>
+  <result pre="Aalborg Denmark Edited by: Vincenzo Guidetti, Sapienza University of Rome," exact="Italy" post="Reviewed by: Marco Carotenuto, University of Campania, Luigi Vanvitelli"/>
+  <result pre="of Campania, Luigi Vanvitelli Caserta, Italy; Aynur Özge, Mersin University," exact="Turkey" post="*Correspondence: Massimiliano Valeriani massimiliano.valeriani@opbg.net This article was submitted to"/>
+  <result pre="(72 and 82%, respectively) ( 12). Flunarizine is licensed in" exact="Italy" post="for patients over 18 years ( 7) and widely"/>
+  <result pre="of definitive data, Pizotifen is the only licensed drug in" exact="Italy" post="for prophylaxis in migraineurs children ( 7, 38). A"/>
+ </snippets>
+</snippetsTree>

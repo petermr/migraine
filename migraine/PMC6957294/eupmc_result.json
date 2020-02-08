@@ -1,0 +1,398 @@
+{
+  "id": [
+    "31929600"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31929600"
+  ],
+  "pmcid": [
+    "PMC6957294"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0227796"
+  ],
+  "title": [
+    "Predictive factors of first dosage intravenous immunoglobulin-related adverse effects in children."
+  ],
+  "authorString": [
+    "Kubota J, Hamano SI, Daida A, Hiwatari E, Ikemoto S, Hirata Y, Matsuura R, Hirano D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kubota J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Kubota"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1891-4746",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Neurology, Saitama Children's Medical Center, Saitama, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hamano SI"
+          ],
+          "firstName": [
+            "Shin-Ichiro"
+          ],
+          "lastName": [
+            "Hamano"
+          ],
+          "initials": [
+            "SI"
+          ],
+          "affiliation": [
+            "Division of Neurology, Saitama Children's Medical Center, Saitama, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Daida A"
+          ],
+          "firstName": [
+            "Atsuro"
+          ],
+          "lastName": [
+            "Daida"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Division of Neurology, Saitama Children's Medical Center, Saitama, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hiwatari E"
+          ],
+          "firstName": [
+            "Erika"
+          ],
+          "lastName": [
+            "Hiwatari"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Division of Neurology, Saitama Children's Medical Center, Saitama, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ikemoto S"
+          ],
+          "firstName": [
+            "Satoru"
+          ],
+          "lastName": [
+            "Ikemoto"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department for Child Health and Human Development, Saitama Children's Medical Center, Saitama, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hirata Y"
+          ],
+          "firstName": [
+            "Yuko"
+          ],
+          "lastName": [
+            "Hirata"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Division of Neurology, Saitama Children's Medical Center, Saitama, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsuura R"
+          ],
+          "firstName": [
+            "Ryuki"
+          ],
+          "lastName": [
+            "Matsuura"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Division of Neurology, Saitama Children's Medical Center, Saitama, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hirano D"
+          ],
+          "firstName": [
+            "Daishi"
+          ],
+          "lastName": [
+            "Hirano"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, The Jikei University School of Medicine, Tokyo, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1891-4746",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2896459"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0227796"
+  ],
+  "abstractText": [
+    "BACKGROUND:Intravenous immunoglobulin (IVIG) therapy is used in the treatment of various diseases, and IVIG-related adverse effects (IVIG-AEs) vary from mild to severe. However, the mechanisms underlying IVIG-AEs and the potential predictive factors are not clear. This study investigated whether certain IVIG-AEs can be predicted before IVIG administration. STUDY DESIGN AND METHODS:This retrospective cohort study at the Division of Neurology, Saitama Children's Medical Center included patients enrolled from 2008 to 2018 who were < 18 years old and received IVIG for the first time. IVIG-AEs were classified according to the Common Terminology Criteria for Adverse Events version 5.0. RESULTS:A total of 104 patients fulfilled the inclusion criteria. The rate of IVIG-AEs was 37.5% (39/104). The most frequent IVIG-AEs were fever (41.0% [16/39]) and headache (38.5% [15/39]). AEs were below grade 2 in all except one patient and there were no grade 4 AEs. High serum total protein (TP) level was significantly related to the occurrence of IVIG-AEs (odds ratio, 14.8; 95% confidence interval, 2.4-90.5; P < 0.01). The optimal cutoff TP level was 6.7 g/dL. Although low WBC count and immunoglobulin G level may be predictive risk factors of IVIG-AEs, it was not confirmed in this study. CONCLUSION:IVIG-AEs occurred in 37.5% of cases, and most were mild. TP was the best predictive risk factor of IVIG-AEs before IVIG administration. These results may aid in elucidating the mechanism underlying IVIG-AEs."
+  ],
+  "affiliation": [
+    "Division of Neurology, Saitama Children's Medical Center, Saitama, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0227796"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6957294"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6957294?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-14"
+  ],
+  "firstIndexDate": [
+    "2020-01-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-28"
+  ],
+  "dateOfRevision": [
+    "2020-01-27"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-13"
+  ],
+  "firstPublicationDate": [
+    "2020-01-13"
+  ]
+}

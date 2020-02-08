@@ -1,0 +1,577 @@
+{
+  "id": [
+    "30974836"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30974836"
+  ],
+  "pmcid": [
+    "PMC6520671"
+  ],
+  "doi": [
+    "10.3390/nu11040811"
+  ],
+  "title": [
+    "Potential Protective Mechanisms of Ketone Bodies in Migraine Prevention."
+  ],
+  "authorString": [
+    "Gross EC, Klement RJ, Schoenen J, D'Agostino DP, Fischer D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gross EC"
+          ],
+          "firstName": [
+            "Elena C"
+          ],
+          "lastName": [
+            "Gross"
+          ],
+          "initials": [
+            "EC"
+          ],
+          "affiliation": [
+            "Division of Paediatric Neurology, University Children's Hospital Basel (UKBB), University of Basel, 4056 Basel, Switzerland. elena.gross@oxfordalumni.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Klement RJ"
+          ],
+          "firstName": [
+            "Rainer J"
+          ],
+          "lastName": [
+            "Klement"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1401-4270",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Radiation Oncology, Leopoldina Hospital Schweinfurt, 97422 Schweinfurt, Germany. rainer_klement@gmx.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Schoenen J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Schoenen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6506-6460",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Headache Research Unit, University of Liège, Dept of Neurology-Citadelle Hospital, 4000 Liège, Belgium. jschoenen@uliege.be."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Agostino DP"
+          ],
+          "firstName": [
+            "Dominic P"
+          ],
+          "lastName": [
+            "D'Agostino"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "affiliation": [
+            "Department of Molecular Pharmacology and Physiology, Metabolic Medicine Research Laboratory, Morsani College of Medicine, University of South Florida, Tampa, FL 33612, USA. ddagosti@health.usf.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Fischer D"
+          ],
+          "firstName": [
+            "Dirk"
+          ],
+          "lastName": [
+            "Fischer"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Division of Paediatric Neurology, University Children's Hospital Basel (UKBB), University of Basel, 4056 Basel, Switzerland. dirk.fischer@ukbb.ch."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1401-4270",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6506-6460",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2800776"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "An increasing amount of evidence suggests that migraines are a response to a cerebral energy deficiency or oxidative stress levels that exceed antioxidant capacity. The ketogenic diet (KD), a diet mimicking fasting that leads to the elevation of ketone bodies (KBs), is a therapeutic intervention targeting cerebral metabolism that has recently shown great promise in the prevention of migraines. KBs are an alternative fuel source for the brain, and are thus likely able to circumvent some of the abnormalities in glucose metabolism and transport found in migraines. Recent research has shown that KBs-D-β-hydroxybutyrate in particular-are more than metabolites. As signalling molecules, they have the potential to positively influence other pathways commonly believed to be part of migraine pathophysiology, namely: mitochondrial functioning, oxidative stress, cerebral excitability, inflammation and the gut microbiome. This review will describe the mechanisms by which the presence of KBs, D-BHB in particular, could influence those migraine pathophysiological mechanisms. To this end, common abnormalities in migraines are summarised with a particular focus on clinical data, including phenotypic, biochemical, genetic and therapeutic studies. Experimental animal data will be discussed to elaborate on the potential therapeutic mechanisms of elevated KBs in migraine pathophysiology, with a particular focus on the actions of D-BHB. In complex diseases such as migraines, a therapy that can target multiple possible pathogenic pathways seems advantageous. Further research is needed to establish whether the absence/restriction of dietary carbohydrates, the presence of KBs, or both, are of primary importance for the migraine protective effects of the KD."
+  ],
+  "affiliation": [
+    "Division of Paediatric Neurology, University Children's Hospital Basel (UKBB), University of Basel, 4056 Basel, Switzerland. elena.gross@oxfordalumni.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ketone Bodies"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antioxidants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oxidative Stress"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protective Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diet, Ketogenic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Ketone Bodies",
+        "Beta-hydroxybutyrate",
+        "Ketosis",
+        "Ketogenic Diet",
+        "Migraine Prevention",
+        "Exogenous Ketone Bodies"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Ketone Bodies"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antioxidants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu11040811"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6520671"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6520671?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-09-03"
+  ],
+  "dateOfCreation": [
+    "2019-04-13"
+  ],
+  "firstIndexDate": [
+    "2019-04-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-10"
+  ],
+  "firstPublicationDate": [
+    "2019-04-10"
+  ]
+}

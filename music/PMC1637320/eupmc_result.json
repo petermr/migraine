@@ -1,0 +1,477 @@
+{
+  "id": [
+    "202447"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "202447"
+  ],
+  "pmcid": [
+    "PMC1637320"
+  ],
+  "doi": [
+    "10.1289/ehp.772075"
+  ],
+  "title": [
+    "Environmental effects on the central nervous system."
+  ],
+  "authorString": [
+    "Paulson GW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Paulson GW"
+          ],
+          "firstName": [
+            "G W"
+          ],
+          "lastName": [
+            "Paulson"
+          ],
+          "initials": [
+            "GW"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "539891"
+      ],
+      "dateOfPublication": [
+        "1977 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "1977"
+      ],
+      "printPublicationDate": [
+        "1977-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Environmental health perspectives"
+          ],
+          "ISOAbbreviation": [
+            "Environ. Health Perspect."
+          ],
+          "medlineAbbreviation": [
+            "Environ Health Perspect"
+          ],
+          "NLMid": [
+            "0330411"
+          ],
+          "ISSN": [
+            "0091-6765"
+          ],
+          "ESSN": [
+            "1552-9924"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1977"
+  ],
+  "pageInfo": [
+    "75-96"
+  ],
+  "abstractText": [
+    "The central nervous system (CNS) is designed to respond to the environment and is peculiarly vulnerable to many of the influences found in the environment. Utilizing an anatomical classification (cortex, cerebellum, peripheral nerves) major toxins and stresses are reviewed with selections from recent references. Selective vulnerability of certain areas to particular toxins is apparent at all levels of the CNS, although the amount of damage produced by any noxious agent depends on the age and genetic substrate of the subject. It is apparent that the effects of certain well known and long respected environmental toxins such as lead, mercury, etc., deserve continued surveillance. In addition, the overwhelming impact on the CNS of social damages such as trauma, alcohol, and tobacco cannot be ignored by environmentalists. The effect of the hospital and therapeutic environment has become apparent in view of increased awareness of iatrogenic disorders. The need for particular laboratory tests, for example, examination of CSF and nerve conduction toxicity studies, is suggested. Epidemics such as the recent solvent neuropathies suggest a need for continued animal studies that are chronic, as well as acute evaluations when predicting the potential toxic effects of industrial compounds."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Basal Ganglia"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Auditory Pathways"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viruses"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Muscular Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Central Nervous System Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cerebellar Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spinal Cord Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Peripheral Nervous System Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Eye Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environmental Health"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environmental Exposure"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1289/ehp.772075"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC1637320"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC1637320?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "1978-03-10"
+  ],
+  "dateOfCreation": [
+    "1977-10-01"
+  ],
+  "firstIndexDate": [
+    "2010-09-03"
+  ],
+  "fullTextReceivedDate": [
+    "2009-04-22"
+  ],
+  "dateOfRevision": [
+    "2018-08-31"
+  ],
+  "firstPublicationDate": [
+    "1977-10-01"
+  ]
+}

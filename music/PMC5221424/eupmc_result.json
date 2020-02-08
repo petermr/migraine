@@ -1,0 +1,488 @@
+{
+  "id": [
+    "26876889"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26876889"
+  ],
+  "pmcid": [
+    "PMC5221424"
+  ],
+  "doi": [
+    "10.1093/bib/bbv118"
+  ],
+  "title": [
+    "Translational bioinformatics in the era of real-time biomedical, health care and wellness data streams."
+  ],
+  "authorString": [
+    "Shameer K, Badgeley MA, Miotto R, Glicksberg BS, Morgan JW, Dudley JT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shameer K"
+          ],
+          "firstName": [
+            "Khader"
+          ],
+          "lastName": [
+            "Shameer"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Badgeley MA"
+          ],
+          "firstName": [
+            "Marcus A"
+          ],
+          "lastName": [
+            "Badgeley"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8064-9050",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Miotto R"
+          ],
+          "firstName": [
+            "Riccardo"
+          ],
+          "lastName": [
+            "Miotto"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Glicksberg BS"
+          ],
+          "firstName": [
+            "Benjamin S"
+          ],
+          "lastName": [
+            "Glicksberg"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4515-8090",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Morgan JW"
+          ],
+          "firstName": [
+            "Joseph W"
+          ],
+          "lastName": [
+            "Morgan"
+          ],
+          "initials": [
+            "JW"
+          ]
+        },
+        {
+          "fullName": [
+            "Dudley JT"
+          ],
+          "firstName": [
+            "Joel T"
+          ],
+          "lastName": [
+            "Dudley"
+          ],
+          "initials": [
+            "JT"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8064-9050",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4515-8090",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2513518"
+      ],
+      "dateOfPublication": [
+        "2017 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Briefings in bioinformatics"
+          ],
+          "ISOAbbreviation": [
+            "Brief. Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "Brief Bioinform"
+          ],
+          "NLMid": [
+            "100912837"
+          ],
+          "ISSN": [
+            "1467-5463"
+          ],
+          "ESSN": [
+            "1477-4054"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "105-124"
+  ],
+  "abstractText": [
+    "Monitoring and modeling biomedical, health care and wellness data from individuals and converging data on a population scale have tremendous potential to improve understanding of the transition to the healthy state of human physiology to disease setting. Wellness monitoring devices and companion software applications capable of generating alerts and sharing data with health care providers or social networks are now available. The accessibility and clinical utility of such data for disease or wellness research are currently limited. Designing methods for streaming data capture, real-time data aggregation, machine learning, predictive analytics and visualization solutions to integrate wellness or health monitoring data elements with the electronic medical records (EMRs) maintained by health care providers permits better utilization. Integration of population-scale biomedical, health care and wellness data would help to stratify patients for active health management and to understand clinically asymptomatic patients and underlying illness trajectories. In this article, we discuss various health-monitoring devices, their ability to capture the unique state of health represented in a patient and their application in individualized diagnostics, prognosis, clinical or wellness intervention. We also discuss examples of translational bioinformatics approaches to integrating patient-generated data with existing EMRs, personal health records, patient portals and clinical data repositories. Briefly, translational bioinformatics methods, tools and resources are at the center of these advances in implementing real-time biomedical and health care analytics in the clinical setting. Furthermore, these advances are poised to play a significant role in clinical decision-making and implementation of data-driven medicine and wellness care."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "UL1 TR001433"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UL1 TR000067"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DK098242"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30 ES023515"
+          ],
+          "agency": [
+            "NIEHS NIH HHS"
+          ],
+          "acronym": [
+            "ES"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 CA189201"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Data Collection"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Clinical Decision Support",
+        "Health Information Technology",
+        "Individualized Medicine",
+        "Health Monitoring",
+        "Wearables",
+        "Scientific Wellness",
+        "Wellcare"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/bib/bbv118"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5221424"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5221424?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "22"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-12-08"
+  ],
+  "dateOfCreation": [
+    "2016-02-16"
+  ],
+  "firstIndexDate": [
+    "2016-02-16"
+  ],
+  "fullTextReceivedDate": [
+    "2017-01-23"
+  ],
+  "dateOfRevision": [
+    "2018-08-09"
+  ],
+  "electronicPublicationDate": [
+    "2016-02-14"
+  ],
+  "firstPublicationDate": [
+    "2016-02-14"
+  ]
+}

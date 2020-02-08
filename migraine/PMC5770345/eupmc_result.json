@@ -1,0 +1,598 @@
+{
+  "id": [
+    "29340791"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29340791"
+  ],
+  "pmcid": [
+    "PMC5770345"
+  ],
+  "doi": [
+    "10.1186/s10194-018-0835-5"
+  ],
+  "title": [
+    "Treatment of disabling headache with greater occipital nerve injections in a large population of childhood and adolescent patients: a service evaluation."
+  ],
+  "authorString": [
+    "Puledda F, Goadsby PJ, Prabhakar P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Puledda F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Puledda"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1933-4049",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Headache Group, Department of Basic and Clinical Neuroscience, King's College London, and NIHR-Wellcome Trust King's Clinical Research Facility, Wellcome Foundation Building, King's College Hospital, London, SE5 9PJ, UK. Francesca.puledda@kcl.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Goadsby PJ"
+          ],
+          "firstName": [
+            "Peter J"
+          ],
+          "lastName": [
+            "Goadsby"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3260-5904",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Headache Group, Department of Basic and Clinical Neuroscience, King's College London, and NIHR-Wellcome Trust King's Clinical Research Facility, Wellcome Foundation Building, King's College Hospital, London, SE5 9PJ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Prabhakar P"
+          ],
+          "firstName": [
+            "Prab"
+          ],
+          "lastName": [
+            "Prabhakar"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Paediatric Neurology, Great Ormond Hospital for Children NHS Foundation Trust, London, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3260-5904",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1933-4049",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2638720"
+      ],
+      "dateOfPublication": [
+        "2018 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "5"
+  ],
+  "abstractText": [
+    "Pediatric headache disorders can be extremely disabling, with marked reduction in the quality of life of children and their carers. Evidenced-based options for the treatment of primary headache disorders with preventive medication is limited and clinical outcomes are often unsatisfactory. Greater occipital nerve injections represent a rapid and well-tolerated therapeutic option, which is widely used in clinical practice in adults, and has previously shown a good outcome in a pediatric population.This service evaluation reviewed greater occipital nerve injections performed unilaterally with 30 mg 1% lidocaine and 40 mg methylprednisolone, to treat disabling headache disorders in children and adolescents.We analyzed a total of 159 patients who received 380 injections. Of the population, 79% had chronic migraine, 14% new daily persistent headache, 4% a trigeminal autonomic cephalalgia, 3% secondary headache and one patient had chronic tension-type headache. An improvement after injection was seen in 66% (n = 105) of subjects, lasting on average 9 ± 4 weeks. Improvement was seen in 68% of patients with chronic migraine, 67% with a trigeminal autonomic cephalalgia and 59% with new daily persistent headache. Side effects were reported in 8% and were mild and transient. Older age, female gender, chronic migraine, increased number of past preventive use, medication overuse and developing side effects were all associated with an increased likelihood of positive treatment outcome.This large single centre service evaluation confirms that unilateral injection of the greater occipital nerve is a safe, rapid-onset and effective treatment strategy in disabling headache disorders in children, with a range of diagnoses and severity of the condition, and with minimal side effects."
+  ],
+  "affiliation": [
+    "Headache Group, Department of Basic and Clinical Neuroscience, King's College London, and NIHR-Wellcome Trust King's Clinical Research Facility, Wellcome Foundation Building, King's College Hospital, London, SE5 9PJ, UK. Francesca.puledda@kcl.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spinal Nerves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lidocaine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Methylprednisolone"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache Disorders, Primary"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trigeminal Autonomic Cephalalgias"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cluster Headache",
+        "Chronic Migraine",
+        "New Daily Persistent Headache",
+        "Pediatric Headache",
+        "Greater Occipital Nerve Injection",
+        "Trigeminal Autonomic Cephalalgia"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Lidocaine"
+          ],
+          "registryNumber": [
+            "98PI200987"
+          ]
+        },
+        {
+          "name": [
+            "Methylprednisolone"
+          ],
+          "registryNumber": [
+            "X4W7ZR7023"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-018-0835-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5770345"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5770345?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-06-26"
+  ],
+  "dateOfCreation": [
+    "2018-01-18"
+  ],
+  "firstIndexDate": [
+    "2018-01-17"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-31"
+  ],
+  "dateOfRevision": [
+    "2018-09-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-16"
+  ],
+  "firstPublicationDate": [
+    "2018-01-16"
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "id": [
+    "31523519"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31523519"
+  ],
+  "pmcid": [
+    "PMC6716500"
+  ],
+  "doi": [
+    "10.7717/peerj.7585"
+  ],
+  "title": [
+    "Prevalence of near-death experiences in people with and without REM sleep intrusion."
+  ],
+  "authorString": [
+    "Kondziella D, Dreier JP, Olsen MH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kondziella D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Kondziella"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Neurology, Rigshospitalet, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Dreier JP"
+          ],
+          "firstName": [
+            "Jens P"
+          ],
+          "lastName": [
+            "Dreier"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Center for Stroke Research Berlin, Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Olsen MH"
+          ],
+          "firstName": [
+            "Markus Harboe"
+          ],
+          "lastName": [
+            "Olsen"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "affiliation": [
+            "Department of Neuroanesthesiology, Rigshospitalet, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2769901"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ISSN": [
+            "2167-8359"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e7585"
+  ],
+  "abstractText": [
+    "Background:The origin and prevalence of near-death experiences are unknown. A recent study suggested a link with REM sleep intrusion but was criticized for its selection of control participants. We therefore assessed the association of REM intrusion and near-death experiences with different methods. Methods:Using a crowd-sourcing platform, we recruited 1,034 lay people from 35 countries to investigate the prevalence of near-death experiences and self-reported REM sleep intrusion. Reports were validated using the Greyson Near-Death Experiences Scale (GNDES) with ≥7 points as cut-off for near-death experiences. Results:Near-death experiences were reported by 106 of 1,034 participants (10%; 95% CI [8.5-12%]). Evidence of REM intrusion was more common in people with near-death experiences (n = 50∕106; 47%) than in people with experiences with 6 points or less on the GNDES (n = 47∕183; 26%) or in those without such experiences (n = 107∕744; 14%; p =  < 0.0001). Following multivariate regression analysis to adjust for age, gender, place of residence, employment and perceived danger, this association remained highly significant; people with REM intrusion were more likely to exhibit near-death experiences than those without (OR 2.85; 95% CI [1.68-4.88]; p = 0.0001). Discussion:Using a crowd-sourcing approach, we found a prevalence of near-death experiences of 10%. While age, gender, place of residence, employment status and perceived threat do not seem to influence the prevalence of near-death experiences, we confirmed a possible association with REM sleep intrusion."
+  ],
+  "affiliation": [
+    "Department of Neurology, Rigshospitalet, University of Copenhagen, Copenhagen, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sleep",
+        "Brain injury",
+        "Consciousness",
+        "Drowning",
+        "Cardiac arrest",
+        "Coma",
+        "Intensive Care",
+        "Rapid Eye Movement Sleep",
+        "Disorders Of Consciousness",
+        "Out-of-body Experience"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.7585"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6716500"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6716500?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR69799"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-17"
+  ],
+  "firstIndexDate": [
+    "2019-09-17"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-09-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-27"
+  ],
+  "firstPublicationDate": [
+    "2019-08-27"
+  ]
+}

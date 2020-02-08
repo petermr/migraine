@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6514150/results/search/funders/results.xml">
+  <result pre="has received reimbursement for developing educational presentations from Merck-Serono Argentina," exact="Genzyme" post="Argentina and Novartis Argentina, and Biogen-Idec Argentina, and travel/accommodation"/>
+  <result pre="for developing educational presentations from Merck-Serono Argentina, Genzyme Argentina and" exact="Novartis" post="Argentina, and Biogen-Idec Argentina, and travel/accommodation stipends from Biogen-Idec"/>
+  <result pre="travel/accommodation stipends from Biogen-Idec Argentina, Teva-Tuteur Argentina, Merck-Serono Argentina, and" exact="Novartis" post="Argentina. JC is a board member of Merck-Serono Argentina,"/>
+  <result pre="member of Merck-Serono Argentina, Biogen-Idec LATAM, and Merck-Serono LATAM, and" exact="Genzyme" post="global. JC is a board member of Merck-Serono Argentina,"/>
+  <result pre="Genzyme global. JC is a board member of Merck-Serono Argentina," exact="Novartis" post="Argentina, Genzyme LATAM, Genzyme global, Biogen-Idec LATAM, and Merck-Serono"/>
+  <result pre="JC is a board member of Merck-Serono Argentina, Novartis Argentina," exact="Genzyme" post="LATAM, Genzyme global, Biogen-Idec LATAM, and Merck-Serono LATAM. He"/>
+  <result pre="a board member of Merck-Serono Argentina, Novartis Argentina, Genzyme LATAM," exact="Genzyme" post="global, Biogen-Idec LATAM, and Merck-Serono LATAM. He is part"/>
+  <result pre="developing educational presentations for Merck-Serono Argentina, Merck-Serono LATAM, Biogen-Idec Argentina," exact="Genzyme" post="Argentina, Novartis Argentina, Novartis LATAM, Novartis Global, and TEVA"/>
+  <result pre="presentations for Merck-Serono Argentina, Merck-Serono LATAM, Biogen-Idec Argentina, Genzyme Argentina," exact="Novartis" post="Argentina, Novartis LATAM, Novartis Global, and TEVA Argentina as"/>
+  <result pre="Merck-Serono Argentina, Merck-Serono LATAM, Biogen-Idec Argentina, Genzyme Argentina, Novartis Argentina," exact="Novartis" post="LATAM, Novartis Global, and TEVA Argentina as well as"/>
+  <result pre="Merck-Serono LATAM, Biogen-Idec Argentina, Genzyme Argentina, Novartis Argentina, Novartis LATAM," exact="Novartis" post="Global, and TEVA Argentina as well as professional travel/accommodations"/>
+ </snippets>
+</snippetsTree>

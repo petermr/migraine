@@ -1,0 +1,659 @@
+{
+  "id": [
+    "30893319"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30893319"
+  ],
+  "pmcid": [
+    "PMC6426199"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0212785"
+  ],
+  "title": [
+    "Beta-blockers for the prevention of headache in adults, a systematic review and meta-analysis."
+  ],
+  "authorString": [
+    "Jackson JL, Kuriyama A, Kuwatsuka Y, Nickoloff S, Storch D, Jackson W, Zhang ZJ, Hayashino Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jackson JL"
+          ],
+          "firstName": [
+            "Jeffrey L"
+          ],
+          "lastName": [
+            "Jackson"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9820-5834",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medicine, Zablocki VA Medical Center, Milwaukee, WI, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuriyama A"
+          ],
+          "firstName": [
+            "Akira"
+          ],
+          "lastName": [
+            "Kuriyama"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of General Medicine, Kurashiki Central Hospital, Okayama, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuwatsuka Y"
+          ],
+          "firstName": [
+            "Yachiyo"
+          ],
+          "lastName": [
+            "Kuwatsuka"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Medicine, Nagoya University Hospital, Nagoya, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nickoloff S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Nickoloff"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Medicine, Zablocki VA Medical Center, Milwaukee, WI, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Storch D"
+          ],
+          "firstName": [
+            "Derek"
+          ],
+          "lastName": [
+            "Storch"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Medicine, Zablocki VA Medical Center, Milwaukee, WI, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Jackson W"
+          ],
+          "firstName": [
+            "Wilkins"
+          ],
+          "lastName": [
+            "Jackson"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Biology, University of Wisconsin-Milwaukee, Milwaukee, WI, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang ZJ"
+          ],
+          "firstName": [
+            "Zhi-Jiang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "ZJ"
+          ],
+          "affiliation": [
+            "Department of Epidemiology and Biostatistics, School of Health Sciences, Wuhan University, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hayashino Y"
+          ],
+          "firstName": [
+            "Yasuaki"
+          ],
+          "lastName": [
+            "Hayashino"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Endocrinology, Tenri Hospital, Nara, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9820-5834",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2787621"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0212785"
+  ],
+  "abstractText": [
+    "BACKGROUND:Headaches are a common source of pain and suffering. The study's purpose was to assess beta-blockers efficacy in preventing migraine and tension-type headache. METHODS:Cochrane Register of Controlled Trials; MEDLINE; EMBASE; ISI Web of Science, clinical trial registries, CNKI, Wanfang and CQVIP were searched through 21 August 2018, for randomized trials in which at least one comparison was a beta-blocker for the prevention of migraine or tension-type headache in adults. The primary outcome, headache frequency per month, was extracted in duplicate and pooled using random effects models. DATA SYNTHESIS:This study included 108 randomized controlled trials, 50 placebo-controlled and 58 comparative effectiveness trials. Compared to placebo, propranolol reduced episodic migraine headaches by 1.5 headaches/month at 8 weeks (95% CI: -2.3 to -0.65) and was more likely to reduce headaches by 50% (RR: 1.4, 95% CI: 1.1-1.7). Trial Sequential Analysis (TSA) found that these outcomes were unlikely to be due to a Type I error. A network analysis suggested that beta-blocker's benefit for episodic migraines may be a class effect. Trials comparing beta-blockers to other interventions were largely single, underpowered trials. Propranolol was comparable to other medications known to be effective including flunarizine, topiramate and valproate. For chronic migraine, propranolol was more likely to reduce headaches by at least 50% (RR: 2.0, 95% CI: 1.0-4.3). There was only one trial of beta-blockers for tension-type headache. CONCLUSIONS:There is high quality evidence that propranolol is better than placebo for episodic migraine headache. Other comparisons were underpowered, rated as low-quality based on only including single trials, making definitive conclusions about comparative effectiveness impossible. There were few trials examining beta-blocker effectiveness for chronic migraine or tension-type headache though there was limited evidence of benefit. REGISTRATION:Prospero (ID: CRD42017050335)."
+  ],
+  "affiliation": [
+    "Department of Medicine, Zablocki VA Medical Center, Milwaukee, WI, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "research-article",
+        "Systematic Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Propranolol"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Valproic Acid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adrenergic beta-Antagonists"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tension-Type Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Topiramate"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Adrenergic beta-Antagonists"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "topiramate"
+          ],
+          "registryNumber": [
+            "0H73WJJ391"
+          ]
+        },
+        {
+          "name": [
+            "Valproic Acid"
+          ],
+          "registryNumber": [
+            "614OI1Z5WI"
+          ]
+        },
+        {
+          "name": [
+            "Propranolol"
+          ],
+          "registryNumber": [
+            "9Y8NXQ24VQ"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0212785"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6426199"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6426199?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc0"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-25"
+  ],
+  "dateOfCreation": [
+    "2019-03-21"
+  ],
+  "firstIndexDate": [
+    "2019-03-21"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-05"
+  ],
+  "dateOfRevision": [
+    "2019-11-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-20"
+  ],
+  "firstPublicationDate": [
+    "2019-03-20"
+  ]
+}

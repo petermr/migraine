@@ -1,0 +1,291 @@
+{
+  "id": [
+    "PMC6552210"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6552210"
+  ],
+  "doi": [
+    "10.1210/js.2019-SAT-108"
+  ],
+  "title": [
+    "SAT-108 Effects of Bariatric and Non-Bariatric Weight Loss on Migraine Headache in Obesity. A Systematic Review and Meta-Analysis."
+  ],
+  "authorString": [
+    "Di Vincenzo A, Beghetto M, Vettor R, Rossato M, Bond D, Pagano C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Di Vincenzo A"
+          ],
+          "firstName": [
+            "Angelo"
+          ],
+          "lastName": [
+            "Di Vincenzo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "University of Padova, Padova, , Italy"
+          ]
+        },
+        {
+          "fullName": [
+            "Beghetto M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Beghetto"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Vettor R"
+          ],
+          "firstName": [
+            "Roberto"
+          ],
+          "lastName": [
+            "Vettor"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Rossato M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Rossato"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Bond D"
+          ],
+          "firstName": [
+            "Dale"
+          ],
+          "lastName": [
+            "Bond"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Pagano C"
+          ],
+          "firstName": [
+            "Claudio"
+          ],
+          "lastName": [
+            "Pagano"
+          ],
+          "initials": [
+            "C"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2828512"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of the Endocrine Society"
+          ],
+          "ISOAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "medlineAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "NLMid": [
+            "101697997"
+          ],
+          "ISSN": [
+            "2472-1972"
+          ],
+          "ESSN": [
+            "2472-1972"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Abstract  Migraine and obesity are highly prevalent and chronic diseases. Evidence has shown that obesity may influence frequency and severity of migraine attacks and is a risk factor for migraine progression. Several studies have suggested that weight loss, achieved via surgical and non-surgical means, may improve migraine. . To perform a meta-analysis on the effect of weight loss obtained by bariatric surgery or behavioral intervention on migraine frequency and indices of severity.  A search through Pubmed/Medline, ISI-web of knowledge and Google Scholar retrieved 10 studies (n=473) that were used for meta-analysis. Selected outcomes were Headache Frequency, Pain Intensity, Disability and Attack Duration while BMI, BMI change, type of intervention (bariatric vs behavioral), type of population (adult vs pediatric) were used for moderators and meta-regression analysis. . Random effect meta-analysis shows that weight loss yields significant reductions in Headache Frequency (ES -0.65, 95% C.I. -0.88 to -0.42, p<0.0001), Pain Intensity (ES -0.81, 95% C.I. -1.19 to -0.44, p<0.0001), Disability (ES -0.61, 95% C.I. -0.77 to -0.45, p<0.0001) and Attack Duration (ES -0.35, 95% C.I. -0.62 to -0.08, p=0.01). Moderators and meta-regression analysis showed that improvement in migraine was not correlated either to the degree of obesity at baseline or the degree of weight reduction. In addition, the effect on migraine was similar when weight reduction was obtained with bariatric surgery or behavioral intervention and was comparable in adult and pediatric populations. . Weight loss improves parameters of migraine headache in patients who have obesity independently of the type of intervention and the amount of weight loss. The mechanisms underlying the link between obesity, weight loss and migraine headache are still largely unclear although it is possible that alterations in chronic inflammation, adipocytokines, obesity comorbidities (i.e. OSAS), and overlapping behavioral and psychological risk factors may play a role."
+  ],
+  "affiliation": [
+    "University of Padova, Padova, , Italy"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6552210/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6552210"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-16"
+  ],
+  "firstIndexDate": [
+    "2019-06-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-16"
+  ],
+  "dateOfRevision": [
+    "2019-09-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-30"
+  ],
+  "firstPublicationDate": [
+    "2019-04-30"
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6828958/results/search/country/results.xml">
+  <result pre="Disorders Clinic, Department of Neurosciences, Bambino Gesù Children’s Hospital Rome" exact="Italy" post="[], 2 Department of System Medicine, University of Rome"/>
+  <result pre="Department of System Medicine, University of Rome Tor Vergata Rome" exact="Italy" post="[], 3 University Hospital Pediatric Department, Bambino Gesù Children’s"/>
+  <result pre="Bambino Gesù Children’s Hospital, University of Rome Tor Vergata Rome" exact="Italy" post="[], 4 Department of Neuroscience, Unit of Neuromuscular and"/>
+  <result pre="of Neuromuscular and Neurodegenerative Disease, Bambino Gesù Children’s Hospital Rome" exact="Italy" post="[], 5 Department of Sciences, Roma Tre University Rome"/>
+  <result pre="Italy [], 5 Department of Sciences, Roma Tre University Rome" exact="Italy" post="Edited by: Merlin G. Butler, University of Kansas Medical"/>
+  <result pre="Edited by: Merlin G. Butler, University of Kansas Medical Center," exact="United States" post="Reviewed by: Maria Paola Lombardi, University of Amsterdam, Netherlands;"/>
+  <result pre="Amsterdam, Netherlands; Nelson L. S. Tang, The Chinese University of" exact="Hong Kong," post="China *Correspondence: Alessandro Capuano, alessandro.capuano@opbg.net This article was submitted"/>
+  <result pre="Nelson L. S. Tang, The Chinese University of Hong Kong," exact="China" post="*Correspondence: Alessandro Capuano, alessandro.capuano@opbg.net This article was submitted to"/>
+ </snippets>
+</snippetsTree>

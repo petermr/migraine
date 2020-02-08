@@ -1,0 +1,847 @@
+{
+  "id": [
+    "30322380"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30322380"
+  ],
+  "pmcid": [
+    "PMC6190553"
+  ],
+  "doi": [
+    "10.1186/s12883-018-1149-6"
+  ],
+  "title": [
+    "Comorbidity of migraine with ADHD in adults."
+  ],
+  "authorString": [
+    "Hansen TF, Hoeffding LK, Kogelman L, Haspang TM, Ullum H, Sørensen E, Erikstrup C, Pedersen OB, Nielsen KR, Hjalgrim H, Paarup HM, Werge T, Burgdorf K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hansen TF"
+          ],
+          "firstName": [
+            "Thomas Folkmann"
+          ],
+          "lastName": [
+            "Hansen"
+          ],
+          "initials": [
+            "TF"
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, University Hospital of Copenhagen, Copenhagen, Denmark. Thomas.hansen@regionh.dk."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoeffding LK"
+          ],
+          "firstName": [
+            "Louise K"
+          ],
+          "lastName": [
+            "Hoeffding"
+          ],
+          "initials": [
+            "LK"
+          ],
+          "affiliation": [
+            "Department of Clinical Immunology, the Blood Bank, Rigshospitalet, University Hospital of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Kogelman L"
+          ],
+          "firstName": [
+            "Lisette"
+          ],
+          "lastName": [
+            "Kogelman"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9782-7810",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, University Hospital of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Haspang TM"
+          ],
+          "firstName": [
+            "Thilde Marie"
+          ],
+          "lastName": [
+            "Haspang"
+          ],
+          "initials": [
+            "TM"
+          ],
+          "affiliation": [
+            "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, University Hospital of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Ullum H"
+          ],
+          "firstName": [
+            "Henrik"
+          ],
+          "lastName": [
+            "Ullum"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7306-9058",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Clinical Immunology, the Blood Bank, Rigshospitalet, University Hospital of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Sørensen E"
+          ],
+          "firstName": [
+            "Erik"
+          ],
+          "lastName": [
+            "Sørensen"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Clinical Immunology, the Blood Bank, Rigshospitalet, University Hospital of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Erikstrup C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Erikstrup"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6551-6647",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Clinical Immunology, Aarhus University Hospital, Aarhus, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Pedersen OB"
+          ],
+          "firstName": [
+            "Ole Birger"
+          ],
+          "lastName": [
+            "Pedersen"
+          ],
+          "initials": [
+            "OB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2312-5976",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Clinical Immunology, Naestved Hospital, Naestved, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Nielsen KR"
+          ],
+          "firstName": [
+            "Kaspar René"
+          ],
+          "lastName": [
+            "Nielsen"
+          ],
+          "initials": [
+            "KR"
+          ],
+          "affiliation": [
+            "Department of Clinical Immunology, Aalborg University Hospital, Aalborg, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Hjalgrim H"
+          ],
+          "firstName": [
+            "Henrik"
+          ],
+          "lastName": [
+            "Hjalgrim"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Epidemiology Research, Statens Serum Institut, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Paarup HM"
+          ],
+          "firstName": [
+            "Helene M"
+          ],
+          "lastName": [
+            "Paarup"
+          ],
+          "initials": [
+            "HM"
+          ],
+          "affiliation": [
+            "Department of Clinical Immunology, Odense University Hospital, Odense, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Werge T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Werge"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6703-7762",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Biological Psychiatry, Mental Health Centre Sct. Hans, Copenhagen University Hospital, Roskilde, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Burgdorf K"
+          ],
+          "firstName": [
+            "Kristoffer"
+          ],
+          "lastName": [
+            "Burgdorf"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5814-6844",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Clinical Immunology, the Blood Bank, Rigshospitalet, University Hospital of Copenhagen, Copenhagen, Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9782-7810",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6551-6647",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5814-6844",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7306-9058",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2312-5976",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6703-7762",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1281-1567",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2734523"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neurology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurol"
+          ],
+          "NLMid": [
+            "100968555"
+          ],
+          "ISSN": [
+            "1471-2377"
+          ],
+          "ESSN": [
+            "1471-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "147"
+  ],
+  "abstractText": [
+    "BACKGROUND:Migraine and Attention Deficit and Hyperactivity Disorder (ADHD) have been found to be associated in child and adolescent cohorts; however, the association has not been assessed in adults or otherwise healthy population. Assessing the comorbidity between ADHD and migraine may clarify the etiopathology of both diseases. Thus, the objective is to assess whether migraine (with and without visual disturbances) and ADHD are comorbid disorders. METHODS:Participants from the Danish Blood Donor Study (N = 26,456, age 18-65, 46% female) were assessed for migraine and ADHD using the ASRS ver 1.1 clinically validated questionnaire and self-reported migraine in a cross-sectional study. Logistic regression was used to examine the comorbidity between migraine and ADHD, and their associated endophenotypes. RESULTS:Migraine was strongly associated with ADHD (OR = 1.8, 95% CI = 1.5-2.1), (238/6152 vs 690/19,376). There was a significant interaction between age and gender, with comorbidity increasing with age and female sex. Post-hoc analysis showed that migraine with visual disturbance was generally associated with a marginally higher risk of ADHD and this was independent of ADHD endophenotypes. CONCLUSION:Migraine and ADHD were demonstrated to be comorbid disorders; the association with ADHD was most prominent for participants with migraine with visual disturbances. Future studies will elucidate which genetic and environmental factors contribute to migraine-ADHD comorbidity."
+  ],
+  "affiliation": [
+    "Danish Headache Center, Department of Neurology, Rigshospitalet Glostrup, University Hospital of Copenhagen, Copenhagen, Denmark. Thomas.hansen@regionh.dk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R191-2015-844"
+          ],
+          "agency": [
+            "Lundbeck Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R219-2016-1030"
+          ],
+          "agency": [
+            "Lundbeck Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "09-069412"
+          ],
+          "agency": [
+            "Sundhed og Sygdom, Det Frie Forskningsråd"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R129-A3973"
+          ],
+          "agency": [
+            "Region Hovedstaden"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R219-2016-1030"
+          ],
+          "agency": [
+            "Lundbeckfonden"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CHEAD"
+          ],
+          "agency": [
+            "Candy foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PI S�ren Brunak"
+          ],
+          "agency": [
+            "Novo Nordisk Foundation Center for Protein Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R248-2017-2003"
+          ],
+          "agency": [
+            "Lundbeck Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R209-2015-3500"
+          ],
+          "agency": [
+            "Lundbeck Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "1333-00275A"
+          ],
+          "agency": [
+            "Sundhed og Sygdom, Det Frie Forskningsråd"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Logistic Models"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Attention Deficit Disorder with Hyperactivity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Comorbidity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Self Report"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Comorbidity",
+        "Attention Deficiency And Hyperactivity Disorder"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12883-018-1149-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6190553"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6190553?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-10-17"
+  ],
+  "firstIndexDate": [
+    "2018-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-30"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-16"
+  ],
+  "firstPublicationDate": [
+    "2018-10-16"
+  ]
+}

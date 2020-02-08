@@ -1,0 +1,429 @@
+{
+  "id": [
+    "31827883"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31827883"
+  ],
+  "pmcid": [
+    "PMC6902310"
+  ],
+  "doi": [
+    "10.2217/cnc-2019-0005"
+  ],
+  "title": [
+    "Representation of concussion subtypes in common postconcussion symptom-rating scales."
+  ],
+  "authorString": [
+    "Lumba-Brown A, Ghajar J, Cornwell J, Bloom OJ, Chesnutt J, Clugston JR, Kolluri R, Leddy JJ, Teramoto M, Gioia G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lumba-Brown A"
+          ],
+          "firstName": [
+            "Angela"
+          ],
+          "lastName": [
+            "Lumba-Brown"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9102-8791",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Emergency Medicine, Stanford University, Stanford, CA 94304, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghajar J"
+          ],
+          "firstName": [
+            "Jamshid"
+          ],
+          "lastName": [
+            "Ghajar"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, Brain Performance Center, Stanford University, Stanford, CA 94304 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cornwell J"
+          ],
+          "firstName": [
+            "Jordan"
+          ],
+          "lastName": [
+            "Cornwell"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Emergency Medicine, Stanford University, Stanford, CA 94304, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bloom OJ"
+          ],
+          "firstName": [
+            "O Josh"
+          ],
+          "lastName": [
+            "Bloom"
+          ],
+          "initials": [
+            "OJ"
+          ],
+          "affiliation": [
+            "Carolina Sports Concussion Clinic, Cary, NC 27513, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chesnutt J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Chesnutt"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Departments of Family Medicine, Neurology, Oregon Health & Science University, Portland, OR & Rebound Orthopedics & Neurosurgery, Portland, OR 97239, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Clugston JR"
+          ],
+          "firstName": [
+            "James R"
+          ],
+          "lastName": [
+            "Clugston"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "Departments of Community Health & Family Medicine & Neurology, University of Florida, Gainesville, FL 32611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kolluri R"
+          ],
+          "firstName": [
+            "Raina"
+          ],
+          "lastName": [
+            "Kolluri"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, Brain Performance Center, Stanford University, Stanford, CA 94304, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Leddy JJ"
+          ],
+          "firstName": [
+            "John J"
+          ],
+          "lastName": [
+            "Leddy"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "UBMD Department of Orthopaedics & Sports Medicine, Jacobs School of Medicine & Biomedical Sciences, State University of New York at Buffalo, Buffalo, NY 14203, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Teramoto M"
+          ],
+          "firstName": [
+            "Masaru"
+          ],
+          "lastName": [
+            "Teramoto"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Division of Physical Medicine & Rehabilitation, University of Utah, Salt Lake City, UT 84108, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gioia G"
+          ],
+          "firstName": [
+            "Gerard"
+          ],
+          "lastName": [
+            "Gioia"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Division of Pediatric Neuropsychology, Safe Concussion Outcome Recovery & Education Program, Children's National Health System, Departments of Pediatrics & Psychiatry & Behavioral Sciences, George Washington University School of Medicine, Rockville, MD 20850, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9102-8791",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2891780"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Concussion (London, England)"
+          ],
+          "ISOAbbreviation": [
+            "Concussion"
+          ],
+          "medlineAbbreviation": [
+            "Concussion"
+          ],
+          "NLMid": [
+            "101672433"
+          ],
+          "ISSN": [
+            "2056-3299"
+          ],
+          "ESSN": [
+            "2056-3299"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "CNC65"
+  ],
+  "abstractText": [
+    "Aim:Postconcussion symptom-rating scales are frequently used concussion assessment tools that do not align directly with new expert, consensus-based concussion subtype classification systems. This may result in delays in concussion diagnosis, subspecialty referral and rehabilitative strategies. Objective:To determine the representation of subtype-directed symptomatology in common postconcussion symptom-rating scales. Methods:Literature review and expert consensus were used to compile commonly used concussion symptom-rating scales. Statistics were generated to describe the degree of representation of the consensus symptom set. Results:The percentage of symptoms representing each subtype/associated condition is low overall (15-26%). The ocular-motor (11%) and vestibular subtypes (19%) and cervical strain (5%)-associated condition were the most under-represented and also had the greatest unmet needs. Conclusion:Concussion subtypes do not have equal representation on commonly used concussion symptom-rating scales. There is a need for a subtype-directed symptom assessment to allow for increased accuracy of diagnosis and to guide management."
+  ],
+  "affiliation": [
+    "Department of Emergency Medicine, Stanford University, Stanford, CA 94304, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vestibular",
+        "Concussion",
+        "Oculomotor",
+        "Postconcussion Symptoms"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2217/cnc-2019-0005"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6902310"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6902310?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-13"
+  ],
+  "firstIndexDate": [
+    "2019-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-12-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-01"
+  ],
+  "firstPublicationDate": [
+    "2019-11-01"
+  ]
+}

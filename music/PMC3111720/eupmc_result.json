@@ -1,0 +1,389 @@
+{
+  "id": [
+    "21673981"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21673981"
+  ],
+  "pmcid": [
+    "PMC3111720"
+  ],
+  "doi": [
+    "10.2174/1874205X01004010100"
+  ],
+  "title": [
+    "Anthroposophic therapy for migraine: a two-year prospective cohort study in routine outpatient settings."
+  ],
+  "authorString": [
+    "Hamre HJ, Witt CM, Kienle GS, Glockmann A, Ziegler R, Rivoir A, Willich SN, Kiene H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hamre HJ"
+          ],
+          "firstName": [
+            "Harald J"
+          ],
+          "lastName": [
+            "Hamre"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "affiliation": [
+            "Institute for Applied Epistemology and Medical Methodology, Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Witt CM"
+          ],
+          "firstName": [
+            "Claudia M"
+          ],
+          "lastName": [
+            "Witt"
+          ],
+          "initials": [
+            "CM"
+          ]
+        },
+        {
+          "fullName": [
+            "Kienle GS"
+          ],
+          "firstName": [
+            "Gunver S"
+          ],
+          "lastName": [
+            "Kienle"
+          ],
+          "initials": [
+            "GS"
+          ]
+        },
+        {
+          "fullName": [
+            "Glockmann A"
+          ],
+          "firstName": [
+            "Anja"
+          ],
+          "lastName": [
+            "Glockmann"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Ziegler R"
+          ],
+          "firstName": [
+            "Renatus"
+          ],
+          "lastName": [
+            "Ziegler"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Rivoir A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Rivoir"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Willich SN"
+          ],
+          "firstName": [
+            "Stefan N"
+          ],
+          "lastName": [
+            "Willich"
+          ],
+          "initials": [
+            "SN"
+          ]
+        },
+        {
+          "fullName": [
+            "Kiene H"
+          ],
+          "firstName": [
+            "Helmut"
+          ],
+          "lastName": [
+            "Kiene"
+          ],
+          "initials": [
+            "H"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "1717738"
+      ],
+      "dateOfPublication": [
+        "2010 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The open neurology journal"
+          ],
+          "ISOAbbreviation": [
+            "Open Neurol J"
+          ],
+          "medlineAbbreviation": [
+            "Open Neurol J"
+          ],
+          "NLMid": [
+            "101480493"
+          ],
+          "ISSN": [
+            "1874-205X"
+          ],
+          "ESSN": [
+            "1874-205X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "100-110"
+  ],
+  "abstractText": [
+    "BACKGROUND AND METHODS:Anthroposophic treatment for migraine is provided by physicians and includes special artistic and physical therapies and special medications. We conducted a prospective cohort study of 45 consecutive adult outpatients (89% women) starting anthroposophic treatment for migraine under routine conditions. Main outcomes were Average Migraine Severity (physician and patient ratings 0-10, primary outcome), Symptom Score (patient rating, 0-10), and quality of life (SF-36); main follow-up time point was after six months. RESULTS:The anthroposophic treatment modalities used were medications (67% of patients), eurythmy therapy (38%), art therapy (18%), and rhythmical massage therapy (13%). Median therapy duration was 105 days. In months 0-6, conventional prophylactic antimigraine medications were used by 14% (n=5/36) of evaluable patients. From baseline to six-month follow-up, physician-rated Average Migraine Severity improved by 3.14 points (95% confidence interval 2.40-3.87, p<0.001); patient-rated Average Migraine Severity improved by 2.82 points (2.05-3.64, p<0.001); and Symptom Score improved by 2.32 points (1.68-2.95, p<0.001). In addition, three SF-36 scales (Social Functioning, Bodily Pain, Vitality), the SF-36 Physical Component summary measure, and the SF-36 Health Change item improved significantly. All improvements were maintained at last follow-up after 24 months. Patients not using conventional prophylactic antimigraine medications had improvements similar to the whole cohort. CONCLUSIONS:Patients with migraine under anthroposophic treatment had long-term improvement of symptoms and quality of life. Although the pre-post design of the present study does not allow for conclusions about comparative effectiveness, study findings suggest that anthroposophic therapies may be useful in the long-term care of patients with migraine."
+  ],
+  "affiliation": [
+    "Institute for Applied Epistemology and Medical Methodology, Freiburg, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Drug therapy",
+        "Migraine",
+        "Combined modality therapy",
+        "Anthroposophy",
+        "Eurythmy Therapy",
+        "Prospective Studies."
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21673981/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21673981/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2174/1874205X01004010100"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3111720"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3111720?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2011-06-16"
+  ],
+  "firstIndexDate": [
+    "2011-06-16"
+  ],
+  "fullTextReceivedDate": [
+    "2012-10-01"
+  ],
+  "dateOfRevision": [
+    "2018-10-05"
+  ],
+  "electronicPublicationDate": [
+    "2010-09-08"
+  ],
+  "firstPublicationDate": [
+    "2010-09-08"
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "id": [
+    "30301194"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30301194"
+  ],
+  "pmcid": [
+    "PMC6213149"
+  ],
+  "doi": [
+    "10.3390/nu10101445"
+  ],
+  "title": [
+    "Headache Associated with Coeliac Disease: A Systematic Review and Meta-Analysis."
+  ],
+  "authorString": [
+    "Zis P, Julian T, Hadjivassiliou M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zis P"
+          ],
+          "firstName": [
+            "Panagiotis"
+          ],
+          "lastName": [
+            "Zis"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8567-3092",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Academic Department of Neurosciences, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield S10 2JF, UK. takiszis@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Julian T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Julian"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5488-5620",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Medical School, University of Sheffield, Sheffield S10 2TN, UK. thjulian07@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Hadjivassiliou M"
+          ],
+          "firstName": [
+            "Marios"
+          ],
+          "lastName": [
+            "Hadjivassiliou"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Academic Department of Neurosciences, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield S10 2JF, UK. m.hadjivassiliou@sheffield.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8567-3092",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5488-5620",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2732854"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "OBJECTIVE:The aim of this systematic review was to explore the relationship between coeliac disease (CD) and headache. The objectives were to establish the prevalence of each entity amongst the other, to explore the role of gluten free diet (GFD), and to describe the imaging findings in those affected by headaches associated with CD. METHODOLOGY:A systematic computer-based literature search was conducted on the PubMed database. Information regarding study type, population size, the age group included, prevalence of CD amongst those with headache and vice versa, imaging results, the nature of headache, and response to GFD. RESULTS:In total, 40 articles published between 1987 and 2017 qualified for inclusion in this review. The mean pooled prevalence of headache amongst those with CD was 26% (95% CI 19.5⁻33.9%) in adult populations and 18.3% (95% CI 10.4⁻30.2%) in paediatric populations. The headaches are most often migraine-like. In children with idiopathic headache, the prevalence of CD is 2.4% (95% CI 1.5⁻3.7%), whereas data for adult populations is presently unavailable. Brain imaging can be normal, although, cerebral calcifications on CT, white matter abnormalities on MRI and deranged regional cerebral blood flow on SPECT can be present. GFD appears to be an effective management for headache in the context of CD, leading to total resolution of headaches in up to 75% of patients. CONCLUSIONS:There is an increased prevalence of CD amongst idiopathic headache and vice versa. Therefore, patients with headache of unknown origin should be screened for CD, as such patients may symptomatically benefit from a GFD."
+  ],
+  "affiliation": [
+    "Academic Department of Neurosciences, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield S10 2JF, UK. takiszis@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Celiac Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DH"
+                  ],
+                  "qualifierName": [
+                    "diet therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DH"
+                  ],
+                  "qualifierName": [
+                    "diet therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glutens"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Diet, Gluten-Free"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Headache",
+        "Coeliac Disease",
+        "Gluten Sensitivity",
+        "Gluten Free Diet"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Glutens"
+          ],
+          "registryNumber": [
+            "8002-80-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu10101445"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6213149"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6213149?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-02"
+  ],
+  "dateOfCreation": [
+    "2018-10-11"
+  ],
+  "firstIndexDate": [
+    "2018-10-10"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-12"
+  ],
+  "dateOfRevision": [
+    "2019-01-02"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-06"
+  ],
+  "firstPublicationDate": [
+    "2018-10-06"
+  ]
+}

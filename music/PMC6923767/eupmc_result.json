@@ -1,0 +1,324 @@
+{
+  "id": [
+    "31920911"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31920911"
+  ],
+  "pmcid": [
+    "PMC6923767"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.01281"
+  ],
+  "title": [
+    "Third Window Syndrome: Surgical Management of Cochlea-Facial Nerve Dehiscence."
+  ],
+  "authorString": [
+    "Wackym PA, Balaban CD, Zhang P, Siker DA, Hundal JS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wackym PA"
+          ],
+          "firstName": [
+            "P Ashley"
+          ],
+          "lastName": [
+            "Wackym"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology-Head and Neck Surgery, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Balaban CD"
+          ],
+          "firstName": [
+            "Carey D"
+          ],
+          "lastName": [
+            "Balaban"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "affiliation": [
+            "Departments of Otolaryngology, Neurobiology, Communication Sciences & Disorders, and Bioengineering, University of Pittsburgh School of Medicine, Pittsburgh, PA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang P"
+          ],
+          "firstName": [
+            "Pengfei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Neurology, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Siker DA"
+          ],
+          "firstName": [
+            "David A"
+          ],
+          "lastName": [
+            "Siker"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Siker Medical Imaging and Intervention, Portland, OR, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hundal JS"
+          ],
+          "firstName": [
+            "Jasdeep S"
+          ],
+          "lastName": [
+            "Hundal"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1281"
+  ],
+  "abstractText": [
+    "Objective: This communication is the first assessment of outcomes after surgical repair of cochlea-facial nerve dehiscence (CFD) in a series of patients. Pre- and post-operative quantitative measurement of validated survey instruments, symptoms, diagnostic findings and anonymous video descriptions of symptoms in a cohort of 16 patients with CFD and third window syndrome (TWS) symptoms were systematically studied. Study design: Observational analytic case-control study. Setting: Quaternary referral center. Patients: Group 1 had 8 patients (5 children and 3 adults) with CFD and TWS who underwent surgical management using a previously described round window reinforcement technique. Group 2 had 8 patients (2 children and 6 adults) with CFD who did not have surgical intervention. Interventions: The Dizziness Handicap Inventory (DHI) and Headache Impact Test (HIT-6) were administered pre-operatively and post-operatively. In addition, diagnostic findings of comprehensive audiometry, cervical vestibular evoked myogenic potential (cVEMP) thresholds and electrocochleography (ECoG) were studied. Symptoms before and after surgical intervention were compared. Main outcome measures: Pre- vs. post-operative DHI, HIT-6, and audiometric data were compared statistically. The thresholds and amplitudes for cVEMP in symptomatic ears, ears with cochlea-facial nerve dehiscence and ears without CFD were compared statistically. Results: There was a highly significant improvement in DHI and HIT-6 at pre- vs. post-operative (p < 0.0001 and p < 0.001, respectively). The age range was 12.8-52.9 years at the time of surgery (mean = 24.7 years). There were 6 females and 2 males. All 8 had a history of trauma before the onset of their symptoms. The mean cVEMP threshold was 75 dB nHL (SD 3.8) for the operated ear and 85.7 dB (SD 10.6) for the unoperated ear. In contrast to superior semicircular canal dehiscence, where most ears have abnormal ECoG findings suggestive of endolymphatic hydrops, only 1 of 8 operated CFD ears (1 of 16 ears) had an abnormal ECoG study. Conclusions: Overall there was a marked improvement in DHI, HIT-6 and symptoms post-operatively. Statistically significant reduction in cVEMP thresholds was observed in patients with radiographic evidence of CFD. Surgical management with round window reinforcement in patients with CFD was associated with improved symptoms and outcomes measures."
+  ],
+  "affiliation": [
+    "Department of Otolaryngology-Head and Neck Surgery, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Traumatic brain injury",
+        "Dizziness",
+        "Perilymph Fistula",
+        "Cognitive Dysfunction",
+        "Vestibular Migraine",
+        "Spatial Disorientation",
+        "Superior Semicircular Canal Dehiscence Syndrome",
+        "Cochlea-facial Nerve Dehiscence"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.01281"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6923767"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6923767?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-11"
+  ],
+  "firstIndexDate": [
+    "2020-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-12"
+  ],
+  "dateOfRevision": [
+    "2020-01-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-13"
+  ],
+  "firstPublicationDate": [
+    "2019-12-13"
+  ]
+}

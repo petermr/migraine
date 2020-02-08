@@ -1,0 +1,346 @@
+{
+  "id": [
+    "29472877"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29472877"
+  ],
+  "pmcid": [
+    "PMC5809815"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2018.00033"
+  ],
+  "title": [
+    "Commentary: Why Your Body Can Jog Your Mind."
+  ],
+  "authorString": [
+    "Pistoia F, Sarà M, Carolei A, Sacco S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pistoia F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Pistoia"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Biotechnological and Applied Clinical Sciences, Neurological Institute, University of L'Aquila, L'Aquila, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sarà M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Sarà"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Post-Coma Rehabilitative Care Unit, San Raffaele Hospital, Cassino, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Carolei A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Carolei"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Biotechnological and Applied Clinical Sciences, Neurological Institute, University of L'Aquila, L'Aquila, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sacco S"
+          ],
+          "firstName": [
+            "Simona"
+          ],
+          "lastName": [
+            "Sacco"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0651-1939",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biotechnological and Applied Clinical Sciences, Neurological Institute, University of L'Aquila, L'Aquila, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0651-1939",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2645273"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "33"
+  ],
+  "affiliation": [
+    "Department of Biotechnological and Applied Clinical Sciences, Neurological Institute, University of L'Aquila, L'Aquila, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "article-commentary",
+        "Comment",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rehabilitation",
+        "Physical Exercise",
+        "Embodiment",
+        "Embodied Cognition",
+        "Locked-in Syndrome",
+        "Vegetative State"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2018.00033"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5809815"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5809815?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "28337170"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Front Psychol. 2017 Mar 09;8:362"
+          ],
+          "type": [
+            "Comment on"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-24"
+  ],
+  "firstIndexDate": [
+    "2018-02-24"
+  ],
+  "fullTextReceivedDate": [
+    "2018-02-25"
+  ],
+  "dateOfRevision": [
+    "2018-02-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-08"
+  ],
+  "firstPublicationDate": [
+    "2018-02-08"
+  ]
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6929435/results/word/frequencies/results.xml">
+  <result title="frequency" word="migraine" count="320"/>
+  <result title="frequency" word="changes" count="68"/>
+  <result title="frequency" word="trigeminal" count="63"/>
+  <result title="frequency" word="chronic" count="61"/>
+  <result title="frequency" word="headache" count="60"/>
+  <result title="frequency" word="patients" count="58"/>
+  <result title="frequency" word="brain" count="51"/>
+  <result title="frequency" word="study" count="50"/>
+  <result title="frequency" word="activation" count="47"/>
+  <result title="frequency" word="pain" count="40"/>
+  <result title="frequency" word="matter" count="38"/>
+  <result title="frequency" word="Neurol" count="33"/>
+  <result title="frequency" word="Cephalalgia." count="32"/>
+  <result title="frequency" word="increased" count="32"/>
+  <result title="frequency" word="sensitization" count="32"/>
+  <result title="frequency" word="Headache" count="31"/>
+  <result title="frequency" word="Migraine" count="30"/>
+  <result title="frequency" word="cortical" count="30"/>
+  <result title="frequency" word="episodic" count="30"/>
+  <result title="frequency" word="mechanisms" count="30"/>
+  <result title="frequency" word="./j.-...x" count="29"/>
+  <result title="frequency" word="Goadsby" count="29"/>
+  <result title="frequency" word="associated" count="29"/>
+  <result title="frequency" word="studies" count="27"/>
+  <result title="frequency" word="attacks" count="26"/>
+  <result title="frequency" word="aura" count="26"/>
+  <result title="frequency" word="development" count="26"/>
+  <result title="frequency" word="neurons" count="26"/>
+  <result title="frequency" word="role" count="26"/>
+  <result title="frequency" word="Pain" count="25"/>
+  <result title="frequency" word="functional" count="24"/>
+  <result title="frequency" word="CGRP" count="23"/>
+  <result title="frequency" word="migraine," count="23"/>
+  <result title="frequency" word="migraine:" count="23"/>
+  <result title="frequency" word="central" count="22"/>
+  <result title="frequency" word="evolutive" count="22"/>
+ </snippets>
+</snippetsTree>

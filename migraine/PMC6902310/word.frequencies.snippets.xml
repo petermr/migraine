@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6902310/results/word/frequencies/results.xml">
+  <result title="frequency" word="symptom" count="53"/>
+  <result title="frequency" word="concussion" count="50"/>
+  <result title="frequency" word="scales" count="43"/>
+  <result title="frequency" word="symptoms" count="40"/>
+  <result title="frequency" word="Concussion" count="26"/>
+  <result title="frequency" word="subtype" count="25"/>
+  <result title="frequency" word="consensus" count="23"/>
+  <result title="frequency" word="rating" count="23"/>
+ </snippets>
+</snippetsTree>

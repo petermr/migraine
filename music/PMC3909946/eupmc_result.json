@@ -1,0 +1,307 @@
+{
+  "id": [
+    "24550862"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24550862"
+  ],
+  "pmcid": [
+    "PMC3909946"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2014.00034"
+  ],
+  "title": [
+    "Same same but different: the case of olfactory imagery."
+  ],
+  "authorString": [
+    "Arshamian A, Larsson M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Arshamian A"
+          ],
+          "firstName": [
+            "Artin"
+          ],
+          "lastName": [
+            "Arshamian"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Gösta Ekman Laboratory, Department of Psychology, Stockholm University Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Larsson M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Larsson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Gösta Ekman Laboratory, Department of Psychology, Stockholm University Stockholm, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2120176"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "34"
+  ],
+  "abstractText": [
+    "In the present work we present an overview of experimental findings corroborating olfactory imagery observations with the visual and auditory modalities. Overall, the results indicate that imagery of olfactory information share many features with those observed in the primary senses although some major differences are evident. One such difference pertains to the considerable individual differences observed, with the majority being unable to reproduce olfactory information in their mind. Here, we highlight factors that are positively related to an olfactory imagery capacity, such as semantic knowledge, perceptual experience, and olfactory interest that may serve as potential moderators of the large individual variation."
+  ],
+  "affiliation": [
+    "Gösta Ekman Laboratory, Department of Psychology, Stockholm University Stockholm, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Comparative",
+        "Consciousness",
+        "olfaction",
+        "Imagery",
+        "Expertise"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24550862/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24550862/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2014.00034"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3909946"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3909946?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-02-19"
+  ],
+  "dateOfCreation": [
+    "2014-02-19"
+  ],
+  "firstIndexDate": [
+    "2014-02-20"
+  ],
+  "fullTextReceivedDate": [
+    "2014-02-20"
+  ],
+  "dateOfRevision": [
+    "2015-02-09"
+  ],
+  "electronicPublicationDate": [
+    "2014-02-03"
+  ],
+  "firstPublicationDate": [
+    "2014-02-03"
+  ]
+}

@@ -1,0 +1,747 @@
+{
+  "id": [
+    "25018882"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25018882"
+  ],
+  "pmcid": [
+    "PMC4074975"
+  ],
+  "doi": [
+    "10.1155/2014/817852"
+  ],
+  "title": [
+    "A brain centred view of psychiatric comorbidity in tinnitus: from otology to hodology."
+  ],
+  "authorString": [
+    "Salviati M, Bersani FS, Valeriani G, Minichino A, Panico R, Romano GF, Mazzei F, Testugini V, Altissimi G, Cianfrone G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Salviati M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Salviati"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8600-3090",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Sensory Organs, Sapienza University of Rome, Rome, Italy ; Department of Neurology and Psychiatry, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bersani FS"
+          ],
+          "firstName": [
+            "Francesco Saverio"
+          ],
+          "lastName": [
+            "Bersani"
+          ],
+          "initials": [
+            "FS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7555-8020",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology and Psychiatry, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Valeriani G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Valeriani"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5829-7682",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology and Psychiatry, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Minichino A"
+          ],
+          "firstName": [
+            "Amedeo"
+          ],
+          "lastName": [
+            "Minichino"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6309-6324",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology and Psychiatry, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Panico R"
+          ],
+          "firstName": [
+            "Roberta"
+          ],
+          "lastName": [
+            "Panico"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neurology and Psychiatry, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Romano GF"
+          ],
+          "firstName": [
+            "Graziella Francesca"
+          ],
+          "lastName": [
+            "Romano"
+          ],
+          "initials": [
+            "GF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4624-6108",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology and Psychiatry, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Mazzei F"
+          ],
+          "firstName": [
+            "Filippo"
+          ],
+          "lastName": [
+            "Mazzei"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7625-6390",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Sensory Organs, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Testugini V"
+          ],
+          "firstName": [
+            "Valeria"
+          ],
+          "lastName": [
+            "Testugini"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Sensory Organs, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Altissimi G"
+          ],
+          "firstName": [
+            "Giancarlo"
+          ],
+          "lastName": [
+            "Altissimi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Sensory Organs, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cianfrone G"
+          ],
+          "firstName": [
+            "Giancarlo"
+          ],
+          "lastName": [
+            "Cianfrone"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Sensory Organs, Sapienza University of Rome, Rome, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6309-6324",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5829-7682",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7625-6390",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8600-3090",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4624-6108",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7555-8020",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2014"
+      ],
+      "journalIssueId": [
+        "2125120"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural plasticity"
+          ],
+          "ISOAbbreviation": [
+            "Neural Plast."
+          ],
+          "medlineAbbreviation": [
+            "Neural Plast"
+          ],
+          "NLMid": [
+            "100883417"
+          ],
+          "ISSN": [
+            "2090-5904"
+          ],
+          "ESSN": [
+            "1687-5443"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "817852"
+  ],
+  "abstractText": [
+    "Introduction. Comorbid psychiatric disorders are frequent among patients affected by tinnitus. There are mutual clinical influences between tinnitus and psychiatric disorders, as well as neurobiological relations based on partially overlapping hodological and neuroplastic phenomena. The aim of the present paper is to review the evidence of alterations in brain networks underlying tinnitus physiopathology and to discuss them in light of the current knowledge of the neurobiology of psychiatric disorders. Methods. Relevant literature was identified through a search on Medline and PubMed; search terms included tinnitus, brain, plasticity, cortex, network, and pathways. Results. Tinnitus phenomenon results from systemic-neurootological triggers followed by neuronal remapping within several auditory and nonauditory pathways. Plastic reorganization and white matter alterations within limbic system, arcuate fasciculus, insula, salience network, dorsolateral prefrontal cortex, auditory pathways, ffrontocortical, and thalamocortical networks are discussed. Discussion. Several overlapping brain network alterations do exist between tinnitus and psychiatric disorders. Tinnitus, initially related to a clinicoanatomical approach based on a cortical localizationism, could be better explained by an holistic or associationist approach considering psychic functions and tinnitus as emergent properties of partially overlapping large-scale neural networks."
+  ],
+  "affiliation": [
+    "Department of Sensory Organs, Sapienza University of Rome, Rome, Italy ; Department of Neurology and Psychiatry, Sapienza University of Rome, Rome, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prefrontal Cortex"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Auditory Cortex"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tinnitus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Positron-Emission Tomography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electroencephalography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetoencephalography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mental Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diffusion Tensor Imaging"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25018882/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25018882/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2014/817852"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4074975"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4074975?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-10-06"
+  ],
+  "dateOfCreation": [
+    "2014-07-14"
+  ],
+  "firstIndexDate": [
+    "2014-07-15"
+  ],
+  "fullTextReceivedDate": [
+    "2014-07-15"
+  ],
+  "dateOfRevision": [
+    "2016-03-16"
+  ],
+  "electronicPublicationDate": [
+    "2014-06-11"
+  ],
+  "firstPublicationDate": [
+    "2014-06-11"
+  ]
+}

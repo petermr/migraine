@@ -1,0 +1,380 @@
+{
+  "id": [
+    "31462990"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31462990"
+  ],
+  "pmcid": [
+    "PMC6706934"
+  ],
+  "doi": [
+    "10.1186/s12998-019-0262-y"
+  ],
+  "title": [
+    "Effectiveness of chiropractic manipulation versus sham manipulation on recurrent headaches in children aged 7-14 years, Protocol for a randomized clinical trial."
+  ],
+  "authorString": [
+    "Lynge S, Hartvigsen J, Christensen HW, Vach W, Hestbaek L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lynge S"
+          ],
+          "firstName": [
+            "Susanne"
+          ],
+          "lastName": [
+            "Lynge"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Private chiropractic practice, Vivaldisvej 6, 9700 Broenderslev, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Hartvigsen J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Hartvigsen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5876-7410",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "2Nordic Institute for Chiropractic and Clinical Biomechanics, Campusvej 55, 5230 Odense M, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Christensen HW"
+          ],
+          "firstName": [
+            "Henrik Wulff"
+          ],
+          "lastName": [
+            "Christensen"
+          ],
+          "initials": [
+            "HW"
+          ],
+          "affiliation": [
+            "2Nordic Institute for Chiropractic and Clinical Biomechanics, Campusvej 55, 5230 Odense M, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Vach W"
+          ],
+          "firstName": [
+            "Werner"
+          ],
+          "lastName": [
+            "Vach"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "2Nordic Institute for Chiropractic and Clinical Biomechanics, Campusvej 55, 5230 Odense M, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Hestbaek L"
+          ],
+          "firstName": [
+            "Lise"
+          ],
+          "lastName": [
+            "Hestbaek"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1620-4556",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "2Nordic Institute for Chiropractic and Clinical Biomechanics, Campusvej 55, 5230 Odense M, Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5876-7410",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1620-4556",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "27"
+      ],
+      "journalIssueId": [
+        "2772140"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Chiropractic & manual therapies"
+          ],
+          "ISOAbbreviation": [
+            "Chiropr Man Therap"
+          ],
+          "medlineAbbreviation": [
+            "Chiropr Man Therap"
+          ],
+          "NLMid": [
+            "101551481"
+          ],
+          "ISSN": [
+            "2045-709X"
+          ],
+          "ESSN": [
+            "2045-709X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "40"
+  ],
+  "abstractText": [
+    "Background:Headache is one of the most common pain symptoms in childhood having a negative impact on many aspects of the lives of affected children, both short-term and long-term. Therefore, it is important to document safe and effective treatment options. Chiropractic spinal manipulation is a commonly used treatment option for these patients, although there are no randomized clinical trials documenting the effectiveness of this in pediatric headache. However, there is moderate evidence for effectiveness of spinal manipulation for adults with tension-type and cervicogenic headaches.This paper describes the protocol for a two-armed randomized superiority clinical trial aiming to investigate the effectiveness of chiropractic manipulation versus sham manipulation in the treatment of recurrent headache in children aged 7-14. Methods:Children with weekly headaches for at least six months will be included if they have indications for chiropractic manipulation. The participants will be randomized to either chiropractic manipulation or sham manipulation. Both children and parents will be blinded for allocation. There will be 100 children in each arm and they will answer weekly text messages four weeks prior to treatment and during a four months treatment period. Potential primary outcomes are weekly number of headaches, intensity of headache, medication use and global perceived effect. Secondary outcomes include side-effects and headache status after one year.An initial outcome data analysis will be performed to inform the choice of primary outcome (adaptive design). Intervention effects will be reported as the difference in mean values between the two treatment arms, Cohen's effect size and numbers needed to treat. Discussion:A major strength of this study is its pragmatic nature, where the active treatment group receives chiropractic manipulation according to their individual needs, while both groups continue their use of medication for headache according to their pre-trial habits. Other strengths include an elaborate sham procedure and the weekly outcome reports, reducing recall bias.If it is possible to develop effective treatment for headache in children, a life course of recurring problems may be altered with potential positive implications for both individuals and society. Trial registration:ClinicalTrials.gov, identifier NCT02684916."
+  ],
+  "affiliation": [
+    "Private chiropractic practice, Vivaldisvej 6, 9700 Broenderslev, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Manipulation",
+        "Headache",
+        "Chiropractic",
+        "Placebo",
+        "Recurrent",
+        "Manipulative Therapy",
+        "Sham"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12998-019-0262-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6706934"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6706934?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-08-30"
+  ],
+  "firstIndexDate": [
+    "2019-08-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-30"
+  ],
+  "dateOfRevision": [
+    "2020-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-23"
+  ],
+  "firstPublicationDate": [
+    "2019-08-23"
+  ]
+}

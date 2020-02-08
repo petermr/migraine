@@ -1,0 +1,465 @@
+{
+  "id": [
+    "30000045"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30000045"
+  ],
+  "title": [
+    "Ibuprofen"
+  ],
+  "pubYear": [
+    "2006"
+  ],
+  "abstractText": [
+    "Because of its extremely low levels in breastmilk, short half-life and safe use in infants in doses much higher than those excreted in breastmilk, ibuprofen is a preferred choice as an analgesic or antiinflammatory agent in nursing mothers."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Book",
+        "Review"
+      ]
+    }
+  ],
+  "bookOrReportDetails": [
+    {
+      "publisher": [
+        "National Library of Medicine (US), Bethesda (MD)"
+      ],
+      "yearOfPublication": [
+        "2006"
+      ],
+      "comprisingTitle": [
+        "Drugs and Lactation Database (LactMed)"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bloom",
+        "Ibuprofen",
+        "Ibu",
+        "Tonal",
+        "Moment",
+        "Brufen",
+        "Ibol",
+        "Ibuprofeno",
+        "Motrin",
+        "Profen",
+        "Cobo",
+        "Carol",
+        "Urem",
+        "Proflex",
+        "Drin",
+        "Norton",
+        "Nurofen",
+        "Advil",
+        "Dolgit",
+        "Liptan",
+        "Nuprin",
+        "Butylenin",
+        "Ibuprocin",
+        "Anflagen",
+        "Buburone",
+        "Ibumetin",
+        "Medipren",
+        "Lamidon",
+        "Ebufac",
+        "Mynosedin",
+        "Roidenin",
+        "Apsifen",
+        "Epobron",
+        "Haltran",
+        "Trendar",
+        "2-(4-Isobutylphenyl)propanoic Acid",
+        "Andran",
+        "Bluton",
+        "Nobfen",
+        "Nobgen",
+        "Pediaprofen",
+        "Adran",
+        "Rufen",
+        "Nobfelon",
+        "Brufort",
+        "Inabrin",
+        "Pantrop",
+        "Rebugen",
+        "Suspren",
+        "Tabalon",
+        "Anco",
+        "Napacetin",
+        "Brufanic",
+        "Ibuprohm",
+        "Ibufen",
+        "Ibren",
+        "Ibu-slo",
+        "Novoprofen",
+        "Proartinal",
+        "(Rs)-ibuprofen",
+        "Amersol",
+        "Dibufen",
+        "Dolocyl",
+        "Ibuprin",
+        "Lidifen",
+        "Optifen",
+        "Ostofen",
+        "Panafen",
+        "Paxofen",
+        "Quadrax",
+        "Uprofen",
+        "Burana",
+        "Midol",
+        "Rafen",
+        "Ifen",
+        "Duralbuprofen",
+        "Butacortelone",
+        "Balkaprofen",
+        "Betaprofen",
+        "Daiprophen",
+        "Jenaprofen",
+        "Antalfene",
+        "Combiflam",
+        "Dignoflex",
+        "Femapirin",
+        "Fibraflex",
+        "Ibuflamar",
+        "Kratalgin",
+        "Neobrufen",
+        "Rhinadvil",
+        "Solpaflex",
+        "Syntofene",
+        "Antarene",
+        "Antiflam",
+        "Bukrefen",
+        "Buracaps",
+        "Citalgan",
+        "Dentigoa",
+        "Dolmaral",
+        "Dolofort",
+        "Dolormin",
+        "Doltibil",
+        "Dysdolen",
+        "Esprenit",
+        "Exneural",
+        "Gelufene",
+        "Ibucasen",
+        "Ibudolor",
+        "Ibugesic",
+        "Ibuhexal",
+        "Ibulagic",
+        "Ibumerck",
+        "Ibupirac",
+        "Librofem",
+        "Malafene",
+        "Manypren",
+        "Mensoton",
+        "Novogent",
+        "Nuprilan",
+        "Oralfene",
+        "Relcofen",
+        "Sednafen",
+        "Seklodin",
+        "Seskafen",
+        "Suprafen",
+        "Algofen",
+        "Amelior",
+        "Antagil",
+        "Artofen",
+        "Bruflam",
+        "Bufigen",
+        "Dansida",
+        "Dolofen",
+        "Dolofin",
+        "Dologel",
+        "Dolomax",
+        "Doloren",
+        "Dorival",
+        "Duobrus",
+        "Easifon",
+        "Femafen",
+        "Femidol",
+        "Fenspan",
+        "Gynofug",
+        "Ibubest",
+        "Ibubeta",
+        "Ibuleve",
+        "Ibulgan",
+        "Junifen",
+        "Nerofen",
+        "Noalgil",
+        "Nobafon",
+        "Noritis",
+        "Novadol",
+        "Opturem",
+        "Ostarin",
+        "Paduden",
+        "Perofen",
+        "Ranofen",
+        "Sadefen",
+        "Salivia",
+        "Siyafen",
+        "Solufen",
+        "Sugafen",
+        "Tatanal",
+        "Unipron",
+        "Alaxan",
+        "Anafen",
+        "Artril",
+        "Brofen",
+        "Bufeno",
+        "Bupron",
+        "Dolibu",
+        "Dolven",
+        "Duafen",
+        "Emflam",
+        "Eputex",
+        "Faspic",
+        "Fenbid",
+        "Fendol",
+        "Grefen",
+        "Ibudol",
+        "Ibufug",
+        "Ibugel",
+        "Ibugen",
+        "Ibular",
+        "Ibulav",
+        "Ibumed",
+        "Ibusal",
+        "Inflam",
+        "Isodol",
+        "Lopane",
+        "Melfen",
+        "Narfen",
+        "Ozonol",
+        "Provon",
+        "Stelar",
+        "Tempil",
+        "15687-27-1",
+        "Cap-profen",
+        "Tab-profen",
+        "Cesra",
+        "Cunil",
+        "Dalsy",
+        "Ergix",
+        "Gofen",
+        "Ipren",
+        "Irfen",
+        "Kesan",
+        "Rofen",
+        "Rufin",
+        "Rupan",
+        "Tofen",
+        "Upfen",
+        "Zafen",
+        "Zofen",
+        "Pediatric Advil",
+        "Apo-ibuprofen",
+        "Brufen Retard",
+        "Dularbuprofen",
+        "Neo-helvagit",
+        "Ibuprofenum",
+        "Ibu-tab",
+        "Ibuprofene",
+        "Caldolor",
+        "Deep Relief",
+        "Novo-profen",
+        "Ibu-slow",
+        "Neo-mindol",
+        "Dolofen-f",
+        "Donjust B",
+        "Nagifen-d",
+        "(+-)-Ibuprofen",
+        "Dura-ibu",
+        "Children's Advil",
+        "Kontagripp Mono",
+        "Schmerz-dolgit",
+        "Motrin Ib",
+        "Novo Dioxadol",
+        "Togal N",
+        "Children's Motrin",
+        "Combunox",
+        "4-Isobutylhydratropic Acid",
+        "Alivium",
+        "Artril 300",
+        "Hemagene Tailleur",
+        "P-isobutylhydratropic Acid",
+        "Advil Migraine",
+        "Advil Liqui-gels",
+        "Dristan Sinus",
+        "Midol 200",
+        "Children's Ibuprofen",
+        "Perrigo Ibuprofen",
+        "Tabalon 400",
+        "Advil, Children's",
+        "Codral Period Pain",
+        "Children's Elixsure",
+        "Junior Strength Advil",
+        "Brufen 400",
+        "Emflam-200",
+        "(+-)-Ibuprophen",
+        "Dolo Puren",
+        "Ibu-tab 200",
+        "Junior Strength Motrin",
+        "Act-3",
+        "Ak+c2278tren",
+        "Motrin Ib Gelcaps",
+        "Aches-n-pain",
+        "Adex 200",
+        "Junior Strength Ibuprofen",
+        "Midol Ib Cramp Relief",
+        "Midol Liquid Gels",
+        "Advil Cold & Sinus",
+        "Am-fam 400",
+        "Sine-aid Ib Caplets",
+        "Bayer Select Pain Relief",
+        "Hydratropic Acid, P-isobutyl-",
+        "Ibuprofene [Inn-french]",
+        "Ibuprofenum [Inn-latin]",
+        "Children's Elixsure Ib",
+        "Ip-82",
+        "Ibuprofeno [Inn-spanish]",
+        "(+-)-P-isobutylhydratropic Acid",
+        "Alpha-(4-isobutylphenyl)propionic Acid",
+        "Motrin Migraine Pain",
+        "4-Isobutyl-alpha-methylphenylacetic Acid",
+        "Unii-wk2xyi10qm",
+        "Advil Migraine Liqui-gels",
+        "P-isobutyl-2-phenylpropionic Acid",
+        "Vufb 9649",
+        "Advil Cold And Sinus",
+        "Ccris 3223",
+        "Wk2xyi10qm",
+        "Children's Advil-flavored",
+        "Alpha-p-isobutylphenylpropionic Acid",
+        "Hsdb 3099",
+        "(4-Isobutylphenyl)-alpha-methylacetic Acid",
+        "(+-)-2-(P-isobutylphenyl)propionic Acid",
+        "Ib-100",
+        "Ucb 79171",
+        "Rd 13621",
+        "Einecs 239-784-6",
+        "Nsc 256857",
+        "Brn 2049713",
+        "Ibuprofen [Usan:usp:inn:ban:jan]",
+        "U-18,573",
+        "Alpha-methyl-4-(2-methylpropyl)benzeneacetic Acid",
+        "(+-)-Alpha-methyl-4-(2-methylpropyl)benzeneacetic Acid",
+        "(S)-4-isobutyl-alpha-methylphenylacetic Acid",
+        "Acide (Isobutyl-4-phenyl)-2 Propionique",
+        "Benzeneacetic Acid, Alpha-methyl-4-(2-methylpropyl)-",
+        "U 18573",
+        "Acide (Isobutyl-4-phenyl)-2 Propionique [French]",
+        "Ec 239-784-6",
+        "Benzeneacetic Acid, Alpha-methyl-4-(2-methylpropyl), (+-)-"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/books/NBK500986"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "NCBI_Bookshelf"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK500986"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "Y"
+  ],
+  "bookid": [
+    "NBK500986"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-13"
+  ],
+  "firstIndexDate": [
+    "2018-07-15"
+  ],
+  "firstPublicationDate": [
+    "2018-07-13"
+  ]
+}

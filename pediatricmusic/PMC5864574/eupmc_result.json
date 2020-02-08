@@ -1,0 +1,199 @@
+{
+  "id": [
+    "PMC5864574"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5864574"
+  ],
+  "doi": [
+    "10.5770/cgj.21.321"
+  ],
+  "title": [
+    "Poster Presentations at the 9th Canadian Conference on Dementia (CCD) Toronto, November 2017."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2665070"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Canadian geriatrics journal : CGJ"
+          ],
+          "ISOAbbreviation": [
+            "Can Geriatr J"
+          ],
+          "medlineAbbreviation": [
+            "Can Geriatr J"
+          ],
+          "NLMid": [
+            "101579189"
+          ],
+          "ISSN": [
+            "1925-8348"
+          ],
+          "ESSN": [
+            "1925-8348"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "71-133"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5864574/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5864574"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-04-10"
+  ],
+  "firstIndexDate": [
+    "2018-04-10"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-09"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-26"
+  ],
+  "firstPublicationDate": [
+    "2018-03-26"
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6911735/results/search/disease/results.xml">
+  <result pre="with visual activities (screen time, reading, near work, driving, etc);" exact="asthenopia" post="(eye strain) and eye fatigue; problems with visual focus"/>
+  <result pre="in patients with known complicating underlying neurological disease such as" exact="epilepsy" post="or stroke. Second-level selection was performed independently by 2"/>
+  <result pre="ration Measurements used for SMD Concussion subtype Cognitive Concentration, remembering," exact="retrograde amnesia," post="anterograde amnesia, posttraumatic amnesia, cognitive problems, feeling slow ImPACT"/>
+  <result pre="used for SMD Concussion subtype Cognitive Concentration, remembering, retrograde amnesia," exact="anterograde amnesia," post="posttraumatic amnesia, cognitive problems, feeling slow ImPACT - verbal"/>
+  <result pre="the opportunity for refined classifications within a subtype, for example" exact="migraine" post="headache vs nonmigraine headache. The results of this large,"/>
+  <result pre="4): 271- 280. 12036500 11. Seifert T The relationship of" exact="migraine" post="and other headache disorders to concussion. Handb Clin Neurol."/>
+  <result pre="RJ , Collins MW , Kontos AP Family history of" exact="migraine" post="associated with posttraumatic migraine symptoms following sport-related concussion ."/>
+  <result pre=", Kontos AP Family history of migraine associated with posttraumatic" exact="migraine" post="symptoms following sport-related concussion . J Head Trauma Rehabil."/>
+  <result pre="Barnett SD , Nakase-Richardson R Incidence, characterization, and predictors of" exact="sleep apnea" post="in consecutive brain injury rehabilitation admissions . J Head"/>
+  <result pre=", Geffen GM , Massavelli BM The effects of post-traumatic" exact="amnesia" post="on information processing following mild traumatic brain injury ."/>
+ </snippets>
+</snippetsTree>

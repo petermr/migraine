@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6659392/results/word/frequencies/results.xml">
+  <result title="frequency" word="pain" count="121"/>
+  <result title="frequency" word="sensory" count="101"/>
+  <result title="frequency" word="Pain" count="52"/>
+  <result title="frequency" word="stimuli" count="39"/>
+  <result title="frequency" word="processing" count="31"/>
+  <result title="frequency" word="SMD" count="30"/>
+  <result title="frequency" word="modulation" count="28"/>
+  <result title="frequency" word="activity" count="27"/>
+  <result title="frequency" word="brain" count="24"/>
+  <result title="frequency" word="SOR" count="23"/>
+  <result title="frequency" word="neurophysiological" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,421 @@
+{
+  "id": [
+    "30814847"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30814847"
+  ],
+  "pmcid": [
+    "PMC6383087"
+  ],
+  "doi": [
+    "10.1177/1179069519830421"
+  ],
+  "title": [
+    "Current State of the Literature on Psychological and Social Sequelae of Sports-Related Concussion in School-Aged Children and Adolescents."
+  ],
+  "authorString": [
+    "Wilmoth K, Tan A, Hague C, Tarkenton T, Silver CH, Didehbani N, Rossetti HC, Batjer H, Bell KR, Cullum CM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wilmoth K"
+          ],
+          "firstName": [
+            "Kristin"
+          ],
+          "lastName": [
+            "Wilmoth"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4192-8756",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, Medical College of Wisconsin, Milwaukee, WI, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tan A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neuropsychology, Children's Healthcare of Atlanta, Atlanta, GA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hague C"
+          ],
+          "firstName": [
+            "Cole"
+          ],
+          "lastName": [
+            "Hague"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The University of Texas Southwestern Medical Center, Dallas, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tarkenton T"
+          ],
+          "firstName": [
+            "Tahnae"
+          ],
+          "lastName": [
+            "Tarkenton"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The University of Texas Southwestern Medical Center, Dallas, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Silver CH"
+          ],
+          "firstName": [
+            "Cheryl H"
+          ],
+          "lastName": [
+            "Silver"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The University of Texas Southwestern Medical Center, Dallas, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Didehbani N"
+          ],
+          "firstName": [
+            "Nyaz"
+          ],
+          "lastName": [
+            "Didehbani"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The University of Texas Southwestern Medical Center, Dallas, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rossetti HC"
+          ],
+          "firstName": [
+            "Heidi C"
+          ],
+          "lastName": [
+            "Rossetti"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The University of Texas Southwestern Medical Center, Dallas, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Batjer H"
+          ],
+          "firstName": [
+            "Hunt"
+          ],
+          "lastName": [
+            "Batjer"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neurological Surgery, The University of Texas Southwestern Medical Center, Dallas, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bell KR"
+          ],
+          "firstName": [
+            "Kathleen R"
+          ],
+          "lastName": [
+            "Bell"
+          ],
+          "initials": [
+            "KR"
+          ],
+          "affiliation": [
+            "Department of Physical Medicine and Rehabilitation, The University of Texas Southwestern Medical Center, Dallas, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cullum CM"
+          ],
+          "firstName": [
+            "C Munro"
+          ],
+          "lastName": [
+            "Cullum"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The University of Texas Southwestern Medical Center, Dallas, TX, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4192-8756",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2773827"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of experimental neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "J Exp Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "J Exp Neurosci"
+          ],
+          "NLMid": [
+            "101517658"
+          ],
+          "ISSN": [
+            "1179-0695"
+          ],
+          "ESSN": [
+            "1179-0695"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1179069519830421"
+  ],
+  "abstractText": [
+    "Considerably less attention has been paid to psychological and social sequelae of concussion in youth athletes compared with neurocognitive outcomes. This narrative review consolidates the literature on postconcussive emotional and psychosocial functioning in school-aged children and adolescents, highlighting athlete-specific findings. MEDLINE and PsycINFO databases were queried for pediatric concussion studies examining psychological and/or social outcomes, and 604 studies met search criteria (11 of those specific to sport). Results were organized into domains: emotional and social dysfunction, behavioral problems, academic difficulties, sleep disturbance, headache, and quality of life. The small body of literature regarding psychological and social issues following pediatric concussion suggests behavioral disturbances at least temporarily disrupt daily life. Extrapolation from samples of athletes and nonathletes indicates postconcussive anxiety and depressive symptoms appear, although levels may be subclinical. Social and academic findings were less clear. Future well-controlled and adequately powered research will be essential to anticipate concussed athletes' psychosocial needs."
+  ],
+  "affiliation": [
+    "Department of Neurology, Medical College of Wisconsin, Milwaukee, WI, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "neuropsychology",
+        "Neurotrauma"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1179069519830421"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6383087"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6383087?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-01"
+  ],
+  "firstIndexDate": [
+    "2019-03-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-10"
+  ],
+  "dateOfRevision": [
+    "2019-03-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-20"
+  ],
+  "firstPublicationDate": [
+    "2019-02-20"
+  ]
+}

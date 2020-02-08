@@ -1,0 +1,498 @@
+{
+  "id": [
+    "25559822"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25559822"
+  ],
+  "pmcid": [
+    "PMC4782684"
+  ],
+  "doi": [
+    "10.3109/15563650.2014.987397"
+  ],
+  "title": [
+    "2013 Annual Report of the American Association of Poison Control Centers' National Poison Data System (NPDS): 31st Annual Report."
+  ],
+  "authorString": [
+    "Mowry JB, Spyker DA, Cantilena LR, McMillan N, Ford M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mowry JB"
+          ],
+          "firstName": [
+            "James B"
+          ],
+          "lastName": [
+            "Mowry"
+          ],
+          "initials": [
+            "JB"
+          ]
+        },
+        {
+          "fullName": [
+            "Spyker DA"
+          ],
+          "firstName": [
+            "Daniel A"
+          ],
+          "lastName": [
+            "Spyker"
+          ],
+          "initials": [
+            "DA"
+          ]
+        },
+        {
+          "fullName": [
+            "Cantilena LR Jr"
+          ],
+          "firstName": [
+            "Louis R"
+          ],
+          "lastName": [
+            "Cantilena"
+          ],
+          "initials": [
+            "LR"
+          ]
+        },
+        {
+          "fullName": [
+            "McMillan N"
+          ],
+          "firstName": [
+            "Naya"
+          ],
+          "lastName": [
+            "McMillan"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Ford M"
+          ],
+          "firstName": [
+            "Marsha"
+          ],
+          "lastName": [
+            "Ford"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "52"
+      ],
+      "journalIssueId": [
+        "2236557"
+      ],
+      "dateOfPublication": [
+        "2014 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical toxicology (Philadelphia, Pa.)"
+          ],
+          "ISOAbbreviation": [
+            "Clin Toxicol (Phila)"
+          ],
+          "medlineAbbreviation": [
+            "Clin Toxicol (Phila)"
+          ],
+          "NLMid": [
+            "101241654"
+          ],
+          "ISSN": [
+            "1556-3650"
+          ],
+          "ESSN": [
+            "1556-9519"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "1032-1283"
+  ],
+  "abstractText": [
+    "This is the 31st Annual Report of the American Association of Poison Control Centers' (AAPCC) National Poison Data System (NPDS). As of January 1, 2013, 57 of the nation's poison centers (PCs) uploaded case data automatically to NPDS. The upload interval was 8.08 [7.10, 11.63] (median [25%, 75%]) minutes, creating a near real-time national exposure and information database and surveillance system.We analyzed the case data tabulating specific indices from NPDS. The methodology was similar to that of previous years. Where changes were introduced, the differences are identified. Poison center (PC) cases with medical outcomes of death were evaluated by a team of 38 medical and clinical toxicologist reviewers using an ordinal scale of 1-6 to assess the Relative Contribution to Fatality (RCF) of the exposure to the death.In 2013, 3,060,122 closed encounters were logged by NPDS: 2,188,013 human exposures, 59,496 animal exposures, 806,347 information calls, 6,116 human-confirmed nonexposures, and 150 animal-confirmed nonexposures. Total encounters showed a 9.3% decline from 2012, while health care facility human exposure calls were essentially flat, decreasing by 0.1%.All information calls decreased 21.4% and health care facility (HCF) information calls decreased 8.5%, medication identification requests (drug ID) decreased 26.8%, and human exposures reported to US PCs decreased 3.8%. Human exposures with less serious outcomes have decreased 3.7% per year since 2008 while those with more serious outcomes (moderate, major or death) have increased by 4.7% per year since 2000. The top five substance classes most frequently involved in all human exposures were analgesics (11.5%), cosmetics/personal care products (7.7%), household cleaning substances (7.6%), sedatives/hypnotics/antipsychotics (5.9%), and antidepressants (4.2%). Sedative/hypnotics/antipsychotics exposures as a class increased most rapidly (2,559 calls/year) over the last 13 years for cases showing more serious outcomes. The top five most common exposures in children of 5 years or less were cosmetics/personal care products (13.8%), household cleaning substances (10.4%), analgesics (9.8%), foreign bodies/toys/miscellaneous (6.9%), and topical preparations (6.1%). Drug identification requests comprised 50.7% of all information calls. NPDS documented 2,477 human exposures resulting in death with 2,113 human fatalities judged related (RCF of 1, undoubtedly responsible; 2, probably responsible; or 3, contributory).These data support the continued value of PC expertise and need for specialized medical toxicology information to manage the more severe exposures, despite a decrease in calls involving less severe exposures. Unintentional and intentional exposures continue to be a significant cause of morbidity and mortality in the United States. The near real-time, always current status of NPDS represents a national public health resource to collect and monitor US exposure cases and information calls. The continuing mission of NPDS is to provide a nationwide infrastructure for public health surveillance for all types of exposures, public health event identification, resilience response and situational awareness tracking. NPDS is a model system for the nation and global public health."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antidotes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Assessment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Drug Information Services"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Databases, Factual"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Poison Control Centers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Annual Reports as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Drug Overdose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MO"
+                  ],
+                  "qualifierName": [
+                    "mortality"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antidotes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3109/15563650.2014.987397"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4782684"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4782684?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "148"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-03-05"
+  ],
+  "dateOfCreation": [
+    "2015-01-06"
+  ],
+  "firstIndexDate": [
+    "2015-01-07"
+  ],
+  "fullTextReceivedDate": [
+    "2016-03-25"
+  ],
+  "dateOfRevision": [
+    "2016-03-24"
+  ],
+  "firstPublicationDate": [
+    "2014-12-01"
+  ]
+}

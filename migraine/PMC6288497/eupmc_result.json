@@ -1,0 +1,304 @@
+{
+  "id": [
+    "30568950"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30568950"
+  ],
+  "pmcid": [
+    "PMC6288497"
+  ],
+  "doi": [
+    "10.12998/wjcc.v6.i15.944"
+  ],
+  "title": [
+    "Association between functional abdominal pain disorders and asthma in adolescents: A cross-sectional study."
+  ],
+  "authorString": [
+    "Kumari MV, Devanarayana NM, Amarasiri L, Rajindrajith S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kumari MV"
+          ],
+          "firstName": [
+            "Manori Vijaya"
+          ],
+          "lastName": [
+            "Kumari"
+          ],
+          "initials": [
+            "MV"
+          ],
+          "affiliation": [
+            "Department of Physiology, Faculty of Medicine and Allied Sciences, Rajarata University of Sri Lanka, Anuradhapura 50000, North Central Province, Sri Lanka."
+          ]
+        },
+        {
+          "fullName": [
+            "Devanarayana NM"
+          ],
+          "firstName": [
+            "Niranga Manjuri"
+          ],
+          "lastName": [
+            "Devanarayana"
+          ],
+          "initials": [
+            "NM"
+          ],
+          "affiliation": [
+            "Department of Physiology, Faculty of Medicine, University of Kelaniya, Ragama 11010, Western Province, Sri Lanka. niranga@kln.ac.lk."
+          ]
+        },
+        {
+          "fullName": [
+            "Amarasiri L"
+          ],
+          "firstName": [
+            "Lakmali"
+          ],
+          "lastName": [
+            "Amarasiri"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Clinical Physiologist and Senior Lecturer in Physiology, Faculty of Medicine, University of Colombo, Sri Lanka."
+          ]
+        },
+        {
+          "fullName": [
+            "Rajindrajith S"
+          ],
+          "firstName": [
+            "Shaman"
+          ],
+          "lastName": [
+            "Rajindrajith"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Faculty of Medicine, University of Kelaniya, Ragama 11010, Western Province, Sri Lanka."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "15"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2761887"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "World journal of clinical cases"
+          ],
+          "ISOAbbreviation": [
+            "World J Clin Cases"
+          ],
+          "medlineAbbreviation": [
+            "World J Clin Cases"
+          ],
+          "NLMid": [
+            "101618806"
+          ],
+          "ISSN": [
+            "2307-8960"
+          ],
+          "ESSN": [
+            "2307-8960"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "944-951"
+  ],
+  "abstractText": [
+    "AIM:To find the association between asthma and different types of functional abdominal pain disorders (FAPDs) among teenagers.METHODA cross-sectional study was conducted among 13 to 15-year-old children from six randomly selected schools in Anuradhapura district of Sri Lanka. Data were collected using translated and validated self-administered questionnaires (Rome III questionnaire, International Study on Asthma and Allergies in Childhood questionnaire, and Pediatric Quality of Life Inventory 4.0) and administered under an examination setting after obtaining parental consent and assent. RESULTS:Of the 1101 children included in the analysis, 157 (14.3%) had asthma and 101 (9.2%) had at least one FAPDs. Of children with asthma, 19.1% had at least one type of FAPDs. Prevalence rates of functional abdominal pain (FAP) (8.9% vs 3.3% in non-asthmatics), functional dyspepsia (FD) (2.5% vs 0.7%), and abdominal migraine (AM) (3.2% vs 0.4%) were higher in those with asthma (P < 0.05, multiple logistic regression analysis), but not in those with irritable bowel syndrome (4.5% vs 3.1%, P = 0.2). Severe abdominal pain (10.8% vs 4.6%), bloating (16.6% vs 9.6%), nausea (6.4% vs 2.9%), and anorexia (24.2% vs 16.2%) were more prevalent among asthmatics (P < 0.05). Lower gastrointestinal symptoms did not show a significant difference. Scores obtained for health related quality of life (HRQoL) were lower in those with asthma and FAPDs (P < 0.05, unpaired t-test). CONCLUSION:Asthma is associated with three different types of FAPDs, namely, FD, AM, and FAP. HRQoL is significantly impaired in teenagers with asthma and FAPDs."
+  ],
+  "affiliation": [
+    "Department of Physiology, Faculty of Medicine and Allied Sciences, Rajarata University of Sri Lanka, Anuradhapura 50000, North Central Province, Sri Lanka."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Asthma",
+        "Abdominal Pain",
+        "Functional Gastrointestinal Disorders",
+        "Health Related Quality Of Life"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12998/wjcc.v6.i15.944"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6288497"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6288497?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-21"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-22"
+  ],
+  "dateOfRevision": [
+    "2018-12-23"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "id": [
+    "31572016"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31572016"
+  ],
+  "pmcid": [
+    "PMC6750864"
+  ],
+  "doi": [
+    "10.2147/CLEP.S213136"
+  ],
+  "title": [
+    "A study on the epidemiology of tinnitus in the United Kingdom."
+  ],
+  "authorString": [
+    "Stohler NA, Reinau D, Jick SS, Bodmer D, Meier CR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stohler NA"
+          ],
+          "firstName": [
+            "Nadja A"
+          ],
+          "lastName": [
+            "Stohler"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7484-970X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Basel Pharmacoepidemiology Unit, Division of Clinical Pharmacy and Epidemiology, Department of Pharmaceutical Sciences, University of Basel, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Reinau D"
+          ],
+          "firstName": [
+            "Daphne"
+          ],
+          "lastName": [
+            "Reinau"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9123-6590",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Basel Pharmacoepidemiology Unit, Division of Clinical Pharmacy and Epidemiology, Department of Pharmaceutical Sciences, University of Basel, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Jick SS"
+          ],
+          "firstName": [
+            "Susan S"
+          ],
+          "lastName": [
+            "Jick"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2215-1067",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Boston Collaborative Drug Surveillance Program, Lexington, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bodmer D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Bodmer"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Biomedicine and Clinic for Otorhinolaryngology, University Hospital Basel, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Meier CR"
+          ],
+          "firstName": [
+            "Christoph R"
+          ],
+          "lastName": [
+            "Meier"
+          ],
+          "initials": [
+            "CR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7120-6378",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Basel Pharmacoepidemiology Unit, Division of Clinical Pharmacy and Epidemiology, Department of Pharmaceutical Sciences, University of Basel, Basel, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7120-6378",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7484-970X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2215-1067",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9123-6590",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2762069"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical epidemiology"
+          ],
+          "ISOAbbreviation": [
+            "Clin Epidemiol"
+          ],
+          "medlineAbbreviation": [
+            "Clin Epidemiol"
+          ],
+          "NLMid": [
+            "101531700"
+          ],
+          "ISSN": [
+            "1179-1349"
+          ],
+          "ESSN": [
+            "1179-1349"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "855-871"
+  ],
+  "abstractText": [
+    "Purpose:Subjective tinnitus is a common symptom with potentially negative impact on quality of life. More research is required to gain a deeper understanding of the disease and its clinical presentation. To estimate the incidence of tinnitus and to describe patient-related characteristics such as lifestyle factors and comorbidities. Patients and methods:Using the Clinical Practice Research Datalink, we calculated incidence rates of first-time diagnosed tinnitus in an adult population between 2000 and 2016. We stratified incidence rates by sex, age, and year of diagnosis. Additionally, we performed a 1:1 matched case-control study comparing body mass index, lifestyle factors and selected comorbidities between patients with incident tinnitus and tinnitus-free controls. Results:We identified 109 783 adults with a first-time diagnosis of tinnitus between 2000 and 2016, yielding an overall age-standardized incidence rate of 25.0 new tinnitus cases per 10,000 person-years (95% CI: 24.6-25.5). There was a steady increase in tinnitus incidence throughout the study period. Approximately 80% of tinnitus cases were diagnosed at age 40 years or older. We observed the highest incidence rate in individuals aged 60-69 years (41.2 per 10,000 person-years, 95% CI: 40.7-41.7). Smokers and alcohol drinkers were at lower risk of being diagnosed with tinnitus compared with non-smokers and non-drinkers, respectively. The occurrence of tinnitus was strongly associated with a recent diagnosis of several otological and vestibular disorders as well as head and neck disorders. Conclusion:The present observational study found an increasing incidence of tinnitus over time, emphasizing the continuously growing health burden. The findings on patient characteristics, lifestyle factors, and selected comorbidities contribute to a better understanding of risk factors for tinnitus."
+  ],
+  "affiliation": [
+    "Basel Pharmacoepidemiology Unit, Division of Clinical Pharmacy and Epidemiology, Department of Pharmaceutical Sciences, University of Basel, Basel, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Tinnitus",
+        "Case-control study",
+        "Lifestyle Factors",
+        "Incidence Rates",
+        "Clinical Practice Research Datalink"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/CLEP.S213136"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6750864"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6750864?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-02"
+  ],
+  "firstIndexDate": [
+    "2019-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-13"
+  ],
+  "firstPublicationDate": [
+    "2019-09-13"
+  ]
+}

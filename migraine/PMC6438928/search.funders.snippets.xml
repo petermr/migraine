@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6438928/results/search/funders/results.xml">
+  <result pre="Medicine, Center for Pain and the Brain, Boston Children’s Hospital," exact="Harvard Medical School" post="Boston, MA United States [], 2 Department of Radiology,"/>
+  <result pre="[], 6 Department of Anesthesia, Critical Care and Pain Medicine," exact="Beth Israel Deaconess Medical Center," post="Harvard Medical School Boston, MA United States Edited by:"/>
+  <result pre="Critical Care and Pain Medicine, Beth Israel Deaconess Medical Center," exact="Harvard Medical School" post="Boston, MA United States Edited by: Andrew P. Bagshaw,"/>
+  <result pre="magnetic resonance imaging age-related resting-state functional connectivity brain headaches Funding" exact="National Institute of Neurological Disorders and Stroke" post="10.13039/100000065 fig-count: table-count: equation-count: ref-count: page-count: word-count: Introduction Migraine"/>
+  <result pre="(MRI) Acquisition Structural and functional subjects data were acquired on" exact="Siemens" post="Magnetom trio 3 Tesla scanner (Siemens Healthcare Inc., United"/>
+ </snippets>
+</snippetsTree>

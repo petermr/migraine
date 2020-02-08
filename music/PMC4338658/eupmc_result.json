@@ -1,0 +1,341 @@
+{
+  "id": [
+    "25759676"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25759676"
+  ],
+  "pmcid": [
+    "PMC4338658"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2015.00160"
+  ],
+  "title": [
+    "Integrating emotion regulation and emotional intelligence traditions: a meta-analysis."
+  ],
+  "authorString": [
+    "Peña-Sarrionandia A, Mikolajczak M, Gross JJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Peña-Sarrionandia A"
+          ],
+          "firstName": [
+            "Ainize"
+          ],
+          "lastName": [
+            "Peña-Sarrionandia"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Faculty of Psychology, Department of Personality, Evaluation and Psychological Treatments, University of the Basque Country Donostia-San Sebastian, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Mikolajczak M"
+          ],
+          "firstName": [
+            "Moïra"
+          ],
+          "lastName": [
+            "Mikolajczak"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7333-1578",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychology, Research Unit for Emotion Cognition and Health, Université Catholique de Louvain Louvain-la-Neuve, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Gross JJ"
+          ],
+          "firstName": [
+            "James J"
+          ],
+          "lastName": [
+            "Gross"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Department of Psychology, Standford University Standford, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7333-1578",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4140-4370",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2249761"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "160"
+  ],
+  "abstractText": [
+    "Two relatively independent research traditions have developed that address emotion management. The first is the emotion regulation (ER) tradition, which focuses on the processes which permit individuals to influence which emotions they have, when they have them, and how they experience and express these emotions. The second is the emotional intelligence (EI) tradition, which focuses-among other things-on individual differences in ER. To integrate these two traditions, we employed the process model of ER (Gross, 1998b) to review the literature on EI. Two key findings emerged. First, high EI individuals shape their emotions from the earliest possible point in the emotion trajectory and have many strategies at their disposal. Second, high EI individuals regulate their emotions successfully when necessary but they do so flexibly, thereby leaving room for emotions to emerge. We argue that ER and EI traditions stand to benefit substantially from greater integration."
+  ],
+  "affiliation": [
+    "Faculty of Psychology, Department of Personality, Evaluation and Psychological Treatments, University of the Basque Country Donostia-San Sebastian, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Review",
+        "Meta-analysis",
+        "Coping",
+        "Emotion Regulation",
+        "Emotional Intelligence",
+        "Emotional Competence"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2015.00160"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4338658"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4338658?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31824385"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Front Psychol. 2019 Nov 27;10:2610"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "30"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-03-11"
+  ],
+  "dateOfCreation": [
+    "2015-03-12"
+  ],
+  "firstIndexDate": [
+    "2015-03-12"
+  ],
+  "fullTextReceivedDate": [
+    "2015-03-12"
+  ],
+  "dateOfRevision": [
+    "2019-12-09"
+  ],
+  "electronicPublicationDate": [
+    "2015-02-24"
+  ],
+  "firstPublicationDate": [
+    "2015-02-24"
+  ]
+}

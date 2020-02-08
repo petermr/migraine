@@ -1,0 +1,187 @@
+{
+  "id": [
+    "29839545"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29839545"
+  ],
+  "pmcid": [
+    "PMC5272575"
+  ],
+  "title": [
+    "Progress in Psychiatry."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "723"
+      ],
+      "volume": [
+        "28"
+      ],
+      "journalIssueId": [
+        "2689531"
+      ],
+      "dateOfPublication": [
+        "1900 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "1900"
+      ],
+      "printPublicationDate": [
+        "1900-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Hospital"
+          ],
+          "ISOAbbreviation": [
+            "Hospital (Lond 1886)"
+          ],
+          "medlineAbbreviation": [
+            "Hospital (Lond 1886)"
+          ],
+          "NLMid": [
+            "0012036"
+          ],
+          "ISSN": [
+            "0267-6478"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1900"
+  ],
+  "pageInfo": [
+    "304-305"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5272575"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5272575?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-30"
+  ],
+  "firstIndexDate": [
+    "2018-05-31"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-01"
+  ],
+  "dateOfRevision": [
+    "2018-06-07"
+  ],
+  "firstPublicationDate": [
+    "1900-08-01"
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "id": [
+    "30909865"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30909865"
+  ],
+  "pmcid": [
+    "PMC6734233"
+  ],
+  "doi": [
+    "10.1186/s10194-019-0986-z"
+  ],
+  "title": [
+    "Increased connectivity of pain matrix in chronic migraine: a resting-state functional MRI study."
+  ],
+  "authorString": [
+    "Lee MJ, Park BY, Cho S, Kim ST, Park H, Chung CS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee MJ"
+          ],
+          "firstName": [
+            "Mi Ji"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Department of Neurology, Samsung Medical Center, Sungkyunkwan University School of Medicine, 81 Irwon-Ro, Gangnam-Gu, Seoul, 06351, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park BY"
+          ],
+          "firstName": [
+            "Bo-Yong"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "BY"
+          ],
+          "affiliation": [
+            "Department of Electrical and Computer Engineering, Sungkyunkwan University, Suwon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho S"
+          ],
+          "firstName": [
+            "Soohyun"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology, Samsung Medical Center, Sungkyunkwan University School of Medicine, 81 Irwon-Ro, Gangnam-Gu, Seoul, 06351, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim ST"
+          ],
+          "firstName": [
+            "Sung Tae"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "affiliation": [
+            "Department of Radiology, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park H"
+          ],
+          "firstName": [
+            "Hyunjin"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Center for Neuroscience Imaging Research, Institute for Basic Science, Suwon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Chung CS"
+          ],
+          "firstName": [
+            "Chin-Sang"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "CS"
+          ],
+          "affiliation": [
+            "Department of Neurology, Samsung Medical Center, Sungkyunkwan University School of Medicine, 81 Irwon-Ro, Gangnam-Gu, Seoul, 06351, South Korea. cspaul@naver.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7096-337X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2787827"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "29"
+  ],
+  "abstractText": [
+    "OBJECTIVE:To investigate the whole-brain resting-state functional connectivity in patients with chronic migraine (CM) using a data-driven method. METHODS:We prospectively recruited patients with either episodic migraine (EM) or CM aged 18-60 years who visited the headache clinic of the Samsung Medical Center from July 2016 to December 2017. All patients underwent 3 T MRI using an identical scanner. Patients were considered interictal if they did not have a migraine headache at the day and ± 1 days of functional MRI acquisition. Using the group-independent component analysis (ICA), connectivity analysis with a weighted and undirected network model was performed. The between-group differences in degree centrality (DC) values were assessed using 5000 permutation tests corrected with false discovery rate (FDR). RESULTS:A total of 62 patients (44 EM and 18 CM) were enrolled in this study. Among the seven functionally interpretable spatially independent components (ICs) identified, only one IC, interpreted as the pain matrix, showed a significant between-group difference in DC (CM > EM, p = 0.046). This association remained significant after adjustment for age, sex, migraine with aura (MWA), allodynia, depression, and anxiety (p = 0.038). The pain matrix was functionally correlated with the hypothalamus (p = 0.040, EM > CM) and dorsal raphe nucleus (p = 0.039, CM > EM) with different levels of strength in EM and CM. CONCLUSION:CM patients have a stronger connectivity in the pain matrix than do EM patients. Functional alteration of the pain network might play a role in migraine chronification."
+  ],
+  "affiliation": [
+    "Department of Neurology, Samsung Medical Center, Sungkyunkwan University School of Medicine, 81 Irwon-Ro, Gangnam-Gu, Seoul, 06351, South Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017R1A2B2009086"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017R1A2B4007254"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nerve Net"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depression"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Functional MRI",
+        "Migraine",
+        "Neuroimaging",
+        "Chronic Migraine",
+        "Pain Matrix"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-019-0986-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734233"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734233?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-05-08"
+  ],
+  "dateOfCreation": [
+    "2019-03-27"
+  ],
+  "firstIndexDate": [
+    "2019-03-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-09-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-25"
+  ],
+  "firstPublicationDate": [
+    "2019-03-25"
+  ]
+}

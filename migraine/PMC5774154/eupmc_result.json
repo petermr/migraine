@@ -1,0 +1,597 @@
+{
+  "id": [
+    "29347935"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29347935"
+  ],
+  "pmcid": [
+    "PMC5774154"
+  ],
+  "doi": [
+    "10.1186/s12905-017-0508-6"
+  ],
+  "title": [
+    "Real-world experience of women using extended-cycle vs monthly-cycle combined oral contraception in the United States: the National Health and Wellness Survey."
+  ],
+  "authorString": [
+    "Nappi RE, Lete I, Lee LK, Flores NM, Micheletti MC, Tang B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nappi RE"
+          ],
+          "firstName": [
+            "Rossella E"
+          ],
+          "lastName": [
+            "Nappi"
+          ],
+          "initials": [
+            "RE"
+          ],
+          "affiliation": [
+            "Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS Policlinico San Matteo Foundation, Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, Piazzale Golgi 2, 27100, Pavia, Italy. renappi@tin.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Lete I"
+          ],
+          "firstName": [
+            "Iñaki"
+          ],
+          "lastName": [
+            "Lete"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Araba University Hospital, Jose Atxotegi Street, Vitoria, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee LK"
+          ],
+          "firstName": [
+            "Lulu K"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "LK"
+          ],
+          "affiliation": [
+            "Kantar Health, 393 Vintage Park Drive, Suite 100, Foster City, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Flores NM"
+          ],
+          "firstName": [
+            "Natalia M"
+          ],
+          "lastName": [
+            "Flores"
+          ],
+          "initials": [
+            "NM"
+          ],
+          "affiliation": [
+            "Kantar Health, 393 Vintage Park Drive, Suite 100, Foster City, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Micheletti MC"
+          ],
+          "firstName": [
+            "Marie-Christine"
+          ],
+          "lastName": [
+            "Micheletti"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Teva Europe Women's Health, Piet Heinkade 107, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang B"
+          ],
+          "firstName": [
+            "Boxiong"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Teva Pharmaceuticals, 41 Moores Road, Frazer, PA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2633642"
+      ],
+      "dateOfPublication": [
+        "2018 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC women's health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Womens Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Womens Health"
+          ],
+          "NLMid": [
+            "101088690"
+          ],
+          "ISSN": [
+            "1472-6874"
+          ],
+          "ESSN": [
+            "1472-6874"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "22"
+  ],
+  "abstractText": [
+    "BACKGROUND:The real-world experience of women receiving extended-cycle combined oral contraception (COC) versus monthly-cycle COC has not been reported. METHODS:Data were from the United States 2013 National Health and Wellness Survey. Eligible women (18-50 years old, premenopausal, without hysterectomy) currently using extended-cycle COC (3 months between periods) were compared with women using monthly-cycle COC. Treatment satisfaction (1 \"extremely dissatisfied\" to 7 \"extremely satisfied\"), adherence (8-item Morisky Medication Adherence Scale©), menstrual cycle-related symptoms, health-related quality of life (HRQOL) and health state utilities (Medical Outcomes Short Form Survey-36v2®), depression (9-item Patient Health Questionnaire), sleep difficulties, Work Productivity and Activity Impairment-General Health, and healthcare resource use were assessed using one-way analyses of variance, chi-square tests, and generalized linear models (adjusted for covariates). RESULTS:Participants included 260 (6.7%) women using extended-cycle and 3616 (93.3%) using monthly-cycle COC. Women using extended-cycle COC reported significantly higher treatment satisfaction (P = 0.001) and adherence (P = 0.04) and reduced heavy menstrual bleeding (P = 0.029). A non-significant tendency toward reduced menstrual pain (39.5% versus 47.3%) and menstrual cycle-related symptoms (40.0% versus 48.7%) was found in women using extended-cycle versus monthly-cycle COC. Significantly more women using extended-cycle COC reported health-related diagnoses, indicating preferential prescription for extended-cycle COC among women reporting more health problems. Consistent with this poorer health, more women using extended-cycle COC reported fatigue, headache, and activity impairment (P values < 0.05). There were no other significant differences between groups. CONCLUSIONS:This real-world observational study supports extended-cycle COC as a valuable treatment option with high satisfaction, high adherence, and reduced heavy menstrual bleeding."
+  ],
+  "affiliation": [
+    "Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS Policlinico San Matteo Foundation, Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, Piazzale Golgi 2, 27100, Pavia, Italy. renappi@tin.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Observational Study"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Menstruation Disturbances"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Contraceptives, Oral, Combined"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Administration Schedule"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Surveys"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Menstrual Cycle"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Satisfaction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Medication Adherence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Patient Outcome Assessment"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Adherence",
+        "menstrual cycle",
+        "Satisfaction",
+        "Real-world",
+        "Heavy Menstrual Bleeding",
+        "Hormonal Contraception",
+        "Women’s Health",
+        "Extended-regimen"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Contraceptives, Oral, Combined"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12905-017-0508-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5774154"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5774154?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-14"
+  ],
+  "dateOfCreation": [
+    "2018-01-20"
+  ],
+  "firstIndexDate": [
+    "2018-01-20"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-28"
+  ],
+  "dateOfRevision": [
+    "2019-01-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-18"
+  ],
+  "firstPublicationDate": [
+    "2018-01-18"
+  ]
+}

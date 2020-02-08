@@ -1,0 +1,292 @@
+{
+  "id": [
+    "30345239"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30345239"
+  ],
+  "pmcid": [
+    "PMC6182488"
+  ],
+  "doi": [
+    "10.5223/pghn.2018.21.4.264"
+  ],
+  "title": [
+    "Initial Diagnosis of Functional Gastrointestinal Disorders in Children Increases a Chance for Resolution of Symptoms."
+  ],
+  "authorString": [
+    "Trivić I, Hojsak I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Trivić I"
+          ],
+          "firstName": [
+            "Ivana"
+          ],
+          "lastName": [
+            "Trivić"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7357-4510",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Referral Centre for Pediatric Gastroenterology and Nutrition, Children's Hospital Zagreb, Croatia."
+          ]
+        },
+        {
+          "fullName": [
+            "Hojsak I"
+          ],
+          "firstName": [
+            "Iva"
+          ],
+          "lastName": [
+            "Hojsak"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Referral Centre for Pediatric Gastroenterology and Nutrition, Children's Hospital Zagreb, Croatia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7357-4510",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2740920"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pediatric gastroenterology, hepatology & nutrition"
+          ],
+          "ISOAbbreviation": [
+            "Pediatr Gastroenterol Hepatol Nutr"
+          ],
+          "medlineAbbreviation": [
+            "Pediatr Gastroenterol Hepatol Nutr"
+          ],
+          "NLMid": [
+            "101590471"
+          ],
+          "ISSN": [
+            "2234-8646"
+          ],
+          "ESSN": [
+            "2234-8840"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "264-270"
+  ],
+  "abstractText": [
+    "Purpose:The aim of this study was to describe functional gastrointestinal disorders (FGID) presented in a tertiary medical center, characteristics of patients and results of the diagnostic work-up together with an outcome during the follow up. Methods:This was a retrospective, single center, observational study including all patients who were diagnosed with FGID based on Rome III criteria from January to December 2015 in tertiary medical center. Results:Overall 294 children were included (mean age, 8.9 years [range, 1-18 years]; 165 females). Majority had functional constipation (35.4%), followed by functional abdominal pain (30.6%), irritable bowel syndrome (17.0%), functional dyspepsia (12.6%), functional nausea (3.4%) and abdominal migraine (1.0%). Regression model found that only significant factor associated with improvement of symptoms is the establishment of the functional diagnosis at the first visit (hazard ratio, 2.163; 95% confidence inverval, 1.029-4.544). There was no association between improvement of symptoms and presence of alarm signs/symptoms (weight loss, nocturnal symptoms and severe vomiting) at diagnosis. Furthermore, in pain symptoms (functional abdominal pain, irritable bowel syndrome, dyspepsia) no treatment positively correlated with pain improvement. Conclusion:Regardless of the initial diagnosis of FGID, positive diagnosis at the first visit increases a chance for resolution of symptoms."
+  ],
+  "affiliation": [
+    "Referral Centre for Pediatric Gastroenterology and Nutrition, Children's Hospital Zagreb, Croatia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Dyspepsia",
+        "Constipation",
+        "Abdominal Pain"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5223/pghn.2018.21.4.264"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6182488"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6182488?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-23"
+  ],
+  "firstIndexDate": [
+    "2018-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-23"
+  ],
+  "dateOfRevision": [
+    "2018-10-24"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-10"
+  ],
+  "firstPublicationDate": [
+    "2018-10-10"
+  ]
+}

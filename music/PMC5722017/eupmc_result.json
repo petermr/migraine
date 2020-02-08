@@ -1,0 +1,388 @@
+{
+  "id": [
+    "29255372"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29255372"
+  ],
+  "pmcid": [
+    "PMC5722017"
+  ],
+  "doi": [
+    "10.2147/JPR.S143734"
+  ],
+  "title": [
+    "Spatial-temporal signature of resting-state BOLD signals in classic trigeminal neuralgia."
+  ],
+  "authorString": [
+    "Wang Y, Xu C, Zhai L, Lu X, Wu X, Yi Y, Liu Z, Guan Q, Zhang X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yanping"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Neurology, the Second Hospital of Jiaxing City, Jiaxing, Zhejiang."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu C"
+          ],
+          "firstName": [
+            "Congying"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Neurology, the Second Hospital of Jiaxing City, Jiaxing, Zhejiang."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhai L"
+          ],
+          "firstName": [
+            "Liping"
+          ],
+          "lastName": [
+            "Zhai"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Neurology, the Second Hospital of Jiaxing City, Jiaxing, Zhejiang."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu X"
+          ],
+          "firstName": [
+            "Xudong"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Neurology, the Second Hospital of Jiaxing City, Jiaxing, Zhejiang."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu X"
+          ],
+          "firstName": [
+            "Xiaoqiang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Neurology, the Second Hospital of Jiaxing City, Jiaxing, Zhejiang."
+          ]
+        },
+        {
+          "fullName": [
+            "Yi Y"
+          ],
+          "firstName": [
+            "Yahui"
+          ],
+          "lastName": [
+            "Yi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Radiology, the Second Hospital of Jiaxing City, Jiaxing, Zhejiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Z"
+          ],
+          "firstName": [
+            "Ziyun"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Neurology, the Second Hospital of Jiaxing City, Jiaxing, Zhejiang."
+          ]
+        },
+        {
+          "fullName": [
+            "Guan Q"
+          ],
+          "firstName": [
+            "Qiaobing"
+          ],
+          "lastName": [
+            "Guan"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Neurology, the Second Hospital of Jiaxing City, Jiaxing, Zhejiang."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xiaoling"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Neurology, the Second Hospital of Jiaxing City, Jiaxing, Zhejiang."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2550638"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of pain research"
+          ],
+          "ISOAbbreviation": [
+            "J Pain Res"
+          ],
+          "medlineAbbreviation": [
+            "J Pain Res"
+          ],
+          "NLMid": [
+            "101540514"
+          ],
+          "ISSN": [
+            "1178-7090"
+          ],
+          "ESSN": [
+            "1178-7090"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "2741-2750"
+  ],
+  "abstractText": [
+    "Resting-state functional magnetic resonance imaging (R-fMRI) signals are spatiotemporally organized. R-fMRI studies in patients with classic trigeminal neuralgia (CTN) have suggested alterations in functional connectivity. However, far less attention has been given to investigations of the local oscillations and their frequency-specific changes in these patients. The objective of this study was to address this issue in patients with CTN. R-fMRI data from 17 patients with CTN and 19 age- and gender-matched healthy controls (HCs) were analyzed using amplitude of low-frequency fluctuation (ALFF). The ALFF was computed across different frequencies (slow-4: 0.027-0.073 Hz; slow-5: 0.01-0.027 Hz; and typical band: 0.01-0.08 Hz) in patients with CTN compared to HCs. In the typical band, patients with CTN showed increases of ALFF in bilateral temporal, occipital, and left middle frontal regions and in the left middle cingulate gyrus, as well as decreases of ALFF in the right inferior temporal region and in regions (medial prefrontal regions) of default mode network. These significant group differences were identified in different sub-bands, with greater brainstem findings in higher frequencies (slow-4) and extensive default mode network and right postparietal results in lower frequencies (slow-5). Furthermore, significant relationships were found between subjective pain ratings and both amplitudes of higher frequency (slow-4) blood oxygen level-dependent (BOLD) signals in pain localization brain regions and lower frequencies (slow-5) in pain signaling/modulating brain regions in the patients, and decreased ALFF within the prefrontal regions was significantly correlated with pain duration in the patients. This result supports our hypothesis that trigeminal pain has a characteristic spatiotemporal distribution of low-frequency BOLD signals. These findings might contribute to a better understanding of the impact of CTN on the brain's intrinsic architecture. Future studies should take the frequencies into account when measuring brain resting BOLD signals of patients with CTN."
+  ],
+  "affiliation": [
+    "Department of Neurology, the Second Hospital of Jiaxing City, Jiaxing, Zhejiang."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Resting Fmri",
+        "Frequency Dependent",
+        "Slow-4",
+        "Slow-5"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/JPR.S143734"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5722017"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5722017?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-12-20"
+  ],
+  "firstIndexDate": [
+    "2017-12-20"
+  ],
+  "fullTextReceivedDate": [
+    "2017-12-20"
+  ],
+  "dateOfRevision": [
+    "2017-12-22"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-05"
+  ],
+  "firstPublicationDate": [
+    "2017-12-05"
+  ]
+}

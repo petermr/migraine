@@ -1,0 +1,354 @@
+{
+  "id": [
+    "31920368"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31920368"
+  ],
+  "pmcid": [
+    "PMC6939407"
+  ],
+  "doi": [
+    "10.2147/JPR.S216807"
+  ],
+  "title": [
+    "Nonpharmacological Interventions Addressing Pain, Sleep, and Quality of Life in Children and Adolescents with Primary Headache: A Systematic Review."
+  ],
+  "authorString": [
+    "Klausen SH, Rønde G, Tornøe B, Bjerregaard L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Klausen SH"
+          ],
+          "firstName": [
+            "Susanne Hwiid"
+          ],
+          "lastName": [
+            "Klausen"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8968-1812",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Zealand University Hospital, Roskilde, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Rønde G"
+          ],
+          "firstName": [
+            "Gitte"
+          ],
+          "lastName": [
+            "Rønde"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Zealand University Hospital, Roskilde, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Tornøe B"
+          ],
+          "firstName": [
+            "Birte"
+          ],
+          "lastName": [
+            "Tornøe"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0185-4556",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Health Sciences, Lund University, Lund, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Bjerregaard L"
+          ],
+          "firstName": [
+            "Lene"
+          ],
+          "lastName": [
+            "Bjerregaard"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3952-5301",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Open Patient Data Explorative Network (OPEN), University of Southern Denmark (SDU), Odense, Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3952-5301",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8968-1812",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0185-4556",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2762019"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of pain research"
+          ],
+          "ISOAbbreviation": [
+            "J Pain Res"
+          ],
+          "medlineAbbreviation": [
+            "J Pain Res"
+          ],
+          "NLMid": [
+            "101540514"
+          ],
+          "ISSN": [
+            "1178-7090"
+          ],
+          "ESSN": [
+            "1178-7090"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3437-3459"
+  ],
+  "abstractText": [
+    "Purpose:Children and adolescents with primary headache are at risk of persistent somatic symptoms and reduced quality of life (Qol) due to pain and pain-related behaviors, such as avoiding school and activities. Sleep is essential to health, and children and adolescents with primary headaches have more sleep complaints than do healthy controls. A treatment approach that addresses multifactorial causes is likely important. Nonpharmacological interventions seem promising. However, knowledge about effective strategies is limited. The objective of this review is to assess the effect of nonpharmacological interventions in randomized controlled trials (RCTs) among children and adolescents with primary headache in order to identify useful strategies. Patients and methods:Outcome measures are pain, sleep, Qol, and coping versus no intervention or control intervention. Medline, CINAHL, EMBASE, and PsycINFO were searched for eligible trials. ClinicalTrials.gov. was searched for ongoing trials. Initial searches yielded 2588 publications. After initial screening and subsequent full-text review and quality assessment, 13 RCTs reported in 15 articles were selected for review. All reviewers independently assessed study quality using the CONSORT criteria for nonpharmacological interventions. Results:Cognitive behavioral therapy (CBT), including education on pain-related topics, sleep, coping, and stress management, is an effective strategy for reducing headache and pain within groups over time. Fifteen studies assessed pain, 3 studies assessed sleep, 6 studies assessed Qol, and 11 studies assessed coping. Conclusion:Strategies identified as useful were parts of CBT interventions. However, it was not possible to identify a single effective intervention addressing pain, sleep, Qol, and coping in children and adolescents with headache, primarily because sleep was infrequently addressed. Various aspects of Qol and coping strategies were assessed, rendering comparison difficult. Strategies for future interventions should include descriptions of theory-driven CBT interventions, depending on clinical setting and based on local resources, to promote a solid evidence base for nonpharmacological interventions."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Zealand University Hospital, Roskilde, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sleep",
+        "Pain",
+        "Migraine",
+        "Quality of life",
+        "Coping",
+        "Tension﻿-type Headache"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/JPR.S216807"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6939407"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6939407?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-11"
+  ],
+  "firstIndexDate": [
+    "2020-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-12"
+  ],
+  "dateOfRevision": [
+    "2020-01-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-23"
+  ],
+  "firstPublicationDate": [
+    "2019-12-23"
+  ]
+}

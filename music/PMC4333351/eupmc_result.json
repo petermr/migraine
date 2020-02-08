@@ -1,0 +1,186 @@
+{
+  "id": [
+    "PMC4333351"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC4333351"
+  ],
+  "title": [
+    "FREE PAPERS (ORAL)."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "57"
+      ],
+      "journalIssueId": [
+        "2257016"
+      ],
+      "dateOfPublication": [
+        "2015 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian Journal of Psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Psychiatry"
+          ],
+          "NLMid": [
+            "0013255"
+          ],
+          "ISSN": [
+            "0019-5545"
+          ],
+          "ESSN": [
+            "1998-3794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "S11-S112"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4333351/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4333351"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2015-02-26"
+  ],
+  "firstIndexDate": [
+    "2015-02-26"
+  ],
+  "fullTextReceivedDate": [
+    "2015-02-25"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "firstPublicationDate": [
+    "2015-01-01"
+  ]
+}

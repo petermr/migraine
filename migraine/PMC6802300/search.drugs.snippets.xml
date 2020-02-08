@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6802300/results/search/drugs/results.xml">
+  <result pre="IV therapies included one of the following four options: -" exact="ketorolac" post="only ( n = 55) - ketorolac and metoclopramide / prochlorperazine"/>
+  <result pre="the following four options: - ketorolac only ( n = 55) -" exact="ketorolac" post="and metoclopramide / prochlorperazine ( n = 132) - metoclopramide or"/>
+  <result pre="four options: - ketorolac only ( n = 55) - ketorolac and" exact="metoclopramide" post="/ prochlorperazine ( n = 132) - metoclopramide or prochlorperazine ("/>
+  <result pre="- ketorolac only ( n = 55) - ketorolac and metoclopramide /" exact="prochlorperazine" post="( n = 132) - metoclopramide or prochlorperazine ( n = 30) -"/>
+  <result pre="n = 55) - ketorolac and metoclopramide / prochlorperazine ( n = 132) -" exact="metoclopramide" post="or prochlorperazine ( n = 30) - ondansetron only ( n = 37)"/>
+  <result pre="ketorolac and metoclopramide / prochlorperazine ( n = 132) - metoclopramide or" exact="prochlorperazine" post="( n = 30) - ondansetron only ( n = 37) The dosages"/>
+  <result pre="prochlorperazine ( n = 132) - metoclopramide or prochlorperazine ( n = 30) -" exact="ondansetron" post="only ( n = 37) The dosages used were not reported."/>
+  <result pre="reported. Thirty-seven percent of the subjects were pretreated with either" exact="acetaminophen" post="or ibuprofen. None Treatment success defined as ≥50% reduction"/>
+  <result pre="10. Treatment success: - Ketorolac only: 80% - Ketorolac plus" exact="metoclopramide" post="or prochlorperazine: 89% - Metoclopramide or prochlorperazine only: 93%"/>
+  <result pre="- Ketorolac plus metoclopramide or prochlorperazine: 89% - Metoclopramide or" exact="prochlorperazine" post="only: 93% - Ondansetron only: 78% Dubrovsky et al."/>
+  <result pre="center, retrospective mTBI Acute Pharmacological Treatment. - GON block (2%" exact="lidocaine" post="with epinephrine) - Peripheral nerve blocks of the lesser"/>
+  <result pre="decrease in headache frequency was significant for subjects treated with" exact="topiramate" post="(n = 29, P = 0.02), but not for any other of the"/>
+  <result pre="45 years Single-center, ED, prospective NS Acute Pharmacological Treatment. IV" exact="metoclopramide" post="20 mg + dephenhydramine 25 mg. 48 h + 7 days, 2 patients lost to follow-up. &quot;Sustained"/>
+  <result pre="Melatonin 3–10 mg/day ( n = 12) - Nortriptyline ( n = 9) a and" exact="flunarizine" post="( n = 8) a doses were not specified - 17"/>
+  <result pre="Treatment. Administration of GON block was done with 2,5 mL 2%" exact="lidocaine" post="(50 mg) + 0.5 ml methylprednisolone acetate (20 mg) or 2.5 ml triamcinolone (25 mg). Follow-up"/>
+  <result pre="of GON block was done with 2,5 mL 2% lidocaine (50 mg) + 0.5 ml" exact="methylprednisolone" post="acetate (20 mg) or 2.5 ml triamcinolone (25 mg). Follow-up assessment was"/>
+  <result pre="with 2,5 mL 2% lidocaine (50 mg) + 0.5 ml methylprednisolone acetate (20 mg) or 2.5 ml" exact="triamcinolone" post="(25 mg). Follow-up assessment was conducted at a mean of"/>
+  <result pre="The list of acute medications included common analgesics such as" exact="ketorolac" post="[ 12], unspecified non-steroidal anti-inflammatory drugs (NSAIDs) [ 15],"/>
+  <result pre="ketorolac [ 12], unspecified non-steroidal anti-inflammatory drugs (NSAIDs) [ 15]," exact="acetaminophen" post="[ 15] and combination drugs (Excedrin, Cafergot and Midrin)"/>
+  <result pre="(Excedrin, Cafergot and Midrin) [ 15]. Specific analgesics used were" exact="lidocaine" post="[ 9, 10], triptans [ 15] and opioids ["/>
+  <result pre="triptans [ 15] and opioids [ 15]. Antiemetics used were" exact="ondansetron" post="[ 12], metoclopramide [ 11, 12] and prochlorperazine ["/>
+  <result pre="and opioids [ 15]. Antiemetics used were ondansetron [ 12]," exact="metoclopramide" post="[ 11, 12] and prochlorperazine [ 12]. Other drugs"/>
+  <result pre="used were ondansetron [ 12], metoclopramide [ 11, 12] and" exact="prochlorperazine" post="[ 12]. Other drugs used were diphenhydramine [ 11],"/>
+  <result pre="11, 12] and prochlorperazine [ 12]. Other drugs used were" exact="diphenhydramine" post="[ 11], methylprednisolone acetate [ 9] and triamcinolone ["/>
+  <result pre="prochlorperazine [ 12]. Other drugs used were diphenhydramine [ 11]," exact="methylprednisolone" post="acetate [ 9] and triamcinolone [ 9]. A retrospective"/>
+  <result pre="used were diphenhydramine [ 11], methylprednisolone acetate [ 9] and" exact="triamcinolone" post="[ 9]. A retrospective cross-sectional emergency department (ED) based"/>
+  <result pre="of the following four intravenous (IV) acute treatment options: 1)" exact="ketorolac" post="only ( n = 55), 2) ketorolac and metoclopramide/prochlorperazine ( n = 132),"/>
+  <result pre="(IV) acute treatment options: 1) ketorolac only ( n = 55), 2)" exact="ketorolac" post="and metoclopramide/prochlorperazine ( n = 132), 3) metoclopramide or prochlorperazine ("/>
+  <result pre="only ( n = 55), 2) ketorolac and metoclopramide/prochlorperazine ( n = 132), 3)" exact="metoclopramide" post="or prochlorperazine ( n = 30) and 4) ondansetron only ("/>
+  <result pre="n = 55), 2) ketorolac and metoclopramide/prochlorperazine ( n = 132), 3) metoclopramide or" exact="prochlorperazine" post="( n = 30) and 4) ondansetron only ( n = 37). The"/>
+  <result pre="( n = 132), 3) metoclopramide or prochlorperazine ( n = 30) and 4)" exact="ondansetron" post="only ( n = 37). The dosages used were not reported."/>
+  <result pre="nerve blocks and supraorbital nerve blocks. The blocks contained 2%" exact="lidocaine" post="with epinephrine. The primary outcome was to examine the"/>
+  <result pre="further specified. Moreover, the authors reported that 82% received intravenous" exact="metoclopramide" post="treatment prior to the first treatment with peripheral nerve"/>
+  <result pre="prior to the first treatment with peripheral nerve blocks. Following" exact="metoclopramide" post="treatment, 32% of subjects reported complete immediate headache resolution"/>
+  <result pre="44% achieved partial and 24% no headache relief, respectively. Intravenous" exact="metoclopramide" post="treatment was conducted at a mean of 39 days since"/>
+  <result pre="The authors did not report the dosages used for intravenous" exact="metoclopramide" post="treatment. In another case series, Seeger et al. ["/>
+  <result pre="study investigated headache relief in 21 patients treated with intravenous" exact="metoclopramide" post="20 mg and diphenhydramine 25 mg after acute PTH attributed to"/>
+  <result pre="relief in 21 patients treated with intravenous metoclopramide 20 mg and" exact="diphenhydramine" post="25 mg after acute PTH attributed to TBI [ 11]."/>
+  <result pre="population [ 13]. The list of preventive medications used included:" exact="amitriptyline" post="[ 13– 15], nortriptyline [ 14, 15], topiramate ["/>
+  <result pre="list of preventive medications used included: amitriptyline [ 13– 15]," exact="nortriptyline" post="[ 14, 15], topiramate [ 14, 15], propranolol ["/>
+  <result pre="used included: amitriptyline [ 13– 15], nortriptyline [ 14, 15]," exact="topiramate" post="[ 14, 15], propranolol [ 15], valproate [ 15],"/>
+  <result pre="13– 15], nortriptyline [ 14, 15], topiramate [ 14, 15]," exact="propranolol" post="[ 15], valproate [ 15], melatonin [ 14], gabapentin"/>
+  <result pre="[ 14, 15], topiramate [ 14, 15], propranolol [ 15]," exact="valproate" post="[ 15], melatonin [ 14], gabapentin [ 13] and"/>
+  <result pre="topiramate [ 14, 15], propranolol [ 15], valproate [ 15]," exact="melatonin" post="[ 14], gabapentin [ 13] and flunarizine [ 14]."/>
+  <result pre="15], propranolol [ 15], valproate [ 15], melatonin [ 14]," exact="gabapentin" post="[ 13] and flunarizine [ 14]. In the aforementioned"/>
+  <result pre="valproate [ 15], melatonin [ 14], gabapentin [ 13] and" exact="flunarizine" post="[ 14]. In the aforementioned military study [ 15],"/>
+  <result pre="following prophylactic medications: tricyclic antidepressants (amitriptyline or nortriptyline, n = 48) 25–50 mg/day," exact="topiramate" post="( n = 29) 100 mg/day, propranolol ( n = 18) 80 mg/day and valproate"/>
+  <result pre="antidepressants (amitriptyline or nortriptyline, n = 48) 25–50 mg/day, topiramate ( n = 29) 100 mg/day," exact="propranolol" post="( n = 18) 80 mg/day and valproate ( n = 5) 500 mg/day). Some"/>
+  <result pre="25–50 mg/day, topiramate ( n = 29) 100 mg/day, propranolol ( n = 18) 80 mg/day and" exact="valproate" post="( n = 5) 500 mg/day). Some patients also received non-pharmacological treatment"/>
+  <result pre="decrease in headache frequency was significant for subjects treated with" exact="topiramate" post="( n = 29, P = 0.02), but not for any of the"/>
+  <result pre="as measured by MIDAS. In conclusion, the authors stated that" exact="topiramate" post="could be an effective prophylactic drug for PTH, while"/>
+  <result pre="The list of prophylactic treatments used in the study included:" exact="amitriptyline" post="(5 mg/day to 1 mg/kg/day), nortriptyline (dosage not specified), topiramate (12.5"/>
+  <result pre="treatments used in the study included: amitriptyline (5 mg/day to 1 mg/kg/day)," exact="nortriptyline" post="(dosage not specified), topiramate (12.5 to 200 mg/day), melatonin (3–10 mg/day)"/>
+  <result pre="study included: amitriptyline (5 mg/day to 1 mg/kg/day), nortriptyline (dosage not specified)," exact="topiramate" post="(12.5 to 200 mg/day), melatonin (3–10 mg/day) and flunarizine (dosage not"/>
+  <result pre="to 1 mg/kg/day), nortriptyline (dosage not specified), topiramate (12.5 to 200 mg/day)," exact="melatonin" post="(3–10 mg/day) and flunarizine (dosage not specified). The primary outcome"/>
+  <result pre="(dosage not specified), topiramate (12.5 to 200 mg/day), melatonin (3–10 mg/day) and" exact="flunarizine" post="(dosage not specified). The primary outcome was a ≥ 50% reduction"/>
+  <result pre="reported that the overall treatment response was 64%. More specifically," exact="melatonin" post="and amitriptyline yielded a treatment success rate of 75%"/>
+  <result pre="the overall treatment response was 64%. More specifically, melatonin and" exact="amitriptyline" post="yielded a treatment success rate of 75% (9 of"/>
+  <result pre="an academic sports medicine practice classified patients into three groups:" exact="gabapentin" post="group (median dose: 900 mg, n = 60), amitriptyline group (median dose:"/>
+  <result pre="patients into three groups: gabapentin group (median dose: 900 mg, n = 60)," exact="amitriptyline" post="group (median dose: 20 mg, n = 94) and no medication group"/>
+  <result pre="treatment during the study period. No patient was prescribed both" exact="gabapentin" post="and amitriptyline. A 7-point numeric rating scale from 0"/>
+  <result pre="severe headache) was used to record headache scores. In the" exact="gabapentin" post="and amitriptyline groups, most subjects (~ 80%) were prescribed pharmacological"/>
+  <result pre="was used to record headache scores. In the gabapentin and" exact="amitriptyline" post="groups, most subjects (~ 80%) were prescribed pharmacological treatment at"/>
+  <result pre="White Deborah John Gallagher E. An exploratory study of IV" exact="metoclopramide" post="+ diphenhydramine for acute post-traumatic headache The American Journal"/>
+  <result pre="John Gallagher E. An exploratory study of IV metoclopramide +" exact="diphenhydramine" post="for acute post-traumatic headache The American Journal of Emergency"/>
+  <result pre="al. Cessation versus continuation of 6-month migraine preventive therapy with" exact="topiramate" post="(PROMPT): a randomised, double-blind, placebo-controlled trial Lancet Neurol 2007"/>
+  <result pre="Ramadan N Mathew N et al. Efficacy and safety of" exact="topiramate" post="for the treatment of chronic migraine: a randomized, double-blind,"/>
+ </snippets>
+</snippetsTree>

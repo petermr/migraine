@@ -1,0 +1,710 @@
+{
+  "id": [
+    "29922214"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29922214"
+  ],
+  "pmcid": [
+    "PMC5996089"
+  ],
+  "doi": [
+    "10.3389/fneur.2018.00395"
+  ],
+  "title": [
+    "Clinical Features of Headache in Patients With Diagnosis of Definite Vestibular Migraine: The VM-Phenotypes Projects."
+  ],
+  "authorString": [
+    "Teggi R, Colombo B, Albera R, Asprella Libonati G, Balzanelli C, Batuecas Caletrio A, Casani AP, Espinosa-Sanchez JM, Gamba P, Lopez-Escamez JA, Lucisano S, Mandalà M, Neri G, Nuti D, Pecci R, Russo A, Martin-Sanz E, Sanz R, Tedeschi G, Torelli P, Vannucchi P, Comi G, Bussi M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Teggi R"
+          ],
+          "firstName": [
+            "Roberto"
+          ],
+          "lastName": [
+            "Teggi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2948-4638",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "ENT Department, San Raffaele Scientific Hospital, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Colombo B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "Colombo"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Headache Unit, Department of Neurology, San Raffaele Scientific Hospital, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Albera R"
+          ],
+          "firstName": [
+            "Roberto"
+          ],
+          "lastName": [
+            "Albera"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Dipartimento di Scienze, Chirurgiche Università di Torino, Turin, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Asprella Libonati G"
+          ],
+          "firstName": [
+            "Giacinto"
+          ],
+          "lastName": [
+            "Asprella Libonati"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "U. O. S. D. \"Vestibologia e Otorinolaringoiatria\" Presidio Ospedaliero \"Giovanni Paolo II\", Policoro, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Balzanelli C"
+          ],
+          "firstName": [
+            "Cristiano"
+          ],
+          "lastName": [
+            "Balzanelli"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology, Spedali Civili, University of Brescia, Brescia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Batuecas Caletrio A"
+          ],
+          "firstName": [
+            "Angel"
+          ],
+          "lastName": [
+            "Batuecas Caletrio"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2613-670X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Otoneurology Unit, Department of Otorhinolaryngology, University Hospital of Salamanca, IBSAL, Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Casani AP"
+          ],
+          "firstName": [
+            "Augusto P"
+          ],
+          "lastName": [
+            "Casani"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "affiliation": [
+            "Department of Otorhinolaryngology, Pisa University Medical School Otorhinolaryngology, Pisa University Medical School, Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Espinosa-Sanchez JM"
+          ],
+          "firstName": [
+            "Juan Manuel"
+          ],
+          "lastName": [
+            "Espinosa-Sanchez"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8436-5629",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Otology and Neurotology Group CTS495, Department of Genomic Medicine- Centro de Genómica e Investigación Oncológica - Pfizer/Universidad de Granada/Junta de Andalucía (GENYO), Granada, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Gamba P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Gamba"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Otorhinolaryngology-Head and Neck Surgery, Poliambulanza Foundation Hospital, Brescia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Lopez-Escamez JA"
+          ],
+          "firstName": [
+            "Jose A"
+          ],
+          "lastName": [
+            "Lopez-Escamez"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8583-1430",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Otology and Neurotology Group CTS495, Department of Genomic Medicine- Centro de Genómica e Investigación Oncológica - Pfizer/Universidad de Granada/Junta de Andalucía (GENYO), Granada, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Lucisano S"
+          ],
+          "firstName": [
+            "Sergio"
+          ],
+          "lastName": [
+            "Lucisano"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Dipartimento di Scienze, Chirurgiche Università di Torino, Turin, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Mandalà M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Mandalà"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Otology and Skull Base Unit, Azienda Ospedaliera Universitaria Senese, Siena, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Neri G"
+          ],
+          "firstName": [
+            "Giampiero"
+          ],
+          "lastName": [
+            "Neri"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Neurosciences, Imaging and Clinical Sciences, University of Chieti-Pescara, Chieti, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Nuti D"
+          ],
+          "firstName": [
+            "Daniele"
+          ],
+          "lastName": [
+            "Nuti"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Otology and Skull Base Unit, Azienda Ospedaliera Universitaria Senese, Siena, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Pecci R"
+          ],
+          "firstName": [
+            "Rudi"
+          ],
+          "lastName": [
+            "Pecci"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Unit of Audiology, Department of Surgical Sciences and Translational Medicine, Careggi Hospital, University of Florence, Florence, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Russo A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Russo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology, University Hospital of Getafe, Madrid, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin-Sanz E"
+          ],
+          "firstName": [
+            "Eduardo"
+          ],
+          "lastName": [
+            "Martin-Sanz"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1175-3844",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Campania Luigi Vanvitelli, Naples, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sanz R"
+          ],
+          "firstName": [
+            "Ricardo"
+          ],
+          "lastName": [
+            "Sanz"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Campania Luigi Vanvitelli, Naples, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Tedeschi G"
+          ],
+          "firstName": [
+            "Gioacchino"
+          ],
+          "lastName": [
+            "Tedeschi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology, University Hospital of Getafe, Madrid, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Torelli P"
+          ],
+          "firstName": [
+            "Paola"
+          ],
+          "lastName": [
+            "Torelli"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Neurosciences, Headache Centre, University of Parma, Parma, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Vannucchi P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Vannucchi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Unit of Audiology, Department of Surgical Sciences and Translational Medicine, Careggi Hospital, University of Florence, Florence, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Comi G"
+          ],
+          "firstName": [
+            "Giancarlo"
+          ],
+          "lastName": [
+            "Comi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Headache Unit, Department of Neurology, San Raffaele Scientific Hospital, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bussi M"
+          ],
+          "firstName": [
+            "Mario"
+          ],
+          "lastName": [
+            "Bussi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "ENT Department, San Raffaele Scientific Hospital, Milan, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2948-4638",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2613-670X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4990-8859",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8436-5629",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1175-3844",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8583-1430",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2647770"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "395"
+  ],
+  "abstractText": [
+    "Migraine is a common neurological disorder characterized by episodic headaches with specific features, presenting familial aggregation. Migraine is associated with episodic vertigo, named Vestibular Migraine (VM) whose diagnosis mainly rely on clinical history showing a temporary association of symptoms. Some patient refers symptoms occurring in pediatric age, defined \"episodic symptoms which may be associated with migraine.\" The aim of this cross sectional observational study was to assess migraine-related clinical features in VM subjects. For the purpose, 279 patients were recruited in different centers in Europe; data were collected by a senior neurologist or ENT specialist through a structured questionnaire. The age of onset of migraine was 21.8 ± 9. The duration of headaches was lower than 24 h in 79.1% of cases. Symptoms accompanying migrainous headaches were, in order of frequency, nausea (79.9%), phonophobia (54.5%), photophobia (53.8%), vomiting (29%), lightheadedness (21.1%). Visual or other auras were reported by 25.4% of subjects. A familial aggregation was referred by 67.4%, while migraine precursors were reported by 52.3% of subjects. Patients reporting nausea and vomiting during headaches more frequently experienced the same symptoms during vertigo. Comparing our results in VM subjects with previously published papers in migraine sufferers, our patients presented a lower duration of headaches and a higher rate of familial aggregation; moreover some common characters were observed in headache and vertigo attacks for accompanying symptoms like nausea and vomiting and clustering of attacks."
+  ],
+  "affiliation": [
+    "ENT Department, San Raffaele Scientific Hospital, Milan, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "vertigo",
+        "Headache",
+        "Clinical Diagnosis",
+        "Vestibular Migraine",
+        "Vestibular Disorders"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2018.00395"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5996089"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5996089?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-21"
+  ],
+  "firstIndexDate": [
+    "2018-06-21"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-23"
+  ],
+  "dateOfRevision": [
+    "2018-06-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-05"
+  ],
+  "firstPublicationDate": [
+    "2018-06-05"
+  ]
+}

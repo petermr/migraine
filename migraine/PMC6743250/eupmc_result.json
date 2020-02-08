@@ -1,0 +1,333 @@
+{
+  "id": [
+    "31559010"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31559010"
+  ],
+  "pmcid": [
+    "PMC6743250"
+  ],
+  "doi": [
+    "10.12688/f1000research.18130.1"
+  ],
+  "title": [
+    "Shared Genetics of Psychiatric Disorders."
+  ],
+  "authorString": [
+    "Fuller T, Reus V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fuller T"
+          ],
+          "firstName": [
+            "Tova"
+          ],
+          "lastName": [
+            "Fuller"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Deptartment of Psychiatry, UCSF Weill Institute for Neurosciences, University of California, San Francisco School of Medicine, San Francisco, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Reus V"
+          ],
+          "firstName": [
+            "Victor"
+          ],
+          "lastName": [
+            "Reus"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8193-5697",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Deptartment of Psychiatry, UCSF Weill Institute for Neurosciences, University of California, San Francisco School of Medicine, San Francisco, CA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8193-5697",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2771745"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "F1000Research"
+          ],
+          "ISOAbbreviation": [
+            "F1000Res"
+          ],
+          "medlineAbbreviation": [
+            "F1000Res"
+          ],
+          "NLMid": [
+            "101594320"
+          ],
+          "ISSN": [
+            "2046-1402"
+          ],
+          "ESSN": [
+            "2046-1402"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Until recently, advances in understanding the genetic architecture of psychiatric disorders have been impeded by a historic, and often mandated, commitment to the use of traditional, and unvalidated, categorical diagnoses in isolation as the relevant phenotype. Such studies typically required lengthy structured interviews to delineate differences in the character and duration of behavioral symptomatology amongst disorders that were thought to be etiologic, and they were often underpowered as a result. Increasing acceptance of the fact that co-morbidity in psychiatric disorders is the rule rather than the exception has led to alternative designs in which shared dimensional symptomatology is analyzed as a quantitative trait and to association analyses in which combined polygenic risk scores are computationally compared across multiple traditional categorical diagnoses to identify both distinct and unique genetic and environmental elements. Increasing evidence that most mental disorders share many common genetic risk variants and environmental risk modifiers suggests that the broad spectrum of psychiatric pathology represents the pleiotropic display of a more limited series of pathologic events in neuronal development than was originally believed, regulated by many common risk variants and a smaller number of rare ones."
+  ],
+  "affiliation": [
+    "Deptartment of Psychiatry, UCSF Weill Institute for Neurosciences, University of California, San Francisco School of Medicine, San Francisco, CA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetics",
+        "Genomics",
+        "Psychiatry",
+        "risk",
+        "Transdiagnostic",
+        "Polygenic"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12688/f1000research.18130.1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6743250"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6743250?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR92147"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-09-28"
+  ],
+  "firstIndexDate": [
+    "2019-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-12"
+  ],
+  "firstPublicationDate": [
+    "2019-09-12"
+  ]
+}

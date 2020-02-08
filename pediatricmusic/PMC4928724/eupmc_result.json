@@ -1,0 +1,279 @@
+{
+  "id": [
+    "27417468"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27417468"
+  ],
+  "pmcid": [
+    "PMC4928724"
+  ],
+  "doi": [
+    "10.3390/children1020074"
+  ],
+  "title": [
+    "Clinical Hypnosis with Children and Adolescents-What? Why? How?: Origins, Applications, and Efficacy."
+  ],
+  "authorString": [
+    "Kohen DP, Kaiser P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kohen DP"
+          ],
+          "firstName": [
+            "Daniel P"
+          ],
+          "lastName": [
+            "Kohen"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "affiliation": [
+            "National Pediatric Hypnosis Training Institute (NPHTI), Developmental-Behavioral Pediatrics, Partners-in-Healing of Minneapolis, 10505 Wayzata Boulevard, Suite #200, Minnetonka, MN 55305, USA. dpkohen@umn.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaiser P"
+          ],
+          "firstName": [
+            "Pamela"
+          ],
+          "lastName": [
+            "Kaiser"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "National Pediatric Hypnosis Training Institute (NPHTI), Private Practice, 1220 University Drive, Suite #104, Menlo Park, CA 94025, USA. drpkaiser@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2430541"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Children (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Children (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Children (Basel)"
+          ],
+          "NLMid": [
+            "101648936"
+          ],
+          "ISSN": [
+            "2227-9067"
+          ],
+          "ESSN": [
+            "2227-9067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "74-98"
+  ],
+  "abstractText": [
+    "This review article addresses the process, intention, and therapeutic value of clinical hypnosis with children and adolescents. A brief historical perspective is followed by a digest of the published laboratory and clinical research that has accelerated substantially over the past two decades. This review lends appropriate credence to the benefits and integration to clinical practice of this powerful tool for teaching young people self-regulation skills. The breadth of application is described, and several clinical vignettes are provided as examples of what is possible. In addition to the provision of the most relevant citations in the pediatric, psychological, and neuroscience literature, this synopsis concludes with information regarding availability of skill development training in pediatric clinical hypnosis."
+  ],
+  "affiliation": [
+    "National Pediatric Hypnosis Training Institute (NPHTI), Developmental-Behavioral Pediatrics, Partners-in-Healing of Minneapolis, 10505 Wayzata Boulevard, Suite #200, Minnetonka, MN 55305, USA. dpkohen@umn.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hypnosis",
+        "Self-regulation",
+        "Self-hypnosis",
+        "Pediatric Hypnosis",
+        "Pediatric Skills Development",
+        "Nphti",
+        "Pediatric Hypnosis Workshops"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/children1020074"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4928724"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4928724?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-07-15"
+  ],
+  "dateOfCreation": [
+    "2016-07-15"
+  ],
+  "firstIndexDate": [
+    "2016-07-16"
+  ],
+  "fullTextReceivedDate": [
+    "2016-07-14"
+  ],
+  "dateOfRevision": [
+    "2016-07-19"
+  ],
+  "electronicPublicationDate": [
+    "2014-08-12"
+  ],
+  "firstPublicationDate": [
+    "2014-08-12"
+  ]
+}

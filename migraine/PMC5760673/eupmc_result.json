@@ -1,0 +1,270 @@
+{
+  "id": [
+    "29379562"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29379562"
+  ],
+  "pmcid": [
+    "PMC5760673"
+  ],
+  "title": [
+    "A Randomized Clinical Trial Comparing the Efficacy of Melatonin and Amitriptyline in Migraine Prophylaxis of Children."
+  ],
+  "authorString": [
+    "Fallah R, Fazelishoroki F, Sekhavat L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fallah R"
+          ],
+          "firstName": [
+            "Razieh"
+          ],
+          "lastName": [
+            "Fallah"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Growth Disorders of Children Research Center, Shahid Sadoughi University of Medical Sciences, Yazd, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Fazelishoroki F"
+          ],
+          "firstName": [
+            "Fatemeh"
+          ],
+          "lastName": [
+            "Fazelishoroki"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Obstetrics and Gynecology, Shahid Sadoughi University of Medical Sciences, Yazd, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Sekhavat L"
+          ],
+          "firstName": [
+            "Leila"
+          ],
+          "lastName": [
+            "Sekhavat"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Obstetrics and Gynecology, Shahid Sadoughi University of Medical Sciences, Yazd, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2644314"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Iranian journal of child neurology"
+          ],
+          "ISOAbbreviation": [
+            "Iran J Child Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Iran J Child Neurol"
+          ],
+          "NLMid": [
+            "101463836"
+          ],
+          "ISSN": [
+            "1735-4668"
+          ],
+          "ESSN": [
+            "2008-0700"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "47-54"
+  ],
+  "abstractText": [
+    "The aim of the present research was to compare the effectiveness and tolerability of melatonin and amitriptyline in pediatric migraine prevention.In a parallel single-blinded randomized clinical trial, 5-15 yr old children with diagnosis of migraine that preventive therapy was indicated in whom and were referred to Pediatric Neurology Clinic of Shahid Sadoughi Medical Sciences University, Yazd-Iran from 2013-2014, were randomly allocated to receive 1 mg/kg amitriptyline or 0.3 mg/kg melatonin for three consecutive months.Forty one girls (51.3%) and 39 boys (48.7%) with mean age of 10.44±2.26 yr were evaluated. Good response was seen in 82.5% of amitriptyline and 62%.5 of melatonin groups and amitriptyline was statistically significant more effective (P=0.04). Severity, duration and Pediatric Migraine Disability Assessment score (PedMIDAS) of headache reduced with melatonin from 6.05±1.63 to 4.03±1.54 scores, from 2.06±1.18 to 1.41± 0.41 hours, and from 33.13±9.17 to 23.38±9.51 scores, respectively. Severity, duration and PedMIDAS of headache decreased with amitriptyline from 6.41±1.67to 2.25±1.21, from 2.55 ±1.85to 0.56±0.51h, and from 31.4±9.33 to 8.28 ± 3.75, respectively (All P < 0.05). Both drugs were effective in reduction of monthly frequency, severity, duration and disability of headache. Daily sleepiness was seen in 7.5% of melatonin group as a side effect and adverse events were seen in 22.5% of amitriptyline group including daily sleepiness in four, constipation in three and fatigue in two children and melatonin was safer than amitriptyline (value = 0.04).Amitriptyline and melatonin are effective and safe in pediatric migraine prophylaxis but amitriptyline can be considered as a more effective drug."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Growth Disorders of Children Research Center, Shahid Sadoughi University of Medical Sciences, Yazd, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Melatonin",
+        "Child",
+        "Prevention",
+        "Migraine",
+        "Amitriptyline"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5760673"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5760673?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-01-31"
+  ],
+  "firstIndexDate": [
+    "2018-01-31"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-08"
+  ],
+  "dateOfRevision": [
+    "2018-04-01"
+  ],
+  "firstPublicationDate": [
+    "2018-01-01"
+  ],
+  "embargoDate": [
+    "2018-04-01"
+  ]
+}

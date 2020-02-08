@@ -1,0 +1,440 @@
+{
+  "id": [
+    "31182073"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31182073"
+  ],
+  "pmcid": [
+    "PMC6558685"
+  ],
+  "doi": [
+    "10.1186/s12889-019-7093-6"
+  ],
+  "title": [
+    "Community perceptions on the role of sexual activity on stroke: a qualitative study exploring the views of Ghanaian local community residents."
+  ],
+  "authorString": [
+    "Sanuade OA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sanuade OA"
+          ],
+          "firstName": [
+            "Olutobi Adekunle"
+          ],
+          "lastName": [
+            "Sanuade"
+          ],
+          "initials": [
+            "OA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4972-1098",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Advanced Studies, University College London, Gower Street, WC1E6BT, London, UK. o.sanuade@ucl.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4972-1098",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2823278"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "717"
+  ],
+  "abstractText": [
+    "BACKGROUND:Stroke is a major cause of morbidity and mortality in Ghana and sometimes comes with multifaceted complications including sexual dysfunction. While evidence is clear that living with stroke can result in sexual dysfunction, there are contradictory views regarding the causal association between sexual activity and stroke. This study explores perceptions of Ghanaian local communities on the role of sexual activity on stroke causation. METHODS:This was a cross-sectional qualitative study. Thirty (30) focus group discussions (FGDs) were conducted in five communities across Ghana (Ga Mashie, Tafo, Gyegyeano, Chanshegu and Agorve) between October and November 2017. Data were analysed through a thematic approach. RESULTS:Participants generally believed that sexual activity can cause a stroke. They mentioned that the dynamics through which sex can trigger a stroke include sex positions (i.e. having sex while standing and on the floor), high frequency of sex, having sex when older and engaging in indiscriminate sex. CONCLUSION:This study shows the need to pay critical attention to these community perceptions when developing intervention strategies for stroke in Ghana. This study also highlights that discussion about sexual activity in Ghana is more complex than the current health education programme allows, and so demands a 'comprehensive sex education approach' rather than a 'disease-centered approach'."
+  ],
+  "affiliation": [
+    "Institute of Advanced Studies, University College London, Gower Street, WC1E6BT, London, UK. o.sanuade@ucl.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "106534"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Focus Groups"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Health Knowledge, Attitudes, Practice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sexual Behavior"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Perception"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Qualitative Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ghana"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stroke"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sexuality",
+        "Community",
+        "Stroke",
+        "Sexual activity",
+        "Ghana"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12889-019-7093-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6558685"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6558685?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-08-12"
+  ],
+  "dateOfCreation": [
+    "2019-06-12"
+  ],
+  "firstIndexDate": [
+    "2019-06-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-16"
+  ],
+  "dateOfRevision": [
+    "2019-08-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-10"
+  ],
+  "firstPublicationDate": [
+    "2019-06-10"
+  ]
+}

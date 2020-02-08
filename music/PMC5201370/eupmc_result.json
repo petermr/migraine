@@ -1,0 +1,552 @@
+{
+  "id": [
+    "27973437"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27973437"
+  ],
+  "pmcid": [
+    "PMC5201370"
+  ],
+  "doi": [
+    "10.3390/ijerph13121229"
+  ],
+  "title": [
+    "The Role of Soundscape in Nature-Based Rehabilitation: A Patient Perspective."
+  ],
+  "authorString": [
+    "Cerwén G, Pedersen E, Pálsdóttir AM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cerwén G"
+          ],
+          "firstName": [
+            "Gunnar"
+          ],
+          "lastName": [
+            "Cerwén"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6024-7919",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Landscape Architecture, Planning and Management, Swedish University of Agricultural Sciences, SLU, SE-230 53 Alnarp, Sweden. gunnar.cerwen@slu.se."
+          ]
+        },
+        {
+          "fullName": [
+            "Pedersen E"
+          ],
+          "firstName": [
+            "Eja"
+          ],
+          "lastName": [
+            "Pedersen"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Environmental Psychology, Department of Architecture and Built Environment, LTH, Lund University, SE-221 00 Lund, Sweden. eja.pedersen@arkitektur.lth.se."
+          ]
+        },
+        {
+          "fullName": [
+            "Pálsdóttir AM"
+          ],
+          "firstName": [
+            "Anna-María"
+          ],
+          "lastName": [
+            "Pálsdóttir"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Department of Work Science, Business Economics and Environmental Psychology, Swedish University of Agricultural Sciences, SLU, SE-230 53 Alnarp, Sweden. anna.maria.palsdottir@slu.se."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6024-7919",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2500255"
+      ],
+      "dateOfPublication": [
+        "2016 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "abstractText": [
+    "Nature-based rehabilitation (NBR) has convincing support in research, yet the underlying mechanisms are not fully understood. The present study sought to increase understanding of the role of soundscapes in NBR, an aspect paid little attention thus far. Transcribed interviews with 59 patients suffering from stress-related mental disorders and undergoing a 12-week therapy programme in the rehabilitation garden in Alnarp, Sweden, were analysed using Interpretative Phenomenology Analysis (IPA). Described sounds were categorised as natural, technological or human. The results showed that patients frequently referred to natural sounds as being part of a pleasant and \"quiet\" experience that supported recovery and induced \"soft fascination\". Technological sounds were experienced as disturbing, while perception of human sounds varied depending on loudness and the social context. The study further uncovered how sound influenced patients' behaviour and experiences in the garden, through examination of three cross-theme dimensions that materialised in the study; sound in relation to overall perception, sound in relation to garden usage, and increased susceptibility to sound. The findings are discussed in relation to NBR; the need for a more nuanced understanding of susceptibility to sound among people suffering from mental fatigue was identified and design considerations for future rehabilitation gardens were formulated."
+  ],
+  "affiliation": [
+    "Department of Landscape Architecture, Planning and Management, Swedish University of Agricultural Sciences, SLU, SE-230 53 Alnarp, Sweden. gunnar.cerwen@slu.se."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acoustic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vocalization, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress, Psychological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mental Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cities"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Nature"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sound"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Social Environment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sweden"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interviews as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sense of Coherence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gardens"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Design",
+        "Health",
+        "Soundscape",
+        "Therapeutic Landscape",
+        "Garden Therapy",
+        "Horticulture Therapy",
+        "Mental Restoration",
+        "Nature-based Rehabilitation",
+        "Soft Fascination"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph13121229"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph13121229"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5201370"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5201370?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-08-09"
+  ],
+  "dateOfCreation": [
+    "2016-12-16"
+  ],
+  "firstIndexDate": [
+    "2016-12-20"
+  ],
+  "fullTextReceivedDate": [
+    "2017-01-14"
+  ],
+  "dateOfRevision": [
+    "2017-12-27"
+  ],
+  "electronicPublicationDate": [
+    "2016-12-11"
+  ],
+  "firstPublicationDate": [
+    "2016-12-11"
+  ]
+}

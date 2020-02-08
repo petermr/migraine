@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC5996089/results/search/country/results.xml">
+  <result pre="1 [], 1 ENT Department, San Raffaele Scientific Hospital Milan" exact="Italy" post="[], 2 Headache Unit, Department of Neurology, San Raffaele"/>
+  <result pre="Headache Unit, Department of Neurology, San Raffaele Scientific Hospital Milan" exact="Italy" post="[], 3 Dipartimento di Scienze, Chirurgiche Università di Torino"/>
+  <result pre="[], 3 Dipartimento di Scienze, Chirurgiche Università di Torino Turin" exact="Italy" post="[], 4 U. O. S. D. &quot;Vestibologia e Otorinolaringoiatria&quot;"/>
+  <result pre="D. &quot;Vestibologia e Otorinolaringoiatria&quot; Presidio Ospedaliero &quot;Giovanni Paolo II&quot; Policoro" exact="Italy" post="[], 5 Department of Otolaryngology, Spedali Civili, University of"/>
+  <result pre="5 Department of Otolaryngology, Spedali Civili, University of Brescia Brescia" exact="Italy" post="[], 6 Otoneurology Unit, Department of Otorhinolaryngology, University Hospital"/>
+  <result pre="Unit, Department of Otorhinolaryngology, University Hospital of Salamanca, IBSAL Salamanca" exact="Spain" post="[], 7 Skull Base Unit, Department of Otorhinolaryngology, University"/>
+  <result pre="Unit, Department of Otorhinolaryngology, University Hospital of Salamanca, IBSAL Salamanca" exact="Spain" post="[], 8 Department of Otorhinolaryngology, Pisa University Medical School"/>
+  <result pre="Pisa University Medical School Otorhinolaryngology, Pisa University Medical School Pisa" exact="Italy" post="[], 9 Otology and Neurotology Group CTS495, Department of"/>
+  <result pre="Investigación Oncológica - Pfizer/Universidad de Granada/Junta de Andalucía (GENYO) Granada" exact="Spain" post="[], 10 Division of Otoneurology, Department of Otolaryngology, Instituto"/>
+  <result pre="de Investigación Biosanitaria ibs.GRANADA, Hospital Virgen de las Nieves Granada" exact="Spain" post="[], 11 Department of Otorhinolaryngology—Head and Neck Surgery, Poliambulanza"/>
+  <result pre="Department of Otorhinolaryngology—Head and Neck Surgery, Poliambulanza Foundation Hospital Brescia" exact="Italy" post="[], 12 Otology and Skull Base Unit, Azienda Ospedaliera"/>
+  <result pre="Otology and Skull Base Unit, Azienda Ospedaliera Universitaria Senese Siena" exact="Italy" post="[], 13 Department of Neurosciences, Imaging and Clinical Sciences,"/>
+  <result pre="of Neurosciences, Imaging and Clinical Sciences, University of Chieti-Pescara Chieti" exact="Italy" post="[], 14 Unit of Audiology, Department of Surgical Sciences"/>
+  <result pre="Sciences and Translational Medicine, Careggi Hospital, University of Florence Florence" exact="Italy" post="[], 15 Department of Otolaryngology, University Hospital of Getafe"/>
+  <result pre="[], 15 Department of Otolaryngology, University Hospital of Getafe Madrid" exact="Spain" post="[], 16 Department of Neurology, University of Campania Luigi"/>
+  <result pre="16 Department of Neurology, University of Campania Luigi Vanvitelli Naples" exact="Italy" post="[], 17 Department of Neurosciences, Headache Centre, University of"/>
+  <result pre="17 Department of Neurosciences, Headache Centre, University of Parma Parma" exact="Italy" post="Edited by: Sergio Carmona, INEBA Institute of Neurosciences Buenos"/>
+  <result pre="Edited by: Sergio Carmona, INEBA Institute of Neurosciences Buenos Aires," exact="Argentina" post="Reviewed by: Andrés Soto-Varela, Complejo Hospitalario Universitario de Santiago,"/>
+  <result pre="Hospitalario Universitario de Santiago, Spain; Alexander A. Tarnutzer, Universität Zürich," exact="Switzerland" post="*Correspondence: Roberto Teggi teggi.roberto@hsr.i This article was submitted to"/>
+  <result pre="multicentric study, 279 subjects were recruited in different centers in" exact="Italy" post="and Spain between January 2016 and March 2017. Participating"/>
+  <result pre="279 subjects were recruited in different centers in Italy and" exact="Spain" post="between January 2016 and March 2017. Participating centers (in"/>
+ </snippets>
+</snippetsTree>

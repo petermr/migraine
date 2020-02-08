@@ -1,0 +1,321 @@
+{
+  "id": [
+    "30733702"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30733702"
+  ],
+  "pmcid": [
+    "PMC6353836"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00010"
+  ],
+  "title": [
+    "Plasma Calcitonin Gene-Related Peptide: A Potential Biomarker for Diagnosis and Therapeutic Responses in Pediatric Migraine."
+  ],
+  "authorString": [
+    "Fan PC, Kuo PH, Lee MT, Chang SH, Chiou LC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fan PC"
+          ],
+          "firstName": [
+            "Pi-Chuan"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "PC"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, National Taiwan University Hospital, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuo PH"
+          ],
+          "firstName": [
+            "Ping-Hung"
+          ],
+          "lastName": [
+            "Kuo"
+          ],
+          "initials": [
+            "PH"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, National Taiwan University Hospital, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee MT"
+          ],
+          "firstName": [
+            "Ming Tatt"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "affiliation": [
+            "Graduate Institute of Pharmacology, College of Medicine, National Taiwan University, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang SH"
+          ],
+          "firstName": [
+            "Shu-Hui"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Department of Epidemiology, College of Public Health, National Taiwan University, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chiou LC"
+          ],
+          "firstName": [
+            "Lih-Chu"
+          ],
+          "lastName": [
+            "Chiou"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "affiliation": [
+            "Clinical Center for Neuroscience and Behavior, National Taiwan University Hospital, Taipei, Taiwan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "10"
+  ],
+  "abstractText": [
+    "Background: Plasma calcitonin gene-related peptide (CGRP) plays a key role in the migraine pathophysiology. This study aimed to investigate its role in predicting diagnosis and outcome of pharmacotherapy in pediatric migraine. Methods: We prospectively recruited 120 subjects, who never took migraine-preventive agents in a pediatric clinic, including 68 patients with migraine, 30 with non-migraine headache (NM), and 22 non-headache (NH) age-matched controls. Short-term therapeutic response was measured for at least 2 weeks after the start of therapy. Responders were defined with >50% headache reduction. Plasma CGRP concentrations were measured by ELISA. Results: In the migraine group, more patients required acute therapy, as compared to the NM group (62/68, 91% vs. 5/30, 15%, p = 0.001). The mean plasma CGRP level in migraineurs either during (291 ± 60 pg/ml) or between (240 ± 48) attacks was higher than in NM patients (51 ± 5 pg/ml, p = 0.006 and 0.018, respectively) and NH controls (53 ± 6 pg/ml, p = 0.016 and 0.045, respectively). Forty-seven patients (69%) needed preventive treatments and had higher plasma CGRP levels (364 ± 62 pg/ml, n = 47) than those not (183 ± 54 pg/ml, n = 21) (p = 0.031). Topiramate responders had higher plasma CGRP levels than non-responders (437 ± 131 pg/ml, n = 14 vs. 67 ± 19 pg/ml, n = 6, p = 0.021). Survival curves of plasma CGRP levels also showed those with higher CGRP levels responded better to topiramate. Differences were not found in the other preventives. Conclusion: The plasma CGRP level can differentiate migraine from non-migraine headache. It may also serve as a reference for the therapeutic strategy since it is higher in patients requiring migraine prevention and responsive to short-term topiramate treatment. These results are clinically significant, especially for the young children who cannot clearly describe their headache symptoms and may provide new insights into the clinical practice for the diagnosis and treatment of pediatric migraine."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, National Taiwan University Hospital, Taipei, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Calcitonin gene-related peptide",
+        "Plasma Biomarker",
+        "Topiramate",
+        "Anti-migraine Drugs",
+        "Pediatric Migraine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00010"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6353836"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6353836?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-09"
+  ],
+  "firstIndexDate": [
+    "2019-02-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-19"
+  ],
+  "dateOfRevision": [
+    "2019-02-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-24"
+  ],
+  "firstPublicationDate": [
+    "2019-01-24"
+  ]
+}

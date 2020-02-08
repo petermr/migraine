@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6646581/results/search/country/results.xml">
+  <result pre="Complexity, Dr. von Hauner Children's Hospital, LMU–University Hospital, Ludwig-Maximilians-Universität Munich" exact="Germany" post="[], 2 Department of Diagnostic and Interventional Neuroradiology, Klinikum"/>
+  <result pre="Interventional Neuroradiology, Klinikum rechts der Isar, Technische Universität München Munich" exact="Germany" post="[], 3 TUM-Neuroimaging Center, Klinikum rechts der Isar, Technische"/>
+  <result pre="TUM-Neuroimaging Center, Klinikum rechts der Isar, Technische Universität München Munich" exact="Germany" post="[], 4 Department of Neurosurgery, Klinikum rechts der Isar,"/>
+  <result pre="of Neurosurgery, Klinikum rechts der Isar, Technische Universität München Munich" exact="Germany" post="Edited by: Massimiliano Valeriani, Bambino Gesù Children Hospital (IRCCS),"/>
+  <result pre="Germany Edited by: Massimiliano Valeriani, Bambino Gesù Children Hospital (IRCCS)," exact="Italy" post="Reviewed by: Alessandro Viganò, Sapienza University of Rome, Italy;"/>
+  <result pre="of Rome, Italy; Elcio J. Piovesan, Federal University of Paraná," exact="Brazil" post="*Correspondence: Nico Sollmann nico.sollmann@tum.de This article was submitted to"/>
+  <result pre="( 2001) 21: 107– 9. 10.1046/j.1468-2982.2001.00166.x 11422092 17. Johnston MM" exact="Jordan" post="SE Charles AC . Pain referral patterns of the"/>
+ </snippets>
+</snippetsTree>

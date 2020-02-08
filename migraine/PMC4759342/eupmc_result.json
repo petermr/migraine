@@ -1,0 +1,378 @@
+{
+  "id": [
+    "28132313"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28132313"
+  ],
+  "pmcid": [
+    "PMC4759342"
+  ],
+  "doi": [
+    "10.1186/1129-2377-16-S1-A75"
+  ],
+  "title": [
+    "P072. The visual cortical excitability in pediatric migraine as tested by sound-induced flash illusions."
+  ],
+  "authorString": [
+    "Di Marco S, Cosentino G, Pilati L, Baschi R, Maccora S, Aprile M, Brighina F, Fierro B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Di Marco S"
+          ],
+          "firstName": [
+            "Salvatore"
+          ],
+          "lastName": [
+            "Di Marco"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Experimental Biomedicine and Clinical Neuroscience (BioNeC), University of Palermo, Palermo, Sicily. dimarcosal@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Cosentino G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Cosentino"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Experimental Biomedicine and Clinical Neuroscience (BioNeC), University of Palermo, Palermo, Sicily."
+          ]
+        },
+        {
+          "fullName": [
+            "Pilati L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Pilati"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Experimental Biomedicine and Clinical Neuroscience (BioNeC), University of Palermo, Palermo, Sicily."
+          ]
+        },
+        {
+          "fullName": [
+            "Baschi R"
+          ],
+          "firstName": [
+            "Roberta"
+          ],
+          "lastName": [
+            "Baschi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Experimental Biomedicine and Clinical Neuroscience (BioNeC), University of Palermo, Palermo, Sicily."
+          ]
+        },
+        {
+          "fullName": [
+            "Maccora S"
+          ],
+          "firstName": [
+            "Simona"
+          ],
+          "lastName": [
+            "Maccora"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Experimental Biomedicine and Clinical Neuroscience (BioNeC), University of Palermo, Palermo, Sicily."
+          ]
+        },
+        {
+          "fullName": [
+            "Aprile M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Aprile"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Experimental Biomedicine and Clinical Neuroscience (BioNeC), University of Palermo, Palermo, Sicily."
+          ]
+        },
+        {
+          "fullName": [
+            "Brighina F"
+          ],
+          "firstName": [
+            "Filippo"
+          ],
+          "lastName": [
+            "Brighina"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5875-3126",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Experimental Biomedicine and Clinical Neuroscience (BioNeC), University of Palermo, Palermo, Sicily."
+          ]
+        },
+        {
+          "fullName": [
+            "Fierro B"
+          ],
+          "firstName": [
+            "Brigida"
+          ],
+          "lastName": [
+            "Fierro"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Experimental Biomedicine and Clinical Neuroscience (BioNeC), University of Palermo, Palermo, Sicily."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5875-3126",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2518978"
+      ],
+      "dateOfPublication": [
+        "2015 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "A75"
+  ],
+  "affiliation": [
+    "Department of Experimental Biomedicine and Clinical Neuroscience (BioNeC), University of Palermo, Palermo, Sicily. dimarcosal@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "abstract",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1129-2377-16-S1-A75"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4759342"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4759342?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-01-30"
+  ],
+  "firstIndexDate": [
+    "2017-01-30"
+  ],
+  "fullTextReceivedDate": [
+    "2016-03-03"
+  ],
+  "dateOfRevision": [
+    "2018-09-14"
+  ],
+  "firstPublicationDate": [
+    "2015-12-01"
+  ]
+}

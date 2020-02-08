@@ -1,0 +1,453 @@
+{
+  "id": [
+    "30446525"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30446525"
+  ],
+  "pmcid": [
+    "PMC6294621"
+  ],
+  "doi": [
+    "10.1042/BSR20181347"
+  ],
+  "title": [
+    "Quantitative assessment of the association between GRIA1 polymorphisms and migraine risk."
+  ],
+  "authorString": [
+    "Gao X, Wang J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gao X"
+          ],
+          "firstName": [
+            "Xueren"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1161-0771",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatric Endocrinology/Genetics, Shanghai Institute for Pediatric Research, Xinhua Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai 200092, China gaoxueren@xinhuamed.com.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jianguo"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Pediatric Endocrinology/Genetics, Shanghai Institute for Pediatric Research, Xinhua Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai 200092, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1161-0771",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "38"
+      ],
+      "journalIssueId": [
+        "2747017"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioscience reports"
+          ],
+          "ISOAbbreviation": [
+            "Biosci. Rep."
+          ],
+          "medlineAbbreviation": [
+            "Biosci Rep"
+          ],
+          "NLMid": [
+            "8102797"
+          ],
+          "ISSN": [
+            "0144-8463"
+          ],
+          "ESSN": [
+            "1573-4935"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "PURPOSE:The association between GRIA1 rs548294 G>A and rs2195450 C>T polymorphisms and migraine risk has been reported in several case-control studies. However, the results of studies are inconsistent. Thus, we conducted a meta-analysis to more precisely estimate the association of the two polymorphisms with migraine risk. METHODS:Eligible studies were retrieved and screened from the online databases (EMBASE, PubMed, Web of Science, Wanfang, and Chinese National Knowledge Infrastructure). The pooled odds ratio (OR) with corresponding 95.0% confidence intervals (CIs) was assessed using random- or fixed-effects model. RESULTS:A total of 1233 cases and 1374 controls from four eligible studies were included. The pooled analysis showed that GRIA1 rs548294 G>A polymorphism was not significantly associated with migraine risk. GRIA1 rs2195450 C>T polymorphism was significantly associated with migraine risk under heterozygous model (CT vs. CC, OR = 1.23, 95%CI = 1.02-1.48, P Z = 0.03). Further subgroup analysis based on ethnicity showed a significant association of GRIA1 rs2195450 C>T polymorphism with migraine risk in Asian population, but not in Caucasian population. CONCLUSIONS:Our results indicates that GRIA1 rs2195450 C>T polymorphism is significantly associated with migraine risk. However, the number of studies included in the meta-analysis was small. Thus, more high quality case-control studies with a large sample size are still required to confirm these findings."
+  ],
+  "affiliation": [
+    "Department of Pediatric Endocrinology/Genetics, Shanghai Institute for Pediatric Research, Xinhua Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai 200092, China gaoxueren@xinhuamed.com.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Predisposition to Disease"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptors, AMPA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Odds Ratio"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Asian Continental Ancestry Group"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "European Continental Ancestry Group"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Polymorphism",
+        "Migraine",
+        "risk",
+        "Gria1"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Receptors, AMPA"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "glutamate receptor ionotropic, AMPA 1"
+          ],
+          "registryNumber": [
+            "TFZ3H25BS1"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1042/BSR20181347"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6294621"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6294621?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-29"
+  ],
+  "dateOfCreation": [
+    "2018-11-18"
+  ],
+  "firstIndexDate": [
+    "2018-11-17"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-30"
+  ],
+  "dateOfRevision": [
+    "2019-07-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-14"
+  ],
+  "firstPublicationDate": [
+    "2018-12-14"
+  ]
+}

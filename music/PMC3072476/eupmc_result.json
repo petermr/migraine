@@ -1,0 +1,575 @@
+{
+  "id": [
+    "21170567"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21170567"
+  ],
+  "pmcid": [
+    "PMC3072476"
+  ],
+  "doi": [
+    "10.1007/s10194-010-0256-6"
+  ],
+  "title": [
+    "Overview of diagnosis and management of paediatric headache. Part II: therapeutic management."
+  ],
+  "authorString": [
+    "Termine C, Ozge A, Antonaci F, Natriashvili S, Guidetti V, Wöber-Bingöl C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Termine C"
+          ],
+          "firstName": [
+            "Cristiano"
+          ],
+          "lastName": [
+            "Termine"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2325-8293",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Child Neuropsychiatry Unit, Department of Experimental Medicine, University of Insubria, Como, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ozge A"
+          ],
+          "firstName": [
+            "Aynur"
+          ],
+          "lastName": [
+            "Ozge"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Antonaci F"
+          ],
+          "firstName": [
+            "Fabio"
+          ],
+          "lastName": [
+            "Antonaci"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Natriashvili S"
+          ],
+          "firstName": [
+            "Sophia"
+          ],
+          "lastName": [
+            "Natriashvili"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Guidetti V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Guidetti"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1643-8392",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wöber-Bingöl C"
+          ],
+          "firstName": [
+            "Ciçek"
+          ],
+          "lastName": [
+            "Wöber-Bingöl"
+          ],
+          "initials": [
+            "C"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1643-8392",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2325-8293",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "1816023"
+      ],
+      "dateOfPublication": [
+        "2011 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "25-34"
+  ],
+  "abstractText": [
+    "A thorough evaluation of headache in children and adolescents is necessary to make the correct diagnosis and initiate treatment. In part 1 of this article (Özge et al. in J Headache Pain, 2010), we reviewed the diagnosis of headache in children and adolescents. In the present part, we will discuss therapeutic management of primary headaches. An appropriate management requires an individually tailored strategy giving due consideration to both non-pharmacological and pharmacological measures. Non-pharmacological treatments include relaxation training, biofeedback training, cognitive-behavioural therapy, different psychotherapeutic approaches or combinations of these treatments. The data supporting the effectiveness of these therapies are less clear-cut in children than in adults, but that is also true for the data supporting medical treatment. Management of migraine and TTH should include strategies relating to daily living activities, family relationships, school, friends and leisure time activities. In the pharmacological treatment age and gender of children, headache diagnosis, comorbidities and side effects of medication must be considered. The goal of symptomatic treatment should be a quick response with return to normal activity and without relapse. The drug should be taken as early as possible and in the appropriate dosage. Supplementary measures such as rest in a quiet, darkened room is recommended. Pharmaco-prophylaxis is only indicated if lifestyle modification and non-pharmacological prophylaxis alone are not effective. Although many prophylactic medications have been tried in paediatric migraine, there are only a few medications that have been studied in controlled trials. Multidisciplinary treatment is an effective strategy for children and adolescents with improvement of multiple outcome variants including frequency and severity of headache and school days missed because of headache. As a growing problem both children and families should be informed about medication overuse and the children's drug-taking should be checked."
+  ],
+  "affiliation": [
+    "Child Neuropsychiatry Unit, Department of Experimental Medicine, University of Insubria, Como, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatrics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychology, Child"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21170567/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21170567/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10194-010-0256-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3072476"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3072476?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "22"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-02-16"
+  ],
+  "dateOfCreation": [
+    "2010-12-21"
+  ],
+  "firstIndexDate": [
+    "2011-01-06"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-01"
+  ],
+  "dateOfRevision": [
+    "2018-09-14"
+  ],
+  "electronicPublicationDate": [
+    "2010-12-18"
+  ],
+  "firstPublicationDate": [
+    "2010-12-18"
+  ]
+}

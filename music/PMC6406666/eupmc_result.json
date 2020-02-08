@@ -1,0 +1,309 @@
+{
+  "id": [
+    "30709023"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30709023"
+  ],
+  "pmcid": [
+    "PMC6406666"
+  ],
+  "doi": [
+    "10.3390/jcm8020158"
+  ],
+  "title": [
+    "Origanum majorana Essential Oil Inhalation during Neurofeedback Training Reduces Saliva Myeloperoxidase Activity at Session-1 in Bruxistic Patients."
+  ],
+  "authorString": [
+    "Merino JJ, Parmigiani-Izquierdo JM, López-Oliva ME, Cabaña-Muñoz ME."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Merino JJ"
+          ],
+          "firstName": [
+            "José Joaquín"
+          ],
+          "lastName": [
+            "Merino"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "CIROM Center, Centro de Implantología and Rehabilitación Oral Multidisciplinaria, 30001 Murcía, Spain. josem2005@yahoo.es."
+          ]
+        },
+        {
+          "fullName": [
+            "Parmigiani-Izquierdo JM"
+          ],
+          "firstName": [
+            "José María"
+          ],
+          "lastName": [
+            "Parmigiani-Izquierdo"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "CIROM Center, Centro de Implantología and Rehabilitación Oral Multidisciplinaria, 30001 Murcía, Spain. jmparmi@clinicacirom.com."
+          ]
+        },
+        {
+          "fullName": [
+            "López-Oliva ME"
+          ],
+          "firstName": [
+            "María Elvira"
+          ],
+          "lastName": [
+            "López-Oliva"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Sección Departamental de Fisiología, Facultad de Farmacia, Universidad Complutense de Madrid (UCM), 28040 Madrid, Spain. elopez@farm.ucm.es."
+          ]
+        },
+        {
+          "fullName": [
+            "Cabaña-Muñoz ME"
+          ],
+          "firstName": [
+            "María Eugenia"
+          ],
+          "lastName": [
+            "Cabaña-Muñoz"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "CIROM Center, Centro de Implantología and Rehabilitación Oral Multidisciplinaria, 30001 Murcía, Spain. mecjj@clinicacirom.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2774075"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Med"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Med"
+          ],
+          "NLMid": [
+            "101606588"
+          ],
+          "ISSN": [
+            "2077-0383"
+          ],
+          "ESSN": [
+            "2077-0383"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Introduction: Bruxism affects teeth and provokes sleep alterations. We evaluated whether saliva Myeloperoxidase (MPO) activity could be reduced after 21 neurofeedback training (NO) sessions in Origanum majorana (AE) bruxistic-treated patients (n = 12 patients, 120 saliva samples). The term divergence evaluates cerebral activity, which was compared between bruxistic patients with/without this essential oil exposure during 21 NO training sessions (n = 12, n = 120 saliva samples). The nasal filter used allow us to vehiculizate this Origanum majorana essential oil in patients. MPO activity was measured in six training NO sessions (Session S1, 6, 12, 18, 21). We included a total of 104 patients and 500 saliva samples. Results: there was a fast reduction in MPO activity after NO session-1 in bruxistic patients; divergence (an index of NO training brain efficacy) is the difference in cerebral activity found between pre-training and post-training levels. Thus, Divergence can fluctuate during NO training before reaching a final calm state after many sessions (21). Repeated NO training lead to habituation in so far as cerebral activity as well as MPO activity after 21 training sessions. Origanum majorana essential oil modulates cerebral activity at certain training sessions in bruxistic patients. Stress levels were reduced on the perceived stress scores (PSS: Cohen Scale) after 21 NO sessions than for those bruxistic without NO training sessions. Conclusions: MPO activity could predict stress level in bruxistic patients and repeated NO reduced their stress level; Origanum majorana essential oil enhanced these anxiolytic effects."
+  ],
+  "affiliation": [
+    "CIROM Center, Centro de Implantología and Rehabilitación Oral Multidisciplinaria, 30001 Murcía, Spain. josem2005@yahoo.es."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neuroscience",
+        "Myeloperoxidase",
+        "Neurofeedback",
+        "Neuromodulation",
+        "Brain Stimulation",
+        "Brain Research",
+        "Origanum Majorana Essential Oil",
+        "Bruxistic Patients And Aromatherapy",
+        "Nasal Filters (Activated Carbon)",
+        "Stress And Brain Plasticity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/jcm8020158"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6406666"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6406666?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-03"
+  ],
+  "firstIndexDate": [
+    "2019-02-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-27"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-31"
+  ],
+  "firstPublicationDate": [
+    "2019-01-31"
+  ]
+}

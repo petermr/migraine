@@ -1,0 +1,607 @@
+{
+  "id": [
+    "17451595"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "17451595"
+  ],
+  "pmcid": [
+    "PMC1876246"
+  ],
+  "doi": [
+    "10.1186/1472-6882-7-10"
+  ],
+  "title": [
+    "Anthroposophic medical therapy in chronic disease: a four-year prospective cohort study."
+  ],
+  "authorString": [
+    "Hamre HJ, Witt CM, Glockmann A, Ziegler R, Willich SN, Kiene H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hamre HJ"
+          ],
+          "firstName": [
+            "Harald J"
+          ],
+          "lastName": [
+            "Hamre"
+          ],
+          "initials": [
+            "HJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Witt CM"
+          ],
+          "firstName": [
+            "Claudia M"
+          ],
+          "lastName": [
+            "Witt"
+          ],
+          "initials": [
+            "CM"
+          ]
+        },
+        {
+          "fullName": [
+            "Glockmann A"
+          ],
+          "firstName": [
+            "Anja"
+          ],
+          "lastName": [
+            "Glockmann"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Ziegler R"
+          ],
+          "firstName": [
+            "Renatus"
+          ],
+          "lastName": [
+            "Ziegler"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Willich SN"
+          ],
+          "firstName": [
+            "Stefan N"
+          ],
+          "lastName": [
+            "Willich"
+          ],
+          "initials": [
+            "SN"
+          ]
+        },
+        {
+          "fullName": [
+            "Kiene H"
+          ],
+          "firstName": [
+            "Helmut"
+          ],
+          "lastName": [
+            "Kiene"
+          ],
+          "initials": [
+            "H"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1374832"
+      ],
+      "dateOfPublication": [
+        "2007 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2007"
+      ],
+      "printPublicationDate": [
+        "2007-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC complementary and alternative medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "NLMid": [
+            "101088661"
+          ],
+          "ISSN": [
+            "1472-6882"
+          ],
+          "ESSN": [
+            "1472-6882"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2007"
+  ],
+  "pageInfo": [
+    "10"
+  ],
+  "abstractText": [
+    "BACKGROUND: The short consultation length in primary care is a source of concern, and the wish for more consultation time is a common reason for patients to seek complementary medicine. Physicians practicing anthroposophic medicine have prolonged consultations with their patients, taking an extended history, addressing constitutional, psychosocial, and biographic aspect of patients' illness, and selecting optimal therapy. In Germany, health benefit programs have included the reimbursement of this additional physician time. The purpose of this study was to describe clinical outcomes in patients with chronic diseases treated by anthroposophic physicians after an initial prolonged consultation. METHODS: In conjunction with a health benefit program in Germany, 233 outpatients aged 1-74 years, treated by 72 anthroposophic physicians after a consultation of at least 30 min participated in a prospective cohort study. Main outcomes were disease severity (Disease and Symptom Scores, physicians' and patients' assessment on numerical rating scales 0-10) and quality of life (adults: SF-36, children aged 8-16: KINDL, children 1-7: KITA). Disease Score was documented after 0, 6 and 12 months, other outcomes after 0, 3, 6, 12, 18, 24, and (Symptom Score and SF-36) 48 months. RESULTS: Most common indications were mental disorders (17.6% of patients; primarily depression and fatigue), respiratory diseases (15.5%), and musculoskeletal diseases (11.6%). Median disease duration at baseline was 3.0 years (interquartile range 0.5-9.8 years). The consultation leading to study enrolment lasted 30-60 min in 51.5% (120/233) of patients and > 60 min in 48.5%. During the following year, patients had a median of 3.0 (interquartile range 1.0-7.0) prolonged consultations with their anthroposophic physicians, 86.1% (167/194) of patients used anthroposophic medication. All outcomes except KITA Daily Life subscale and KINDL showed significant improvement between baseline and all subsequent follow-ups. Improvements from baseline to 12 months were: Disease Score from mean (standard deviation) 5.95 (1.74) to 2.31 (2.29) (p < 0.001), Symptom Score from 5.74 (1.81) to 3.04 (2.16) (p < 0.001), SF-36 Physical Component Summary from 44.01 (10.92) to 47.99 (10.43) (p < 0.001), SF-36 Mental Component Summary from 42.34 (11.98) to 46.84 (10.47) (p < 0.001), and KITA Psychosoma subscale from 62.23 (19.76) to 76.44 (13.62) (p = 0.001). All these improvements were maintained until the last follow-up. Improvements were similar in patients not using diagnosis-related adjunctive therapies within the first six study months. CONCLUSION: Patients treated by anthroposophic physicians after an initial prolonged consultation had long-term reduction of chronic disease symptoms and improvement of quality of life. Although the pre-post design of the present study does not allow for conclusions about comparative effectiveness, study findings suggest that physician-provided anthroposophic therapy may play a beneficial role in the long-term care of patients with chronic diseases."
+  ],
+  "affiliation": [
+    "Institute for Applied Epistemology and Medical Methodology, Freiburg, Germany. harald.hamre@ifaemm.de"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Complementary Therapies"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Anthroposophy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cohort Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Longitudinal Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physician-Patient Relations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Satisfaction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Primary Health Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Outcome and Process Assessment (Health Care)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1472-6882-7-10"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC1876246"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC1876246?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2007-07-09"
+  ],
+  "dateOfCreation": [
+    "2007-05-23"
+  ],
+  "firstIndexDate": [
+    "2009-12-24"
+  ],
+  "fullTextReceivedDate": [
+    "2011-01-15"
+  ],
+  "dateOfRevision": [
+    "2009-11-18"
+  ],
+  "electronicPublicationDate": [
+    "2007-04-23"
+  ],
+  "firstPublicationDate": [
+    "2007-04-23"
+  ]
+}

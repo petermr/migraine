@@ -1,0 +1,446 @@
+{
+  "id": [
+    "30642284"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30642284"
+  ],
+  "pmcid": [
+    "PMC6332564"
+  ],
+  "doi": [
+    "10.1186/s12886-019-1030-4"
+  ],
+  "title": [
+    "Pediatric trochleitis associated with paranasal sinusitis: a case report."
+  ],
+  "authorString": [
+    "Hong H, Lyu IJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hong H"
+          ],
+          "firstName": [
+            "Hyunkyu"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5169-6464",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Ophthalmology, Nowon Eulji Medical Center, Eulji University School of Medicine, #68 Hangeulbiseok-ro, Nowon-gu, Seoul, Republic of Korea, 01830."
+          ]
+        },
+        {
+          "fullName": [
+            "Lyu IJ"
+          ],
+          "firstName": [
+            "In Jeong"
+          ],
+          "lastName": [
+            "Lyu"
+          ],
+          "initials": [
+            "IJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8476-5454",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Ophthalmology, Nowon Eulji Medical Center, Eulji University School of Medicine, #68 Hangeulbiseok-ro, Nowon-gu, Seoul, Republic of Korea, 01830. joen03@hanmail.net."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5169-6464",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8476-5454",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2766495"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC ophthalmology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Ophthalmol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Ophthalmol"
+          ],
+          "NLMid": [
+            "100967802"
+          ],
+          "ISSN": [
+            "1471-2415"
+          ],
+          "ESSN": [
+            "1471-2415"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "16"
+  ],
+  "abstractText": [
+    "BACKGROUND:Trochleitis is trochlear pain with evidence of inflammation in the trochlear area on radiologic examination. The etiology of trochleitis is mostly idiopathic. Secondary trochleitis is rare, and trochleitis associated with paranasal sinusitis in children has not yet been reported. CASE PRESENTATION:An 8-year-old boy presented with left periorbital pain for a week. His visual acuity and eye movement were normal. There was point tenderness on palpitation over the left trochlear region without swelling or redness. Orbital magnetic resonance imaging showed focal enhancement on the left trochlea and paranasal sinusitis on the left side. The patient's symptoms and signs were completely resolved after empirical treatment for sinusitis. There was no need to inject a local steroid. CONCLUSION:Although rare, sinusitis should be considered when diagnosing and treating trochleitis in children with periorbital pain."
+  ],
+  "affiliation": [
+    "Department of Ophthalmology, Nowon Eulji Medical Center, Eulji University School of Medicine, #68 Hangeulbiseok-ro, Nowon-gu, Seoul, Republic of Korea, 01830."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MSIP; no. 2017R1C1B5017079"
+          ],
+          "agency": [
+            "National Research Foundation of Korea (KR)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sinusitis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trochlear Nerve Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Eye Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Sinusitis",
+        "Trochleitis",
+        "Trochlear Pain"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12886-019-1030-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6332564"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6332564?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-25"
+  ],
+  "dateOfCreation": [
+    "2019-01-16"
+  ],
+  "firstIndexDate": [
+    "2019-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-26"
+  ],
+  "dateOfRevision": [
+    "2019-01-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-14"
+  ],
+  "firstPublicationDate": [
+    "2019-01-14"
+  ]
+}

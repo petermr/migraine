@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="Symptoms Trivić Ivana * Hojsak Iva * † ‡ [*]," exact="Croatia" post="[†], Croatia [‡], Croatia Corresponding author: Iva Hojsak, Referral"/>
+ <result pre="Ivana * Hojsak Iva * † ‡ [*], Croatia [†]," exact="Croatia" post="[‡], Croatia Corresponding author: Iva Hojsak, Referral Centre for"/>
+ <result pre="Hojsak Iva * † ‡ [*], Croatia [†], Croatia [‡]," exact="Croatia" post="Corresponding author: Iva Hojsak, Referral Centre for Pediatric Gastroenterology"/>
+</results>

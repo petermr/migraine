@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6899798/results/search/funders/results.xml">
+  <result pre="York New York [2], Division of Gastroenterology Department of Medicine" exact="Medical College of Wisconsin" post="Milwaukee Wisconsin [3], Division of Gastroenterology and Liver Disease"/>
+  <result pre="Division of Gastroenterology and Liver Disease Department of Internal Medicine" exact="Case Western Reserve University" post="School of Medicine Cleveland Ohio [4], Department of Medicine"/>
+  <result pre="Liver Disease Department of Internal Medicine Case Western Reserve University" exact="School of Medicine" post="Cleveland Ohio [4], Department of Medicine Division of Gastroenterology,"/>
+  <result pre="[4], Department of Medicine Division of Gastroenterology, Hepatology, and Nutrition" exact="University of Pittsburgh" post="Medical Center Pittsburg Pennsylvania [5], Department of Psychiatry and"/>
+  <result pre="[5], Department of Psychiatry and Behavioral Sciences Northwestern Feinberg University" exact="School of Medicine" post="Chicago Illinois [6], Department of Neurology and Neurological Sciences"/>
+  <result pre="Medicine Chicago Illinois [6], Department of Neurology and Neurological Sciences" exact="Stanford University" post="Medical Center Stanford California [7], Division of Gastroenterology Department"/>
+  <result pre="Center Stanford California [7], Division of Gastroenterology Department of Medicine" exact="University of Michigan" post="Medical School Ann Arbor Michigan [8], Division of Pediatric"/>
+  <result pre="Syndrome Association [10], Division of Gastroenterology Department of Internal Medicine" exact="Texas Tech University" post="Health Sciences Center Lubbock Texas [11], Lane Medical Library"/>
+  <result pre="University Health Sciences Center Lubbock Texas [11], Lane Medical Library" exact="Stanford University" post="Stanford California [12], Division of Pediatric Gastroenterology, Hepatology and"/>
+  <result pre="Division of Pediatric Gastroenterology, Hepatology and Nutrition Department of Pediatrics" exact="Medical College of Wisconsin" post="Milwaukee Wisconsin [13], Division of Gastroenterology Department of Medicine"/>
+  <result pre="Wisconsin Milwaukee Wisconsin [13], Division of Gastroenterology Department of Medicine" exact="University of Minnesota" post="Minneapolis Veterans Affairs Healthcare System Minneapolis Minnesota * Correspondence"/>
+  <result pre="with CVS recruited from Cyclic Vomiting Syndrome Association Web site," exact="Facebook" post="page, and newsletter. Survey and qualitative interviews of patients"/>
+  <result pre="retrospective review of adult and pediatric patients seen at the" exact="Medical College of Wisconsin" post="who met Rome III criteria for CVS. 12 Data"/>
+ </snippets>
+</snippetsTree>

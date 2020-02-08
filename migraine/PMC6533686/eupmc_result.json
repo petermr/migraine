@@ -1,0 +1,342 @@
+{
+  "id": [
+    "31126268"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31126268"
+  ],
+  "pmcid": [
+    "PMC6533686"
+  ],
+  "doi": [
+    "10.1186/s12887-019-1537-0"
+  ],
+  "title": [
+    "Quality of life in children and adolescents with migraine: an Austrian monocentric, cross-sectional questionnaire study."
+  ],
+  "authorString": [
+    "Koller LS, Diesner SC, Voitl P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Koller LS"
+          ],
+          "firstName": [
+            "Lydia Stella"
+          ],
+          "lastName": [
+            "Koller"
+          ],
+          "initials": [
+            "LS"
+          ],
+          "affiliation": [
+            "First Vienna Pediatric Medical Center, Donau-City Straße 1, 1220, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Diesner SC"
+          ],
+          "firstName": [
+            "Susanne C"
+          ],
+          "lastName": [
+            "Diesner"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8955-4752",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "First Vienna Pediatric Medical Center, Donau-City Straße 1, 1220, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Voitl P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Voitl"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2312-4423",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "First Vienna Pediatric Medical Center, Donau-City Straße 1, 1220, Vienna, Austria. peter.voitl@kinderarzt.at."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8955-4752",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2312-4423",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2811833"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "BMC Pediatr"
+          ],
+          "NLMid": [
+            "100967804"
+          ],
+          "ISSN": [
+            "1471-2431"
+          ],
+          "ESSN": [
+            "1471-2431"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "164"
+  ],
+  "abstractText": [
+    "BACKGROUND:Migraine is a disabling primary headache disorder that occurs in about 10 % of children and might lead to a lower quality of life. There are several possible migraine triggers in a patient's environment, which should be avoided where possible. The objective of this Austrian monocentric study was to identify migraine triggers and the areas, in which children and adolescents with migraine have a lower quality of life than healthy, headache-free children. METHODS:In this cross-sectional, questionnaire study, 76 children from ages 8 to 17 years were included. Thirty-seven were classified as migraineurs, 39 as non-migraineurs. Participants filled in a questionnaire surveying the areas of physical, socio-economic and school functioning. Migraineurs further answered migraine-specific questions. RESULTS:The study included 33 (43.4%) males and 43 (56.6%) females. Median age was 13.00 (10.00-16.00) years. Average age of onset for migraine was 9.22 ± 3.34 years. Non-migraineurs skipped trendwise fewer meals (p.adjust = 0.108) and exercised more often (p.adjust = 0.108). In socio-economic functioning, the father's nationality being Austrian might be related to migraine (p.adjust = 0.108). Children with migraine had a significantly lower quality of life in school functioning (PedsQL 4.0 questionnaire, p.adjust = 0.04) and had significantly less often \"good\" grades than children without migraine (p.adjust = 0.048). CONCLUSION:Children with migraine show a reduced quality of life in the areas of physical, socio-economic and school functioning."
+  ],
+  "affiliation": [
+    "First Vienna Pediatric Medical Center, Donau-City Straße 1, 1220, Vienna, Austria."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Migraine",
+        "Quality of life",
+        "Adolescents",
+        "School",
+        "Social",
+        "Physical",
+        "Emotional",
+        "Economical"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12887-019-1537-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6533686"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6533686?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-26"
+  ],
+  "firstIndexDate": [
+    "2019-05-26"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2020-01-27"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-24"
+  ],
+  "firstPublicationDate": [
+    "2019-05-24"
+  ]
+}

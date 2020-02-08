@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6780832/results/search/disease/results.xml">
+  <result pre="associated with comorbid psychiatric concerns including depression, anxiety disorders, and" exact="post-traumatic stress disorder" post="(PTSD) [ 112] and the co-occurrence is likely bidirectional"/>
+  <result pre="with chronic right arm pain secondary to a diagnosis of" exact="complex regional pain syndrome" post="(CRPS), type 1. Similar to results found within acute"/>
+  <result pre="controlled study of minimal-contact thermal biofeedback treatment in children with" exact="migraine" post="J. Pediatr. Psychol. 2002 27 109 119 10.1093/jpepsy/27.2.109 11821495"/>
+  <result pre="and after an integrative training program for adolescents with juvenile" exact="fibromyalgia" post="Pediatr. Rheumatol. Online J. 2016 14 43 10.1186/s12969-016-0103-7 27448801"/>
+  <result pre="Miller J.C. Depression, coping, and functional disability in juvenile primary" exact="fibromyalgia" post="syndrome J. Pain 2002 3 412 419 10.1054/jpai.2002.126786 14622745"/>
+  <result pre="S.L. Carlson L.E. Mindfulness-based stress reduction for the treatment of" exact="irritable bowel syndrome" post="symptoms: A randomized wait-list controlled trial Int. J. Behav."/>
+  <result pre="Kidder M. Sapp L. Short-and long-term outcomes of children with" exact="complex regional pain syndrome" post="type I treated with exercise therapy Clin. J. Pain"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,307 @@
+{
+  "id": [
+    "21589696"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21589696"
+  ],
+  "pmcid": [
+    "PMC3091428"
+  ],
+  "title": [
+    "The effects of massage therapy on pain management in the acute care setting."
+  ],
+  "authorString": [
+    "Adams R, White B, Beckett C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Adams R"
+          ],
+          "firstName": [
+            "Rose"
+          ],
+          "lastName": [
+            "Adams"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "White B"
+          ],
+          "firstName": [
+            "Barb"
+          ],
+          "lastName": [
+            "White"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Beckett C"
+          ],
+          "firstName": [
+            "Cynthia"
+          ],
+          "lastName": [
+            "Beckett"
+          ],
+          "initials": [
+            "C"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "1833209"
+      ],
+      "dateOfPublication": [
+        "2010 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of therapeutic massage & bodywork"
+          ],
+          "ISOAbbreviation": [
+            "Int J Ther Massage Bodywork"
+          ],
+          "medlineAbbreviation": [
+            "Int J Ther Massage Bodywork"
+          ],
+          "NLMid": [
+            "101539415"
+          ],
+          "ISSN": [
+            "1916-257X"
+          ],
+          "ESSN": [
+            "1916-257X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "4-11"
+  ],
+  "abstractText": [
+    "BACKGROUND: Pain management remains a critical issue for hospitals and is receiving the attention of hospital accreditation organizations. The acute care setting of the hospital provides an excellent opportunity for the integration of massage therapy for pain management into the team-centered approach of patient care. PURPOSE AND SETTING: This preliminary study evaluated the effect of the use of massage therapy on inpatient pain levels in the acute care setting. The study was conducted at Flagstaff Medical Center in Flagstaff, Arizona-a nonprofit community hospital serving a large rural area of northern Arizona. METHOD: A convenience sample was used to identify research participants. Pain levels before and after massage therapy were recorded using a 0 - 10 visual analog scale. Quantitative and qualitative methods were used for analysis of this descriptive study. PARTICIPANTS: Hospital inpatients (n = 53) from medical, surgical, and obstetrics units participated in the current research by each receiving one or more massage therapy sessions averaging 30 minutes each. The number of sessions received depended on the length of the hospital stay. RESULT: Before massage, the mean pain level recorded by the patients was 5.18 [standard deviation (SD): 2.01]. After massage, the mean pain level was 2.33 (SD: 2.10). The observed reduction in pain was statistically significant: paired samples t(52) = 12.43, r = .67, d = 1.38, p < .001. Qualitative data illustrated improvement in all areas, with the most significant areas of impact reported being overall pain level, emotional well-being, relaxation, and ability to sleep. CONCLUSIONS: This study shows that integration of massage therapy into the acute care setting creates overall positive results in the patient's ability to deal with the challenging physical and psychological aspects of their health condition. The study demonstrated not only significant reduction in pain levels, but also the interrelatedness of pain, relaxation, sleep, emotions, recovery, and finally, the healing process."
+  ],
+  "affiliation": [
+    "Therapy Services, Massage Therapy;"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pregnancy",
+        "Research",
+        "Cancer",
+        "Relaxation",
+        "Anxiety",
+        "Postoperative pain",
+        "Patient care management",
+        "Pain Management",
+        "Hospital",
+        "Fibromyalgia",
+        "Acute Care",
+        "Reflexology",
+        "inpatients",
+        "Massage Therapy",
+        "Acupressure",
+        "Swedish Effleurage",
+        "Craniosacral"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21589696/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21589696/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3091428"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3091428?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "20"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2011-05-18"
+  ],
+  "firstIndexDate": [
+    "2011-05-20"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-01"
+  ],
+  "dateOfRevision": [
+    "2013-11-06"
+  ],
+  "electronicPublicationDate": [
+    "2010-03-17"
+  ],
+  "firstPublicationDate": [
+    "2010-03-17"
+  ]
+}

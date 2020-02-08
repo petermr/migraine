@@ -1,0 +1,662 @@
+{
+  "id": [
+    "25902803"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25902803"
+  ],
+  "pmcid": [
+    "PMC4407351"
+  ],
+  "doi": [
+    "10.1186/s12916-015-0279-6"
+  ],
+  "title": [
+    "What is quality in assisted living technology? The ARCHIE framework for effective telehealth and telecare services."
+  ],
+  "authorString": [
+    "Greenhalgh T, Procter R, Wherton J, Sugarhood P, Hinder S, Rouncefield M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Greenhalgh T"
+          ],
+          "firstName": [
+            "Trisha"
+          ],
+          "lastName": [
+            "Greenhalgh"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2369-8088",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Primary Care Health Sciences, University of Oxford, 2nd floor, New Radcliffe House, Walton St, Oxford, OX2 6GG, UK. trish.greenhalgh@phc.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Procter R"
+          ],
+          "firstName": [
+            "Rob"
+          ],
+          "lastName": [
+            "Procter"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Computer Science, Queen Mary University, Coventry, UK. rob.procter@warwick.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Wherton J"
+          ],
+          "firstName": [
+            "Joe"
+          ],
+          "lastName": [
+            "Wherton"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7701-4783",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Primary Care and Public Health, Barts and the London School of Medicine and Dentistry, London, UK. j.wherton@qmul.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Sugarhood P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Sugarhood"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "East London NHS Foundation Trust, London, UK. Paul.Sugarhood@eastlondon.nhs.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Hinder S"
+          ],
+          "firstName": [
+            "Sue"
+          ],
+          "lastName": [
+            "Hinder"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8451-2027",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Computer Science, Queen Mary University, Coventry, UK. suehinderraftresearch@hotmail.co.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Rouncefield M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Rouncefield"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Computing, Lancaster University, Lancaster, UK. m.rouncefield@lancaster.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2369-8088",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8451-2027",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7701-4783",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2256725"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med"
+          ],
+          "NLMid": [
+            "101190723"
+          ],
+          "ISSN": [
+            "1741-7015"
+          ],
+          "ESSN": [
+            "1741-7015"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "91"
+  ],
+  "abstractText": [
+    "BACKGROUND: We sought to define quality in telehealth and telecare with the aim of improving the proportion of patients who receive appropriate, acceptable and workable technologies and services to support them living with illness or disability. METHODS: This was a three-phase study: (1) interviews with seven technology suppliers and 14 service providers, (2) ethnographic case studies of 40 people, 60 to 98 years old, with multi-morbidity and assisted living needs and (3) 10 co-design workshops. In phase 1, we explored barriers to uptake of telehealth and telecare. In phase 2, we used ethnographic methods to build a detailed picture of participants' lives, illness experiences and technology use. In phase 3, we brought users and their carers together with suppliers and providers to derive quality principles for assistive technology products and services. RESULTS: Interviews identified practical, material and organisational barriers to smooth introduction and continued support of assistive technologies. The experience of multi-morbidity was characterised by multiple, mutually reinforcing and inexorably worsening impairments, producing diverse and unique care challenges. Participants and their carers managed these pragmatically, obtaining technologies and adapting the home. Installed technologies were rarely fit for purpose. Support services for technologies made high (and sometimes oppressive) demands on users. Six principles emerged from the workshops. Quality telehealth or telecare is 1) ANCHORED in a shared understanding of what matters to the user; 2) REALISTIC about the natural history of illness; 3) CO-CREATIVE, evolving and adapting solutions with users; 4) HUMAN, supported through interpersonal relationships and social networks; 5) INTEGRATED, through attention to mutual awareness and knowledge sharing; 6) EVALUATED to drive system learning. CONCLUSIONS: Technological advances are important, but must be underpinned by industry and service providers following a user-centred approach to design and delivery. For the ARCHIE principles to be realised, the sector requires: (1) a shift in focus from product ('assistive technologies') to performance ('supporting technologies-in-use'); (2) a shift in the commissioning model from standardised to personalised home care contracts; and (3) a shift in the design model from 'walled garden', branded products to inter-operable components that can be combined and used flexibly across devices and platforms. Please see related article: http://dx.doi.org/10.1186/s12916-015-0305-8."
+  ],
+  "affiliation": [
+    "Department of Primary Care Health Sciences, University of Oxford, 2nd floor, New Radcliffe House, Walton St, Oxford, OX2 6GG, UK. trish.greenhalgh@phc.ox.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NF-SI-0512-10031"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "acronym": [
+            "DH_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Activities of Daily Living"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Health Knowledge, Attitudes, Practice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Telemedicine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Qualitative Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Social Support"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Needs Assessment"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Frail Elderly"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Caregivers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disabled Persons"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Home Care Services"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Services for the Aged"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Acceptance of Health Care"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Services for Persons with Disabilities"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12916-015-0279-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4407351"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4407351?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "25902829"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "BMC Med. 2015;13:92"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "15"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "35"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-07-14"
+  ],
+  "dateOfCreation": [
+    "2015-04-23"
+  ],
+  "firstIndexDate": [
+    "2015-04-27"
+  ],
+  "fullTextReceivedDate": [
+    "2015-04-27"
+  ],
+  "dateOfRevision": [
+    "2015-04-27"
+  ],
+  "electronicPublicationDate": [
+    "2015-04-23"
+  ],
+  "firstPublicationDate": [
+    "2015-04-23"
+  ]
+}

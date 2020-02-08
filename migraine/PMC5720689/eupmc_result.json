@@ -1,0 +1,494 @@
+{
+  "id": [
+    "29216286"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29216286"
+  ],
+  "pmcid": [
+    "PMC5720689"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0189231"
+  ],
+  "title": [
+    "Migraine and risk of narcolepsy in children: A nationwide longitudinal study."
+  ],
+  "authorString": [
+    "Yang CP, Hsieh ML, Chiang JH, Chang HY, Hsieh VC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang CP"
+          ],
+          "firstName": [
+            "Chun-Pai"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "affiliation": [
+            "Departments of Neurology, Kuang Tien General Hospital, Taichung, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsieh ML"
+          ],
+          "firstName": [
+            "Meng-Lun"
+          ],
+          "lastName": [
+            "Hsieh"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "affiliation": [
+            "Department of Medical Education, Taipei Veterans General Hospital, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chiang JH"
+          ],
+          "firstName": [
+            "Jen-Huai"
+          ],
+          "lastName": [
+            "Chiang"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Management Office for Health Data, China Medical University Hospital, Taichung, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang HY"
+          ],
+          "firstName": [
+            "Hsing-Yi"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "affiliation": [
+            "Institute of Population Health Sciences, National Health Research Institutes, Zhunan, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsieh VC"
+          ],
+          "firstName": [
+            "Vivian Chia-Rong"
+          ],
+          "lastName": [
+            "Hsieh"
+          ],
+          "initials": [
+            "VC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9635-0897",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Health Services Administration, College of Public Health, China Medical University, Taichung, Taiwan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9635-0897",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2632138"
+      ],
+      "dateOfPublication": [
+        "2017"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e0189231"
+  ],
+  "abstractText": [
+    "The association between migraine and narcolepsy remains controversial. We aim to investigate whether migraine is associated with an increased risk of developing narcolepsy in children.In this longitudinal study, nationwide medical-claims data of pediatric patients (0-17y) with migraine are identified using the National Health Insurance Research Database (NHIRD) between 1997 and 2010 in Taiwan. Two cohorts are selected: migraine cases (n = 8,923) and propensity score-matched non-migraine controls (n = 35,692). Children with previous history of narcolepsy or headache before the index date are excluded. Cohorts are followed until the end of 2012, their withdrawal from the NHI program, or incidence of narcolepsy (ICD-9-CM: 347). Cox proportional hazards regression models are used to estimate hazard ratios (HRs) and 95% confidence intervals of developing narcolepsy in children with migraine compared to their non-migraine controls.A total of 13 incident cases with narcolepsy are observed during follow-up, with incidence rates of 0.1915 and 0.0278 per 1,000 person-years in migraine and non-migraine children, respectively. After a mean follow-up period of 4.68 and 5.04 years in the case and control cohort, respectively, the former exhibited a greater risk of developing narcolepsy compared to the latter (adjusted hazard ratio (aHR) = 5.30, 95% confidence interval (CI): 1.61, 17.4; p = 0.006). This finding persisted after controlling for potential confounders like baseline comorbidities and concurrent medication uptake, and in our analyses with migraine subtypes.Migraine is an independent risk factor for narcolepsy development in children. Further studies are needed to validate our findings and to explore the exact pathophysiological mechanisms linking migraine and narcolepsy."
+  ],
+  "affiliation": [
+    "Departments of Neurology, Kuang Tien General Hospital, Taichung, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Narcolepsy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proportional Hazards Models"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Longitudinal Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant, Newborn"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Taiwan"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0189231"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5720689"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5720689?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-01-22"
+  ],
+  "dateOfCreation": [
+    "2017-12-08"
+  ],
+  "firstIndexDate": [
+    "2017-12-08"
+  ],
+  "fullTextReceivedDate": [
+    "2017-12-17"
+  ],
+  "dateOfRevision": [
+    "2018-01-22"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-07"
+  ],
+  "firstPublicationDate": [
+    "2017-12-07"
+  ]
+}

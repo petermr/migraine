@@ -1,0 +1,406 @@
+{
+  "id": [
+    "22823993"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22823993"
+  ],
+  "pmcid": [
+    "PMC3411470"
+  ],
+  "doi": [
+    "10.1186/1824-7288-38-34"
+  ],
+  "title": [
+    "Infantile colic, facts and fiction."
+  ],
+  "authorString": [
+    "Kheir AE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kheir AE"
+          ],
+          "firstName": [
+            "Abdelmoneim E M"
+          ],
+          "lastName": [
+            "Kheir"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "affiliation": [
+            "Department of Paediatrics, Faculty of Medicine, University of Khartoum, Khartoum, Sudan. moneimkheir62@hotmail.com"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "38"
+      ],
+      "journalIssueId": [
+        "1909122"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Italian journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Ital J Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Ital J Pediatr"
+          ],
+          "NLMid": [
+            "101510759"
+          ],
+          "ISSN": [
+            "1824-7288"
+          ],
+          "ESSN": [
+            "1824-7288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "34"
+  ],
+  "abstractText": [
+    "Infantile colic is one of the major challenges of parenthood. It is one of the common reasons parents seek medical advice during their child's first 3 months of life. It is defined as paroxysms of crying lasting more than 3 hours a day, occurring more than 3 days in any week for 3 weeks in a healthy baby aged 2 weeks to 4 months. Colic is a poorly understood phenomenon affecting up to 30% of babies, underlying organic causes of excessive crying account for less than 5%. Laboratory tests and radiological examinations are unnecessary if the infant is gaining weight normally and has a normal physical examination. Treatment is limited and drug treatment has no role in management. Probiotics are now emerging as promising agents in the treatment of infantile colic. Alternative medicine (Herbal tea, fennel, glucose and massage therapy) have not proved to be consistently helpful and some might even be dangerous. In conclusion infantile colic is a common cause of maternal distress and family disturbance, the cornerstone of management remains reassurance of parents regarding the benign and self-limiting nature of the illness. There is a critical need for more evidence based treatment protocols."
+  ],
+  "affiliation": [
+    "Department of Paediatrics, Faculty of Medicine, University of Khartoum, Khartoum, Sudan. moneimkheir62@hotmail.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Retracted Publication",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Colic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant, Newborn"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22823993/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22823993/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1824-7288-38-34"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3411470"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3411470?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "24618350"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Ital J Pediatr. 2014;40(1):9"
+          ],
+          "type": [
+            "Retraction in"
+          ],
+          "orderIn": [
+            "42"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-01-04"
+  ],
+  "dateOfCreation": [
+    "2012-08-06"
+  ],
+  "firstIndexDate": [
+    "2012-07-25"
+  ],
+  "fullTextReceivedDate": [
+    "2012-10-19"
+  ],
+  "dateOfRevision": [
+    "2014-04-15"
+  ],
+  "electronicPublicationDate": [
+    "2012-07-23"
+  ],
+  "firstPublicationDate": [
+    "2012-07-23"
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6916280/results/search/country/results.xml">
+  <result pre="Unit, Shriners Hospital for Children and McGill University Montreal QC" exact="Canada" post="[3], APHP, Department of Endocrinology and Reproductive Diseases, Bicêtre"/>
+  <result pre="and Reproductive Diseases, Bicêtre Paris Sud Hospital Le Kremlin Bicêtre" exact="France" post="[4], Department of Endocrinology &amp;amp; Nephrology The University of"/>
+  <result pre="of Endocrinology &amp;amp; Nephrology The University of Tokyo Hospital Tokyo" exact="Japan" post="[5], Department of Pediatrics Osaka University Hospital Osaka Japan"/>
+  <result pre="Tokyo Japan [5], Department of Pediatrics Osaka University Hospital Osaka" exact="Japan" post="[6], Department of Pediatrics Hokkaido University Hospital Hokkaido Japan"/>
+  <result pre="Osaka Japan [6], Department of Pediatrics Hokkaido University Hospital Hokkaido" exact="Japan" post="[7], Ultragenyx Pharmaceutical Inc. Novato CA USA [8], Division"/>
+ </snippets>
+</snippetsTree>

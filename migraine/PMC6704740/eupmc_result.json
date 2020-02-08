@@ -1,0 +1,395 @@
+{
+  "id": [
+    "31418803"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31418803"
+  ],
+  "pmcid": [
+    "PMC6704740"
+  ],
+  "doi": [
+    "10.1001/jamanetworkopen.2019.9364"
+  ],
+  "title": [
+    "Hospital Utilization Among Rural Children Served by Pediatric Neurology Telemedicine Clinics."
+  ],
+  "authorString": [
+    "Dayal P, Chang CH, Benko WS, Pollock BH, Crossen SS, Kissee J, Ulmer AM, Hoch JS, Warner L, Marcin JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dayal P"
+          ],
+          "firstName": [
+            "Parul"
+          ],
+          "lastName": [
+            "Dayal"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of California Davis Health, Sacramento."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang CH"
+          ],
+          "firstName": [
+            "Celia H"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of California Davis Health, Sacramento."
+          ]
+        },
+        {
+          "fullName": [
+            "Benko WS"
+          ],
+          "firstName": [
+            "William S"
+          ],
+          "lastName": [
+            "Benko"
+          ],
+          "initials": [
+            "WS"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of California Davis Health, Sacramento."
+          ]
+        },
+        {
+          "fullName": [
+            "Pollock BH"
+          ],
+          "firstName": [
+            "Brad H"
+          ],
+          "lastName": [
+            "Pollock"
+          ],
+          "initials": [
+            "BH"
+          ],
+          "affiliation": [
+            "Department of Public Health Sciences, University of California Davis Health, Sacramento."
+          ]
+        },
+        {
+          "fullName": [
+            "Crossen SS"
+          ],
+          "firstName": [
+            "Stephanie S"
+          ],
+          "lastName": [
+            "Crossen"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of California Davis Health, Sacramento."
+          ]
+        },
+        {
+          "fullName": [
+            "Kissee J"
+          ],
+          "firstName": [
+            "Jamie"
+          ],
+          "lastName": [
+            "Kissee"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of California Davis Health, Sacramento."
+          ]
+        },
+        {
+          "fullName": [
+            "Ulmer AM"
+          ],
+          "firstName": [
+            "Aaron M"
+          ],
+          "lastName": [
+            "Ulmer"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Center for Health and Technology, University of California Davis Health, Sacramento."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoch JS"
+          ],
+          "firstName": [
+            "Jeffrey S"
+          ],
+          "lastName": [
+            "Hoch"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "affiliation": [
+            "Department of Public Health Sciences, University of California Davis Health, Sacramento."
+          ]
+        },
+        {
+          "fullName": [
+            "Warner L"
+          ],
+          "firstName": [
+            "Leslie"
+          ],
+          "lastName": [
+            "Warner"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Shasta Community Health Center, Redding, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Marcin JP"
+          ],
+          "firstName": [
+            "James P"
+          ],
+          "lastName": [
+            "Marcin"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of California Davis Health, Sacramento."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2844420"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JAMA network open"
+          ],
+          "ISOAbbreviation": [
+            "JAMA Netw Open"
+          ],
+          "medlineAbbreviation": [
+            "JAMA Netw Open"
+          ],
+          "NLMid": [
+            "101729235"
+          ],
+          "ISSN": [
+            "2574-3805"
+          ],
+          "ESSN": [
+            "2574-3805"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e199364"
+  ],
+  "abstractText": [
+    "Importance:Telemedicine is increasingly used to provide outpatient pediatric neurology consultations in underserved communities. Although telemedicine clinics have been shown to improve access, little is known about how they alter patients' utilization of hospital services. Objective:To evaluate the association between access to telemedicine clinics and hospital utilization among underserved children with neurologic conditions. Design, Setting, and Participants:This retrospective cross-sectional study included 4169 patients who received outpatient care from pediatric neurologists affiliated with an academic children's hospital in California between January 1, 2009, and July 31, 2017, either in person or using telemedicine. Exposures:Consultation modality (telemedicine or in person) in the outpatient neurology clinics. Main Outcomes and Measures:Demographic and clinical variables were abstracted from the hospital's electronic medical records. The association between the modality of outpatient neurology care and patients' utilization of the emergency department and hospitalizations was evaluated. Both all-cause and neurologic condition-related hospital utilization were analyzed using multivariable negative binomial regression in overall and matched samples. Results:The telemedicine cohort comprised 378 patients (211 [55.8%] male), and the in-person cohort comprised 3791 patients (2090 [55.1%] male). The mean (SD) age at the first encounter was 7.4 (5.4) years for the telemedicine cohort and 7.8 (5.1) years for the in-person cohort. The telemedicine cohort was more likely than the in-person cohort to have nonprivate insurance (public insurance, self-pay, or uninsured), lower education, and lower household income. The rates of all-cause and neurologic hospital encounters were lower among children who received pediatric neurology consultations over telemedicine compared with children who received care in the in-person clinics (5.7 [95% CI, 3.5-8.0] vs 20.1 [95% CI, 18.1-22.1] per 100 patient-years and 3.7 [95% CI, 2.0-5.3] vs 8.9 [95% CI, 7.8-10.0] per 100 patient-years, respectively; P < .001). Even after adjusting for demographic and clinical factors, the telemedicine cohort had a lower risk of hospital encounters (emergency department visits and admissions) with an adjusted incidence rate ratio of 0.57 (95% CI, 0.38-0.88) for all-cause encounters and an adjusted incidence rate ratio of 0.60 (95% CI, 0.36-0.99) for neurologic encounters. After matching on travel time to the neurology clinic, the adjusted incidence rate ratio was 0.19 (95% CI, 0.04-0.83) for all-cause admissions and 0.14 (95% CI, 0.02-0.82) for neurologic admissions. Conclusions and Relevance:Pediatric neurology care through real-time, audiovisual telemedicine consultations was associated with lower hospital utilization compared with in-person consultations, suggesting that high-cost hospital encounters can be prevented by improving subspecialty access."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, University of California Davis Health, Sacramento."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1001/jamanetworkopen.2019.9364"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6704740"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-17"
+  ],
+  "firstIndexDate": [
+    "2019-08-17"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-08"
+  ],
+  "dateOfRevision": [
+    "2019-09-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-02"
+  ],
+  "firstPublicationDate": [
+    "2019-08-02"
+  ]
+}

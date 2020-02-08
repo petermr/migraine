@@ -1,0 +1,521 @@
+{
+  "id": [
+    "31261815"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31261815"
+  ],
+  "pmcid": [
+    "PMC6681503"
+  ],
+  "doi": [
+    "10.3390/medicina55070321"
+  ],
+  "title": [
+    "Evaluation of Vitamin D Levels and Response to Therapy of Childhood Migraine."
+  ],
+  "authorString": [
+    "Kılıç B, Kılıç M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kılıç B"
+          ],
+          "firstName": [
+            "Betül"
+          ],
+          "lastName": [
+            "Kılıç"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Child Neurology, University of Health Sciences, Derince Training and Research Hospital, 41900 Kocaeli, Turkey. betulklc82@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kılıç M"
+          ],
+          "firstName": [
+            "Mustafa"
+          ],
+          "lastName": [
+            "Kılıç"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, University of Health Sciences, Şişli Hamidiye Etfal Training and Research Hospital, 34371 Istanbul, Turkey. kilicnrs@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "55"
+      ],
+      "journalIssueId": [
+        "2831589"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicina (Kaunas, Lithuania)"
+          ],
+          "ISOAbbreviation": [
+            "Medicina (Kaunas)"
+          ],
+          "medlineAbbreviation": [
+            "Medicina (Kaunas)"
+          ],
+          "NLMid": [
+            "9425208"
+          ],
+          "ISSN": [
+            "1010-660X"
+          ],
+          "ESSN": [
+            "1648-9144"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "BACKGROUND AND OBJECTIVES:Vitamin D deficiency and insufficiency are related with many neurological diseases such as migraine. The aim of this study was to investigate whether pediatric migraine is associated with vitamin D deficiency and the effect of vitamin D therapy on the frequency, duration, severity of migraine attacks, and Pediatric Migraine Disability Assessment (PedMIDAS). MATERIALS AND METHODS:We retrospectively examined the patients' levels of calcium, phosphorus, parathyroid hormone, alkaline phosphatase, and 25-OH vitamin D of 92 pediatric migraine patients. The patients were divided into two groups: Group 1, which had low vitamin D levels and received vitamin D therapy, and group 2, which had normal vitamin D levels and did not receive vitamin D therapy. Migraine severity measured by the visual analog scale (VAS), migraine frequency, and duration as well as scores on the PedMIDAS questionnaire were compared with regard to the 25-OH vitamin D levels. In addition, pre- and posttreatment pedMIDAS scores, VAS, migraine frequency, and duration were compared with baseline values. RESULTS:A total of 34.7% patients had vitamin D insufficiency (vitamin D levels between 10 and 20 ng/mL), whereas 10.8% had vitamin D deficiency (vitamin D levels < 10 ng/mL). Migraine frequency, migraine duration, and PedMIDAS scores were significantly higher in the group 1 than group 2 (p = 0.004, p = 0.008, and p = 0.001). After vitamin D therapy at sixth months of supplementation, migraine duration was reported statistically significant shorter (p < 0.001) and the migraine frequency, VAS scores, and pedMIDAS scores were statistically significant lower compared with baseline values in group 1 (p < 0.001). CONCLUSION:We found a marked correlation between pediatric migraine and vitamin D levels. Vitamin D therapy was beneficial in migraine pediatric patients."
+  ],
+  "affiliation": [
+    "Department of Child Neurology, University of Health Sciences, Derince Training and Research Hospital, 41900 Kocaeli, Turkey. betulklc82@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vitamin D Deficiency"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vitamin D"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Statistics, Nonparametric"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retrospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatrics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vitamin D",
+        "Childhood Migraine",
+        "Pedmidas"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Vitamin D"
+          ],
+          "registryNumber": [
+            "1406-16-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/medicina55070321"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6681503"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6681503?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-01-02"
+  ],
+  "dateOfCreation": [
+    "2019-07-03"
+  ],
+  "firstIndexDate": [
+    "2019-07-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-11"
+  ],
+  "dateOfRevision": [
+    "2020-01-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-28"
+  ],
+  "firstPublicationDate": [
+    "2019-06-28"
+  ]
+}

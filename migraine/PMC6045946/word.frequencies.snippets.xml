@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6045946/results/word/frequencies/results.xml">
+  <result title="frequency" word="migraine" count="72"/>
+  <result title="frequency" word="patients" count="62"/>
+  <result title="frequency" word="headache" count="32"/>
+  <result title="frequency" word="matter" count="30"/>
+  <result title="frequency" word="children" count="29"/>
+  <result title="frequency" word="white" count="28"/>
+  <result title="frequency" word="MRI" count="25"/>
+  <result title="frequency" word="lesions" count="22"/>
+ </snippets>
+</snippetsTree>

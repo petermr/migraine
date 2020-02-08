@@ -1,0 +1,268 @@
+{
+  "id": [
+    "29472749"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29472749"
+  ],
+  "pmcid": [
+    "PMC5820747"
+  ],
+  "doi": [
+    "10.4103/jpp.JPP_104_17"
+  ],
+  "title": [
+    "Learning Pharmacology by Metaphors: A Tale of Beta-blockers."
+  ],
+  "authorString": [
+    "Khilnani G, Khilnani AK, Thaddanee R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Khilnani G"
+          ],
+          "firstName": [
+            "Gurudas"
+          ],
+          "lastName": [
+            "Khilnani"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, Gujarat Adani Institute of Medical Sciences, Bhuj, Gujarat, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Khilnani AK"
+          ],
+          "firstName": [
+            "Ajeet Kumar"
+          ],
+          "lastName": [
+            "Khilnani"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "affiliation": [
+            "Department of Otorhinolaryngology, Gujarat Adani Institute of Medical Sciences, Bhuj, Gujarat, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Thaddanee R"
+          ],
+          "firstName": [
+            "Rekha"
+          ],
+          "lastName": [
+            "Thaddanee"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Gujarat Adani Institute of Medical Sciences, Bhuj, Gujarat, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3592-6340",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2654143"
+      ],
+      "dateOfPublication": [
+        "2017 Oct-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of pharmacology & pharmacotherapeutics"
+          ],
+          "ISOAbbreviation": [
+            "J Pharmacol Pharmacother"
+          ],
+          "medlineAbbreviation": [
+            "J Pharmacol Pharmacother"
+          ],
+          "NLMid": [
+            "101552113"
+          ],
+          "ISSN": [
+            "0976-500X"
+          ],
+          "ESSN": [
+            "0976-5018"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "172-175"
+  ],
+  "affiliation": [
+    "Department of Pharmacology, Gujarat Adani Institute of Medical Sciences, Bhuj, Gujarat, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "letter",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/jpp.JPP_104_17"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5820747"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-24"
+  ],
+  "firstIndexDate": [
+    "2018-02-24"
+  ],
+  "fullTextReceivedDate": [
+    "2018-02-25"
+  ],
+  "dateOfRevision": [
+    "2018-02-27"
+  ],
+  "firstPublicationDate": [
+    "2017-10-01"
+  ]
+}

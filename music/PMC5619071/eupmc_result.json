@@ -1,0 +1,285 @@
+{
+  "id": [
+    "29213710"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29213710"
+  ],
+  "pmcid": [
+    "PMC5619071"
+  ],
+  "doi": [
+    "10.1590/S1980-57642010DN40400016"
+  ],
+  "title": [
+    "Multiple hallucinations due to brainstem injury: A case report."
+  ],
+  "authorString": [
+    "Silva MCBE, Brucki SMD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Silva MCBE"
+          ],
+          "firstName": [
+            "Melissa Castello Branco E"
+          ],
+          "lastName": [
+            "Silva"
+          ],
+          "initials": [
+            "MCBE"
+          ],
+          "affiliation": [
+            "Behavioral and Cognitive Neurology Unit, Department of Neurology, University of São Paulo School of Medicine, São Paulo SP, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Brucki SMD"
+          ],
+          "firstName": [
+            "Sonia Maria Dozzi"
+          ],
+          "lastName": [
+            "Brucki"
+          ],
+          "initials": [
+            "SMD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8303-6732",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Behavioral and Cognitive Neurology Unit, Department of Neurology, University of São Paulo School of Medicine, São Paulo SP, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8303-6732",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2626893"
+      ],
+      "dateOfPublication": [
+        "2010 Oct-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Dementia & neuropsychologia"
+          ],
+          "ISOAbbreviation": [
+            "Dement Neuropsychol"
+          ],
+          "medlineAbbreviation": [
+            "Dement Neuropsychol"
+          ],
+          "NLMid": [
+            "101506587"
+          ],
+          "ISSN": [
+            "1980-5764"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "353-355"
+  ],
+  "abstractText": [
+    "We report a case of a 43-year-old woman with brainstem encephalitis in the third trimester of pregnancy. She presented complex visual and auditory hallucinations in the acute disease phase (hearing opera arias and seeing room furniture upside-down). Hallucinations resolved with antiviral treatment."
+  ],
+  "affiliation": [
+    "Behavioral and Cognitive Neurology Unit, Department of Neurology, University of São Paulo School of Medicine, São Paulo SP, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Auditory Hallucinations",
+        "Visual Hallucinations",
+        "Brainstem Encephalitis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1590/S1980-57642010DN40400016"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5619071"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5619071?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-12-08"
+  ],
+  "firstIndexDate": [
+    "2017-12-08"
+  ],
+  "fullTextReceivedDate": [
+    "2017-12-09"
+  ],
+  "dateOfRevision": [
+    "2019-02-26"
+  ],
+  "firstPublicationDate": [
+    "2010-10-01"
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": [
+    "20041017"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20041017"
+  ],
+  "pmcid": [
+    "PMC2778404"
+  ],
+  "doi": [
+    "10.1155/2009/424192"
+  ],
+  "title": [
+    "Pediatric migraine."
+  ],
+  "authorString": [
+    "Shah UH, Kalra V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shah UH"
+          ],
+          "firstName": [
+            "Ubaid Hameed"
+          ],
+          "lastName": [
+            "Shah"
+          ],
+          "initials": [
+            "UH"
+          ]
+        },
+        {
+          "fullName": [
+            "Kalra V"
+          ],
+          "firstName": [
+            "Veena"
+          ],
+          "lastName": [
+            "Kalra"
+          ],
+          "initials": [
+            "V"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2009"
+      ],
+      "journalIssueId": [
+        "1679650"
+      ],
+      "dateOfPublication": [
+        "2009 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Int J Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Int J Pediatr"
+          ],
+          "NLMid": [
+            "101517077"
+          ],
+          "ISSN": [
+            "1687-9740"
+          ],
+          "ESSN": [
+            "1687-9759"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2009"
+  ],
+  "pageInfo": [
+    "424192"
+  ],
+  "abstractText": [
+    "Migraine is the most common cause of acute recurrent headaches in children. The pathophysiological concepts have evolved from a purely vascular etiology to a neuroinflammatory process. Clinical evaluation is the mainstay of diagnosis and should also include family history. Investigations help to rule out secondary causes. The role of new drugs in treatment of migraine is discussed and trials are quoted from literature. Indications for starting prophylaxis should be evaluated based on frequency of attacks and influence on quality of life. For management of acute attacks of migraine both acetaminophen and ibuprofen are recommended for use in children. Many drugs like antiepileptic drugs (AED), calcium channel blockers, and antidepressants have been used for prophylaxis of migraine in children. The data for use of newer drugs for migraine in children is limited, though AEDs are emerging a popular choice. Biofeedback and other nonmedicinal therapies are being used with promising results."
+  ],
+  "affiliation": [
+    "Apollo Centre for Advanced Pediatrics, Indraprastha Apollo Hospital, New Delhi, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20041017/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20041017/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2009/424192"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2778404"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2778404?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2009-12-30"
+  ],
+  "firstIndexDate": [
+    "2010-01-11"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-15"
+  ],
+  "electronicPublicationDate": [
+    "2009-05-27"
+  ],
+  "firstPublicationDate": [
+    "2009-05-27"
+  ]
+}

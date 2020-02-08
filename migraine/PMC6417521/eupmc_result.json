@@ -1,0 +1,690 @@
+{
+  "id": [
+    "30855458"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30855458"
+  ],
+  "pmcid": [
+    "PMC6417521"
+  ],
+  "doi": [
+    "10.1097/MD.0000000000014684"
+  ],
+  "title": [
+    "Cocoon devices for transcatheter closure of atrial septal defect and patent ductus arteriosus in children: Single center experience."
+  ],
+  "authorString": [
+    "Mahmoud H, Nicolescu A, Filip C, Duica G, Nicolae G, Cinteza EE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mahmoud H"
+          ],
+          "firstName": [
+            "Hyam"
+          ],
+          "lastName": [
+            "Mahmoud"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "\"Marie Curie\" Emergency Children's Hospital, Constantin Brâncoveanu Avenue, Bucharest, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Nicolescu A"
+          ],
+          "firstName": [
+            "Alin"
+          ],
+          "lastName": [
+            "Nicolescu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "\"Marie Curie\" Emergency Children's Hospital, Constantin Brâncoveanu Avenue, Bucharest, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Filip C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Filip"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "\"Marie Curie\" Emergency Children's Hospital, Constantin Brâncoveanu Avenue, Bucharest, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Duica G"
+          ],
+          "firstName": [
+            "Gabriela"
+          ],
+          "lastName": [
+            "Duica"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "\"Marie Curie\" Emergency Children's Hospital, Constantin Brâncoveanu Avenue, Bucharest, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Nicolae G"
+          ],
+          "firstName": [
+            "Georgiana"
+          ],
+          "lastName": [
+            "Nicolae"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "\"Marie Curie\" Emergency Children's Hospital, Constantin Brâncoveanu Avenue, Bucharest, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Cinteza EE"
+          ],
+          "firstName": [
+            "Eliza Elena"
+          ],
+          "lastName": [
+            "Cinteza"
+          ],
+          "initials": [
+            "EE"
+          ],
+          "affiliation": [
+            "\"Marie Curie\" Emergency Children's Hospital, Constantin Brâncoveanu Avenue, Bucharest, Romania."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "98"
+      ],
+      "journalIssueId": [
+        "2792688"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0025-7974"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e14684"
+  ],
+  "abstractText": [
+    "Closure of the atrial septal defect (ASD) and patent ductus arteriosus (PDA) are among the most frequent cardiac interventional procedures. This was a prospective study, which started together with the implementation of a national program of pediatric interventional cardiology in Romania. We used Cocoon devices in 83 consecutive cases from 92 implantations for ASD and PDA. 27 cases were ASD closure and 56 cases PDA closure. Regarding the ASD closure, the median age was 8.5 years (range 3-25 years) and median weight 25 kg (range 11.5-63 kg). The mean follow-up was 17.4 ± 6.7 months (range 3-26 months). The mean ASD diameter by transesophageal echocardiography was 15.2 ± 4.1 mm (range 8-26 mm). The mean device diameter used was 17.3 ± 5.6 mm (range 8-32 mm). Regarding the PDA closure, the median age was 36 months (range 4-192 months) and median weight 14 kg (range 5-58 kg). The mean follow-up was 15 ± 8 months (range 3-28 months). The mean PDA minimum diameter was 2.5 ± 0.8 mm. The success implantation rate for both groups was 97.6% (2 cases of withdrawn for ASD and PDA), while the complication rate was 2.3% (including 2 ASD device embolization). In the first 24 hours, the closure rates were 96.3% for ASD, 98.2% for PDA, and 100% at 1-month follow-up for both procedures. On short and intermediate follow-up (3-28 months), no device-related complications were noted.The Cocoon devices are safe for transcatheter closure of both ASD and PDA, and the initial experience with their use in our emerging center is encouraging."
+  ],
+  "affiliation": [
+    "\"Marie Curie\" Emergency Children's Hospital, Constantin Brâncoveanu Avenue, Bucharest, Romania."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ductus Arteriosus, Patent"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Heart Septal Defects, Atrial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Postoperative Complications"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Echocardiography, Transesophageal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prosthesis Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Outcome and Process Assessment (Health Care)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Romania"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Septal Occluder Device"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cardiac Catheterization"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/MD.0000000000014684"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6417521"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6417521?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-19"
+  ],
+  "dateOfCreation": [
+    "2019-03-12"
+  ],
+  "firstIndexDate": [
+    "2019-03-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-23"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "firstPublicationDate": [
+    "2019-03-01"
+  ]
+}

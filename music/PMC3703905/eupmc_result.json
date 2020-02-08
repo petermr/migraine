@@ -1,0 +1,414 @@
+{
+  "id": [
+    "23861651"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23861651"
+  ],
+  "pmcid": [
+    "PMC3703905"
+  ],
+  "doi": [
+    "10.1155/2013/206734"
+  ],
+  "title": [
+    "Monitor, a vibrotactile aid for environmental perception: a field evaluation by four people with severe hearing and vision impairment."
+  ],
+  "authorString": [
+    "Ranjbar P, Stenström I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ranjbar P"
+          ],
+          "firstName": [
+            "Parivash"
+          ],
+          "lastName": [
+            "Ranjbar"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Stenström I"
+          ],
+          "firstName": [
+            "Ingeborg"
+          ],
+          "lastName": [
+            "Stenström"
+          ],
+          "initials": [
+            "I"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2013"
+      ],
+      "journalIssueId": [
+        "2005226"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "TheScientificWorldJournal"
+          ],
+          "ISOAbbreviation": [
+            "ScientificWorldJournal"
+          ],
+          "medlineAbbreviation": [
+            "ScientificWorldJournal"
+          ],
+          "NLMid": [
+            "101131163"
+          ],
+          "ISSN": [
+            "2356-6140"
+          ],
+          "ESSN": [
+            "1537-744X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "206734"
+  ],
+  "abstractText": [
+    "Monitor is a portable vibrotactile aid to improve the ability of people with severe hearing impairment or deafblindness to detect, identify, and recognize the direction of sound-producing events. It transforms and adapts sounds to the frequency sensitivity range of the skin. The aid was evaluated in the field. Four females (44-54 years) with Usher Syndrome I (three with tunnel vision and one with only light perception) tested the aid at home and in traffic in three different field studies: without Monitor, with Monitor with an omnidirectional microphone, and with Monitor with a directional microphone. The tests were video-documented, and the two field studies with Monitor were initiated after five weeks of training. The detection scores with omnidirectional and directional microphones were 100% for three participants and above 57% for one, both in their home and traffic environments. In the home environment the identification scores with the omnidirectional microphone were 70%-97% and 58%-95% with the directional microphone. The corresponding values in traffic were 29%-100% and 65%-100%, respectively. Their direction perception was improved to some extent by both microphones. Monitor improved the ability of people with deafblindness to detect, identify, and recognize the direction of events producing sounds."
+  ],
+  "affiliation": [
+    "Audiological Research Centre, Örebro University Hospital, 701 85 Örebro, Sweden. parivash.ranjbar@orebroll.se"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Case Reports"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Equipment Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Equipment Failure Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Self-Help Devices"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Touch"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ecosystem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Vibration"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Usher Syndromes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23861651/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23861651/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2013/206734"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3703905"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3703905?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-09-30"
+  ],
+  "dateOfCreation": [
+    "2013-07-17"
+  ],
+  "firstIndexDate": [
+    "2013-07-19"
+  ],
+  "fullTextReceivedDate": [
+    "2013-07-18"
+  ],
+  "electronicPublicationDate": [
+    "2013-06-19"
+  ],
+  "firstPublicationDate": [
+    "2013-06-19"
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "id": [
+    "31339591"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31339591"
+  ],
+  "pmcid": [
+    "PMC6851835"
+  ],
+  "doi": [
+    "10.1111/cch.12708"
+  ],
+  "title": [
+    "Experiences of interventions aiming to improve the mental health and well-being of children and young people with a long-term physical condition: A systematic review and meta-ethnography."
+  ],
+  "authorString": [
+    "Shaw L, Moore D, Nunns M, Thompson Coon J, Ford T, Berry V, Walker E, Heyman I, Dickens C, Bennett S, Shafran R, Garside R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shaw L"
+          ],
+          "firstName": [
+            "Liz"
+          ],
+          "lastName": [
+            "Shaw"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6092-5019",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Exeter Medical School, Exeter, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Moore D"
+          ],
+          "firstName": [
+            "Darren"
+          ],
+          "lastName": [
+            "Moore"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Graduate School of Education, University of Exeter, Exeter, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Nunns M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Nunns"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Evidence Synthesis & Modelling for Health Improvement, University of Exeter Medical School, Exeter, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Thompson Coon J"
+          ],
+          "firstName": [
+            "Jo"
+          ],
+          "lastName": [
+            "Thompson Coon"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Evidence Synthesis & Modelling for Health Improvement, University of Exeter Medical School, Exeter, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Ford T"
+          ],
+          "firstName": [
+            "Tamsin"
+          ],
+          "lastName": [
+            "Ford"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Child Mental Health Research Group, University of Exeter Medical School, Exeter, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Berry V"
+          ],
+          "firstName": [
+            "Vashti"
+          ],
+          "lastName": [
+            "Berry"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Child Mental Health Research Group, University of Exeter Medical School, Exeter, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Walker E"
+          ],
+          "firstName": [
+            "Erin"
+          ],
+          "lastName": [
+            "Walker"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Centre for Outcomes and Experience Research in Children's Health, Illness and Disability, Great Ormond Street Hospital, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Heyman I"
+          ],
+          "firstName": [
+            "Isobel"
+          ],
+          "lastName": [
+            "Heyman"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Centre for Outcomes and Experience Research in Children's Health, Illness and Disability, Great Ormond Street Hospital, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Dickens C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Dickens"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Psychological Medicine, University of Exeter Medical School, Exeter, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Bennett S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Bennett"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Great Ormond Street Institute of Child Health, University College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Shafran R"
+          ],
+          "firstName": [
+            "Roz"
+          ],
+          "lastName": [
+            "Shafran"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Great Ormond Street Institute of Child Health, University College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Garside R"
+          ],
+          "firstName": [
+            "Ruth"
+          ],
+          "lastName": [
+            "Garside"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "European Centre for Environment and Human Health, University of Exeter Medical School, Truro, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6092-5019",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "45"
+      ],
+      "journalIssueId": [
+        "2872627"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Child: care, health and development"
+          ],
+          "ISOAbbreviation": [
+            "Child Care Health Dev"
+          ],
+          "medlineAbbreviation": [
+            "Child Care Health Dev"
+          ],
+          "NLMid": [
+            "7602632"
+          ],
+          "ISSN": [
+            "0305-1862"
+          ],
+          "ESSN": [
+            "1365-2214"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "832-849"
+  ],
+  "abstractText": [
+    "BACKGROUND:Children and young people with long-term physical health conditions are at increased risk of experiencing mental health and well-being difficulties. However, there is a lack of research that explores the experiences of and attitudes towards interventions aiming to improve their mental health and well-being. This systematic review seeks to address this gap in the literature by exploring what children and young people with long-term conditions, their caregivers, and health practitioners perceive to be important aspects of interventions aiming to improve their mental health and well-being. METHODS:An information specialist searched five academic databases using predefined criteria for qualitative evaluations of interventions aiming to improve the mental health or well-being of children with long-term physical conditions. Reviewers also performed supplementary citation and grey literature searches. Two reviewers independently screened titles, abstracts, and full texts that met the inclusion criteria and conducted data extraction and quality assessment. Meta-ethnography was used to synthesize the findings. RESULTS:Screening identified 60 relevant articles. We identified five overarching constructs through the synthesis: (a) Getting In and Staying In, (b) Therapeutic Foundation, (c) Social Support, (d) A Hopeful Alternative, and (e) Empowerment. The line of argument that links these constructs together indicates that when interventions can provide an environment that allows young people to share their experiences and build empathetic relationships, it can enable participants to access social support and increase feelings of hope and empowerment. CONCLUSION:These findings may provide a framework to inform the development of mental health interventions for this population and evaluate existing interventions that already include some of the components or processes identified by this research. Further research is needed to establish which of the constructs identified by the line of argument are most effective in improving the mental well-being of young people living with long-term conditions."
+  ],
+  "affiliation": [
+    "University of Exeter Medical School, Exeter, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "14/157/06"
+          ],
+          "agency": [
+            "National Institute for Health Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Mental health",
+        "Systematic review",
+        "intervention",
+        "Well-being",
+        "Qualitative Research Methods",
+        "Long-term Condition"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/cch.12708"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6851835"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6851835?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-25"
+  ],
+  "firstIndexDate": [
+    "2019-07-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-16"
+  ],
+  "firstPublicationDate": [
+    "2019-08-16"
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6131682/results/search/disease/results.xml">
+  <result pre=": Correction Correction to: Hormonal contraceptives and risk of ischemic" exact="stroke" post="in women with migraine: a consensus statement from the"/>
+  <result pre="noticed that they incorrectly reported the Absolute risk of ischemic" exact="stroke" post="in women aged 20 to 44 years in relation"/>
+  <result pre="years in relation to the use of hormonal contraception and" exact="migraine" post="status due to a miscalculation. They apologize for this"/>
+  <result pre="in this correction. Table 4 (Revised) Absolute risk of ischemic" exact="stroke" post="in women aged 20 to 44 years in relation"/>
+  <result pre="years in relation to the use of hormonal contraception and" exact="migraine" post="status No migraine Migraine with aura Migraine without aura"/>
+  <result pre="to the use of hormonal contraception and migraine status No" exact="migraine" post="Migraine with aura Migraine without aura Without hormonal contraception"/>
+  <result pre="4.0/100,000 With hormonal contraception 6.3/100,000 14.5/100,000 10.0/100,000 Considering women with" exact="migraine" post="with aura, the risk of ischemic stroke in those"/>
+  <result pre="Considering women with migraine with aura, the risk of ischemic" exact="stroke" post="in those young women who do not use HC"/>
+  <result pre="use HC is 14.5 /100,000 per year Considering women with" exact="migraine" post="without aura, the risk of ischemic stroke in those"/>
+  <result pre="Considering women with migraine without aura, the risk of ischemic" exact="stroke" post="in those young women who do not use HC"/>
+  <result pre="Sacco S et al. Hormonal contraceptives and risk of ischemic" exact="stroke" post="in women with migraine: a consensus statement from the"/>
+ </snippets>
+</snippetsTree>

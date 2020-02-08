@@ -1,0 +1,440 @@
+{
+  "id": [
+    "31920944"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31920944"
+  ],
+  "pmcid": [
+    "PMC6928139"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.01324"
+  ],
+  "title": [
+    "The Blood Levels of Trace Elements Are Lower in Children With Tic Disorder: Results From a Retrospective Study."
+  ],
+  "authorString": [
+    "Qian R, Ma Y, You L, Zhao Y, Li S, Shen J, Jiang L, Yang C, Jiang P, Yuan Z, Gao F, Mao S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qian R"
+          ],
+          "firstName": [
+            "Ruiying"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neurology, The Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Neurology, The Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "You L"
+          ],
+          "firstName": [
+            "Liuqing"
+          ],
+          "lastName": [
+            "You"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yanmin"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of General Practice, Community Health Service Center, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shuxian"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pulmonology, The Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen J"
+          ],
+          "firstName": [
+            "Jue"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Neurology, The Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang L"
+          ],
+          "firstName": [
+            "Lihua"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Neurology, The Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang C"
+          ],
+          "firstName": [
+            "Cuiwei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Neurology, The Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang P"
+          ],
+          "firstName": [
+            "Peifang"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Neurology, The Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan Z"
+          ],
+          "firstName": [
+            "Zhefeng"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Neurology, The Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Neurology, The Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Mao S"
+          ],
+          "firstName": [
+            "Shanshan"
+          ],
+          "lastName": [
+            "Mao"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology, The Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1324"
+  ],
+  "abstractText": [
+    "Background: Tic disorders (TD) are common neuropsychiatric disorders among children and adolescents. It is controversial that trace elements may participate in the pathogenesis of TD. Our study aimed to investigate the trace elements status of zinc (Zn), copper (Cu), iron (Fe), and magnesium (Mg) in children with TD, in comparison to healthy controls. Methods: The medical records of eligible TD children and normal healthy children from January 1 to December 31, 2018 in the outpatient clinic were retrospectively reviewed. The clinical information of all subjects were collected including age, gender, diagnosis, previous health records, and serum trace elements level (Cu, Zn, Fe, Mg) at the time of diagnosis before initiating treatment. Results: In total, 1204 TD children (7.63 ± 2.45 years) and 1,220 healthy children (7.27 ± 3.15 years) who were divided into two gender and three age groups (2-4years, 5-9years, ≥10 years) were reviewed in our study. Our study showed that TD children generally had lower whole blood levels of Zn, Cu, Fe than the normal controls (P < 0.01). No significant difference was observed in whole blood levels of Mg. After adjusting for gender, the trends still remained. Further analysis was performed according to age, the trends still remained in Zn and Fe in all age groups (P < 0.05). However, we observed an almost significantly (P = 0.055) lower level of Cu in TD of 2-4 years group while significant differences in other two groups (P < 0.01). Further multiple linear regression and point biserial correlation showed that the lower blood levels of Zn, Cu, and Fe were correlated with the incidence of TD. Conclusion: The present results indicated that lower blood levels of zinc, iron, copper were associated with TD. Trace elements may be used as an auxiliary treatment for TD and need to be further explored."
+  ],
+  "affiliation": [
+    "Department of Neurology, The Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Child Health, Hangzhou, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Trace elements",
+        "zinc (Zn)",
+        "Iron (Fe)",
+        "Copper (Cu)",
+        "Tic Disorders (Td)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.01324"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6928139"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6928139?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-11"
+  ],
+  "firstIndexDate": [
+    "2020-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-12"
+  ],
+  "dateOfRevision": [
+    "2020-01-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-17"
+  ],
+  "firstPublicationDate": [
+    "2019-12-17"
+  ]
+}

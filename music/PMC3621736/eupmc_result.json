@@ -1,0 +1,862 @@
+{
+  "id": [
+    "23585882"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23585882"
+  ],
+  "pmcid": [
+    "PMC3621736"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0061234"
+  ],
+  "title": [
+    "Verbal memory deficits are correlated with prefrontal hypometabolism in (18)FDG PET of recreational MDMA users."
+  ],
+  "authorString": [
+    "Bosch OG, Wagner M, Jessen F, Kühn KU, Joe A, Seifritz E, Maier W, Biersack HJ, Quednow BB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bosch OG"
+          ],
+          "firstName": [
+            "Oliver G"
+          ],
+          "lastName": [
+            "Bosch"
+          ],
+          "initials": [
+            "OG"
+          ]
+        },
+        {
+          "fullName": [
+            "Wagner M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Wagner"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2589-6440",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jessen F"
+          ],
+          "firstName": [
+            "Frank"
+          ],
+          "lastName": [
+            "Jessen"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Kühn KU"
+          ],
+          "firstName": [
+            "Kai-Uwe"
+          ],
+          "lastName": [
+            "Kühn"
+          ],
+          "initials": [
+            "KU"
+          ]
+        },
+        {
+          "fullName": [
+            "Joe A"
+          ],
+          "firstName": [
+            "Alexius"
+          ],
+          "lastName": [
+            "Joe"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Seifritz E"
+          ],
+          "firstName": [
+            "Erich"
+          ],
+          "lastName": [
+            "Seifritz"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Maier W"
+          ],
+          "firstName": [
+            "Wolfgang"
+          ],
+          "lastName": [
+            "Maier"
+          ],
+          "initials": [
+            "W"
+          ]
+        },
+        {
+          "fullName": [
+            "Biersack HJ"
+          ],
+          "firstName": [
+            "Hans-Jürgen"
+          ],
+          "lastName": [
+            "Biersack"
+          ],
+          "initials": [
+            "HJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Quednow BB"
+          ],
+          "firstName": [
+            "Boris B"
+          ],
+          "lastName": [
+            "Quednow"
+          ],
+          "initials": [
+            "BB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7933-2865",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2589-6440",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7933-2865",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2026959"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "e61234"
+  ],
+  "abstractText": [
+    "INTRODUCTION: 3,4-Methylenedioxymethamphetamine (MDMA, \"ecstasy\") is a recreational club drug with supposed neurotoxic effects selectively on the serotonin system. MDMA users consistently exhibit memory dysfunction but there is an ongoing debate if these deficits are induced mainly by alterations in the prefrontal or mediotemporal cortex, especially the hippocampus. Thus, we investigated the relation of verbal memory deficits with alterations of regional cerebral brain glucose metabolism (rMRGlu) in recreational MDMA users. METHODS: Brain glucose metabolism in rest was assessed using 2-deoxy-2-((18)F)fluoro-D-glucose positron emission tomography ((18)FDG PET) in 19 male recreational users of MDMA and 19 male drug-naïve controls. (18)FDG PET data were correlated with memory performance assessed with a German version of the Rey Auditory Verbal Learning Test. RESULTS: As previously shown, MDMA users showed significant impairment in verbal declarative memory performance. PET scans revealed significantly decreased rMRGlu in the bilateral dorsolateral prefrontal and inferior parietal cortex, bilateral thalamus, right hippocampus, right precuneus, right cerebellum, and pons (at the level of raphe nuclei) of MDMA users. Among MDMA users, learning and recall were positively correlated with rMRGlu predominantly in bilateral frontal and parietal brain regions, while recognition was additionally related to rMRGlu in the right mediotemporal and bihemispheric lateral temporal cortex. Moreover, cumulative lifetime dose of MDMA was negatively correlated with rMRGlu in the left dorsolateral and bilateral orbital and medial PFC, left inferior parietal and right lateral temporal cortex. CONCLUSIONS: Verbal learning and recall deficits of recreational MDMA users are correlated with glucose hypometabolism in prefrontal and parietal cortex, while word recognition was additionally correlated with mediotemporal hypometabolism. We conclude that memory deficits of MDMA users arise from combined fronto-parieto-mediotemporal dysfunction."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, Psychotherapy, and Psychosomatics, University Hospital of Psychiatry, Zurich, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "123516"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prefrontal Cortex"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RI"
+                  ],
+                  "qualifierName": [
+                    "radionuclide imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parietal Lobe"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RI"
+                  ],
+                  "qualifierName": [
+                    "radionuclide imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Temporal Lobe"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RI"
+                  ],
+                  "qualifierName": [
+                    "radionuclide imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Memory Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CI"
+                  ],
+                  "qualifierName": [
+                    "chemically induced"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RI"
+                  ],
+                  "qualifierName": [
+                    "radionuclide imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "N-Methyl-3,4-methylenedioxyamphetamine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fluorodeoxyglucose F18"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Positron-Emission Tomography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mental Recall"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Verbal Learning"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fluorodeoxyglucose F18"
+          ],
+          "registryNumber": [
+            "63503-12-8"
+          ]
+        },
+        {
+          "name": [
+            "N-Methyl-3,4-methylenedioxyamphetamine"
+          ],
+          "registryNumber": [
+            "42542-10-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23585882/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23585882/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0061234"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3621736"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3621736?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-10-22"
+  ],
+  "dateOfCreation": [
+    "2013-04-15"
+  ],
+  "firstIndexDate": [
+    "2013-04-16"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-24"
+  ],
+  "electronicPublicationDate": [
+    "2013-04-09"
+  ],
+  "firstPublicationDate": [
+    "2013-04-09"
+  ]
+}

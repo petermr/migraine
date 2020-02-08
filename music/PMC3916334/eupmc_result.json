@@ -1,0 +1,683 @@
+{
+  "id": [
+    "24516567"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24516567"
+  ],
+  "pmcid": [
+    "PMC3916334"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0087839"
+  ],
+  "title": [
+    "Memory networks in tinnitus: a functional brain image study."
+  ],
+  "authorString": [
+    "Laureano MR, Onishi ET, Bressan RA, Castiglioni ML, Batista IR, Reis MA, Garcia MV, de Andrade AN, de Almeida RR, Garrido GJ, Jackowski AP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Laureano MR"
+          ],
+          "firstName": [
+            "Maura Regina"
+          ],
+          "lastName": [
+            "Laureano"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "affiliation": [
+            "Laboratório Interdisciplinar de Neurociências Clínicas (LiNC), Departamento de Psiquiatria, Universidade Federal de São Paulo, São Paulo, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Onishi ET"
+          ],
+          "firstName": [
+            "Ektor Tsuneo"
+          ],
+          "lastName": [
+            "Onishi"
+          ],
+          "initials": [
+            "ET"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1501-8409",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departamento de Otorrinolaringologia e Cirurgia de Cabeça e Pescoço, Universidade Federal de São Paulo, São Paulo, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Bressan RA"
+          ],
+          "firstName": [
+            "Rodrigo Affonseca"
+          ],
+          "lastName": [
+            "Bressan"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0868-4449",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratório Interdisciplinar de Neurociências Clínicas (LiNC), Departamento de Psiquiatria, Universidade Federal de São Paulo, São Paulo, Brasil ; Instituto do Cérebro - Hospital Israelita Albert Einstein, São Paulo, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Castiglioni ML"
+          ],
+          "firstName": [
+            "Mario Luiz Vieira"
+          ],
+          "lastName": [
+            "Castiglioni"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "affiliation": [
+            "Seção de Medicina Nuclear, Departamento de Radiologia, Universidade Federal de São Paulo, São Paulo, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Batista IR"
+          ],
+          "firstName": [
+            "Ilza Rosa"
+          ],
+          "lastName": [
+            "Batista"
+          ],
+          "initials": [
+            "IR"
+          ],
+          "affiliation": [
+            "Laboratório Interdisciplinar de Neurociências Clínicas (LiNC), Departamento de Psiquiatria, Universidade Federal de São Paulo, São Paulo, Brasil ; Instituto do Cérebro - Hospital Israelita Albert Einstein, São Paulo, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Reis MA"
+          ],
+          "firstName": [
+            "Marilia Alves"
+          ],
+          "lastName": [
+            "Reis"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Laboratório Interdisciplinar de Neurociências Clínicas (LiNC), Departamento de Psiquiatria, Universidade Federal de São Paulo, São Paulo, Brasil ; Instituto do Cérebro - Hospital Israelita Albert Einstein, São Paulo, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Garcia MV"
+          ],
+          "firstName": [
+            "Michele Vargas"
+          ],
+          "lastName": [
+            "Garcia"
+          ],
+          "initials": [
+            "MV"
+          ],
+          "affiliation": [
+            "Departamento de Fonoaudiologia, Universidade Federal de São Paulo, São Paulo, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Andrade AN"
+          ],
+          "firstName": [
+            "Adriana Neves"
+          ],
+          "lastName": [
+            "de Andrade"
+          ],
+          "initials": [
+            "AN"
+          ],
+          "affiliation": [
+            "Departamento de Fonoaudiologia, Universidade Federal de São Paulo, São Paulo, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Almeida RR"
+          ],
+          "firstName": [
+            "Roberta Ribeiro"
+          ],
+          "lastName": [
+            "de Almeida"
+          ],
+          "initials": [
+            "RR"
+          ],
+          "affiliation": [
+            "Laboratório Interdisciplinar de Neurociências Clínicas (LiNC), Departamento de Psiquiatria, Universidade Federal de São Paulo, São Paulo, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Garrido GJ"
+          ],
+          "firstName": [
+            "Griselda J"
+          ],
+          "lastName": [
+            "Garrido"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "affiliation": [
+            "Western Australian Centre for Health and Ageing, Centre for Medical Research, University of Western Australia, Perth, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Jackowski AP"
+          ],
+          "firstName": [
+            "Andrea Parolin"
+          ],
+          "lastName": [
+            "Jackowski"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8842-5406",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratório Interdisciplinar de Neurociências Clínicas (LiNC), Departamento de Psiquiatria, Universidade Federal de São Paulo, São Paulo, Brasil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0868-4449",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8842-5406",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0634-4069",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1501-8409",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2123000"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "e87839"
+  ],
+  "abstractText": [
+    "Tinnitus is characterized by the perception of sound in the absence of an external auditory stimulus. The network connectivity of auditory and non-auditory brain structures associated with emotion, memory and attention are functionally altered in debilitating tinnitus. Current studies suggest that tinnitus results from neuroplastic changes in the frontal and limbic temporal regions. The objective of this study was to use Single-Photon Emission Computed Tomography (SPECT) to evaluate changes in the cerebral blood flow in tinnitus patients with normal hearing compared with healthy controls.Twenty tinnitus patients with normal hearing and 17 healthy controls, matched for sex, age and years of education, were subjected to Single Photon Emission Computed Tomography using the radiotracer ethylenedicysteine diethyl ester, labeled with Technetium 99 m (99 mTc-ECD SPECT). The severity of tinnitus was assessed using the \"Tinnitus Handicap Inventory\" (THI). The images were processed and analyzed using \"Statistical Parametric Mapping\" (SPM8).A significant increase in cerebral perfusion in the left parahippocampal gyrus (pFWE <0.05) was observed in patients with tinnitus compared with healthy controls. The average total THI score was 50.8+18.24, classified as moderate tinnitus.It was possible to identify significant changes in the limbic system of the brain perfusion in tinnitus patients with normal hearing, suggesting that central mechanisms, not specific to the auditory pathway, are involved in the pathophysiology of symptoms, even in the absence of clinically diagnosed peripheral changes."
+  ],
+  "affiliation": [
+    "Laboratório Interdisciplinar de Neurociências Clínicas (LiNC), Departamento de Psiquiatria, Universidade Federal de São Paulo, São Paulo, Brasil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "IM",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nerve Net"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tinnitus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Imaging, Three-Dimensional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Brain Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Case-Control Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Memory"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Demography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cerebrovascular Circulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24516567/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24516567/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0087839"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0087839"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3916334"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3916334?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-01-13"
+  ],
+  "dateOfCreation": [
+    "2014-02-11"
+  ],
+  "firstIndexDate": [
+    "2014-02-12"
+  ],
+  "fullTextReceivedDate": [
+    "2014-02-14"
+  ],
+  "electronicPublicationDate": [
+    "2014-02-06"
+  ],
+  "firstPublicationDate": [
+    "2014-02-06"
+  ]
+}

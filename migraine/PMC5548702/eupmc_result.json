@@ -1,0 +1,500 @@
+{
+  "id": [
+    "28791575"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28791575"
+  ],
+  "pmcid": [
+    "PMC5548702"
+  ],
+  "doi": [
+    "10.1186/s10194-017-0789-z"
+  ],
+  "title": [
+    "Symptoms and clinical parameters of pediatric and adolescent migraine, by gender - a retrospective cohort study."
+  ],
+  "authorString": [
+    "Eidlitz-Markus T, Zeharia A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Eidlitz-Markus T"
+          ],
+          "firstName": [
+            "Tal"
+          ],
+          "lastName": [
+            "Eidlitz-Markus"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9744-9765",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Headache Clinic, Day Hospitalization Department, Schneider Children's Medical Center of Israel, Petach Tikva, Israel. eidlitz@post.tau.ac.il."
+          ]
+        },
+        {
+          "fullName": [
+            "Zeharia A"
+          ],
+          "firstName": [
+            "Avraham"
+          ],
+          "lastName": [
+            "Zeharia"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Pediatric Headache Clinic, Day Hospitalization Department, Schneider Children's Medical Center of Israel, Petach Tikva, Israel."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9744-9765",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2585805"
+      ],
+      "dateOfPublication": [
+        "2017 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "80"
+  ],
+  "abstractText": [
+    "The available data on gender differences in clinical migraine parameters among pediatric patients are based on relatively few studies, which did not use the current version of the International Classification of Headache Disorders (ICHD) of the International Headache Society. The aim of the present study was to compare between males and females, demographic and clinical characteristics of children and adolescents with migraines diagnosed according to the ICDIII-beta version.The electronic database of a tertiary pediatric headache clinic was searched for all children and adolescents diagnosed with migraine headaches in 2010-2016. Data on demographics, symptoms, and headache-related parameters were collected from the medical files. Findings were compared by gender.The cohort included 468 children and adolescents of mean age 11.3 ± 3.6 years; 215 males (45.9%) and 253 females (54.1%). Migraine without aura was documented in 313 patients (66.9%), and migraine with aura in 127 (27.1%); 28 patients (6.0%) had probable migraines. The female patients had significantly higher values than the male patients for the following parameters: age at admission (p = 0.042, Cohen's d 0.8303, 95% CI 0.614-0.992); age at migraine onset (p = 0.021, Cohen's d 0.211, 95% CI 0.029-0.394); rate of migraine with aura (OR 2.01, 95% CI 1.29-3.16, p = 0.0056); headache frequency (p = 0.0149, Cohen's d 0.211, 95% CI 0.029-0.3940); rate of chronic migraine (p = 0.036, OR 1.54, 95% CI 1.02-2.34); and puberty (OR 3.51, 95% CI 2.01-6.35, p = <0.001). Males had a higher rate of vomiting (OR 0.62, 95% CI 0.41-0.93, p = 0.018). Further analysis by pubertal stage revealed that pubertal females, but not prepubertal females, had a significantly higher rate of migraine with aura than did males (41.1% versus 28.9%; OR 1.42, 95% CI 0.85-2.37, p = 0.039).Female children and adolescents with migraine treated in a tertiary pediatric headache clinic were characterized by a higher rate of chronic migraine and migraine with aura, a lower rate of vomiting, and older age at onset relative to males. These findings might be influenced by the better description of migraine symptoms by females owing to their better verbal ability."
+  ],
+  "affiliation": [
+    "Pediatric Headache Clinic, Day Hospitalization Department, Schneider Children's Medical Center of Israel, Petach Tikva, Israel. eidlitz@post.tau.ac.il."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Logistic Models"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retrospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Age of Onset"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sex Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Databases, Factual"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ambulatory Care Facilities"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Israel"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine with Aura"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Female",
+        "Migraine",
+        "Adolescent",
+        "Pediatric",
+        "Puberty",
+        "Males",
+        "Migraine With Aura",
+        "Chronic Migraine",
+        "Age Onset"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-017-0789-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5548702"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5548702?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-03-20"
+  ],
+  "dateOfCreation": [
+    "2017-08-10"
+  ],
+  "firstIndexDate": [
+    "2017-08-10"
+  ],
+  "fullTextReceivedDate": [
+    "2017-08-27"
+  ],
+  "dateOfRevision": [
+    "2018-09-14"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-08"
+  ],
+  "firstPublicationDate": [
+    "2017-08-08"
+  ]
+}

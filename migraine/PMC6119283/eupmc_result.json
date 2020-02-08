@@ -1,0 +1,733 @@
+{
+  "id": [
+    "30170616"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30170616"
+  ],
+  "pmcid": [
+    "PMC6119283"
+  ],
+  "doi": [
+    "10.1186/s13052-018-0546-1"
+  ],
+  "title": [
+    "Methylenetetrahydrofolate reductase polymorphism (MTHFR C677T) and headache in children: a retrospective study from a tertiary level outpatient service."
+  ],
+  "authorString": [
+    "Orsini A, Sammartino I, Valetto A, Bertini V, Marchese P, Bonuccelli A, Peroni DG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Orsini A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Orsini"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Pediatric Neurology, Pediatric Department, Azienda Ospedaliera Universitaria Pisana, Via Roma 57, 56100, Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sammartino I"
+          ],
+          "firstName": [
+            "I"
+          ],
+          "lastName": [
+            "Sammartino"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Pediatric Neurology, Pediatric Department, Azienda Ospedaliera Universitaria Pisana, Via Roma 57, 56100, Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Valetto A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Valetto"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Cytogenetics Unit, Medicine of Laboratory Department, Azienda Ospedaliera Universitaria Pisana, Pisa, 56100, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bertini V"
+          ],
+          "firstName": [
+            "V"
+          ],
+          "lastName": [
+            "Bertini"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Cytogenetics Unit, Medicine of Laboratory Department, Azienda Ospedaliera Universitaria Pisana, Pisa, 56100, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Marchese P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Marchese"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4801-608X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Neurology, Pediatric Department, Azienda Ospedaliera Universitaria Pisana, Via Roma 57, 56100, Pisa, Italy. marchese.pietro@yahoo.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Bonuccelli A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Bonuccelli"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Pediatric Neurology, Pediatric Department, Azienda Ospedaliera Universitaria Pisana, Via Roma 57, 56100, Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Peroni DG"
+          ],
+          "firstName": [
+            "D G"
+          ],
+          "lastName": [
+            "Peroni"
+          ],
+          "initials": [
+            "DG"
+          ],
+          "affiliation": [
+            "Pediatric Neurology, Pediatric Department, Azienda Ospedaliera Universitaria Pisana, Via Roma 57, 56100, Pisa, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4801-608X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "44"
+      ],
+      "journalIssueId": [
+        "2715987"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Italian journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Ital J Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Ital J Pediatr"
+          ],
+          "NLMid": [
+            "101510759"
+          ],
+          "ISSN": [
+            "1824-7288"
+          ],
+          "ESSN": [
+            "1824-7288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "106"
+  ],
+  "abstractText": [
+    "BACKGROUND:In adult studies the MTHFR C677T polymorphism has been associated with an increased risk of migraine, but little research has been done in this area in children. METHODS:A retrospective study of children referred with headache to a tertiary level Paediatric Neurology Service between 2008 and 2012. This study included only patients who had been genotyped for the MTHFR C677T polymorphism. An evaluation of homocysteine serum levels was necessary to exclude other types of migraine. CONCLUSION:Compared with the wild-type genotype, the T/T genotype was associated with an increased risk of any type of migraine, though the statistical significance was greatest in migraine with aura. The homocysteine serum levels were significantly higher in migraine with aura compared to migraine without aura. In a pediatric population MTHFR T/T homozygosity influences susceptibility to migraine."
+  ],
+  "affiliation": [
+    "Pediatric Neurology, Pediatric Department, Azienda Ospedaliera Universitaria Pisana, Via Roma 57, 56100, Pisa, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017_38, DR n.83/2017"
+          ],
+          "agency": [
+            "Università di Pisa"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Predisposition to Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Methylenetetrahydrofolate Reductase (NADPH2)"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Homocysteine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prognosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ambulatory Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Incidence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Assessment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retrospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cohort Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Age Distribution"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sex Distribution"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polymorphism, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tertiary Care Centers"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "MTHFR",
+        "Migraine",
+        "Hyperhomocysteinemia",
+        "Migraine With Aura",
+        "Mthfr C677t",
+        "Children Migraine"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Methylenetetrahydrofolate Reductase (NADPH2)"
+          ],
+          "registryNumber": [
+            "EC 1.5.1.20"
+          ]
+        },
+        {
+          "name": [
+            "MTHFR protein, human"
+          ],
+          "registryNumber": [
+            "EC 1.5.1.20"
+          ]
+        },
+        {
+          "name": [
+            "Homocysteine"
+          ],
+          "registryNumber": [
+            "0LVT1QZ0BA"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13052-018-0546-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6119283"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6119283?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-16"
+  ],
+  "dateOfCreation": [
+    "2018-09-02"
+  ],
+  "firstIndexDate": [
+    "2018-09-02"
+  ],
+  "fullTextReceivedDate": [
+    "2018-09-08"
+  ],
+  "dateOfRevision": [
+    "2019-01-16"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-31"
+  ],
+  "firstPublicationDate": [
+    "2018-08-31"
+  ]
+}

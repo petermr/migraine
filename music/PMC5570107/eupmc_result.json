@@ -1,0 +1,491 @@
+{
+  "id": [
+    "28856006"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28856006"
+  ],
+  "pmcid": [
+    "PMC5570107"
+  ],
+  "doi": [
+    "10.1177/2050312117726196"
+  ],
+  "title": [
+    "Effect of wearing fingers rings on the behavioral and psychological symptoms of dementia: An exploratory study."
+  ],
+  "authorString": [
+    "Yokoi T, Okamura H, Yamamoto T, Watanabe K, Yokoi S, Atae H, Ueda M, Kuwayama T, Sakamoto S, Tomino S, Fujii H, Honda T, Morita T, Yukawa T, Harada N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yokoi T"
+          ],
+          "firstName": [
+            "Teruo"
+          ],
+          "lastName": [
+            "Yokoi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Okamura H"
+          ],
+          "firstName": [
+            "Hitoshi"
+          ],
+          "lastName": [
+            "Okamura"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Graduate school of Health Science, Hiroshima University, Hiroshima, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamamoto T"
+          ],
+          "firstName": [
+            "Tomoka"
+          ],
+          "lastName": [
+            "Yamamoto"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Heart Care Inc., Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Watanabe K"
+          ],
+          "firstName": [
+            "Katsuya"
+          ],
+          "lastName": [
+            "Watanabe"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Watanabe Clinic, Nisshoukai Medical Corporation, Suita, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yokoi S"
+          ],
+          "firstName": [
+            "Shigeko"
+          ],
+          "lastName": [
+            "Yokoi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Graduate School of Integrated Arts and Sciences, Hiroshima University, Higashihiroshima, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Atae H"
+          ],
+          "firstName": [
+            "Hitoshi"
+          ],
+          "lastName": [
+            "Atae"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ueda M"
+          ],
+          "firstName": [
+            "Masayuki"
+          ],
+          "lastName": [
+            "Ueda"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuwayama T"
+          ],
+          "firstName": [
+            "Takahiro"
+          ],
+          "lastName": [
+            "Kuwayama"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sakamoto S"
+          ],
+          "firstName": [
+            "Shigekazu"
+          ],
+          "lastName": [
+            "Sakamoto"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tomino S"
+          ],
+          "firstName": [
+            "Saaya"
+          ],
+          "lastName": [
+            "Tomino"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Fujii H"
+          ],
+          "firstName": [
+            "Hideo"
+          ],
+          "lastName": [
+            "Fujii"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Honda T"
+          ],
+          "firstName": [
+            "Takefumi"
+          ],
+          "lastName": [
+            "Honda"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Morita T"
+          ],
+          "firstName": [
+            "Takayosi"
+          ],
+          "lastName": [
+            "Morita"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yukawa T"
+          ],
+          "firstName": [
+            "Takafumi"
+          ],
+          "lastName": [
+            "Yukawa"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Harada N"
+          ],
+          "firstName": [
+            "Nobuko"
+          ],
+          "lastName": [
+            "Harada"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2526824"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SAGE Open Medicine"
+          ],
+          "ISOAbbreviation": [
+            "SAGE Open Med"
+          ],
+          "medlineAbbreviation": [
+            "SAGE Open Med"
+          ],
+          "NLMid": [
+            "101624744"
+          ],
+          "ISSN": [
+            "2050-3121"
+          ],
+          "ESSN": [
+            "2050-3121"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "2050312117726196"
+  ],
+  "abstractText": [
+    "This study was conducted to examine the effects of an approach that wears finger rings on elderly females with behavioral and psychological symptoms of dementia.The subjects were seven Japanese dementia patients living in elderly nursing homes. A single-case experimental design was adopted for the study. Each study subject was asked to put rings on her finger (from 9:00 to 19:00) for 7 days. The Neuropsychiatric Inventory, scenes of behavioral and psychological symptoms of dementia, interest in wearing rings, self-awareness, and overall profile were determined to assess the effect on the patients of wearing rings.The majority of nursing care providers stated, based on their assessment, that the \"irritability/lability\" that was noted during the baseline period disappeared during the ring-wearing intervention period in the three patients who displayed an interest in rings. In the assessment of the self-awareness ability, these three women were aware themselves of their intellect collapsing and were capable of conjecturing their own and others' minds. It was commonly seen that the nursing staff, even though they had not been asked to do so by the researchers, told the patients, \"Mrs. XX, you look so beautiful\" when they found a patient wearing rings.Individuals with low self-esteem are inclined to get angry and display aggression. In subjects with low self-esteem, anger and aggression readily arise when they are slighted by others. Self-esteem is low in those women who are aware of their own status of collapsing intellect. It is concluded that the words of conjuration, \"you look so beautiful,\" which the wearing of the ring per se by the patient elicited from the caregivers heightened the self-esteem and alleviated \"irritability/lability\" in the study subjects."
+  ],
+  "affiliation": [
+    "Department of Physical Therapy, Faculty of Health Science, Osaka Yukioka College of Health Science, Osaka, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "RING",
+        "Dementia",
+        "Alzheimer",
+        "Self-esteem",
+        "Behavioral And Psychological Symptoms Of Dementia"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/2050312117726196"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5570107"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5570107?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-08-31"
+  ],
+  "firstIndexDate": [
+    "2017-08-31"
+  ],
+  "fullTextReceivedDate": [
+    "2017-09-01"
+  ],
+  "dateOfRevision": [
+    "2017-09-03"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-22"
+  ],
+  "firstPublicationDate": [
+    "2017-08-22"
+  ]
+}

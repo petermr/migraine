@@ -1,0 +1,478 @@
+{
+  "id": [
+    "31369697"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31369697"
+  ],
+  "pmcid": [
+    "PMC6916280"
+  ],
+  "doi": [
+    "10.1002/jbmr.3843"
+  ],
+  "title": [
+    "Burosumab Improved Histomorphometric Measures of Osteomalacia in Adults with X-Linked Hypophosphatemia: A Phase 3, Single-Arm, International Trial."
+  ],
+  "authorString": [
+    "Insogna KL, Rauch F, Kamenický P, Ito N, Kubota T, Nakamura A, Zhang L, Mealiffe M, San Martin J, Portale AA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Insogna KL"
+          ],
+          "firstName": [
+            "Karl L"
+          ],
+          "lastName": [
+            "Insogna"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6973-5679",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, Yale School of Medicine, New Haven, CT, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rauch F"
+          ],
+          "firstName": [
+            "Frank"
+          ],
+          "lastName": [
+            "Rauch"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6261-0360",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genetics Unit, Shriners Hospital for Children and McGill University, Montreal, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Kamenický P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Kamenický"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "APHP, Department of Endocrinology and Reproductive Diseases, Bicêtre Paris Sud Hospital, Le Kremlin Bicêtre, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Ito N"
+          ],
+          "firstName": [
+            "Nobuaki"
+          ],
+          "lastName": [
+            "Ito"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Endocrinology & Nephrology, The University of Tokyo Hospital, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kubota T"
+          ],
+          "firstName": [
+            "Takuo"
+          ],
+          "lastName": [
+            "Kubota"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Osaka University Hospital, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakamura A"
+          ],
+          "firstName": [
+            "Akie"
+          ],
+          "lastName": [
+            "Nakamura"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Hokkaido University Hospital, Hokkaido, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Ultragenyx Pharmaceutical Inc., Novato, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mealiffe M"
+          ],
+          "firstName": [
+            "Matt"
+          ],
+          "lastName": [
+            "Mealiffe"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Ultragenyx Pharmaceutical Inc., Novato, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "San Martin J"
+          ],
+          "firstName": [
+            "Javier"
+          ],
+          "lastName": [
+            "San Martin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Ultragenyx Pharmaceutical Inc., Novato, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Portale AA"
+          ],
+          "firstName": [
+            "Anthony A"
+          ],
+          "lastName": [
+            "Portale"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Division of Pediatric Nephrology, University of California, San Francisco, CA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6261-0360",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6973-5679",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "34"
+      ],
+      "journalIssueId": [
+        "2888015"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research"
+          ],
+          "ISOAbbreviation": [
+            "J. Bone Miner. Res."
+          ],
+          "medlineAbbreviation": [
+            "J Bone Miner Res"
+          ],
+          "NLMid": [
+            "8610640"
+          ],
+          "ISSN": [
+            "0884-0431"
+          ],
+          "ESSN": [
+            "1523-4681"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2183-2191"
+  ],
+  "abstractText": [
+    "In adults with X-linked hypophosphatemia (XLH), excess FGF23 impairs renal phosphate reabsorption and suppresses production of 1,25-dihydroxyvitamin D, resulting in chronic hypophosphatemia and persistent osteomalacia. Osteomalacia is associated with poor bone quality causing atraumatic fractures, pseudofractures, delayed fracture healing, and bone pain. Burosumab is a fully human monoclonal antibody against FGF23. UX023-CL304 is an ongoing, open-label, single-arm, phase 3 study investigating the efficacy of subcutaneous burosumab, 1.0 mg/kg administered every 4 weeks, in improving osteomalacia in adults with XLH who have not been treated for at least 2 years before enrollment. The primary endpoint was improvement in osteoid volume/bone volume assessed by transiliac bone biopsies obtained at baseline and week 48. Additional assessments included serum phosphorus, markers of bone turnover, fracture/pseudofracture healing, and safety. Fourteen subjects enrolled, 13 completed 48 weeks, and 11 completed paired biopsies. All osteomalacia-related histomorphometric measures improved significantly at week 48 (mean percent change: osteoid volume/bone volume, -54%, osteoid thickness, -32%, osteoid surface/bone surface, -26%, [median] mineralization lag time, -83%). Mean serum phosphorus concentration averaged across the mid-point of the dose cycle between weeks 0 and 24 was 3.3 mg/dL, a 50% increase from 2.2 mg/dL at baseline. Markers of bone formation and resorption increased at week 48 (least squares [LS] mean increase: P1NP, +77%; CTx, +36%; both p < 0.0001). All subjects had one or more treatment-emergent adverse event (AE). Most AEs were mild to moderate in severity. Two subjects experienced serious AEs (migraine; paresthesia) that were unrelated to treatment and resolved. Eleven subjects had 18 biopsy procedure-related AEs: 14 for pain, two for itch, and one each for headache and bandage irritation. No deaths or incidents of hyperphosphatemia occurred. In conclusion, by normalizing phosphate homeostasis, burosumab significantly improved osteomalacia in adults with XLH, which likely explains the improved fracture healing and amelioration of skeletal complications. © 2019 The Authors. Journal of Bone and Mineral Research published by American Society for Bone and Mineral Research."
+  ],
+  "affiliation": [
+    "Department of Internal Medicine, Yale School of Medicine, New Haven, CT, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Ultragenyx Pharmaceutical Inc."
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bone histomorphometry",
+        "Clinical Trials",
+        "Biochemical Markers Of Bone Turnover",
+        "Osteomalacia And Rickets",
+        "Therapeutics > other"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/jbmr.3843"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6916280"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6916280?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-08-02"
+  ],
+  "firstIndexDate": [
+    "2019-08-02"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-12-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-01"
+  ],
+  "firstPublicationDate": [
+    "2019-10-01"
+  ]
+}

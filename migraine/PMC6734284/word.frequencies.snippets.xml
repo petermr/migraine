@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6734284/results/word/frequencies/results.xml">
+  <result title="frequency" word="NDPH" count="133"/>
+  <result title="frequency" word="headache" count="96"/>
+  <result title="frequency" word="patients" count="57"/>
+  <result title="frequency" word="daily" count="48"/>
+  <result title="frequency" word="persistent" count="38"/>
+  <result title="frequency" word="treatment" count="38"/>
+  <result title="frequency" word="(%)" count="33"/>
+  <result title="frequency" word="Headache" count="33"/>
+  <result title="frequency" word="new" count="22"/>
+  <result title="frequency" word="reported" count="21"/>
+ </snippets>
+</snippetsTree>

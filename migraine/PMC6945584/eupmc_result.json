@@ -1,0 +1,378 @@
+{
+  "id": [
+    "31907010"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31907010"
+  ],
+  "pmcid": [
+    "PMC6945584"
+  ],
+  "doi": [
+    "10.1186/s12984-019-0624-7"
+  ],
+  "title": [
+    "Clinician awareness of brain computer interfaces: a Canadian national survey."
+  ],
+  "authorString": [
+    "Letourneau S, Zewdie ET, Jadavji Z, Andersen J, Burkholder LM, Kirton A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Letourneau S"
+          ],
+          "firstName": [
+            "Sasha"
+          ],
+          "lastName": [
+            "Letourneau"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Cumming School of Medicine, University of Calgary, 2500 University Drive N.W., Calgary, AB, T2N 1N4, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Zewdie ET"
+          ],
+          "firstName": [
+            "Ephrem Takele"
+          ],
+          "lastName": [
+            "Zewdie"
+          ],
+          "initials": [
+            "ET"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Cumming School of Medicine, University of Calgary, 2500 University Drive N.W., Calgary, AB, T2N 1N4, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Jadavji Z"
+          ],
+          "firstName": [
+            "Zeanna"
+          ],
+          "lastName": [
+            "Jadavji"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Cumming School of Medicine, University of Calgary, 2500 University Drive N.W., Calgary, AB, T2N 1N4, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Andersen J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Andersen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of Alberta, 116 St. and 85 Ave, Edmonton, AB T6G 2R3, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Burkholder LM"
+          ],
+          "firstName": [
+            "Lee M"
+          ],
+          "lastName": [
+            "Burkholder"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Cumming School of Medicine, University of Calgary, 2500 University Drive N.W., Calgary, AB, T2N 1N4, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Kirton A"
+          ],
+          "firstName": [
+            "Adam"
+          ],
+          "lastName": [
+            "Kirton"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Cumming School of Medicine, University of Calgary, 2500 University Drive N.W., Calgary, AB, T2N 1N4, Canada. Adam.Kirton@albertahealthservices.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2897447"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of neuroengineering and rehabilitation"
+          ],
+          "ISOAbbreviation": [
+            "J Neuroeng Rehabil"
+          ],
+          "medlineAbbreviation": [
+            "J Neuroeng Rehabil"
+          ],
+          "NLMid": [
+            "101232233"
+          ],
+          "ISSN": [
+            "1743-0003"
+          ],
+          "ESSN": [
+            "1743-0003"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "2"
+  ],
+  "abstractText": [
+    "BACKGROUND:Individuals with severe neurological disabilities but preserved cognition, including children, are often precluded from connecting with their environments. Brain computer interfaces (BCI) are a potential solution where advancing technologies create new clinical opportunities. We evaluated clinician awareness as a modifiable barrier to progress and identified eligible populations. METHODS:We executed a national, population-based, cross-sectional survey of physician specialists caring for persons with severe disability. An evidence- and experience-based survey had three themes: clinician BCI knowledge, eligible populations, and potential impact. A BCI knowledge index was created and scored. Canadian adult and pediatric neurologists, physiatrists and a subset of developmental pediatricians were contacted. Secure, web-based software administered the survey via email with online data collection. RESULTS:Of 922 valid emails (664 neurologists, 253 physiatrists), 137 (15%) responded. One third estimated that ≥10% of their patients had severe neurological disability with cognitive capacity. BCI knowledge scores were low with > 40% identifying as less than \"vaguely aware\" and only 15% as \"somewhat familiar\" or better. Knowledge did not differ across specialties. Only 6 physicians (4%) had patients using BCI. Communication and wheelchair control rated highest for potentially improving quality of life. Most (81%) felt BCI had high potential to improve quality of life. Estimates suggested that > 13,000 Canadians (36 M population) might benefit from BCI technologies. CONCLUSIONS:Despite high potential and thousands of patients who might benefit, BCI awareness among clinicians caring for disabled persons is poor. Further, functional priorities for BCI applications may differ between medical professionals and potential BCI users, perhaps reflecting that clinicians possess a less accurate understanding of the desires and needs of potential end-users. Improving knowledge and engaging both clinicians and patients could facilitate BCI program development to improve patient outcomes."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Cumming School of Medicine, University of Calgary, 2500 University Drive N.W., Calgary, AB, T2N 1N4, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "10075523"
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "acronym": [
+            "CAPMC"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rehabilitation",
+        "Spinal cord injury",
+        "Quality of life",
+        "Stroke",
+        "cerebral palsy",
+        "brain computer interface",
+        "Neuromuscular Disorders",
+        "Neuro-rehabilitation"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12984-019-0624-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6945584"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6945584?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-08"
+  ],
+  "firstIndexDate": [
+    "2020-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-09"
+  ],
+  "dateOfRevision": [
+    "2020-01-09"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-06"
+  ],
+  "firstPublicationDate": [
+    "2020-01-06"
+  ]
+}

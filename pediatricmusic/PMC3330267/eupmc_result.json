@@ -1,0 +1,394 @@
+{
+  "id": [
+    "22529838"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22529838"
+  ],
+  "pmcid": [
+    "PMC3330267"
+  ],
+  "doi": [
+    "10.3389/fneur.2012.00063"
+  ],
+  "title": [
+    "Alzheimer's disease: a clinical practice-oriented review."
+  ],
+  "authorString": [
+    "Alves L, Correia AS, Miguel R, Alegria P, Bugalho P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alves L"
+          ],
+          "firstName": [
+            "Luísa"
+          ],
+          "lastName": [
+            "Alves"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Correia AS"
+          ],
+          "firstName": [
+            "Ana Sofia A"
+          ],
+          "lastName": [
+            "Correia"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3000-9324",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Miguel R"
+          ],
+          "firstName": [
+            "Rita"
+          ],
+          "lastName": [
+            "Miguel"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Alegria P"
+          ],
+          "firstName": [
+            "Paulo"
+          ],
+          "lastName": [
+            "Alegria"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8267-8020",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bugalho P"
+          ],
+          "firstName": [
+            "Paulo"
+          ],
+          "lastName": [
+            "Bugalho"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2186-9541",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3000-9324",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2186-9541",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8267-8020",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "1899493"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "63"
+  ],
+  "abstractText": [
+    "Investigation in the field of Alzheimer's disease (AD), the commonest cause of dementia, has been very active in recent years and it may be difficult for the clinician to keep up with all the innovations and to be aware of the implications they have in clinical practice. The authors, thus, reviewed recent literature on the theme in order to provide the clinician with an updated overview, intended to support decision-making on aspects of diagnosis and management. This article begins to focus on the concept of AD and on its pathogenesis. Afterward, epidemiology and non-genetic risk factors are approached. Genetics, including genetic risk factors and guidelines for genetic testing, are mentioned next. Recommendations for diagnosis of AD, including recently proposed criteria, are then reviewed. Data on the variants of AD is presented. First approach to the patient is dealt with next, followed by neuropsychological evaluation. Biomarkers, namely magnetic resonance imaging, single photon emission tomography, FDG PET, PiB PET, CSF tau, and Aβ analysis, as well as available data on their diagnostic accuracy, are also discussed. Factors predicting rate of disease progression are briefly mentioned. Finally, non-pharmacological and pharmacological treatments, including established and emerging drugs, are addressed."
+  ],
+  "affiliation": [
+    "Serviço de Neurologia, Hospital de Egas Moniz, Centro Hospitalar de Lisboa Ocidental Lisboa, Portugal."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alzheimer",
+        "Ad Pathogenesis",
+        "Ad Genetics",
+        "Ad Diagnosis",
+        "Ad Variants",
+        "Ad Neuropsychological Evaluation",
+        "Ad Biomarkers",
+        "Ad Treatment"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22529838/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22529838/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2012.00063"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3330267"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3330267?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-10-02"
+  ],
+  "dateOfCreation": [
+    "2012-04-24"
+  ],
+  "firstIndexDate": [
+    "2012-04-25"
+  ],
+  "fullTextReceivedDate": [
+    "2012-09-26"
+  ],
+  "dateOfRevision": [
+    "2013-08-13"
+  ],
+  "electronicPublicationDate": [
+    "2012-04-20"
+  ],
+  "firstPublicationDate": [
+    "2012-04-20"
+  ]
+}

@@ -1,0 +1,943 @@
+{
+  "id": [
+    "26822746"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26822746"
+  ],
+  "pmcid": [
+    "PMC4760851"
+  ],
+  "doi": [
+    "10.1016/S1474-4422(15)00393-2"
+  ],
+  "title": [
+    "MRI criteria for the diagnosis of multiple sclerosis: MAGNIMS consensus guidelines."
+  ],
+  "authorString": [
+    "Filippi M, Rocca MA, Ciccarelli O, De Stefano N, Evangelou N, Kappos L, Rovira A, Sastre-Garriga J, Tintorè M, Frederiksen JL, Gasperini C, Palace J, Reich DS, Banwell B, Montalban X, Barkhof F, MAGNIMS Study Group."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Filippi M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Filippi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy. Electronic address: filippi.massimo@hsr.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Rocca MA"
+          ],
+          "firstName": [
+            "Maria A"
+          ],
+          "lastName": [
+            "Rocca"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ciccarelli O"
+          ],
+          "firstName": [
+            "Olga"
+          ],
+          "lastName": [
+            "Ciccarelli"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Neuroinflammation, Queen Square MS Centre, UCL Institute of Neurology, London, UK; National Institute for Health Research (NIHR), UCL/UCLH Biomedical Research Centre, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "De Stefano N"
+          ],
+          "firstName": [
+            "Nicola"
+          ],
+          "lastName": [
+            "De Stefano"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Medicine, Surgery and Neuroscience, University of Siena, Siena, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Evangelou N"
+          ],
+          "firstName": [
+            "Nikos"
+          ],
+          "lastName": [
+            "Evangelou"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Division of Neurosciences, Queen's Medical Centre Campus, University of Nottingham, Nottingham, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Kappos L"
+          ],
+          "firstName": [
+            "Ludwig"
+          ],
+          "lastName": [
+            "Kappos"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Basel, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Rovira A"
+          ],
+          "firstName": [
+            "Alex"
+          ],
+          "lastName": [
+            "Rovira"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Magnetic Resonance Unit, Department of Radiology (IDI), Hospital Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Sastre-Garriga J"
+          ],
+          "firstName": [
+            "Jaume"
+          ],
+          "lastName": [
+            "Sastre-Garriga"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1589-2254",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre d'Esclerosi Múltiple de Catalunya (Cemcat), Department of Neurology/Neuroimmunology, Hospital Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Tintorè M"
+          ],
+          "firstName": [
+            "Mar"
+          ],
+          "lastName": [
+            "Tintorè"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9999-5359",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre d'Esclerosi Múltiple de Catalunya (Cemcat), Department of Neurology/Neuroimmunology, Hospital Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Frederiksen JL"
+          ],
+          "firstName": [
+            "Jette L"
+          ],
+          "lastName": [
+            "Frederiksen"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Department of Neurology, Glostrup Hospital and University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Gasperini C"
+          ],
+          "firstName": [
+            "Claudio"
+          ],
+          "lastName": [
+            "Gasperini"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Neurosciences, San Camillo-Forlanini Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Palace J"
+          ],
+          "firstName": [
+            "Jacqueline"
+          ],
+          "lastName": [
+            "Palace"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Clinical Neurology, University of Oxford Hospitals Trust, Oxford, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Reich DS"
+          ],
+          "firstName": [
+            "Daniel S"
+          ],
+          "lastName": [
+            "Reich"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Translational Neuroradiology Unit, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Banwell B"
+          ],
+          "firstName": [
+            "Brenda"
+          ],
+          "lastName": [
+            "Banwell"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Division of Child Neurology, The Children's Hospital of Philadelphia, Department of Neurology, Perelman School of Medicine, University of Pennsylvania, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Montalban X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "Montalban"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0098-9918",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre d'Esclerosi Múltiple de Catalunya (Cemcat), Department of Neurology/Neuroimmunology, Hospital Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Barkhof F"
+          ],
+          "firstName": [
+            "Frederik"
+          ],
+          "lastName": [
+            "Barkhof"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "MS Centre Amsterdam, VU University Medical Centre, Amsterdam, Netherlands."
+          ]
+        },
+        {
+          "collectiveName": [
+            "MAGNIMS Study Group"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Barkhof F"
+          ],
+          "firstName": [
+            "F"
+          ],
+          "lastName": [
+            "Barkhof"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Ciccarelli O"
+          ],
+          "firstName": [
+            "O"
+          ],
+          "lastName": [
+            "Ciccarelli"
+          ],
+          "initials": [
+            "O"
+          ]
+        },
+        {
+          "fullName": [
+            "De Stefano N"
+          ],
+          "firstName": [
+            "N"
+          ],
+          "lastName": [
+            "De Stefano"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Enzinger C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Enzinger"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Filippi M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Filippi"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Rocca MA"
+          ],
+          "firstName": [
+            "M A"
+          ],
+          "lastName": [
+            "Rocca"
+          ],
+          "initials": [
+            "MA"
+          ]
+        },
+        {
+          "fullName": [
+            "Frederiksen JL"
+          ],
+          "firstName": [
+            "J L"
+          ],
+          "lastName": [
+            "Frederiksen"
+          ],
+          "initials": [
+            "JL"
+          ]
+        },
+        {
+          "fullName": [
+            "Gasperini C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Gasperini"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Kappos L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Kappos"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Palace J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Palace"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Rovira A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Rovira"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Sastre-Garriga J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Sastre-Garriga"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Yousry T"
+          ],
+          "firstName": [
+            "T"
+          ],
+          "lastName": [
+            "Yousry"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Vrenken H"
+          ],
+          "firstName": [
+            "H"
+          ],
+          "lastName": [
+            "Vrenken"
+          ],
+          "initials": [
+            "H"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2358-4320",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4930-7639",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1589-2254",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9999-5359",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0098-9918",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5485-0479",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3959-4067",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2376174"
+      ],
+      "dateOfPublication": [
+        "2016 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Lancet. Neurology"
+          ],
+          "ISOAbbreviation": [
+            "Lancet Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Lancet Neurol"
+          ],
+          "NLMid": [
+            "101139309"
+          ],
+          "ISSN": [
+            "1474-4422"
+          ],
+          "ESSN": [
+            "1474-4465"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "292-303"
+  ],
+  "abstractText": [
+    "In patients presenting with a clinically isolated syndrome, MRI can support and substitute clinical information in the diagnosis of multiple sclerosis by showing disease dissemination in space and time and by helping to exclude disorders that can mimic multiple sclerosis. MRI criteria were first included in the diagnostic work-up for multiple sclerosis in 2001, and since then several modifications to the criteria have been proposed in an attempt to simplify lesion-count models for showing disease dissemination in space, change the timing of MRI scanning to show dissemination in time, and increase the value of spinal cord imaging. Since the last update of these criteria, new data on the use of MRI to establish dissemination in space and time have become available, and MRI technology has improved. State-of-the-art MRI findings in these patients were discussed in a MAGNIMS workshop, the goal of which was to provide an evidence-based and expert-opinion consensus on proposed modifications to MRI criteria for the diagnosis of multiple sclerosis."
+  ],
+  "affiliation": [
+    "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy. Electronic address: filippi.massimo@hsr.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MC_PC_12019"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Z99 NS999999"
+          ],
+          "agency": [
+            "Intramural NIH HHS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ZIA NS003119-06"
+          ],
+          "agency": [
+            "Intramural NIH HHS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multiple Sclerosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Consensus"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Practice Guidelines as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/S1474-4422(15)00393-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4760851"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4760851?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "26822747"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Lancet Neurol. 2016 Mar;15(3):238-40"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "160"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS755583"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-08-09"
+  ],
+  "dateOfCreation": [
+    "2016-01-30"
+  ],
+  "firstIndexDate": [
+    "2016-01-30"
+  ],
+  "fullTextReceivedDate": [
+    "2017-03-02"
+  ],
+  "dateOfRevision": [
+    "2019-10-08"
+  ],
+  "electronicPublicationDate": [
+    "2016-01-26"
+  ],
+  "firstPublicationDate": [
+    "2016-01-26"
+  ]
+}

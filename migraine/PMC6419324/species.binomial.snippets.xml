@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6419324/results/species/binomial/results.xml">
+  <result pre=" = 91) with migraine, with (MO) or without aura (MA), or tension-type headache (TTH). A fixed-dose " exact="Andrographis paniculata" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Andrographis paniculata" post=", CoQ10, riboflavin, and magnesium, was administered for 16 weeks. Patients were evaluated at basel" name="binomial"/>
+  <result pre="This fixed-dose " exact="Tanacetum parthenium" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Tanacetum parthenium" post=" preparation improved headache frequency and pain intensity in children affected by TTH. Despite th" name="binomial"/>
+  <result pre="on of Mg 2+ 169 mg, CoQ10 20 mg, VitB2 4,8 mg, Feverfew 150 mg-1,2 mg Parthenolides and " exact="Andrographis paniculata" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Andrographis paniculata" post=" 100 mg) available in Italy as a dietary supplement (Italian Registry of Supplements code 64289) in" name="binomial"/>
+  <result pre="pediatric patients suffering from MA and MO. We used a combination of magnesium, riboflavin, CQ10, " exact="Tanacetum parthenium" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Tanacetum parthenium" post=", molecules all arising in the guidelines of the American Headache Society (AHS) and American Acade" name="binomial"/>
+  <result pre="che Society (AHS) and American Academy of Neurology (AAN) [ 14] in addition to the " exact="Andrographis paniculata" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Andrographis paniculata" post=" (plant extract that has shown analgesic and anti-edema activity in preclinical studies along with " name="binomial"/>
+  <result pre=" " exact="Tanacetum parthenium" match="Tanacetum parthenium" post=" (feverfew) has been used for centuries to treat pain and headache [ 17]. Several p" name="binomial"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="pediatricmusic/PMC5784532/results/search/funders/results.xml">
+  <result pre="0000 0004 1936 9094 grid.40263.33 Section of Pediatric Emergency Medicine," exact="Hasbro" post="Children’s Hospital, Alpert Medical School of Brown University, [2],"/>
+  <result pre="Pediatric Emergency Medicine, Hasbro Children’s Hospital, Alpert Medical School of" exact="Brown University," post="[2], 000000041936754X grid.38142.3c Department of Pediatrics, Massachusetts General Hospital"/>
+  <result pre="School of Brown University, [2], 000000041936754X grid.38142.3c Department of Pediatrics," exact="Massachusetts General Hospital" post="for Children, Harvard Medical School, [3], 000000041936754X grid.38142.3c Division"/>
+  <result pre="000000041936754X grid.38142.3c Department of Pediatrics, Massachusetts General Hospital for Children," exact="Harvard Medical School," post="[3], 000000041936754X grid.38142.3c Division of Pediatric Surgery, Massachusetts General"/>
+  <result pre="Harvard Medical School, [3], 000000041936754X grid.38142.3c Division of Pediatric Surgery," exact="Massachusetts General Hospital" post="for Children, Harvard Medical School, [4], 000000041936754X grid.38142.3c Department"/>
+  <result pre="grid.38142.3c Division of Pediatric Surgery, Massachusetts General Hospital for Children," exact="Harvard Medical School," post="[4], 000000041936754X grid.38142.3c Department of Emergency Medicine, Massachusetts General"/>
+  <result pre="Harvard Medical School, [4], 000000041936754X grid.38142.3c Department of Emergency Medicine," exact="Massachusetts General Hospital," post="Harvard Medical School, epub: 2018-1-1 pmc-release: 2018-1-1 ppub: 2018"/>
+  <result pre="[4], 000000041936754X grid.38142.3c Department of Emergency Medicine, Massachusetts General Hospital," exact="Harvard Medical School," post="epub: 2018-1-1 pmc-release: 2018-1-1 ppub: 2018 13 1 received:"/>
+  <result pre="ages of 13 and 30 years old seen in the" exact="Massachusetts General Hospital" post="(MGH) ED on nights coinciding with concerts at a"/>
+  <result pre="study was mainly descriptive in nature. Data were transcribed into" exact="Microsoft" post="Excel 2010 (Microsoft Corporation, Redmond, WA) and then exported"/>
+  <result pre="to the MGH ED. Congruent with the New York City" exact="Department of Health" post="and Mental Hygiene’s publication investigating adverse health events from"/>
+  <result pre="services GCS Glasgow Coma Scale MCI mass casualty incident MGH" exact="Massachusetts General Hospital" post="THC tetrahydrocannabinol Authors’ contributions SMR conceptualized and designed the"/>
+  <result pre="participate The present study was reviewed and approved by the" exact="Massachusetts General Hospital" post="Institutional Review Board. Funding sources This research did not"/>
+ </snippets>
+</snippetsTree>

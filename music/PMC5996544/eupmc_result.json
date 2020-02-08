@@ -1,0 +1,577 @@
+{
+  "id": [
+    "29890985"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29890985"
+  ],
+  "pmcid": [
+    "PMC5996544"
+  ],
+  "doi": [
+    "10.1186/s12906-018-2236-3"
+  ],
+  "title": [
+    "Effect of neuromuscular taping on musculoskeletal disorders secondary to the use of aromatase inhibitors in breast cancer survivors: a pragmatic randomised clinical trial."
+  ],
+  "authorString": [
+    "Conejo I, Pajares B, Alba E, Cuesta-Vargas AI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Conejo I"
+          ],
+          "firstName": [
+            "Inmaculada"
+          ],
+          "lastName": [
+            "Conejo"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Physiotherapy, Faculty of Health Science, University of Málaga, Málaga, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Pajares B"
+          ],
+          "firstName": [
+            "Bella"
+          ],
+          "lastName": [
+            "Pajares"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Medical Oncology, Carlos Haya Regional University Hospital, IBIMA, Málaga, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Alba E"
+          ],
+          "firstName": [
+            "Emilio"
+          ],
+          "lastName": [
+            "Alba"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Medical Oncology, Carlos Haya Regional University Hospital, IBIMA, Málaga, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Cuesta-Vargas AI"
+          ],
+          "firstName": [
+            "Antonio Ignacio"
+          ],
+          "lastName": [
+            "Cuesta-Vargas"
+          ],
+          "initials": [
+            "AI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8880-4315",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physiotherapy, IBIMA, University of Málaga, Málaga, Spain. acuesta.var@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8880-4315",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2691284"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC complementary and alternative medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "NLMid": [
+            "101088661"
+          ],
+          "ISSN": [
+            "1472-6882"
+          ],
+          "ESSN": [
+            "1472-6882"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "180"
+  ],
+  "abstractText": [
+    "Aromatase inhibitors reduce breast cancer recurrence rates in postmenopausal women by about 30% compared with tamoxifen while treatments differ. Unfortunately, nearly half of women taking AIs report AI-associated arthralgia (AIA), leading to therapy abandon in on third of patients, which could lead to cancer recurrence. The purpose of the current study was to evaluate the effectiveness of Neuromuscular Taping (NMT) in the treatment of AIA in women who have been treated of BC.This study included 40 BC survivors receiving endocrine therapy (either AIs or TMX) from Hospital Universitario Virgen de la Victoria (Málaga, Spain) suffered from AIA. Patients were randomized to one of the two groups that made this pilot study: A. Placebo intervention B. Real NMT. Clinical data were collected from medical history, grip strength, algometry measured, questionnaires and VAS scale. There have been three interventions prior to the completion of the study, 5 weeks later. The primary objective of this pilot study was to achieve an improvement of pain by 20% decrease of VAS.Significant differences in measures of VAS (p = 0.009), global health status/QoL (p = 0.005), fatigue (p = 0.01) and pain (p = 0.04) were observed post intervention with NMT.An intervention by NMT to MSCM under treatment with AIs improves their subjective sensation of pain. In addition, this taping had an impact on variables related to the quality of life. This pilot study may be the basis for others to support the use of NMT for the treatment of AIAs, thereby improving their well-being and reducing the dropout rate.ClinicalTrials.gov Identifier: NCT02406794 . Registered on 2 April 2015 Retrospectively registered."
+  ],
+  "affiliation": [
+    "Department of Physiotherapy, Faculty of Health Science, University of Málaga, Málaga, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arthralgia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aromatase Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Complementary Therapies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Athletic Tape"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Reported Outcome Measures"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cancer Survivors"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Breast cancer",
+        "Carpal Tunnel Syndrome",
+        "Pressure Pain Threshold",
+        "Hormonal Therapy",
+        "Aromatase Inhibitors",
+        "Arthralgia",
+        "Visual Analogue Scale",
+        "Myalgia",
+        "Estrogen Deprivation",
+        "Kinesio Taping",
+        "Neuromuscular Taping"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Aromatase Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12906-018-2236-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5996544"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5996544?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-07-23"
+  ],
+  "dateOfCreation": [
+    "2018-06-13"
+  ],
+  "firstIndexDate": [
+    "2018-06-13"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-28"
+  ],
+  "dateOfRevision": [
+    "2018-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-11"
+  ],
+  "firstPublicationDate": [
+    "2018-06-11"
+  ]
+}

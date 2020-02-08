@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6709659/results/search/country/results.xml">
+  <result pre="and Medicine, Hôpital Ophtalmique Jules Gonin, University of Lausanne Lausanne" exact="Switzerland" post="[], 2 Department of Ophthalmology and Visual Sciences, Iowa"/>
+  <result pre="University of Iowa and Veterans Affairs Hospital Iowa City, IA" exact="United States" post="[], 3 Ospedale Oftalmico Roma, ASL RM1 Rome Italy"/>
+  <result pre="United States [], 3 Ospedale Oftalmico Roma, ASL RM1 Rome" exact="Italy" post="Edited by: Valerie Purvin, Midwest Eye Institute, United States"/>
+  <result pre="RM1 Rome Italy Edited by: Valerie Purvin, Midwest Eye Institute," exact="United States" post="Reviewed by: Mark Paine, Royal Brisbane and Women's Hospital,"/>
+  <result pre="and Women's Hospital, Australia; Essam Mohamed Elmatbouly Saber, Benha University," exact="Egypt" post="*Correspondence: Aki Kawasaki aki.kawasaki@fa2.ch This article was submitted to"/>
+ </snippets>
+</snippetsTree>

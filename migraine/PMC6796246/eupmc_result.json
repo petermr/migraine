@@ -1,0 +1,203 @@
+{
+  "id": [
+    "PMC6796246"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6796246"
+  ],
+  "doi": [
+    "10.1177/2050640618792819"
+  ],
+  "title": [
+    "UEG Week 2018 Poster Presentations."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8 Suppl"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2874953"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "United European gastroenterology journal"
+          ],
+          "ISOAbbreviation": [
+            "United European Gastroenterol J"
+          ],
+          "medlineAbbreviation": [
+            "United European Gastroenterol J"
+          ],
+          "NLMid": [
+            "101606807"
+          ],
+          "ISSN": [
+            "2050-6406"
+          ],
+          "ESSN": [
+            "2050-6414"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "A135-A747"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6796246/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6796246"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "gen",
+        "refsnp",
+        "eudract",
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-06"
+  ],
+  "firstIndexDate": [
+    "2019-11-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-06"
+  ],
+  "dateOfRevision": [
+    "2019-11-06"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-21"
+  ],
+  "firstPublicationDate": [
+    "2018-10-21"
+  ]
+}

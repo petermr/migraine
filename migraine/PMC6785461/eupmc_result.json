@@ -1,0 +1,364 @@
+{
+  "id": [
+    "31591839"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31591839"
+  ],
+  "pmcid": [
+    "PMC6785461"
+  ],
+  "doi": [
+    "10.3988/jcn.2019.15.4.502"
+  ],
+  "title": [
+    "Language-Related White-Matter-Tract Deficits in Children with Benign Epilepsy with Centrotemporal Spikes: A Retrospective Study."
+  ],
+  "authorString": [
+    "Kim HH, Chung GH, Park SH, Kim SJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim HH"
+          ],
+          "firstName": [
+            "Hyun Ho"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7379-6041",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Chung GH"
+          ],
+          "firstName": [
+            "Gyung Ho"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "GH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6757-8208",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Diagnostic Radiology, Chonbuk National University Medical School, Jeonju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park SH"
+          ],
+          "firstName": [
+            "Sung Hee"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4743-2551",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Rehabilitation Medicine, Chonbuk National University Medical School, Jeonju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SJ"
+          ],
+          "firstName": [
+            "Sun Jun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7673-8728",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chonbuk National University Medical School, Jeonju, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7673-8728",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7379-6041",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4743-2551",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6757-8208",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2869262"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical neurology (Seoul, Korea)"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Neurol"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Neurol"
+          ],
+          "NLMid": [
+            "101252374"
+          ],
+          "ISSN": [
+            "1738-6586"
+          ],
+          "ESSN": [
+            "2005-5013"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "502-510"
+  ],
+  "abstractText": [
+    "BACKGROUND AND PURPOSE:Benign epilepsy with centrotemporal spikes (BECTS) is one of the most common pediatric epilepsies, and it generally has a good prognosis. However, recent research has indicated that the epileptic activity of BECTS can cause cognitive defects such as language, visuospatial, and auditory verbal memory deficits. This study assessed language-delivery deficits in BECTS patients using diffusion-tensor magnetic resonance imaging (DTI). METHODS:T1-weighted MRI, DTI, and language tests were conducted in 16 BECTS patients and 16 age-matched controls. DTI data were analyzed using the TRActs Constrained by Underlying Anatomy tool in FreeSurfer 5.3, and 18 major white-matter tracts were extracted, which included 4 language-related tracts: the inferior longitudinal fasciculus, superior longitudinal fasciculus-parietal terminations, superior longitudinal fasciculus-temporal terminations, and uncinate fasciculus (UNC). Language tests included the Korean version of the Receptive and Expressive Vocabulary Test, Test of Problem-Solving Abilities (TOPS), and the mean length of utterance in words. RESULTS:The BECTS group exhibited decreased mean fractional anisotropy and increased mean radial diffusivity, with significant differences in both the superior longitudinal fasciculus and the left UNC (p<0.05), which are the language-related white-matter tracts in the dual-loop model. The TOPS language test scores were significantly lower in the BECTS group than in the control group (p<0.05). CONCLUSIONS:It appears that BECTS patients can exhibit language deficits. Seizure activities of BECTS could alter DTI scalar values in the language-related white-matter tracts."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Diffusion-tensor Imaging",
+        "Language Test",
+        "Dual-loop Model"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3988/jcn.2019.15.4.502"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6785461"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6785461?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-09"
+  ],
+  "firstIndexDate": [
+    "2019-10-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-22"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "firstPublicationDate": [
+    "2019-10-01"
+  ]
+}

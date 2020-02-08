@@ -1,0 +1,277 @@
+{
+  "id": [
+    "30214966"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30214966"
+  ],
+  "pmcid": [
+    "PMC6123849"
+  ],
+  "doi": [
+    "10.1016/j.cnp.2016.12.003"
+  ],
+  "title": [
+    "Adverse events of tDCS and tACS: A review."
+  ],
+  "authorString": [
+    "Matsumoto H, Ugawa Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Matsumoto H"
+          ],
+          "firstName": [
+            "Hideyuki"
+          ],
+          "lastName": [
+            "Matsumoto"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neurology, Japanese Red Cross Medical Center, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ugawa Y"
+          ],
+          "firstName": [
+            "Yoshikazu"
+          ],
+          "lastName": [
+            "Ugawa"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Neurology, School of Medicine, Fukushima Medical University, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2727663"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical neurophysiology practice"
+          ],
+          "ISOAbbreviation": [
+            "Clin Neurophysiol Pract"
+          ],
+          "medlineAbbreviation": [
+            "Clin Neurophysiol Pract"
+          ],
+          "NLMid": [
+            "101684308"
+          ],
+          "ISSN": [
+            "2467-981X"
+          ],
+          "ESSN": [
+            "2467-981X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "19-25"
+  ],
+  "abstractText": [
+    "Transcranial direct current stimulation (tDCS) and transcranial alternating current stimulation (tACS) have been applied to many research issues because these stimulation techniques can modulate neural activity in the human brain painlessly and non-invasively with weak electrical currents. However, there are no formal safety guidelines for the selection of stimulus parameters in either tDCS or tACS. As a means of gathering the information that is needed to produce safety guidelines, in this article, we summarize the adverse events of tDCS and tACS. In both stimulation techniques, most adverse effects are mild and disappear soon after stimulation. Nevertheless, several papers have reported that, in tDCS, some adverse events persist even after stimulation. The persistent events consist of skin lesions similar to burns, which can arise even in healthy subjects, and mania or hypomania in patients with depression. Recently, one paper reported a pediatric patient presenting with seizure after tDCS, although the causal relationship between stimulation and seizure is not clear. As this seizure is the only serious adverse events yet reported in connection with tDCS, tDCS is considered safe. In tACS, meanwhile, no persistent adverse events have been reported, but considerably fewer reports are available on the safety of tACS than on the safety of tDCS. Therefore, to establish the safety of tDCS and tACS, we need to scan the literature continuously for information on the adverse events of both stimulation techniques. Further safety investigations are also required."
+  ],
+  "affiliation": [
+    "Department of Neurology, Japanese Red Cross Medical Center, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Safety",
+        "Side effect",
+        "Adverse effect",
+        "Transcranial Direct Current Stimulation (Tdcs)",
+        "Transcranial Alternating Current Stimulation (Tacs)",
+        "Mri, Magnetic Resonance Imaging",
+        "Eeg, Electroencephalography",
+        "Nse, Neuron Specific Enolase",
+        "Rtms, Repetitive Transcranial Magnetic Stimulation",
+        "Tdcs, Transcranial Direct Current Stimulation",
+        "Tacs, Transcranial Alternating Current Stimulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.cnp.2016.12.003"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6123849"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6123849?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "14"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-15"
+  ],
+  "firstIndexDate": [
+    "2018-09-15"
+  ],
+  "fullTextReceivedDate": [
+    "2018-09-15"
+  ],
+  "dateOfRevision": [
+    "2018-12-18"
+  ],
+  "electronicPublicationDate": [
+    "2016-12-21"
+  ],
+  "firstPublicationDate": [
+    "2016-12-21"
+  ]
+}

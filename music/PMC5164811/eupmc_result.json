@@ -1,0 +1,184 @@
+{
+  "id": [
+    "PMC5164811"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5164811"
+  ],
+  "title": [
+    "Aspects of Age, Life, and Disease."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "64"
+      ],
+      "journalIssueId": [
+        "2597001"
+      ],
+      "dateOfPublication": [
+        "1929 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "1929"
+      ],
+      "printPublicationDate": [
+        "1929-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Indian medical gazette"
+          ],
+          "ISOAbbreviation": [
+            "Ind Med Gaz"
+          ],
+          "medlineAbbreviation": [
+            "Ind Med Gaz"
+          ],
+          "NLMid": [
+            "7501544"
+          ],
+          "ISSN": [
+            "0019-5863"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1929"
+  ],
+  "pageInfo": [
+    "282-284"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "book-review",
+        "Book Review"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5164811/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5164811"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-15"
+  ],
+  "firstIndexDate": [
+    "2017-09-15"
+  ],
+  "fullTextReceivedDate": [
+    "2017-09-15"
+  ],
+  "dateOfRevision": [
+    "2019-10-01"
+  ],
+  "firstPublicationDate": [
+    "1929-05-01"
+  ]
+}

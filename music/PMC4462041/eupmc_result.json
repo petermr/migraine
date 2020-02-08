@@ -1,0 +1,547 @@
+{
+  "id": [
+    "26074742"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26074742"
+  ],
+  "pmcid": [
+    "PMC4462041"
+  ],
+  "doi": [
+    "10.2174/1570159X13666141210222409"
+  ],
+  "title": [
+    "Recreational use, analysis and toxicity of tryptamines."
+  ],
+  "authorString": [
+    "Tittarelli R, Mannocchi G, Pantano F, Romolo FS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tittarelli R"
+          ],
+          "firstName": [
+            "Roberta"
+          ],
+          "lastName": [
+            "Tittarelli"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Legal Medicine Section, Department of Anatomical, Histological, Forensic Medicine and Orthopedic Sciences, \"Sapienza\" University of Rome, Viale Regina Elena, 336, 00161 Rome, Italy;"
+          ]
+        },
+        {
+          "fullName": [
+            "Mannocchi G"
+          ],
+          "firstName": [
+            "Giulio"
+          ],
+          "lastName": [
+            "Mannocchi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Legal Medicine Section, Department of Anatomical, Histological, Forensic Medicine and Orthopedic Sciences, \"Sapienza\" University of Rome, Viale Regina Elena, 336, 00161 Rome, Italy;"
+          ]
+        },
+        {
+          "fullName": [
+            "Pantano F"
+          ],
+          "firstName": [
+            "Flaminia"
+          ],
+          "lastName": [
+            "Pantano"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Legal Medicine Section, Department of Anatomical, Histological, Forensic Medicine and Orthopedic Sciences, \"Sapienza\" University of Rome, Viale Regina Elena, 336, 00161 Rome, Italy;"
+          ]
+        },
+        {
+          "fullName": [
+            "Romolo FS"
+          ],
+          "firstName": [
+            "Francesco Saverio"
+          ],
+          "lastName": [
+            "Romolo"
+          ],
+          "initials": [
+            "FS"
+          ],
+          "affiliation": [
+            "Legal Medicine Section, Department of Anatomical, Histological, Forensic Medicine and Orthopedic Sciences, \"Sapienza\" University of Rome, Viale Regina Elena, 336, 00161 Rome, Italy; ; Institut de Police Scientifique, Université de Lausanne, Batochime, 1015 Lausanne, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2294248"
+      ],
+      "dateOfPublication": [
+        "2015 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Current neuropharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Curr Neuropharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Curr Neuropharmacol"
+          ],
+          "NLMid": [
+            "101157239"
+          ],
+          "ISSN": [
+            "1570-159X"
+          ],
+          "ESSN": [
+            "1875-6190"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "26-46"
+  ],
+  "abstractText": [
+    "The definition New psychoactive substances (NPS) refers to emerging drugs whose chemical structures are similar to other psychoactive compounds but not identical, representing a \"legal\" alternative to internationally controlled drugs. There are many categories of NPS, such as synthetic cannabinoids, synthetic cathinones, phenylethylamines, piperazines, ketamine derivatives and tryptamines. Tryptamines are naturally occurring compounds, which can derive from the amino acid tryptophan by several biosynthetic pathways: their structure is a combination of a benzene ring and a pyrrole ring, with the addition of a 2-carbon side chain. Tryptamines include serotonin and melatonin as well as other compounds known for their hallucinogenic properties, such as psilocybin in 'Magic mushrooms' and dimethyltryptamine (DMT) in Ayahuasca brews.To review the scientific literature regarding tryptamines and their derivatives, providing a summary of all the available information about the structure of these compounds, their effects in relationship with the routes of administration, their pharmacology and toxicity, including articles reporting cases of death related to intake of these substances.A comprehensive review of the published scientific literature was performed, using also non peer-reviewed information sources, such as books, government publications and drug user web fora.Information from Internet and from published scientific literature, organized in the way we proposed in this review, provides an effective tool for specialists facing the emerging NPS threat to public health and public security, including the personnel working in Emergency Department."
+  ],
+  "affiliation": [
+    "Legal Medicine Section, Department of Anatomical, Histological, Forensic Medicine and Orthopedic Sciences, \"Sapienza\" University of Rome, Viale Regina Elena, 336, 00161 Rome, Italy;"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Poisoning"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Substance-Related Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MO"
+                  ],
+                  "qualifierName": [
+                    "mortality"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tryptamines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychotropic Drugs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Designer Drugs"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Street Drugs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Structure-Activity Relationship"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Intoxication",
+        "Clinical effects",
+        "Emergency Departments",
+        "Forensic Toxicology",
+        "Fatalities",
+        "New Psychoactive Substances (Nps)",
+        "Tryptamines."
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Street Drugs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Psychotropic Drugs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Tryptamines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Designer Drugs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2174/1570159X13666141210222409"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4462041"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4462041?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "23"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-01-11"
+  ],
+  "dateOfCreation": [
+    "2015-06-15"
+  ],
+  "firstIndexDate": [
+    "2015-06-16"
+  ],
+  "fullTextReceivedDate": [
+    "2015-07-03"
+  ],
+  "firstPublicationDate": [
+    "2015-01-01"
+  ]
+}

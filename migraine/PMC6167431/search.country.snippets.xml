@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6167431/results/search/country/results.xml">
+  <result pre="[], 5 Faculty of Pharmaceutical Sciences, UCSI University Kuala Lumpur" exact="Malaysia" post="[], 6 Graduate Institute of Acupuncture Science, China Medical"/>
+  <result pre="Kuala Lumpur Malaysia [], 6 Graduate Institute of Acupuncture Science," exact="China" post="Medical University Taichung Taiwan [], 7 Department of Pediatrics,"/>
+  <result pre="Taipei Taiwan Edited by: Francisco Lopez-Munoz, Universidad Camilo José Cela," exact="Spain" post="Reviewed by: Fabio Cardoso Cruz, Federal University of São"/>
+  <result pre="of São Paulo, Brazil; Robert M. Caudle, University of Florida," exact="United States" post="*Correspondence: Pi-Chuan Fan, pcfan6@ntu.edu.tw This article was submitted to"/>
+ </snippets>
+</snippetsTree>

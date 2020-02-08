@@ -1,0 +1,396 @@
+{
+  "id": [
+    "25928129"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25928129"
+  ],
+  "pmcid": [
+    "PMC4239406"
+  ],
+  "doi": [
+    "10.1186/s13052-014-0092-4"
+  ],
+  "title": [
+    "Pediatric migraine and episodic syndromes that may be associated with migraine."
+  ],
+  "authorString": [
+    "Spiri D, Rinaldi VE, Titomanlio L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Spiri D"
+          ],
+          "firstName": [
+            "Daniele"
+          ],
+          "lastName": [
+            "Spiri"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Luigi Sacco Hospital, Università degli Studi di Milano, Milan, Italy. danielespiri@libero.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Rinaldi VE"
+          ],
+          "firstName": [
+            "Victoria Elisa"
+          ],
+          "lastName": [
+            "Rinaldi"
+          ],
+          "initials": [
+            "VE"
+          ],
+          "affiliation": [
+            "Department of Pediatric Emergency Care, APHP-Hospital Robert Debré, Paris, France. victoria.rinaldi87@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Titomanlio L"
+          ],
+          "firstName": [
+            "Luigi"
+          ],
+          "lastName": [
+            "Titomanlio"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Pediatric Emergency Department, Robert Debré University Hospital, 48, Bld Sérurier, Paris, 75019, France. luigi.titomanlio@rdb.aphp.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "40"
+      ],
+      "journalIssueId": [
+        "2134487"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Italian journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Ital J Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Ital J Pediatr"
+          ],
+          "NLMid": [
+            "101510759"
+          ],
+          "ISSN": [
+            "1824-7288"
+          ],
+          "ESSN": [
+            "1824-7288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "92"
+  ],
+  "abstractText": [
+    "Migraine is a common disorder and a frequent cause of medical consultation in children. Many childhood episodic syndromes have been described as common precursors of migraine.To review current knowledge on migraine and childhood episodic syndromes, and to discuss future directions for research and clinical practice.For most children it is difficult to describe a headache and fully verbalize symptoms such as photophobia and phonophobia that must be inferred from behaviour. Classical migraine features are rare before the age of 6 years, but some migraine-related syndromes have been described. Benign paroxysmal torticollis of infancy, benign paroxysmal vertigo of childhood, cyclic vomiting syndrome and abdominal migraine are currently classified as childhood episodic syndromes, and therefore common precursors of migraine. A strong association between infantile colic and migraine has recently been reported. There are similarities between children with episodic syndromes and children with migraine, regarding social and demographic factors, precipitating and relieving factors, and accompanying gastrointestinal, neurologic, and vasomotor features. The real pathophysiological mechanisms of migraine are not fully understood. Current data obtained through molecular and functional studies provide a complex model in which vascular and neurologic events cooperate in the pathogenesis of migraine attacks. Genetic factors causing disturbances in neuronal ion channels, make a migraineur more sensitive to multiple trigger factors that activate the nociception cascade. The expanding knowledge on migraine genetics and pathophysiology may be applicable to childhood episodic syndromes. Migraine preventive strategies are particularly important in children, and could be beneficial in childhood episodic syndromes. Nonspecific analgesics like ibuprofen and acetaminophen are widely used in pediatrics to control pain and have been found to be effective also in the treatment of acute migraine attacks. Triptans are the specific fist-line drugs for acute migraine treatment.Migraine phenotype differs somewhat in the developing brain, and childhood episodic syndromes may arise before typical migraine headache. Diagnosing pediatric migraine may be difficult because of children's language and cognitive abilities. The risk of underestimating migraine in pediatric age is high. An adequate diagnosis is important to maintain a good quality of life and to avoid inappropriate therapy."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Luigi Sacco Hospital, Università degli Studi di Milano, Milan, Italy. danielespiri@libero.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vomiting"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diagnosis, Differential"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13052-014-0092-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4239406"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4239406?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-01-12"
+  ],
+  "dateOfCreation": [
+    "2015-05-01"
+  ],
+  "firstIndexDate": [
+    "2015-05-02"
+  ],
+  "fullTextReceivedDate": [
+    "2014-11-23"
+  ],
+  "dateOfRevision": [
+    "2015-05-04"
+  ],
+  "electronicPublicationDate": [
+    "2014-11-19"
+  ],
+  "firstPublicationDate": [
+    "2014-11-19"
+  ]
+}

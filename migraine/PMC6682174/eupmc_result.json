@@ -1,0 +1,294 @@
+{
+  "id": [
+    "31534343"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31534343"
+  ],
+  "pmcid": [
+    "PMC6682174"
+  ],
+  "doi": [
+    "10.2147/JMDH.S175713"
+  ],
+  "title": [
+    "Growth in CHARGE syndrome: optimizing care with a multidisciplinary approach."
+  ],
+  "authorString": [
+    "Dijk DR, Bocca G, van Ravenswaaij-Arts CM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dijk DR"
+          ],
+          "firstName": [
+            "Dieuwerke R"
+          ],
+          "lastName": [
+            "Dijk"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "affiliation": [
+            "Department of Genetics, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Bocca G"
+          ],
+          "firstName": [
+            "Gianni"
+          ],
+          "lastName": [
+            "Bocca"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Beatrix Children's Hospital, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Ravenswaaij-Arts CM"
+          ],
+          "firstName": [
+            "Conny M"
+          ],
+          "lastName": [
+            "van Ravenswaaij-Arts"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Department of Genetics, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2762078"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of multidisciplinary healthcare"
+          ],
+          "ISOAbbreviation": [
+            "J Multidiscip Healthc"
+          ],
+          "medlineAbbreviation": [
+            "J Multidiscip Healthc"
+          ],
+          "NLMid": [
+            "101512691"
+          ],
+          "ISSN": [
+            "1178-2390"
+          ],
+          "ESSN": [
+            "1178-2390"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "607-620"
+  ],
+  "abstractText": [
+    "CHARGE (Coloboma of the eye, Heart defects, Atresia of the choanae, Retardation of growth and/or development, Genital hypoplasia, Ear anomalies including hearing loss) syndrome is a rare syndrome with an incidence of approximately 1:15,000 newborns. It is caused by pathogenic variants in the CHD7 gene and clinically characterized by a wide range of anomalies with variable expression. Growth retardation affects 60-72% of children with CHARGE syndrome, making it one of the most prominent medical issues in the syndrome. Growth retardation in CHARGE syndrome is thought to be multifactorial and can be influenced by almost all co-morbidities, requiring a multidisciplinary approach to the different medical problems. In this systematic review, we describe what is currently known about growth in CHARGE syndrome and how it is influenced by commonly seen clinical problems including feeding difficulties, hypogonadotropic hypogonadism and growth hormone deficiency. Furthermore, we provide recommendations for a multidisciplinary approach."
+  ],
+  "affiliation": [
+    "Department of Genetics, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Growth",
+        "Short Stature",
+        "Multidisciplinary",
+        "Charge Syndrome",
+        "Hypogonadotropic Hypogonadism"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/JMDH.S175713"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6682174"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6682174?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "omim"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-09-20"
+  ],
+  "firstIndexDate": [
+    "2019-09-20"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-23"
+  ],
+  "dateOfRevision": [
+    "2019-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-01"
+  ],
+  "firstPublicationDate": [
+    "2019-08-01"
+  ]
+}

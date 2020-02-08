@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6423905/results/word/frequencies/results.xml">
+  <result title="frequency" word="migraine" count="119"/>
+  <result title="frequency" word="symptoms" count="100"/>
+  <result title="frequency" word="prodromal" count="53"/>
+  <result title="frequency" word="patients" count="48"/>
+  <result title="frequency" word="(%)" count="47"/>
+  <result title="frequency" word="study" count="44"/>
+  <result title="frequency" word="headache" count="43"/>
+  <result title="frequency" word="reported" count="39"/>
+  <result title="frequency" word="children" count="38"/>
+  <result title="frequency" word="pediatric" count="26"/>
+  <result title="frequency" word="sample" count="26"/>
+  <result title="frequency" word="aura" count="25"/>
+  <result title="frequency" word="studies" count="25"/>
+  <result title="frequency" word="&amp;lt;" count="24"/>
+  <result title="frequency" word="./j.-...x" count="24"/>
+  <result title="frequency" word="adult" count="23"/>
+  <result title="frequency" word="Cephalalgia." count="21"/>
+  <result title="frequency" word="changes" count="21"/>
+ </snippets>
+</snippetsTree>

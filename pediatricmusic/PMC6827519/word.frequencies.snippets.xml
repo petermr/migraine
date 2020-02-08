@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="pediatricmusic/PMC6827519/results/word/frequencies/results.xml">
+  <result title="frequency" word="POTS" count="81"/>
+  <result title="frequency" word="pain" count="67"/>
+  <result title="frequency" word="tachycardia" count="58"/>
+  <result title="frequency" word="treatment" count="57"/>
+  <result title="frequency" word="orthostatic" count="55"/>
+  <result title="frequency" word="chronic" count="49"/>
+  <result title="frequency" word="youth" count="49"/>
+  <result title="frequency" word="postural" count="41"/>
+  <result title="frequency" word="patients" count="39"/>
+  <result title="frequency" word="POTSpain" count="38"/>
+  <result title="frequency" word="Pain" count="35"/>
+  <result title="frequency" word="syndrome" count="35"/>
+  <result title="frequency" word="symptoms" count="31"/>
+  <result title="frequency" word="diagnosis" count="23"/>
+  <result title="frequency" word="pediatric" count="23"/>
+  <result title="frequency" word="Children’s" count="22"/>
+  <result title="frequency" word="Clin" count="21"/>
+ </snippets>
+</snippetsTree>

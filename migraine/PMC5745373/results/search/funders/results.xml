@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="University of Rome, [3], 0000 0004 4685 794X grid.415571.3 Royal" exact="Hospital for Sick Children," post="[4], 0000 0004 0433 7727 grid.414016.6 UCSF Headache Center"/>
+ <result pre="0001 2322 6764 grid.13097.3c NIHR-Wellcome Trust King’s Clinical Research Facility," exact="King’s College London," post="[6], [7], 0000 0001 0727 6809 grid.414125.7 Division of"/>
+ <result pre="University, [10], 0000 0004 1936 7697 grid.22072.35 Faculty of Medicine," exact="University of Calgary," post="Alberta Children’s Hospital, [11], 0000 0001 2166 6619 grid.9601.e"/>
+ <result pre="Medicine, [14], 0000 0000 9632 6718 grid.19006.3e The David Geffen" exact="School of Medicine" post="at UCLA, [15], grid.7841.a Department of Pediatrics and Child"/>
+</results>

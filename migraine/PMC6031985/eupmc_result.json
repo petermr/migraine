@@ -1,0 +1,356 @@
+{
+  "id": [
+    "29971980"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29971980"
+  ],
+  "pmcid": [
+    "PMC6031985"
+  ],
+  "doi": [
+    "10.3988/jcn.2018.14.3.393"
+  ],
+  "title": [
+    "Postoperative Transient Neurologic Dysfunction: A Proposal for Pathophysiology."
+  ],
+  "authorString": [
+    "Phi JH, Lee SJ, Kang HS, Kim JE, Kim SK, Cho WS, Lee SY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Phi JH"
+          ],
+          "firstName": [
+            "Ji Hoon"
+          ],
+          "lastName": [
+            "Phi"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Division of Pediatric Neurosurgery, Seoul National University Children's Hospital, Seoul National University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee SJ"
+          ],
+          "firstName": [
+            "Seung Jin"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, Kangwon National University School of Medicine, Chuncheon, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang HS"
+          ],
+          "firstName": [
+            "Hyun Seung"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, Seoul National University Hospital, Seoul National University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim JE"
+          ],
+          "firstName": [
+            "Jeong Eun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, Seoul National University Hospital, Seoul National University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SK"
+          ],
+          "firstName": [
+            "Seung Ki"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "affiliation": [
+            "Division of Pediatric Neurosurgery, Seoul National University Children's Hospital, Seoul National University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho WS"
+          ],
+          "firstName": [
+            "Won Sang"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "WS"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, Seoul National University Hospital, Seoul National University College of Medicine, Seoul, Korea. nsdrcho@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee SY"
+          ],
+          "firstName": [
+            "Seo Young"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "affiliation": [
+            "Department of Neurology, Kangwon National University School of Medicine, Chuncheon, Korea. leeseoyoung@kangwon.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2702525"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical neurology (Seoul, Korea)"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Neurol"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Neurol"
+          ],
+          "NLMid": [
+            "101252374"
+          ],
+          "ISSN": [
+            "1738-6586"
+          ],
+          "ESSN": [
+            "2005-5013"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "393-400"
+  ],
+  "abstractText": [
+    "Sudden neurological deterioration which cannot be explained by structural change, ischemia or seizure is often observed among neurosurgical patients. We aimed to provide new insight into the pathophysiology of postoperative transient neurologic dysfunction.We describe prolonged but fully reversible focal neurologic dysfunction of unknown origin based on the initial evaluation in 8 patients who had received encephalo-duro-arterio-synangiosis for moyamoya disease. We performed brain imaging, including diffusion weighted imaging and perfusion magnetic resonance imaging or single photon emission computed tomography, and electroencephalography (EEG) during the episodes and after resolution of the symptoms.The symptoms consisted of dysarthria, hemiparesis, or hemiparesthesia of limbs contralateral to the operated side. These symptoms developed between 12 hours and 8 days after surgery and lasted between 12 hours and 17 days. Structural imaging did not show any significant interval change compared with the immediate postoperative images. Perfusion imaging showed increased cerebral blood flow in the symptomatic hemisphere. EEG revealed low amplitude arrhythmic slowing in the corresponding hemisphere. Follow-up imaging and EEG after recovery did not show any abnormalities.Transient neurologic dysfunction can occur during the postoperative period of brain surgery. Although this may last more than usual transient ischemic attack or seizure, it eventually resolves regardless of treatment. Based on our observation, we propose that this is the manifestation of the transient cortical depression triggered by mechanical stimulation, analogous to migraine aura associated with cortical spreading depression."
+  ],
+  "affiliation": [
+    "Division of Pediatric Neurosurgery, Seoul National University Children's Hospital, Seoul National University College of Medicine, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Postoperative",
+        "cortical spreading depression",
+        "Moyamoya Disease",
+        "Encephalo-duro-arterio-synangiosis",
+        "Transient Neurologic Dysfunction"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3988/jcn.2018.14.3.393"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6031985"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6031985?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-05"
+  ],
+  "firstIndexDate": [
+    "2018-07-05"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-08"
+  ],
+  "dateOfRevision": [
+    "2018-07-08"
+  ],
+  "firstPublicationDate": [
+    "2018-07-01"
+  ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre=" " exact="Recurrent gastrointestinal" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/p[11]" match="Recurrent gastrointestinal" post=" disorders are defined as episodes of recurrent abdominal pain and/or discomfort, nausea, and/or vo" name="binomial"/>
+ <result pre=" " exact="Abdominal migraine" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/p[11]" match="Abdominal migraine" post=" is an idiopathic condition, which is found mainly in subjects aged between 3 and 10 years of age, " name="binomial"/>
+ <result pre=" " exact="Infantile colic" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/p[11]" match="Infantile colic" post=" affects one infant out of five and is defined as an episode of irritability, agitation, or inconso" name="binomial"/>
+ <result pre=" " exact="Opioid medications" match="Opioid medications" post=" are explicitly discouraged for primary headache disorders because they may potentiate migraine pat" name="binomial"/>
+</results>

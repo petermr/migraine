@@ -1,0 +1,363 @@
+{
+  "id": [
+    "24646454"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24646454"
+  ],
+  "pmcid": [
+    "PMC3978558"
+  ],
+  "doi": [
+    "10.2196/resprot.3041"
+  ],
+  "title": [
+    "A smartphone-based pain management app for adolescents with cancer: establishing system requirements and a pain care algorithm based on literature review, interviews, and consensus."
+  ],
+  "authorString": [
+    "Jibb LA, Stevens BJ, Nathan PC, Seto E, Cafazzo JA, Stinson JN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jibb LA"
+          ],
+          "firstName": [
+            "Lindsay A"
+          ],
+          "lastName": [
+            "Jibb"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6995-2825",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Hospital for Sick Children, Toronto, ON, Canada. lindsay.jibb@utoronto.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Stevens BJ"
+          ],
+          "firstName": [
+            "Bonnie J"
+          ],
+          "lastName": [
+            "Stevens"
+          ],
+          "initials": [
+            "BJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Nathan PC"
+          ],
+          "firstName": [
+            "Paul C"
+          ],
+          "lastName": [
+            "Nathan"
+          ],
+          "initials": [
+            "PC"
+          ]
+        },
+        {
+          "fullName": [
+            "Seto E"
+          ],
+          "firstName": [
+            "Emily"
+          ],
+          "lastName": [
+            "Seto"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Cafazzo JA"
+          ],
+          "firstName": [
+            "Joseph A"
+          ],
+          "lastName": [
+            "Cafazzo"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3114-4440",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stinson JN"
+          ],
+          "firstName": [
+            "Jennifer N"
+          ],
+          "lastName": [
+            "Stinson"
+          ],
+          "initials": [
+            "JN"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3114-4440",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6995-2825",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2110302"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JMIR research protocols"
+          ],
+          "ISOAbbreviation": [
+            "JMIR Res Protoc"
+          ],
+          "medlineAbbreviation": [
+            "JMIR Res Protoc"
+          ],
+          "NLMid": [
+            "101599504"
+          ],
+          "ISSN": [
+            "1929-0748"
+          ],
+          "ESSN": [
+            "1929-0748"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "e15"
+  ],
+  "abstractText": [
+    "BACKGROUND: Pain that occurs both within and outside of the hospital setting is a common and distressing problem for adolescents with cancer. The use of smartphone technology may facilitate rapid, in-the-moment pain support for this population. To ensure the best possible pain management advice is given, evidence-based and expert-vetted care algorithms and system design features, which are designed using user-centered methods, are required. OBJECTIVE: To develop the decision algorithm and system requirements that will inform the pain management advice provided by a real-time smartphone-based pain management app for adolescents with cancer. METHODS: A systematic approach to algorithm development and system design was utilized. Initially, a comprehensive literature review was undertaken to understand the current body of knowledge pertaining to pediatric cancer pain management. A user-centered approach to development was used as the results of the review were disseminated to 15 international experts (clinicians, scientists, and a consumer) in pediatric pain, pediatric oncology and mHealth design, who participated in a 2-day consensus conference. This conference used nominal group technique to develop consensus on important pain inputs, pain management advice, and system design requirements. Using data generated at the conference, a prototype algorithm was developed. Iterative qualitative testing was conducted with adolescents with cancer, as well as pediatric oncology and pain health care providers to vet and refine the developed algorithm and system requirements for the real-time smartphone app. RESULTS: The systematic literature review established the current state of research related to nonpharmacological pediatric cancer pain management. The 2-day consensus conference established which clinically important pain inputs by adolescents would require action (pain management advice) from the app, the appropriate advice the app should provide to adolescents in pain, and the functional requirements of the app. These results were used to build a detailed prototype algorithm capable of providing adolescents with pain management support based on their individual pain. Analysis of qualitative interviews with 9 multidisciplinary health care professionals and 10 adolescents resulted in 4 themes that helped to adapt the algorithm and requirements to the needs of adolescents. Specifically, themes were overall endorsement of the system, the need for a clinical expert, the need to individualize the system, and changes to the algorithm to improve potential clinical effectiveness. CONCLUSIONS: This study used a phased and user-centered approach to develop a pain management algorithm for adolescents with cancer and the system requirements of an associated app. The smartphone software is currently being created and subsequent work will focus on the usability, feasibility, and effectiveness testing of the app for adolescents with cancer pain."
+  ],
+  "affiliation": [
+    "Hospital for Sick Children, Toronto, ON, Canada. lindsay.jibb@utoronto.ca."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neoplasms",
+        "Pain",
+        "Adolescent",
+        "Cellular Phone",
+        "Algorithms"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24646454/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2196/resprot.3041"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3978558"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "24"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-03-20"
+  ],
+  "dateOfCreation": [
+    "2014-03-20"
+  ],
+  "firstIndexDate": [
+    "2014-03-21"
+  ],
+  "fullTextReceivedDate": [
+    "2014-04-10"
+  ],
+  "dateOfRevision": [
+    "2014-04-09"
+  ],
+  "electronicPublicationDate": [
+    "2014-03-19"
+  ],
+  "firstPublicationDate": [
+    "2014-03-19"
+  ]
+}

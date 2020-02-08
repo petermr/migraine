@@ -1,0 +1,472 @@
+{
+  "id": [
+    "28674681"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28674681"
+  ],
+  "pmcid": [
+    "PMC5474682"
+  ],
+  "doi": [
+    "10.3389/fped.2017.00121"
+  ],
+  "title": [
+    "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Diagnosis and Management in Young People: A Primer."
+  ],
+  "authorString": [
+    "Rowe PC, Underhill RA, Friedman KJ, Gurwitt A, Medow MS, Schwartz MS, Speight N, Stewart JM, Vallings R, Rowe KS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rowe PC"
+          ],
+          "firstName": [
+            "Peter C"
+          ],
+          "lastName": [
+            "Rowe"
+          ],
+          "initials": [
+            "PC"
+          ],
+          "affiliation": [
+            "Division of General Pediatrics and Adolescent Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Underhill RA"
+          ],
+          "firstName": [
+            "Rosemary A"
+          ],
+          "lastName": [
+            "Underhill"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Independent Researcher, Palm Coast, FL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Friedman KJ"
+          ],
+          "firstName": [
+            "Kenneth J"
+          ],
+          "lastName": [
+            "Friedman"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "affiliation": [
+            "Pharmacology and Physiology, New Jersey Medical School, Newark, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Gurwitt A"
+          ],
+          "firstName": [
+            "Alan"
+          ],
+          "lastName": [
+            "Gurwitt"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Yale Child Study Center, Harvard Medical School, University of Connecticut School of Medicine, Newton Highlands, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Medow MS"
+          ],
+          "firstName": [
+            "Marvin S"
+          ],
+          "lastName": [
+            "Medow"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Division of Pediatric Gastroenterology, Hepatology and Nutrition, New York Medical College, Valhalla, NY, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Schwartz MS"
+          ],
+          "firstName": [
+            "Malcolm S"
+          ],
+          "lastName": [
+            "Schwartz"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Drexel University College of Medicine, Philadelphia, PA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Speight N"
+          ],
+          "firstName": [
+            "Nigel"
+          ],
+          "lastName": [
+            "Speight"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Paediatrician, Durham, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Stewart JM"
+          ],
+          "firstName": [
+            "Julian M"
+          ],
+          "lastName": [
+            "Stewart"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Division of Pediatric Cardiology, New York Medical College, Valhalla, NY, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Vallings R"
+          ],
+          "firstName": [
+            "Rosamund"
+          ],
+          "lastName": [
+            "Vallings"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Primary Care/Chronic Fatigue Syndrome Clinic, Howick Health and Medical, Auckland, New Zealand."
+          ]
+        },
+        {
+          "fullName": [
+            "Rowe KS"
+          ],
+          "firstName": [
+            "Katherine S"
+          ],
+          "lastName": [
+            "Rowe"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "Department of General Medicine, Royal Children's Hospital, Murdoch Children's Research Institute, Melbourne, VIC, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2550589"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Front Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Front Pediatr"
+          ],
+          "NLMid": [
+            "101615492"
+          ],
+          "ISSN": [
+            "2296-2360"
+          ],
+          "ESSN": [
+            "2296-2360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "121"
+  ],
+  "abstractText": [
+    "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a complex disease that affects children and adolescents as well as adults. The etiology has not been established. While many pediatricians and other health-care providers are aware of ME/CFS, they often lack essential knowledge that is necessary for diagnosis and treatment. Many young patients experience symptoms for years before receiving a diagnosis. This primer, written by the International Writing Group for Pediatric ME/CFS, provides information necessary to understand, diagnose, and manage the symptoms of ME/CFS in children and adolescents. ME/CFS is characterized by overwhelming fatigue with a substantial loss of physical and mental stamina. Cardinal features are malaise and a worsening of symptoms following minimal physical or mental exertion. These post-exertional symptoms can persist for hours, days, or weeks and are not relieved by rest or sleep. Other symptoms include cognitive problems, unrefreshing or disturbed sleep, generalized or localized pain, lightheadedness, and additional symptoms in multiple organ systems. While some young patients can attend school, on a full or part-time basis, many others are wheelchair dependent, housebound, or bedbound. Prevalence estimates for pediatric ME/CFS vary from 0.1 to 0.5%. Because there is no diagnostic test for ME/CFS, diagnosis is purely clinical, based on the history and the exclusion of other fatiguing illnesses by physical examination and medical testing. Co-existing medical conditions including orthostatic intolerance (OI) are common. Successful management is based on determining the optimum balance of rest and activity to help prevent post-exertional symptom worsening. Medications are helpful to treat pain, insomnia, OI and other symptoms. The published literature on ME/CFS and specifically that describing the diagnosis and management of pediatric ME/CFS is very limited. Where published studies are lacking, recommendations are based on the clinical observations and practices of the authors."
+  ],
+  "affiliation": [
+    "Division of General Pediatrics and Adolescent Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HL112736"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL134674"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL074873"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 NS094644"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Management",
+        "Diagnosis",
+        "Adolescent",
+        "Pediatric",
+        "Chronic fatigue Syndrome",
+        "Joint Hypermobility",
+        "Postural Tachycardia Syndrome",
+        "Myalgic Encephalomyelitis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fped.2017.00121"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5474682"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5474682?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-07-05"
+  ],
+  "firstIndexDate": [
+    "2017-07-04"
+  ],
+  "fullTextReceivedDate": [
+    "2017-07-07"
+  ],
+  "dateOfRevision": [
+    "2019-02-20"
+  ],
+  "electronicPublicationDate": [
+    "2017-06-19"
+  ],
+  "firstPublicationDate": [
+    "2017-06-19"
+  ]
+}

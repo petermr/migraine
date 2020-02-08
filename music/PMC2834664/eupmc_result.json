@@ -1,0 +1,637 @@
+{
+  "id": [
+    "20144204"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20144204"
+  ],
+  "pmcid": [
+    "PMC2834664"
+  ],
+  "doi": [
+    "10.1186/1471-2377-10-12"
+  ],
+  "title": [
+    "The association between use of electronic media and prevalence of headache in adolescents: results from a population-based cross-sectional study."
+  ],
+  "authorString": [
+    "Milde-Busch A, von Kries R, Thomas S, Heinrich S, Straube A, Radon K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Milde-Busch A"
+          ],
+          "firstName": [
+            "Astrid"
+          ],
+          "lastName": [
+            "Milde-Busch"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "von Kries R"
+          ],
+          "firstName": [
+            "Rüdiger"
+          ],
+          "lastName": [
+            "von Kries"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Thomas S"
+          ],
+          "firstName": [
+            "Silke"
+          ],
+          "lastName": [
+            "Thomas"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Heinrich S"
+          ],
+          "firstName": [
+            "Sabine"
+          ],
+          "lastName": [
+            "Heinrich"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Straube A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Straube"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Radon K"
+          ],
+          "firstName": [
+            "Katja"
+          ],
+          "lastName": [
+            "Radon"
+          ],
+          "initials": [
+            "K"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "1690452"
+      ],
+      "dateOfPublication": [
+        "2010 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neurology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurol"
+          ],
+          "NLMid": [
+            "100968555"
+          ],
+          "ISSN": [
+            "1471-2377"
+          ],
+          "ESSN": [
+            "1471-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "12"
+  ],
+  "abstractText": [
+    "BACKGROUND: Use of electronic media, i.e. mobile phones, computers, television, game consoles or listening to music, is very common, especially amongst adolescents. There is currently a debate about whether frequent use of these media might have adverse effects on health, especially on headaches, which are among the most-reported health complaints in adolescents. The aim of the present study was to assess associations between frequent use of electronic media and the prevalence of different types of headache in adolescents. METHODS: Data were derived from a population-based sample (n = 1,025, ages 13-17 years). Type of headache (i.e. migraine, tension-type headache, unclassifiable headache) was ascertained by standardized questionnaires for subjects reporting headache episodes at least once per month during the last six months. Duration of electronic media use was assessed during personal interviews. Associations were estimated with logistic regression models adjusted for age group, sex, family condition and socio-economic status. RESULTS: Most of the adolescents used computers (85%), watched television (90%) or listened to music (90%) daily, otherwise only 23% of the participants used their mobile phones and only 25% played with game consoles on a daily basis. A statistically significant association between listening to music and any headache (odds ratio 1.8; 95% confidence interval 1.1-3.1 for 30 minutes per day, 2.1; 1.2-3.7 for 1 to 2 hours per day; 2.0; 1.2-3.5 for 3 hours and longer listening to music per day) was observed. When stratifying for type of headache, no statistically significant association was seen. CONCLUSIONS: Apart from an association between listening to music on a daily basis and overall headache, no consistent associations between the use of electronic media and different types of headache were observed."
+  ],
+  "affiliation": [
+    "Institute of Social Paediatrics and Adolescent Medicine, Ludwig-Maximilians-University Munich, Heiglhofstrasse 63, 81377 Munich, Germany. Astrid.Milde-Busch@med.uni-muenchen.de"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Questionnaires"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Logistic Models"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Odds Ratio"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Family"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Age Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sex Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Electronics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Socioeconomic Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Music"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germany"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interviews as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MP3-Player"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20144204/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1471-2377-10-12.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2377/10/12"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2377/10/12/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20144204/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2377-10-12"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2834664"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2834664?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-05-05"
+  ],
+  "dateOfCreation": [
+    "2010-03-09"
+  ],
+  "firstIndexDate": [
+    "2010-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-17"
+  ],
+  "dateOfRevision": [
+    "2013-05-30"
+  ],
+  "electronicPublicationDate": [
+    "2010-02-09"
+  ],
+  "firstPublicationDate": [
+    "2010-02-09"
+  ]
+}

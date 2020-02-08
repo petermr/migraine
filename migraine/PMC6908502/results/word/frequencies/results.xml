@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="headache" count="16"/>
+ <result title="frequency" word="children" count="13"/>
+ <result title="frequency" word="clinical" count="9"/>
+ <result title="frequency" word="pediatric" count="9"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="treatment" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="headaches" count="7"/>
+ <result title="frequency" word="studies" count="7"/>
+ <result title="frequency" word="Headache" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="migraine" count="6"/>
+ <result title="frequency" word="Research" count="5"/>
+ <result title="frequency" word="Topic" count="5"/>
+ <result title="frequency" word="adolescents" count="5"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="children," count="5"/>
+ <result title="frequency" word="common" count="5"/>
+ <result title="frequency" word="migraine," count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="al.;" count="4"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="brain" count="4"/>
+ <result title="frequency" word="childhood" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="different" count="4"/>
+ <result title="frequency" word="disorders" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="headaches," count="4"/>
+ <result title="frequency" word="important" count="4"/>
+ <result title="frequency" word="presentation" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+</results>

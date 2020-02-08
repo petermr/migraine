@@ -1,0 +1,186 @@
+{
+  "id": [
+    "PMC4768436"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC4768436"
+  ],
+  "title": [
+    "POSTERS."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "58"
+      ],
+      "journalIssueId": [
+        "2384872"
+      ],
+      "dateOfPublication": [
+        "2016 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian Journal of Psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Psychiatry"
+          ],
+          "NLMid": [
+            "0013255"
+          ],
+          "ISSN": [
+            "0019-5545"
+          ],
+          "ESSN": [
+            "1998-3794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "S122-S164"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768436/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4768436"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-03-11"
+  ],
+  "firstIndexDate": [
+    "2016-03-11"
+  ],
+  "fullTextReceivedDate": [
+    "2016-03-11"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "firstPublicationDate": [
+    "2016-01-01"
+  ]
+}

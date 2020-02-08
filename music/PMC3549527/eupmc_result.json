@@ -1,0 +1,387 @@
+{
+  "id": [
+    "23346052"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23346052"
+  ],
+  "pmcid": [
+    "PMC3549527"
+  ],
+  "doi": [
+    "10.3389/fnhum.2012.00341"
+  ],
+  "title": [
+    "DBS in the basolateral amygdala improves symptoms of autism and related self-injurious behavior: a case report and hypothesis on the pathogenesis of the disorder."
+  ],
+  "authorString": [
+    "Sturm V, Fricke O, Bührle CP, Lenartz D, Maarouf M, Treuer H, Mai JK, Lehmkuhl G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sturm V"
+          ],
+          "firstName": [
+            "Volker"
+          ],
+          "lastName": [
+            "Sturm"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Stereotactic and Functional Neurosurgery, University of Cologne Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Fricke O"
+          ],
+          "firstName": [
+            "Oliver"
+          ],
+          "lastName": [
+            "Fricke"
+          ],
+          "initials": [
+            "O"
+          ]
+        },
+        {
+          "fullName": [
+            "Bührle CP"
+          ],
+          "firstName": [
+            "Christian P"
+          ],
+          "lastName": [
+            "Bührle"
+          ],
+          "initials": [
+            "CP"
+          ]
+        },
+        {
+          "fullName": [
+            "Lenartz D"
+          ],
+          "firstName": [
+            "Doris"
+          ],
+          "lastName": [
+            "Lenartz"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Maarouf M"
+          ],
+          "firstName": [
+            "Mohammad"
+          ],
+          "lastName": [
+            "Maarouf"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Treuer H"
+          ],
+          "firstName": [
+            "Harald"
+          ],
+          "lastName": [
+            "Treuer"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Mai JK"
+          ],
+          "firstName": [
+            "Jürgen K"
+          ],
+          "lastName": [
+            "Mai"
+          ],
+          "initials": [
+            "JK"
+          ]
+        },
+        {
+          "fullName": [
+            "Lehmkuhl G"
+          ],
+          "firstName": [
+            "Gerd"
+          ],
+          "lastName": [
+            "Lehmkuhl"
+          ],
+          "initials": [
+            "G"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "1907410"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "341"
+  ],
+  "abstractText": [
+    "We treated a 13-year-old boy for life-threatening self-injurious behavior (SIB) and severe Kanner's autism with deep brain stimulation (DBS) in the amygdaloid complex as well as in the supra-amygdaloid projection system. Two DBS-electrodes were placed in both structures of each hemisphere. The stimulation contacts targeted the paralaminar, the basolateral (BL), the central amygdala as well as the supra-amygdaloid projection system. DBS was applied to each of these structures, but only stimulation of the BL part proved effective in improving SIB and core symptoms of the autism spectrum in the emotional, social, and even cognitive domains over a follow up of now 24 months. These results, which have been gained for the first time in a patient, support hypotheses, according to which the amygdala may be pivotal in the pathogeneses of autism and point to the special relevance of the BL part."
+  ],
+  "affiliation": [
+    "Department of Stereotactic and Functional Neurosurgery, University of Cologne Cologne, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Amygdala",
+        "Deep brain stimulation",
+        "Autism",
+        "Self-injurious Behavior"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23346052/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23346052/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2012.00341"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3549527"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3549527?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "33"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-07-04"
+  ],
+  "dateOfCreation": [
+    "2013-01-25"
+  ],
+  "firstIndexDate": [
+    "2013-01-26"
+  ],
+  "fullTextReceivedDate": [
+    "2013-01-30"
+  ],
+  "dateOfRevision": [
+    "2019-02-26"
+  ],
+  "electronicPublicationDate": [
+    "2013-01-21"
+  ],
+  "firstPublicationDate": [
+    "2012-01-01"
+  ]
+}

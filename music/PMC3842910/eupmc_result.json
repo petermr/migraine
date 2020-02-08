@@ -1,0 +1,325 @@
+{
+  "id": [
+    "24348358"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24348358"
+  ],
+  "pmcid": [
+    "PMC3842910"
+  ],
+  "doi": [
+    "10.3389/fnhum.2013.00755"
+  ],
+  "title": [
+    "Facets and mechanisms of adaptive pain behavior: predictive regulation and action."
+  ],
+  "authorString": [
+    "Morrison I, Perini I, Dunham J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Morrison I"
+          ],
+          "firstName": [
+            "India"
+          ],
+          "lastName": [
+            "Morrison"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "1Department of Clinical Neurophysiology, Sahlgrenska University Hospital Gothenburg, Sweden ; 2Institute of Neuroscience and Physiology, University of Gothenburg Gothenburg, Sweden ; 3Department of Cognitive Neuroscience and Philosophy, University of Skövde Skövde, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Perini I"
+          ],
+          "firstName": [
+            "Irene"
+          ],
+          "lastName": [
+            "Perini"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "1Department of Clinical Neurophysiology, Sahlgrenska University Hospital Gothenburg, Sweden ; 2Institute of Neuroscience and Physiology, University of Gothenburg Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Dunham J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Dunham"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1Department of Clinical Neurophysiology, Sahlgrenska University Hospital Gothenburg, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2004142"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "755"
+  ],
+  "abstractText": [
+    "Neural mechanisms underlying nociception and pain perception are considered to serve the ultimate goal of limiting tissue damage. However, since pain usually occurs in complex environments and situations that call for elaborate control over behavior, simple avoidance is insufficient to explain a range of mammalian pain responses, especially in the presence of competing goals. In this integrative review we propose a Predictive Regulation and Action (PRA) model of acute pain processing. It emphasizes evidence that the nervous system is organized to anticipate potential pain and to adjust behavior before the risk of tissue damage becomes critical. Regulatory processes occur on many levels, and can be dynamically influenced by local interactions or by modulation from other brain areas in the network. The PRA model centers on neural substrates supporting the predictive nature of pain processing, as well as on finely-calibrated yet versatile regulatory processes that ultimately affect behavior. We outline several operational categories of pain behavior, from spinally-mediated reflexes to adaptive voluntary action, situated at various neural levels. An implication is that neural processes that track potential tissue damage in terms of behavioral consequences are an integral part of pain perception."
+  ],
+  "affiliation": [
+    "1Department of Clinical Neurophysiology, Sahlgrenska University Hospital Gothenburg, Sweden ; 2Institute of Neuroscience and Physiology, University of Gothenburg Gothenburg, Sweden ; 3Department of Cognitive Neuroscience and Philosophy, University of Skövde Skövde, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pain",
+        "Nociception",
+        "action",
+        "Allostasis",
+        "Predictive Regulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24348358/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24348358/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2013.00755"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3842910"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3842910?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "24"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-24"
+  ],
+  "dateOfCreation": [
+    "2013-12-18"
+  ],
+  "firstIndexDate": [
+    "2013-12-26"
+  ],
+  "fullTextReceivedDate": [
+    "2013-12-15"
+  ],
+  "dateOfRevision": [
+    "2014-06-24"
+  ],
+  "electronicPublicationDate": [
+    "2013-11-28"
+  ],
+  "firstPublicationDate": [
+    "2013-11-28"
+  ]
+}

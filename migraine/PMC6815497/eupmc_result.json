@@ -1,0 +1,472 @@
+{
+  "id": [
+    "31692884"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31692884"
+  ],
+  "pmcid": [
+    "PMC6815497"
+  ],
+  "doi": [
+    "10.11604/pamj.2019.33.286.17978"
+  ],
+  "title": [
+    "Catamenial cyclic vomiting syndrome responding to oestrogen therapy: an adolescent case report."
+  ],
+  "authorString": [
+    "Hassani MEME, Saad B, Mounir M, Kouach J, Rahali DM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hassani MEME"
+          ],
+          "firstName": [
+            "Moulay El Mehdi El"
+          ],
+          "lastName": [
+            "Hassani"
+          ],
+          "initials": [
+            "MEME"
+          ],
+          "affiliation": [
+            "Faculté de Médicine et de Pharmacie de Fès, Fès, Maroc."
+          ]
+        },
+        {
+          "fullName": [
+            "Saad B"
+          ],
+          "firstName": [
+            "Benali"
+          ],
+          "lastName": [
+            "Saad"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Service Gynécologie Obstétrique, Hôpital Militaire d'Instruction Mohamed V, Rabat, Maroc."
+          ]
+        },
+        {
+          "fullName": [
+            "Mounir M"
+          ],
+          "firstName": [
+            "Moukit"
+          ],
+          "lastName": [
+            "Mounir"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Service Gynécologie Obstétrique, Hôpital Militaire d'Instruction Mohamed V, Rabat, Maroc."
+          ]
+        },
+        {
+          "fullName": [
+            "Kouach J"
+          ],
+          "firstName": [
+            "Jaouad"
+          ],
+          "lastName": [
+            "Kouach"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Service Gynécologie Obstétrique, Hôpital Militaire d'Instruction Mohamed V, Rabat, Maroc."
+          ]
+        },
+        {
+          "fullName": [
+            "Rahali DM"
+          ],
+          "firstName": [
+            "Driss Moussaoui"
+          ],
+          "lastName": [
+            "Rahali"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "Service Gynécologie Obstétrique, Hôpital Militaire d'Instruction Mohamed V, Rabat, Maroc."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "33"
+      ],
+      "journalIssueId": [
+        "2838455"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Pan African medical journal"
+          ],
+          "ISOAbbreviation": [
+            "Pan Afr Med J"
+          ],
+          "medlineAbbreviation": [
+            "Pan Afr Med J"
+          ],
+          "NLMid": [
+            "101517926"
+          ],
+          "ISSN": [
+            "1937-8688"
+          ],
+          "ESSN": [
+            "1937-8688"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "286"
+  ],
+  "abstractText": [
+    "Cyclic vomiting syndrome (CVS) is defined by episodes of vomiting lasting from a few hours to several days, alternating with periods of no symptoms. Various symptoms can be associated with vomiting such as nausea, migraine or abdominal pain. Common triggers of CVS include infection, psychological stress and menstruation. CVS's diagnosis requires exclusion of alternative diseases particularly neurological and gastrointestinal. CVS shares many common features with catamenial migraine including treatment. We herein report a case of CVS in a 16 years old girl characterized by stereotypical vomiting attacks occurring in every menstrual period. Recurrent vomiting episodes began 2 years before admission. Given the negativity of paraclinical exams and the absence of response to different therapeutic approaches as well as the similarity with catamenial migraine, we treated our patient with permenstrual percutaneous oestrogen for six months. The evolution was marked by the disappearance of symptoms within the first month and the absence of their recurrence after treatment cessation during a follow-up of 6 years."
+  ],
+  "affiliation": [
+    "Faculté de Médicine et de Pharmacie de Fès, Fès, Maroc."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vomiting"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Estrogens"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Menstrual Cycle"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Oestrogen",
+        "Cyclic Vomiting Syndrome",
+        "Menstrual Period",
+        "Catamenial Migraine"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Estrogens"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.11604/pamj.2019.33.286.17978"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6815497"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6815497?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-19"
+  ],
+  "dateOfCreation": [
+    "2019-11-07"
+  ],
+  "firstIndexDate": [
+    "2019-11-07"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-06"
+  ],
+  "firstPublicationDate": [
+    "2019-08-06"
+  ]
+}

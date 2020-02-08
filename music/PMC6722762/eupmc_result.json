@@ -1,0 +1,367 @@
+{
+  "id": [
+    "31443139"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31443139"
+  ],
+  "pmcid": [
+    "PMC6722762"
+  ],
+  "doi": [
+    "10.3390/medicina55080452"
+  ],
+  "title": [
+    "Health Benefits of Indoor Cycling: A Systematic Review."
+  ],
+  "authorString": [
+    "Chavarrias M, Carlos-Vivas J, Collado-Mateo D, Pérez-Gómez J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chavarrias M"
+          ],
+          "firstName": [
+            "Manuel"
+          ],
+          "lastName": [
+            "Chavarrias"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Faculty of Sport Science, University of Extremadura, 10003 Cáceres, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Carlos-Vivas J"
+          ],
+          "firstName": [
+            "Jorge"
+          ],
+          "lastName": [
+            "Carlos-Vivas"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6377-9950",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "UCAM Research Center for High Performance Sport, Catholic University of Murcia, 30107 Murcia, Spain. jorge.carlosvivas@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Collado-Mateo D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Collado-Mateo"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5140-465X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Sport Science, University of Extremadura, 10003 Cáceres, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Pérez-Gómez J"
+          ],
+          "firstName": [
+            "Jorge"
+          ],
+          "lastName": [
+            "Pérez-Gómez"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4054-9132",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Sport Science, University of Extremadura, 10003 Cáceres, Spain. jorgepg100@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5140-465X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4054-9132",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6377-9950",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "55"
+      ],
+      "journalIssueId": [
+        "2844583"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicina (Kaunas, Lithuania)"
+          ],
+          "ISOAbbreviation": [
+            "Medicina (Kaunas)"
+          ],
+          "medlineAbbreviation": [
+            "Medicina (Kaunas)"
+          ],
+          "NLMid": [
+            "9425208"
+          ],
+          "ISSN": [
+            "1010-660X"
+          ],
+          "ESSN": [
+            "1648-9144"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Background and Objectives: Indoor cycling is one of the most practiced activities in fitness centers for most people regardless of their physical conditioning level. Several studies have analyzed the effect of indoor cycling on several parameters related to health, such as maximal oxygen consumption, blood pressure, body composition, as well as biochemical markers such as HDL or LDL. However, no study has synthesized all health benefits associated with the indoor cycling practice in the form of a systematic review and established guidelines or recommendations. Therefore, the aim of this manuscript was to conduct a systematic review of published studies about the benefits of indoor cycling training and to establish recommendations for coaches, researchers, and practitioners. Materials and Methods: The PRISMA guidelines were followed to conduct the current systematic review. A systematic search was performed to retrieve relevant published articles until January 2019 using the following keywords: 'indoor cycling', 'indoor bicycle', and 'spinning exercise'. Information about participants, intervention, comparisons, outcomes, and study design (PICOS) was extracted. Results: A total of 300 studies were initially identified. After the revision process, 13 of them were included. The total sample size of the studies was 372 (306 women). Results revealed that indoor cycling may improve aerobic capacity, blood pressure, lipid profile, and body composition. These enhancements may be achieved as standalone intervention or combined with other physical exercises or diet. Conclusions: The combination of indoor cycling and diet is recommended to improve the lipid profile, lose weight, and reduce blood pressure. Furthermore, indoor cycling alone may also enhance aerobic capacity. Given the lack of randomized controlled trials, these conclusions should be taken with caution."
+  ],
+  "affiliation": [
+    "Faculty of Sport Science, University of Extremadura, 10003 Cáceres, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Blood pressure",
+        "body mass index",
+        "Aerobic Capacity",
+        "Indoor Bicycle",
+        "Spinning Exercise"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/medicina55080452"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6722762"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6722762?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-25"
+  ],
+  "firstIndexDate": [
+    "2019-08-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-12"
+  ],
+  "dateOfRevision": [
+    "2019-09-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-08"
+  ],
+  "firstPublicationDate": [
+    "2019-08-08"
+  ]
+}

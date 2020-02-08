@@ -1,0 +1,462 @@
+{
+  "id": [
+    "31354720"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31354720"
+  ],
+  "pmcid": [
+    "PMC6637731"
+  ],
+  "doi": [
+    "10.3389/fimmu.2019.01564"
+  ],
+  "title": [
+    "Immunological Aspects of Approved MS Therapeutics."
+  ],
+  "authorString": [
+    "Rommer PS, Milo R, Han MH, Satyanarayan S, Sellner J, Hauer L, Illes Z, Warnke C, Laurent S, Weber MS, Zhang Y, Stuve O."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rommer PS"
+          ],
+          "firstName": [
+            "Paulus S"
+          ],
+          "lastName": [
+            "Rommer"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "affiliation": [
+            "Department of Neurology, Medical University of Vienna, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Milo R"
+          ],
+          "firstName": [
+            "Ron"
+          ],
+          "lastName": [
+            "Milo"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neurology, Barzilai University Medical Center, Ashkelon, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Han MH"
+          ],
+          "firstName": [
+            "May H"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "affiliation": [
+            "Neuroimmunology Division, Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Satyanarayan S"
+          ],
+          "firstName": [
+            "Sammita"
+          ],
+          "lastName": [
+            "Satyanarayan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Neuroimmunology Division, Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Sellner J"
+          ],
+          "firstName": [
+            "Johann"
+          ],
+          "lastName": [
+            "Sellner"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Neurology, Christian Doppler Medical Center, Paracelsus Medical University, Salzburg, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Hauer L"
+          ],
+          "firstName": [
+            "Larissa"
+          ],
+          "lastName": [
+            "Hauer"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Psychotherapy, and Psychosomatics, Christian Doppler Medical Center, Paracelsus Medical University, Salzburg, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Illes Z"
+          ],
+          "firstName": [
+            "Zsolt"
+          ],
+          "lastName": [
+            "Illes"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Neurology, Odense University Hospital, Odense, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Warnke C"
+          ],
+          "firstName": [
+            "Clemens"
+          ],
+          "lastName": [
+            "Warnke"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Neurology, Medical Faculty, University of Köln, Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Laurent S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Laurent"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology, Medical Faculty, University of Köln, Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Weber MS"
+          ],
+          "firstName": [
+            "Martin S"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Institute of Neuropathology, University Medical Center, Göttingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yinan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurotherapeutics, University of Texas Southwestern Medical Center, Dallas, TX, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Stuve O"
+          ],
+          "firstName": [
+            "Olaf"
+          ],
+          "lastName": [
+            "Stuve"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Neurology, Klinikum Rechts der Isar, Technische Universität, Munich, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777618"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in immunology"
+          ],
+          "ISOAbbreviation": [
+            "Front Immunol"
+          ],
+          "medlineAbbreviation": [
+            "Front Immunol"
+          ],
+          "NLMid": [
+            "101560960"
+          ],
+          "ISSN": [
+            "1664-3224"
+          ],
+          "ESSN": [
+            "1664-3224"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1564"
+  ],
+  "abstractText": [
+    "Multiple sclerosis (MS) is the most common neurological immune-mediated disease leading to disability in young adults. The outcome of the disease is unpredictable, and over time, neurological disabilities accumulate. Interferon beta-1b was the first drug to be approved in the 1990s for relapsing-remitting MS to modulate the course of the disease. Over the past two decades, the treatment landscape has changed tremendously. Currently, more than a dozen drugs representing 1 substances with different mechanisms of action have been approved (interferon beta preparations, glatiramer acetate, fingolimod, siponimod, mitoxantrone, teriflunomide, dimethyl fumarate, cladribine, alemtuzumab, ocrelizumab, and natalizumab). Ocrelizumab was the first medication to be approved for primary progressive MS. The objective of this review is to present the modes of action of these drugs and their effects on the immunopathogenesis of MS. Each agent's clinical development and potential side effects are discussed."
+  ],
+  "affiliation": [
+    "Department of Neurology, Medical University of Vienna, Vienna, Austria."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Monoclonal antibodies",
+        "Immunomodulation",
+        "Multiple sclerosis",
+        "immunosuppression",
+        "Immunotherapeutics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fimmu.2019.01564"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6637731"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6637731?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-30"
+  ],
+  "firstIndexDate": [
+    "2019-07-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-28"
+  ],
+  "dateOfRevision": [
+    "2019-08-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-11"
+  ],
+  "firstPublicationDate": [
+    "2019-07-11"
+  ]
+}

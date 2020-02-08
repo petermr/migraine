@@ -1,0 +1,300 @@
+{
+  "id": [
+    "31617503"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31617503"
+  ],
+  "pmcid": [
+    "PMC6788925"
+  ],
+  "doi": [
+    "10.1055/s-0039-1697774"
+  ],
+  "title": [
+    "Cortical Laminar Necrosis and Migrainous Stroke."
+  ],
+  "authorString": [
+    "Lattanzi S, Rinaldi C, Dobran M, Silvestrini M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lattanzi S"
+          ],
+          "firstName": [
+            "Simona"
+          ],
+          "lastName": [
+            "Lattanzi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Experimental and Clinical Medicine, Neurological Clinic, Marche Polytechnic University, Ancona, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Rinaldi C"
+          ],
+          "firstName": [
+            "Claudia"
+          ],
+          "lastName": [
+            "Rinaldi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Experimental and Clinical Medicine, Neurological Clinic, Marche Polytechnic University, Ancona, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Dobran M"
+          ],
+          "firstName": [
+            "Mauro"
+          ],
+          "lastName": [
+            "Dobran"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Experimental and Clinical Medicine, Clinic of Neurosurgery, Marche Polytechnic University, Ancona, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Silvestrini M"
+          ],
+          "firstName": [
+            "Mauro"
+          ],
+          "lastName": [
+            "Silvestrini"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Experimental and Clinical Medicine, Neurological Clinic, Marche Polytechnic University, Ancona, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2869544"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of neurosciences in rural practice"
+          ],
+          "ISOAbbreviation": [
+            "J Neurosci Rural Pract"
+          ],
+          "medlineAbbreviation": [
+            "J Neurosci Rural Pract"
+          ],
+          "NLMid": [
+            "101533710"
+          ],
+          "ISSN": [
+            "0976-3147"
+          ],
+          "ESSN": [
+            "0976-3155"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "563-564"
+  ],
+  "affiliation": [
+    "Department of Experimental and Clinical Medicine, Neurological Clinic, Marche Polytechnic University, Ancona, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "article-commentary",
+        "Comment",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1055/s-0039-1697774"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6788925"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31616131"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "J Neurosci Rural Pract. 2019 Jul;10(3):559-562"
+          ],
+          "type": [
+            "Comment on"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-17"
+  ],
+  "firstIndexDate": [
+    "2019-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-17"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-11"
+  ],
+  "firstPublicationDate": [
+    "2019-07-01"
+  ]
+}

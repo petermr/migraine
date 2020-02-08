@@ -1,0 +1,286 @@
+{
+  "id": [
+    "30271797"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30271797"
+  ],
+  "pmcid": [
+    "PMC6149123"
+  ],
+  "doi": [
+    "10.4103/jehp.jehp_162_17"
+  ],
+  "title": [
+    "The effect of small group teaching on quality of life in pregnant women with nausea and vomiting: A clinical trial."
+  ],
+  "authorString": [
+    "Kamali Z, Abedian Z, SaberMohammad A, Dehnavi ZM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kamali Z"
+          ],
+          "firstName": [
+            "Zahra"
+          ],
+          "lastName": [
+            "Kamali"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Midwifery, School of Nursing and Midwifery, Mashhad University of Medical Sciences, Mashhad, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Abedian Z"
+          ],
+          "firstName": [
+            "Zahra"
+          ],
+          "lastName": [
+            "Abedian"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Midwifery, School of Nursing and Midwifery, Evidence-Based Care Research Center, Mashhad University of Medical Sciences, Mashhad, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "SaberMohammad A"
+          ],
+          "firstName": [
+            "Ala"
+          ],
+          "lastName": [
+            "SaberMohammad"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Midwifery, School of Nursing and Midwifery, Mashhad University of Medical Sciences, Mashhad, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Dehnavi ZM"
+          ],
+          "firstName": [
+            "Zahra Mohebbi"
+          ],
+          "lastName": [
+            "Dehnavi"
+          ],
+          "initials": [
+            "ZM"
+          ],
+          "affiliation": [
+            "Department of Midwifery, School of Nursing and Midwifery, Esfahan University of Medical Sciences, Esfahan, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2649719"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of education and health promotion"
+          ],
+          "ISOAbbreviation": [
+            "J Educ Health Promot"
+          ],
+          "medlineAbbreviation": [
+            "J Educ Health Promot"
+          ],
+          "NLMid": [
+            "101593794"
+          ],
+          "ISSN": [
+            "2277-9531"
+          ],
+          "ESSN": [
+            "2319-6440"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "112"
+  ],
+  "abstractText": [
+    "INTRODUCTION:Nausea and vomiting in pregnancy is the most common medical complication in the first trimester of pregnancy. That associated with a wide range of physical and mental symptoms for the patient and his family and can affect the quality of life of women's life. In addition, the training to improve knowledge, in adjusting diet and lifestyle, and leading to decrease nausea and vomiting. Due to the positive characteristics of training using the small groups, this study was applied with the objective of \"The effect of small group teaching on quality of life in pregnant women with nausea and vomiting.\" METHODS:This study was applied based on intervention, on 59 nulliparous women with nausea and vomiting who referred to obstetrics ward of selected health and treatment centers in Neishaboor County. The training was presented by a researcher in group intervention in 8 sessions, each 45-30 min in small groups (3 groups 10 members). The control group received routine care. The study instruments (nausea and vomiting of pregnancy quality of life questionnaire) and (modified-PUGE) form. The results were analyzed using the Wilcoxon test, Mann-Whitney, and t-test. RESULTS:Research units were no statistically significant difference of personal data, at the beginning of the study, and before intervention, was not differences between the mean change scores of postpartum stress disorder in two groups (P = 0/192). While the mean quality of life score in the intervention and control groups was statistically significant difference after intervention (P = 0.001). Quality of life score in the intervention group had statistically significant difference before and after the intervention (P = 0.001). CONCLUSION:Training in the intervention group with small group strategies has more effective in comparison to conventional training of nausea and vomiting."
+  ],
+  "affiliation": [
+    "Department of Midwifery, School of Nursing and Midwifery, Mashhad University of Medical Sciences, Mashhad, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Training",
+        "Quality of life",
+        "Vomiting",
+        "Nausea"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/jehp.jehp_162_17"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6149123"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-02"
+  ],
+  "firstIndexDate": [
+    "2018-10-01"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-01"
+  ],
+  "dateOfRevision": [
+    "2018-10-03"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-14"
+  ],
+  "firstPublicationDate": [
+    "2018-09-14"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6946135/results/search/country/results.xml">
+  <result pre="* [1], Department of Radiology, University of Calgary, Calgary AB," exact="Canada" post="[2], Alberta Children’s Hospital (ACHRI), Calgary, AB, Canada [3],"/>
+  <result pre="Calgary AB, Canada [2], Alberta Children’s Hospital (ACHRI), Calgary, AB," exact="Canada" post="[3], Hotchkiss Brain Institute, Calgary, AB, Canada [4], Child"/>
+  <result pre="(ACHRI), Calgary, AB, Canada [3], Hotchkiss Brain Institute, Calgary, AB," exact="Canada" post="[4], Child and Adolescent Imaging Research (CAIR) Program, Calgary,"/>
+  <result pre="[4], Child and Adolescent Imaging Research (CAIR) Program, Calgary, AB," exact="Canada" post="[5], Department of Neuroscience, University of Calgary, Calgary, AB,"/>
+  <result pre="Canada [5], Department of Neuroscience, University of Calgary, Calgary, AB," exact="Canada" post="[6], Department of Pediatrics, University of Calgary, Calgary, AB,"/>
+  <result pre="Canada [6], Department of Pediatrics, University of Calgary, Calgary, AB," exact="Canada" post="[7], Department of Psychiatry, University of Calgary, Calgary, AB,"/>
+  <result pre="Canada [7], Department of Psychiatry, University of Calgary, Calgary, AB," exact="Canada" post="[8], The Mathison Centre for Mental Health Research and"/>
+  <result pre="Mental Health Research and Education, University of Calgary, Calgary, AB," exact="Canada" post="[9], Addictions and Mental Health Strategic Clinical Network, Calgary,"/>
+  <result pre="[9], Addictions and Mental Health Strategic Clinical Network, Calgary, AB," exact="Canada" post="Thompson Benjamin Editor [], University of Waterloo, CANADA Competing"/>
+ </snippets>
+</snippetsTree>

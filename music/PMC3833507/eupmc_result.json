@@ -1,0 +1,287 @@
+{
+  "id": [
+    "24278835"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24278835"
+  ],
+  "pmcid": [
+    "PMC3833507"
+  ],
+  "doi": [
+    "10.7453/gahmj.2012.1.4.011"
+  ],
+  "title": [
+    "Treatment of anxiety and stress with biofeedback."
+  ],
+  "authorString": [
+    "Dunster C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dunster C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Dunster"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Christine Dunster, RN, MA, is staff development manager at St Camillus Care and Rehabilitation Center, Stamford, Connecticut, and offers health coaching when time permits. She was a nurse clinician/educator and coordinator of the Women's Resource Center at Greenwich Hospital's Center for Integrative Medicine when this case report was written; the center closed in September 2011."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2078530"
+      ],
+      "dateOfPublication": [
+        "2012 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Global advances in health and medicine"
+          ],
+          "ISOAbbreviation": [
+            "Glob Adv Health Med"
+          ],
+          "medlineAbbreviation": [
+            "Glob Adv Health Med"
+          ],
+          "NLMid": [
+            "101584936"
+          ],
+          "ISSN": [
+            "2164-957X"
+          ],
+          "ESSN": [
+            "2164-9561"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "76-83"
+  ],
+  "abstractText": [
+    "\"Kate\" is a thin, attractive 50-year-old perimenopausal woman who considers herself \"basically healthy\" but feels she needs help with stress management in her life. She is educated, married, and the mother of 4 children ranging in age from 11 to 22 years. In addition to managing her household, she has a full-time job as an administrative assistant and also works a part-time job from home. She states she needs to do this so the family can \"get back on our feet\" as her husband was unemployed for a number of months and they currently have 2 children in college. In addition, they relocated a year ago to Pittsburgh, Pennsylvania, for her husband's job and now have a higher mortgage payment. \"Family\" is Kate's top priority, but she does not receive much assistance from her husband on the home front and feels \"there is not enough time in a day.\""
+  ],
+  "affiliation": [
+    "Christine Dunster, RN, MA, is staff development manager at St Camillus Care and Rehabilitation Center, Stamford, Connecticut, and offers health coaching when time permits. She was a nurse clinician/educator and coordinator of the Women's Resource Center at Greenwich Hospital's Center for Integrative Medicine when this case report was written; the center closed in September 2011."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stress",
+        "Coherence",
+        "Anxiety",
+        "Biofeedback",
+        "Sleep Disruption"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24278835/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24278835/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7453/gahmj.2012.1.4.011"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3833507"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3833507?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-11-26"
+  ],
+  "dateOfCreation": [
+    "2013-11-27"
+  ],
+  "firstIndexDate": [
+    "2013-11-27"
+  ],
+  "fullTextReceivedDate": [
+    "2013-11-29"
+  ],
+  "dateOfRevision": [
+    "2019-02-26"
+  ],
+  "firstPublicationDate": [
+    "2012-09-01"
+  ]
+}

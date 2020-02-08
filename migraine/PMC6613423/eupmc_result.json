@@ -1,0 +1,252 @@
+{
+  "id": [
+    "31359938"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31359938"
+  ],
+  "pmcid": [
+    "PMC6613423"
+  ],
+  "doi": [
+    "10.4103/aian.AIAN_206_18"
+  ],
+  "title": [
+    "Cranial Autonomic Symptoms, Neck Pain: Challenges in Pediatric Migraine."
+  ],
+  "authorString": [
+    "Haytoglu Z, Herguner MO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Haytoglu Z"
+          ],
+          "firstName": [
+            "Zeliha"
+          ],
+          "lastName": [
+            "Haytoglu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Faculty of Medicine, Cukurova University, Adana, Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Herguner MO"
+          ],
+          "firstName": [
+            "Mihriban Ozlem"
+          ],
+          "lastName": [
+            "Herguner"
+          ],
+          "initials": [
+            "MO"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Division of Pediatric Neurology, Faculty of Medicine, Cukurova University, Adana, Turkey."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2842490"
+      ],
+      "dateOfPublication": [
+        "2019 Jul-Sep"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Annals of Indian Academy of Neurology"
+          ],
+          "ISOAbbreviation": [
+            "Ann Indian Acad Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Ann Indian Acad Neurol"
+          ],
+          "NLMid": [
+            "101273955"
+          ],
+          "ISSN": [
+            "0972-2327"
+          ],
+          "ESSN": [
+            "1998-3549"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "282-285"
+  ],
+  "abstractText": [
+    "Objectives:More than just a headache, migraine attack is a severe, prolonged head pain preceded and/or followed by a constellation of symptoms. Getting a proper diagnosis will be the most challenging step of migraine care. When cranial autonomic symptoms (CASs), and/or neck pain are observed, children are often exposed to advanced tests for additional diseases. The aim of this study was to investigate the frequency of these symptoms in migraine and to compare the clinical characteristics of patients with and without these symptoms. Frequency of the patients that exposed to the additional investigations was searched. Materials and Methods:In this prospective study between February 2016 and March 2017, 170 pediatric patients who were referred to our tertiary teaching hospital with migraine were enrolled. Results:A total of 170 children, 61 male (35.9%) and 109 female (64.1%) were included in the study. CASs were present in 68 patients (40%), single symptom in 31 (45.6%), and multiple symptoms in 37 (54.4%) patients. Of 68 patients with CAS, 24 (35%) patients were referred to allergists and all were tested for inhaler specific IgE and skin tests. Seventy (32.9%) patients had neck pain/stiffness in which 28 (40%) were exposed to radiation. CAS and neck pain were more frequent in patients with frequent attacks (P = 0.04 and P = 0.032, respectively). Neck pain was more frequent in patients with CAS (P = 0.029). Conclusions:It is important for pediatricians and primary care physicians to be aware of the common nature of CASs and neck pain/stiffness in children with migraine to prevent unnecessary procedures. High frequency of migrain attacks was associated with high frequency of CAS and neck pain."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Faculty of Medicine, Cukurova University, Adana, Turkey."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Pediatrics",
+        "Neck Pain",
+        "Cranial Autonomic Symptoms"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/aian.AIAN_206_18"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6613423"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-31"
+  ],
+  "firstIndexDate": [
+    "2019-08-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-31"
+  ],
+  "dateOfRevision": [
+    "2019-08-02"
+  ],
+  "firstPublicationDate": [
+    "2019-07-01"
+  ]
+}

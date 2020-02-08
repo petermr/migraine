@@ -1,0 +1,894 @@
+{
+  "id": [
+    "27020850"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27020850"
+  ],
+  "pmcid": [
+    "PMC4810374"
+  ],
+  "doi": [
+    "10.1038/srep23008"
+  ],
+  "title": [
+    "The impact of acute stress on hormones and cytokines, and how their recovery is affected by music-evoked positive mood."
+  ],
+  "authorString": [
+    "Koelsch S, Boehlig A, Hohenadel M, Nitsche I, Bauer K, Sack U."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Koelsch S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Koelsch"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8714-3404",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological and Medical Psychology, University in Bergen, Jonas Liesvei 91, 5009 Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Boehlig A"
+          ],
+          "firstName": [
+            "Albrecht"
+          ],
+          "lastName": [
+            "Boehlig"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Clinic for gastroenterology and rheumatology, Medical Faculty, University of Leipzig, Liebigstr. 20, 04103 Leipzig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hohenadel M"
+          ],
+          "firstName": [
+            "Maximilian"
+          ],
+          "lastName": [
+            "Hohenadel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Clinical Immunology, Medical Faculty, University of Leipzig, Johannisallee 30, 04103 Leipzig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Nitsche I"
+          ],
+          "firstName": [
+            "Ines"
+          ],
+          "lastName": [
+            "Nitsche"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Institute of Clinical Immunology, Medical Faculty, University of Leipzig, Johannisallee 30, 04103 Leipzig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Bauer K"
+          ],
+          "firstName": [
+            "Katrin"
+          ],
+          "lastName": [
+            "Bauer"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute of Clinical Immunology, Medical Faculty, University of Leipzig, Johannisallee 30, 04103 Leipzig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Sack U"
+          ],
+          "firstName": [
+            "Ulrich"
+          ],
+          "lastName": [
+            "Sack"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7813-0492",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Clinical Immunology, Medical Faculty, University of Leipzig, Johannisallee 30, 04103 Leipzig, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8714-3404",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7813-0492",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2460807"
+      ],
+      "dateOfPublication": [
+        "2016 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "23008"
+  ],
+  "abstractText": [
+    "Stress and recovery from stress significantly affect interactions between the central nervous system, endocrine pathways, and the immune system. However, the influence of acute stress on circulating immune-endocrine mediators in humans is not well known. Using a double-blind, randomized study design, we administered a CO2 stress test to n = 143 participants to identify the effects of acute stress, and recovery from stress, on serum levels of several mediators with immune function (IL-6, TNF-α, leptin, and somatostatin), as well as on noradrenaline, and two hypothalamic-pituitary-adrenal axis hormones (ACTH and cortisol). Moreover, during a 1 h-recovery period, we repeatedly measured these serum parameters, and administered an auditory mood-induction protocol with positive music and a neutral control stimulus. The acute stress elicited increases in noradrenaline, ACTH, cortisol, IL-6, and leptin levels. Noradrenaline and ACTH exhibited the fastest and strongest stress responses, followed by cortisol, IL-6 and leptin. The music intervention was associated with more positive mood, and stronger cortisol responses to the acute stressor in the music group. Our data show that acute (CO2) stress affects endocrine, immune and metabolic functions in humans, and they show that mood plays a causal role in the modulation of responses to acute stress."
+  ],
+  "affiliation": [
+    "Department of Biological and Medical Psychology, University in Bergen, Jonas Liesvei 91, 5009 Bergen, Norway."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carbon Dioxide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Norepinephrine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hydrocortisone"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hormones"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Somatostatin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Leptin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tumor Necrosis Factor-alpha"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interleukin-6"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytokines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress, Psychological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Affect"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sex Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Recovery of Function"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Circadian Rhythm"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Music"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adrenocorticotropic Hormone"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Hormones"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Somatostatin"
+          ],
+          "registryNumber": [
+            "51110-01-1"
+          ]
+        },
+        {
+          "name": [
+            "Cytokines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Tumor Necrosis Factor-alpha"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Interleukin-6"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Leptin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Adrenocorticotropic Hormone"
+          ],
+          "registryNumber": [
+            "9002-60-2"
+          ]
+        },
+        {
+          "name": [
+            "Hydrocortisone"
+          ],
+          "registryNumber": [
+            "WI4X0X7BPJ"
+          ]
+        },
+        {
+          "name": [
+            "Norepinephrine"
+          ],
+          "registryNumber": [
+            "X4W3ENH1CV"
+          ]
+        },
+        {
+          "name": [
+            "Carbon Dioxide"
+          ],
+          "registryNumber": [
+            "142M471B3J"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep23008"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4810374"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4810374?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-02-02"
+  ],
+  "dateOfCreation": [
+    "2016-03-29"
+  ],
+  "firstIndexDate": [
+    "2016-03-30"
+  ],
+  "fullTextReceivedDate": [
+    "2016-04-06"
+  ],
+  "dateOfRevision": [
+    "2017-02-02"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-29"
+  ],
+  "firstPublicationDate": [
+    "2016-03-29"
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": [
+    "25301261"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25301261"
+  ],
+  "pmcid": [
+    "PMC4391049"
+  ],
+  "doi": [
+    "10.1007/s11832-014-0609-9"
+  ],
+  "title": [
+    "Long-term follow-up of thalidomide embryopathy: malformations and development of osteoarthritis in the lower extremities and evaluation of upper extremity function."
+  ],
+  "authorString": [
+    "Ghassemi Jahani SA, Danielson B, Karlsson J, Danielsson AJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ghassemi Jahani SA"
+          ],
+          "firstName": [
+            "Shadi A"
+          ],
+          "lastName": [
+            "Ghassemi Jahani"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Department of Orthopaedics, Sahlgrenska University Hospital, Gothenburg, Sweden, ghasemi.shadi@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Danielson B"
+          ],
+          "firstName": [
+            "Barbro"
+          ],
+          "lastName": [
+            "Danielson"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Karlsson J"
+          ],
+          "firstName": [
+            "Jón"
+          ],
+          "lastName": [
+            "Karlsson"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Danielsson AJ"
+          ],
+          "firstName": [
+            "Aina J"
+          ],
+          "lastName": [
+            "Danielsson"
+          ],
+          "initials": [
+            "AJ"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2218285"
+      ],
+      "dateOfPublication": [
+        "2014 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of children's orthopaedics"
+          ],
+          "ISOAbbreviation": [
+            "J Child Orthop"
+          ],
+          "medlineAbbreviation": [
+            "J Child Orthop"
+          ],
+          "NLMid": [
+            "101313582"
+          ],
+          "ISSN": [
+            "1863-2521"
+          ],
+          "ESSN": [
+            "1863-2548"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "423-433"
+  ],
+  "abstractText": [
+    "Between 1959 and 1962, several children with multiple malformations were born after maternal intake of thalidomide during pregnancy, known as thalidomide embryopathy (TE).The aim of this study was to evaluate the malformations, their long-term effect on the function of the extremities and the development of degenerative osteoarthritis (OA) in the lower extremities.All living persons with TE in Sweden were invited to participate in the study. Thirty-one patients were examined clinically as a part of a multi-disciplinary follow-up programme. Evaluation of upper and lower limb function was performed by validated questionnaires [Disabilities of the Arm, Shoulder and Hand (DASH) and Rheumatoid and Arthritis Outcome Score (RAOS), respectively] and radiographic appearance of lower limbs by the use of spiral computed tomography.Five individuals had severe malformations of the lower limbs and proximal femoral focal deficiency (PFFD), with significantly reduced function as found on the RAOS values. Twenty-seven patients had two fully functional arms and hands, despite the fact that 8% of shoulders, 26% of elbows/forearms and 70% of hands were malformed. Loss of gripping function did not significantly affect the upper extremity function, as measured by the DASH score. Ten patients without major deformities had OA in the hips and 15 in the knees, mostly mild and with no effect on the RAOS value.A wide variety of malformations in the upper and lower limbs was found in the study group. Degenerative changes were found in the hips and the knees but were mostly mild and without major clinical significance. Despite upper limb anomalies that affected the fine motor skills, upper extremity function was not significantly reduced for most individuals. Individuals with PFFD along with major deformities of upper limbs had a reduced function of upper as well as lower limbs."
+  ],
+  "affiliation": [
+    "Department of Orthopaedics, Sahlgrenska University Hospital, Gothenburg, Sweden, ghasemi.shadi@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11832-014-0609-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4391049"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4391049?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-11-05"
+  ],
+  "dateOfCreation": [
+    "2014-11-05"
+  ],
+  "firstIndexDate": [
+    "2014-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2015-04-13"
+  ],
+  "dateOfRevision": [
+    "2017-01-25"
+  ],
+  "electronicPublicationDate": [
+    "2014-10-10"
+  ],
+  "firstPublicationDate": [
+    "2014-10-10"
+  ]
+}

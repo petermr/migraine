@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="pediatricmusic/PMC4080372/results/word/frequencies/results.xml">
+  <result title="frequency" word="Lawson" count="70"/>
+  <result title="frequency" word="father" count="50"/>
+  <result title="frequency" word="Dr." count="43"/>
+  <result title="frequency" word="mother" count="40"/>
+  <result title="frequency" word="Wilkins" count="35"/>
+  <result title="frequency" word="parents" count="35"/>
+  <result title="frequency" word="years" count="33"/>
+  <result title="frequency" word="Baltimore" count="32"/>
+  <result title="frequency" word="family" count="32"/>
+  <result title="frequency" word="school" count="31"/>
+  <result title="frequency" word="medical" count="28"/>
+  <result title="frequency" word="time" count="28"/>
+  <result title="frequency" word="work" count="26"/>
+  <result title="frequency" word="home" count="25"/>
+  <result title="frequency" word="Lawson’s" count="23"/>
+  <result title="frequency" word="did" count="22"/>
+  <result title="frequency" word="came" count="21"/>
+  <result title="frequency" word="took" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,359 @@
+{
+  "id": [
+    "31396147"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31396147"
+  ],
+  "pmcid": [
+    "PMC6664028"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00785"
+  ],
+  "title": [
+    "Ictal Epileptic Headache: When Terminology Is Not a Moot Question."
+  ],
+  "authorString": [
+    "Parisi P, Paolino MC, Raucci U, Della Vecchia N, Belcastro V, Villa MP, Striano P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Parisi P"
+          ],
+          "firstName": [
+            "Pasquale"
+          ],
+          "lastName": [
+            "Parisi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Chair of Pediatrics, Child Neurology, NESMOS Department, Faculty of Medicine and Psychology, Sapienza University, Sant'Andrea Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Paolino MC"
+          ],
+          "firstName": [
+            "Maria Chiara"
+          ],
+          "lastName": [
+            "Paolino"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Chair of Pediatrics, Child Neurology, NESMOS Department, Faculty of Medicine and Psychology, Sapienza University, Sant'Andrea Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Raucci U"
+          ],
+          "firstName": [
+            "Umberto"
+          ],
+          "lastName": [
+            "Raucci"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Pediatric Emergency Department, Bambino Gesù Children's Hospital, IRCCS, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Della Vecchia N"
+          ],
+          "firstName": [
+            "Nicoletta"
+          ],
+          "lastName": [
+            "Della Vecchia"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of Campania Luigi Vanvitelli, Naples, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Belcastro V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Belcastro"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Neurology Unit, Department of Neuroscience, Sant'Anna Hospital, Como, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Villa MP"
+          ],
+          "firstName": [
+            "Maria Pia"
+          ],
+          "lastName": [
+            "Villa"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "Chair of Pediatrics, Child Neurology, NESMOS Department, Faculty of Medicine and Psychology, Sapienza University, Sant'Andrea Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Striano P"
+          ],
+          "firstName": [
+            "Pasquale"
+          ],
+          "lastName": [
+            "Striano"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, Maternal and Child Health, University of Genoa, Genova, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "785"
+  ],
+  "abstractText": [
+    "The relationship between headache and epilepsy is complex and despite the nature of this association is not yet clear. In the last few years, it has been progressively introduced the concept of the \"ictal epileptic headache\" that was included in the recently revised International Classification of Headaches Disorders 3rd edition (ICHD-3-revised). The diagnostic criteria for ictal epileptic headache (IEH) suggested in 2012 were quite restrictive thus leading to the underestimation of this phenomenon. However, these criteria have not yet been included into the ICHD-3 revision published in 2018, thus creating confusion among both, physicians and experts in this field. Here, we highlight the importance to strictly apply the original IEH criteria explaining the reasons through the analysis of the clinical, historical, epidemiological and pathophysiological characteristics of the IEH itself. In addition, we discuss the issues related to the neurophysiopathological link between headache and epilepsy as well as to the classification of these epileptic events as \"autonomic seizure.\""
+  ],
+  "affiliation": [
+    "Chair of Pediatrics, Child Neurology, NESMOS Department, Faculty of Medicine and Psychology, Sapienza University, Sant'Andrea Hospital, Rome, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Epilepsy",
+        "EEG",
+        "Migraine",
+        "Tension-type Headache",
+        "Panayiotopoulos Syndrome",
+        "Autonomic Seizures",
+        "Ictal Epileptic Headache",
+        "Hemicrania Epileptica"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00785"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6664028"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6664028?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-10"
+  ],
+  "firstIndexDate": [
+    "2019-08-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-10"
+  ],
+  "dateOfRevision": [
+    "2019-08-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-23"
+  ],
+  "firstPublicationDate": [
+    "2019-07-23"
+  ]
+}

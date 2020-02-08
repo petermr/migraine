@@ -1,0 +1,243 @@
+{
+  "id": [
+    "26487311"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26487311"
+  ],
+  "pmcid": [
+    "PMC4495518"
+  ],
+  "doi": [
+    "10.3390/ani3010085"
+  ],
+  "title": [
+    "Prevalence and Risk Factors Associated with Musculoskeletal Discomfort in Spay and Neuter Veterinarians."
+  ],
+  "authorString": [
+    "White SC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "White SC"
+          ],
+          "firstName": [
+            "Sara C"
+          ],
+          "lastName": [
+            "White"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "affiliation": [
+            "Spay ASAP Inc., Hartland, VT 05048, USA. swhitevt@mac.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2335264"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Animals : an open access journal from MDPI"
+          ],
+          "ISOAbbreviation": [
+            "Animals (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Animals (Basel)"
+          ],
+          "NLMid": [
+            "101635614"
+          ],
+          "ISSN": [
+            "2076-2615"
+          ],
+          "ESSN": [
+            "2076-2615"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "85-108"
+  ],
+  "abstractText": [
+    "A cross-sectional study to investigate musculoskeletal discomfort (MSD) surveyed 219 veterinarians who currently or previously perform spays and neuters at least 4 hours per week. Participants were asked about the presence and severity of hand and body MSD during the previous month, whether MSD interfered with work or daily activities, whether they attributed their MSD to their spay/neuter work, and whether MSD had ever necessitated absence from work. The period prevalence of MSD was 99.1%, with 76.7% experiencing hand or wrist pain and 98.2% experiencing body pain. Hand discomfort was most commonly reported in the right thumb and/or thumb base (49.8%) and the right wrist (37.9%). Body discomfort was most commonly reported in the lower back (76.7%), shoulders (72.6%), and neck (71.7%). Increasing career length, increasing weekly hours in surgery and decreasing job satisfaction were the work-related factors with the greatest relative contribution accounting for variation in hand pain severity and total pain. Although 94.4% of respondents felt that posture during surgery is important, only 30.6% had received any instruction in posture and positioning for surgery. Future interventions should aim to optimize surgical efficiency, surgeon work schedules, and working environment. Analysis and intervention studies are required to determine further causes of MSD in these veterinarians and develop interventions to prevent MSD."
+  ],
+  "affiliation": [
+    "Spay ASAP Inc., Hartland, VT 05048, USA. swhitevt@mac.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pain",
+        "Ergonomics",
+        "Veterinarian",
+        "Msd",
+        "Neuter",
+        "Spay"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ani3010085"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4495518"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-21"
+  ],
+  "dateOfCreation": [
+    "2015-10-21"
+  ],
+  "firstIndexDate": [
+    "2015-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2015-10-02"
+  ],
+  "dateOfRevision": [
+    "2015-11-05"
+  ],
+  "electronicPublicationDate": [
+    "2013-02-04"
+  ],
+  "firstPublicationDate": [
+    "2013-02-04"
+  ]
+}

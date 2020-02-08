@@ -1,0 +1,1294 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Pediatr Pulmonol</journal-id><journal-id journal-id-type="iso-abbrev">Pediatr. Pulmonol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1099-0496</journal-id><journal-id journal-id-type="publisher-id">PPUL</journal-id><journal-title-group><journal-title>Pediatric Pulmonology</journal-title></journal-title-group><issn pub-type="ppub">8755-6863</issn><issn pub-type="epub">1099-0496</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6771736</article-id><article-id pub-id-type="doi">10.1002/ppul.24442</article-id><article-id pub-id-type="publisher-id">PPUL24442</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Reviews</subject></subj-group></article-categories><title-group><article-title>Treatment of pediatric pulmonary arterial hypertension: A focus on the NO&#x02010;sGC&#x02010;cGMP pathway</article-title><alt-title alt-title-type="left-running-head">BEGHETTI <sc>et al.</sc></alt-title></title-group><contrib-group><contrib id="ppul24442-cr-0001" contrib-type="author" corresp="yes"><name><surname>Beghetti</surname><given-names>Maurice</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1841-0927</contrib-id><xref ref-type="aff" rid="ppul24442-aff-0001">
+<sup>1</sup>
+</xref><address><email>maurice.beghetti@hcuge.ch</email></address></contrib><contrib id="ppul24442-cr-0002" contrib-type="author"><name><surname>Gorenflo</surname><given-names>Matthias</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3326-5959</contrib-id><xref ref-type="aff" rid="ppul24442-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ppul24442-cr-0003" contrib-type="author"><name><surname>Ivy</surname><given-names>D. Dunbar</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2541-3402</contrib-id><xref ref-type="aff" rid="ppul24442-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ppul24442-cr-0004" contrib-type="author"><name><surname>Moledina</surname><given-names>Shahin</given-names></name><degrees>MC ChB</degrees><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0262-2340</contrib-id><xref ref-type="aff" rid="ppul24442-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ppul24442-cr-0005" contrib-type="author"><name><surname>Bonnet</surname><given-names>Damien</given-names></name><degrees>MD, PhD</degrees><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8722-5805</contrib-id><xref ref-type="aff" rid="ppul24442-aff-0005">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="ppul24442-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Pediatric Cardiology Unit and Centre Universitaire de Cardiologie et Chirurgie Cardiaque P&#x000e9;diatrique</named-content>
+<institution>Children's University Hospital</institution>
+<named-content content-type="city">Geneva</named-content>
+<country country="CH">Switzerland</country>
+</aff><aff id="ppul24442-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Pediatrics II, Pediatric Cardiology and Congenital Heart Defects, Center for Pediatrics</named-content>
+<institution>University Hospital Heidelberg</institution>
+<country country="DE">Germany</country>
+</aff><aff id="ppul24442-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Children's Hospital Colorado, Heart Institute</named-content>
+<institution>University of Colorado School of Medicine</institution>
+<named-content content-type="city">Denver</named-content>
+<named-content content-type="country-part">Colorado</named-content>
+</aff><aff id="ppul24442-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Cardiology Department</named-content>
+<institution>Great Ormond Street Hospital for Children NHS Foundation Trust</institution>
+<named-content content-type="city">London</named-content>
+<country country="GB">UK</country>
+</aff><aff id="ppul24442-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">M3C&#x02010;Paediatric Cardiology, Necker Enfants Malades, AP&#x02010;HP</named-content>
+<institution>Universit&#x000e9; Paris Descartes</institution>
+<named-content content-type="city">Paris</named-content>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold> Maurice Beghetti MD, Pediatric Cardiology Unit and Centre Universitaire de Cardiologie et Chirurgie Cardiaque P&#x000e9;diatrique, Children's University Hospital, 6 Rue Willy&#x02010;Donz&#x000e9;, 1211 Geneva 14, Switzerland.<break/>
+Email: <email>maurice.beghetti@hcuge.ch</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>7</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2019</year></pub-date><volume>54</volume><issue>10</issue><issue-id pub-id-type="doi">10.1002/ppul.v54.10</issue-id><fpage>1516</fpage><lpage>1526</lpage><history><date date-type="received"><day>11</day><month>3</month><year>2019</year></date><date date-type="accepted"><day>28</day><month>5</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors Pediatric Pulmonology Published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PPUL-54-1516.pdf"/><abstract><title>Abstract</title><sec id="ppul24442-sec-0010"><title>Objective</title><p>While pulmonary arterial hypertension (PAH) is rare in infants and children, it results in substantial morbidity and mortality. In recent years, prognosis has improved, coinciding with the introduction of new PAH&#x02010;targeted therapies, although much of their use in children is off&#x02010;label. Evidence to guide the treatment of children with PAH is less extensive than for adults. The goal of this review is to discuss the treatment recommendations for children with PAH, as well as the evidence supporting the use of prostanoids, endothelin receptor antagonists (ERAs), and phosphodiesterase type 5 inhibitors (PDE5i) in this setting.</p></sec><sec id="ppul24442-sec-0020"><title>Data Sources</title><p>Nonsystematic PubMed literature search and authors&#x02019; expertise.</p></sec><sec id="ppul24442-sec-0030"><title>Study Selection</title><p>Articles were selected concentrating on the nitric oxide (NO)&#x02010;soluble guanylate cyclase (sGC)&#x02010;cyclic guanosine monophosphate (cGMP) pathway in PAH. The methodology of an ongoing study evaluating the sGC stimulator riociguat in children with PAH is also described.</p></sec><sec id="ppul24442-sec-0040"><title>Results</title><p>Despite recent medical advances, improved therapeutic strategies for pediatric PAH are needed. The efficacy and tolerability of riociguat in adults with PAH have been well trialed.</p></sec><sec id="ppul24442-sec-0050"><title>Conclusion</title><p>The pooling of data across trials, supplemented by registry data, will help to confirm the safety and tolerability of prostanoids, ERAs, and PDE5i in children. Ongoing studies will clarify the place of sGC stimulators in the treatment strategy for pediatric PAH.</p></sec></abstract><kwd-group><kwd id="ppul24442-kwd-0001">PAH</kwd><kwd id="ppul24442-kwd-0002">pediatrics</kwd><kwd id="ppul24442-kwd-0003">riociguat</kwd><kwd id="ppul24442-kwd-0004">sGC stimulators</kwd></kwd-group><funding-group><award-group><funding-source>Bayer AG, Berlin, Germany</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="2"/><page-count count="11"/><word-count count="8112"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ppul24442</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.9 mode:remove_FC converted:01.10.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ppul24442-cit-0111">
+<string-name>
+<surname>Beghetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gorenflo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Moledina</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bonnet</surname>
+<given-names>D.</given-names>
+</string-name>
+<article-title>Treatment of pediatric pulmonary arterial hypertension: a focus on the NO&#x02010;sGC&#x02010;cGMP pathway</article-title>. <source xml:lang="en">Pediatric Pulmonology</source>. <year>2019</year>;<volume>54</volume>:<fpage>1516</fpage>&#x02010;<lpage>1526</lpage>. <pub-id pub-id-type="doi">10.1002/ppul.24442</pub-id>
+<pub-id pub-id-type="pmid">31313530</pub-id></mixed-citation>
+</p></notes></front><body><def-list list-content="abbreviations"><title>Abbreviations</title><def-item><term>6MWD</term><def><p>6&#x02010;Minute walking distance</p></def></def-item><def-item><term>AVT</term><def><p>Acute vasoreactivity testing</p></def></def-item><def-item><term>BNP</term><def><p>Brain natriuretic peptide</p></def></def-item><def-item><term>CCBs</term><def><p>Calcium channel blockers</p></def></def-item><def-item><term>cGMP</term><def><p>Cyclic guanosine monophosphate</p></def></def-item><def-item><term>CHD</term><def><p>Congenital heart disease</p></def></def-item><def-item><term>EMA</term><def><p>European Medicines Agency</p></def></def-item><def-item><term>ERAs</term><def><p>Endothelin receptor antagonists</p></def></def-item><def-item><term>FDA</term><def><p>Food and Drug Administration</p></def></def-item><def-item><term>iPAH</term><def><p>Idiopathic PAH</p></def></def-item><def-item><term>mPAP</term><def><p>Mean pulmonary artery pressure</p></def></def-item><def-item><term>NO</term><def><p>Nitric oxide</p></def></def-item><def-item><term>NT&#x02010;proBNP</term><def><p>
+<italic>N</italic>&#x02010;terminal prohormone of BNP</p></def></def-item><def-item><term>PAH</term><def><p>Pulmonary arterial hypertension</p></def></def-item><def-item><term>PAWP</term><def><p>Pulmonary arterial wedge pressure</p></def></def-item><def-item><term>PDE5i</term><def><p>Phosphodiesterase type 5 inhibitors</p></def></def-item><def-item><term>PDEs</term><def><p>Phosphodiesterases</p></def></def-item><def-item><term>PH</term><def><p>Pulmonary hypertension</p></def></def-item><def-item><term>PVO<sub>2</sub></term><def><p>Peak oxygen consumption</p></def></def-item><def-item><term>PVR</term><def><p>Pulmonary vascular resistance</p></def></def-item><def-item><term>REMS</term><def><p>Risk Evaluation and Mitigation Strategy</p></def></def-item><def-item><term>RHC</term><def><p>Right heart catheterization</p></def></def-item><def-item><term>SAEs</term><def><p>Serious adverse events</p></def></def-item><def-item><term>sGC</term><def><p>Soluble guanylate cyclase</p></def></def-item><def-item><term>tid</term><def><p>Three times daily</p></def></def-item><def-item><term>WHO FC</term><def><p>World Health Organization functional class</p></def></def-item><def-item><term>WSPH</term><def><p>World Symposium on Pulmonary Hypertension</p></def></def-item></def-list><sec id="ppul24442-sec-0060"><label>1</label><title>INTRODUCTION</title><p>Pulmonary hypertension (PH) is a rare condition in infants and children that results in substantial morbidity and mortality.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref> According to international guidelines,<xref rid="ppul24442-bib-0002" ref-type="ref">2</xref> the definition of PH in children (aged&#x02009;&#x02265;&#x02009;3 months), as in adults, is a mean pulmonary artery pressure (mPAP)&#x02009;&#x02265;&#x02009;25 mm Hg. In the current international classification, five broad subgroups of PH are defined: pulmonary arterial hypertension (PAH) (Group 1), PH due to left heart disease (Group 2), PH due to lung diseases and/or hypoxia (Group 3), chronic thromboembolic pulmonary hypertension (Group 4), and PH with unclear and/or multifactorial mechanisms (Group 5).<xref rid="ppul24442-bib-0002" ref-type="ref">2</xref>, <xref rid="ppul24442-bib-0003" ref-type="ref">3</xref> PAH is specifically defined as PH with pulmonary arterial wedge pressure (PAWP)&#x02009;&#x02264;15 mm Hg and pulmonary vascular resistance (PVR)&#x02009;&#x02265;3 Wood units&#x02009;&#x000d7;&#x02009;m<sup>2</sup> (&#x02248;240&#x02009;dyn&#x02009;s&#x02009;cm<sup>&#x02013;5</sup>), in the absence of lung disease and Group 4 or 5 PH.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref>, <xref rid="ppul24442-bib-0002" ref-type="ref">2</xref>, <xref rid="ppul24442-bib-0003" ref-type="ref">3</xref> The 6th World Symposium on Pulmonary Hypertension (WSPH) (2018) proposed an mPAP cutoff of&#x02009;&#x0003e;20&#x02009;mmHg and suggested a new definition for Group 4 to include chronic thromboembolic pulmonary hypertension (CTEPH) and other pulmonary artery obstructions.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref>, <xref rid="ppul24442-bib-0003" ref-type="ref">3</xref>
+</p><sec id="ppul24442-sec-0070"><label>1.1</label><title>Presentation of pediatric PH</title><sec id="ppul24442-sec-0080"><label>1.1.1</label><title>Epidemiology</title><p>The two most common forms of PH in children are PAH (Group 1<xref rid="ppul24442-bib-0003" ref-type="ref">3</xref>), which accounts for the majority of cases, and PH associated with lung disease (Group 3), of which the most common form is bronchopulmonary dysplasia.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref>, <xref rid="ppul24442-bib-0004" ref-type="ref">4</xref>
+</p><p>The most frequent causes of PAH in children are idiopathic (iPAH), heritable gene defects, and congenital heart disease (CHD); however, connective tissue disease, human immunodeficiency virus, drugs, and portopulmonary hypertension are rare causes in pediatric populations.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref>, <xref rid="ppul24442-bib-0004" ref-type="ref">4</xref> The prevalence of iPAH has been determined as 2.1 to 4.4 cases per million children, with an incidence of 0.5 to 1&#x02010;2 cases per million children per year.<xref rid="ppul24442-bib-0005" ref-type="ref">5</xref>, <xref rid="ppul24442-bib-0006" ref-type="ref">6</xref>, <xref rid="ppul24442-bib-0007" ref-type="ref">7</xref>, <xref rid="ppul24442-bib-0008" ref-type="ref">8</xref>, <xref rid="ppul24442-bib-0009" ref-type="ref">9</xref> PAH&#x02010;CHD was more common, comprising 75% of total PAH cases in an American study,<xref rid="ppul24442-bib-0008" ref-type="ref">8</xref> with prevalence of 10.1 to 15.6 cases per million and incidence of 1.9 to 2.2 cases per million per year in European studies.<xref rid="ppul24442-bib-0005" ref-type="ref">5</xref>, <xref rid="ppul24442-bib-0006" ref-type="ref">6</xref>, <xref rid="ppul24442-bib-0007" ref-type="ref">7</xref> Importantly, hospitalizations for pediatric PH are increasing, particularly for children with non&#x02010;CHD&#x02010;related PH.<xref rid="ppul24442-bib-0010" ref-type="ref">10</xref>, <xref rid="ppul24442-bib-0011" ref-type="ref">11</xref>
+</p></sec><sec id="ppul24442-sec-0090"><label>1.1.2</label><title>Diagnosis and assessment</title><p>The diagnosis of PH in children is challenging as the initial symptoms are nonspecific. In infants, these include failure to thrive, tachypnea, and irritability, while in older children, initial symptoms can be exercise intolerance (dyspnea on exertion), with or without chest pain.<xref rid="ppul24442-bib-0012" ref-type="ref">12</xref>, <xref rid="ppul24442-bib-0013" ref-type="ref">13</xref> In more severe disease, cyanosis may also be observed. While various algorithms have been suggested for the diagnosis of PAH in children, none of them is universally accepted, and diagnostic practices vary between centers.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref>, <xref rid="ppul24442-bib-0014" ref-type="ref">14</xref> Infants and young children may be unable to undergo all necessary tests, thus making algorithms difficult to apply. Guidelines recommend pulmonary function testing as well as chest and heart imaging (including echocardiography and chest radiography) for the initial assessment of suspected PH.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref>, <xref rid="ppul24442-bib-0015" ref-type="ref">15</xref> Patients with PH should be referred to a specialist center for further evaluation, including right heart catheterization (RHC). RHC measures hemodynamic parameters, including cardiac output, mPAP, and PAWP, from which further parameters (such as PVR) can be calculated to confirm the diagnosis, provide information on prognosis, and guide the choice of therapy.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref>, <xref rid="ppul24442-bib-0016" ref-type="ref">16</xref>, <xref rid="ppul24442-bib-0017" ref-type="ref">17</xref> Thorough clinical investigation is required to detect all potential causes of PH and diagnose iPAH, as this remains a diagnosis of exclusion.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref>, <xref rid="ppul24442-bib-0014" ref-type="ref">14</xref>, <xref rid="ppul24442-bib-0018" ref-type="ref">18</xref>, <xref rid="ppul24442-bib-0019" ref-type="ref">19</xref>
+</p><p>Biomarkers, such as brain natriuretic peptide (BNP) and <italic>N</italic>&#x02010;terminal prohormone of BNP (NT&#x02010;proBNP), are correlated with hemodynamics and right ventricular function and can be used to assess disease severity and prognosis, and to define treatment goals.<xref rid="ppul24442-bib-0020" ref-type="ref">20</xref>, <xref rid="ppul24442-bib-0021" ref-type="ref">21</xref>, <xref rid="ppul24442-bib-0022" ref-type="ref">22</xref>, <xref rid="ppul24442-bib-0023" ref-type="ref">23</xref> The prognosis of pediatric PAH varies widely depending on etiology, with better survival in iPAH than in associated PAH.<xref rid="ppul24442-bib-0012" ref-type="ref">12</xref>, <xref rid="ppul24442-bib-0024" ref-type="ref">24</xref> For example, the UK Pulmonary Hypertension Service for Children reported 5&#x02010;year survival rates of 71.9% in iPAH and 56.9% in associated PAH.<xref rid="ppul24442-bib-0025" ref-type="ref">25</xref> Patients with CHD whose PAH persists after surgical repair have very poor survival.<xref rid="ppul24442-bib-0024" ref-type="ref">24</xref>, <xref rid="ppul24442-bib-0025" ref-type="ref">25</xref> However, a review of 134 children with CHD found no survival difference between four groups of patients with PAH&#x02010;CHD (Eisenmenger syndrome; left&#x02010;to&#x02010;right shunts; coincidental CHD; postoperative PAH).<xref rid="ppul24442-bib-0026" ref-type="ref">26</xref> Other predictors of survival include World Health Organization functional class (WHO FC), BNP/NT&#x02010;proBNP, mean right atrial pressure, PVR, cardiac index, and response to acute vasoreactivity testing (AVT) (see below).<xref rid="ppul24442-bib-0027" ref-type="ref">27</xref>
+</p></sec></sec><sec id="ppul24442-sec-0100"><label>1.2</label><title>Prognosis</title><p>The reported prognosis of pediatric PAH has improved in recent years, coinciding with the widespread use of new PAH&#x02010;targeted therapies, although few are licensed for use in children. Evidence to guide treatment of children with PAH is less extensive than for adults, partly because of challenges in designing and conducting clinical trials of new therapies in this population. These include strict requirements from regulatory bodies; ethical restrictions; recruitment and retention of patients; creation of suitable formulations for use by children; and selection of suitable endpoints.<xref rid="ppul24442-bib-0028" ref-type="ref">28</xref>, <xref rid="ppul24442-bib-0029" ref-type="ref">29</xref> Innovative trial designs, novel endpoints, and incorporation of technology are likely to be required for the full evaluation of drugs in pediatric populations.<xref rid="ppul24442-bib-0030" ref-type="ref">30</xref>, <xref rid="ppul24442-bib-0031" ref-type="ref">31</xref>
+</p></sec></sec><sec id="ppul24442-sec-0110"><label>2</label><title>CURRENT MANAGEMENT OF PEDIATRIC PAH</title><sec id="ppul24442-sec-0120"><label>2.1</label><title>Guideline recommendations</title><p>An algorithm for the management of PAH in children was developed by the Pediatric Task Force of the 5th World Symposium on Pulmonary Hypertension (WSPH) in 2013 and updated in 2018 following the 6th WSPH.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref>, <xref rid="ppul24442-bib-0032" ref-type="ref">32</xref> The update emphasizes serial reassessment to determine whether patients are reaching treatment goals (Figure <xref rid="ppul24442-fig-0001" ref-type="fig">1</xref>).<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref> The algorithm recommends that supportive therapy, such as diuretics, oxygen, anticoagulation, or digoxin, be considered on an individual basis, although clinical experience suggests that there is limited benefit for children.</p><fig fig-type="Figure" xml:lang="en" id="ppul24442-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>6th WSPH consensus treatment algorithm for the management of pediatric PAH. Reproduced with permission of the ERS 2019. European Respiratory Journal Jan 2019, 53 (1) 1801916; <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1183/13993003.01916-20181">https://doi.org/10.1183/13993003.01916&#x02010;20181</ext-link>. CCB, calcium channel blocker; ERA, endothelin receptor antagonist; iv, intravenous; PAH, pulmonary arterial hypertension; PDE5i, phosphodiesterase type 5 inhibitor; sc, subcutaneous; #patients deteriorating or not meeting treatment goals. [Color figure can be viewed at wileyonlinelibrary.com]</p></caption><graphic id="nlm-graphic-1" xlink:href="PPUL-54-1516-g001"/></fig><p>In AVT, a vasodilator (eg, inhaled nitric oxide; NO) is administered. A decrease in mPAP by&#x02009;&#x02265;10 mm Hg to a value of&#x02009;&#x0003c;40 mmHg with sustained cardiac output (the Sitbon criteria) identifies patients who are likely to have a good long&#x02010;term prognosis when treated with calcium channel blockers (CCBs).<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref> These children should receive long&#x02010;term oral CCBs. Registry data have shown, however, that only 23% of children, judged by their physician to have a positive acute response to AVT, actually received CCBs without additional PAH&#x02010;targeted therapy.<xref rid="ppul24442-bib-0033" ref-type="ref">33</xref> Determination of response to AVT using the Sitbon criteria<xref rid="ppul24442-bib-0034" ref-type="ref">34</xref> is a more reliable predictor of response to CCBs than physician judgment.</p><p>Initiation of PAH&#x02010;targeted therapy is based on the level of risk, with low&#x02010;risk patients receiving an oral endothelin receptor antagonist (ERA) or phosphodiesterase type 5 inhibitor (PDE5i), or an oral or inhaled prostacyclin analog (prostanoid), with a trend toward combining oral therapies in countries where it is possible. High&#x02010;risk patients should receive an injectable prostanoid alone or in combination with other drugs. Early combination therapy, including triple combination therapy, should be considered for high&#x02010;risk patients as has previously been reported in adults.<xref rid="ppul24442-bib-0035" ref-type="ref">35</xref>, <xref rid="ppul24442-bib-0036" ref-type="ref">36</xref> Those who do not respond to medical therapy may require atrial septostomy, a Potts shunt, or lung transplantation. The ultimate goals of treatment are to improve long&#x02010;term outcomes and quality of life. These endpoints are difficult to measure, however, and surrogate endpoints are often used in clinical trials. These include hemodynamic parameters, biomarkers, and exercise capacity.<xref rid="ppul24442-bib-0037" ref-type="ref">37</xref>, <xref rid="ppul24442-bib-0038" ref-type="ref">38</xref>
+</p><p>This review concentrates on the role of the NO&#x02010;soluble guanylate cyclase (sGC)&#x02010;cyclic guanosine monophosphate (cGMP) pathway in PAH, therefore data on prostanoids and ERAs are discussed briefly.</p></sec><sec id="ppul24442-sec-0130"><label>2.2</label><title>Prostanoids</title><p>Endogenous prostacyclin (prostaglandin I<sub>2</sub>) activates prostacyclin receptors in pulmonary vascular smooth muscle cells and other tissues, increasing production of cyclic adenosine monophosphate, which induces pulmonary vasodilation as well as antithrombotic, antiproliferative, antimitogenic, and immunomodulatory effects.<xref rid="ppul24442-bib-0024" ref-type="ref">24</xref>, <xref rid="ppul24442-bib-0039" ref-type="ref">39</xref>, <xref rid="ppul24442-bib-0040" ref-type="ref">40</xref> Prostacyclin levels are reduced in patients with PAH,<xref rid="ppul24442-bib-0041" ref-type="ref">41</xref>, <xref rid="ppul24442-bib-0042" ref-type="ref">42</xref> providing a rationale for treatment with prostacyclin analogs (prostanoids).<xref rid="ppul24442-bib-0043" ref-type="ref">43</xref> In the form of epoprostenol, prostacyclin has been used since the 1980s for treatment of PAH in adults, and several newer prostanoids have since been developed, including treprostinil and iloprost, as well as the nonprostanoid prostacyclin receptor agonist selexipag.</p><p>In an early study in children with PAH, intravenous epoprostenol significantly improved survival in nonresponders to AVT, and in responders who did not improve with the CCB therapy.<xref rid="ppul24442-bib-0044" ref-type="ref">44</xref> Subsequently, a retrospective review indicated that epoprostenol improved the survival of children with severe PAH.<xref rid="ppul24442-bib-0045" ref-type="ref">45</xref> The dosing regulation and delivery of epoprostenol are complex, and therefore alternative agents may be preferable for children. A study in pediatric patients with PAH treated with epoprostenol or treprostinil, indicated that, while hemodynamic improvements are not sustained at 5 years, both drugs improved survival compared with historical controls.<xref rid="ppul24442-bib-0046" ref-type="ref">46</xref> In children with severe PAH, subcutaneous treprostinil has been shown to improve WHO FC, exercise tolerance, and hemodynamic parameters.<xref rid="ppul24442-bib-0047" ref-type="ref">47</xref> Numerous case studies and small trials suggest that inhaled iloprost may have a role in neonates and children with acute PH, although appropriate dosing is unclear.<xref rid="ppul24442-bib-0048" ref-type="ref">48</xref> For example, a study in 22 children with iPAH or PAH&#x02010;CHD found that inhaled iloprost reduced mPAP, but also reduced forced expiratory volume in 1&#x02009;second in some children.<xref rid="ppul24442-bib-0049" ref-type="ref">49</xref>
+</p><p>Several prostanoids or compounds acting on the prostanoid pathway are being evaluated in trials with wholly or partly pediatric cohorts with PAH. These include treprostinil (ClinicalTrials.gov: NCT01027949), iloprost (NCT02825160), and selexipag (NCT03492177), while ralinepag is being evaluated in adults with PAH (NCT02279745, NCT03626688).</p></sec><sec id="ppul24442-sec-0140"><label>2.3</label><title>ERAs</title><p>Endogenous endothelin&#x02010;1 (ET&#x02010;1) acts via endothelin A and B receptors to cause vasoconstriction and promote the proliferation of smooth muscle cells in the pulmonary vasculature.<xref rid="ppul24442-bib-0043" ref-type="ref">43</xref> Endothelin receptors are upregulated in patients with PAH.<xref rid="ppul24442-bib-0050" ref-type="ref">50</xref> ERAs, including bosentan, ambrisentan, and macitentan, act by antagonizing the activity of ET&#x02010;1. Ambrisentan is a selective ET<sub>A</sub> receptor antagonist: macitentan and bosentan are dual ET<sub>A</sub> and ET<sub>B</sub> receptor antagonists. In children with PAH, bosentan has been shown to improve exercise capacity and functional status.<xref rid="ppul24442-bib-0051" ref-type="ref">51</xref>, <xref rid="ppul24442-bib-0052" ref-type="ref">52</xref>, <xref rid="ppul24442-bib-0053" ref-type="ref">53</xref> The efficacy and tolerability of bosentan are maintained during long&#x02010;term treatment.<xref rid="ppul24442-bib-0054" ref-type="ref">54</xref>, <xref rid="ppul24442-bib-0055" ref-type="ref">55</xref> In practice, bosentan is often combined with PDE5i, mainly sildenafil, although there is no clinical trial evidence to support this combination.</p><p>In the USA and several other countries, bosentan is licensed for use in children aged&#x02009;&#x02265;3 years, while in Europe, bosentan is approved for use in children aged&#x02009;&#x02265;1 year. In many countries, bosentan is available as a dispersible pediatric formulation, with similar tolerability to the adult formulation.<xref rid="ppul24442-bib-0053" ref-type="ref">53</xref>, <xref rid="ppul24442-bib-0055" ref-type="ref">55</xref> Bosentan may be better tolerated in children than in adults, particularly with regard to raised liver aminotransferases.<xref rid="ppul24442-bib-0056" ref-type="ref">56</xref> A small study in children suggested that ambrisentan is well tolerated with some evidence of efficacy.<xref rid="ppul24442-bib-0057" ref-type="ref">57</xref> Studies of children with PAH being treated with ambrisentan (NCT01342952 and NCT01406327) and another ERA, macitentan (NCT02932410 and NCT00667823) are ongoing.</p></sec><sec id="ppul24442-sec-0150"><label>2.4</label><title>Drugs acting on the NO&#x02010;sGC&#x02010;cGMP pathway</title><sec id="ppul24442-sec-0160"><label>2.4.1</label><title>Role of the NO&#x02010;sGC&#x02010;cGMP pathway in PAH</title><p>NO signaling plays a critical role in vasodilation and vascular remodeling in the pulmonary circulation.<xref rid="ppul24442-bib-0058" ref-type="ref">58</xref> NO stimulates production of sGC, which in turn catalyzes the conversion of guanosine triphosphate to cGMP, the primary mediator of NO signaling, leading to vasorelaxation. Disruption of the NO&#x02010;sGC&#x02010;cGMP pathway is central to the pathogenesis of PAH, with reduced NO levels present in the lungs of affected patients.<xref rid="ppul24442-bib-0058" ref-type="ref">58</xref>
+</p></sec><sec id="ppul24442-sec-0170"><label>2.4.2</label><title>PDE5 inhibitors</title><p>cGMP is deactivated by phosphodiesterases (PDEs), notably PDE5. PDE5i such as sildenafil and tadalafil prevent the breakdown of cGMP.<xref rid="ppul24442-bib-0058" ref-type="ref">58</xref> The consequent increase in intracellular cGMP levels results in vasodilation and inhibition of vascular smooth muscle proliferation.<xref rid="ppul24442-bib-0059" ref-type="ref">59</xref>
+</p><p>Sildenafil, licensed for use in adults with PAH in Europe and the USA, has been extensively studied in children and adolescents with PAH (key studies are summarized in Table <xref rid="ppul24442-tbl-0001" ref-type="table">1</xref>). The largest trial was STARTS&#x02010;1, in which 235 children and adolescents (age, 1&#x02013;17 years) with PAH were randomized double&#x02010;blind to sildenafil at low (10&#x02009;mg three times daily [tid]), medium (10&#x02013;40&#x02009;mg tid), or high (20&#x02013;80&#x02009;mg tid) dose, or placebo for 16 weeks.<xref rid="ppul24442-bib-0060" ref-type="ref">60</xref> The primary endpoint was the percentage change in peak oxygen consumption (PVO<sub>2</sub>) for sildenafil vs placebo. The difference in PVO<sub>2</sub> between sildenafil and placebo was not significant, with a mean (&#x000b1;SE) treatment difference of 7.7&#x02009;&#x000b1;&#x02009;4.0% (<italic>P</italic>&#x02009;=&#x02009;.056). PVO<sub>2</sub>, WHO FC, and hemodynamic parameters did, however, improve in some dose groups vs placebo. Sildenafil was generally well tolerated, although two treatment&#x02010;related serious adverse events (SAEs) occurred in the high&#x02010;dose group. The risk&#x02010;benefit profile therefore favored medium dosing. Patients who completed STARTS&#x02010;1 were eligible to enter a long&#x02010;term open&#x02010;label extension (STARTS&#x02010;2), in which those who had previously received sildenafil continued their previous dose, while those who had received placebo were randomized to high&#x02010;, medium&#x02010;, or low&#x02010;dose sildenafil.<xref rid="ppul24442-bib-0061" ref-type="ref">61</xref> The result showed an increase in mortality with high&#x02010;dose sildenafil compared with low and medium doses. Analyses adjusted for baseline characteristics, including PAH etiology, PVR index, and right atrial pressure, however, produced reduced hazard rations<xref rid="ppul24442-bib-0061" ref-type="ref">61</xref> and cast doubt on the relationship between dose and survival. The European Medicines Agency (EMA) subsequently added a warning to the labeling for sildenafil (originally approved in 2011) to avoid use of the high dose. By contrast the US Food and Drug Administration (FDA) released a strong warning in August 2012 against the (chronic) use of sildenafil for pediatric patients with PAH (<ext-link ext-link-type="uri" xlink:href="https://www.fda.gov/Drugs/DrugSafety/ucm317123.htm">https://www.fda.gov/Drugs/DrugSafety/ucm317123.htm</ext-link>). In 2014, however, the FDA clarified this warning, stating that there may be situations in which the risk&#x02010;benefit profile may be acceptable in individual children, although it is still not recommended (<ext-link ext-link-type="uri" xlink:href="https://www.fda.gov/drugs/drugsafety/ucm390876.htm">https://www.fda.gov/drugs/drugsafety/ucm390876.htm</ext-link>). Additional pediatric trials of sildenafil in PAH have been performed but are not discussed here because of low patient numbers and/or lack of placebo control.<xref rid="ppul24442-bib-0062" ref-type="ref">62</xref>, <xref rid="ppul24442-bib-0063" ref-type="ref">63</xref>, <xref rid="ppul24442-bib-0064" ref-type="ref">64</xref>, <xref rid="ppul24442-bib-0065" ref-type="ref">65</xref>, <xref rid="ppul24442-bib-0066" ref-type="ref">66</xref>, <xref rid="ppul24442-bib-0067" ref-type="ref">67</xref>, <xref rid="ppul24442-bib-0068" ref-type="ref">68</xref>, <xref rid="ppul24442-bib-0069" ref-type="ref">69</xref>, <xref rid="ppul24442-bib-0070" ref-type="ref">70</xref>, <xref rid="ppul24442-bib-0071" ref-type="ref">71</xref>, <xref rid="ppul24442-bib-0072" ref-type="ref">72</xref>, <xref rid="ppul24442-bib-0073" ref-type="ref">73</xref>, <xref rid="ppul24442-bib-0074" ref-type="ref">74</xref>, <xref rid="ppul24442-bib-0075" ref-type="ref">75</xref>
+</p><table-wrap id="ppul24442-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Summary of key studies evaluating sildenafil for the treatment of children and adolescents with PAH</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th valign="bottom" rowspan="1" colspan="1">Study</th><th valign="bottom" rowspan="1" colspan="1">Design</th><th valign="bottom" rowspan="1" colspan="1">Treatment arms</th><th valign="bottom" rowspan="1" colspan="1">Key findings</th></tr></thead><tbody valign="top"><tr><td rowspan="3" valign="top" colspan="1">Sabri et al<xref rid="ppul24442-bib-0076" ref-type="ref">76</xref>
+</td><td rowspan="3" valign="top" colspan="1">Randomized, open&#x02010;label study in 42 infants (age, 3&#x02010;24 mo) with a large septal defect and PAH</td><td valign="top" rowspan="1" colspan="1">Sildenafil 1&#x02013;3&#x02009;mg/kg/day pre&#x02010; and post surgery</td><td valign="top" rowspan="1" colspan="1">&#x02022; No significant difference in pulmonary artery&#x02010;to&#x02010;aortic pressure ratio and sPAP in the first 48&#x02009;h after surgery</td></tr><tr><td rowspan="2" valign="top" colspan="1">Tadalafil 1&#x02009;mg/kg/day pre&#x02010; and post surgery</td><td valign="top" rowspan="1" colspan="1">&#x02022; No significant differences in ICU stay, mechanical ventilation time, clinical findings of low cardiac output state, and echocardiographic data</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Both treatments were well tolerated</td></tr><tr><td rowspan="4" valign="top" colspan="1">STARTS&#x02010;1<xref rid="ppul24442-bib-0060" ref-type="ref">60</xref>
+</td><td rowspan="4" valign="top" colspan="1">Randomized, placebo&#x02010;controlled trial in 235 treatment&#x02010;na&#x000ef;ve children (age, 1&#x02010;17 y) weighing&#x02009;&#x02265;8&#x02009;kg with idiopathic or hPAH, or PAH associated with connective tissue disease or CHD</td><td valign="top" rowspan="1" colspan="1">Low&#x02010;dose sildenafil (10&#x02009;mg tid)</td><td valign="top" rowspan="1" colspan="1">&#x02022; Estimated mean change in PVO<sub>2</sub> (primary endpoint) for sildenafil (pooled) vs placebo was 7.7% (95% CI, &#x02212;0.2&#x02010;15.6%; <italic>P</italic>&#x02009;=&#x02009;.056)</td></tr><tr><td valign="top" rowspan="1" colspan="1">Medium&#x02010;dose sildenafil (10&#x02013;40&#x02009;mg tid)</td><td valign="top" rowspan="1" colspan="1">&#x02022; PVO<sub>2</sub>, FC, and hemodynamics improved with medium and high doses vs placebo; low&#x02010;dose sildenafil was ineffective</td></tr><tr><td valign="top" rowspan="1" colspan="1">High&#x02010;dose sildenafil (20&#x02013;80&#x02009;mg tid)</td><td valign="top" rowspan="1" colspan="1">&#x02022; Most adverse events were mild to moderate in severity</td></tr><tr><td valign="top" rowspan="1" colspan="1">Placebo</td><td valign="top" rowspan="1" colspan="1"/></tr><tr><td rowspan="4" valign="top" colspan="1">STARTS&#x02010;1 (sub&#x02010;analysis)<xref rid="ppul24442-bib-0077" ref-type="ref">77</xref>
+</td><td rowspan="4" valign="top" colspan="1">Post hoc analysis of 48 children (age, 1&#x02010;17 y) with PAH and Down syndrome</td><td valign="top" rowspan="1" colspan="1">Low&#x02010;dose sildenafil (10&#x02009;mg tid)</td><td valign="top" rowspan="1" colspan="1">&#x02022; Sildenafil had no effect on PVRI and mPAP</td></tr><tr><td valign="top" rowspan="1" colspan="1">Medium&#x02010;dose sildenafil (10&#x02013;40&#x02009;mg tid)</td><td valign="top" rowspan="1" colspan="1">&#x02022; Sildenafil was well tolerated in children with Down syndrome</td></tr><tr><td valign="top" rowspan="1" colspan="1">High&#x02010;dose sildenafil (20&#x02013;80&#x02009;mg tid)</td><td valign="top" rowspan="1" colspan="1"/></tr><tr><td valign="top" rowspan="1" colspan="1">Placebo</td><td valign="top" rowspan="1" colspan="1"/></tr><tr><td rowspan="3" valign="top" colspan="1">STARTS&#x02010;2<xref rid="ppul24442-bib-0061" ref-type="ref">61</xref>
+</td><td rowspan="3" valign="top" colspan="1">Long&#x02010;term open&#x02010;label extension in 220 children who completed STARTS&#x02010;1</td><td valign="top" rowspan="1" colspan="1">Low&#x02010;dose sildenafil (10&#x02009;mg tid)</td><td valign="top" rowspan="1" colspan="1">&#x02022; Deaths reported in 37 patients, of whom 28 had idiopathic or hPAH</td></tr><tr><td valign="top" rowspan="1" colspan="1">Medium&#x02010;dose sildenafil (10&#x02013;40&#x02009;mg tid)</td><td valign="top" rowspan="1" colspan="1">&#x02022; Deaths more likely in patients in FC III/IV (38%) than the overall cohort (15%), and in patients with worse baseline hemodynamics</td></tr><tr><td valign="top" rowspan="1" colspan="1">High&#x02010;dose sildenafil (20&#x02013;80&#x02009;mg tid)</td><td valign="top" rowspan="1" colspan="1">&#x02022; 3&#x02010;y survival rates: 94%, 93%, and 88% for low&#x02010;, medium&#x02010;, and high&#x02010;dose sildenafil, respectively (HR [95% CI]&#x02009;=&#x02009;3.95 [1.46&#x02010;10.65] for high vs low and 1.92 [0.65&#x02010;5.65] for medium vs low)</td></tr><tr><td rowspan="2" valign="top" colspan="1">Xia et al<xref rid="ppul24442-bib-0078" ref-type="ref">78</xref>
+</td><td rowspan="2" valign="top" colspan="1">Open&#x02010;label, randomized, controlled study in 50 children (age, 2 mo&#x02010;2 y) with high&#x02010;altitude heart disease and severe PAH</td><td valign="top" rowspan="1" colspan="1">Sildenafil 1&#x02009;mg/kg/day</td><td valign="top" rowspan="1" colspan="1">&#x02022; Sildenafil reduced mPAP and increased arterial pO<sub>2</sub>, cardiac output, cardiac index, and oxygenation index vs controls (all <italic>P</italic>&#x02009;&#x0003c;&#x02009;.05)</td></tr><tr><td valign="top" rowspan="1" colspan="1">Conventional therapy (control)</td><td valign="top" rowspan="1" colspan="1">&#x02022; No significant changes in mean arterial pressure, routine blood parameters and blood biochemical parameters, and no major adverse event</td></tr><tr><td rowspan="4" valign="top" colspan="1">Humpl et al<xref rid="ppul24442-bib-0079" ref-type="ref">79</xref>
+</td><td rowspan="4" valign="top" colspan="1">Open&#x02010;label pilot study in 14 children (age, 5.3&#x02010;18 y) with symptomatic PAH who could reliably perform a 6&#x02010;min walk test</td><td rowspan="4" valign="top" colspan="1">Sildenafil 0.25&#x02013;0.5&#x02009;mg/kg qid (0.1&#x02009;mg/kg qid in 1 patient)</td><td valign="top" rowspan="1" colspan="1">&#x02022; 6MWD (primary endpoint) increased from 278&#x02009;m to 443&#x02009;m at 6 mo (<italic>P</italic>&#x02009;=&#x02009;.02) and 432&#x02009;m at 12 mo (<italic>P</italic>&#x02009;=&#x02009;.005)</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; The difference between 6 and 12 mo was not significant</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Median mPAP decreased from 60 mm Hg to 50 mm Hg (<italic>P</italic>&#x02009;=&#x02009;.014)</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Median PVR decreased from 15 Wood units m<sup>2</sup> to 12 Wood units m<sup>2</sup> (<italic>P</italic>&#x02009;=&#x02009;.024)</td></tr><tr><td rowspan="4" valign="top" colspan="1">Karatza et al<xref rid="ppul24442-bib-0080" ref-type="ref">80</xref>
+</td><td rowspan="4" valign="top" colspan="1">Case series including one child with idiopathic PAH (age, 13 y) and two children with PAH&#x02010;CHD (ages, 6 and 10 y)</td><td rowspan="4" valign="top" colspan="1">0.5&#x02013;2.0&#x02009;mg/kg 4&#x02010;hourly</td><td valign="top" rowspan="1" colspan="1">&#x02022; Increased exercise capacity and FC in all three patients</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; 6MWD increased by 74%, 75%, and 25%</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Oxyhemoglobin saturations increased from 79%, 97%, and 80% to 93%, 100%, and 93%, respectively.</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; There were no side effects and no fall in systemic blood pressure</td></tr><tr><td rowspan="4" valign="top" colspan="1">Mourani et al<xref rid="ppul24442-bib-0081" ref-type="ref">81</xref>
+</td><td rowspan="4" valign="top" colspan="1">Retrospective chart review of 25 children (age,&#x02009;&#x0003c;2 y) with chronic lung disease and PH</td><td rowspan="4" valign="top" colspan="1">1.5&#x02013;8.0&#x02009;mg/kg/day</td><td valign="top" rowspan="1" colspan="1">&#x02022; Hemodynamic improvement in 88% of patients (median follow&#x02010;up: 40 d) (primary endpoint)<xref ref-type="fn" rid="ppul24442-tbl1-note-0002">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Eleven of 13 patients with interval estimates of systolic pulmonary artery pressure with echocardiogram showed clinically significant reductions in PH</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Five deaths (20%)</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Adverse events leading to cessation or interruption of therapy in two patients</td></tr><tr><td rowspan="3" valign="top" colspan="1">Lunze et al<xref rid="ppul24442-bib-0082" ref-type="ref">82</xref>
+</td><td rowspan="3" valign="top" colspan="1">Open&#x02010;label pilot study in 11 patients (median age, 12.9 y; range, 5.5&#x02010;54.7 y)</td><td rowspan="3" valign="top" colspan="1">Sildenafil (mean dose, 2.1&#x02009;mg/kg)&#x02009;+&#x02009;bosentan (mean dose, 2.3&#x02009;mg/kg)</td><td valign="top" rowspan="1" colspan="1">&#x02022; No major liver&#x02010; or blood pressure&#x02010;related side effects</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; FC generally improved by one NYHA class, with increased transcutaneous oxygen saturation (89.9&#x02013;92.3%; <italic>P</italic>&#x02009;=&#x02009;.037), maximum oxygen uptake (18.1&#x02013;22.8&#x02009;mL/kg&#x02009;min; <italic>P</italic>&#x02009;=&#x02009;.043), and 6MWD (351&#x02013;451&#x02009;m; <italic>P</italic>&#x02009;=&#x02009;.039)</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; mPAP decreased (62&#x02010;46 mm Hg; <italic>P</italic>&#x02009;=&#x02009;.041)</td></tr></tbody></table><table-wrap-foot><fn id="ppul24442-tbl1-note-0001"><p>Abbreviations: 6MWD, 6&#x02010;minute walking distance; CHD, congenital heart disease; CI, confidence interval; FC, functional class; hPAH, heritable pulmonary arterial hypertension; HR, hazard ratio; ICU, intensive care unit; mPAP, mean pulmonary artery pressure; NYHA, New York Heart Association; PAH, pulmonary arterial hypertension; PH, pulmonary hypertension; pO<sub>2</sub>, partial pressure of oxygen; PVO<sub>2</sub>, peak oxygen consumption; PVR, pulmonary vascular resistance; PVRI, pulmonary vascular resistance index; qid, four times daily; sPAP, systolic pulmonary artery pressure; tid, three times daily.</p></fn><fn id="ppul24442-tbl1-note-0002"><label><sup>a</sup></label><p>Defined as&#x02009;&#x02265;20% decrease in the ratio of pulmonary to systemic systolic arterial pressure or improvement in the degree of septal flattening assessed by serial echocardiograms.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Tadalafil has also been evaluated in children with PAH.<xref rid="ppul24442-bib-0076" ref-type="ref">76</xref>, <xref rid="ppul24442-bib-0083" ref-type="ref">83</xref>, <xref rid="ppul24442-bib-0084" ref-type="ref">84</xref>, <xref rid="ppul24442-bib-0085" ref-type="ref">85</xref>, <xref rid="ppul24442-bib-0086" ref-type="ref">86</xref>, <xref rid="ppul24442-bib-0087" ref-type="ref">87</xref> These open&#x02010;label, uncontrolled trials, some of which included patients previously treated with sildenafil,<xref rid="ppul24442-bib-0083" ref-type="ref">83</xref>, <xref rid="ppul24442-bib-0084" ref-type="ref">84</xref>, <xref rid="ppul24442-bib-0085" ref-type="ref">85</xref> suggested that tadalafil improves hemodynamics and exercise capacity, and is generally well tolerated (Table <xref rid="ppul24442-tbl-0002" ref-type="table">2</xref>). While tadalafil is licensed for use in adults with PAH in Europe and the USA, it is not licensed for use in children in either region.</p><table-wrap id="ppul24442-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Summary of key published studies evaluating tadalafil for the treatment of children and adolescents with PAH</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th valign="bottom" rowspan="1" colspan="1">Study</th><th valign="bottom" rowspan="1" colspan="1">Design</th><th valign="bottom" rowspan="1" colspan="1">Treatment arms</th><th valign="bottom" rowspan="1" colspan="1">Key findings</th></tr></thead><tbody valign="top"><tr><td rowspan="4" valign="top" colspan="1">Takatsuki et al<xref rid="ppul24442-bib-0084" ref-type="ref">84</xref>
+</td><td rowspan="4" valign="top" colspan="1">Retrospective chart review of 33 children (age, 4&#x02013;18 y) with PAH<xref ref-type="fn" rid="ppul24442-tbl2-note-0002">
+<sup>a</sup>
+</xref>
+</td><td rowspan="4" valign="top" colspan="1">Tadalafil (mean dose, 1.0&#x02009;mg/kg/day)</td><td valign="top" rowspan="1" colspan="1">&#x02022; In 14 patients who underwent repeat catheterization, improvements after switching from sildenafil were observed in mPAP (53.2 vs 47.4 mm Hg; <italic>P</italic>&#x02009;&#x0003c;&#x02009;.05) and PVRI (12.2 vs 10.6; <italic>P</italic>&#x02009;&#x0003c;&#x02009;.05)</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; In four treatment&#x02010;na&#x000ef;ve patients, clinical improvement was noted</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Side effect profiles were similar in treatment&#x02010;na&#x000ef;ve and switched patients</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Two patients discontinued tadalafil due to adverse events (migraine; allergic reaction)</td></tr><tr><td rowspan="4" valign="top" colspan="1">Sabri et al<xref rid="ppul24442-bib-0085" ref-type="ref">85</xref>
+</td><td rowspan="4" valign="top" colspan="1">Prospective open&#x02010;label study of 18 children and young adults (age, 4&#x02013;24 y) with PAH previously receiving sildenafil</td><td rowspan="4" valign="top" colspan="1">Tadalafil 1&#x02009;mg/kg/day (maximum: 40&#x02009;mg/day)</td><td valign="top" rowspan="1" colspan="1">&#x02022; No change in FC after 6 wk, despite some symptom improvement</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Mean oxygen saturation improved compared with baseline before and after 6&#x02010;minute walk test (<italic>P</italic>&#x02009;=&#x02009;.005 and .036, respectively)</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Mean 6MWD improved (<italic>P</italic>&#x02009;=&#x02009;.005)</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; No significant side effects of tadalafil</td></tr><tr><td rowspan="2" valign="top" colspan="1">Shiva et al<xref rid="ppul24442-bib-0083" ref-type="ref">83</xref>
+</td><td rowspan="2" valign="top" colspan="1">Prospective open&#x02010;label study of 25 children (age, 2 mo&#x02010;5 y) with PAH</td><td rowspan="2" valign="top" colspan="1">Tadalafil 1&#x02009;mg/kg/day</td><td valign="top" rowspan="1" colspan="1">&#x02022; Significant improvements in mPAP at all four monthly visits (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01), including in six patients who had previously received sildenafil for&#x02009;&#x0003e;6 mo</td></tr><tr><td valign="top" rowspan="1" colspan="1">&#x02022; Tadalafil was generally safe and well tolerated; nausea was the most frequently reported adverse event (<italic>n</italic>&#x02009;=&#x02009;3)</td></tr><tr><td rowspan="3" valign="top" colspan="1">Sabri et al<xref rid="ppul24442-bib-0076" ref-type="ref">76</xref>
+</td><td rowspan="3" valign="top" colspan="1">Randomized, open&#x02010;label study in 42 Infants (age, 3&#x02013;24 mo) with a large septal defect and PAH</td><td valign="top" rowspan="1" colspan="1">Sildenafil</td><td valign="top" rowspan="1" colspan="1">&#x02022; No significant difference in pulmonary artery&#x02010;to&#x02010;aortic pressure ratio and sPAP in the first 48&#x02009;h after surgery</td></tr><tr><td valign="top" rowspan="1" colspan="1">1&#x02013;3&#x02009;mg/kg/day pre&#x02010; and post surgery</td><td valign="top" rowspan="1" colspan="1">&#x02022; No significant differences in ICU stay, mechanical ventilation time, clinical findings of low cardiac output state, and echocardiographic data</td></tr><tr><td valign="top" rowspan="1" colspan="1">Tadalafil 1&#x02009;mg/kg/day pre&#x02010; and post surgery</td><td valign="top" rowspan="1" colspan="1">&#x02022; Both treatments were well tolerated</td></tr></tbody></table><table-wrap-foot><fn id="ppul24442-tbl2-note-0001"><p>Abbreviations: 6MWD, 6&#x02010;minute walking distance; FC, functional class; ICU, intensive care unit; mPAP, mean pulmonary artery pressure; PAH, pulmonary arterial hypertension; PVRI, pulmonary vascular resistance index; sPAP, systolic pulmonary artery pressure.</p></fn><fn id="ppul24442-tbl2-note-0002"><label><sup>a</sup></label><p>29 patients switched from sildenafil (mean, 3.4&#x02009;mg/kg/day) to tadalafil.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Ongoing trials of sildenafil in children with PAH include trials in neonates (ClinicalTrials.gov: NCT01720524), children with &#x003b2;&#x02010;thalassemia associated with PH (NCT03402191), and Japanese children (NCT03364244, NCT01642407). Pharmacokinetic (NCT01484431) and safety and efficacy (NCT01824290) studies of tadalafil are also under way.</p><p>Combination therapy that targets multiple pathways in the pathogenesis of PAH is an attractive option to improve the efficacy of treatment.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref>, <xref rid="ppul24442-bib-0002" ref-type="ref">2</xref>, <xref rid="ppul24442-bib-0088" ref-type="ref">88</xref> It may be prescribed upfront, or sequentially with the addition of one or two drugs to initial monotherapy, but there are no definitive trials in children. Several studies<xref rid="ppul24442-bib-0035" ref-type="ref">35</xref>, <xref rid="ppul24442-bib-0089" ref-type="ref">89</xref>, <xref rid="ppul24442-bib-0090" ref-type="ref">90</xref>, <xref rid="ppul24442-bib-0091" ref-type="ref">91</xref>, <xref rid="ppul24442-bib-0092" ref-type="ref">92</xref> have suggested that combination therapy may improve hemodynamic parameters and exercise capacity and reduce clinical worsening in adults with PAH. For example, patients in the placebo&#x02010;controlled AMBITION study were randomized to initial therapy with ambrisentan, tadalafil, or both.<xref rid="ppul24442-bib-0092" ref-type="ref">92</xref> Upfront combination therapy significantly reduced the risk of clinical failure events compared with either agent as monotherapy. It also significantly improved exercise capacity, NT&#x02010;proBNP, and clinical response compared with the pooled monotherapy arms. In a meta&#x02010;analysis of 17 studies (<italic>n</italic>&#x02009;=&#x02009;4095), combination therapy was associated with a significant reduction in the risk of clinical worsening compared with monotherapy.<xref rid="ppul24442-bib-0093" ref-type="ref">93</xref> A retrospective case review of data from three major referral centers for pediatric PAH found that combination therapy was independently associated with improved survival compared with monotherapy.<xref rid="ppul24442-bib-0094" ref-type="ref">94</xref>
+</p><p>In the 6th WSPH treatment algorithm, PDE5i or ERA are considered first&#x02010;line treatments in patients with lower&#x02010;risk PAH, with the option of upfront or sequential combination of both classes, especially in those who deteriorate on ERA or PDE5i alone.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref> Combination therapy (parenteral prostanoid plus ERA/PDE5i) should be considered early in higher&#x02010;risk patients with PAH.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref> At present, there is no clear evidence as to which combination or strategy is optimal.<xref rid="ppul24442-bib-0093" ref-type="ref">93</xref> Data from the Tracking Outcomes and Practice in Pediatric Pulmonary Hypertension (TOPP) registry showed that treatment was initiated with 1, 2, or 3 PAH&#x02010;targeted drugs in 51.6%, 18.0%, and 2.3% of patients, respectively, but there are no robust data on outcomes of upfront vs sequential combination therapy in children.<xref rid="ppul24442-bib-0095" ref-type="ref">95</xref>
+</p></sec><sec id="ppul24442-sec-0180"><label>2.4.3</label><title>Riociguat</title><p>Riociguat, the first member of the drug class of sGC stimulators, acts by directly stimulating sGC, independent of NO, and by increasing the sensitivity of sGC to NO, increasing cGMP levels.<xref rid="ppul24442-bib-0096" ref-type="ref">96</xref>, <xref rid="ppul24442-bib-0097" ref-type="ref">97</xref>, <xref rid="ppul24442-bib-0098" ref-type="ref">98</xref> The ability of riociguat to stimulate sGC independently of NO means that it may retain its efficacy under conditions of NO depletion, such as PAH, in which intracellular concentrations of cGMP are low and the effectiveness of PDE5i may be reduced.<xref rid="ppul24442-bib-0099" ref-type="ref">99</xref>, <xref rid="ppul24442-bib-0100" ref-type="ref">100</xref>, <xref rid="ppul24442-bib-0101" ref-type="ref">101</xref>
+</p><p>The efficacy and tolerability of riociguat in patients with PAH were demonstrated in the double&#x02010;blind, placebo&#x02010;controlled Phase 3 PATENT&#x02010;1 study.<xref rid="ppul24442-bib-0102" ref-type="ref">102</xref> Patients (<italic>n</italic>&#x02009;=&#x02009;443) were randomized to placebo; riociguat individually dose&#x02010;adjusted up to 2.5&#x02009;mg tid; or an exploratory arm in which riociguat was capped at 1.5&#x02009;mg tid. At week 12, significant improvements in 6&#x02010;minute walking distance (6MWD [the primary endpoint]) and several secondary endpoints, were seen with riociguat 2.5&#x02009;mg tid&#x02010;maximum compared with placebo, and riociguat was generally well tolerated. On the basis of PATENT&#x02010;1, riociguat is indicated for the treatment of adults with PAH. Patients who completed PATENT&#x02010;1 were eligible for a long&#x02010;term, open&#x02010;label extension (PATENT&#x02010;2) in which all patients (<italic>n</italic>&#x02009;=&#x02009;396) received riociguat 2.5&#x02009;mg tid&#x02010;maximum.<xref rid="ppul24442-bib-0103" ref-type="ref">103</xref> The improvements in 6MWD and WHO FC observed in PATENT&#x02010;1 were maintained after 2 years of riociguat treatment, with survival rates at 1 and 2 years of 91% and 83%, respectively. The RESPITE study reported that switching to riociguat was effective and generally well tolerated in patients with PAH who had experienced an inadequate clinical response with PDE5i treatment.<xref rid="ppul24442-bib-0104" ref-type="ref">104</xref> A second study of switching from PDE5i to riociguat (REPLACE) is currently recruiting<xref rid="ppul24442-bib-0105" ref-type="ref">105</xref> (ClinicalTrials.gov: NCT02891850). Riociguat is contraindicated in pregnant women based on reproductive toxicity and placental transfer in animal studies.<xref rid="ppul24442-bib-0106" ref-type="ref">106</xref>, <xref rid="ppul24442-bib-0107" ref-type="ref">107</xref> In the USA, riociguat is available to female patients only through a restricted program called the Adempas Risk Evaluation and Mitigation Strategy (REMS).<xref rid="ppul24442-bib-0107" ref-type="ref">107</xref>, <xref rid="ppul24442-bib-0108" ref-type="ref">108</xref>, <xref rid="ppul24442-bib-0109" ref-type="ref">109</xref>
+</p><p>Riociguat has not yet been evaluated in children. The PATENT&#x02010;CHILD study (Clinical Trials.gov: NCT02562235) (Bayer AG, data on file), an open&#x02010;label, single&#x02010;arm, dose&#x02010;adjustment study, is in progress to evaluate the safety, tolerability, pharmacokinetics, pharmacodynamics, and exploratory efficacy of riociguat in children and adolescents with PAH. At least 20 patients aged 6&#x02013;17 years with WHO FC I&#x02010;III PAH and receiving treatment with ERAs and/or prostanoids for&#x02009;&#x02265;12 weeks before the baseline visit, will be enrolled. Concomitant use of riociguat and PDE5i is contraindicated<xref rid="ppul24442-bib-0106" ref-type="ref">106</xref>, <xref rid="ppul24442-bib-0107" ref-type="ref">107</xref> and is therefore not permitted. Pretreatment with sildenafil or tadalafil is, however, allowed up to 1&#x02009;day and 3 days, respectively, before starting riociguat. During the washout period, patients should be in a stable clinical condition and receiving ERAs and/or prostanoids. PATENT&#x02010;CHILD consists of a 24&#x02010;week main phase, followed by an optional long&#x02010;term extension phase. Following safety review of an initial group of patients aged&#x02009;&#x02265;&#x02009;12 years by an independent Data Monitoring Committee, recruitment has been opened to the 6&#x02013;11 years of age group. Patients will receive riociguat as film&#x02010;coated tablets, adjusted to doses of 1.0&#x02013;2.5&#x02009;mg tid, or an oral suspension, providing equivalent exposure to adult doses of 0.5 mg&#x02013;2.5&#x02009;mg tid.</p><p>Growth and development in children entail constant hormonal and metabolic changes, necessitating thorough assessments throughout clinical trials in PAH.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref> In preclinical studies, riociguat induced alterations to bone morphology in juvenile and adolescent rats (Bayer AG, data on file). These findings were seen at 3&#x02013;4 times greater exposure than in clinical use, were reversible, and were not considered prohibitive for the initiation of PATENT&#x02010;CHILD (Bayer AG, data on file). To assess bone safety during the study, a bone X&#x02010;ray of the left hand will be performed at baseline, at week 24, and every 12 months until growth plates are closed, and bone age and morphology will be determined centrally by a specialist. Safety (the primary endpoint) will also be assessed in terms of adverse events and SAEs, vital signs, and laboratory parameters. Selection of efficacy endpoints for children with PAH is difficult and is a matter of debate among experts.<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref>, <xref rid="ppul24442-bib-0110" ref-type="ref">110</xref> Importantly, the demonstration of efficacy in terms of 6MWD in adults cannot be directly translated to the pediatric population. Pediatric&#x02010;specific biomarkers, such as functional classification and NT&#x02010;proBNP, have been evaluated,<xref rid="ppul24442-bib-0001" ref-type="ref">1</xref> and are exploratory efficacy endpoints (in addition to 6MWD) in PATENT&#x02010;CHILD.</p></sec></sec></sec><sec id="ppul24442-sec-0190"><label>3</label><title>CONCLUSIONS</title><p>Diagnosis and management of pediatric PAH are challenging and should be conducted only in expert centers. The introduction of prostanoids, ERAs, and PDE5i has coincided with an improvement in the reported prognosis of pediatric PAH, and guidelines recommend use of these agents, alone or in combination, for patients who do not respond to acute vasoreactivity testing. Despite these improvements, the prognosis in children with nonvasoreactive PAH remains poor. There is therefore a need for new therapies and regimens. Data from clinical trials, both for monotherapy and for agents added to standard of care, are now becoming available. Pooling of data across trials, supplemented by registry data, will help to confirm the safety and tolerability of these agents in children. Older strategies based on therapy escalation at the time of clinical worsening, should be challenged by investigating switching and combination therapy in clinical trials and registries. There are limitations to using RHC in children. Innovative efficacy endpoints, such as those that combine measures of improvement and worsening, should be explored. Registry data will be important in the validation of composite disease progression endpoints.</p><p>The PATENT&#x02010;CHILD trial is in progress to assess the pharmacokinetics, safety, and exploratory efficacy of riociguat in children and adolescents with PAH. Until results from PATENT&#x02010;CHILD are available, we strongly recommend that riociguat should be given to children only when participating in a clinical trial, and that clinicians should not use riociguat empirically in pediatric patients.</p></sec><sec sec-type="COI-statement" id="ppul24442-sec-0210"><title>CONFLICTS OF INTEREST</title><p>MB is a Consultant for Actelion Pharmaceuticals, Arena, Bayer AG, GlaxoSmithKline, Eli Lilly, and Pfizer; and has received grant support from Actelion and Bayer AG, and personal fees from Actelion Pharmaceuticals, Arena, GlaxoSmithKline, Eli Lilly, Pfizer, and Bayer Healthcare.</p><p>The University of Colorado receives fees for DDI to be a consultant for and perform research studies for Actelion Pharmaceuticals, Bayer AG, Eli Lilly, and United Therapeutics. DDI receives grant funding from the National Institutes of Health and the FDA.</p><p>DB is a consultant or steering committee member for Actelion Pharmaceuticals, Bayer AG, Novartis, and Eli Lilly.</p><p>MG serves on an advisory board for Bayer AG and receives lecture fees: from Pfizer, MSD, and Actelion Pharmaceuticals.</p><p>SM serves on advisory boards or steering committees for Bayer AG and Actelion Pharmaceuticals.</p></sec></body><back><ack id="ppul24442-sec-0200"><title>ACKNOWLEDGMENTS</title><p>Funding for the PATENT&#x02010;CHILD study was provided by Bayer AG, Berlin, Germany and Merck Sharp &#x00026; Dohme Corp., a subsidiary of Merck &#x00026; Co., Inc., Kenilworth, NJ, USA. Medical writing support was provided by Adelphi Communications Ltd (Bollington, UK), which was in accordance with Good Publication Practice (GPP3) guidelines and funded by Bayer AG (Muellerstrasse 178, 13342 Berlin, Germany).</p></ack><ref-list id="ppul24442-bibl-0001"><ref-list id="ppul24442-bibSec-0001" content-type="cited-references"><title>REFERENCES</title><ref id="ppul24442-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ppul24442-cit-0001">
+<string-name>
+<surname>Rosenzweig</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Abman</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Adatia</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Paediatric pulmonary arterial hypertension: pdates on definition, classification, diagnostics and management</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2019</year>;<volume>53</volume>:<fpage>1801916</fpage>.<pub-id pub-id-type="pmid">30545978</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ppul24442-cit-0002">
+<string-name>
+<surname>Gali&#x000e8;</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Humbert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vachiery</surname>
+<given-names>JL</given-names>
+</string-name>, et al. <article-title>2015 ESC/ERS guidelines for the diagnosis and treatment of pulmonary hypertension: The Joint Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS): endorsed by: Association for European Paediatric and Congenital Cardiology (AEPC), International Society for Heart and Lung Transplantation (ISHLT)</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2015</year>;<volume>46</volume>:<fpage>903</fpage>&#x02010;<lpage>975</lpage>.<pub-id pub-id-type="pmid">26318161</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ppul24442-cit-0003">
+<string-name>
+<surname>Simonneau</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Montani</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Celermajer</surname>
+<given-names>DS</given-names>
+</string-name>, et al. <article-title>Haemodynamic definitions and updated clinical classification of pulmonary hypertension</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2019</year>;<volume>53</volume>:<fpage>1801913</fpage>.<pub-id pub-id-type="pmid">30545968</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ppul24442-cit-0004">
+<string-name>
+<surname>Berger</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Beghetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Humpl</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Clinical features of paediatric pulmonary hypertension: a registry study</article-title>. <source xml:lang="en">Lancet</source>. <year>2012</year>;<volume>379</volume>:<fpage>537</fpage>&#x02010;<lpage>546</lpage>.<pub-id pub-id-type="pmid">22240409</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ppul24442-cit-0005">
+<string-name>
+<surname>Moledina</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hislop</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Foster</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Schulze&#x02010;Neick</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Haworth</surname>
+<given-names>SG</given-names>
+</string-name>. <article-title>Childhood idiopathic pulmonary arterial hypertension: a national cohort study</article-title>. <source xml:lang="en">Heart</source>. <year>2010</year>;<volume>96</volume>:<fpage>1401</fpage>&#x02010;<lpage>1406</lpage>.<pub-id pub-id-type="pmid">20406768</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ppul24442-cit-0006">
+<string-name>
+<surname>van Loon</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Roofthooft</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Hillege</surname>
+<given-names>HL</given-names>
+</string-name>, et al. <article-title>Pediatric pulmonary hypertension in The Netherlands: Epidemiology and characterization during the period 1991 to 2005</article-title>. <source xml:lang="en">Circulation</source>. <year>2011</year>;<volume>124</volume>:<fpage>1755</fpage>&#x02010;<lpage>1764</lpage>.<pub-id pub-id-type="pmid">21947294</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ppul24442-cit-0007">
+<string-name>
+<surname>del Cerro Marin</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Sabate Rotes</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez Ogando</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Assessing pulmonary hypertensive vascular disease in childhood. Data from the Spanish registry</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2014</year>;<volume>190</volume>:<fpage>1421</fpage>&#x02010;<lpage>1429</lpage>.<pub-id pub-id-type="pmid">25379685</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ppul24442-cit-0008">
+<string-name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Jick</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Breitenstein</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Michel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vizcaya</surname>
+<given-names>D.</given-names>
+</string-name>
+<article-title>Pulmonary arterial hypertension in the USA: An epidemiological study in a large insured pediatric population</article-title>. <source xml:lang="en">Pulm Circ</source>. <year>2017</year>;<volume>7</volume>:<fpage>126</fpage>&#x02010;<lpage>136</lpage>.<pub-id pub-id-type="pmid">28680572</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ppul24442-cit-0009">
+<string-name>
+<surname>Saji</surname>
+<given-names>T.</given-names>
+</string-name>
+<article-title>Update on pediatric pulmonary arterial hypertension. Differences and similarities to adult disease</article-title>. <source xml:lang="en">Circ J</source>. <year>2013</year>;<volume>77</volume>:<fpage>2639</fpage>&#x02010;<lpage>2650</lpage>.<pub-id pub-id-type="pmid">24152725</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ppul24442-cit-0010">
+<string-name>
+<surname>Frank</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Crystal</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Morales</surname>
+<given-names>DL</given-names>
+</string-name>, et al. <article-title>Trends in pediatric pulmonary hypertension&#x02010;related hospitalizations in the United States from 2000&#x02010;2009</article-title>. <source xml:lang="en">Pulm Circ</source>. <year>2015</year>;<volume>5</volume>:<fpage>339</fpage>&#x02010;<lpage>348</lpage>.<pub-id pub-id-type="pmid">26064460</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ppul24442-cit-0011">
+<string-name>
+<surname>Maxwell</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>Nies</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Ajuba&#x02010;Iwuji</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Coulson</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Romer</surname>
+<given-names>LH</given-names>
+</string-name>. <article-title>Trends in hospitalization for pediatric pulmonary hypertension</article-title>. <source xml:lang="en">Pediatrics</source>. <year>2015</year>;<volume>136</volume>:<fpage>241</fpage>&#x02010;<lpage>250</lpage>.<pub-id pub-id-type="pmid">26148956</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ppul24442-cit-0012">
+<string-name>
+<surname>Vorhies</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>. <article-title>Drug treatment of pulmonary hypertension in children</article-title>. <source xml:lang="en">Paediatr Drugs</source>. <year>2014</year>;<volume>16</volume>:<fpage>43</fpage>&#x02010;<lpage>65</lpage>.<pub-id pub-id-type="pmid">24114695</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ppul24442-cit-0013">
+<string-name>
+<surname>Frost</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Badesch</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JSR</given-names>
+</string-name>, et al. <article-title>Diagnosis of pulmonary hypertension</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2019</year>;<volume>53</volume>:<fpage>1801904</fpage>.<pub-id pub-id-type="pmid">30545972</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ppul24442-cit-0014">
+<string-name>
+<surname>Beghetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Schulze&#x02010;Neick</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Diagnostic evaluation of paediatric pulmonary hypertension in current clinical practice</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2013</year>;<volume>42</volume>:<fpage>689</fpage>&#x02010;<lpage>700</lpage>.<pub-id pub-id-type="pmid">23563261</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ppul24442-cit-0015">
+<string-name>
+<surname>Latus</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kuehne</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Beerbaum</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Cardiac MR and CT imaging in children with suspected or confirmed pulmonary hypertension/pulmonary hypertensive vascular disease. Expert consensus statement on the diagnosis and treatment of paediatric pulmonary hypertension. The European Paediatric Pulmonary Vascular Disease Network, endorsed by ISHLT and DGPK</article-title>. <source xml:lang="en">Heart</source>. <year>2016</year>;<volume>102</volume>(<issue>Suppl 2</issue>):<fpage>ii30</fpage>&#x02010;<lpage>ii35</lpage>.<pub-id pub-id-type="pmid">27053695</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ppul24442-cit-0016">
+<string-name>
+<surname>Rosenkranz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Preston</surname>
+<given-names>IR</given-names>
+</string-name>. <article-title>Right heart catheterisation: Best practice and pitfalls in pulmonary hypertension</article-title>. <source xml:lang="en">Eur Respir Rev</source>. <year>2015</year>;<volume>24</volume>:<fpage>642</fpage>&#x02010;<lpage>652</lpage>.<pub-id pub-id-type="pmid">26621978</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ppul24442-cit-0017">
+<string-name>
+<surname>Beghetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schulze&#x02010;Neick</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>RM</given-names>
+</string-name>, et al. <article-title>Haemodynamic characterisation and heart catheterisation complications in children with pulmonary hypertension: Insights from the global TOPP registry (tracking outcomes and practice in paediatric pulmonary hypertension)</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2016</year>;<volume>203</volume>:<fpage>325</fpage>&#x02010;<lpage>330</lpage>.<pub-id pub-id-type="pmid">26583838</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ppul24442-cit-0018">
+<string-name>
+<surname>Pfarr</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ehlken</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Hemodynamic and genetic analysis in children with idiopathic, heritable, and congenital heart disease associated pulmonary arterial hypertension</article-title>. <source xml:lang="en">Respir Res</source>. <year>2013</year>;<volume>14</volume>:<fpage>3</fpage>.<pub-id pub-id-type="pmid">23298310</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ppul24442-cit-0019">
+<string-name>
+<surname>Kozlik&#x02010;Feldmann</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hansmann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bonnet</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Schranz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Apitz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Michel&#x02010;Behnke</surname>
+<given-names>I.</given-names>
+</string-name>
+<article-title>Pulmonary hypertension in children with congenital heart disease (PAH&#x02010;CHD, PPHVD&#x02010;CHD). Expert consensus statement on the diagnosis and treatment of paediatric pulmonary hypertension. The European Paediatric Pulmonary Vascular Disease Network, endorsed by ISHLT and DGPK</article-title>. <source xml:lang="en">Heart</source>. <year>2016</year>;<volume>102</volume>(<issue>Suppl 2</issue>):<fpage>ii42</fpage>&#x02010;<lpage>ii48</lpage>.<pub-id pub-id-type="pmid">27053697</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ppul24442-cit-0020">
+<string-name>
+<surname>Pattathu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gorenflo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hilgendorff</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Genetic testing and blood biomarkers in paediatric pulmonary hypertension. Expert consensus statement on the diagnosis and treatment of paediatric pulmonary hypertension. The European Paediatric Pulmonary Vascular Disease Network, endorsed by ISHLT and DGPK</article-title>. <source xml:lang="en">Heart</source>. <year>2016</year>;<volume>102</volume>(<issue>Suppl 2</issue>):<fpage>ii36</fpage>&#x02010;<lpage>ii41</lpage>.<pub-id pub-id-type="pmid">27053696</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ppul24442-cit-0021">
+<string-name>
+<surname>Kheyfets</surname>
+<given-names>VO</given-names>
+</string-name>, <string-name>
+<surname>Dunning</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Truong</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Hunter</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Shandas</surname>
+<given-names>R.</given-names>
+</string-name>
+<article-title>Assessment of N&#x02010;terminal prohormone B&#x02010;type natriuretic peptide as a measure of vascular and ventricular function in pediatric pulmonary arterial hypertension</article-title>. <source xml:lang="en">Pulm Circ</source>. <year>2015</year>;<volume>5</volume>:<fpage>658</fpage>&#x02010;<lpage>666</lpage>.<pub-id pub-id-type="pmid">26697173</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ppul24442-cit-0022">
+<string-name>
+<surname>Ploegstra</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Douwes</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Roofthooft</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Zijlstra</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Hillege</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>Identification of treatment goals in paediatric pulmonary arterial hypertension</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2014</year>;<volume>44</volume>:<fpage>1616</fpage>&#x02010;<lpage>1626</lpage>.<pub-id pub-id-type="pmid">25034572</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ppul24442-cit-0023">
+<string-name>
+<surname>Takatsuki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>. <article-title>B&#x02010;type natriuretic peptide and amino&#x02010;terminal pro&#x02010;B&#x02010;type natriuretic peptide in pediatric patients with pulmonary arterial hypertension</article-title>. <source xml:lang="en">Congenit Heart Dis</source>. <year>2012</year>;<volume>7</volume>:<fpage>259</fpage>&#x02010;<lpage>267</lpage>.<pub-id pub-id-type="pmid">22325151</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ppul24442-cit-0024">
+<string-name>
+<surname>Frank</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>. <article-title>Diagnosis evaluation and treatment of pulmonary arterial hypertension in children</article-title>. <source xml:lang="en">Children (Basel)</source>. <year>2018</year>;<volume>5</volume>:<elocation-id>E44</elocation-id>.<pub-id pub-id-type="pmid">29570688</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ppul24442-cit-0025">
+<string-name>
+<surname>Haworth</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Hislop</surname>
+<given-names>AA</given-names>
+</string-name>. <article-title>Treatment and survival in children with pulmonary arterial hypertension: the UK pulmonary hypertension service for children 2001&#x02010;2006</article-title>. <source xml:lang="en">Heart</source>. <year>2009</year>;<volume>95</volume>:<fpage>312</fpage>&#x02010;<lpage>317</lpage>.<pub-id pub-id-type="pmid">18952635</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ppul24442-cit-0026">
+<string-name>
+<surname>Zijlstra</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Douwes</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Ploegstra</surname>
+<given-names>MJ</given-names>
+</string-name>, et al. <article-title>Clinical classification in pediatric pulmonary arterial hypertension associated with congenital heart disease</article-title>. <source xml:lang="en">Pulm Circ</source>. <year>2016</year>;<volume>6</volume>:<fpage>302</fpage>&#x02010;<lpage>312</lpage>.<pub-id pub-id-type="pmid">27683607</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ppul24442-cit-0027">
+<string-name>
+<surname>Ploegstra</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Zijlstra</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Douwes</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Hillege</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>Prognostic factors in pediatric pulmonary arterial hypertension: A systematic review and meta&#x02010;analysis</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2015</year>;<volume>184</volume>:<fpage>198</fpage>&#x02010;<lpage>207</lpage>.<pub-id pub-id-type="pmid">25706327</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ppul24442-cit-0028">
+<string-name>
+<surname>Beghetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>The challenges in paediatric pulmonary arterial hypertension</article-title>. <source xml:lang="en">Eur Respir Rev</source>. <year>2014</year>;<volume>23</volume>:<fpage>498</fpage>&#x02010;<lpage>504</lpage>.<pub-id pub-id-type="pmid">25445948</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ppul24442-cit-0029">
+<string-name>
+<surname>Joseph</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Craig</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Caldwell</surname>
+<given-names>PH</given-names>
+</string-name>. <article-title>Clinical trials in children</article-title>. <source xml:lang="en">Br J Clin Pharmacol</source>. <year>2015</year>;<volume>79</volume>:<fpage>357</fpage>&#x02010;<lpage>369</lpage>.<pub-id pub-id-type="pmid">24325152</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ppul24442-cit-0030">
+<string-name>
+<surname>Sable</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Beekman</surname>
+<given-names>RH</given-names>
+<suffix>3rd</suffix>
+</string-name>, et al. <article-title>2017 ACC/AAP/AHA health policy statement on opportunities and challenges in pediatric drug development: Learning from sildenafil</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2017</year>;<volume>70</volume>:<fpage>495</fpage>&#x02010;<lpage>503</lpage>.<pub-id pub-id-type="pmid">28669447</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="ppul24442-cit-0031">
+<string-name>
+<surname>Torok</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Kannankeril</surname>
+<given-names>PJ</given-names>
+</string-name>, et al. <article-title>Recommendations to enhance pediatric cardiovascular drug development: report of a multi&#x02010;stakeholder think tank</article-title>. <source xml:lang="en">J Am Heart Assoc</source>. <year>2018</year>;<volume>7</volume>:<elocation-id>e007283</elocation-id>.<pub-id pub-id-type="pmid">29440007</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="ppul24442-cit-0032">
+<string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Abman</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Barst</surname>
+<given-names>RJ</given-names>
+</string-name>, et al. <article-title>Pediatric pulmonary hypertension</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2013</year>;<volume>62</volume>:<fpage>D117</fpage>&#x02010;<lpage>D126</lpage>.<pub-id pub-id-type="pmid">24355636</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="ppul24442-cit-0033">
+<string-name>
+<surname>Douwes</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Humpl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bonnet</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Acute vasodilator response in pediatric pulmonary arterial hypertension: Current clinical practice from the TOPP registry</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2016</year>;<volume>67</volume>:<fpage>1312</fpage>&#x02010;<lpage>1323</lpage>.<pub-id pub-id-type="pmid">26988953</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="ppul24442-cit-0034">
+<string-name>
+<surname>Sitbon</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Humbert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jais</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Long&#x02010;term response to calcium channel blockers in idiopathic pulmonary arterial hypertension</article-title>. <source xml:lang="en">Circulation</source>. <year>2005</year>;<volume>111</volume>:<fpage>3105</fpage>&#x02010;<lpage>3111</lpage>.<pub-id pub-id-type="pmid">15939821</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="ppul24442-cit-0035">
+<string-name>
+<surname>Sitbon</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Jais</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Savale</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Upfront triple combination therapy in pulmonary arterial hypertension: a pilot study</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2014</year>;<volume>43</volume>:<fpage>1691</fpage>&#x02010;<lpage>1697</lpage>.<pub-id pub-id-type="pmid">24627535</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="ppul24442-cit-0036">
+<string-name>
+<surname>Sitbon</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Sattler</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bertoletti</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Initial dual oral combination therapy in pulmonary arterial hypertension</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2016</year>;<volume>47</volume>:<fpage>1727</fpage>&#x02010;<lpage>1736</lpage>.<pub-id pub-id-type="pmid">26989105</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="ppul24442-cit-0037">
+<string-name>
+<surname>McLaughlin</surname>
+<given-names>VV</given-names>
+</string-name>, <string-name>
+<surname>Gaine</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Howard</surname>
+<given-names>LS</given-names>
+</string-name>, et al. <article-title>Treatment goals of pulmonary hypertension</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2013</year>;<volume>62</volume>:<fpage>D73</fpage>&#x02010;<lpage>D81</lpage>.<pub-id pub-id-type="pmid">24355644</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="ppul24442-cit-0038">
+<string-name>
+<surname>Galie</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>McLaughlin</surname>
+<given-names>VV</given-names>
+</string-name>, <string-name>
+<surname>Rubin</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Simonneau</surname>
+<given-names>G.</given-names>
+</string-name>
+<article-title>Improving patient outcomes in pulmonary hypertension</article-title>. <source xml:lang="en">Eur Respir Rev</source>. <year>2015</year>;<volume>24</volume>:<fpage>550</fpage>&#x02010;<lpage>551</lpage>.<pub-id pub-id-type="pmid">26621969</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="ppul24442-cit-0039">
+<string-name>
+<surname>Ivy</surname>
+<given-names>D.</given-names>
+</string-name>
+<article-title>Pulmonary hypertension in children</article-title>. <source xml:lang="en">Cardiol Clin</source>. <year>2016</year>;<volume>34</volume>:<fpage>451</fpage>&#x02010;<lpage>472</lpage>.<pub-id pub-id-type="pmid">27443141</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="ppul24442-cit-0040">
+<string-name>
+<surname>Galie</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Channick</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Frantz</surname>
+<given-names>RP</given-names>
+</string-name>, et al. <article-title>Risk stratification and medical therapy of pulmonary arterial hypertension</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2018</year>;<volume>53</volume>:<fpage>1801889</fpage>.</mixed-citation></ref><ref id="ppul24442-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="ppul24442-cit-0041">
+<string-name>
+<surname>Christman</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>McPherson</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Newman</surname>
+<given-names>JH</given-names>
+</string-name>, et al. <article-title>An imbalance between the excretion of thromboxane and prostacyclin metabolites in pulmonary hypertension</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>1992</year>;<volume>327</volume>:<fpage>70</fpage>&#x02010;<lpage>75</lpage>.<pub-id pub-id-type="pmid">1603138</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="ppul24442-cit-0042">
+<string-name>
+<surname>Tuder</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Cool</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Geraci</surname>
+<given-names>MW</given-names>
+</string-name>, et al. <article-title>Prostacyclin synthase expression is decreased in lungs from patients with severe pulmonary hypertension</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>1999</year>;<volume>159</volume>:<fpage>1925</fpage>&#x02010;<lpage>1932</lpage>.<pub-id pub-id-type="pmid">10351941</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="ppul24442-cit-0043">
+<string-name>
+<surname>Humbert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ghofrani</surname>
+<given-names>HA</given-names>
+</string-name>. <article-title>The molecular targets of approved treatments for pulmonary arterial hypertension</article-title>. <source xml:lang="en">Thorax</source>. <year>2016</year>;<volume>71</volume>:<fpage>73</fpage>&#x02010;<lpage>83</lpage>.<pub-id pub-id-type="pmid">26219978</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="ppul24442-cit-0044">
+<string-name>
+<surname>Barst</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Maislin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Fishman</surname>
+<given-names>AP</given-names>
+</string-name>. <article-title>Vasodilator therapy for primary pulmonary hypertension in children</article-title>. <source xml:lang="en">Circulation</source>. <year>1999</year>;<volume>99</volume>:<fpage>1197</fpage>&#x02010;<lpage>1208</lpage>.<pub-id pub-id-type="pmid">10069788</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="ppul24442-cit-0045">
+<string-name>
+<surname>Yung</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Widlitz</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Rosenzweig</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Kerstein</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Maislin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Barst</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Outcomes in children with idiopathic pulmonary arterial hypertension</article-title>. <source xml:lang="en">Circulation</source>. <year>2004</year>;<volume>110</volume>:<fpage>660</fpage>&#x02010;<lpage>665</lpage>.<pub-id pub-id-type="pmid">15289375</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="ppul24442-cit-0046">
+<string-name>
+<surname>Siehr</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Miller&#x02010;Reed</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ogawa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rosenthal</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name>
+<surname>Feinstein</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Children with pulmonary arterial hypertension and prostanoid therapy: Long&#x02010;term hemodynamics</article-title>. <source xml:lang="en">J Heart Lung Transplant</source>. <year>2013</year>;<volume>32</volume>:<fpage>546</fpage>&#x02010;<lpage>552</lpage>.<pub-id pub-id-type="pmid">23453572</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="ppul24442-cit-0047">
+<string-name>
+<surname>Levy</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Del Cerro</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Nadaud</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Safety, efficacy and management of subcutaneous treprostinil infusions in the treatment of severe pediatric pulmonary hypertension</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2018</year>;<volume>264</volume>:<fpage>153</fpage>&#x02010;<lpage>157</lpage>.<pub-id pub-id-type="pmid">29650343</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="ppul24442-cit-0048">
+<string-name>
+<surname>Mulligan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Beghetti</surname>
+<given-names>M.</given-names>
+</string-name>
+<article-title>Inhaled iloprost for the control of acute pulmonary hypertension in children: a systematic review</article-title>. <source xml:lang="en">Pediatr Crit Care Med</source>. <year>2012</year>;<volume>13</volume>:<fpage>472</fpage>&#x02010;<lpage>480</lpage>.<pub-id pub-id-type="pmid">21926655</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="ppul24442-cit-0049">
+<string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Doran</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>KJ</given-names>
+</string-name>, et al. <article-title>Short&#x02010; and long&#x02010;term effects of inhaled iloprost therapy in children with pulmonary arterial hypertension</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2008</year>;<volume>51</volume>:<fpage>161</fpage>&#x02010;<lpage>169</lpage>.<pub-id pub-id-type="pmid">18191742</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="ppul24442-cit-0050">
+<string-name>
+<surname>Davie</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Haleen</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Upton</surname>
+<given-names>PD</given-names>
+</string-name>, et al. <article-title>ET(A) and ET(B) receptors modulate the proliferation of human pulmonary artery smooth muscle cells</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2002</year>;<volume>165</volume>:<fpage>398</fpage>&#x02010;<lpage>405</lpage>.<pub-id pub-id-type="pmid">11818328</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="ppul24442-cit-0051">
+<string-name>
+<surname>Barst</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dingemanse</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Pharmacokinetics, safety, and efficacy of bosentan in pediatric patients with pulmonary arterial hypertension</article-title>. <source xml:lang="en">Clin Pharmacol Ther</source>. <year>2003</year>;<volume>73</volume>:<fpage>372</fpage>&#x02010;<lpage>382</lpage>.<pub-id pub-id-type="pmid">12709727</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="ppul24442-cit-0052">
+<string-name>
+<surname>Maiya</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hislop</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Flynn</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Haworth</surname>
+<given-names>SG</given-names>
+</string-name>. <article-title>Response to bosentan in children with pulmonary hypertension</article-title>. <source xml:lang="en">Heart</source>. <year>2006</year>;<volume>92</volume>:<fpage>664</fpage>&#x02010;<lpage>670</lpage>.<pub-id pub-id-type="pmid">16216850</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="ppul24442-cit-0053">
+<string-name>
+<surname>Beghetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Haworth</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Bonnet</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Pharmacokinetic and clinical profile of a novel formulation of bosentan in children with pulmonary arterial hypertension: the FUTURE&#x02010;1 study</article-title>. <source xml:lang="en">Br J Clin Pharmacol</source>. <year>2009</year>;<volume>68</volume>:<fpage>948</fpage>&#x02010;<lpage>955</lpage>.<pub-id pub-id-type="pmid">20002090</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="ppul24442-cit-0054">
+<string-name>
+<surname>Hislop</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Moledina</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Foster</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Schulze&#x02010;Neick</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Haworth</surname>
+<given-names>SG</given-names>
+</string-name>. <article-title>Long&#x02010;term efficacy of bosentan in treatment of pulmonary arterial hypertension in children</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2011</year>;<volume>38</volume>:<fpage>70</fpage>&#x02010;<lpage>77</lpage>.<pub-id pub-id-type="pmid">21177841</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="ppul24442-cit-0055">
+<string-name>
+<surname>Berger</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Haworth</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Bonnet</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>FUTURE&#x02010;2: Results from an open&#x02010;label, long&#x02010;term safety and tolerability extension study using the pediatric formulation of bosentan in pulmonary arterial hypertension</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2016</year>;<volume>202</volume>:<fpage>52</fpage>&#x02010;<lpage>58</lpage>.<pub-id pub-id-type="pmid">26386921</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="ppul24442-cit-0056">
+<string-name>
+<surname>Beghetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hoeper</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Kiely</surname>
+<given-names>DG</given-names>
+</string-name>, et al. <article-title>Safety experience with bosentan in 146 children 2&#x02010;11 years old with pulmonary arterial hypertension: results from the European Postmarketing Surveillance program</article-title>. <source xml:lang="en">Pediatr Res</source>. <year>2008</year>;<volume>64</volume>:<fpage>200</fpage>&#x02010;<lpage>204</lpage>.<pub-id pub-id-type="pmid">18414142</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="ppul24442-cit-0057">
+<string-name>
+<surname>Takatsuki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rosenzweig</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Zuckerman</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Brady</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Calderbank</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>. <article-title>Clinical safety, pharmacokinetics, and efficacy of ambrisentan therapy in children with pulmonary arterial hypertension</article-title>. <source xml:lang="en">Pediatr Pulmonol</source>. <year>2013</year>;<volume>48</volume>:<fpage>27</fpage>&#x02010;<lpage>34</lpage>.<pub-id pub-id-type="pmid">22511577</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="ppul24442-cit-0058">
+<string-name>
+<surname>Tonelli</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Haserodt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Aytekin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dweik</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Nitric oxide deficiency in pulmonary hypertension: Pathobiology and implications for therapy</article-title>. <source xml:lang="en">Pulm Circ</source>. <year>2013</year>;<volume>3</volume>:<fpage>20</fpage>&#x02010;<lpage>30</lpage>.<pub-id pub-id-type="pmid">23662172</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="ppul24442-cit-0059">
+<string-name>
+<surname>Ghofrani</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Osterloh</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name>
+<surname>Grimminger</surname>
+<given-names>F.</given-names>
+</string-name>
+<article-title>Sildenafil: from angina to erectile dysfunction to pulmonary hypertension and beyond</article-title>. <source xml:lang="en">Nat Rev Drug Discov</source>. <year>2006</year>;<volume>5</volume>:<fpage>689</fpage>&#x02010;<lpage>702</lpage>.<pub-id pub-id-type="pmid">16883306</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="ppul24442-cit-0060">
+<string-name>
+<surname>Barst</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Gaitan</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>A randomized, double&#x02010;blind, placebo&#x02010;controlled, dose&#x02010;ranging study of oral sildenafil citrate in treatment&#x02010;naive children with pulmonary arterial hypertension</article-title>. <source xml:lang="en">Circulation</source>. <year>2012</year>;<volume>125</volume>:<fpage>324</fpage>&#x02010;<lpage>334</lpage>.<pub-id pub-id-type="pmid">22128226</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="ppul24442-cit-0061">
+<string-name>
+<surname>Barst</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Beghetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pulido</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>STARTS&#x02010;2: long&#x02010;term survival with oral sildenafil monotherapy in treatment&#x02010;naive pediatric pulmonary arterial hypertension</article-title>. <source xml:lang="en">Circulation</source>. <year>2014</year>;<volume>129</volume>:<fpage>1914</fpage>&#x02010;<lpage>1923</lpage>.<pub-id pub-id-type="pmid">24637559</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="ppul24442-cit-0062">
+<string-name>
+<surname>Apitz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Reyes</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Holtby</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Humpl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Redington</surname>
+<given-names>AN</given-names>
+</string-name>. <article-title>Pharmacokinetic and hemodynamic responses to oral sildenafil during invasive testing in children with pulmonary hypertension</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2010</year>;<volume>55</volume>:<fpage>1456</fpage>&#x02010;<lpage>1462</lpage>.<pub-id pub-id-type="pmid">20359596</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="ppul24442-cit-0063">
+<string-name>
+<surname>Bigdelian</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Sedighi</surname>
+<given-names>M.</given-names>
+</string-name>
+<article-title>The role of preoperative sildenafil therapy in controlling of postoperative pulmonary hypertension in children with ventricular septal defects</article-title>. <source xml:lang="en">J Cardiovasc Thorac Res</source>. <year>2017</year>;<volume>9</volume>:<fpage>179</fpage>&#x02010;<lpage>182</lpage>.<pub-id pub-id-type="pmid">29118953</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="ppul24442-cit-0064">
+<string-name>
+<surname>De</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Szmuszkovicz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bhombal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Azen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kato</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>A retrospective review of infants receiving sildenafil</article-title>. <source xml:lang="en">J Pediatr Pharmacol Ther</source>. <year>2018</year>;<volume>23</volume>:<fpage>100</fpage>&#x02010;<lpage>105</lpage>.<pub-id pub-id-type="pmid">29720910</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="ppul24442-cit-0065">
+<string-name>
+<surname>Douwes</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Roofthooft</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Van Loon</surname>
+<given-names>RL</given-names>
+</string-name>, et al. <article-title>Sildenafil add&#x02010;on therapy in paediatric pulmonary arterial hypertension, experiences of a national referral centre</article-title>. <source xml:lang="en">Heart</source>. <year>2014</year>;<volume>100</volume>:<fpage>224</fpage>&#x02010;<lpage>230</lpage>.<pub-id pub-id-type="pmid">24390161</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="ppul24442-cit-0066">
+<string-name>
+<surname>Fender</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Hasselman</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Harthan</surname>
+<given-names>AA</given-names>
+</string-name>. <article-title>Evaluation of the tolerability of intermittent intravenous sildenafil in pediatric patients with pulmonary hypertension</article-title>. <source xml:lang="en">J Pediatr Pharmacol Ther</source>. <year>2016</year>;<volume>21</volume>:<fpage>419</fpage>&#x02010;<lpage>425</lpage>.<pub-id pub-id-type="pmid">27877095</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="ppul24442-cit-0067">
+<string-name>
+<surname>Juarez Olguin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Camacho Reyes</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Roldan Arce</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Calderon Guzman</surname>
+<given-names>D.</given-names>
+</string-name>
+<article-title>Treatment of pulmonary arterial hypertension using extemporaneous formulation of sildenafil in Mexican children</article-title>. <source xml:lang="en">Pediatr Cardiol</source>. <year>2015</year>;<volume>36</volume>:<fpage>1019</fpage>&#x02010;<lpage>1023</lpage>.<pub-id pub-id-type="pmid">25612785</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="ppul24442-cit-0068">
+<string-name>
+<surname>Olguin</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>HO</given-names>
+</string-name>, <string-name>
+<surname>Perez</surname>
+<given-names>CF</given-names>
+</string-name>, et al. <article-title>Pharmacokinetics of sildenafil in children with pulmonary arterial hypertension</article-title>. <source xml:lang="en">World J Pediatr</source>. <year>2017</year>;<volume>13</volume>:<fpage>588</fpage>&#x02010;<lpage>592</lpage>.<pub-id pub-id-type="pmid">28791664</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="ppul24442-cit-0069">
+<string-name>
+<surname>Oliveira</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Amaral</surname>
+<given-names>CF</given-names>
+</string-name>. <article-title>Sildenafil in the management of idiopathic pulmonary arterial hypertension in children and adolescents</article-title>. <source xml:lang="en">J Pediatr (Rio J)</source>. <year>2005</year>;<volume>81</volume>:<fpage>390</fpage>&#x02010;<lpage>394</lpage>.<pub-id pub-id-type="pmid">16247541</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="ppul24442-cit-0070">
+<string-name>
+<surname>Palma</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Giordano</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Russolillo</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Sildenafil therapy for pulmonary hypertension before and after pediatric congenital heart surgery</article-title>. <source xml:lang="en">Tex Heart Inst J</source>. <year>2011</year>;<volume>38</volume>:<fpage>238</fpage>&#x02010;<lpage>242</lpage>.<pub-id pub-id-type="pmid">21720460</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="ppul24442-cit-0071">
+<string-name>
+<surname>Raposo&#x02010;Sonnenfeld</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Otero&#x02010;Gonzalez</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Blanco&#x02010;Aparicio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ferrer&#x02010;Barba</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Medrano&#x02010;Lopez</surname>
+<given-names>C.</given-names>
+</string-name>
+<article-title>Treatment with sildenafil, bosentan, or both in children and young people with idiopathic pulmonary arterial hypertension and eisenmenger's syndrome</article-title>. <source xml:lang="en">Rev Esp Cardiol</source>. <year>2007</year>;<volume>60</volume>:<fpage>366</fpage>&#x02010;<lpage>372</lpage>.<pub-id pub-id-type="pmid">17521545</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="ppul24442-cit-0072">
+<string-name>
+<surname>Tan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Krishnamurthy</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>O'Heney</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Paul</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Sehgal</surname>
+<given-names>A.</given-names>
+</string-name>
+<article-title>Sildenafil therapy in bronchopulmonary dysplasia&#x02010;associated pulmonary hypertension: a retrospective study of efficacy and safety</article-title>. <source xml:lang="en">Eur J Pediatr</source>. <year>2015</year>;<volume>174</volume>:<fpage>1109</fpage>&#x02010;<lpage>1115</lpage>.<pub-id pub-id-type="pmid">25796626</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="ppul24442-cit-0073">
+<string-name>
+<surname>Trottier&#x02010;Boucher</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Lapointe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Malo</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Sildenafil for the treatment of pulmonary arterial hypertension in infants with bronchopulmonary dysplasia</article-title>. <source xml:lang="en">Pediatr Cardiol</source>. <year>2015</year>;<volume>36</volume>:<fpage>1255</fpage>&#x02010;<lpage>1260</lpage>.<pub-id pub-id-type="pmid">25824807</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="ppul24442-cit-0074">
+<string-name>
+<surname>Zeng</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>XL</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>
+<given-names>CM</given-names>
+</string-name>, et al. <article-title>The efficacy and safety of sildenafil in patients with pulmonary arterial hypertension associated with the different types of congenital heart disease</article-title>. <source xml:lang="en">Clin Cardiol</source>. <year>2011</year>;<volume>34</volume>:<fpage>513</fpage>&#x02010;<lpage>518</lpage>.<pub-id pub-id-type="pmid">21678455</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="ppul24442-cit-0075">
+<string-name>
+<surname>Zhang</surname>
+<given-names>ZN</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Oral sildenafil treatment for eisenmenger syndrome: a prospective, open&#x02010;label, multicentre study</article-title>. <source xml:lang="en">Heart</source>. <year>2011</year>;<volume>97</volume>:<fpage>1876</fpage>&#x02010;<lpage>1881</lpage>.<pub-id pub-id-type="pmid">21948962</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="ppul24442-cit-0076">
+<string-name>
+<surname>Sabri</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Bigdelian</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hosseinzadeh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ahmadi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ghaderian</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shoja</surname>
+<given-names>M.</given-names>
+</string-name>
+<article-title>Comparison of the therapeutic effects and side effects of tadalafil and sildenafil after surgery in young infants with pulmonary arterial hypertension due to systemic&#x02010;to&#x02010;pulmonary shunts</article-title>. <source xml:lang="en">Cardiol Young</source>. <year>2017</year>;<volume>27</volume>:<fpage>1686</fpage>&#x02010;<lpage>1693</lpage>.<pub-id pub-id-type="pmid">28994364</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="ppul24442-cit-0077">
+<string-name>
+<surname>Beghetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rudzinski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>M.</given-names>
+</string-name>
+<article-title>Efficacy and safety of oral sildenafil in children with Down syndrome and pulmonary hypertension</article-title>. <source xml:lang="en">BMC Cardiovasc Disord</source>. <year>2017</year>;<volume>17</volume>:<fpage>177</fpage>.<pub-id pub-id-type="pmid">28676038</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="ppul24442-cit-0078">
+<string-name>
+<surname>Xia</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>WX</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H.</given-names>
+</string-name>
+<article-title>[Efficacy and safety of sildenafil in the treatment of high altitude heart disease associated with severe pulmonary arterial hypertension in children: A preliminary evaluation]</article-title>. <source xml:lang="en">Zhongguo Dang Dai Er Ke Za Zhi</source>. <year>2014</year>;<volume>16</volume>:<fpage>745</fpage>&#x02010;<lpage>748</lpage>.<pub-id pub-id-type="pmid">25008885</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="ppul24442-cit-0079">
+<string-name>
+<surname>Humpl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Reyes</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Stephens</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Adatia</surname>
+<given-names>I.</given-names>
+</string-name>
+<article-title>Beneficial effect of oral sildenafil therapy on childhood pulmonary arterial hypertension: twelve&#x02010;month clinical trial of a single&#x02010;drug, open&#x02010;label, pilot study</article-title>. <source xml:lang="en">Circulation</source>. <year>2005</year>;<volume>111</volume>:<fpage>3274</fpage>&#x02010;<lpage>3280</lpage>.<pub-id pub-id-type="pmid">15956137</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="ppul24442-cit-0080">
+<string-name>
+<surname>Karatza</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Bush</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Magee</surname>
+<given-names>AG</given-names>
+</string-name>. <article-title>Safety and efficacy of sildenafil therapy in children with pulmonary hypertension</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2005</year>;<volume>100</volume>:<fpage>267</fpage>&#x02010;<lpage>273</lpage>.<pub-id pub-id-type="pmid">15823634</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="ppul24442-cit-0081">
+<string-name>
+<surname>Mourani</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Sontag</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Abman</surname>
+<given-names>SH</given-names>
+</string-name>. <article-title>Effects of long&#x02010;term sildenafil treatment for pulmonary hypertension in infants with chronic lung disease</article-title>. <source xml:lang="en">J Pediatr</source>. <year>2009</year>;<volume>154</volume>:<fpage>379</fpage>&#x02010;<lpage>384</lpage>. 384 e371&#x02010;372.<pub-id pub-id-type="pmid">18950791</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="ppul24442-cit-0082">
+<string-name>
+<surname>Lunze</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Mebus</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>First experience with an oral combination therapy using bosentan and sildenafil for pulmonary arterial hypertension</article-title>. <source xml:lang="en">Eur J Clin Invest</source>. <year>2006</year>;<volume>36</volume>(<issue>Suppl 3</issue>):<fpage>32</fpage>&#x02010;<lpage>38</lpage>.<pub-id pub-id-type="pmid">16919008</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="ppul24442-cit-0083">
+<string-name>
+<surname>Shiva</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shiran</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rafati</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Oral tadalafil in children with pulmonary arterial hypertension</article-title>. <source xml:lang="en">Drug Res (Stuttg)</source>. <year>2016</year>;<volume>66</volume>:<fpage>7</fpage>&#x02010;<lpage>10</lpage>.<pub-id pub-id-type="pmid">25611962</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="ppul24442-cit-0084">
+<string-name>
+<surname>Takatsuki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Calderbank</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ivy</surname>
+<given-names>DD</given-names>
+</string-name>. <article-title>Initial experience with tadalafil in pediatric pulmonary arterial hypertension</article-title>. <source xml:lang="en">Pediatr Cardiol</source>. <year>2012</year>;<volume>33</volume>:<fpage>683</fpage>&#x02010;<lpage>688</lpage>.<pub-id pub-id-type="pmid">22402804</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="ppul24442-cit-0085">
+<string-name>
+<surname>Sabri</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Beheshtian</surname>
+<given-names>E.</given-names>
+</string-name>
+<article-title>Comparison of the therapeutic and side effects of tadalafil and sildenafil in children and adolescents with pulmonary arterial hypertension</article-title>. <source xml:lang="en">Pediatr Cardiol</source>. <year>2014</year>;<volume>35</volume>:<fpage>699</fpage>&#x02010;<lpage>704</lpage>.<pub-id pub-id-type="pmid">24253611</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="ppul24442-cit-0086">
+<string-name>
+<surname>Kohno</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ichida</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hirono</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Plasma concentrations of tadalafil in children with pulmonary arterial hypertension</article-title>. <source xml:lang="en">Ther Drug Monit</source>. <year>2014</year>;<volume>36</volume>:<fpage>576</fpage>&#x02010;<lpage>583</lpage>.<pub-id pub-id-type="pmid">24872209</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="ppul24442-cit-0087">
+<string-name>
+<surname>Yamazaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Taketsuna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tajima</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Murakami</surname>
+<given-names>M.</given-names>
+</string-name>
+<article-title>Safety and effectiveness of tadalafil in pediatric patients with pulmonary arterial hypertension: A sub&#x02010;group analysis based on japan post&#x02010;marketing surveillance</article-title>. <source xml:lang="en">Curr Med Res Opin</source>. <year>2017</year>;<volume>33</volume>:<fpage>2241</fpage>&#x02010;<lpage>2249</lpage>.<pub-id pub-id-type="pmid">28699846</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="ppul24442-cit-0088">
+<string-name>
+<surname>Sitbon</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Morrell</surname>
+<given-names>N.</given-names>
+</string-name>
+<article-title>Pathways in pulmonary arterial hypertension: the future is here</article-title>. <source xml:lang="en">Eur Respir Rev</source>. <year>2012</year>;<volume>21</volume>:<fpage>321</fpage>&#x02010;<lpage>327</lpage>.<pub-id pub-id-type="pmid">23204120</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="ppul24442-cit-0089">
+<string-name>
+<surname>Kemp</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Savale</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>O'Callaghan</surname>
+<given-names>DS</given-names>
+</string-name>, et al. <article-title>Usefulness of first&#x02010;line combination therapy with epoprostenol and bosentan in pulmonary arterial hypertension: an observational study</article-title>. <source xml:lang="en">J Heart Lung Transplant</source>. <year>2012</year>;<volume>31</volume>:<fpage>150</fpage>&#x02010;<lpage>158</lpage>.<pub-id pub-id-type="pmid">22138355</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="ppul24442-cit-0090">
+<string-name>
+<surname>Hoeper</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>McLaughlin</surname>
+<given-names>VV</given-names>
+</string-name>, <string-name>
+<surname>Barbera</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>Initial combination therapy with ambrisentan and tadalafil and mortality in patients with pulmonary arterial hypertension: a secondary analysis of the results from the randomised, controlled AMBITION study</article-title>. <source xml:lang="en">Lancet Respir Med</source>. <year>2016</year>;<volume>4</volume>:<fpage>894</fpage>&#x02010;<lpage>901</lpage>.<pub-id pub-id-type="pmid">27745818</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="ppul24442-cit-0091">
+<string-name>
+<surname>Pulido</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Adzerikho</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Channick</surname>
+<given-names>RN</given-names>
+</string-name>, et al. <article-title>Macitentan and morbidity and mortality in pulmonary arterial hypertension</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2013</year>;<volume>369</volume>:<fpage>809</fpage>&#x02010;<lpage>818</lpage>.<pub-id pub-id-type="pmid">23984728</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="ppul24442-cit-0092">
+<string-name>
+<surname>Gali&#x000e8;</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Barbera</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Frost</surname>
+<given-names>AE</given-names>
+</string-name>, et al. <article-title>Initial use of ambrisentan plus tadalafil in pulmonary arterial hypertension</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2015</year>;<volume>373</volume>:<fpage>834</fpage>&#x02010;<lpage>844</lpage>.<pub-id pub-id-type="pmid">26308684</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="ppul24442-cit-0093">
+<string-name>
+<surname>Lajoie</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Lauziere</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lega</surname>
+<given-names>JC</given-names>
+</string-name>, et al. <article-title>Combination therapy versus monotherapy for pulmonary arterial hypertension: a meta&#x02010;analysis</article-title>. <source xml:lang="en">Lancet Respir Med</source>. <year>2016</year>;<volume>4</volume>:<fpage>291</fpage>&#x02010;<lpage>305</lpage>.<pub-id pub-id-type="pmid">26935844</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="ppul24442-cit-0094">
+<string-name>
+<surname>Zijlstra</surname>
+<given-names>WMH</given-names>
+</string-name>, <string-name>
+<surname>Douwes</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Rosenzweig</surname>
+<given-names>EB</given-names>
+</string-name>, et al. <article-title>Survival differences in pediatric pulmonary arterial hypertension: clues to a better understanding of outcome and optimal treatment strategies</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2014</year>;<volume>63</volume>:<fpage>2159</fpage>&#x02010;<lpage>2169</lpage>.<pub-id pub-id-type="pmid">24681143</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0095"><label>95</label><mixed-citation publication-type="journal" id="ppul24442-cit-0095">
+<string-name>
+<surname>Humpl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>RMF</given-names>
+</string-name>, <string-name>
+<surname>Austin</surname>
+<given-names>ED</given-names>
+</string-name>, et al. <article-title>Treatment initiation in paediatric pulmonary hypertension: insights from a multinational registry</article-title>. <source xml:lang="en">Cardiol Young</source>. <year>2017</year>;<volume>27</volume>:<fpage>1123</fpage>&#x02010;<lpage>1132</lpage>.<pub-id pub-id-type="pmid">27995825</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0096"><label>96</label><mixed-citation publication-type="journal" id="ppul24442-cit-0096">
+<string-name>
+<surname>Stasch</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Evgenov</surname>
+<given-names>OV</given-names>
+</string-name>. <article-title>Soluble guanylate cyclase stimulators in pulmonary hypertension</article-title>. <source xml:lang="en">Handb Exp Pharmacol</source>. <year>2013</year>;<volume>218</volume>:<fpage>279</fpage>&#x02010;<lpage>313</lpage>.<pub-id pub-id-type="pmid">24092345</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0097"><label>97</label><mixed-citation publication-type="journal" id="ppul24442-cit-0097">
+<string-name>
+<surname>Grimminger</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Weimann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Frey</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>First acute haemodynamic study of soluble guanylate cyclase stimulator riociguat in pulmonary hypertension</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2009</year>;<volume>33</volume>:<fpage>785</fpage>&#x02010;<lpage>792</lpage>.<pub-id pub-id-type="pmid">19129292</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0098"><label>98</label><mixed-citation publication-type="journal" id="ppul24442-cit-0098">
+<string-name>
+<surname>Stasch</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Pacher</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Evgenov</surname>
+<given-names>OV</given-names>
+</string-name>. <article-title>Soluble guanylate cyclase as an emerging therapeutic target in cardiopulmonary disease</article-title>. <source xml:lang="en">Circulation</source>. <year>2011</year>;<volume>123</volume>:<fpage>2263</fpage>&#x02010;<lpage>2273</lpage>.<pub-id pub-id-type="pmid">21606405</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0099"><label>99</label><mixed-citation publication-type="journal" id="ppul24442-cit-0099">
+<string-name>
+<surname>Kielstein</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Bode&#x02010;Boger</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Hesse</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Asymmetrical dimethylarginine in idiopathic pulmonary arterial hypertension</article-title>. <source xml:lang="en">Arterioscler Thromb Vasc Biol</source>. <year>2005</year>;<volume>25</volume>:<fpage>1414</fpage>&#x02010;<lpage>1418</lpage>.<pub-id pub-id-type="pmid">15860741</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0100"><label>100</label><mixed-citation publication-type="journal" id="ppul24442-cit-0100">
+<string-name>
+<surname>Migneault</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sauvageau</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Villeneuve</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Chronically elevated endothelin levels reduce pulmonary vascular reactivity to nitric oxide</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2005</year>;<volume>171</volume>:<fpage>506</fpage>&#x02010;<lpage>513</lpage>.<pub-id pub-id-type="pmid">15579730</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0101"><label>101</label><mixed-citation publication-type="journal" id="ppul24442-cit-0101">
+<string-name>
+<surname>Tsai</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Kass</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Cyclic GMP signaling in cardiovascular pathophysiology and therapeutics</article-title>. <source xml:lang="en">Pharmacol Ther</source>. <year>2009</year>;<volume>122</volume>:<fpage>216</fpage>&#x02010;<lpage>238</lpage>.<pub-id pub-id-type="pmid">19306895</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0102"><label>102</label><mixed-citation publication-type="journal" id="ppul24442-cit-0102">
+<string-name>
+<surname>Ghofrani</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Gali&#x000e8;</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Grimminger</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Riociguat for the treatment of pulmonary arterial hypertension</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2013</year>;<volume>369</volume>:<fpage>330</fpage>&#x02010;<lpage>340</lpage>.<pub-id pub-id-type="pmid">23883378</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0103"><label>103</label><mixed-citation publication-type="journal" id="ppul24442-cit-0103">
+<string-name>
+<surname>Ghofrani</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Grimminger</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Grunig</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Predictors of long&#x02010;term outcomes in patients treated with riociguat for pulmonary arterial hypertension: data from the PATENT&#x02010;2 open&#x02010;label, randomised, long&#x02010;term extension trial</article-title>. <source xml:lang="en">Lancet Respir Med</source>. <year>2016</year>;<volume>4</volume>:<fpage>361</fpage>&#x02010;<lpage>371</lpage>.<pub-id pub-id-type="pmid">27067479</pub-id></mixed-citation></ref><ref id="ppul24442-bib-0104"><label>104</label><mixed-citation publication-type="journal" id="ppul24442-cit-0104">
+<string-name>
+<surname>Hoeper MMS</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Corris</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Ghofrani</surname>
+<given-names>H&#x02010;A</given-names>
+</string-name>, et al. <article-title>RESPITE: switching to riociguat in pulmonary arterial hypertension patients with inadequate response to phosphodiesterase55 inhibitors</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2017</year>;(<issue>3</issue>):<fpage>50</fpage>
+<pub-id pub-id-type="doi">10.1183/13993003.02425-2016</pub-id> pii: 1602425.</mixed-citation></ref><ref id="ppul24442-bib-0105"><label>105</label><mixed-citation publication-type="journal" id="ppul24442-cit-0105">
+<string-name>
+<surname>Hoeper</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Ghofrani</surname>
+<given-names>H&#x02010;A</given-names>
+</string-name>, <string-name>
+<surname>Benza</surname>
+<given-names>RL</given-names>
+</string-name>, et al. <article-title>Rationale and design of the REPLACE: Riociguat rEplacing Phosphodiesterase 5 Inhibitor (PDE5i) Therapy evaLuated Against Continued PDE5i thErapy in patients with pulmonary arterial hypertension (PAH)</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2017</year>;<volume>195</volume>:<fpage>A2296</fpage>.</mixed-citation></ref><ref id="ppul24442-bib-0106"><label>106</label><mixed-citation publication-type="miscellaneous" id="ppul24442-cit-0106">
+<collab collab-type="authors">Adempas EU summary of product characteristics</collab>
+. [last accessed 8 April <year>2019</year>]. <ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/documents/product-information/adempas-epar-product-information_en.pdf">https://www.ema.europa.eu/en/documents/product&#x02010;information/adempas&#x02010;epar&#x02010;product&#x02010;information_en.pdf</ext-link>
+</mixed-citation></ref><ref id="ppul24442-bib-0107"><label>107</label><mixed-citation publication-type="miscellaneous" id="ppul24442-cit-0107">
+<collab collab-type="authors">Adempas (riociguat) tablets, for oral use. Highlights of prescribing information</collab>
+. [last accessed 8 April <year>2019</year>]. <ext-link ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/204819s011lbl.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/204819s011lbl.pdf</ext-link>
+</mixed-citation></ref><ref id="ppul24442-bib-0108"><label>108</label><mixed-citation publication-type="miscellaneous" id="ppul24442-cit-0108">
+<collab collab-type="authors">Approved risk evaluation and mitigation strategies (REMS)</collab>
+. [last accessed <year>5 July 2019</year>]. <ext-link ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/rems/index.cfm?event=IndvRemsDetails.page&#x00026;REMS=149">https://www.accessdata.fda.gov/scripts/cder/rems/index.cfm?event=IndvRemsDetails.page&#x00026;REMS=149</ext-link>
+</mixed-citation></ref><ref id="ppul24442-bib-0109"><label>109</label><mixed-citation publication-type="miscellaneous" id="ppul24442-cit-0109">
+<collab collab-type="authors">Adempas REMS program</collab>
+. [last accessed 7 July 2019]. <ext-link ext-link-type="uri" xlink:href="https://www.adempasrems.com/#MainContent">https://www.adempasrems.com/#MainContent</ext-link>
+</mixed-citation></ref><ref id="ppul24442-bib-0110"><label>110</label><mixed-citation publication-type="journal" id="ppul24442-cit-0110">
+<string-name>
+<surname>Adatia</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Haworth</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Wegner</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Clinical trials in neonates and children: Report of the pulmonary hypertension academic research consortium pediatric advisory committee</article-title>. <source xml:lang="en">Pulm Circ</source>. <year>2013</year>;<volume>3</volume>:<fpage>252</fpage>&#x02010;<lpage>266</lpage>.<pub-id pub-id-type="pmid">23662203</pub-id></mixed-citation></ref></ref-list></ref-list></back></article>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC5836048/results/word/frequencies/results.xml">
+  <result title="frequency" word="migraine" count="106"/>
+  <result title="frequency" word="(%)," count="96"/>
+  <result title="frequency" word="(%)" count="50"/>
+  <result title="frequency" word="confusional" count="50"/>
+  <result title="frequency" word="patients" count="47"/>
+  <result title="frequency" word="ACM" count="45"/>
+  <result title="frequency" word="symptoms" count="32"/>
+  <result title="frequency" word="speech" count="30"/>
+  <result title="frequency" word="Confusion" count="29"/>
+  <result title="frequency" word="disturbances" count="28"/>
+  <result title="frequency" word="memory" count="27"/>
+  <result title="frequency" word="acute" count="26"/>
+  <result title="frequency" word="visual" count="25"/>
+  <result title="frequency" word="reported" count="24"/>
+  <result title="frequency" word="agitation" count="22"/>
+  <result title="frequency" word="headache" count="22"/>
+  <result title="frequency" word="Acute" count="21"/>
+  <result title="frequency" word="Headache" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,418 @@
+{
+  "id": [
+    "21808880"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21808880"
+  ],
+  "pmcid": [
+    "PMC3129953"
+  ],
+  "doi": [
+    "10.1590/S1807-59322011000600028"
+  ],
+  "title": [
+    "Diagnosis and management of somatosensory tinnitus: review article."
+  ],
+  "authorString": [
+    "Sanchez TG, Rocha CB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sanchez TG"
+          ],
+          "firstName": [
+            "Tanit Ganz"
+          ],
+          "lastName": [
+            "Sanchez"
+          ],
+          "initials": [
+            "TG"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology, Faculdade de Medicina, Universidade de São Paulo, São Paulo, SP, Brazil. tanitsanchez@gmail.com"
+          ]
+        },
+        {
+          "fullName": [
+            "Rocha CB"
+          ],
+          "firstName": [
+            "Carina Bezerra"
+          ],
+          "lastName": [
+            "Rocha"
+          ],
+          "initials": [
+            "CB"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "66"
+      ],
+      "journalIssueId": [
+        "1852303"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinics (Sao Paulo, Brazil)"
+          ],
+          "ISOAbbreviation": [
+            "Clinics (Sao Paulo)"
+          ],
+          "medlineAbbreviation": [
+            "Clinics (Sao Paulo)"
+          ],
+          "NLMid": [
+            "101244734"
+          ],
+          "ISSN": [
+            "1807-5932"
+          ],
+          "ESSN": [
+            "1980-5322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "1089-1094"
+  ],
+  "abstractText": [
+    "Tinnitus is the perception of sound in the absence of an acoustic external stimulus. It affects 10-17% of the world's population and it a complex symptom with multiple causes, which is influenced by pathways other than the auditory one. Recently, it has been observed that tinnitus may be provoked or modulated by stimulation arising from the somatosensorial system, as well as from the somatomotor and visual-motor systems. This specific subgroup -somatosensory tinnitus - is present in 65% of cases, even though it tends to be underdiagnosed. As a consequence, it is necessary to establish evaluation protocols and specific treatments focusing on both the auditory pathway and the musculoskeletal system."
+  ],
+  "affiliation": [
+    "Department of Otolaryngology, Faculdade de Medicina, Universidade de São Paulo, São Paulo, SP, Brazil. tanitsanchez@gmail.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Auditory Pathways"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tinnitus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Somatosensory Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Management"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trigger Points"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1590/s1807-59322011000600028"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3129953"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3129953?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "24"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-03-05"
+  ],
+  "dateOfCreation": [
+    "2011-08-03"
+  ],
+  "firstIndexDate": [
+    "2011-08-05"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-03"
+  ],
+  "dateOfRevision": [
+    "2019-06-08"
+  ],
+  "firstPublicationDate": [
+    "2011-01-01"
+  ]
+}

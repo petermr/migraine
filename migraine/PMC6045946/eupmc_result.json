@@ -1,0 +1,288 @@
+{
+  "id": [
+    "30026771"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30026771"
+  ],
+  "pmcid": [
+    "PMC6045946"
+  ],
+  "title": [
+    "Investigating Brain MRI Findings in Children with Headache."
+  ],
+  "authorString": [
+    "AlAEE A, Abbaskhanian A, Azimi M, Azimi M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "AlAEE A"
+          ],
+          "firstName": [
+            "Abdulrasool"
+          ],
+          "lastName": [
+            "AlAEE"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Radiology, Mazandaran University of Medical Sciences, Sari, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Abbaskhanian A"
+          ],
+          "firstName": [
+            "Ali"
+          ],
+          "lastName": [
+            "Abbaskhanian"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology, Faculty of Medicine, Mazandaran University of Medical Sciences, Sari, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Azimi M"
+          ],
+          "firstName": [
+            "Maedeh"
+          ],
+          "lastName": [
+            "Azimi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Radiology, Mazandaran University of Medical Sciences, Sari, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Azimi M"
+          ],
+          "firstName": [
+            "Mohammadreza"
+          ],
+          "lastName": [
+            "Azimi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Radiology, Iran Army University of Medical Sciences, Tehran, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2708534"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Iranian journal of child neurology"
+          ],
+          "ISOAbbreviation": [
+            "Iran J Child Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Iran J Child Neurol"
+          ],
+          "NLMid": [
+            "101463836"
+          ],
+          "ISSN": [
+            "1735-4668"
+          ],
+          "ESSN": [
+            "2008-0700"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "78-85"
+  ],
+  "abstractText": [
+    "Objective:Migraine is a common headache associated with structural changes in brain. The purpose of this study was to evaluate brain MRI findings in children with migraine. Materials & Methods:This cross-sectional study was conducted at Booali Hospital, Mazandaran University of Medical Sciences, Sari, Iran. Participants with headache and age between 5 and 15 yr were evaluated with MRI and their headache type was diagnosed by the standard criteria. The findings of the MRI were interpreted by a radiologist blinded to the diagnoses. Results:Overall, 81 individuals with symptom of headache and the mean age of 9.56±3.25 yr were enrolled. Twenty patients with the mean age of 9.65±2.75 yr were diagnosed with migraine without aura. Among the 54 male patients, 8 patients (14.8%) were diagnosed with migraine; and among the 27 female patients, 12 patients (44.4%) were diagnosed with migraine (RR: 1.5, 95%CI: 1.07-2.18, P=0.004). Ten migraine patients had abnormal MRI findings (50%), including 8 cases with high signal white matter lesion, and 2 cases with empty sella. The occurrence of the high signal white matter lesions was significantly greater in the migraine patients (RR: 3.91, 95% CI: 2.10-7.25, P=0.001). Conclusion:The possibility of occurrence of the high signal white matter lesions in the brain MRI of children with migraine was significantly higher compared with other headache types."
+  ],
+  "affiliation": [
+    "Department of Radiology, Mazandaran University of Medical Sciences, Sari, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brain",
+        "Children",
+        "MRI",
+        "Migraine",
+        "Headache",
+        "White Matter Hyperintensity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6045946"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6045946?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-21"
+  ],
+  "firstIndexDate": [
+    "2018-07-21"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-06"
+  ],
+  "dateOfRevision": [
+    "2018-10-02"
+  ],
+  "firstPublicationDate": [
+    "2018-01-01"
+  ],
+  "embargoDate": [
+    "2018-10-01"
+  ]
+}

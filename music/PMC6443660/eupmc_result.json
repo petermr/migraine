@@ -1,0 +1,449 @@
+{
+  "id": [
+    "30931979"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30931979"
+  ],
+  "pmcid": [
+    "PMC6443660"
+  ],
+  "doi": [
+    "10.1038/s41598-019-41867-x"
+  ],
+  "title": [
+    "Altered neural activity to monetary reward/loss processing in episodic migraine."
+  ],
+  "authorString": [
+    "Kocsel N, Galambos A, Szabó E, Édes AE, Magyar M, Zsombók T, Pap D, Kozák LR, Bagdy G, Kökönyei G, Juhász G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kocsel N"
+          ],
+          "firstName": [
+            "Natália"
+          ],
+          "lastName": [
+            "Kocsel"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Doctoral School of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Galambos A"
+          ],
+          "firstName": [
+            "Attila"
+          ],
+          "lastName": [
+            "Galambos"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Doctoral School of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Szabó E"
+          ],
+          "firstName": [
+            "Edina"
+          ],
+          "lastName": [
+            "Szabó"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Doctoral School of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Édes AE"
+          ],
+          "firstName": [
+            "Andrea Edit"
+          ],
+          "lastName": [
+            "Édes"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "affiliation": [
+            "SE-NAP2 Genetic Brain Imaging Migraine Research Group, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Magyar M"
+          ],
+          "firstName": [
+            "Máté"
+          ],
+          "lastName": [
+            "Magyar"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neurology, Faculty of Medicine, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Zsombók T"
+          ],
+          "firstName": [
+            "Terézia"
+          ],
+          "lastName": [
+            "Zsombók"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Neurology, Faculty of Medicine, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Pap D"
+          ],
+          "firstName": [
+            "Dorottya"
+          ],
+          "lastName": [
+            "Pap"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Pharmacodynamics, Faculty of Pharmacy, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Kozák LR"
+          ],
+          "firstName": [
+            "Lajos Rudolf"
+          ],
+          "lastName": [
+            "Kozák"
+          ],
+          "initials": [
+            "LR"
+          ],
+          "affiliation": [
+            "MR Research Center, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Bagdy G"
+          ],
+          "firstName": [
+            "György"
+          ],
+          "lastName": [
+            "Bagdy"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Pharmacodynamics, Faculty of Pharmacy, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Kökönyei G"
+          ],
+          "firstName": [
+            "Gyöngyi"
+          ],
+          "lastName": [
+            "Kökönyei"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6750-2644",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary. kokonyei.gyongyi@ppk.elte.hu."
+          ]
+        },
+        {
+          "fullName": [
+            "Juhász G"
+          ],
+          "firstName": [
+            "Gabriella"
+          ],
+          "lastName": [
+            "Juhász"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5975-4267",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "SE-NAP2 Genetic Brain Imaging Migraine Research Group, Semmelweis University, Budapest, Hungary."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5975-4267",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6750-2644",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2799475"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "5420"
+  ],
+  "abstractText": [
+    "The dysfunctions of the mesolimbic cortical reward circuit have been proposed to contribute to migraine pain. Although supporting empirical evidence was mainly found in connection with primary rewards or in chronic migraine where the pain experience is (almost) constant. Our goal however was to investigate the neural correlates of secondary reward/loss anticipation and consumption using the monetary incentive delay task in 29 episodic migraine patients and 41 headache-free controls. Migraine patients showed decreased activation in one cluster covering the right inferior frontal gyrus during reward consumption compared to controls. We also found significant negative correlation between the time of the last migraine attack before the scan and activation of the parahippocampal gyrus and the right hippocampus yielded to loss anticipation. During reward/loss consumption, a relative increase in the activity of the visual areas was observed the more time passed between the last attack and the scan session. Our results suggest intact reward/loss anticipation but altered reward consumption in migraine, indicating a decreased reactivity to monetary rewards. The findings also raise the possibility that neural responses to loss anticipation and reward/loss consumption could be altered by the proximity of the last migraine attack not just during pre-ictal periods, but interictally as well."
+  ],
+  "affiliation": [
+    "Doctoral School of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-41867-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6443660"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6443660?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-02"
+  ],
+  "firstIndexDate": [
+    "2019-04-02"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-08"
+  ],
+  "dateOfRevision": [
+    "2019-04-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-01"
+  ],
+  "firstPublicationDate": [
+    "2019-04-01"
+  ]
+}

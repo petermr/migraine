@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC5836048/results/species/binomial/results.xml">
+  <result pre=" " exact="Clinical presentation" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/p[5]" match="Clinical presentation" post=": Confusion, disorientation and agitation are the cardinal and distinctive features, followed or ac" name="binomial"/>
+  <result pre=" " exact="Diagnostic testing" match="Diagnostic testing" post=": Routine laboratory work performed in the majority of patients were reported as normal. Cerebrospi" name="binomial"/>
+ </snippets>
+</snippetsTree>

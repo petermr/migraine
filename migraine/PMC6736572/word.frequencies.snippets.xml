@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6736572/results/word/frequencies/results.xml">
+  <result title="frequency" word="sleep" count="93"/>
+  <result title="frequency" word="CAP" count="42"/>
+  <result title="frequency" word="migraine" count="39"/>
+  <result title="frequency" word="children" count="30"/>
+  <result title="frequency" word="Sleep" count="25"/>
+  <result title="frequency" word="MoA" count="24"/>
+  <result title="frequency" word="NREM" count="23"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6366439/results/search/disease/results.xml">
+  <result pre="of patients with a wide spectrum of neurological conditions including" exact="stroke" post="[ 16, 21, 22], headache [ 23– 25], multiple"/>
+  <result pre="including stroke [ 16, 21, 22], headache [ 23– 25]," exact="multiple sclerosis" post="[ 26], mental health disorders [ 27, 28], epilepsy"/>
+  <result pre="multiple sclerosis [ 26], mental health disorders [ 27, 28]," exact="epilepsy" post="[ 29, 30] and neurodegenerative diseases [ 31– 34]."/>
+  <result pre="Dix-Hallpike and supine roll testing for patients with suspected post-traumatic" exact="benign paroxysmal positional vertigo." post="In addition, a cervical spine examination is performed including"/>
+  <result pre="vestibulo-ocular dysfunction, cervical spine dysfunction, exercise intolerance, post-traumatic headaches or" exact="migraine" post="headaches and post-injury mood or psychiatric disorders [ 39,"/>
+  <result pre="concussion (6; 30%), depression (2; 10%), anxiety (1, 5%) and" exact="attention deficit hyperactivity disorder" post="(1; 5%). Mechanisms of injury included hockey (10; 50%),"/>
+  <result pre="acute concussion, 1 (5%) was diagnosed with PPCS and post-traumatic" exact="migraine" post="headaches and 2 infants were diagnosed with head injuries."/>
+  <result pre="This approach has been successfully applied to disorders, such as" exact="stroke" post="[ 52] and paediatric headache [ 23], and may"/>
+  <result pre=", Lindsay MP , Foley N , et al Canadian" exact="stroke" post="best practice recommendations: telestroke best practice guidelines update 2017"/>
+  <result pre="Wiebe S , Mann C , et al Telemedicine and" exact="epilepsy" post="care - a Canada wide survey. Can J Neurol"/>
+  <result pre="Boyd EL , Barrett KM , et al Comparison of" exact="stroke" post="outcomes of hub and spoke hospital treated patients in"/>
+ </snippets>
+</snippetsTree>

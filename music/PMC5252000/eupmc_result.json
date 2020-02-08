@@ -1,0 +1,213 @@
+{
+  "id": [
+    "PMC5252000"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5252000"
+  ],
+  "title": [
+    "Lectures on Aphasia."
+  ],
+  "authorString": [
+    "Bramwell B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bramwell B"
+          ],
+          "firstName": [
+            "Byrom"
+          ],
+          "lastName": [
+            "Bramwell"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Physician to the Royal Infirmary; Lecturer on the Principles and Practice of Medicine, School of Medicine, Edinburgh"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2676627"
+      ],
+      "dateOfPublication": [
+        "1897 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "1897"
+      ],
+      "printPublicationDate": [
+        "1897-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Edinburgh medical journal"
+          ],
+          "ISOAbbreviation": [
+            "Edinb Med J"
+          ],
+          "medlineAbbreviation": [
+            "Edinb Med J"
+          ],
+          "NLMid": [
+            "0007305"
+          ],
+          "ISSN": [
+            "0367-1038"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1897"
+  ],
+  "pageInfo": [
+    "454-465"
+  ],
+  "affiliation": [
+    "Physician to the Royal Infirmary; Lecturer on the Principles and Practice of Medicine, School of Medicine, Edinburgh"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5252000/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5252000"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-04-28"
+  ],
+  "firstIndexDate": [
+    "2018-04-28"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-27"
+  ],
+  "dateOfRevision": [
+    "2019-10-01"
+  ],
+  "firstPublicationDate": [
+    "1897-11-01"
+  ]
+}

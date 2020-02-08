@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6646581/results/search/funders/results.xml">
+  <result pre="Department of Diagnostic and Interventional Neuroradiology, Klinikum rechts der Isar," exact="Technische Universität München" post="Munich Germany [], 3 TUM-Neuroimaging Center, Klinikum rechts der"/>
+  <result pre="Munich Germany [], 3 TUM-Neuroimaging Center, Klinikum rechts der Isar," exact="Technische Universität München" post="Munich Germany [], 4 Department of Neurosurgery, Klinikum rechts"/>
+  <result pre="Germany [], 4 Department of Neurosurgery, Klinikum rechts der Isar," exact="Technische Universität München" post="Munich Germany Edited by: Massimiliano Valeriani, Bambino Gesù Children"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,922 @@
+{
+  "id": [
+    "29875186"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29875186"
+  ],
+  "pmcid": [
+    "PMC6109242"
+  ],
+  "doi": [
+    "10.1136/jnnp-2018-317969"
+  ],
+  "title": [
+    "CSF cytokine profile in MOG-IgG+ neurological disease is similar to AQP4-IgG+ NMOSD but distinct from MS: a cross-sectional study and potential therapeutic implications."
+  ],
+  "authorString": [
+    "Kaneko K, Sato DK, Nakashima I, Ogawa R, Akaishi T, Takai Y, Nishiyama S, Takahashi T, Misu T, Kuroda H, Tanaka S, Nomura K, Hashimoto Y, Callegaro D, Steinman L, Fujihara K, Aoki M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kaneko K"
+          ],
+          "firstName": [
+            "Kimihiko"
+          ],
+          "lastName": [
+            "Kaneko"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sato DK"
+          ],
+          "firstName": [
+            "Douglas Kazutoshi"
+          ],
+          "lastName": [
+            "Sato"
+          ],
+          "initials": [
+            "DK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7695-6020",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakashima I"
+          ],
+          "firstName": [
+            "Ichiro"
+          ],
+          "lastName": [
+            "Nakashima"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2612-8948",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ogawa R"
+          ],
+          "firstName": [
+            "Ryo"
+          ],
+          "lastName": [
+            "Ogawa"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Akaishi T"
+          ],
+          "firstName": [
+            "Tetsuya"
+          ],
+          "lastName": [
+            "Akaishi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takai Y"
+          ],
+          "firstName": [
+            "Yoshiki"
+          ],
+          "lastName": [
+            "Takai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nishiyama S"
+          ],
+          "firstName": [
+            "Shuhei"
+          ],
+          "lastName": [
+            "Nishiyama"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takahashi T"
+          ],
+          "firstName": [
+            "Toshiyuki"
+          ],
+          "lastName": [
+            "Takahashi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Misu T"
+          ],
+          "firstName": [
+            "Tatsuro"
+          ],
+          "lastName": [
+            "Misu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuroda H"
+          ],
+          "firstName": [
+            "Hiroshi"
+          ],
+          "lastName": [
+            "Kuroda"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tanaka S"
+          ],
+          "firstName": [
+            "Satoru"
+          ],
+          "lastName": [
+            "Tanaka"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology, Saitama Medical University, Kawagoe, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nomura K"
+          ],
+          "firstName": [
+            "Kyoichi"
+          ],
+          "lastName": [
+            "Nomura"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Neurology, Saitama Medical University, Kawagoe, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hashimoto Y"
+          ],
+          "firstName": [
+            "Yuji"
+          ],
+          "lastName": [
+            "Hashimoto"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chiba Kaihin Municipal Hospital, Chiba, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Callegaro D"
+          ],
+          "firstName": [
+            "Dagoberto"
+          ],
+          "lastName": [
+            "Callegaro"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Neurology, São Paulo University, São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Steinman L"
+          ],
+          "firstName": [
+            "Lawrence"
+          ],
+          "lastName": [
+            "Steinman"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurological Sciences, Stanford University School of Medicine, Stanford, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fujihara K"
+          ],
+          "firstName": [
+            "Kazuo"
+          ],
+          "lastName": [
+            "Fujihara"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Aoki M"
+          ],
+          "firstName": [
+            "Masashi"
+          ],
+          "lastName": [
+            "Aoki"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7695-6020",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2612-8948",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "89"
+      ],
+      "journalIssueId": [
+        "2717573"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of neurology, neurosurgery, and psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "J. Neurol. Neurosurg. Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "J Neurol Neurosurg Psychiatry"
+          ],
+          "NLMid": [
+            "2985191R"
+          ],
+          "ISSN": [
+            "0022-3050"
+          ],
+          "ESSN": [
+            "1468-330X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "927-936"
+  ],
+  "abstractText": [
+    "OBJECTIVE:To evaluate cerebrospinal fluid (CSF) cytokine profiles in myelin oligodendrocyte glycoprotein IgG-positive (MOG-IgG+) disease in adult and paediatric patients. METHODS:In this cross-sectional study, we measured 27 cytokines in the CSF of MOG-IgG+ disease in acute phase before treatment (n=29). The data were directly compared with those in aquaporin-4 antibody-positive (AQP4-IgG+) neuromyelitis optica spectrum disorder (NMOSD) (n=20), multiple sclerosis (MS) (n=20) and non-inflammatory controls (n=14). RESULTS:In MOG-IgG+ disease, there was no female preponderance and the ages were younger (mean 18 years, range 3-68; 15 were below 18 years) relative to AQP4-IgG+ NMOSD (41, 15-77) and MS (34, 17-48). CSF cell counts were higher and oligoclonal IgG bands were mostly negative in MOG-IgG+ disease and AQP4-IgG+ NMOSD compared with MS. MOG-IgG+ disease had significantly elevated levels of interleukin (IL)-6, IL-8, granulocyte-colony stimulating factor and granulocyte macrophage-colony stimulating factor, interferon-γ, IL-10, IL-1 receptor antagonist, monocyte chemotactic protein-1 and macrophage inflammatory protein-1α as compared with MS. No cytokine in MOG-IgG+ disease was significantly different from AQP4-IgG+ NMOSD. Moreover many elevated cytokines were correlated with each other in MOG-IgG+ disease and AQP4-IgG+ NMOSD but not in MS. No difference in the data was seen between adult and paediatric MOG-IgG+ cases. CONCLUSIONS:The CSF cytokine profile in the acute phase of MOG-IgG+ disease is characterised by coordinated upregulation of T helper 17 (Th17) and other cytokines including some Th1-related and regulatory T cells-related ones in adults and children, which is similar to AQP4-IgG+ NMOSD but clearly different from MS. The results suggest that as with AQP4-IgG+ NMOSD, some disease-modifying drugs for MS may be ineffective in MOG-IgG+ disease while they may provide potential therapeutic targets."
+  ],
+  "affiliation": [
+    "Department of Neurology, Tohoku University Graduate School of Medicine, Sendai, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multiple Sclerosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CF"
+                  ],
+                  "qualifierName": [
+                    "cerebrospinal fluid"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuromyelitis Optica"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CF"
+                  ],
+                  "qualifierName": [
+                    "cerebrospinal fluid"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immunoglobulin G"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CF"
+                  ],
+                  "qualifierName": [
+                    "cerebrospinal fluid"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytokines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CF"
+                  ],
+                  "qualifierName": [
+                    "cerebrospinal fluid"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Case-Control Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aquaporin 4"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CF"
+                  ],
+                  "qualifierName": [
+                    "cerebrospinal fluid"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myelin-Oligodendrocyte Glycoprotein"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CF"
+                  ],
+                  "qualifierName": [
+                    "cerebrospinal fluid"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cytokine profile",
+        "Multiple sclerosis",
+        "Demyelinating disease",
+        "Neuromyelitis Optica Spectrum Disorders",
+        "Aquaporin-4-igg",
+        "Myelin Oligodendrocyte Glycoprotein-igg"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "aquaporin 4"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Immunoglobulin G"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cytokines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Myelin-Oligodendrocyte Glycoprotein"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/jnnp-2018-317969"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6109242"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6109242?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29875185"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "J Neurol Neurosurg Psychiatry. 2018 Sep;89(9):900"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        },
+        {
+          "id": [
+            "30967492"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "J Neurol Neurosurg Psychiatry. 2019 Apr;90(4):e4"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-10-08"
+  ],
+  "dateOfCreation": [
+    "2018-06-08"
+  ],
+  "firstIndexDate": [
+    "2018-06-08"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-29"
+  ],
+  "dateOfRevision": [
+    "2019-10-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-06"
+  ],
+  "firstPublicationDate": [
+    "2018-06-06"
+  ]
+}

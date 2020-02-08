@@ -1,0 +1,250 @@
+{
+  "id": [
+    "21847274"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21847274"
+  ],
+  "pmcid": [
+    "PMC3012340"
+  ],
+  "title": [
+    "Effects of relaxation therapy in management of muscular contraction headache in executives."
+  ],
+  "authorString": [
+    "Mehta M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mehta M"
+          ],
+          "lastName": [
+            "Mehta"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "25"
+      ],
+      "journalIssueId": [
+        "1857372"
+      ],
+      "dateOfPublication": [
+        "1983 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "1983"
+      ],
+      "printPublicationDate": [
+        "1983-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian Journal of Psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Psychiatry"
+          ],
+          "NLMid": [
+            "0013255"
+          ],
+          "ISSN": [
+            "0019-5545"
+          ],
+          "ESSN": [
+            "1998-3794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1983"
+  ],
+  "pageInfo": [
+    "144-147"
+  ],
+  "abstractText": [
+    "Five executives suffering from muscular contractions (tension) headache were treated by deep muscular relaxation therapy. Individual sessions were supplemented by practice of relaxation at home, brief relaxation, and cue relaxation during office hours.The effect of therapy, was assessed, by comparing the baseline, pretreatment individual assessment of their behavioral state and self report, with the similar assessment done during and after the successful completion of therapy. The advantages of such an individual assessment & self report in the management of muscular contraction headache are discussed."
+  ],
+  "affiliation": [
+    "Clinical Psychologist, Department of Psychiatry, AIIMS, New Delhi."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21847274/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21847274/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3012340"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3012340?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-11-10"
+  ],
+  "dateOfCreation": [
+    "2011-08-17"
+  ],
+  "firstIndexDate": [
+    "2011-08-18"
+  ],
+  "fullTextReceivedDate": [
+    "2011-09-23"
+  ],
+  "firstPublicationDate": [
+    "1983-04-01"
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "id": [
+    "25167765"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25167765"
+  ],
+  "pmcid": [
+    "PMC4156621"
+  ],
+  "doi": [
+    "10.1186/1756-0500-7-573"
+  ],
+  "title": [
+    "Medical applications: a database and characterization of apps in Apple iOS and Android platforms."
+  ],
+  "authorString": [
+    "Seabrook HJ, Stromer JN, Shevkenek C, Bharwani A, de Grood J, Ghali WA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Seabrook HJ"
+          ],
+          "firstName": [
+            "Heather J"
+          ],
+          "lastName": [
+            "Seabrook"
+          ],
+          "initials": [
+            "HJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Stromer JN"
+          ],
+          "firstName": [
+            "Julie N"
+          ],
+          "lastName": [
+            "Stromer"
+          ],
+          "initials": [
+            "JN"
+          ]
+        },
+        {
+          "fullName": [
+            "Shevkenek C"
+          ],
+          "firstName": [
+            "Cole"
+          ],
+          "lastName": [
+            "Shevkenek"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Bharwani A"
+          ],
+          "firstName": [
+            "Aleem"
+          ],
+          "lastName": [
+            "Bharwani"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "de Grood J"
+          ],
+          "firstName": [
+            "Jill"
+          ],
+          "lastName": [
+            "de Grood"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Ghali WA"
+          ],
+          "firstName": [
+            "William A"
+          ],
+          "lastName": [
+            "Ghali"
+          ],
+          "initials": [
+            "WA"
+          ],
+          "affiliation": [
+            "Ward of the 21st Century, GD01 TRW Building, 3280 Hospital Drive NW, University of Calgary, Calgary, AB T2N 4Z6, Canada. wghali@ucalgary.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2130301"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC research notes"
+          ],
+          "ISOAbbreviation": [
+            "BMC Res Notes"
+          ],
+          "medlineAbbreviation": [
+            "BMC Res Notes"
+          ],
+          "NLMid": [
+            "101462768"
+          ],
+          "ISSN": [
+            "1756-0500"
+          ],
+          "ESSN": [
+            "1756-0500"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "573"
+  ],
+  "abstractText": [
+    "BACKGROUND: Medical applications (apps) for smart phones and tablet computers are growing in number and are commonly used in healthcare. In this context, there is a need for a diverse community of app users, medical researchers, and app developers to better understand the app landscape. METHODS: In mid-2012, we undertook an environmental scan and classification of the medical app landscape in the two dominant platforms by searching the medical category of the Apple iTunes and Google Play app download sites. We identified target audiences, functions, costs and content themes using app descriptions and captured these data in a database. We only included apps released or updated between October 1, 2011 and May 31, 2012, with a primary \"medical\" app store categorization, in English, that contained health or medical content. Our sample of Android apps was limited to the most popular apps in the medical category. RESULTS: Our final sample of Apple iOS (n = 4561) and Android (n = 293) apps illustrate a diverse medical app landscape. The proportion of Apple iOS apps for the public (35%) and for physicians (36%) is similar. Few Apple iOS apps specifically target nurses (3%). Within the Android apps, those targeting the public dominated in our sample (51%). The distribution of app functions is similar in both platforms with reference being the most common function. Most app functions and content themes vary considerably by target audience. Social media apps are more common for patients and the public, while conference apps target physicians. CONCLUSIONS: We characterized existing medical apps and illustrated their diversity in terms of target audience, main functions, cost and healthcare topic. The resulting app database is a resource for app users, app developers and health informatics researchers."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Database Management Systems"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Programming Languages"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mobile Applications"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25167765/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25167765/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1756-0500-7-573"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4156621"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4156621?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-05-12"
+  ],
+  "dateOfCreation": [
+    "2014-09-03"
+  ],
+  "firstIndexDate": [
+    "2014-08-30"
+  ],
+  "fullTextReceivedDate": [
+    "2014-09-08"
+  ],
+  "electronicPublicationDate": [
+    "2014-08-27"
+  ],
+  "firstPublicationDate": [
+    "2014-08-27"
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "id": [
+    "25210626"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25210626"
+  ],
+  "pmcid": [
+    "PMC4158257"
+  ],
+  "doi": [
+    "10.1155/2014/582039"
+  ],
+  "title": [
+    "Highights in the history of epilepsy: the last 200 years."
+  ],
+  "authorString": [
+    "Magiorkinis E, Diamantis A, Sidiropoulou K, Panteliadis C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Magiorkinis E"
+          ],
+          "firstName": [
+            "Emmanouil"
+          ],
+          "lastName": [
+            "Magiorkinis"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8883-7275",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Office for the Study of Hellenic Naval Medicine, Naval Hospital of Athens, Deinokratous 70, 11527 Athens, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Diamantis A"
+          ],
+          "firstName": [
+            "Aristidis"
+          ],
+          "lastName": [
+            "Diamantis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5392-1194",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Office for the Study of Hellenic Naval Medicine, Naval Hospital of Athens, Deinokratous 70, 11527 Athens, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Sidiropoulou K"
+          ],
+          "firstName": [
+            "Kalliopi"
+          ],
+          "lastName": [
+            "Sidiropoulou"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2715-8564",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Office for the Study of Hellenic Naval Medicine, Naval Hospital of Athens, Deinokratous 70, 11527 Athens, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Panteliadis C"
+          ],
+          "firstName": [
+            "Christos"
+          ],
+          "lastName": [
+            "Panteliadis"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Division of Paediatric Neurology and Developmental Medicine, Aristotle University of Thessaloniki, AHEPA Hospital, Stilp Kiriakidi 1, 54634 Thessaloniki, Greece."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5392-1194",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2715-8564",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8883-7275",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2014"
+      ],
+      "journalIssueId": [
+        "2135387"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Epilepsy research and treatment"
+          ],
+          "ISOAbbreviation": [
+            "Epilepsy Res Treat"
+          ],
+          "medlineAbbreviation": [
+            "Epilepsy Res Treat"
+          ],
+          "NLMid": [
+            "101576602"
+          ],
+          "ISSN": [
+            "2090-1348"
+          ],
+          "ESSN": [
+            "2090-1356"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "582039"
+  ],
+  "abstractText": [
+    "The purpose of this study was to present the evolution of views on epilepsy as a disease and symptom during the 19th and the 20th century. A thorough study of texts, medical books, and reports along with a review of the available literature in PubMed was undertaken. The 19th century is marked by the works of the French medical school and of John Hughlings Jackson who set the research on epilepsy on a solid scientific basis. During the 20th century, the invention of EEG, the advance in neurosurgery, the discovery of antiepileptic drugs, and the delineation of underlying pathophysiological mechanisms, were the most significant advances in the field of research in epilepsy. Among the most prestigious physicians connected with epilepsy one can pinpoint the work of Henry Gastaut, Wilder Penfield, and Herbert Jasper. The most recent advances in the field of epilepsy include the development of advanced imaging techniques, the development of microsurgery, and the research on the connection between genetic factors and epileptic seizures."
+  ],
+  "affiliation": [
+    "Office for the Study of Hellenic Naval Medicine, Naval Hospital of Athens, Deinokratous 70, 11527 Athens, Greece."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2014/582039"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4158257"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4158257?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-09-11"
+  ],
+  "dateOfCreation": [
+    "2014-09-11"
+  ],
+  "firstIndexDate": [
+    "2014-09-13"
+  ],
+  "fullTextReceivedDate": [
+    "2014-09-13"
+  ],
+  "dateOfRevision": [
+    "2017-06-01"
+  ],
+  "electronicPublicationDate": [
+    "2014-08-24"
+  ],
+  "firstPublicationDate": [
+    "2014-08-24"
+  ]
+}

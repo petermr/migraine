@@ -1,0 +1,362 @@
+{
+  "id": [
+    "30538669"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30538669"
+  ],
+  "pmcid": [
+    "PMC6277635"
+  ],
+  "doi": [
+    "10.3389/fneur.2018.01009"
+  ],
+  "title": [
+    "Non-pharmacological Approaches for Headaches in Young Age: An Updated Review."
+  ],
+  "authorString": [
+    "Andrasik F, Grazzi L, Sansone E, D'Amico D, Raggi A, Grignani E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Andrasik F"
+          ],
+          "firstName": [
+            "Frank"
+          ],
+          "lastName": [
+            "Andrasik"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Memphis, Memphis, TN, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Grazzi L"
+          ],
+          "firstName": [
+            "Licia"
+          ],
+          "lastName": [
+            "Grazzi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Neuroalgology Division, Fondazione IRCCS Istituto Neurologico Carlo Besta, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sansone E"
+          ],
+          "firstName": [
+            "Emanuela"
+          ],
+          "lastName": [
+            "Sansone"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Neuroalgology Division, Fondazione IRCCS Istituto Neurologico Carlo Besta, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Amico D"
+          ],
+          "firstName": [
+            "Domenico"
+          ],
+          "lastName": [
+            "D'Amico"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Neuroalgology Division, Fondazione IRCCS Istituto Neurologico Carlo Besta, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Raggi A"
+          ],
+          "firstName": [
+            "Alberto"
+          ],
+          "lastName": [
+            "Raggi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7433-7779",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Neurology, Public Health and Disability Unit, Fondazione IRCCS Istituto Neurologico Carlo Besta, Neurology, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Grignani E"
+          ],
+          "firstName": [
+            "Eleonora"
+          ],
+          "lastName": [
+            "Grignani"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Neurology, Public Health and Disability Unit, Fondazione IRCCS Istituto Neurologico Carlo Besta, Neurology, Milan, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7433-7779",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2647770"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1009"
+  ],
+  "abstractText": [
+    "Headache disorders are common in children and adolescents. Most of the studies on non-pharmacological treatments have however been carried out on adults. In this review we provide information on recent studies examining non-pharmacological approaches for managing headache in children and adolescents. Our search of SCOPUS for primary studies conducted between January 2010 and July 2018 uncovered 11 controlled studies, mostly addressing behavioral approaches, in which a total of 613 patients with a diagnosis of primary headache, and average age 10.2-15.7 years (30-89% females) were recruited. Non-pharmacological treatments were shown to produce sizeable effects on the classical primary endpoint, i.e., headache frequency, with reductions from baseline ranging between 34 and 78%. Among commonly reported secondary endpoints, particularly disability, quality of life, depression and anxiety, marked improvements were noted as well. Taken as a whole, our findings suggest that non-pharmacological treatments constitute a valid option for the prevention of primary headaches in young age. Future research with higher-quality studies is needed. Particular attention needs to be given to studies that randomize patients to condition, blind researchers in charge of evaluating treatment outcomes, routinely include headache frequency as the primary endpoint, include adequate-length follow-up, address changes in biomarkers of disease and other possible mediators of outcome, and that employ predictive models to enhance the level of evidence for these approaches."
+  ],
+  "affiliation": [
+    "Department of Psychology, University of Memphis, Memphis, TN, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Depression",
+        "Transcranial magnetic stimulation",
+        "Migraine",
+        "Biofeedback",
+        "Disability",
+        "Tension-type Headache",
+        "Mindfulness",
+        "Cognitive-behavioral Therapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2018.01009"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6277635"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6277635?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-13"
+  ],
+  "firstIndexDate": [
+    "2018-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-14"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-27"
+  ],
+  "firstPublicationDate": [
+    "2018-11-27"
+  ]
+}

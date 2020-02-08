@@ -1,0 +1,323 @@
+{
+  "id": [
+    "24062665"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24062665"
+  ],
+  "pmcid": [
+    "PMC3769635"
+  ],
+  "doi": [
+    "10.3389/fnhum.2013.00563"
+  ],
+  "title": [
+    "The immune hypothesis of synesthesia."
+  ],
+  "authorString": [
+    "Carmichael DA, Simner J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Carmichael DA"
+          ],
+          "firstName": [
+            "Duncan A"
+          ],
+          "lastName": [
+            "Carmichael"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Edinburgh Edinburgh, UK ; Institute for Adaptive and Neural Computation, University of Edinburgh Edinburgh, UK ; Division of Psychiatry, Royal Edinburgh Hospital, University of Edinburgh Edinburgh, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Simner J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Simner"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4789-0138",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4789-0138",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2004142"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "563"
+  ],
+  "affiliation": [
+    "Department of Psychology, University of Edinburgh Edinburgh, UK ; Institute for Adaptive and Neural Computation, University of Edinburgh Edinburgh, UK ; Division of Psychiatry, Royal Edinburgh Hospital, University of Edinburgh Edinburgh, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "editorial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genes",
+        "Genetics",
+        "Immune system",
+        "Immunity",
+        "Synesthesia",
+        "Cortical Connectivity",
+        "Neurological Basis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24062665/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24062665/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2013.00563"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3769635"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3769635?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-09-24"
+  ],
+  "dateOfCreation": [
+    "2013-09-24"
+  ],
+  "firstIndexDate": [
+    "2013-09-25"
+  ],
+  "fullTextReceivedDate": [
+    "2013-09-25"
+  ],
+  "dateOfRevision": [
+    "2014-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2013-09-11"
+  ],
+  "firstPublicationDate": [
+    "2013-09-11"
+  ]
+}

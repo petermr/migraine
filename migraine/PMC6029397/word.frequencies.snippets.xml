@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6029397/results/word/frequencies/results.xml">
+  <result title="frequency" word="patients" count="56"/>
+  <result title="frequency" word="homoplasmy" count="46"/>
+  <result title="frequency" word="vomiting" count="42"/>
+  <result title="frequency" word="CVS" count="41"/>
+  <result title="frequency" word="N/A" count="41"/>
+  <result title="frequency" word="mtDNA" count="32"/>
+  <result title="frequency" word="pediatric" count="23"/>
+  <result title="frequency" word="cyclic" count="22"/>
+  <result title="frequency" word="syndrome" count="22"/>
+ </snippets>
+</snippetsTree>

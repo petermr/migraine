@@ -1,0 +1,304 @@
+{
+  "id": [
+    "30159347"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30159347"
+  ],
+  "pmcid": [
+    "PMC6089040"
+  ],
+  "doi": [
+    "10.4103/jehp.jehp_141_17"
+  ],
+  "title": [
+    "The effect of auriculotherapy on the severity and duration of labor pain."
+  ],
+  "authorString": [
+    "Valiani M, Azimi M, Dehnavi ZM, Mohammadi S, Pirhadi M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Valiani M"
+          ],
+          "firstName": [
+            "Mahboubeh"
+          ],
+          "lastName": [
+            "Valiani"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Nursing and Midwifery Care Research Center, Faculty of Nursing and Midwifery, Isfahan University of Medical Sciences, Isfahan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Azimi M"
+          ],
+          "firstName": [
+            "Masoumeh"
+          ],
+          "lastName": [
+            "Azimi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Nursing and Midwifery Care Research Center, Faculty of Nursing and Midwifery, Isfahan University of Medical Sciences, Isfahan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Dehnavi ZM"
+          ],
+          "firstName": [
+            "Zahra Mohebbi"
+          ],
+          "lastName": [
+            "Dehnavi"
+          ],
+          "initials": [
+            "ZM"
+          ],
+          "affiliation": [
+            "Nursing and Midwifery Care Research Center, Faculty of Nursing and Midwifery, Isfahan University of Medical Sciences, Isfahan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Mohammadi S"
+          ],
+          "firstName": [
+            "Soheila"
+          ],
+          "lastName": [
+            "Mohammadi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Nursing and Midwifery Care Research Center, Faculty of Nursing and Midwifery, Isfahan University of Medical Sciences, Isfahan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Pirhadi M"
+          ],
+          "firstName": [
+            "Masoume"
+          ],
+          "lastName": [
+            "Pirhadi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Nursing and Midwifery Care Research Center, Faculty of Nursing and Midwifery, Isfahan University of Medical Sciences, Isfahan, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2649719"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of education and health promotion"
+          ],
+          "ISOAbbreviation": [
+            "J Educ Health Promot"
+          ],
+          "medlineAbbreviation": [
+            "J Educ Health Promot"
+          ],
+          "NLMid": [
+            "101593794"
+          ],
+          "ISSN": [
+            "2277-9531"
+          ],
+          "ESSN": [
+            "2319-6440"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "101"
+  ],
+  "abstractText": [
+    "Pain is a common phenomenon and an inevitable part of the labor process. Labor pain is one of the most severe pains. Auriculotherapy is one of the nonpharmacological aspects of relieving pain, reduces the intensity of pain, and improves its compatibility. The purpose of this study was to determine the effect of auriculotherapy on labor pain in primiparous women.This clinical trial was performed on 84 pregnant women aged between 18 and 35 years, who referred to Isfahan Shahid Beheshti Hospital in 2017. This study was carried out between two groups: control group (receiving routine hospital care) and interventional group (20 min for auriculotherapy). We used the McGill Short-Form Standard questionnaire with Visual Analog Scale. Data were analyzed by SPSS software using paired t-test and ANOVA.The results showed that there was no significant difference between demographic variables in the two groups. Statistical analysis also showed that the severity of labor pain in the interventional group (auriculotherapy) was lower than that of the control group (P = 0.001).Auriculotherapy reduces the severity of labor pain in primiparous women. Due to the easy, inexpensive, and noninvasive nature of this method, its use has been recommended in these cases."
+  ],
+  "affiliation": [
+    "Nursing and Midwifery Care Research Center, Faculty of Nursing and Midwifery, Isfahan University of Medical Sciences, Isfahan, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Delivery",
+        "Iran",
+        "Pain",
+        "Primiparous Women",
+        "Auriculotherapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/jehp.jehp_141_17"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6089040"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-31"
+  ],
+  "firstIndexDate": [
+    "2018-08-30"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-31"
+  ],
+  "dateOfRevision": [
+    "2018-09-02"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-02"
+  ],
+  "firstPublicationDate": [
+    "2018-08-02"
+  ]
+}

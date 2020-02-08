@@ -1,0 +1,336 @@
+{
+  "id": [
+    "22022127"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22022127"
+  ],
+  "pmcid": [
+    "PMC3193659"
+  ],
+  "doi": [
+    "10.4103/0973-6131.85491"
+  ],
+  "title": [
+    "Prevalence and pattern of stress relaxation practices in Ahmedabad city: A cross-sectional study."
+  ],
+  "authorString": [
+    "Nayak HK, Sonia B, Kapoor R, Gadhavi R, Solanki A, Vyas S, Tiwari H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nayak HK"
+          ],
+          "firstName": [
+            "Himanshu K"
+          ],
+          "lastName": [
+            "Nayak"
+          ],
+          "initials": [
+            "HK"
+          ]
+        },
+        {
+          "fullName": [
+            "Sonia B"
+          ],
+          "firstName": [
+            "Batra"
+          ],
+          "lastName": [
+            "Sonia"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Kapoor R"
+          ],
+          "firstName": [
+            "Rachna"
+          ],
+          "lastName": [
+            "Kapoor"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Gadhavi R"
+          ],
+          "firstName": [
+            "Rajendra"
+          ],
+          "lastName": [
+            "Gadhavi"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Solanki A"
+          ],
+          "firstName": [
+            "Anand"
+          ],
+          "lastName": [
+            "Solanki"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Vyas S"
+          ],
+          "firstName": [
+            "Sheetal"
+          ],
+          "lastName": [
+            "Vyas"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Tiwari H"
+          ],
+          "firstName": [
+            "Hemant"
+          ],
+          "lastName": [
+            "Tiwari"
+          ],
+          "initials": [
+            "H"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "1874514"
+      ],
+      "dateOfPublication": [
+        "2011 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of yoga"
+          ],
+          "ISOAbbreviation": [
+            "Int J Yoga"
+          ],
+          "medlineAbbreviation": [
+            "Int J Yoga"
+          ],
+          "NLMid": [
+            "101313247"
+          ],
+          "ISSN": [
+            "0973-6131"
+          ],
+          "ESSN": [
+            "2231-2714"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "87-92"
+  ],
+  "abstractText": [
+    "BACKGROUND: Research has shown the growing importance of stress relaxation practices (SRPs) in many noncommunicable diseases. But there is little information on the prevalence of SRPs in Indian population. OBJECTIVES: To study the prevalence of different types of SRPs and their sociodemographic profile. MATERIALS AND METHODS: A community-based cross-sectional study was carried out in Ahmedabad city, Gujarat, India. One ward from each zone of the city was selected by stratified sampling. All individuals above 20 years were included in the study. Detailed information regarding different SRPs practiced by the participants was collected in a standard pretested proforma by house-to-house survey. Univariate regression analysis was applied to compare the groups. RESULTS: Of 1157 persons surveyed, 904 were included in the final analysis. Of these, 310 (34.3%) were doing SRPs and 594 (65.7%) were not doing any type of SRPs. Respondents doing SRPs were compared with non-SRP group. Significant (P<0.05) differences were noticed between the two groups; in females, it was (SRP 58.4% vs non-SRP 49.8%) in the age group 40 to 59 years (44.2 vs 33.8%), those from sedentary occupation (93.9% vs 85.4%), the persons belonging to upper socioeconomic status (70.6% vs 61.8%), and living in central and western zones (66.5% vs 24.6%) and had less number of diabetes (SRP 10.8% vs non-SRP 19.7%) and hypertension (20.7% vs 34.2%). People doing SRPs were able to maintain balance between work and other activities than non-SRPs group (198/310, 63.9% vs 42/594, 7.1%). Among SRPs, majority (243, 78.4%) were involved in religious activities followed by yoga, 36(11.6%), and meditation, 15 (4.8%). CONCLUSION: Persons practicing SRPs in Ahmedabad are more likely to be above 40 years of age, females, college educated, in sedentary occupation, from upper and middle class, married and living in new-west and central zones, and were less likely to have diabetes and hypertension as compared with those who do not practice SRPs."
+  ],
+  "affiliation": [
+    ", Department of Community Medicine, B. J. Medical College, Ahmedabad, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "India",
+        "Prevalence",
+        "Sociodemographic Profile",
+        "Stress Relaxation Practices"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22022127/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/0973-6131.85491"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3193659"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-11-10"
+  ],
+  "dateOfCreation": [
+    "2011-10-24"
+  ],
+  "firstIndexDate": [
+    "2011-10-25"
+  ],
+  "fullTextReceivedDate": [
+    "2011-11-01"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "firstPublicationDate": [
+    "2011-07-01"
+  ]
+}

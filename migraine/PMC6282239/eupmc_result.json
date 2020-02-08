@@ -1,0 +1,1447 @@
+{
+  "id": [
+    "30413629"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30413629"
+  ],
+  "pmcid": [
+    "PMC6282239"
+  ],
+  "doi": [
+    "10.1212/WNL.0000000000006567"
+  ],
+  "title": [
+    "Neurologic phenotypes associated with COL4A1/2 mutations: Expanding the spectrum of disease."
+  ],
+  "authorString": [
+    "Zagaglia S, Selch C, Nisevic JR, Mei D, Michalak Z, Hernandez-Hernandez L, Krithika S, Vezyroglou K, Varadkar SM, Pepler A, Biskup S, Leão M, Gärtner J, Merkenschlager A, Jaksch M, Møller RS, Gardella E, Kristiansen BS, Hansen LK, Vari MS, Helbig KL, Desai S, Smith-Hicks CL, Hino-Fukuyo N, Talvik T, Laugesaar R, Ilves P, Õunap K, Körber I, Hartlieb T, Kudernatsch M, Winkler P, Schimmel M, Hasse A, Knuf M, Heinemeyer J, Makowski C, Ghedia S, Subramanian GM, Striano P, Thomas RH, Micallef C, Thom M, Werring DJ, Kluger GJ, Cross JH, Guerrini R, Balestrini S, Sisodiya SM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zagaglia S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Zagaglia"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Selch C"
+          ],
+          "firstName": [
+            "Christina"
+          ],
+          "lastName": [
+            "Selch"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Nisevic JR"
+          ],
+          "firstName": [
+            "Jelena Radic"
+          ],
+          "lastName": [
+            "Nisevic"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Mei D"
+          ],
+          "firstName": [
+            "Davide"
+          ],
+          "lastName": [
+            "Mei"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6790-6251",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Michalak Z"
+          ],
+          "firstName": [
+            "Zuzanna"
+          ],
+          "lastName": [
+            "Michalak"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Hernandez-Hernandez L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Hernandez-Hernandez"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Krithika S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Krithika"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Vezyroglou K"
+          ],
+          "firstName": [
+            "Katharina"
+          ],
+          "lastName": [
+            "Vezyroglou"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Varadkar SM"
+          ],
+          "firstName": [
+            "Sophia M"
+          ],
+          "lastName": [
+            "Varadkar"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Pepler A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Pepler"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Biskup S"
+          ],
+          "firstName": [
+            "Saskia"
+          ],
+          "lastName": [
+            "Biskup"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Leão M"
+          ],
+          "firstName": [
+            "Miguel"
+          ],
+          "lastName": [
+            "Leão"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Gärtner J"
+          ],
+          "firstName": [
+            "Jutta"
+          ],
+          "lastName": [
+            "Gärtner"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Merkenschlager A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Merkenschlager"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Jaksch M"
+          ],
+          "firstName": [
+            "Michaela"
+          ],
+          "lastName": [
+            "Jaksch"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Møller RS"
+          ],
+          "firstName": [
+            "Rikke S"
+          ],
+          "lastName": [
+            "Møller"
+          ],
+          "initials": [
+            "RS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9664-1448",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Gardella E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Gardella"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7138-6022",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Kristiansen BS"
+          ],
+          "firstName": [
+            "Britta Schlott"
+          ],
+          "lastName": [
+            "Kristiansen"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Hansen LK"
+          ],
+          "firstName": [
+            "Lars Kjærsgaard"
+          ],
+          "lastName": [
+            "Hansen"
+          ],
+          "initials": [
+            "LK"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Vari MS"
+          ],
+          "firstName": [
+            "Maria Stella"
+          ],
+          "lastName": [
+            "Vari"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Helbig KL"
+          ],
+          "firstName": [
+            "Katherine L"
+          ],
+          "lastName": [
+            "Helbig"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8249-0549",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Desai S"
+          ],
+          "firstName": [
+            "Sonal"
+          ],
+          "lastName": [
+            "Desai"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith-Hicks CL"
+          ],
+          "firstName": [
+            "Constance L"
+          ],
+          "lastName": [
+            "Smith-Hicks"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Hino-Fukuyo N"
+          ],
+          "firstName": [
+            "Naomi"
+          ],
+          "lastName": [
+            "Hino-Fukuyo"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Talvik T"
+          ],
+          "firstName": [
+            "Tiina"
+          ],
+          "lastName": [
+            "Talvik"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Laugesaar R"
+          ],
+          "firstName": [
+            "Rael"
+          ],
+          "lastName": [
+            "Laugesaar"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ilves P"
+          ],
+          "firstName": [
+            "Pilvi"
+          ],
+          "lastName": [
+            "Ilves"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Õunap K"
+          ],
+          "firstName": [
+            "Katrin"
+          ],
+          "lastName": [
+            "Õunap"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4594-6364",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Körber I"
+          ],
+          "firstName": [
+            "Ingrid"
+          ],
+          "lastName": [
+            "Körber"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Hartlieb T"
+          ],
+          "firstName": [
+            "Till"
+          ],
+          "lastName": [
+            "Hartlieb"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Kudernatsch M"
+          ],
+          "firstName": [
+            "Manfred"
+          ],
+          "lastName": [
+            "Kudernatsch"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Winkler P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Winkler"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Schimmel M"
+          ],
+          "firstName": [
+            "Mareike"
+          ],
+          "lastName": [
+            "Schimmel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Hasse A"
+          ],
+          "firstName": [
+            "Anette"
+          ],
+          "lastName": [
+            "Hasse"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Knuf M"
+          ],
+          "firstName": [
+            "Markus"
+          ],
+          "lastName": [
+            "Knuf"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Heinemeyer J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Heinemeyer"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Makowski C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Makowski"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghedia S"
+          ],
+          "firstName": [
+            "Sondhya"
+          ],
+          "lastName": [
+            "Ghedia"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Subramanian GM"
+          ],
+          "firstName": [
+            "Gopinath M"
+          ],
+          "lastName": [
+            "Subramanian"
+          ],
+          "initials": [
+            "GM"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Striano P"
+          ],
+          "firstName": [
+            "Pasquale"
+          ],
+          "lastName": [
+            "Striano"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Thomas RH"
+          ],
+          "firstName": [
+            "Rhys H"
+          ],
+          "lastName": [
+            "Thomas"
+          ],
+          "initials": [
+            "RH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2062-8623",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Micallef C"
+          ],
+          "firstName": [
+            "Caroline"
+          ],
+          "lastName": [
+            "Micallef"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Thom M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Thom"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Werring DJ"
+          ],
+          "firstName": [
+            "David J"
+          ],
+          "lastName": [
+            "Werring"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Kluger GJ"
+          ],
+          "firstName": [
+            "Gerhard Josef"
+          ],
+          "lastName": [
+            "Kluger"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cross JH"
+          ],
+          "firstName": [
+            "J Helen"
+          ],
+          "lastName": [
+            "Cross"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Guerrini R"
+          ],
+          "firstName": [
+            "Renzo"
+          ],
+          "lastName": [
+            "Guerrini"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Balestrini S"
+          ],
+          "firstName": [
+            "Simona"
+          ],
+          "lastName": [
+            "Balestrini"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sisodiya SM"
+          ],
+          "firstName": [
+            "Sanjay M"
+          ],
+          "lastName": [
+            "Sisodiya"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy. s.sisodiya@ucl.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9664-1448",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4594-6364",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8249-0549",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7138-6022",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6790-6251",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2062-8623",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "22"
+      ],
+      "volume": [
+        "91"
+      ],
+      "journalIssueId": [
+        "2753412"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neurology"
+          ],
+          "ISOAbbreviation": [
+            "Neurology"
+          ],
+          "medlineAbbreviation": [
+            "Neurology"
+          ],
+          "NLMid": [
+            "0401060"
+          ],
+          "ISSN": [
+            "0028-3878"
+          ],
+          "ESSN": [
+            "1526-632X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e2078-e2088"
+  ],
+  "abstractText": [
+    "OBJECTIVE:To characterize the neurologic phenotypes associated with COL4A1/2 mutations and to seek genotype-phenotype correlation. METHODS:We analyzed clinical, EEG, and neuroimaging data of 44 new and 55 previously reported patients with COL4A1/COL4A2 mutations. RESULTS:Childhood-onset focal seizures, frequently complicated by status epilepticus and resistance to antiepileptic drugs, was the most common phenotype. EEG typically showed focal epileptiform discharges in the context of other abnormalities, including generalized sharp waves or slowing. In 46.4% of new patients with focal seizures, porencephalic cysts on brain MRI colocalized with the area of the focal epileptiform discharges. In patients with porencephalic cysts, brain MRI frequently also showed extensive white matter abnormalities, consistent with the finding of diffuse cerebral disturbance on EEG. Notably, we also identified a subgroup of patients with epilepsy as their main clinical feature, in which brain MRI showed nonspecific findings, in particular periventricular leukoencephalopathy and ventricular asymmetry. Analysis of 15 pedigrees suggested a worsening of the severity of clinical phenotype in succeeding generations, particularly when maternally inherited. Mutations associated with epilepsy were spread across COL4A1 and a clear genotype-phenotype correlation did not emerge. CONCLUSION:COL4A1/COL4A2 mutations typically cause a severe neurologic condition and a broader spectrum of milder phenotypes, in which epilepsy is the predominant feature. Early identification of patients carrying COL4A1/COL4A2 mutations may have important clinical consequences, while for research efforts, omission from large-scale epilepsy sequencing studies of individuals with abnormalities on brain MRI may generate misleading estimates of the genetic contribution to the epilepsies overall."
+  ],
+  "affiliation": [
+    "From the Department of Clinical and Experimental Epilepsy (S.Z., Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.) and Division of Neuropathology (Z.M., M.T.), UCL Institute of Neurology, London, UK; Clinic of Neurology (S.Z.), Department of Experimental and Clinical Medicine, Marche Polytechnic University, Ancona, Italy; Department of Pediatric Neurology and Neurological Rehabilitation (C.S., T.H., P.W., G.J.K.) and Neurosurgery Clinic and Clinic for Epilepsy Surgery (M.K.), Schön Klinik Vogtareuth; Department of Pediatrics (C.S., M.S.), Children's Hospital Augsburg, Germany; UCL Great Ormond Street Institute of Child Health (J.R.N., K.V., S.M.V., J.H.C.), London, UK; Paediatric Neurology and Neurogenetics Unit and Laboratories (D.M., R.G.), A. Meyer Children's Hospital, University of Florence, Italy; Chalfont Centre for Epilepsy (Z.M., L.H.-H., S.K., S. Balestrini, S.M.S.), Chalfont-St-Peter, Buckinghamshire, UK; CeGaT-Center for Genomics and Transcriptomics (A.P., S. Biskup), Tübingen, Germany; Neurogenetics Unit (M.L.), Department of Medical Genetics, Hospital de São João, Porto, Portugal; Department of Pediatrics and Adolescent Medicine (J.G.), University Medical Center Göttingen; Hospital for Children and Adolescents (A.M.), University Clinic Leipzig, Germany; Freiburg Medical Laboratory (M.J.), Dubai; The Danish Epilepsy Centre (R.S.M., E.G.), Dianalund; Institute for Regional Health Services (R.S.M., E.G.), University of Southern Denmark, Odense; Department of Clinical Genetics (B.S.K.), Odense University Hospital; Hans Christian Andersen Children's Hospital (L.K.H.), Odense, Denmark; Pediatric Neurology and Muscular Diseases Unit (M.S.V., P.S.), Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal and Child Health, University of Genoa \"G. Gaslini\" Institute, Italy; Division of Neurology (K.L.H.), Children's Hospital of Philadelphia, PA; Department of Neurology (S.D., C.L.S.-H.), Division of Neurogenetics, Kennedy Krieger Institute, Baltimore, MD; Center for Genomic Medicine (N.H.-F.), Tohoku University; Department of Pediatrics (N.H.-F.), Tohoku University School of Medicine, Sendai, Japan; Department of Pediatrics (T.T., R.L.) and Institute of Clinical Medicine (K.O.), University of Tartu; Children's Clinic (T.T., R.L.), Department of Radiology (P.I.), and Department of Clinical Genetics, United Laboratories (K.O.), Tartu University Hospital, Estonia; Ludwig-Maximilians-University Munich (I.K.); Department of Pediatric Neurology (A.H.), Clinic Traunstein; Children's Hospital (M.K.), Dr. Horst Schmidt Klinik, Wiesbaden; Altona Children's Hospital (J.H.), Hamburg; Department of Pediatrics (C. Makowski), Technische Universität München, Germany; Department of Clinical Genetics (S.G.), Royal North Shore Hospital, St Leonards; John Hunter Children's Hospital (G.M.S.), New Lambton Heights, New South Wales, Australia; Department of Neurology (R.T.), University Hospital of Wales; Institute of Psychological Medicine and Clinical Neurosciences (R.H.T.), Cardiff University; Division of Neuroradiology (C. Micallef), National Hospital for Neurology and Neurosurgery, London; Department of Brain Repair & Rehabilitation (D.J.W.), Stroke Research Centre, UCL Institute of Neurology, London, UK; Paracelsus Medical University (G.J.K.), Salzburg, Austria; and IRCCS Stella Maris Foundation (R.G.), Pisa, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NF-SI-0515-10073"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "acronym": [
+            "DH_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P1104"
+          ],
+          "agency": [
+            "Epilepsy Research UK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nervous System Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epilepsy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Collagen Type IV"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Association Studies"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Collagen Type IV"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "COL4A1 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "COL4A2 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1212/WNL.0000000000006567"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6282239"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6282239?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31980581"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Neurology. 2020 Jan 24;:"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "OMIM"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-08-29"
+  ],
+  "dateOfCreation": [
+    "2018-11-11"
+  ],
+  "firstIndexDate": [
+    "2018-11-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-26"
+  ],
+  "dateOfRevision": [
+    "2019-08-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-09"
+  ],
+  "firstPublicationDate": [
+    "2018-11-09"
+  ]
+}

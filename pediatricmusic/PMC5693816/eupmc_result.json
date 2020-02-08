@@ -1,0 +1,258 @@
+{
+  "id": [
+    "29127600"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29127600"
+  ],
+  "pmcid": [
+    "PMC5693816"
+  ],
+  "doi": [
+    "10.1007/s40122-017-0090-5"
+  ],
+  "title": [
+    "A Review of Current and Emerging Approaches to Pain Management in the Emergency Department."
+  ],
+  "authorString": [
+    "Todd KH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Todd KH"
+          ],
+          "firstName": [
+            "Knox H"
+          ],
+          "lastName": [
+            "Todd"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "affiliation": [
+            "EMLine.org, Mendoza, Argentina. knox@emline.org."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2620130"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pain and therapy"
+          ],
+          "ISOAbbreviation": [
+            "Pain Ther"
+          ],
+          "medlineAbbreviation": [
+            "Pain Ther"
+          ],
+          "NLMid": [
+            "101634491"
+          ],
+          "ISSN": [
+            "2193-8237"
+          ],
+          "ESSN": [
+            "2193-651X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "193-202"
+  ],
+  "abstractText": [
+    "INTRODUCTION:Pain is the most common symptom prompting an emergency department visit and emergency physicians are responsible for managing both acute pain and acute exacerbations of chronic pain resulting from a broad range of illnesses and injuries. The responsibility to treat must be balanced by the duty to limit harm resulting from analgesics. In recent years, opioid-related adverse effects, including overdose and deaths, have increased dramatically in the USA. In response to the US opioid crisis, emergency physicians have broadened their analgesic armamentarium to include a variety of non-opioid approaches. For some of these therapies, sparse evidence exists to support their efficacy for emergency department use. The purpose of this paper is to review historical trends and emerging approaches to emergency department analgesia, with a particular focus on the USA and Canada. METHODS:We conducted a qualitative review of past and current descriptive studies of emergency department pain practice, as well as clinical trials of emerging pain treatment modalities. The review considers the increasing use of non-opioid and multimodal analgesic therapies, including migraine therapies, regional anesthesia, subdissociative-dose ketamine, nitrous oxide, intravenous lidocaine and gabapentinoids, as well as broad programmatic initiatives promoting the use of non-opioid analgesics and nonpharmacologic interventions. RESULTS:While migraine therapies, regional anesthesia, nitrous oxide and subdissociative-dose ketamine are supported by a relatively robust evidence base, data supporting the emergency department use of intravenous lidocaine, gabapentinoids and various non-pharmacologic analgesic interventions remain sparse. CONCLUSION:Additional research on the relative safety and efficacy of non-opioid approaches to emergency department analgesia is needed. Despite a limited research base, it is likely that non-opioid analgesic modalities will be employed with increasing frequency. A new generation of emergency physicians is seeking additional training in pain medicine and increasing dialogue between emergency medicine and pain medicine researchers, educators and clinicians could contribute to better management of emergency department pain."
+  ],
+  "affiliation": [
+    "EMLine.org, Mendoza, Argentina. knox@emline.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lidocaine",
+        "Nitrous oxide",
+        "ketamine",
+        "Acute pain",
+        "Emergency Medicine",
+        "Regional Anesthesia",
+        "Pain Medicine",
+        "Gabapentinoids",
+        "Non-opioid Analgesics Pain"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s40122-017-0090-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5693816"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5693816?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-11-12"
+  ],
+  "firstIndexDate": [
+    "2017-11-12"
+  ],
+  "fullTextReceivedDate": [
+    "2017-12-02"
+  ],
+  "dateOfRevision": [
+    "2019-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-10"
+  ],
+  "firstPublicationDate": [
+    "2017-11-10"
+  ]
+}

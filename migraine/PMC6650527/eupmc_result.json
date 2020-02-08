@@ -1,0 +1,483 @@
+{
+  "id": [
+    "31379724"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31379724"
+  ],
+  "pmcid": [
+    "PMC6650527"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00774"
+  ],
+  "title": [
+    "Alexithymia, Metacognition, and Theory of Mind in Children and Preadolescents With Migraine Without Aura (MWoA): A Case-Control Study."
+  ],
+  "authorString": [
+    "Natalucci G, Faedda N, Quinzi A, Alunni Fegatelli D, Vestri A, Turturo G, Verdecchia P, Bellini B, Pirisi C, Calderoni D, Giannotti F, Cerutti R, Giacolini T, Guidetti V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Natalucci G"
+          ],
+          "firstName": [
+            "Giulia"
+          ],
+          "lastName": [
+            "Natalucci"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Faedda N"
+          ],
+          "firstName": [
+            "Noemi"
+          ],
+          "lastName": [
+            "Faedda"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Behavioural Neuroscience, Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Quinzi A"
+          ],
+          "firstName": [
+            "Alessia"
+          ],
+          "lastName": [
+            "Quinzi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Alunni Fegatelli D"
+          ],
+          "firstName": [
+            "Danilo"
+          ],
+          "lastName": [
+            "Alunni Fegatelli"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Public Health and Infectious Diseases, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Vestri A"
+          ],
+          "firstName": [
+            "Annarita"
+          ],
+          "lastName": [
+            "Vestri"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Public Health and Infectious Diseases, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Turturo G"
+          ],
+          "firstName": [
+            "Giada"
+          ],
+          "lastName": [
+            "Turturo"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Verdecchia P"
+          ],
+          "firstName": [
+            "Paola"
+          ],
+          "lastName": [
+            "Verdecchia"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Maternal and Child Health and Urological Science, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bellini B"
+          ],
+          "firstName": [
+            "Benedetta"
+          ],
+          "lastName": [
+            "Bellini"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Pirisi C"
+          ],
+          "firstName": [
+            "Chiara"
+          ],
+          "lastName": [
+            "Pirisi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Calderoni D"
+          ],
+          "firstName": [
+            "Dario"
+          ],
+          "lastName": [
+            "Calderoni"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Giannotti F"
+          ],
+          "firstName": [
+            "Flavia"
+          ],
+          "lastName": [
+            "Giannotti"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cerutti R"
+          ],
+          "firstName": [
+            "Rita"
+          ],
+          "lastName": [
+            "Cerutti"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Dynamic and Clinical Psychology, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Giacolini T"
+          ],
+          "firstName": [
+            "Teodosio"
+          ],
+          "lastName": [
+            "Giacolini"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Guidetti V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Guidetti"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, Sapienza University of Rome, Rome, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "774"
+  ],
+  "abstractText": [
+    "Background: Some studies have demonstrated the high impact of headache and migraine in several areas of children and adolescents' life. In recent years, there has been an increase in scientific interest in the relationship between migraine and emotional regulation, investigating the possible consequences of emotional dysregulation on physical and mental health. While some studies have been carried out on the relationship between alexithymia and headache or migraine (especially in adults), no data exist on relationship between Theory of Mind (TOM), metacognition, and alexithymia in children and adolescents with migraine. Methods: Children with diagnosis of migraine without aura (MWoA) (36 males and 34 females) were compared to a healthy control group (31 males and 39 females). The age range was from 8 to 13 years in both groups. All children completed the Alexithymia Questionnaire for Children (AQC) for the assessment of alexithymia levels and the Domain of Social Perception included in the NEPSY-II to evaluate levels of TOM. Metacognitive development was evaluated with Io e La Mia Mente for children aged between 8 and 10 years and with Metacognitions Questionnaire for Children (MCQ-C) for children from 11 to 13. Results: There were no differences between children with MWoA and the control group in metacognitive abilities; only in the subscale \"Negative Meta Worrying\" of MCQ-C girls scored higher than boys, regardless of the group they were part of. Also, in the NEPSY-II subscale there were no statistically significant differences between the two groups. Children with MWoA scored higher in the AQC subscales \"Difficulty Identifying Feelings\" and \"Difficulty Describing Feelings\" than controls. Moreover, children between 8 and 10 years statistically differed from older children in \"Difficulty Identifying Feelings\" and in Total Score. Conclusion: Our data suggest that children with MWoA have no metacognitive and TOM problems compared to a healthy group. The experimental group showed higher traits of alexithymia, confirming what suggested by other studies in the literature. Future research will have to focus on migraine with aura and tension-type headache to evaluate any differences with children with MWoA."
+  ],
+  "affiliation": [
+    "Section of Child and Adolescent Neuropsychiatry, Department of Human Neuroscience, Sapienza University of Rome, Rome, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Alexithymia",
+        "Theory Of Mind",
+        "Metacognition",
+        "Pre-adolescents",
+        "Migraine Without Aura",
+        "Mwoa"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00774"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6650527"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6650527?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-08-06"
+  ],
+  "firstIndexDate": [
+    "2019-08-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-04"
+  ],
+  "dateOfRevision": [
+    "2019-08-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-17"
+  ],
+  "firstPublicationDate": [
+    "2019-07-17"
+  ]
+}

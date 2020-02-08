@@ -1,0 +1,311 @@
+{
+  "id": [
+    "31885655"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31885655"
+  ],
+  "pmcid": [
+    "PMC6914898"
+  ],
+  "doi": [
+    "10.1155/2019/6283912"
+  ],
+  "title": [
+    "Classic Chinese Acupuncture versus Different Types of Control Groups for the Treatment of Chronic Pain: Review of Randomized Controlled Trials (2000-2018)."
+  ],
+  "authorString": [
+    "Chen YJ, Shimizu Bassi G, Yang YQ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen YJ"
+          ],
+          "firstName": [
+            "Yan-Jiao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "affiliation": [
+            "Shanghai Research Institute of Acupuncture & Meridian, Shanghai University of Traditional Chinese Medicine, 650 South Wanping Road, Shanghai 200030, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shimizu Bassi G"
+          ],
+          "firstName": [
+            "Gabriel"
+          ],
+          "lastName": [
+            "Shimizu Bassi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0991-5680",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Research Institute of Acupuncture & Meridian, Shanghai University of Traditional Chinese Medicine, 650 South Wanping Road, Shanghai 200030, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang YQ"
+          ],
+          "firstName": [
+            "Yong-Qing"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "YQ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8259-6359",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Research Institute of Acupuncture & Meridian, Shanghai University of Traditional Chinese Medicine, 650 South Wanping Road, Shanghai 200030, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0991-5680",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8259-6359",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2777626"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "6283912"
+  ],
+  "abstractText": [
+    "Objective:To review the effectiveness of classic Chinese acupuncture in the treatment of chronic pain by comparing treatment groups with different types of control groups in accordance with the newly published guidelines for systematic reviews. Methods:We searched EMBASE, PubMed, and the Cochrane Central Register of Controlled Trials databases from 2000 to 2018. We included randomized controlled trials that included acupuncture as the sole treatment or as an adjunctive treatment for chronic pain. The outcome was pain intensity measured by the visual analogue scale (VAS), Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain subscale, 11-point numeric rating scale (NRS), and other tools. Two researchers conducted the study selection, data extraction, and quality assessment processes independently. Disagreements were solved by discussion and reanalysis of the data. The quality of all included studies was evaluated using the CBNG (the Cochrane Back and Neck Group) and the STRICTA (Standards for Reporting Interventions in Controlled Trials of Acupuncture) checklists. Results:Sixty-one studies were fully analyzed and ranked based on the newest STRICTA and CBNG standards. We found good evidence that receiving acupuncture is better than not receiving treatment or being placed on a waiting list and reasonable evidence that it is better than conventional or usual care. Limited evidence was found regarding placebo treatments that involve the expectation of needling (real or fake). Conclusion:Sham acupuncture may not be appropriate as a control intervention for assessing the effectiveness of acupuncture. Acupuncture effectiveness in controlling chronic pain is still limited due to the low quality of the studies published."
+  ],
+  "affiliation": [
+    "Shanghai Research Institute of Acupuncture & Meridian, Shanghai University of Traditional Chinese Medicine, 650 South Wanping Road, Shanghai 200030, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/6283912"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6914898"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6914898?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-31"
+  ],
+  "firstIndexDate": [
+    "2020-01-03"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-01"
+  ],
+  "dateOfRevision": [
+    "2020-01-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-04"
+  ],
+  "firstPublicationDate": [
+    "2019-12-04"
+  ]
+}

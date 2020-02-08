@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6384232/results/word/frequencies/results.xml">
+  <result title="frequency" word="pain" count="66"/>
+  <result title="frequency" word="migraine" count="52"/>
+  <result title="frequency" word="Pain" count="43"/>
+  <result title="frequency" word="catastrophizing" count="43"/>
+  <result title="frequency" word="children" count="41"/>
+  <result title="frequency" word="chronic" count="35"/>
+  <result title="frequency" word="headache" count="30"/>
+  <result title="frequency" word="clinical" count="23"/>
+  <result title="frequency" word="quality" count="23"/>
+  <result title="frequency" word="&amp;lt;." count="22"/>
+  <result title="frequency" word="episodic" count="22"/>
+  <result title="frequency" word="patients" count="21"/>
+  <result title="frequency" word="study" count="21"/>
+ </snippets>
+</snippetsTree>

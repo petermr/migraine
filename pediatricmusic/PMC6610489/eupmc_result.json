@@ -1,0 +1,547 @@
+{
+  "id": [
+    "31316452"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31316452"
+  ],
+  "pmcid": [
+    "PMC6610489"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00672"
+  ],
+  "title": [
+    "The Stability of Retrospective Pre-injury Symptom Ratings Following Pediatric Concussion."
+  ],
+  "authorString": [
+    "Teel EF, Zemek RL, Tang K, Gioia G, Vaughan C, Sady M, Gagnon IJ, Pediatric Emergency Research Canada (PERC) Concussion Team."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Teel EF"
+          ],
+          "firstName": [
+            "Elizabeth F"
+          ],
+          "lastName": [
+            "Teel"
+          ],
+          "initials": [
+            "EF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2846-5884",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Physical and Occupational Therapy, McGill University, Montreal, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Zemek RL"
+          ],
+          "firstName": [
+            "Roger L"
+          ],
+          "lastName": [
+            "Zemek"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "affiliation": [
+            "Department of Pediatrics and Emergency Medicine, University of Ottawa, Ottawa, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang K"
+          ],
+          "firstName": [
+            "Kenneth"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Children's Hospital of Eastern Ontario Research Institute, Ottawa, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Gioia G"
+          ],
+          "firstName": [
+            "Gerard"
+          ],
+          "lastName": [
+            "Gioia"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neuropsychology, Children's National Medical Center, Washington, DC, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Vaughan C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Vaughan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neuropsychology, Children's National Medical Center, Washington, DC, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Sady M"
+          ],
+          "firstName": [
+            "Maegan"
+          ],
+          "lastName": [
+            "Sady"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neuropsychology, Children's National Medical Center, Washington, DC, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Gagnon IJ"
+          ],
+          "firstName": [
+            "Isabelle J"
+          ],
+          "lastName": [
+            "Gagnon"
+          ],
+          "initials": [
+            "IJ"
+          ],
+          "affiliation": [
+            "School of Physical and Occupational Therapy, McGill University, Montreal, QC, Canada."
+          ]
+        },
+        {
+          "collectiveName": [
+            "Pediatric Emergency Research Canada (PERC) Concussion Team"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Osmond MH"
+          ],
+          "firstName": [
+            "Martin H"
+          ],
+          "lastName": [
+            "Osmond"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8275-8381",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Barrowman N"
+          ],
+          "firstName": [
+            "Nick"
+          ],
+          "lastName": [
+            "Barrowman"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Freedman SB"
+          ],
+          "firstName": [
+            "Stephen B"
+          ],
+          "lastName": [
+            "Freedman"
+          ],
+          "initials": [
+            "SB"
+          ]
+        },
+        {
+          "fullName": [
+            "Gravel J"
+          ],
+          "firstName": [
+            "Jocelyn"
+          ],
+          "lastName": [
+            "Gravel"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Sangha G"
+          ],
+          "firstName": [
+            "Gurinder"
+          ],
+          "lastName": [
+            "Sangha"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Boutis K"
+          ],
+          "firstName": [
+            "Kathy"
+          ],
+          "lastName": [
+            "Boutis"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Beer D"
+          ],
+          "firstName": [
+            "Darcy"
+          ],
+          "lastName": [
+            "Beer"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Craig W"
+          ],
+          "firstName": [
+            "William"
+          ],
+          "lastName": [
+            "Craig"
+          ],
+          "initials": [
+            "W"
+          ]
+        },
+        {
+          "fullName": [
+            "Burns E"
+          ],
+          "firstName": [
+            "Emma"
+          ],
+          "lastName": [
+            "Burns"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Farion KJ"
+          ],
+          "firstName": [
+            "Ken J"
+          ],
+          "lastName": [
+            "Farion"
+          ],
+          "initials": [
+            "KJ"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2846-5884",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8275-8381",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "672"
+  ],
+  "abstractText": [
+    "Objective: To determine the stability of children's retrospective ratings of pre-injury levels of symptoms over time following concussion. Methods: Children and adolescents (n = 3,063) between the ages of 5-17 diagnosed with a concussion by their treating pediatric emergency department (PED) physician within 48 h of injury completed the Post-Concussion Symptom Inventory (PCSI) at the PED and at 1, 2, 4, 8, and 12-weeks post-injury. At each time point, participants retrospectively recalled their pre-injury levels of post-injury symptoms. The PCSI has three age-appropriate versions for children aged 5-7 (PCSI-SR5), 8-12 (PCSI-SR8), and 13-18 (PCSI-SR13). Total scale, subscales (physical, cognitive, emotional, and sleep), and individual items from the PCSI were analyzed for stability using Gini's mean difference (GMD). Results: The mean GMD for total score was 0.31 (95% CI = 0.28, 0.34) for the PCSI-SR5, 0.19 (95% CI = 0.18, 0.20) for the PCSI-SR8, and 0.17 (95% CI = 0.16, 0.18) for the PCSI-SR13. Subscales ranged from mean GMD 0.18 (physical) to 0.31 (emotional) for the PCSI-SR8 and 0.16 (physical) to 0.31 (fatigue) for the PCSI-SR13. At the item-level, mean GMD ranged from 0.13 to 0.60 on the PCSI-SR5, 0.08 to 0.59 on the PCSI-SR8, and 0.11 to 0.41 on the PCSI-SR13. Conclusions: Children and adolescents recall their retrospective pre-injury symptom ratings with good-to-perfect stability over the first 3-months following their concussion. Although some individual items underperformed, variability was reduced as items were combined at the subscale and full-scale level. There is limited benefit gained from collecting multiple pre-injury symptom queries. Clinical Trial Registration: Clinicaltrials.gov through the US National Institute of Health/National Library of Medicine. (NCT01873287; http://clinicaltrials.gov/ct2/show/NCT01873287)."
+  ],
+  "affiliation": [
+    "School of Physical and Occupational Therapy, McGill University, Montreal, QC, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Diagnosis",
+        "Baseline",
+        "Psychometric",
+        "Mtbi"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00672"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6610489"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6610489?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-19"
+  ],
+  "firstIndexDate": [
+    "2019-07-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-20"
+  ],
+  "dateOfRevision": [
+    "2019-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-27"
+  ],
+  "firstPublicationDate": [
+    "2019-06-27"
+  ]
+}

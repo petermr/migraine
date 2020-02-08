@@ -1,0 +1,277 @@
+{
+  "id": [
+    "PMC6553343"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6553343"
+  ],
+  "doi": [
+    "10.1210/js.2019-SUN-281"
+  ],
+  "title": [
+    "SUN-281 Topiramate-Induced BMI Reduction in an Adolescent with Severe Obesity Associated with Classical Congenital Adrenal Hyperplasia."
+  ],
+  "authorString": [
+    "Seagroves A, Ross H, Vidmar A, Geffner M, Kim M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Seagroves A"
+          ],
+          "firstName": [
+            "Amy"
+          ],
+          "lastName": [
+            "Seagroves"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Children's Hospital Los Angeles, Los Angeles, CA, United States"
+          ]
+        },
+        {
+          "fullName": [
+            "Ross H"
+          ],
+          "firstName": [
+            "Heather"
+          ],
+          "lastName": [
+            "Ross"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Vidmar A"
+          ],
+          "firstName": [
+            "Alaina"
+          ],
+          "lastName": [
+            "Vidmar"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Geffner M"
+          ],
+          "firstName": [
+            "Mitchell"
+          ],
+          "lastName": [
+            "Geffner"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Kim M"
+          ],
+          "firstName": [
+            "Mimi"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2828512"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of the Endocrine Society"
+          ],
+          "ISOAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "medlineAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "NLMid": [
+            "101697997"
+          ],
+          "ISSN": [
+            "2472-1972"
+          ],
+          "ESSN": [
+            "2472-1972"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Abstract  Youth with classical congenital adrenal hyperplasia (CAH) exhibit up to double the prevalence of obesity, earlier adiposity rebound, and increased abdominal adiposity and total fat mass compared to unaffected individuals. Lifestyle modification often results in suboptimal body mass index (BMI) reduction. Therefore, more aggressive interventions, such as anti-obesity pharmacotherapies, should be considered in this high-risk cohort. There is growing evidence that topiramate therapy is effective in reducing BMI in adults and adolescents with severe exogenous obesity. However, little is known about the efficacy of topiramate in severe obesity associated with CAH.  We report a 17-year-old female with salt-wasting CAH due to 21-hydroxylase deficiency, and severe obesity since early childhood, who demonstrated significant and sustained BMI reduction while on topiramate therapy prescribed for chronic migraines. She was diagnosed shortly after birth with CAH (17-hydroxyprogesterone 11,000 ng/dL) and treated with hydrocortisone, fludrocortisone, and salt supplementation. She was also noted to have craniosynostosis at birth, and developed generalized tonic-clonic seizures at age 3 months, necessitating phenobarbital therapy for 4 years. Her BMI was > 95 percentile at age 3 years. At age 14 years, she developed chronic migraine headaches and, at age 17 years, was started on topiramate (50 mg daily) by her neurologist. At the time of topiramate initiation, she was on lifestyle modification treatment for obesity, with a BMI 48.3 kg/m (BMI z-score +2.2 SD; weight 100.2 kg). Topiramate was titrated up to 100 mg daily over a period of 1 year, and she remained on the same dose, with a BMI 37.8 kg/m (weight 79.0 kg) at age 21 years. Her glucocorticoid dose at topiramate initiation was 15 mg/m/day and 15.3 mg/m/day at age 21 years. She did not have any episodes of adrenal crisis during topiramate therapy. Body composition studies obtained pre- and post-topiramate therapy showed a decrease in total body fat (51.9 to 45.9%) and trunk fat (45.8 to 40%) on whole-body DEXA scan, as well as a decrease in waist-to-height ratio (0.76 to 0.70).  Youth with classical CAH and associated severe obesity are at high risk for morbidity and could therefore benefit substantially from innovative medical therapies for obesity beyond lifestyle modification. In our patient, topiramate produced a clinically meaningful and sustained weight loss, in addition to reduced total body and trunk fat over a 4-year period. Although there exists a single report of topiramate-induced hypoadrenalism in patients with CAH (Jacob , BMJ 2009), our patient had neither an increased frequency of adrenal crisis nor an increased glucocorticoid requirement during her treatment course. Further study is warranted to investigate the use of topiramate as treatment for severe obesity in CAH."
+  ],
+  "affiliation": [
+    "Children's Hospital Los Angeles, Los Angeles, CA, United States"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6553343/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6553343"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-16"
+  ],
+  "firstIndexDate": [
+    "2019-06-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-16"
+  ],
+  "dateOfRevision": [
+    "2019-09-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-30"
+  ],
+  "firstPublicationDate": [
+    "2019-04-30"
+  ]
+}

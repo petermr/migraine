@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6294621/results/search/country/results.xml">
+  <result pre="Year Country Ethnicity Genotyping method Cases Controls Jie Fang 2016" exact="China" post="Asian Multiplex SNaPshot 331 330 Sarah Cargnin 2014 Italy"/>
+  <result pre="2016 China Asian Multiplex SNaPshot 331 330 Sarah Cargnin 2014" exact="Italy" post="Caucasian TaqMan 186 312 Bridget H. Maher 2013 Australia"/>
+  <result pre="2014 Italy Caucasian TaqMan 186 312 Bridget H. Maher 2013" exact="Australia" post="Caucasian PCR-RFLP 472 472 Daniela Formicola 2010 Italy Caucasian"/>
+  <result pre="Maher 2013 Australia Caucasian PCR-RFLP 472 472 Daniela Formicola 2010" exact="Italy" post="Caucasian PCR-RFLP 244 260 Abbreviation: PCR-RFLP, polymerase chain reaction-restriction"/>
+  <result pre="Common polygenic variation contributes to risk of migraine in the" exact="Norfolk Island" post="population. Hum. Genet. 134, 1079– 1087 10.1007/s00439-015-1587-9 26220684 7"/>
+ </snippets>
+</snippetsTree>

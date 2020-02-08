@@ -1,0 +1,325 @@
+{
+  "id": [
+    "31514352"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31514352"
+  ],
+  "pmcid": [
+    "PMC6780403"
+  ],
+  "doi": [
+    "10.3390/jcm8091441"
+  ],
+  "title": [
+    "Probiotics for the Prophylaxis of Migraine: A Systematic Review of Randomized Placebo Controlled Trials."
+  ],
+  "authorString": [
+    "Naghibi MM, Day R, Stone S, Harper A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Naghibi MM"
+          ],
+          "firstName": [
+            "Malwina M"
+          ],
+          "lastName": [
+            "Naghibi"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "ADM Protexin, Lopen Head TA13 5JH, UK. malwina.naghibi@adm.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Day R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Day"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "ADM Protexin, Lopen Head TA13 5JH, UK. richard.day@adm.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Stone S"
+          ],
+          "firstName": [
+            "Samantha"
+          ],
+          "lastName": [
+            "Stone"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "ADM Protexin, Lopen Head TA13 5JH, UK. samantha.stone@adm.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Harper A"
+          ],
+          "firstName": [
+            "Ashton"
+          ],
+          "lastName": [
+            "Harper"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4360-1629",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "ADM Protexin, Lopen Head TA13 5JH, UK. ashton.harper@adm.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4360-1629",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2854458"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Med"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Med"
+          ],
+          "NLMid": [
+            "101606588"
+          ],
+          "ISSN": [
+            "2077-0383"
+          ],
+          "ESSN": [
+            "2077-0383"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Migraine is a common and disabling neurological condition with a complex etiology. Recent advances in the understanding of the gut microbiome have shown the role of gut micro-organisms in disease outcomes for distant organs-including the brain. Interventions targeting the gut microbiome have been shown to be effective in multiple neurological diagnoses, but there is little research into the role of the microbiome in migraine. This systematic review seeks to assess the current research landscape of randomized placebo controlled trials utilizing probiotic interventions as migraine prophylaxis. Searches were conducted of scientific databases including PubMed, MEDLINE, and the Cochrane Library, following PRISMA guidelines. Of 68 screened studies, 2 were eligible for analysis. Due to methodological differences, meta-analysis was not possible. Qualitative comparison of the studies demonstrated a dichotomy of results-one trial reported no significant change in migraine frequency and intensity, while the second trial reported highly significant improvements. No clear 'gold standard' currently exists for microbiome research, let alone for migraine-related microbiome research. The heterogeneity of outcome measures used in the two trials included in this systematic review shows the need for a standardization of outcome measures, therefore a series of recommendations for future probiotic-migraine research are included."
+  ],
+  "affiliation": [
+    "ADM Protexin, Lopen Head TA13 5JH, UK. malwina.naghibi@adm.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Probiotics",
+        "Migraine",
+        "Prophylaxis",
+        "Systematic review",
+        "Gut–brain Axis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/jcm8091441"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6780403"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6780403?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-14"
+  ],
+  "firstIndexDate": [
+    "2019-09-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-06"
+  ],
+  "dateOfRevision": [
+    "2019-11-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-11"
+  ],
+  "firstPublicationDate": [
+    "2019-09-11"
+  ]
+}

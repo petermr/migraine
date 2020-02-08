@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6444142/results/word/frequencies/results.xml">
+  <result title="frequency" word="(.)" count="518"/>
+  <result title="frequency" word="&amp;lt;." count="74"/>
+  <result title="frequency" word="patients" count="74"/>
+  <result title="frequency" word="N-TAPs" count="67"/>
+  <result title="frequency" word="pediatric" count="52"/>
+  <result title="frequency" word="neurologic" count="45"/>
+  <result title="frequency" word="PED-ED" count="41"/>
+  <result title="frequency" word="group" count="32"/>
+  <result title="frequency" word="N-PEDs" count="26"/>
+  <result title="frequency" word="adult" count="26"/>
+  <result title="frequency" word="presenting" count="26"/>
+  <result title="frequency" word="admission" count="24"/>
+  <result title="frequency" word="significantly" count="24"/>
+ </snippets>
+</snippetsTree>

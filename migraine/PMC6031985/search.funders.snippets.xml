@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6031985/results/search/funders/results.xml">
+  <result pre="[d], Korea Correspondence: Seo-Young Lee, MD, PhD. Department of Neurology," exact="Kangwon National University" post="School of Medicine, 156 Baengnyeong-ro, Chuncheon 24289, Korea. Tel"/>
+  <result pre="Seo-Young Lee, MD, PhD. Department of Neurology, Kangwon National University" exact="School of Medicine," post="156 Baengnyeong-ro, Chuncheon 24289, Korea. Tel +82-33-258-2431, Fax +82-33-258-2103,"/>
+  <result pre="+82-33-258-2103, leeseoyoung@kangwon.ac.kr Correspondence: Won-Sang Cho, MD, PhD. Department of Neurosurgery," exact="Seoul National University" post="Hospital, Seoul National University College of Medicine, 101 Daehak-ro,"/>
+  <result pre="Cho, MD, PhD. Department of Neurosurgery, Seoul National University Hospital," exact="Seoul National University" post="College of Medicine, 101 Daehak-ro, Jongno-gu, Seoul 03080, Korea."/>
+ </snippets>
+</snippetsTree>

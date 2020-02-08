@@ -1,0 +1,581 @@
+{
+  "id": [
+    "17451596"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "17451596"
+  ],
+  "pmcid": [
+    "PMC1868723"
+  ],
+  "doi": [
+    "10.1186/1471-2458-7-61"
+  ],
+  "title": [
+    "Eurythmy therapy in chronic disease: a four-year prospective cohort study."
+  ],
+  "authorString": [
+    "Hamre HJ, Witt CM, Glockmann A, Ziegler R, Willich SN, Kiene H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hamre HJ"
+          ],
+          "firstName": [
+            "Harald J"
+          ],
+          "lastName": [
+            "Hamre"
+          ],
+          "initials": [
+            "HJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Witt CM"
+          ],
+          "firstName": [
+            "Claudia M"
+          ],
+          "lastName": [
+            "Witt"
+          ],
+          "initials": [
+            "CM"
+          ]
+        },
+        {
+          "fullName": [
+            "Glockmann A"
+          ],
+          "firstName": [
+            "Anja"
+          ],
+          "lastName": [
+            "Glockmann"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Ziegler R"
+          ],
+          "firstName": [
+            "Renatus"
+          ],
+          "lastName": [
+            "Ziegler"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Willich SN"
+          ],
+          "firstName": [
+            "Stefan N"
+          ],
+          "lastName": [
+            "Willich"
+          ],
+          "initials": [
+            "SN"
+          ]
+        },
+        {
+          "fullName": [
+            "Kiene H"
+          ],
+          "firstName": [
+            "Helmut"
+          ],
+          "lastName": [
+            "Kiene"
+          ],
+          "initials": [
+            "H"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1372438"
+      ],
+      "dateOfPublication": [
+        "2007 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2007"
+      ],
+      "printPublicationDate": [
+        "2007-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2007"
+  ],
+  "pageInfo": [
+    "61"
+  ],
+  "abstractText": [
+    "BACKGROUND: Many patients with chronic diseases use complementary therapies, often provided by their physicians. In Germany, several physician-provided complementary therapies have been reimbursed by health insurance companies as part of health benefit programs. In most of these therapies, the patient has a predominantly passive role. In eurythmy therapy, however, patients actively exercise specific movements with the hands, the feet or the whole body. The purpose of this study was to describe clinical outcomes in patients practising eurythmy therapy exercises for chronic diseases. METHODS: In conjunction with a health benefit program, 419 outpatients from 94 medical practices in Germany, referred to 118 eurythmy therapists, participated in a prospective cohort study. Main outcomes were disease severity (Disease and Symptom Scores, physicians' and patients' assessment on numerical rating scales 0-10) and quality of life (adults: SF-36, children aged 8-16: KINDL, children 1-7: KITA). Disease Score was documented after 0, 6 and 12 months, other outcomes after 0, 3, 6, 12, 18, 24, and (SF-36 and Symptom Score) 48 months. RESULTS: Most common indications were mental disorders (31.7% of patients; primarily depression, fatigue, and childhood emotional disorder) and musculoskeletal diseases (23.4%). Median disease duration at baseline was 3.0 years (interquartile range 1.0-8.5). Median number of eurythmy therapy sessions was 12 (interquartile range 10-19), median therapy duration was 119 days (84-188). All outcomes improved significantly between baseline and all subsequent follow-ups (exceptions: KITA Psychosoma in first three months and KINDL). Improvements from baseline to 12 months were: Disease Score from mean (standard deviation) 6.65 (1.81) to 3.19 (2.27) (p < 0.001), Symptom Score from 5.95 (1.75) to 3.49 (2.12) (p < 0.001), SF-36 Physical Component Summary from 43.13 (10.25) to 47.10 (9.78) (p < 0.001), SF-36 Mental Component Summary from 38.31 (11.67) to 45.01 (11.76) (p < 0.001), KITA Psychosoma from 69.53 (15.45) to 77.21 (13.60) (p = 0.001), and KITA Daily Life from 59.23 (21.78) to 68.14 (18.52) (p = 0.001). All these improvements were maintained until the last follow-up. Improvements were similar in patients not using diagnosis-related adjunctive therapies within the first six study months. Adverse reactions to eurythmy therapy occurred in 3.1% (13/419) of patients. No patient stopped eurythmy therapy due to adverse reactions. CONCLUSION: Patients practising eurythmy therapy exercises had long-term improvement of chronic disease symptoms and quality of life. Although the pre-post design of the present study does not allow for conclusions about comparative effectiveness, study findings suggest that eurythmy therapy can be useful for patients motivated for this therapy."
+  ],
+  "affiliation": [
+    "Institute for Applied Epistemology and Medical Methodology, Freiburg, Germany. harald.hamre@ifaemm.de"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Evaluation Studies",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Anthroposophy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Massage"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Exercise Movement Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insurance Coverage"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Outcome and Process Assessment (Health Care)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2458-7-61"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC1868723"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC1868723?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "18"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2007-05-21"
+  ],
+  "dateOfCreation": [
+    "2007-05-16"
+  ],
+  "firstIndexDate": [
+    "2009-12-24"
+  ],
+  "fullTextReceivedDate": [
+    "2011-01-15"
+  ],
+  "dateOfRevision": [
+    "2009-11-18"
+  ],
+  "electronicPublicationDate": [
+    "2007-04-23"
+  ],
+  "firstPublicationDate": [
+    "2007-04-23"
+  ]
+}

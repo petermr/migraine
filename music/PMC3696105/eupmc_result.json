@@ -1,0 +1,595 @@
+{
+  "id": [
+    "23840645"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23840645"
+  ],
+  "pmcid": [
+    "PMC3696105"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0067264"
+  ],
+  "title": [
+    "The day-to-day acute effect of wake therapy in patients with major depression using the HAM-D6 as primary outcome measure: results from a randomised controlled trial."
+  ],
+  "authorString": [
+    "Martiny K, Refsgaard E, Lund V, Lunde M, Sørensen L, Thougaard B, Lindberg L, Bech P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Martiny K"
+          ],
+          "firstName": [
+            "Klaus"
+          ],
+          "lastName": [
+            "Martiny"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7317-5958",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Psychiatric Centre Copenhagen, Rigshospitalet, Copenhagen University Hospital, Copenhagen, Denmark. klaus.martiny@regionh.dk"
+          ]
+        },
+        {
+          "fullName": [
+            "Refsgaard E"
+          ],
+          "firstName": [
+            "Else"
+          ],
+          "lastName": [
+            "Refsgaard"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Lund V"
+          ],
+          "firstName": [
+            "Vibeke"
+          ],
+          "lastName": [
+            "Lund"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Lunde M"
+          ],
+          "firstName": [
+            "Marianne"
+          ],
+          "lastName": [
+            "Lunde"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Sørensen L"
+          ],
+          "firstName": [
+            "Lene"
+          ],
+          "lastName": [
+            "Sørensen"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Thougaard B"
+          ],
+          "firstName": [
+            "Britta"
+          ],
+          "lastName": [
+            "Thougaard"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Lindberg L"
+          ],
+          "firstName": [
+            "Lone"
+          ],
+          "lastName": [
+            "Lindberg"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Bech P"
+          ],
+          "firstName": [
+            "Per"
+          ],
+          "lastName": [
+            "Bech"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4948-6115",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7317-5958",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4948-6115",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2046964"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "e67264"
+  ],
+  "abstractText": [
+    "This paper reports day-to-day data for from a one-week intervention phase, part of a 9-weeks randomised parallel study with patient having major depression (data from weekly visits have been reported). Wake therapy (sleep deprivation) has an established antidepressant effect with onset of action within hours. Deterioration on the following night's sleep is, however, common, and we used daily light therapy and sleep time stabilisation as a preventive measure. In particular, we evaluated the day-to-day acute effect of and tolerance to sleep deprivation and examined predictors of response.Patients were assessed at psychiatric inpatient wards. In the wake group (n = 36), patients did three wake therapies in combination with light therapy each morning together with sleep time stabilisation. In the exercise group (n = 38), patients did daily exercise. Hamilton subscale scores were primary outcome (not blinded), secondary outcome was self-assessment data from the Preskorn scale and sleep.Patients in the wake therapy group had an immediate, large, stable, and statistically significant better antidepressant effect than patients in the exercise group with response rates at day5 of 75.0%/25.1% and remission rates of 58.6%/6.0%, respectively. The response and remission rates were diminished at day8 with response rates of 41.9%/10.1% and remission rates of 19.4%/4.7%, respectively. Patients and ward personnel found the method applicable with few side effects. Positive diurnal variation (mood better in the evening) predicted a larger response to wake therapy. In the wake group napping on days after intervention predicted greater deterioration on day8.The intervention induced an acute antidepressant response without relapse between wake nights but with a diminishing effect after intervention. Development is still needed to secure maintenance of response. Avoiding napping in the days after wake therapy is important.Clinical trials.gov NCT00149110."
+  ],
+  "affiliation": [
+    "Psychiatric Centre Copenhagen, Rigshospitalet, Copenhagen University Hospital, Copenhagen, Denmark. klaus.martiny@regionh.dk"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sleep Deprivation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Affect"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depressive Disorder, Major"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Behavior Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23840645/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23840645/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0067264"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3696105"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3696105?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS One. 2013;8(10). doi:10.1371/annotation/3dcdb46a-e2b7-4305-8025-ce267688e9d6"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "26"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "15"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-01-21"
+  ],
+  "dateOfCreation": [
+    "2013-07-10"
+  ],
+  "firstIndexDate": [
+    "2013-07-11"
+  ],
+  "fullTextReceivedDate": [
+    "2013-07-15"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2013-06-28"
+  ],
+  "firstPublicationDate": [
+    "2013-06-28"
+  ]
+}

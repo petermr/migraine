@@ -1,0 +1,280 @@
+{
+  "id": [
+    "24278716"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24278716"
+  ],
+  "pmcid": [
+    "PMC3820628"
+  ],
+  "doi": [
+    "10.6064/2012/561761"
+  ],
+  "title": [
+    "The perception and endogenous modulation of pain."
+  ],
+  "authorString": [
+    "Ossipov MH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ossipov MH"
+          ],
+          "firstName": [
+            "Michael H"
+          ],
+          "lastName": [
+            "Ossipov"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, College of Medicine, University of Arizona, Tucson, AZ 85724, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2012"
+      ],
+      "journalIssueId": [
+        "2039552"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientifica"
+          ],
+          "ISOAbbreviation": [
+            "Scientifica (Cairo)"
+          ],
+          "medlineAbbreviation": [
+            "Scientifica (Cairo)"
+          ],
+          "NLMid": [
+            "101589932"
+          ],
+          "ISSN": [
+            "2090-908X"
+          ],
+          "ESSN": [
+            "2090-908X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "561761"
+  ],
+  "abstractText": [
+    "Pain is often perceived an unpleasant experience that includes sensory and emotional/motivational responses. Accordingly, pain serves as a powerful teaching signal enabling an organism to avoid injury, and is critical to survival. However, maladaptive pain, such as neuropathic or idiopathic pain, serves no survival function. Genomic studies of individuals with congenital insensitivity to pain or paroxysmal pain syndromes considerable increased our understanding of the function of peripheral nociceptors, and especially of the roles of voltage-gated sodium channels and of nerve growth factor (NGF)/TrkA receptors in nociceptive transduction and transmission. Brain imaging studies revealed a \"pain matrix,\" consisting of cortical and subcortical regions that respond to noxious inputs and can positively or negatively modulate pain through activation of descending pain modulatory systems. Projections from the periaqueductal grey (PAG) and the rostroventromedial medulla (RVM) to the trigeminal and spinal dorsal horns can inhibit or promote further nociceptive inputs. The \"pain matrix\" can explain such varied phenomena as stress-induced analgesia, placebo effect and the role of expectation on pain perception. Disruptions in these systems may account for the existence idiopathic pan states such as fibromyalgia. Increased understanding of pain modulatory systems will lead to development of more effective therapeutics for chronic pain."
+  ],
+  "affiliation": [
+    "Department of Pharmacology, College of Medicine, University of Arizona, Tucson, AZ 85724, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24278716/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24278716/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.6064/2012/561761"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3820628"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3820628?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-11-26"
+  ],
+  "dateOfCreation": [
+    "2013-11-26"
+  ],
+  "firstIndexDate": [
+    "2013-11-27"
+  ],
+  "fullTextReceivedDate": [
+    "2013-11-29"
+  ],
+  "dateOfRevision": [
+    "2013-12-16"
+  ],
+  "electronicPublicationDate": [
+    "2012-12-25"
+  ],
+  "firstPublicationDate": [
+    "2012-12-25"
+  ]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="d pancreatic, SSYC: Shigella, Salmonella, Yersinia, and Campylobacter, " exact="H. pylori" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/div[3]/div[2]/div[3]/p[2]" match="H. pylori" post=": Helicobacter pylori, Abdominal US: abdominal ultrasound. " name="binomial"/>
+ <result pre=": Shigella, Salmonella, Yersinia, and Campylobacter, H. pylori: " exact="Helicobacter pylori" match="Helicobacter pylori" post=", Abdominal US: abdominal ultrasound. " name="binomial"/>
+</results>

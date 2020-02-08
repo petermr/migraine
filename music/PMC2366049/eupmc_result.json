@@ -1,0 +1,309 @@
+{
+  "id": [
+    "PMC2366049"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC2366049"
+  ],
+  "doi": [
+    "10.1155/2007/23250"
+  ],
+  "title": [
+    "39th Annual European Brain and Behaviour Society Abstracts."
+  ],
+  "authorString": [
+    "Treves EbA, Battaglini PP, Chelazzi L, Diamond M, Vallortigara G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Treves EbA"
+          ],
+          "firstName": [
+            "Edited by: Alessandro"
+          ],
+          "lastName": [
+            "Treves"
+          ],
+          "initials": [
+            "EbA"
+          ],
+          "affiliation": [
+            "SISSA, Trieste, Italy"
+          ]
+        },
+        {
+          "fullName": [
+            "Battaglini PP"
+          ],
+          "firstName": [
+            "P. Paolo"
+          ],
+          "lastName": [
+            "Battaglini"
+          ],
+          "initials": [
+            "PP"
+          ]
+        },
+        {
+          "fullName": [
+            "Chelazzi L"
+          ],
+          "firstName": [
+            "Leonardo"
+          ],
+          "lastName": [
+            "Chelazzi"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Diamond M"
+          ],
+          "firstName": [
+            "Mathew"
+          ],
+          "lastName": [
+            "Diamond"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Vallortigara G"
+          ],
+          "firstName": [
+            "Giorgio"
+          ],
+          "lastName": [
+            "Vallortigara"
+          ],
+          "initials": [
+            "G"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2007"
+      ],
+      "journalIssueId": [
+        "1676998"
+      ],
+      "dateOfPublication": [
+        "2007 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2007"
+      ],
+      "printPublicationDate": [
+        "2007-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural plasticity"
+          ],
+          "ISOAbbreviation": [
+            "Neural Plast."
+          ],
+          "medlineAbbreviation": [
+            "Neural Plast"
+          ],
+          "NLMid": [
+            "100883417"
+          ],
+          "ISSN": [
+            "2090-5904"
+          ],
+          "ESSN": [
+            "1687-5443"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2007"
+  ],
+  "abstractText": [
+    "The EUROPEAN BRAIN AND BEHAVIOUR SOCIETY has held its 39th Annual General Meeting in Trieste, in the campus next to the Miramare castle and its park, co-hosted by SISSA, the International School for Advanced Studies, and ICTP, the Abdus Salam International Centre for Theoretical Physics. Alessandro Treves (SISSA) was the head and inspiration of the Local Organizing committee, supported by P. Battaglini, L. Chelazzi, M. Diamond and G. Vallortigara. All approaches relating brain and behaviour were represented at the meeting, which aimed to further expand the wide spectrum of previous EBBS AGMs, and to bring together integrative, system, cognitive, computational neuroscientists.See also the societies home page: http://www.ebbs-science.org/."
+  ],
+  "affiliation": [
+    "SISSA, Trieste, Italy"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "meeting-report",
+        "Meeting Report"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2366049/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2366049/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2366049"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2366049?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2009-11-19"
+  ],
+  "firstIndexDate": [
+    "2009-11-22"
+  ],
+  "fullTextReceivedDate": [
+    "2012-08-23"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "electronicPublicationDate": [
+    "2007-10-10"
+  ],
+  "firstPublicationDate": [
+    "2007-10-10"
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "id": [
+    "31302690"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31302690"
+  ],
+  "pmcid": [
+    "PMC6857740"
+  ],
+  "doi": [
+    "10.1093/ije/dyz127"
+  ],
+  "title": [
+    "Headache, tinnitus and hearing loss in the international Cohort Study of Mobile Phone Use and Health (COSMOS) in Sweden and Finland."
+  ],
+  "authorString": [
+    "Auvinen A, Feychting M, Ahlbom A, Hillert L, Elliott P, Schüz J, Kromhout H, Toledano MB, Johansen C, Poulsen AH, Vermeulen R, Heinävaara S, Kojo K, Tettamanti G, COSMOS Study Group."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Auvinen A"
+          ],
+          "firstName": [
+            "Anssi"
+          ],
+          "lastName": [
+            "Auvinen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1125-4818",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Environmental Surveillance and Emergency Preparedness, STUK - Radiation and Nuclear Safety Authority, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Feychting M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Feychting"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Environmental Medicine, Karolinska Institute, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Ahlbom A"
+          ],
+          "firstName": [
+            "Anders"
+          ],
+          "lastName": [
+            "Ahlbom"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Environmental Medicine, Karolinska Institute, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Hillert L"
+          ],
+          "firstName": [
+            "Lena"
+          ],
+          "lastName": [
+            "Hillert"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Environmental Medicine, Karolinska Institute, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Elliott P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Elliott"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "MRC-PHE Centre for Environment and Health, Department of Epidemiology and Biostatistics, School of Public Health, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Schüz J"
+          ],
+          "firstName": [
+            "Joachim"
+          ],
+          "lastName": [
+            "Schüz"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Section of Environment and Radiation, International Agency for Research on Cancer (IARC), Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Kromhout H"
+          ],
+          "firstName": [
+            "Hans"
+          ],
+          "lastName": [
+            "Kromhout"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4233-1890",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Risk Assessment Sciences, Utrecht University, Utrecht, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Toledano MB"
+          ],
+          "firstName": [
+            "Mireille B"
+          ],
+          "lastName": [
+            "Toledano"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "affiliation": [
+            "MRC-PHE Centre for Environment and Health, Department of Epidemiology and Biostatistics, School of Public Health, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Johansen C"
+          ],
+          "firstName": [
+            "Christoffer"
+          ],
+          "lastName": [
+            "Johansen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Danish Cancer Society Research Center, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Poulsen AH"
+          ],
+          "firstName": [
+            "Aslak Harbo"
+          ],
+          "lastName": [
+            "Poulsen"
+          ],
+          "initials": [
+            "AH"
+          ],
+          "affiliation": [
+            "Danish Cancer Society Research Center, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Vermeulen R"
+          ],
+          "firstName": [
+            "Roel"
+          ],
+          "lastName": [
+            "Vermeulen"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute for Risk Assessment Sciences, Utrecht University, Utrecht, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Heinävaara S"
+          ],
+          "firstName": [
+            "Sirpa"
+          ],
+          "lastName": [
+            "Heinävaara"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Environmental Surveillance and Emergency Preparedness, STUK - Radiation and Nuclear Safety Authority, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Kojo K"
+          ],
+          "firstName": [
+            "Katja"
+          ],
+          "lastName": [
+            "Kojo"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Environmental Surveillance and Emergency Preparedness, STUK - Radiation and Nuclear Safety Authority, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Tettamanti G"
+          ],
+          "firstName": [
+            "Giorgio"
+          ],
+          "lastName": [
+            "Tettamanti"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5210-7219",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Environmental Medicine, Karolinska Institute, Stockholm, Sweden."
+          ]
+        },
+        {
+          "collectiveName": [
+            "COSMOS Study Group"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Danker-Hopfe H"
+          ],
+          "firstName": [
+            "Heidi"
+          ],
+          "lastName": [
+            "Danker-Hopfe"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Inskip H"
+          ],
+          "firstName": [
+            "Hazel"
+          ],
+          "lastName": [
+            "Inskip"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Röösli M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Röösli"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4233-1890",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1125-4818",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5210-7219",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "48"
+      ],
+      "journalIssueId": [
+        "2882694"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of epidemiology"
+          ],
+          "ISOAbbreviation": [
+            "Int J Epidemiol"
+          ],
+          "medlineAbbreviation": [
+            "Int J Epidemiol"
+          ],
+          "NLMid": [
+            "7802871"
+          ],
+          "ISSN": [
+            "0300-5771"
+          ],
+          "ESSN": [
+            "1464-3685"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1567-1579"
+  ],
+  "abstractText": [
+    "BACKGROUND:Mobile phone use and exposure to radiofrequency electromagnetic fields (RF-EMF) from it have been associated with symptoms in some studies, but the studies have shortcomings and their findings are inconsistent. We conducted a prospective cohort study to assess the association between amount of mobile phone use at baseline and frequency of headache, tinnitus or hearing loss at 4-year follow-up. METHODS:The participants had mobile phone subscriptions with major mobile phone network operators in Sweden (n = 21 049) and Finland (n = 3120), gave consent for obtaining their mobile phone call data from operator records at baseline, and filled in both baseline and follow-up questionnaires on symptoms, potential confounders and further characteristics of their mobile phone use. RESULTS:The participants with the highest decile of recorded call-time (average call-time >276 min per week) at baseline showed a weak, suggestive increased frequency of weekly headaches at 4-year follow-up (adjusted odds ratio 1.13, 95% confidence interval 0.95-1.34). There was no obvious gradient of weekly headache with increasing call-time (P trend 0.06). The association of headache with call-time was stronger for the Universal Mobile Telecommunications System (UMTS) network than older Global System for Mobile Telecommunications (GSM) technology, despite the latter involving higher exposure to RF-EMF. Tinnitus and hearing loss showed no association with call-time. CONCLUSIONS:People using mobile phones most extensively for making or receiving calls at baseline reported weekly headaches slightly more frequently at follow-up than other users, but this finding largely disappeared after adjustment for confounders and was not related to call-time in GSM with higher RF-EMF exposure. Tinnitus and hearing loss were not associated with amount of call-time."
+  ],
+  "affiliation": [
+    "Environmental Surveillance and Emergency Preparedness, STUK - Radiation and Nuclear Safety Authority, Helsinki, Finland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "HPRU-2012–10141"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "acronym": [
+            "DH_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/L01341X/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/L01632X/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PR-ST-0713–00003"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "acronym": [
+            "DH_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hearing loss",
+        "Tinnitus",
+        "Cohort studies",
+        "Headache",
+        "Cell Phones"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/ije/dyz127"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6857740"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6857740?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-15"
+  ],
+  "firstIndexDate": [
+    "2019-07-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-25"
+  ],
+  "firstPublicationDate": [
+    "2019-10-01"
+  ]
+}

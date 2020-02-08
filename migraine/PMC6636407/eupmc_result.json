@@ -1,0 +1,712 @@
+{
+  "id": [
+    "31287810"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31287810"
+  ],
+  "pmcid": [
+    "PMC6636407"
+  ],
+  "doi": [
+    "10.12659/MSM.915607"
+  ],
+  "title": [
+    "Liposomal Curcumin Enhances the Effect of Naproxen in a Rat Model of Migraine."
+  ],
+  "authorString": [
+    "Bulboacă AE, Bolboacă SD, Bulboacă AC, Porfire AS, Tefas LR, Suciu ȘM, Dogaru G, Stănescu IC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bulboacă AE"
+          ],
+          "firstName": [
+            "Adriana E"
+          ],
+          "lastName": [
+            "Bulboacă"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "affiliation": [
+            "Department of Pathophysiology, Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca, Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Bolboacă SD"
+          ],
+          "firstName": [
+            "Sorana D"
+          ],
+          "lastName": [
+            "Bolboacă"
+          ],
+          "initials": [
+            "SD"
+          ],
+          "affiliation": [
+            "Department of Medical Informatics and Biostatistics, Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca, Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Bulboacă AC"
+          ],
+          "firstName": [
+            "Angelo C"
+          ],
+          "lastName": [
+            "Bulboacă"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "Department of Neurology and Pediatric Neurology, Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca, Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Porfire AS"
+          ],
+          "firstName": [
+            "Alina S"
+          ],
+          "lastName": [
+            "Porfire"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Technology and Biopharmaceutics, Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca, Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Tefas LR"
+          ],
+          "firstName": [
+            "Lucia R"
+          ],
+          "lastName": [
+            "Tefas"
+          ],
+          "initials": [
+            "LR"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Technology and Biopharmaceutics, Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca, Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Suciu ȘM"
+          ],
+          "firstName": [
+            "Șoimița M"
+          ],
+          "lastName": [
+            "Suciu"
+          ],
+          "initials": [
+            "ȘM"
+          ],
+          "affiliation": [
+            "Department of Physiology, Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca, Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Dogaru G"
+          ],
+          "firstName": [
+            "Gabriela"
+          ],
+          "lastName": [
+            "Dogaru"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Physical Medicine and Rehabilitation, Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca, Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Stănescu IC"
+          ],
+          "firstName": [
+            "Ioana C"
+          ],
+          "lastName": [
+            "Stănescu"
+          ],
+          "initials": [
+            "IC"
+          ],
+          "affiliation": [
+            "Department of Neurology and Pediatric Neurology, Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca, Cluj-Napoca, Romania."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "25"
+      ],
+      "journalIssueId": [
+        "2832421"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medical science monitor : international medical journal of experimental and clinical research"
+          ],
+          "ISOAbbreviation": [
+            "Med. Sci. Monit."
+          ],
+          "medlineAbbreviation": [
+            "Med Sci Monit"
+          ],
+          "NLMid": [
+            "9609063"
+          ],
+          "ISSN": [
+            "1234-1010"
+          ],
+          "ESSN": [
+            "1643-3750"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "5087-5097"
+  ],
+  "abstractText": [
+    "BACKGROUND Curcumin is an antioxidant that reduces inflammation and pain. This study aimed to assess the effect of pretreatment with naproxen and liposomal curcumin compared with naproxen and curcumin solution on oxidative stress parameters and pain in a rat model of migraine. MATERIAL AND METHODS Sixty-three male Wistar rats included a control group (n=9) and a rat model of migraine (n=54) induced by intraperitoneal injection of nitroglycerin (1 mg/0.1 kg). The rat model group was divided into an untreated control group (n=9), a group pretreated with naproxen alone (2.8 mg/kg) (n=9), a group pretreated with naproxen (2.8 mg/kg) combined with curcumin solution (1 mg/0.1 kg) (n=9), a group pretreated with naproxen (2.8 mg/kg) combined with curcumin solution (2 mg/0.1 kg) (n=9), a group pretreated with naproxen (2.8 mg/kg) combined with liposomal curcumin solution (1 mg/0.1 kg) (n=9) a group pretreated with naproxen (2.8 mg/kg) combined with liposomal curcumin solution (2 mg/0.1 kg) (n=9). Spectroscopy measured biomarkers of total oxidative status and nociception was tested using an injection of 1% of formalin into the rat paw. RESULTS Expression of biomarkers of oxidative stress and enhanced nociception were significantly increased following pretreatment with combined naproxen and liposomal curcumin compared with curcumin solution or naproxen alone (P<0.001). Combined curcumin solution and naproxen were more effective at a concentration of 2 mg/0.1kg for the first nociceptive phase (P<0.005). CONCLUSIONS In a rat model of migraine, combined therapy with liposomal curcumin and naproxen showed an improved antioxidant effect and anti-nociceptive effect."
+  ],
+  "affiliation": [
+    "Department of Pathophysiology, Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca, Cluj-Napoca, Romania."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats, Wistar"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Models, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inflammation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Curcumin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Naproxen"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antioxidants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Measurement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Therapy, Combination"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oxidative Stress"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antioxidants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Curcumin"
+          ],
+          "registryNumber": [
+            "IT942ZTH98"
+          ]
+        },
+        {
+          "name": [
+            "Naproxen"
+          ],
+          "registryNumber": [
+            "57Y76R9ATQ"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12659/MSM.915607"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6636407"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6636407?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-01-27"
+  ],
+  "dateOfCreation": [
+    "2019-07-10"
+  ],
+  "firstIndexDate": [
+    "2019-07-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-03"
+  ],
+  "dateOfRevision": [
+    "2020-01-27"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-09"
+  ],
+  "firstPublicationDate": [
+    "2019-07-09"
+  ]
+}

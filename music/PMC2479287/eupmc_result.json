@@ -1,0 +1,279 @@
+{
+  "id": [
+    "20282923"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20282923"
+  ],
+  "pmcid": [
+    "PMC2479287"
+  ],
+  "title": [
+    "Migraine."
+  ],
+  "authorString": [
+    "MacLAUGHLIN FA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "MacLAUGHLIN FA"
+          ],
+          "lastName": [
+            "MacLAUGHLIN"
+          ],
+          "initials": [
+            "FA"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "1671681"
+      ],
+      "dateOfPublication": [
+        "1946 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "1946"
+      ],
+      "printPublicationDate": [
+        "1946-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Ulster medical journal"
+          ],
+          "ISOAbbreviation": [
+            "Ulster Med J"
+          ],
+          "medlineAbbreviation": [
+            "Ulster Med J"
+          ],
+          "NLMid": [
+            "0417367"
+          ],
+          "ISSN": [
+            "0041-6193"
+          ],
+          "ESSN": [
+            "2046-4207"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1946"
+  ],
+  "pageInfo": [
+    "153-164"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "OM"
+          ],
+          "name": [
+            "pre-1966 citations"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20282923/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20282923/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2479287"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2479287?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-03-18"
+  ],
+  "dateOfCreation": [
+    "1947-12-01"
+  ],
+  "firstIndexDate": [
+    "2010-04-01"
+  ],
+  "fullTextReceivedDate": [
+    "2010-03-31"
+  ],
+  "dateOfRevision": [
+    "2010-12-08"
+  ],
+  "firstPublicationDate": [
+    "1946-11-01"
+  ]
+}

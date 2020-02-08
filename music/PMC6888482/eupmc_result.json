@@ -1,0 +1,353 @@
+{
+  "id": [
+    "31698800"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31698800"
+  ],
+  "pmcid": [
+    "PMC6888482"
+  ],
+  "doi": [
+    "10.3390/ijerph16224321"
+  ],
+  "title": [
+    "Survey Results of a Pilot Sleep Study Near Atlanta International Airport."
+  ],
+  "authorString": [
+    "Rocha S, Smith MG, Witte M, Basner M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rocha S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Rocha"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Unit for Experimental Psychiatry, Division of Sleep and Chronobiology, Department of Psychiatry, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith MG"
+          ],
+          "firstName": [
+            "Michael G"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8541-9625",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Unit for Experimental Psychiatry, Division of Sleep and Chronobiology, Department of Psychiatry, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Witte M"
+          ],
+          "firstName": [
+            "Maryam"
+          ],
+          "lastName": [
+            "Witte"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Unit for Experimental Psychiatry, Division of Sleep and Chronobiology, Department of Psychiatry, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Basner M"
+          ],
+          "firstName": [
+            "Mathias"
+          ],
+          "lastName": [
+            "Basner"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8453-0812",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Unit for Experimental Psychiatry, Division of Sleep and Chronobiology, Department of Psychiatry, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA 19104, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8541-9625",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8453-0812",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "22"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2879512"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Aircraft noise can disturb the sleep of residents living near airports. To investigate potential effects of aircraft noise on sleep, recruitment surveys for a pilot field study were mailed to households around Atlanta International Airport. Survey items included questions about sleep quality, sleep disturbance by noise, noise annoyance, coping behaviors, and health. Of 3159 deliverable surveys, 319 were returned (10.1%). Calculated outdoor nighttime aircraft noise (Lnight) was significantly associated with lower sleep quality (poor or fair; odds ratio (OR) = 1.04/decibel (dB); p < 0.05), trouble falling asleep within 30 min ≥1/week (OR = 1.06/dB; p < 0.01), and trouble sleeping due to awakenings ≥1/week (OR = 1.04/dB; p < 0.05). Lnight was also associated with increased prevalence of being highly sleep disturbed (OR = 1.15/dB; p < 0.0001) and highly annoyed (OR = 1.17/dB; p < 0.0001) by aircraft noise. Furthermore Lnight was associated with several coping behaviors. Residents were more likely to report often or always closing their windows (OR = 1.05/dB; p < 0.01), consuming alcohol (OR = 1.10/dB; p < 0.05), using television (OR = 1.05/dB; p < 0.05) and using music (OR = 1.07/dB; p < 0.05) as sleep aids. There was no significant relationship between Lnight and self-reported general health or likelihood of self-reported diagnosis of sleep disorders, heart disease, hypertension or diabetes. Evidence of self-reported adverse effects of aircraft noise on sleep found in this pilot study warrant further investigation in larger, more representative subject cohorts."
+  ],
+  "affiliation": [
+    "Unit for Experimental Psychiatry, Division of Sleep and Chronobiology, Department of Psychiatry, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA 19104, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aircraft Noise",
+        "Annoyance",
+        "Sleep Disturbance",
+        "Postal Questionnaire",
+        "Pilot Field Study"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph16224321"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6888482"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6888482?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-09"
+  ],
+  "firstIndexDate": [
+    "2019-11-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-11"
+  ],
+  "dateOfRevision": [
+    "2019-12-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-06"
+  ],
+  "firstPublicationDate": [
+    "2019-11-06"
+  ]
+}

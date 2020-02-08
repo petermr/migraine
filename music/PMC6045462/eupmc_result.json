@@ -1,0 +1,978 @@
+{
+  "id": [
+    "29724661"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29724661"
+  ],
+  "pmcid": [
+    "PMC6045462"
+  ],
+  "doi": [
+    "10.1016/j.clinph.2018.03.042"
+  ],
+  "title": [
+    "IFCN-endorsed practical guidelines for clinical magnetoencephalography (MEG)."
+  ],
+  "authorString": [
+    "Hari R, Baillet S, Barnes G, Burgess R, Forss N, Gross J, Hämäläinen M, Jensen O, Kakigi R, Mauguière F, Nakasato N, Puce A, Romani GL, Schnitzler A, Taulu S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hari R"
+          ],
+          "firstName": [
+            "Riitta"
+          ],
+          "lastName": [
+            "Hari"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Art, Aalto University, Helsinki, Finland. Electronic address: riitta.hari@aalto.fi."
+          ]
+        },
+        {
+          "fullName": [
+            "Baillet S"
+          ],
+          "firstName": [
+            "Sylvain"
+          ],
+          "lastName": [
+            "Baillet"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Barnes G"
+          ],
+          "firstName": [
+            "Gareth"
+          ],
+          "lastName": [
+            "Barnes"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5396-7712",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wellcome Centre for Human Neuroimaging, University College of London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Burgess R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Burgess"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Epilepsy Center, Neurological Institute, Cleveland Clinic, Cleveland, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Forss N"
+          ],
+          "firstName": [
+            "Nina"
+          ],
+          "lastName": [
+            "Forss"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1620-8573",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Clinical Neuroscience, Neurology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Gross J"
+          ],
+          "firstName": [
+            "Joachim"
+          ],
+          "lastName": [
+            "Gross"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3994-1006",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Cognitive Neuroimaging, University of Glasgow, Glasgow, UK; Institute for Biomagnetism and Biosignalanalysis, University of Muenster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hämäläinen M"
+          ],
+          "firstName": [
+            "Matti"
+          ],
+          "lastName": [
+            "Hämäläinen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Charlestown, MA, USA; Harvard Medical School, Boston, MA, USA; NatMEG, Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Jensen O"
+          ],
+          "firstName": [
+            "Ole"
+          ],
+          "lastName": [
+            "Jensen"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8193-8348",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Human Brain Health, University of Birmingham, Birmingham, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Kakigi R"
+          ],
+          "firstName": [
+            "Ryusuke"
+          ],
+          "lastName": [
+            "Kakigi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Integrative Physiology, National Institute of Physiological Sciences, Okazaki, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Mauguière F"
+          ],
+          "firstName": [
+            "François"
+          ],
+          "lastName": [
+            "Mauguière"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Functional Neurology and Epileptology, Neurological Hospital & University of Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakasato N"
+          ],
+          "firstName": [
+            "Nobukatzu"
+          ],
+          "lastName": [
+            "Nakasato"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Epileptology, Tohoku University, Sendai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Puce A"
+          ],
+          "firstName": [
+            "Aina"
+          ],
+          "lastName": [
+            "Puce"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychological and Brain Sciences, Indiana University, Bloomington, IN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Romani GL"
+          ],
+          "firstName": [
+            "Gian-Luca"
+          ],
+          "lastName": [
+            "Romani"
+          ],
+          "initials": [
+            "GL"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Imaging and Clinical Sciences, Università degli Studi G. D'Annunzio, Chieti, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Schnitzler A"
+          ],
+          "firstName": [
+            "Alfons"
+          ],
+          "lastName": [
+            "Schnitzler"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Clinical Neuroscience and Medical Psychology, and Department of Neurology, Heinrich-Heine-University, Düsseldorf, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Taulu S"
+          ],
+          "firstName": [
+            "Samu"
+          ],
+          "lastName": [
+            "Taulu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute for Learning & Brain Sciences, University of Washington, Seattle, WA, USA; Department of Physics, University of Washington, Seattle, WA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1620-8573",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5396-7712",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3994-1006",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8193-8348",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "129"
+      ],
+      "journalIssueId": [
+        "2706504"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology"
+          ],
+          "ISOAbbreviation": [
+            "Clin Neurophysiol"
+          ],
+          "medlineAbbreviation": [
+            "Clin Neurophysiol"
+          ],
+          "NLMid": [
+            "100883319"
+          ],
+          "ISSN": [
+            "1388-2457"
+          ],
+          "ESSN": [
+            "1872-8952"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1720-1747"
+  ],
+  "abstractText": [
+    "Magnetoencephalography (MEG) records weak magnetic fields outside the human head and thereby provides millisecond-accurate information about neuronal currents supporting human brain function. MEG and electroencephalography (EEG) are closely related complementary methods and should be interpreted together whenever possible. This manuscript covers the basic physical and physiological principles of MEG and discusses the main aspects of state-of-the-art MEG data analysis. We provide guidelines for best practices of patient preparation, stimulus presentation, MEG data collection and analysis, as well as for MEG interpretation in routine clinical examinations. In 2017, about 200 whole-scalp MEG devices were in operation worldwide, many of them located in clinical environments. Yet, the established clinical indications for MEG examinations remain few, mainly restricted to the diagnostics of epilepsy and to preoperative functional evaluation of neurosurgical patients. We are confident that the extensive ongoing basic MEG research indicates potential for the evaluation of neurological and psychiatric syndromes, developmental disorders, and the integrity of cortical brain networks after stroke. Basic and clinical research is, thus, paving way for new clinical applications to be identified by an increasing number of practitioners of MEG."
+  ],
+  "affiliation": [
+    "Department of Art, Aalto University, Helsinki, Finland. Electronic address: riitta.hari@aalto.fi."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P41 EB015896"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 EB023820"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "207550"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "098433"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "203147/Z/16/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "098433/Z/12/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P41 RR014075"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 EB009048"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 EB002066"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nervous System Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electroencephalography"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetoencephalography"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Mapping"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Neurological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Practice Guidelines as Topic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electroencephalography",
+        "Epilepsy",
+        "Magnetoencephalography",
+        "Pain",
+        "Traumatic brain injury",
+        "Stroke",
+        "Artifacts",
+        "hepatic encephalopathy",
+        "Dyslexia",
+        "Guidelines",
+        "Parkinson’s Disease",
+        "Preoperative Evaluation",
+        "Neuropsychiatric Disorders",
+        "Source Modeling",
+        "Neural Oscillations",
+        "Clinical Neurophysiology",
+        "Spontaneous Brain Activity",
+        "Alzheimer’s Disease And Dementia",
+        "Analysis And Interpretation",
+        "Brain Maturation And Development",
+        "Evoked And Event-related Responses",
+        "Transient And Steady-state Responses"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.clinph.2018.03.042"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6045462"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6045462?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29903504"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Clin Neurophysiol. 2018 Aug;129(8):1709-1711"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        },
+        {
+          "id": [
+            "30025803"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Clin Neurophysiol. 2018 Sep;129(9):2056-2057"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "2"
+          ]
+        },
+        {
+          "id": [
+            "30057246"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Clin Neurophysiol. 2018 Sep;129(9):2054-2055"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS964329"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-06-26"
+  ],
+  "dateOfCreation": [
+    "2018-05-05"
+  ],
+  "firstIndexDate": [
+    "2018-05-05"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-07"
+  ],
+  "dateOfRevision": [
+    "2019-06-26"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-17"
+  ],
+  "firstPublicationDate": [
+    "2018-04-17"
+  ],
+  "embargoDate": [
+    "2019-08-01"
+  ]
+}

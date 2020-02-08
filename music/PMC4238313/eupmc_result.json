@@ -1,0 +1,608 @@
+{
+  "id": [
+    "25380624"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25380624"
+  ],
+  "pmcid": [
+    "PMC4238313"
+  ],
+  "doi": [
+    "10.1186/1129-2377-15-71"
+  ],
+  "title": [
+    "Effect of negative emotions evoked by light, noise and taste on trigeminal thermal sensitivity."
+  ],
+  "authorString": [
+    "Yang G, Baad-Hansen L, Wang K, Xie QF, Svensson P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang G"
+          ],
+          "firstName": [
+            "Guangju"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Baad-Hansen L"
+          ],
+          "firstName": [
+            "Lene"
+          ],
+          "lastName": [
+            "Baad-Hansen"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Wang K"
+          ],
+          "firstName": [
+            "Kelun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Xie QF"
+          ],
+          "firstName": [
+            "Qiu-Fei"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "QF"
+          ],
+          "affiliation": [
+            "Department of Prosthodontics and Center for Oral Functional Diagnosis, Treatment and Research, Peking University School and hospital of Stomatology, Zhongguancun Nandajie 22, 100081 Beijing, China. xieqiuf@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Svensson P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Svensson"
+          ],
+          "initials": [
+            "P"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2727864"
+      ],
+      "dateOfPublication": [
+        "2014 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "71"
+  ],
+  "abstractText": [
+    "Patients with migraine often have impaired somatosensory function and experience headache attacks triggered by exogenous stimulus, such as light, sound or taste. This study aimed to assess the influence of three controlled conditioning stimuli (visual, auditory and gustatory stimuli and combined stimuli) on affective state and thermal sensitivity in healthy human participants.All participants attended four experimental sessions with visual, auditory and gustatory conditioning stimuli and combination of all stimuli, in a randomized sequence. In each session, the somatosensory sensitivity was tested in the perioral region with use of thermal stimuli with and without the conditioning stimuli. Positive and Negative Affect States (PANAS) were assessed before and after the tests. Subject based ratings of the conditioning and test stimuli in addition to skin temperature and heart rate as indicators of arousal responses were collected in real time during the tests.The three conditioning stimuli all induced significant increases in negative PANAS scores (paired t-test, P ≤0.016). Compared with baseline, the increases were in a near dose-dependent manner during visual and auditory conditioning stimulation. No significant effects of any single conditioning stimuli were observed on trigeminal thermal sensitivity (P ≥0.051) or arousal parameters (P ≥0.057). The effects of combined conditioning stimuli on subjective ratings (P ≤0.038) and negative affect (P = 0.011) were stronger than those of single stimuli.All three conditioning stimuli provided a simple way to evoke a negative affective state without physical arousal or influence on trigeminal thermal sensitivity. Multisensory conditioning had stronger effects but also failed to modulate thermal sensitivity, suggesting that so-called exogenous trigger stimuli e.g. bright light, noise, unpleasant taste in patients with migraine may require a predisposed or sensitized nervous system."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physical Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Emotions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Threshold"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arousal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hearing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Taste"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Skin Temperature"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Heart Rate"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vision, Binocular"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cold Temperature"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hot Temperature"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1129-2377-15-71"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4238313"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4238313?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-07-03"
+  ],
+  "dateOfCreation": [
+    "2014-11-09"
+  ],
+  "firstIndexDate": [
+    "2014-11-11"
+  ],
+  "fullTextReceivedDate": [
+    "2014-11-23"
+  ],
+  "dateOfRevision": [
+    "2018-09-14"
+  ],
+  "electronicPublicationDate": [
+    "2014-11-07"
+  ],
+  "firstPublicationDate": [
+    "2014-11-07"
+  ]
+}

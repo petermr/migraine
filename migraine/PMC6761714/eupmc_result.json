@@ -1,0 +1,404 @@
+{
+  "id": [
+    "31572570"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31572570"
+  ],
+  "pmcid": [
+    "PMC6761714"
+  ],
+  "doi": [
+    "10.1186/s12998-019-0266-7"
+  ],
+  "title": [
+    "Effectiveness of dry needling for improving pain and disability in adults with tension-type, cervicogenic, or migraine headaches: protocol for a systematic review."
+  ],
+  "authorString": [
+    "Pourahmadi M, Mohseni-Bandpei MA, Keshtkar A, Koes BW, Fernández-de-Las-Peñas C, Dommerholt J, Bahramian M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pourahmadi M"
+          ],
+          "firstName": [
+            "Mohammadreza"
+          ],
+          "lastName": [
+            "Pourahmadi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5202-5478",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Pediatric Neurorehabilitation Research Center, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Mohseni-Bandpei MA"
+          ],
+          "firstName": [
+            "Mohammad Ali"
+          ],
+          "lastName": [
+            "Mohseni-Bandpei"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6638-0438",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Pediatric Neurorehabilitation Research Center, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Keshtkar A"
+          ],
+          "firstName": [
+            "Abbasali"
+          ],
+          "lastName": [
+            "Keshtkar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "4Department of Health Sciences Education Development, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Koes BW"
+          ],
+          "firstName": [
+            "Bart W"
+          ],
+          "lastName": [
+            "Koes"
+          ],
+          "initials": [
+            "BW"
+          ],
+          "affiliation": [
+            "5Department of General Practice, Erasmus MC, University Medical Center, Rotterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Fernández-de-Las-Peñas C"
+          ],
+          "firstName": [
+            "César"
+          ],
+          "lastName": [
+            "Fernández-de-Las-Peñas"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "7Department of Physical Therapy, Occupational Therapy, Rehabilitation and Physical Medicine, Universidad Rey Juan Carlos, Alcorcón, Madrid, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Dommerholt J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Dommerholt"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Bethesda Physiocare, Inc., Bethesda, MD USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bahramian M"
+          ],
+          "firstName": [
+            "Mehrdad"
+          ],
+          "lastName": [
+            "Bahramian"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "2Department of Physiotherapy, School of Rehabilitation Sciences, Iran University of Medical Sciences, Tehran, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6638-0438",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5202-5478",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "27"
+      ],
+      "journalIssueId": [
+        "2772140"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Chiropractic & manual therapies"
+          ],
+          "ISOAbbreviation": [
+            "Chiropr Man Therap"
+          ],
+          "medlineAbbreviation": [
+            "Chiropr Man Therap"
+          ],
+          "NLMid": [
+            "101551481"
+          ],
+          "ISSN": [
+            "2045-709X"
+          ],
+          "ESSN": [
+            "2045-709X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "43"
+  ],
+  "abstractText": [
+    "Background:Headache is the most common neurological symptoms worldwide, as over 90% of people have noted at least one headache during their lifetime. Tension-type headaches, cervicogenic headaches, and migraines are common types of headache which can have a significant impact on social, physical, and occupational functioning. Therapeutic management of headaches mainly includes physical therapy and pharmacological interventions. Dry needling is a relatively new therapeutic approach that uses a thin filiform needle without injectate to penetrate the skin and stimulate underlying tissues for the management of neuromusculoskeletal pain and movement impairments.The main objective of this systematic review and meta-analysis is to evaluate the effectiveness of dry needling in comparison to other interventions on pain and disability in patients with tension-type headache, cervicogenic headache, and migraine. Methods/design:We will focus on clinical trials with concurrent control group(s) and comparative observational studies assessing the effect of dry needling in patients with tension-type headache, cervicogenic headache, and migraine. Electronic databases from relevant fields of research (PubMed/ Medline, Scopus, Embase®, PEDro, Web of Science, Ovid, AMED, CENTRAL, and Google Scholar) will be searched from inception to June 2019 using defined search terms. No restrictions for language of publication or geographic location will be applied. Moreover, grey literature, citation tracking, and reference lists scanning of the selected studies will be searched manually. Primary outcomes of this study are pain intensity and disability, and secondary outcomes are cervical spine ROM, frequency of headaches, health-related quality of life, and TrPs tenderness. Studies will be selected by three independent reviewers based on prespecified eligibility criteria. Three reviewers will independently extract data in each eligible study using a pre-piloted Microsoft Excel data extraction form. The assessment of risk of bias will be implemented using the Cochrane Back and Neck Review Group 13-item criteria and NOS. Direct meta-analysis will be performed using a fixed or random effects model to estimate effect size such as standardized mean difference (Morris's d ppc ) and 95% confidence intervals. Statistical heterogeneity will also be evaluated using the I 2 statistic and the χ2 test. All meta-analyses will be performed using Stata V.11 and V.14 softwares. The overall quality of the evidence for the primary outcomes will be assessed using GRADE. Discussion:All analyses in this study will be based on the previous published papers. Therefore, ethical approval and patient consent are not required. The findings of this study will provide important information on the value of dry needling for the management of tension-type headache, cervicogenic headache, and migraine. Trial registration:PROSPERO registration number: CRD42019124125."
+  ],
+  "affiliation": [
+    "1Pediatric Neurorehabilitation Research Center, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Meta-analysis",
+        "Migraine",
+        "Systematic review",
+        "Tension-type Headache",
+        "Cervicogenic Headache",
+        "Dry Needling"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12998-019-0266-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6761714"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6761714?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-02"
+  ],
+  "firstIndexDate": [
+    "2019-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-07"
+  ],
+  "dateOfRevision": [
+    "2020-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-26"
+  ],
+  "firstPublicationDate": [
+    "2019-09-26"
+  ]
+}

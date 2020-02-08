@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6543047/results/search/country/results.xml">
+  <result pre="[], 1 Pediatric Neurology Unit, Bnai Zion Medical Center Haifa" exact="Israel" post="[], 2 Department of Pediatrics, Bnai Zion Medical Center"/>
+  <result pre="[], 2 Department of Pediatrics, Bnai Zion Medical Center Haifa" exact="Israel" post="[], 3 Bruce and Ruth Rappaport Faculty of Medicine,"/>
+  <result pre="3 Bruce and Ruth Rappaport Faculty of Medicine, Technion Haifa" exact="Israel" post="[], 4 Department of Pediatric Neurology, Petach Tikva, Sackler"/>
+  <result pre="Medicine, Schneider Children's Medical Center, Tel Aviv University Tel Aviv" exact="Israel" post="[], 5 Child Development and Pediatric Neurology Service, Meuhedet-Northern"/>
+  <result pre="5 Child Development and Pediatric Neurology Service, Meuhedet-Northern Region Haifa" exact="Israel" post="[], 6 Division of Allergy and Clinical Immunology, Bnai"/>
+  <result pre="of Allergy and Clinical Immunology, Bnai Zion Medical Center Haifa" exact="Israel" post="[], 7 Occupational Therapy Department, University of Haifa Haifa"/>
+  <result pre="Israel [], 7 Occupational Therapy Department, University of Haifa Haifa" exact="Israel" post="Edited by: Ishaq Abu-Arafeh, Royal Hospital for Children, United"/>
+  <result pre="Haifa Israel Edited by: Ishaq Abu-Arafeh, Royal Hospital for Children," exact="United Kingdom" post="Reviewed by: Yohannes W. Woldeamanuel, Stanford University, United States;"/>
+  <result pre="Children, United Kingdom Reviewed by: Yohannes W. Woldeamanuel, Stanford University," exact="United States;" post="Ali Sazci, Kocaeli University, Turkey *Correspondence: Jacob Genizi genizij@gmail.com"/>
+  <result pre="W. Woldeamanuel, Stanford University, United States; Ali Sazci, Kocaeli University," exact="Turkey" post="*Correspondence: Jacob Genizi genizij@gmail.com This article was submitted to"/>
+  <result pre="of headache and other somatic complaints among adolescents in Northern" exact="Israel" post=". J Headache Pain. ( 2013) 14: 21. 10.1186/1129-2377-14-21"/>
+ </snippets>
+</snippetsTree>

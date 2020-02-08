@@ -1,0 +1,433 @@
+{
+  "id": [
+    "31737037"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31737037"
+  ],
+  "pmcid": [
+    "PMC6828958"
+  ],
+  "doi": [
+    "10.3389/fgene.2019.01026"
+  ],
+  "title": [
+    "Diagnostic Yield of a Targeted Next-Generation Sequencing Gene Panel for Pediatric-Onset Movement Disorders: A 3-Year Cohort Study."
+  ],
+  "authorString": [
+    "Graziola F, Garone G, Stregapede F, Bosco L, Vigevano F, Curatolo P, Bertini E, Travaglini L, Capuano A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Graziola F"
+          ],
+          "firstName": [
+            "Federica"
+          ],
+          "lastName": [
+            "Graziola"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Movement Disorders Clinic, Department of Neurosciences, Bambino Gesù Children's Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Garone G"
+          ],
+          "firstName": [
+            "Giacomo"
+          ],
+          "lastName": [
+            "Garone"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3029-8536",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Movement Disorders Clinic, Department of Neurosciences, Bambino Gesù Children's Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Stregapede F"
+          ],
+          "firstName": [
+            "Fabrizia"
+          ],
+          "lastName": [
+            "Stregapede"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Unit of Neuromuscular and Neurodegenerative Disease, Bambino Gesù Children's Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bosco L"
+          ],
+          "firstName": [
+            "Luca"
+          ],
+          "lastName": [
+            "Bosco"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Unit of Neuromuscular and Neurodegenerative Disease, Bambino Gesù Children's Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Vigevano F"
+          ],
+          "firstName": [
+            "Federico"
+          ],
+          "lastName": [
+            "Vigevano"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Movement Disorders Clinic, Department of Neurosciences, Bambino Gesù Children's Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Curatolo P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Curatolo"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of System Medicine, University of Rome Tor Vergata, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bertini E"
+          ],
+          "firstName": [
+            "Enrico"
+          ],
+          "lastName": [
+            "Bertini"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Unit of Neuromuscular and Neurodegenerative Disease, Bambino Gesù Children's Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Travaglini L"
+          ],
+          "firstName": [
+            "Lorena"
+          ],
+          "lastName": [
+            "Travaglini"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0142-6516",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Unit of Neuromuscular and Neurodegenerative Disease, Bambino Gesù Children's Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Capuano A"
+          ],
+          "firstName": [
+            "Alessandro"
+          ],
+          "lastName": [
+            "Capuano"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Movement Disorders Clinic, Department of Neurosciences, Bambino Gesù Children's Hospital, Rome, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0142-6516",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3029-8536",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779309"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in genetics"
+          ],
+          "ISOAbbreviation": [
+            "Front Genet"
+          ],
+          "medlineAbbreviation": [
+            "Front Genet"
+          ],
+          "NLMid": [
+            "101560621"
+          ],
+          "ISSN": [
+            "1664-8021"
+          ],
+          "ESSN": [
+            "1664-8021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1026"
+  ],
+  "abstractText": [
+    "In recent years, genetic techniques of diagnosis have shown rapid development, resulting in a modified clinical approach to many diseases, including neurological disorders. Movement disorders, in particular those arising in childhood, pose a diagnostic challenge. First, from a purely phenomenological point of view, the correct clinical classification of signs and symptoms may be difficult and require expert evaluation. This is because the clinical picture is often a mixture of hyperkinetic and hypokinetic disorders, and within hyperkinetic movement disorders, combined phenotypes are not unusual. Second, although several genes that cause movement disorders in children are now well-known, many of them have only been described in adult populations or discovered in patients after many years of disease. Furthermore, diseases that alter their mechanisms from childhood to adulthood are still little known, and many phenotypes in children are the result of a disruption of normal neurodevelopment. High-throughput gene screening addresses these difficulties and has modified the approach to genetic diagnosis. In the exome-sequencing era, customized genetic panels now offer the ability to perform fast and low-cost screening of the genes commonly involved in the pathogenesis of the disease. Here, we describe a 3-year study using a customized gene panel for pediatric-onset movement disorders in a selected cohort of children and adolescents. We report a satisfying diagnostic yield, further confirming the usefulness of gene panel analysis."
+  ],
+  "affiliation": [
+    "Movement Disorders Clinic, Department of Neurosciences, Bambino Gesù Children's Hospital, Rome, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetics",
+        "Neurotransmitters",
+        "Children",
+        "Chorea",
+        "Myoclonus",
+        "Dystonia",
+        "Next-generation Sequencing",
+        "Neurodegeneration With Brain Iron Accumulation Disorders"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fgene.2019.01026"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6828958"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6828958?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "omim"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-19"
+  ],
+  "firstIndexDate": [
+    "2019-11-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-17"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-29"
+  ],
+  "firstPublicationDate": [
+    "2019-10-29"
+  ]
+}

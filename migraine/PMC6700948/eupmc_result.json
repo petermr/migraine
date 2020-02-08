@@ -1,0 +1,246 @@
+{
+  "id": [
+    "PMC6700948"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6700948"
+  ],
+  "doi": [
+    "10.1177/2325967119S00136"
+  ],
+  "title": [
+    "ACUTE PERFORMANCE ON A VESTIBULAR AND OCULAR MOTOR SCREENER AND RECOVERY FOLLOWING CONCUSSION."
+  ],
+  "authorString": [
+    "Burkhart SO, Ellis C, Smurawa TM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Burkhart SO"
+          ],
+          "firstName": [
+            "Scott O."
+          ],
+          "lastName": [
+            "Burkhart"
+          ],
+          "initials": [
+            "SO"
+          ],
+          "affiliation": [
+            "Children’s Health Andrews Institute, Plano, TX, USA"
+          ]
+        },
+        {
+          "fullName": [
+            "Ellis C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Ellis"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Smurawa TM"
+          ],
+          "firstName": [
+            "Troy M."
+          ],
+          "lastName": [
+            "Smurawa"
+          ],
+          "initials": [
+            "TM"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3 Suppl"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2803298"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Orthopaedic journal of sports medicine"
+          ],
+          "ISOAbbreviation": [
+            "Orthop J Sports Med"
+          ],
+          "medlineAbbreviation": [
+            "Orthop J Sports Med"
+          ],
+          "NLMid": [
+            "101620522"
+          ],
+          "ISSN": [
+            "2325-9671"
+          ],
+          "ESSN": [
+            "2325-9671"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "affiliation": [
+    "Children’s Health Andrews Institute, Plano, TX, USA"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6700948/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6700948"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-29"
+  ],
+  "firstIndexDate": [
+    "2019-08-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-29"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-29"
+  ],
+  "firstPublicationDate": [
+    "2019-03-29"
+  ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6826633/results/word/frequencies/results.xml">
+  <result title="frequency" word="stimulation" count="149"/>
+  <result title="frequency" word="epilepsy" count="69"/>
+  <result title="frequency" word="patients" count="56"/>
+  <result title="frequency" word="seizure" count="56"/>
+  <result title="frequency" word="nerve" count="34"/>
+  <result title="frequency" word="Stimulation" count="33"/>
+  <result title="frequency" word="pediatric" count="32"/>
+  <result title="frequency" word="RNS" count="28"/>
+  <result title="frequency" word="VNS" count="28"/>
+  <result title="frequency" word="neurostimulation" count="28"/>
+  <result title="frequency" word="Epilepsy" count="26"/>
+  <result title="frequency" word="treatment" count="26"/>
+  <result title="frequency" word="reduction" count="25"/>
+  <result title="frequency" word="cortical" count="24"/>
+  <result title="frequency" word="Vagus" count="23"/>
+  <result title="frequency" word="brain" count="23"/>
+  <result title="frequency" word="seizures" count="23"/>
+  <result title="frequency" word="use" count="22"/>
+  <result title="frequency" word="Epilepsia" count="21"/>
+ </snippets>
+</snippetsTree>

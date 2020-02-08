@@ -1,0 +1,356 @@
+{
+  "id": [
+    "31888526"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31888526"
+  ],
+  "pmcid": [
+    "PMC6936047"
+  ],
+  "doi": [
+    "10.1186/s12883-019-1558-1"
+  ],
+  "title": [
+    "Ischemic stroke in Morocco: a systematic review."
+  ],
+  "authorString": [
+    "Kharbach A, Obtel M, Lahlou L, Aasfara J, Mekaoui N, Razine R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kharbach A"
+          ],
+          "firstName": [
+            "Ahmed"
+          ],
+          "lastName": [
+            "Kharbach"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Laboratory of Biostatistics, Clinical Research and Epidemiology (LBRCE), Faculty of Medicine and Pharmacy of Rabat, Mohamed V University, 10100, Rabat, Morocco. kharbach.a.lbrce@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Obtel M"
+          ],
+          "firstName": [
+            "Majdouline"
+          ],
+          "lastName": [
+            "Obtel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratory of Social Medicine (Public Health, Hygiene and Preventive Medicine), Faculty of Medicine and Pharmacy of Rabat, Mohamed V University, 10100, Rabat, Morocco."
+          ]
+        },
+        {
+          "fullName": [
+            "Lahlou L"
+          ],
+          "firstName": [
+            "Laila"
+          ],
+          "lastName": [
+            "Lahlou"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Laboratory of Biostatistics, Clinical Research and Epidemiology (LBRCE), Faculty of Medicine and Pharmacy of Rabat, Mohamed V University, 10100, Rabat, Morocco."
+          ]
+        },
+        {
+          "fullName": [
+            "Aasfara J"
+          ],
+          "firstName": [
+            "Jehanne"
+          ],
+          "lastName": [
+            "Aasfara"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Neurology, International Cheikh Khalifa University Hospital, Mohammed VI University of Health Sciences (UM6SS), 82403, Casablanca, Morocco."
+          ]
+        },
+        {
+          "fullName": [
+            "Mekaoui N"
+          ],
+          "firstName": [
+            "Nour"
+          ],
+          "lastName": [
+            "Mekaoui"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Laboratory of Biostatistics, Clinical Research and Epidemiology (LBRCE), Faculty of Medicine and Pharmacy of Rabat, Mohamed V University, 10100, Rabat, Morocco."
+          ]
+        },
+        {
+          "fullName": [
+            "Razine R"
+          ],
+          "firstName": [
+            "Rachid"
+          ],
+          "lastName": [
+            "Razine"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Laboratory of Social Medicine (Public Health, Hygiene and Preventive Medicine), Faculty of Medicine and Pharmacy of Rabat, Mohamed V University, 10100, Rabat, Morocco."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2886571"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neurology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurol"
+          ],
+          "NLMid": [
+            "100968555"
+          ],
+          "ISSN": [
+            "1471-2377"
+          ],
+          "ESSN": [
+            "1471-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "349"
+  ],
+  "abstractText": [
+    "BACKGROUND:The aim of this systematic review is to determine the epidemiological and etiological profiles, the influential factors of the prehospital delay, thrombolysis management, the acute and 3-month mortality rate and the genetic aspect of ischemic stroke in Morocco. METHODS:The present work is a systematic review that was conducted according to the recommendations of the \"Preferred reporting items for systematic reviews and meta-analysis\". We used Pubmed, Sciencedirect, Scopus, Clinicalkey, and Google scholar databases for the raking of the gray literature during the time frame 2009 and 2018. The protocol of the review was registered in the PROSPERO register (CRD42018115206). These studies were analyzed based on: Age, sex ratio, risk factors, etiological profile according to Trial of ORG classification 10,172 in Acute Stroke Treatment, prehospital delay average and its influential factors, thrombolyzed patients' proportion, acute and 3-month mortality and the genetic factors of ischemic stroke in Morocco. RESULTS:Twenty-nine (n = 29) studies were selected. The average age ranged from 49 ± 15.2 to 67.3 ± 9.9 years old. Moreover, we reported male predominance within all ages in 13 studies. High blood pressure, diabetes, smoking and heart disease were the four identified main risk factors by the prementioned studies. Atherosclerosis and cardioembolic were the main described etiologies of cerebral ischemia, and the average prehospital time ranged from 26 to 61.9 h. The proportion of thrombolysed patients ranged from 1.8% to 2.9%, the mortality rate varied in the acute phase from 3 to 13%, and the 3-month mortality ranged from 4.3 to 32.5%. It is also important to highlight that most of these studies, which were conducted in hospital environment, have a reduced sample size and no confidence interval. CONCLUSIONS:Ischemic stroke is affecting more likely the young population with male predominance. Moreover, the long prehospital delay and the low proportion of thrombolysed patients are alarming. This indicates the need to investigate in depth the key factors influencing the access to care for Moroccan patients in order to improve the management of this neurologic deficit in Morocco."
+  ],
+  "affiliation": [
+    "Laboratory of Biostatistics, Clinical Research and Epidemiology (LBRCE), Faculty of Medicine and Pharmacy of Rabat, Mohamed V University, 10100, Rabat, Morocco. kharbach.a.lbrce@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Thrombolysis",
+        "Ischemic stroke",
+        "Morocco",
+        "Prehospital Delay",
+        "Trial Of Org Classification 10,172 In Acute Stroke Treatment Classification"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12883-019-1558-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6936047"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6936047?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-01"
+  ],
+  "firstIndexDate": [
+    "2020-01-03"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-03"
+  ],
+  "dateOfRevision": [
+    "2020-01-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-30"
+  ],
+  "firstPublicationDate": [
+    "2019-12-30"
+  ]
+}

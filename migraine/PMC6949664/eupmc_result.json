@@ -1,0 +1,344 @@
+{
+  "id": [
+    "31956451"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31956451"
+  ],
+  "pmcid": [
+    "PMC6949664"
+  ],
+  "doi": [
+    "10.1155/2019/9382640"
+  ],
+  "title": [
+    "Two Cases of Oculofaciocardiodental (OFCD) Syndrome due to X-Linked BCOR Mutations Presenting with Infantile Hemangiomas: Phenotypic Overlap with PHACE Syndrome."
+  ],
+  "authorString": [
+    "Morgan TM, Colazo JM, Duncan L, Hamid R, Joos KM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Morgan TM"
+          ],
+          "firstName": [
+            "T M"
+          ],
+          "lastName": [
+            "Morgan"
+          ],
+          "initials": [
+            "TM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5372-5636",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Vanderbilt University School of Medicine, Department of Pediatrics, Nashville, TN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Colazo JM"
+          ],
+          "firstName": [
+            "J M"
+          ],
+          "lastName": [
+            "Colazo"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3591-4246",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Vanderbilt University School of Medicine, Medical Student, Nashville, TN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Duncan L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Duncan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Vanderbilt University School of Medicine, Department of Pediatrics, Nashville, TN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hamid R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Hamid"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Vanderbilt University School of Medicine, Department of Pediatrics, Nashville, TN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Joos KM"
+          ],
+          "firstName": [
+            "K M"
+          ],
+          "lastName": [
+            "Joos"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "Vanderbilt Eye Institute, Vanderbilt University Medical Center, Nashville, TN 37232, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5372-5636",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3591-4246",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2779784"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Case reports in genetics"
+          ],
+          "ISOAbbreviation": [
+            "Case Rep Genet"
+          ],
+          "medlineAbbreviation": [
+            "Case Rep Genet"
+          ],
+          "NLMid": [
+            "101583302"
+          ],
+          "ISSN": [
+            "2090-6544"
+          ],
+          "ESSN": [
+            "2090-6552"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "9382640"
+  ],
+  "abstractText": [
+    "Background:Oculofaciocardiodental (OFCD) syndrome is due to mutations in BCOR (BCL-6 corepressor). OFCD has phenotypic overlaps with PHACE syndrome (Posterior fossa anomalies, Hemangioma, Arterial anomalies, Cardiac defects, Eye anomalies). Infantile hemangiomas are a key diagnostic criterion for PHACE, but not for OFCD. A previous study reported two cases of infantile hemangiomas in OFCD, but the authors could not exclude chance association. Case Presentation:We describe two novel cases of female patients (one initially diagnosed with PHACE syndrome), both of whom had infantile hemangiomas. Ophthalmological findings were consistent with oculofaciocardiodental (OFCD) syndrome. Upon genetic testing, these two females were determined to have X-linked BCOR mutations confirming OFCD syndrome diagnoses. Conclusion:These case reports add support to the hypothesis that infantile hemangiomas may be a feature of OFCD. BCOR may potentially be within a pathway of genes involved in PHACE syndrome and/or in infantile hemangioma formation."
+  ],
+  "affiliation": [
+    "Vanderbilt University School of Medicine, Department of Pediatrics, Nashville, TN, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/9382640"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6949664"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6949664?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-21"
+  ],
+  "firstIndexDate": [
+    "2020-01-20"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-20"
+  ],
+  "dateOfRevision": [
+    "2020-01-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-28"
+  ],
+  "firstPublicationDate": [
+    "2019-12-28"
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": [
+    "22276026"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22276026"
+  ],
+  "pmcid": [
+    "PMC3234026"
+  ],
+  "doi": [
+    "10.3332/ecancer.2010.164"
+  ],
+  "title": [
+    "The role of funding and policies on innovation in cancer drug development."
+  ],
+  "authorString": [
+    "Kanavos P, Sullivan R, Lewison G, Schurer W, Eckhouse S, Vlachopioti Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kanavos P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Kanavos"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "LSE Health, Department of Social Policy, London School of Economics."
+          ]
+        },
+        {
+          "fullName": [
+            "Sullivan R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Sullivan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6435-1825",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lewison G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Lewison"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Schurer W"
+          ],
+          "firstName": [
+            "W"
+          ],
+          "lastName": [
+            "Schurer"
+          ],
+          "initials": [
+            "W"
+          ]
+        },
+        {
+          "fullName": [
+            "Eckhouse S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Eckhouse"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Vlachopioti Z"
+          ],
+          "firstName": [
+            "Z"
+          ],
+          "lastName": [
+            "Vlachopioti"
+          ],
+          "initials": [
+            "Z"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6435-1825",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "1899241"
+      ],
+      "dateOfPublication": [
+        "2010 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Ecancermedicalscience"
+          ],
+          "ISOAbbreviation": [
+            "Ecancermedicalscience"
+          ],
+          "medlineAbbreviation": [
+            "Ecancermedicalscience"
+          ],
+          "NLMid": [
+            "101392236"
+          ],
+          "ISSN": [
+            "1754-6605"
+          ],
+          "ESSN": [
+            "1754-6605"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "164"
+  ],
+  "affiliation": [
+    "LSE Health, Department of Social Policy, London School of Economics."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22276026/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22276026/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3332/ecancer.2010.164"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3234026"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3234026?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-09-06"
+  ],
+  "dateOfCreation": [
+    "2012-01-25"
+  ],
+  "firstIndexDate": [
+    "2012-01-26"
+  ],
+  "fullTextReceivedDate": [
+    "2012-08-23"
+  ],
+  "dateOfRevision": [
+    "2016-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2010-02-03"
+  ],
+  "firstPublicationDate": [
+    "2010-02-03"
+  ]
+}

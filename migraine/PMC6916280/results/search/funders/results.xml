@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="7 Portale Anthony A 8 [1], Department of Internal Medicine" exact="Yale School of Medicine" post="New Haven CT USA [2], Genetics Unit, Shriners Hospital"/>
+ <result pre="Portale Anthony A 8 [1], Department of Internal Medicine Yale" exact="School of Medicine" post="New Haven CT USA [2], Genetics Unit, Shriners Hospital"/>
+ <result pre="CT USA [2], Genetics Unit, Shriners Hospital for Children and" exact="McGill University" post="Montreal QC Canada [3], APHP, Department of Endocrinology and"/>
+ <result pre="Kremlin Bicêtre France [4], Department of Endocrinology &amp;amp; Nephrology The" exact="University of Tokyo" post="Hospital Tokyo Japan [5], Department of Pediatrics Osaka University"/>
+ <result pre="University of Tokyo Hospital Tokyo Japan [5], Department of Pediatrics" exact="Osaka University" post="Hospital Osaka Japan [6], Department of Pediatrics Hokkaido University"/>
+ <result pre="Pediatrics Osaka University Hospital Osaka Japan [6], Department of Pediatrics" exact="Hokkaido University" post="Hospital Hokkaido Japan [7], Ultragenyx Pharmaceutical Inc. Novato CA"/>
+ <result pre="Pharmaceutical Inc. Novato CA USA [8], Division of Pediatric Nephrology" exact="University of California" post="San Francisco CA USA *Address correspondence to: Karl Insogna,"/>
+ <result pre="correspondence to: Karl Insogna, MD, Department of Medicine, Endocrine Section," exact="Yale University" post="School of Medicine, 333 Cedar Street, New Haven, CT"/>
+ <result pre="Karl Insogna, MD, Department of Medicine, Endocrine Section, Yale University" exact="School of Medicine," post="333 Cedar Street, New Haven, CT 06520‐8020, USA. E‐mail:"/>
+ <result pre="work was supported by Ultragenyx Pharmaceutical Inc. in partnership with" exact="Kyowa Hakko Kirin" post="Co., Ltd. We thank the subjects, caregivers, investigators (see"/>
+</results>

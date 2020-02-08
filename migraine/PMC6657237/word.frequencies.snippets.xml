@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6657237/results/word/frequencies/results.xml">
+  <result title="frequency" word="migraine" count="146"/>
+  <result title="frequency" word="mitochondrial" count="91"/>
+  <result title="frequency" word="DNA" count="50"/>
+  <result title="frequency" word="mtDNA" count="50"/>
+  <result title="frequency" word="associated" count="33"/>
+  <result title="frequency" word="epigenetic" count="31"/>
+  <result title="frequency" word="patients" count="26"/>
+  <result title="frequency" word="Mitochondrial" count="25"/>
+  <result title="frequency" word="mitochondria" count="25"/>
+  <result title="frequency" word="brain" count="23"/>
+  <result title="frequency" word="important" count="22"/>
+  <result title="frequency" word="studies" count="22"/>
+  <result title="frequency" word="However," count="21"/>
+  <result title="frequency" word="association" count="21"/>
+  <result title="frequency" word="role" count="21"/>
+ </snippets>
+</snippetsTree>

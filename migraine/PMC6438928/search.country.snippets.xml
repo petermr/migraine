@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6438928/results/search/country/results.xml">
+  <result pre="the Brain, Boston Children’s Hospital, Harvard Medical School Boston, MA" exact="United States" post="[], 2 Department of Radiology, Boston Children’s Hospital Boston,"/>
+  <result pre="[], 2 Department of Radiology, Boston Children’s Hospital Boston, MA" exact="United States" post="[], 3 Department of Behavioral Neuroscience, Oregon Health &amp;amp;"/>
+  <result pre="of Behavioral Neuroscience, Oregon Health &amp;amp; Science University Portland, OR" exact="United States" post="[], 4 Pediatric Headache Program, Department of Anesthesiology, Perioperative"/>
+  <result pre="Anesthesiology, Perioperative and Pain Medicine, Boston Children’s Hospital Waltham, MA" exact="United States" post="[], 5 Department of Neurology, Boston Children’s Hospital Waltham,"/>
+  <result pre="[], 5 Department of Neurology, Boston Children’s Hospital Waltham, MA" exact="United States" post="[], 6 Department of Anesthesia, Critical Care and Pain"/>
+  <result pre="6 Department of Anesthesia, Critical Care and Pain Medicine, Beth" exact="Israel" post="Deaconess Medical Center, Harvard Medical School Boston, MA United"/>
+  <result pre="Beth Israel Deaconess Medical Center, Harvard Medical School Boston, MA" exact="United States" post="Edited by: Andrew P. Bagshaw, University of Birmingham, United"/>
+  <result pre="United States Edited by: Andrew P. Bagshaw, University of Birmingham," exact="United Kingdom" post="Reviewed by: Stephen D. Mayhew, University of Birmingham, United"/>
+  <result pre="United Kingdom Reviewed by: Stephen D. Mayhew, University of Birmingham," exact="United Kingdom;" post="Gianluca Coppola, Fondazione G.B. Bietti (IRCCS), Italy *Correspondence: David"/>
+  <result pre="of Birmingham, United Kingdom; Gianluca Coppola, Fondazione G.B. Bietti (IRCCS)," exact="Italy" post="*Correspondence: David Borsook, david.borsook@childrens.harvard.edu epub: 2019-3-3 collection: 2019 13"/>
+ </snippets>
+</snippetsTree>

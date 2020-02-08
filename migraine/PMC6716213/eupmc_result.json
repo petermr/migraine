@@ -1,0 +1,359 @@
+{
+  "id": [
+    "31507509"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31507509"
+  ],
+  "pmcid": [
+    "PMC6716213"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00886"
+  ],
+  "title": [
+    "Management of Childhood Headache in the Emergency Department. Review of the Literature."
+  ],
+  "authorString": [
+    "Raucci U, Della Vecchia N, Ossella C, Paolino MC, Villa MP, Reale A, Parisi P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Raucci U"
+          ],
+          "firstName": [
+            "Umberto"
+          ],
+          "lastName": [
+            "Raucci"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Pediatric Emergency Department, Bambino Gesù Children's Hospital, IRCCS, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Della Vecchia N"
+          ],
+          "firstName": [
+            "Nicoletta"
+          ],
+          "lastName": [
+            "Della Vecchia"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of \"Studi della Campania Luigi Vanvitelli\", Naples, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ossella C"
+          ],
+          "firstName": [
+            "Chiara"
+          ],
+          "lastName": [
+            "Ossella"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Pediatric Emergency Department, Bambino Gesù Children's Hospital, IRCCS, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Paolino MC"
+          ],
+          "firstName": [
+            "Maria Chiara"
+          ],
+          "lastName": [
+            "Paolino"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Chair of Pediatrics, NESMOS Department, Faculty of Medicine and Psychology, Sapienza University, Sant' Andrea Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Villa MP"
+          ],
+          "firstName": [
+            "Maria Pia"
+          ],
+          "lastName": [
+            "Villa"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "Chair of Pediatrics, NESMOS Department, Faculty of Medicine and Psychology, Sapienza University, Sant' Andrea Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Reale A"
+          ],
+          "firstName": [
+            "Antonino"
+          ],
+          "lastName": [
+            "Reale"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Pediatric Emergency Department, Bambino Gesù Children's Hospital, IRCCS, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Parisi P"
+          ],
+          "firstName": [
+            "Pasquale"
+          ],
+          "lastName": [
+            "Parisi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Chair of Pediatrics, NESMOS Department, Faculty of Medicine and Psychology, Sapienza University, Sant' Andrea Hospital, Rome, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "886"
+  ],
+  "abstractText": [
+    "Headache is the third cause of visits to pediatric emergency departments (ED). According to a systematic review, headaches in children evaluated in the ED are primarily due to benign conditions that tend to be self-limiting or resolve with appropriate pharmacological treatment. The more frequent causes of non-traumatic headache in the ED include primitive headaches (21.8-66.3%) and benign secondary headaches (35.4-63.2%), whereas potentially life-threatening (LT) secondary headaches are less frequent (2-15.3%). Worrying conditions include brain tumors, central nervous system infections, dysfunction of ventriculo-peritoneal shunts, hydrocephalus, idiopathic intracranial hypertension, and intracranial hemorrhage. In the emergency setting, the main goal is to intercept potentially LT conditions that require immediate medical attention. The initial assessment begins with an in-depth, appropriate history followed by a complete, oriented physical and neurological examination. The literature describes the following red flags requiring further investigation (for example neuroimaging) for recognition of LT conditions: abnormal neurological examination; atypical presentation of headaches: subjective vertigo, intractable vomiting or headaches that wake the child from sleep; recent and progressive severe headache (<6 months); age of the child <6 years; no family history for migraine or primary headache; occipital headache; change of headache; new headache in an immunocompromised child; first or worst headache; symptoms and signs of systemic disease; headaches associated with changes in mental status or focal neurological disorders. In evaluating a child or adolescent who is being treated for headache, physicians should consider using appropriate diagnostic tests. Diagnostic tests are varied, and include routine laboratory analysis, cerebral spinal fluid examination, electroencephalography, and computerized tomography or magnetic resonance neuroimaging. The management of headache in the ED depends on the patient's general conditions and the presumable cause of the headache. There are few randomized, controlled trials on pharmacological treatment of headache in the pediatric population. Only ibuprofen and sumatriptan are significantly more effective than placebo in determining headache relief."
+  ],
+  "affiliation": [
+    "Pediatric Emergency Department, Bambino Gesù Children's Hospital, IRCCS, Rome, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Diagnosis",
+        "Migraine",
+        "Emergency",
+        "Headache",
+        "Neuroimaging",
+        "Secondary Headache",
+        "Life Threatening Condition"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00886"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6716213"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6716213?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-12"
+  ],
+  "firstIndexDate": [
+    "2019-09-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-12"
+  ],
+  "dateOfRevision": [
+    "2019-09-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-23"
+  ],
+  "firstPublicationDate": [
+    "2019-08-23"
+  ]
+}

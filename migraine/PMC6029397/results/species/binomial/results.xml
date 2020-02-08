@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre=". Thirty patients received upper endoscopy. Three patients were positive for rapid urease test for " exact="Helicobacter pylori" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/p[1]" match="Helicobacter pylori" post=" infection, and the other three had mild to moderate esophagitis. No abnormality was found in lower" name="binomial"/>
+ <result pre="lasmin. Incident gastrointestinal infection was found among patients, four were positive for serum " exact="Helicobacter pylori" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/p[1]" match="Helicobacter pylori" post=" IgG, one had amoebic infection, and the other had Blastocystis hominis infection on stool a" name="binomial"/>
+ <result pre="re positive for serum Helicobacter pylori IgG, one had amoebic infection, and the other had " exact="Blastocystis hominis" match="Blastocystis hominis" post=" infection on stool analysis. One patient had Hepatitis B infection probably due to vertical transm" name="binomial"/>
+</results>

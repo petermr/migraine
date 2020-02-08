@@ -1,0 +1,606 @@
+{
+  "id": [
+    "29969994"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29969994"
+  ],
+  "pmcid": [
+    "PMC6029397"
+  ],
+  "doi": [
+    "10.1186/s12876-018-0836-5"
+  ],
+  "title": [
+    "Children with cyclic vomiting syndrome: phenotypes, disease burden and mitochondrial DNA analysis."
+  ],
+  "authorString": [
+    "Ye Z, Xue A, Huang Y, Wu Q."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ye Z"
+          ],
+          "firstName": [
+            "Ziqing"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Gastroenterology, Children's Hospital of Fudan University, 399 Wanyuan Road, Shanghai, 201102, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xue A"
+          ],
+          "firstName": [
+            "Aijuan"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Gastroenterology, Children's Hospital of Fudan University, 399 Wanyuan Road, Shanghai, 201102, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4931-4006",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Gastroenterology, Children's Hospital of Fudan University, 399 Wanyuan Road, Shanghai, 201102, China. yhuang815@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Q"
+          ],
+          "firstName": [
+            "Qiye"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Gastroenterology, Children's Hospital of Fudan University, 399 Wanyuan Road, Shanghai, 201102, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4931-4006",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2702593"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC gastroenterology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Gastroenterol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Gastroenterol"
+          ],
+          "NLMid": [
+            "100968547"
+          ],
+          "ISSN": [
+            "1471-230X"
+          ],
+          "ESSN": [
+            "1471-230X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "104"
+  ],
+  "abstractText": [
+    "BACKGROUND:Cyclic vomiting syndrome (CVS) is characterized by repeated, stereotypical vomiting episodes. It is possibly associated with mitochondrial DNA (mtDNA) variants. We examined the phenotype, disease burden, treatment and performed mtDNA analysis in pediatric CVS. METHODS:This retrospective study included 42 children with CVS in a tertiary care center. Information regarding medical history, clinical features, laboratory tests, and treatment were collected. mtDNA sequencing was performed among 13 patients. RESULTS:Mean age of onset among patients was 4.0±3.4 years, and mean age at diagnosis was 6.7±4.2 years. CVS episodes in onset and features were stereotypic. Recognizable prodromes were reported in 54.8% patients. Neuroimaging showed previously unknown intracranial abnormalities. Gastrointestinal infection was found in four patients. Mean duration of hospitalization was 7.0±2.4 days, and mean hospitalization cost was 10,891 RMB. Sequencing showed that 4/13 patients had C16519T mtDNA polymorphism, and 2/13 patients had G3010A mtDNA polymorphism. CONCLUSIONS:Cyclic vomiting syndrome is a disabling disorder, which causes huge disease burdens to the patients and their families. Early clinical suspicion and prompt diagnosis are crucial. mtDNA polymorphisms were found in some patients, but they were not significantly associated with pediatric CVS."
+  ],
+  "affiliation": [
+    "Department of Gastroenterology, Children's Hospital of Fudan University, 399 Wanyuan Road, Shanghai, 201102, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vomiting"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ondansetron"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Mitochondrial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antiemetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fluid Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retrospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cost of Illness"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetics",
+        "Mitochondrial DNA",
+        "Clinical features",
+        "Pediatric",
+        "Cyclic Vomiting Syndrome",
+        "Functional Gastrointestinal Disorder"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA, Mitochondrial"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antiemetics"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Ondansetron"
+          ],
+          "registryNumber": [
+            "4AF302ESOS"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12876-018-0836-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6029397"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6029397?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-10-02"
+  ],
+  "dateOfCreation": [
+    "2018-07-05"
+  ],
+  "firstIndexDate": [
+    "2018-07-04"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-11"
+  ],
+  "dateOfRevision": [
+    "2018-10-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-03"
+  ],
+  "firstPublicationDate": [
+    "2018-07-03"
+  ]
+}

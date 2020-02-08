@@ -1,0 +1,371 @@
+{
+  "id": [
+    "31165594"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31165594"
+  ],
+  "pmcid": [
+    "PMC6753025"
+  ],
+  "doi": [
+    "10.4070/kcj.2018.0391"
+  ],
+  "title": [
+    "Procedural, Early and Long-term Outcomes after Percutaneous Closure of Atrial Septal Defect: Comparison between Large and Very Large Atrial Septal Defect Groups."
+  ],
+  "authorString": [
+    "Jung SY, Kim AY, Jung JW, Choi JY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jung SY"
+          ],
+          "firstName": [
+            "Se Yong"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1337-563X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Pediatric Cardiology, Department of Pediatrics, Yonsei University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim AY"
+          ],
+          "firstName": [
+            "Ah Young"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "AY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0713-4461",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Pediatric Cardiology, Department of Pediatrics, Yonsei University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jung JW"
+          ],
+          "firstName": [
+            "Jo Won"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5384-9161",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Pediatric Cardiology, Department of Pediatrics, Yonsei University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi JY"
+          ],
+          "firstName": [
+            "Jae Young"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1247-6669",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Pediatric Cardiology, Department of Pediatrics, Yonsei University College of Medicine, Seoul, Korea. cjy0122@yuhs.ac."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5384-9161",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1247-6669",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1337-563X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0713-4461",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "2860469"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Korean circulation journal"
+          ],
+          "ISOAbbreviation": [
+            "Korean Circ J"
+          ],
+          "medlineAbbreviation": [
+            "Korean Circ J"
+          ],
+          "NLMid": [
+            "101247141"
+          ],
+          "ISSN": [
+            "1738-5520"
+          ],
+          "ESSN": [
+            "1738-5555"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "975-986"
+  ],
+  "abstractText": [
+    "BACKGROUND:This study aimed to compare procedural, early and long-term outcome of device closure of atrial septal defect (ASD) between large ASD patients and very large ASD patients. METHODS:We carried a retrospective study of adult large ASD (defined as ≥25 mm) treated by percutaneous closure using Amplatzer septal occluder during 12-year period (May 2003-February 2015) at a single tertiary center. A total of 269 patients were divided into 2 groups, according to the pre-procedural maximal ASD diameter; 25 mm≤ASD<35mm, group 1 (n=216) and 35 mm≤ASD, group 2 (n=53). We compared procedural parameters, early complications and long-term follow-up results between 2 groups. RESULTS:The need of modified implantation techniques (MITs) was higher group 2 (23.6% vs. 37.7%, p=0.034). Procedural success rate was considerably high in both groups (99.1% in group 1 vs. 100% in group 2, p=0.620). Major complications were occurred in 4 (1.5%) patients (1.4% vs. 1.9%, p=0.804). Minor complication rate was not different between 2 groups. During long-term follow-up (47.2±32.0 months, range, 6.0-135.5), there was one major complication (0.4%) of stroke. Most common long-term minor event was migraine headache (3.9%) followed by arrhythmias (1.9%) without statistical difference between 2 groups. CONCLUSIONS:Although MIT was more frequently required in very large ASD groups, the procedural, early and long-term outcomes after percutaneous ASD closure were similar in both groups. This suggested that percutaneous ASD closure for very large ASD could be considered a good treatment option."
+  ],
+  "affiliation": [
+    "Division of Pediatric Cardiology, Department of Pediatrics, Yonsei University College of Medicine, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Atrial septal defect",
+        "Cardiac catheterization",
+        "Clinical Outcomes",
+        "Septal Occluder"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4070/kcj.2018.0391"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6753025"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6753025?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-06"
+  ],
+  "firstIndexDate": [
+    "2019-06-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-10-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-25"
+  ],
+  "firstPublicationDate": [
+    "2019-04-25"
+  ],
+  "embargoDate": [
+    "2019-10-01"
+  ]
+}

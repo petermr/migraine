@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6287109/results/search/funders/results.xml">
+  <result pre="New York, NY United States [], 2 Department of Neurosurgery," exact="Stanford University" post="School of Medicine Stanford, CA United States [], 3"/>
+  <result pre="NY United States [], 2 Department of Neurosurgery, Stanford University" exact="School of Medicine" post="Stanford, CA United States [], 3 Department of Rehabilitation"/>
+  <result pre="York, NY United States [], 4 Department of Emergency Medicine," exact="Stanford University" post="School of Medicine Stanford, CA United States Edited by:"/>
+  <result pre="United States [], 4 Department of Emergency Medicine, Stanford University" exact="School of Medicine" post="Stanford, CA United States Edited by: Jack Tsao, University"/>
+  <result pre="of Medicine Stanford, CA United States Edited by: Jack Tsao," exact="University of Tennessee," post="Knoxville, United States Reviewed by: Susan Elizabeth Esposito, Life"/>
+  <result pre="assessment protocols were approved by the institutional review boards of" exact="Weill Cornell Medical College" post="(WCMC) in New York, and Stanford University in California."/>
+  <result pre="of Weill Cornell Medical College (WCMC) in New York, and" exact="Stanford University" post="in California. In collaboration with school, university, and community"/>
+  <result pre="vehicle outfitted as a mobile testing site, or at the" exact="Citigroup" post="Biomedical Imaging Center at WCMC. Data collection spanned from"/>
+  <result pre="with data collection and maintenance. This work was supported by" exact="U.S. Department of Defense" post="contracts W911QY-12-C-0005 and W911QY-14-C-0086. References References 1. Panczykowski DM"/>
+ </snippets>
+</snippetsTree>

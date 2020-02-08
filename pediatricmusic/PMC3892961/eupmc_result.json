@@ -1,0 +1,309 @@
+{
+  "id": [
+    "24453499"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24453499"
+  ],
+  "pmcid": [
+    "PMC3892961"
+  ],
+  "doi": [
+    "10.2147/IJGM.S54846"
+  ],
+  "title": [
+    "Mitochondrial disorder caused Charles Darwin's cyclic vomiting syndrome."
+  ],
+  "authorString": [
+    "Finsterer J, Hayman J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Finsterer J"
+          ],
+          "firstName": [
+            "Josef"
+          ],
+          "lastName": [
+            "Finsterer"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Krankenanstalt Rudolfstiftng, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Hayman J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Hayman"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of pathology, University of Melbourne, Victoria, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2118242"
+      ],
+      "dateOfPublication": [
+        "2014 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of general medicine"
+          ],
+          "ISOAbbreviation": [
+            "Int J Gen Med"
+          ],
+          "medlineAbbreviation": [
+            "Int J Gen Med"
+          ],
+          "NLMid": [
+            "101515487"
+          ],
+          "ISSN": [
+            "1178-7074"
+          ],
+          "ESSN": [
+            "1178-7074"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "59-70"
+  ],
+  "abstractText": [
+    "BACKGROUND: Charles Darwin (CD), \"father of modern biology,\" suffered from multisystem illness from early adulthood. The most disabling manifestation was cyclic vomiting syndrome (CVS). This study aims at finding the possible cause of CVS in CD. METHODS: A literature search using the PubMed database was carried out, and CD's complaints, as reported in his personal writings and those of his relatives, friends, colleagues, biographers, were compared with various manifestations of mitochondrial disorders (MIDs), known to cause CVS, described in the literature. RESULTS: Organ tissues involved in CD's disease were brain, nerves, muscles, vestibular apparatus, heart, gut, and skin. Cerebral manifestations included episodic headache, visual disturbance, episodic memory loss, periodic paralysis, hysterical crying, panic attacks, and episodes of depression. Manifestations of polyneuropathy included numbness, paresthesias, increased sweating, temperature sensitivity, and arterial hypotension. Muscular manifestations included periods of exhaustion, easy fatigability, myalgia, and muscle twitching. Cardiac manifestations included episodes of palpitations and chest pain. Gastrointestinal manifestations were CVS, dental problems, abnormal seasickness, eructation, belching, and flatulence. Dermatological manifestations included painful lips, dermatitis, eczema, and facial edema. Treatments with beneficial effects to his complaints were rest, relaxation, heat, and hydrotherapy. CONCLUSION: CVS in CD was most likely due to a multisystem, nonsyndromic MID. This diagnosis is based upon the multisystem nature of his disease, the fact that CVS is most frequently the manifestation of a MID, the family history, the variable phenotypic expression between affected family members, the fact that symptoms were triggered by stress, and that only few symptoms could not be explained by a MID."
+  ],
+  "affiliation": [
+    "Krankenanstalt Rudolfstiftng, Vienna, Austria."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Respiratory chain",
+        "Fatigue",
+        "Metabolic Disease",
+        "Multisystem Disorder",
+        "Mitochondrial Disorder",
+        "Cyclic Vomiting",
+        "Hyperemesis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24453499/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24453499/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/IJGM.S54846"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3892961"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3892961?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-01-23"
+  ],
+  "dateOfCreation": [
+    "2014-01-23"
+  ],
+  "firstIndexDate": [
+    "2014-01-24"
+  ],
+  "fullTextReceivedDate": [
+    "2014-01-25"
+  ],
+  "dateOfRevision": [
+    "2014-01-27"
+  ],
+  "electronicPublicationDate": [
+    "2014-01-08"
+  ],
+  "firstPublicationDate": [
+    "2014-01-08"
+  ]
+}

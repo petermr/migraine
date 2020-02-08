@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="b e f [a], Department of Surgery, University of Manitoba" exact="Canada" post="[b], Pediatrics and Child Health, University of Manitoba Canada"/>
+ <result pre="Manitoba Canada [b], Pediatrics and Child Health, University of Manitoba" exact="Canada" post="[c], Section of Neurosurgery, University of Manitoba Canada [d],"/>
+ <result pre="of Manitoba Canada [c], Section of Neurosurgery, University of Manitoba" exact="Canada" post="[d], Pan Am Concussion Program Canada [e], Childrens Hospital"/>
+ <result pre="Neurosurgery, University of Manitoba Canada [d], Pan Am Concussion Program" exact="Canada" post="[e], Childrens Hospital Research Institute of Manitoba Canada [f],"/>
+ <result pre="Concussion Program Canada [e], Childrens Hospital Research Institute of Manitoba" exact="Canada" post="[f], Canada North Concussion Network Canada [g], MBTelehealth, Manitoba"/>
+ <result pre="Canada [e], Childrens Hospital Research Institute of Manitoba Canada [f]," exact="Canada" post="North Concussion Network Canada [g], MBTelehealth, Manitoba eHealth Canada"/>
+ <result pre="Research Institute of Manitoba Canada [f], Canada North Concussion Network" exact="Canada" post="[g], MBTelehealth, Manitoba eHealth Canada [h], Thompson General Hospital"/>
+ <result pre="[f], Canada North Concussion Network Canada [g], MBTelehealth, Manitoba eHealth" exact="Canada" post="[h], Thompson General Hospital Canada CONTACT Michael J. Ellis"/>
+ <result pre="Canada [g], MBTelehealth, Manitoba eHealth Canada [h], Thompson General Hospital" exact="Canada" post="CONTACT Michael J. Ellis mellis3@panamclinic.com Pan Am Clinic, Pan"/>
+ <result pre="Clinic, Pan Am Concussion Program, 75 Poseidon Bay, Winnipeg, Manitoba," exact="Canada" post="collection: 2019 epub: 2019-2-2 78 1 1573163 received: 2018-9-19"/>
+ <result pre="Abstract ABSTRACT Pediatric concussion patients living in northern communities in" exact="Canada" post="can face unique challenges accessing primary and specialized healthcare."/>
+ <result pre="Concussion Program is provincial government-funded clinical programme in Winnipeg, MB," exact="Canada" post="devoted to the multi-disciplinary assessment and management of paediatric"/>
+ <result pre="aiming to establish telemedicine concussion programmes for northern regions of" exact="Canada" post="must give careful consideration to the unique cultural, social"/>
+ <result pre="are being considered for inclusion in this telemedicine network include" exact="Norway" post="House, MB and Rankin Inlet, Nunavut. Second, as mentioned"/>
+ <result pre="and quality of primary care for aboriginal people in Ontario," exact="Canada" post=". Am J Public Health. 2003 5; 93( 5):"/>
+ <result pre="C , et al Telemedicine and epilepsy care - a" exact="Canada" post="wide survey. Can J Neurol Sci. 2010 11; 37("/>
+ <result pre="2018 9 11] : Available from: https://web2.gov.mb.ca/bills/41-2/b037e.php. [42] collab: Statistics" exact="Canada" post="Census Profile, 2016 [cited 2018 9 12] Available from:"/>
+</results>

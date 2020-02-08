@@ -1,0 +1,349 @@
+{
+  "id": [
+    "19920891"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19920891"
+  ],
+  "pmcid": [
+    "PMC2761176"
+  ],
+  "title": [
+    "Outcome of anthroposophic medication therapy in chronic disease: a 12-month prospective cohort study."
+  ],
+  "authorString": [
+    "Hamre HJ, Witt CM, Glockmann A, Ziegler R, Kienle GS, Willich SN, Kiene H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hamre HJ"
+          ],
+          "firstName": [
+            "Harald J"
+          ],
+          "lastName": [
+            "Hamre"
+          ],
+          "initials": [
+            "HJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Witt CM"
+          ],
+          "firstName": [
+            "Claudia M"
+          ],
+          "lastName": [
+            "Witt"
+          ],
+          "initials": [
+            "CM"
+          ]
+        },
+        {
+          "fullName": [
+            "Glockmann A"
+          ],
+          "firstName": [
+            "Anja"
+          ],
+          "lastName": [
+            "Glockmann"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Ziegler R"
+          ],
+          "firstName": [
+            "Renatus"
+          ],
+          "lastName": [
+            "Ziegler"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Kienle GS"
+          ],
+          "firstName": [
+            "Gunver S"
+          ],
+          "lastName": [
+            "Kienle"
+          ],
+          "initials": [
+            "GS"
+          ]
+        },
+        {
+          "fullName": [
+            "Willich SN"
+          ],
+          "firstName": [
+            "Stefan N"
+          ],
+          "lastName": [
+            "Willich"
+          ],
+          "initials": [
+            "SN"
+          ]
+        },
+        {
+          "fullName": [
+            "Kiene H"
+          ],
+          "firstName": [
+            "Helmut"
+          ],
+          "lastName": [
+            "Kiene"
+          ],
+          "initials": [
+            "H"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "1666308"
+      ],
+      "dateOfPublication": [
+        "2009 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Drug design, development and therapy"
+          ],
+          "ISOAbbreviation": [
+            "Drug Des Devel Ther"
+          ],
+          "medlineAbbreviation": [
+            "Drug Des Devel Ther"
+          ],
+          "NLMid": [
+            "101475745"
+          ],
+          "ISSN": [
+            "1177-8881"
+          ],
+          "ESSN": [
+            "1177-8881"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2009"
+  ],
+  "pageInfo": [
+    "25-37"
+  ],
+  "abstractText": [
+    "BACKGROUND: Anthroposophic medications (AMED) are prescribed in 56 countries. OBJECTIVE: To study clinical outcomes in patients prescribed AMED for chronic disease. DESIGN: Prospective cohort study. SETTING: 110 medical practices in Germany. PARTICIPANTS: 665 consecutive outpatients aged 1-71 years, prescribed AMED for mental, respiratory, musculoskeletal, neurological, genitourinary, and other chronic diseases. MAIN OUTCOMES: Disease and Symptom Scores (physicians' and patients' assessment, 0-10) and SF-36. RESULTS: During the first six months, an average of 1.5 AMED per patient was used, in total 652 different AMED. Origin of AMED was mineral (8.0% of 652 AMED), botanical (39.0%), zoological (7.2%), chemically defined (13.0%), and mixed (33.0%). From baseline to six-month-follow-up, all outcomes improved significantly: Disease Score improved by mean 3.15 points (95% confidence interval 2.97-3.34, p < 0.001), Symptom Score by 2.43 points (2.23-2.63, p < 0.001), SF-36 Physical Component Summary by 3.04 points (2.16-3.91, p < 0.001), and SF-36 Mental Component Summary by 5.75 points (4.59-6.92, p < 0.001). All improvements were maintained at 12-month follow-up. Improvements were similar in adult men and women, in children, and in patients not using adjunctive therapies. CONCLUSION: Outpatients using AMED for chronic disease had long-term reduction of disease severity and improvement of quality of life."
+  ],
+  "affiliation": [
+    "Institute for Applied Epistemology and Medical Methodology, Böcklerstrasse 5, Freiburg, Germany. harald.hamre@ifaemm.de"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Drug therapy",
+        "Chronic disease",
+        "Quality of life",
+        "Prospective studies",
+        "Anthroposophy",
+        "Outcome And Process Assessment (Health Care)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19920891/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19920891/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2761176"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2761176?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-06-28"
+  ],
+  "dateOfCreation": [
+    "2009-11-20"
+  ],
+  "firstIndexDate": [
+    "2010-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-15"
+  ],
+  "dateOfRevision": [
+    "2013-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2009-02-06"
+  ],
+  "firstPublicationDate": [
+    "2009-02-06"
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "id": [
+    "20696636"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20696636"
+  ],
+  "pmcid": [
+    "PMC3351996"
+  ],
+  "doi": [
+    "10.1186/2047-783X-15-6-266"
+  ],
+  "title": [
+    "Spiritual needs of patients with chronic pain diseases and cancer - validation of the spiritual needs questionnaire."
+  ],
+  "authorString": [
+    "Büssing A, Balzat HJ, Heusser P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Büssing A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Büssing"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5025-7950",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Integrative Medicine, Faculty of Medicine, University of Witten/Herdecke, Gerhard-Kienle-Weg, Herdecke, Germany. Arndt.Buessing@uni-wh.de"
+          ]
+        },
+        {
+          "fullName": [
+            "Balzat HJ"
+          ],
+          "firstName": [
+            "H-J"
+          ],
+          "lastName": [
+            "Balzat"
+          ],
+          "initials": [
+            "HJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Heusser P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Heusser"
+          ],
+          "initials": [
+            "P"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5025-7950",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "1753416"
+      ],
+      "dateOfPublication": [
+        "2010 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of medical research"
+          ],
+          "ISOAbbreviation": [
+            "Eur. J. Med. Res."
+          ],
+          "medlineAbbreviation": [
+            "Eur J Med Res"
+          ],
+          "NLMid": [
+            "9517857"
+          ],
+          "ISSN": [
+            "0949-2321"
+          ],
+          "ESSN": [
+            "2047-783X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "266-273"
+  ],
+  "abstractText": [
+    "PURPOSE:For many patients confronted with chronic diseases, spirituality/religiosity is a relevant resource to cope. While most studies on patients' spiritual needs refer to the care of patients at the end of life, our intention was to develop an instrument to measure spiritual, existential and psychosocial need of patients with chronic diseases. METHODS:In an anonymous cross-sectional survey, we applied the Spiritual Needs Questionnaire (SpNQ version 1.2.) to 210 patients (75% women, mean age 54 +/- 12 years) with chronic pain conditions (67%), cancer (28%), other chronic conditions (5%). Patients were recruited at the Community Hospital Herdecke, the Institute for Complementary Medicine (University of Bern), and at a conference of a cancer support group in Herten. RESULTS:Factor analysis of the 19-item instrument (Cronbach's alpha +/- .93) pointed to 4 factors which explain 67% of variance: Religious Needs, Need for Inner Peace, Existentialistic Needs (Reflection / Meaning), and Actively Giving. Within the main sample of patients with chronic pain and cancer, Needs for Inner Peace had the highest scores, followed by Self competent Attention; Existentialistic Needs had low scores, while the Religious Needs scores indicate no interest. Patients with cancer had significantly higher SpNQ scores than patients with chronic pain conditions. There were just some weak associations between Actively Giving and life satisfaction (r +/- .17; p +/- .012), and negatively with the symptom score (r +/- -.29; p < .0001); Need for Inner Peace was weakly associated with satisfaction with treatment efficacy (r +/- .24; p < .0001). Regression analyses reveal that the underlying disease (i.e., cancer) was of outstanding relevance for the patients' spiritual needs. CONCLUSION:The preliminary results indicate that spiritual needs are conceptually different from life satisfaction, and can be interpreted as the patients' longing for spiritual well-being. Methods how health care professionals may meet their patients' spiritual needs remain to be explored."
+  ],
+  "affiliation": [
+    "Center for Integrative Medicine, Faculty of Medicine, University of Witten/Herdecke, Gerhard-Kienle-Weg, Herdecke, Germany. Arndt.Buessing@uni-wh.de"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Validation Studies",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Disease"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Spirituality"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Religion and Medicine"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/2047-783x-15-6-266"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3351996"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3351996?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "27"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-08-24"
+  ],
+  "dateOfCreation": [
+    "2010-08-11"
+  ],
+  "firstIndexDate": [
+    "2010-08-25"
+  ],
+  "fullTextReceivedDate": [
+    "2012-05-18"
+  ],
+  "dateOfRevision": [
+    "2019-06-08"
+  ],
+  "firstPublicationDate": [
+    "2010-06-01"
+  ]
+}

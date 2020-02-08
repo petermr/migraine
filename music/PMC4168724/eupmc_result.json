@@ -1,0 +1,413 @@
+{
+  "id": [
+    "25243073"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25243073"
+  ],
+  "pmcid": [
+    "PMC4168724"
+  ],
+  "doi": [
+    "10.1093/jlb/lst003"
+  ],
+  "title": [
+    "The regulation of cognitive enhancement devices: extending the medical model."
+  ],
+  "authorString": [
+    "Maslen H, Douglas T, Cohen Kadosh R, Levy N, Savulescu J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Maslen H"
+          ],
+          "firstName": [
+            "Hannah"
+          ],
+          "lastName": [
+            "Maslen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Research Fellow in Ethics, Oxford Martin School, University of Oxford and Junior Research Fellow, New College, University of Oxford."
+          ]
+        },
+        {
+          "fullName": [
+            "Douglas T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Douglas"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Senior Research Fellow, Oxford Uehiro Centre for Practical Ethics, University of Oxford and Golding Fellow, Brasenose College, University of Oxford."
+          ]
+        },
+        {
+          "fullName": [
+            "Cohen Kadosh R"
+          ],
+          "firstName": [
+            "Roi"
+          ],
+          "lastName": [
+            "Cohen Kadosh"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5564-5469",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wellcome Trust Research Career Development Fellow and University Research Lecturer, Department of Experimental Psychology, University of Oxford."
+          ]
+        },
+        {
+          "fullName": [
+            "Levy N"
+          ],
+          "firstName": [
+            "Neil"
+          ],
+          "lastName": [
+            "Levy"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5679-1986",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Australian Research Council Future Fellow, Florey Institute of Neuroscience and Mental Health."
+          ]
+        },
+        {
+          "fullName": [
+            "Savulescu J"
+          ],
+          "firstName": [
+            "Julian"
+          ],
+          "lastName": [
+            "Savulescu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Uehiro Chair in Practical Ethics, Oxford Uehiro Centre, University of Oxford, Suite 8, Littlegate House, 16/17, St. Ebbe's Street, Oxford, OX1 1PT, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5564-5469",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5679-1986",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2203126"
+      ],
+      "dateOfPublication": [
+        "2014 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of law and the biosciences"
+          ],
+          "ISOAbbreviation": [
+            "J Law Biosci"
+          ],
+          "medlineAbbreviation": [
+            "J Law Biosci"
+          ],
+          "NLMid": [
+            "101633120"
+          ],
+          "ISSN": [
+            "2053-9711"
+          ],
+          "ESSN": [
+            "2053-9711"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "68-93"
+  ],
+  "abstractText": [
+    "This article presents a model for regulating cognitive enhancement devices (CEDs). Recently, it has become very easy for individuals to purchase devices which directly modulate brain function. For example, transcranial direct current stimulators are increasingly being produced and marketed online as devices for cognitive enhancement. Despite posing risks in a similar way to medical devices, devices that do not make any therapeutic claims do not have to meet anything more than basic product safety standards. We present the case for extending existing medical device legislation to cover CEDs. Medical devices and CEDs operate by the same or similar mechanisms and pose the same or similar risks. This fact coupled with the arbitrariness of the line between treatment and enhancement count in favour of regulating these devices in the same way. In arguing for this regulatory model, the paper highlights potential challenges to its implementation, and suggests solutions."
+  ],
+  "affiliation": [
+    "Research Fellow in Ethics, Oxford Martin School, University of Oxford and Junior Research Fellow, New College, University of Oxford."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "WT087211"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "086041"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "WT086041"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Regulation",
+        "Transcranial Direct Current Stimulation",
+        "Cognitive Enhancement Devices",
+        "Medicines And Healthcare Products Regulatory Agency: Medical Devices"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/jlb/lst003"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/jlb/lst003"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4168724"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4168724?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "Y"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "manuscriptId": [
+    "EMS60120"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2014-09-23"
+  ],
+  "firstIndexDate": [
+    "2014-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2014-09-21"
+  ],
+  "dateOfRevision": [
+    "2018-04-29"
+  ],
+  "firstPublicationDate": [
+    "2014-03-01"
+  ]
+}

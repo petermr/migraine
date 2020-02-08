@@ -1,0 +1,590 @@
+{
+  "id": [
+    "26464376"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26464376"
+  ],
+  "pmcid": [
+    "PMC4654741"
+  ],
+  "doi": [
+    "10.1007/s00127-015-1126-y"
+  ],
+  "title": [
+    "Study of resilience and environmental adversity in midlife health (STREAM)."
+  ],
+  "authorString": [
+    "Velthorst E, Reichenberg A, Rabinowitz J, Levine SZ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Velthorst E"
+          ],
+          "firstName": [
+            "Eva"
+          ],
+          "lastName": [
+            "Velthorst"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Academic Medical Center, Amsterdam, The Netherlands. eva.velthorst@mssm.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Reichenberg A"
+          ],
+          "firstName": [
+            "Abraham"
+          ],
+          "lastName": [
+            "Reichenberg"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychosis Studies, Institute of Psychiatry, King's College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Rabinowitz J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Rabinowitz"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Social Work, Bar-Ilan University, Tel-Aviv, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Levine SZ"
+          ],
+          "firstName": [
+            "Stephen Z"
+          ],
+          "lastName": [
+            "Levine"
+          ],
+          "initials": [
+            "SZ"
+          ],
+          "affiliation": [
+            "Department of Community Mental Health, University of Haifa, Haifa, Israel."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "50"
+      ],
+      "journalIssueId": [
+        "2344859"
+      ],
+      "dateOfPublication": [
+        "2015 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Social psychiatry and psychiatric epidemiology"
+          ],
+          "ISOAbbreviation": [
+            "Soc Psychiatry Psychiatr Epidemiol"
+          ],
+          "medlineAbbreviation": [
+            "Soc Psychiatry Psychiatr Epidemiol"
+          ],
+          "NLMid": [
+            "8804358"
+          ],
+          "ISSN": [
+            "0933-7954"
+          ],
+          "ESSN": [
+            "1433-9285"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "1915-1922"
+  ],
+  "abstractText": [
+    "The Jerusalem study of resilience and environmental adversity in midlife health (STREAM) was established to examine the prevalence of common mental and physical health issues in mid-adulthood in the inner city of Jerusalem, and to examine their association with lifespan psychosocial factors of vulnerability and resilience.Participants were 811 randomly selected individuals from 7000 individuals who were born and grew up in inner-Jerusalem. Participants were 34-44 years old during first wave of STREAM assessment. Initial telephone surveys took place in 2007-2008 and participants were followed-up for a second survey 1 year later. Upon funding, a new wave is planned for 2017-2018. Survey topics comprised common health problems (e.g., type 2 diabetes/migraine), health markers (e.g., BMI), and psychiatric vulnerabilities (e.g., anxiety, post-traumatic stress, depressive symptoms, psychosis). Other measures included socioeconomic status, creativity, life style behavior (e.g., smoking, exercise), social contact and adaptation to change. Survey data were retrospectively merged with data of national registry sources that included adverse psychosocial factors, psychiatric and social measures assessed across all developmental stages through midlife. This includes data available on birth factors, school achievement and adjustment, cognitive and behavioral functioning during young adulthood, psychiatric hospitalizations, immigration and socioeconomic status.Results on health outcomes of the first STREAM wave indicate that prevalence rates of health problems are comparable to recent World Mental Health Surveys.Apart from measures on adverse psychosocial factors, STREAM provides a cohort to examine resilience to developing health problems and having a poor health and functional outcome."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, Academic Medical Center, Amsterdam, The Netherlands. eva.velthorst@mssm.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diabetes Mellitus, Type 2"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Surveys"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mental Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cities"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Social Environment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Socioeconomic Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Urban Health"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Israel"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Resilience, Psychological"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Resilience",
+        "Adversity",
+        "Mid-adulthood",
+        "Common (Mental) Health Problems"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00127-015-1126-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4654741"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4654741?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-03-18"
+  ],
+  "dateOfCreation": [
+    "2016-02-10"
+  ],
+  "firstIndexDate": [
+    "2015-10-15"
+  ],
+  "fullTextReceivedDate": [
+    "2015-11-29"
+  ],
+  "dateOfRevision": [
+    "2016-02-10"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-13"
+  ],
+  "firstPublicationDate": [
+    "2015-10-13"
+  ]
+}

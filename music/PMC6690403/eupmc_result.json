@@ -1,0 +1,289 @@
+{
+  "id": [
+    "31428005"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31428005"
+  ],
+  "pmcid": [
+    "PMC6690403"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2019.01602"
+  ],
+  "title": [
+    "The Role of Compassion and Mindfulness in Building Parental Resilience When Caring for Children With Chronic Conditions: A Conceptual Model."
+  ],
+  "authorString": [
+    "Cousineau TM, Hobbs LM, Arthur KC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cousineau TM"
+          ],
+          "firstName": [
+            "Tara M"
+          ],
+          "lastName": [
+            "Cousineau"
+          ],
+          "initials": [
+            "TM"
+          ],
+          "affiliation": [
+            "Counseling and Mental Health Services, Harvard University, Cambridge, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hobbs LM"
+          ],
+          "firstName": [
+            "Lorraine M"
+          ],
+          "lastName": [
+            "Hobbs"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "affiliation": [
+            "Youth, Family and Educational Programs, UCSD Center for Mindfulness, San Diego, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Arthur KC"
+          ],
+          "firstName": [
+            "Kimberly C"
+          ],
+          "lastName": [
+            "Arthur"
+          ],
+          "initials": [
+            "KC"
+          ],
+          "affiliation": [
+            "Center for Child Health, Behavior and Development, Seattle Children's Research Institute, Seattle, WA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2775397"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1602"
+  ],
+  "abstractText": [
+    "Compassion- and mindfulness-based interventions (CMBIs) and therapies hold promise to support parent resilience by enabling adaptive stress appraisal and coping, mindful parenting, and perhaps crucially, self-compassion. These contemplative modalities have recently been expanded to parents of children with chronic illness, building on successful applications for adults facing stress, chronic pain, or mental illness, and for healthcare professionals in response to caregiver burnout resulting from their work. The design and adaptation of interventions and therapies require a conceptual model of parent resilience in the context of childhood chronic illness that integrates mindfulness and compassion. The objective of this paper is to propose and describe such a model. First, we review the need for parent support interventions for this population. Second, we introduce a Model of Compassion, Mindfulness, and Resilience in Parental Caregiving. We highlight the mindful parenting approaches, guiding theories for adaptive coping, and family resilience frameworks that informed our model. Third, we describe a case of a parent to illustrate a practical application model. Finally, we outline future directions for intervention development and research to examine the impact of CMBIs on parent resilience."
+  ],
+  "affiliation": [
+    "Counseling and Mental Health Services, Harvard University, Cambridge, MA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Parent",
+        "conceptual model",
+        "Mindfulness",
+        "Compassion",
+        "Self-compassion",
+        "Family Resilience",
+        "Children With Illness/disability"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2019.01602"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6690403"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6690403?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-21"
+  ],
+  "firstIndexDate": [
+    "2019-08-21"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-21"
+  ],
+  "dateOfRevision": [
+    "2019-08-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-05"
+  ],
+  "firstPublicationDate": [
+    "2019-08-05"
+  ]
+}

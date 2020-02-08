@@ -1,0 +1,414 @@
+{
+  "id": [
+    "29895725"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29895725"
+  ],
+  "pmcid": [
+    "PMC6025595"
+  ],
+  "doi": [
+    "10.3390/children5060074"
+  ],
+  "title": [
+    "Pediatric Headache Clinic Model: Implementation of Integrative Therapies in Practice."
+  ],
+  "authorString": [
+    "Esparham A, Herbert A, Pierzchalski E, Tran C, Dilts J, Boorigie M, Wingert T, Connelly M, Bickel J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Esparham A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Esparham"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Children's Mercy Hospital, University of Missouri-Kansas City School of Medicine, Division of Child Neurology, 2401 Gillham Rd., Kansas City, MO 64108, USA. aeesparham@cmh.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Herbert A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Herbert"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Children's Mercy Hospital, University of Missouri-Kansas City School of Medicine, Division of Child Neurology, 2401 Gillham Rd., Kansas City, MO 64108, USA. ajherbert@cmh.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Pierzchalski E"
+          ],
+          "firstName": [
+            "Emily"
+          ],
+          "lastName": [
+            "Pierzchalski"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Children's Mercy Hospital, University of Missouri-Kansas City School of Medicine, Division of Child Neurology, 2401 Gillham Rd., Kansas City, MO 64108, USA. ecpierzchalski@cmh.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Tran C"
+          ],
+          "firstName": [
+            "Catherine"
+          ],
+          "lastName": [
+            "Tran"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Children's Mercy Hospital, University of Missouri-Kansas City School of Medicine, Division of Child Neurology, 2401 Gillham Rd., Kansas City, MO 64108, USA. ctq44@mail.umkc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Dilts J"
+          ],
+          "firstName": [
+            "Jennifer"
+          ],
+          "lastName": [
+            "Dilts"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Children's Mercy Hospital, University of Missouri-Kansas City School of Medicine, Division of Child Neurology, 2401 Gillham Rd., Kansas City, MO 64108, USA. jjdilts@cmh.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Boorigie M"
+          ],
+          "firstName": [
+            "Madeline"
+          ],
+          "lastName": [
+            "Boorigie"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Children's Mercy Hospital, University of Missouri-Kansas City School of Medicine, Division of Child Neurology, 2401 Gillham Rd., Kansas City, MO 64108, USA. meboorigie@cmh.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Wingert T"
+          ],
+          "firstName": [
+            "Tammie"
+          ],
+          "lastName": [
+            "Wingert"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Children's Mercy Hospital, University of Missouri-Kansas City School of Medicine, Division of Child Neurology, 2401 Gillham Rd., Kansas City, MO 64108, USA. twingert@cmh.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Connelly M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Connelly"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8157-8901",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Children's Mercy Hospital, University of Missouri-Kansas City School of Medicine, Division of Child Neurology, 2401 Gillham Rd., Kansas City, MO 64108, USA. mconnelly1@cmh.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Bickel J"
+          ],
+          "firstName": [
+            "Jennifer"
+          ],
+          "lastName": [
+            "Bickel"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Children's Mercy Hospital, University of Missouri-Kansas City School of Medicine, Division of Child Neurology, 2401 Gillham Rd., Kansas City, MO 64108, USA. jlbickel@cmh.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8157-8901",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2692335"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Children (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Children (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Children (Basel)"
+          ],
+          "NLMid": [
+            "101648936"
+          ],
+          "ISSN": [
+            "2227-9067"
+          ],
+          "ESSN": [
+            "2227-9067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The demand for integrative medicine has risen in recent years as research has demonstrated the efficacy of such treatments. The public has also become more conscientious of the potential limitations of conventional treatment alone. Because primary headache syndromes are often the culmination of genetics, lifestyle, stress, trauma, and environmental factors, they are best treated with therapies that are equally multifaceted. The Children&rsquo;s Mercy Hospital, Kansas City, Missouri Headache Clinic has successfully incorporated integrative therapies including nutraceuticals, acupuncture, aromatherapy, biofeedback, relaxation training, hypnosis, psychology services, and lifestyle recommendations for headache management. This paper provides a detailed review of the implementation of integrative therapies for headache treatment and discusses examples through case studies. It can serve as a model for other specialty settings intending to incorporate all evidenced-based practices, whether complementary or conventional."
+  ],
+  "affiliation": [
+    "Children's Mercy Hospital, University of Missouri-Kansas City School of Medicine, Division of Child Neurology, 2401 Gillham Rd., Kansas City, MO 64108, USA. aeesparham@cmh.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Implementation",
+        "Pediatric",
+        "Headache",
+        "Complementary Therapies",
+        "Multidisciplinary",
+        "Integrative Medicine",
+        "Mind-body",
+        "Clinic Model"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/children5060074"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6025595"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6025595?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-14"
+  ],
+  "firstIndexDate": [
+    "2018-06-14"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-11"
+  ],
+  "dateOfRevision": [
+    "2018-07-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-12"
+  ],
+  "firstPublicationDate": [
+    "2018-06-12"
+  ]
+}

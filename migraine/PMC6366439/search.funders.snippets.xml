@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6366439/results/search/funders/results.xml">
+  <result pre="g Kowalchuk Matthew g Russell Kelly b e f [a]," exact="Department of Surgery," post="University of Manitoba Canada [b], Pediatrics and Child Health,"/>
+  <result pre="KEYWORDS Concussion paediatric telemedicine multi-disciplinary management Funding University of Manitoba" exact="Department of Surgery" post="Thorlakson Fund 10.13039/100010318 N/A Financial support for this manuscript"/>
+  <result pre="support for this manuscript was provided by University of Manitoba" exact="Department of Surgery" post="Thorlakson Fund [N/A]. fig-count: ref-count: page-count: Concussion is a"/>
+  <result pre="PubMed PMID: 26544163; PubMed Central PMCID: PMC4892212. 26544163 [20] collab:" exact="World Health Organization" post="A health telematics policy in support of WHO’s Health-For-All"/>
+  <result pre="consultation on health telematics, 11–16 December, Geneva, 1997 . Geneva:" exact="World Health Organization;" post="1998. [21] Demaerschalk BM , Berg J , Chong"/>
+ </snippets>
+</snippetsTree>

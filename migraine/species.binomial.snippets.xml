@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectSnippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC5836048/results/species/binomial/results.xml">
+   <result pre=" " exact="Clinical presentation" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/p[5]" match="Clinical presentation" post=": Confusion, disorientation and agitation are the cardinal and distinctive features, followed or ac" name="binomial"/>
+   <result pre=" " exact="Diagnostic testing" match="Diagnostic testing" post=": Routine laboratory work performed in the majority of patients were reported as normal. Cerebrospi" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC5954057/results/species/binomial/results.xml">
+   <result pre="ing Lactobacilli and Bifidobacteria. In 2010, a daily dose of a probiotic prepared with strains of " exact="Escherichia coli" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/div[2]/p[2]" match="Escherichia coli" post=" administered to 203 children aged 4–18 years with chronic IBS resulted in a significant improvemen" name="binomial"/>
+   <result pre="preparation versus placebo in 88 children. Specifically, 45 children treated with a combination of " exact="Bacillus coagulans" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/div[2]/p[2]" match="Bacillus coagulans" post=" and prebiotics reported a higher response rate than the 43 children receiving placebo (60 vs. 39.5" name="binomial"/>
+   <result pre=". In 2011, Horvath et al. [ 28] published a meta-analysis regarding the effects of " exact="Lactobacillus rhamnosus" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/div[2]/p[2]" match="Lactobacillus rhamnosus" post=" GG (LGG) as a treatment for children with abdominal pain-related functional gastrointestinal disor" name="binomial"/>
+   <result pre="d reported similar conclusions. When compared with placebo, the mixture of three Bifidobacteria, ( " exact="Bifidobacterium infantis" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/div[2]/p[2]" match="Bifidobacterium infantis" post=" M-63, B. breve M-16V, and B. longum BB536) proved useful in diminishing abdominal pa" name="binomial"/>
+   <result pre="ompared with placebo, the mixture of three Bifidobacteria, ( Bifidobacterium infantis M-63, " exact="B. breve" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/div[2]/p[2]" match="Bacillus breve" post=" M-16V, and B. longum BB536) proved useful in diminishing abdominal pain in children with IB" name="binomial"/>
+   <result pre="ixture of three Bifidobacteria, ( Bifidobacterium infantis M-63, B. breve M-16V, and " exact="B. longum" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/div[2]/p[2]" match="Bacillus longum" post=" BB536) proved useful in diminishing abdominal pain in children with IBS ( p = 0.006) but no" name="binomial"/>
+   <result pre="orted significant lowering of the intensity of abdominal pain in children treated for 4 weeks with " exact="Lactobacillus reuteri" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/div[2]/p[2]" match="Lactobacillus reuteri" post=" DSM 17938 [ 30]. Other RCTs with L. reuteri DSM 17938 confirmed possible po" name="binomial"/>
+   <result pre="ted for 4 weeks with Lactobacillus reuteri DSM 17938 [ 30]. Other RCTs with " exact="L. reuteri" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/div[2]/p[2]" match="Lactobacillus reuteri" post=" DSM 17938 confirmed possible positive effects of this particular strain of probiotics [ &lt;a href=&quot;#" name="binomial"/>
+   <result pre=", Lactobacillus casei, Lactobacillus bulgaricus , B. breve, B. longum, B. infantis, and " exact="Streptococcus thermophilus" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/div[2]/p[2]" match="Streptococcus thermophilus" post=") proved useful in children and adolescents with IBS. " name="binomial"/>
+   <result pre="rshirazi et al. [ 48] compared the effects of peppermint oil, a synbiotic Lactol ( " exact="Bacillus coagulans" match="Bacillus coagulans" post=" + fructooligosaccharide), and placebo in a three-arm RCT including 120 children treated for 4 week" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6029397/results/species/binomial/results.xml">
+   <result pre=". Thirty patients received upper endoscopy. Three patients were positive for rapid urease test for " exact="Helicobacter pylori" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/p[1]" match="Helicobacter pylori" post=" infection, and the other three had mild to moderate esophagitis. No abnormality was found in lower" name="binomial"/>
+   <result pre="lasmin. Incident gastrointestinal infection was found among patients, four were positive for serum " exact="Helicobacter pylori" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/p[1]" match="Helicobacter pylori" post=" IgG, one had amoebic infection, and the other had Blastocystis hominis infection on stool a" name="binomial"/>
+   <result pre="re positive for serum Helicobacter pylori IgG, one had amoebic infection, and the other had " exact="Blastocystis hominis" match="Blastocystis hominis" post=" infection on stool analysis. One patient had Hepatitis B infection probably due to vertical transm" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6045946/results/species/binomial/results.xml">
+   <result pre=" or 2 out of the 5 aforementioned symptoms was 0.23 (RR: 0.23, 95% CI: 0.16-0.35, P=0.079). " exact=" Relative risk " match="Relative risk" post="is the ratio of the probability of migraine attack in first group to the probability of a migraine " name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6078717/results/species/binomial/results.xml">
+   <result pre="espond to acid reduction therapy. All patients were negative for nodularity, erosions, ulcers, and " exact="Helicobacter pylori" match="Helicobacter pylori" post=". Their previously obtained biopsy specimens were utilized to assess eosinophil and mast cell densi" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6306866/results/species/binomial/results.xml">
+   <result pre="l exam was normal. Prior negative workup for her abdominal pain included infectious stool studies, " exact="Helicobacter pylori" match="Helicobacter pylori" post=", fecal calprotectin, complete blood count with differential, and a comprehensive metabolic panel i" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6331488/results/species/binomial/results.xml">
+   <result pre="Children meeting one or more of these cut-offs constituted the &quot; NDD group &quot;, while the &quot; " exact="Comparison group" match="Comparison group" post=" &quot; consisted of twins who did not meet any of them. We excluded all children from the comparison gr" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6360466/results/species/binomial/results.xml">
+   <result pre="pital admission. 1 Cat scratch disease is caused by " exact="Bartonella henselae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Bartonella henselae" post=" and most often presents with fever and regional lymphadenopathy. &lt;a href=&quot;#bibr1-2329048X198" name="binomial"/>
+   <result pre=" hospitalization. West Nile virus immunoglobulin M and Epstein-Barr virus PCR were negative. Serum " exact="Mycoplasma pneumoniae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Mycoplasma pneumoniae" post=" antibodies demonstrated elevated immunoglobulin M at 1861 U/mL, but PCR was negative. Serum anti-s" name="binomial"/>
+   <result pre=" " exact="Bartonella henselae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Bartonella henselae" post=" bacteria can be transmitted from a cat scratch or bite, from cat saliva that contacts broken skin " name="binomial"/>
+   <result pre="The patient’s positive " exact="Mycoplasma pneumoniae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Mycoplasma pneumoniae" post=" immunoglobulin M must be considered in combination with the patient’s negative Mycoplasma pneum" name="binomial"/>
+   <result pre="asma pneumoniae immunoglobulin M must be considered in combination with the patient’s negative " exact="Mycoplasma pneumoniae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Mycoplasma pneumoniae" post=" PCR: this combination of results is not necessarily diagnostic of acute infection. &lt;a href=&quot;" name="binomial"/>
+   <result pre="ibr11-2329048X19826480&quot;&gt;11 One small study suggests that serologic tests do not distinguish " exact="Mycoplasma pneumoniae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Mycoplasma pneumoniae" post=" disease status from carrier status. 12 A larger st" name="binomial"/>
+   <result pre="a href=&quot;#bibr12-2329048X19826480&quot;&gt;12 A larger study looking at neurologic manifestations of " exact="Mycoplasma pneumoniae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Mycoplasma pneumoniae" post=" noted 2 distinct disease patterns: one characterized by high immunoglobulin M and frequent respira" name="binomial"/>
+   <result pre="Diagnosis of " exact="Bartonella henselae" match="Bartonella henselae" post=" infection is also challenging due to several factors. The length of time from obtaining serum for " name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6380461/results/species/binomial/results.xml">
+   <result pre="ombinant humanized antibody scFv targeting epithelial cell adhesion molecule (EpCAM) conjugated to " exact="Pseudomonas aeruginosa" match="Pseudomonas aeruginosa" post=" exotoxin A. 85 Once bound to EpCAM expressed by cancer cells, opor" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6419324/results/species/binomial/results.xml">
+   <result pre=" = 91) with migraine, with (MO) or without aura (MA), or tension-type headache (TTH). A fixed-dose " exact="Andrographis paniculata" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Andrographis paniculata" post=", CoQ10, riboflavin, and magnesium, was administered for 16 weeks. Patients were evaluated at basel" name="binomial"/>
+   <result pre="This fixed-dose " exact="Tanacetum parthenium" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Tanacetum parthenium" post=" preparation improved headache frequency and pain intensity in children affected by TTH. Despite th" name="binomial"/>
+   <result pre="on of Mg 2+ 169 mg, CoQ10 20 mg, VitB2 4,8 mg, Feverfew 150 mg-1,2 mg Parthenolides and " exact="Andrographis paniculata" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Andrographis paniculata" post=" 100 mg) available in Italy as a dietary supplement (Italian Registry of Supplements code 64289) in" name="binomial"/>
+   <result pre="pediatric patients suffering from MA and MO. We used a combination of magnesium, riboflavin, CQ10, " exact="Tanacetum parthenium" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Tanacetum parthenium" post=", molecules all arising in the guidelines of the American Headache Society (AHS) and American Acade" name="binomial"/>
+   <result pre="che Society (AHS) and American Academy of Neurology (AAN) [ 14] in addition to the " exact="Andrographis paniculata" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Andrographis paniculata" post=" (plant extract that has shown analgesic and anti-edema activity in preclinical studies along with " name="binomial"/>
+   <result pre=" " exact="Tanacetum parthenium" match="Tanacetum parthenium" post=" (feverfew) has been used for centuries to treat pain and headache [ 17]. Several p" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6438928/results/species/binomial/results.xml">
+   <result pre="e displacement and absolute displacement did not differ between the migraine patients and the HC [ " exact="Relative displacement" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Relative displacement" post=" (mean ± SD): migraine patients: 0.06 ± 0.03 mm, HC: 0.06 ± 0.02 mm, t(70) = 0.05, p " name="binomial"/>
+   <result pre=" SD): migraine patients: 0.06 ± 0.03 mm, HC: 0.06 ± 0.02 mm, t(70) = 0.05, p = 0.96; " exact="Absolute displacement" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Absolute displacement" post=": migraine patients: 0.25 ± 0.12, HC: 0.28 ± 0.13, t(70) = -1.13, p = 0.26], nor betw" name="binomial"/>
+   <result pre=", t(70) = -1.13, p = 0.26], nor between adolescents and young adults with migraine [ " exact="Relative displacement" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Relative displacement" post=": adolescents migraineurs: 0.07 ± 0.04 mm, young adult migraineurs: 0.06 ± 0.02 mm, t(34) = " name="binomial"/>
+   <result pre="rs: 0.07 ± 0.04 mm, young adult migraineurs: 0.06 ± 0.02 mm, t(34) = 1.07, p = 0.29; " exact="Absolute displacement" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Absolute displacement" post=": adolescents migraineurs: 0.28 ± 0.13 mm, young adult migraineurs: 0.22 ± 0.10 mm, t(34) = " name="binomial"/>
+   <result pre=" ± 0.10 mm, t(34) = 1.47, p = 0.15], or between adolescents HC and young adults HC [ " exact="Relative displacement" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[1]" match="Relative displacement" post=": adolescents: 0.06 ± 0.02, young adults: 0.06 ± 0.02, t(34) = -0.45, p = 0.66; Ab" name="binomial"/>
+   <result pre="t: adolescents: 0.06 ± 0.02, young adults: 0.06 ± 0.02, t(34) = -0.45, p = 0.66; " exact="Absolute displacement" match="Absolute displacement" post=": adolescents: 0.28 ± 0.13 mm, young adult: 0.28 ± 0.14 mm, t(34) &amp;amp;lt;0.001, p = " name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6506428/results/species/binomial/results.xml">
+   <result pre="d pancreatic, SSYC: Shigella, Salmonella, Yersinia, and Campylobacter, " exact="H. pylori" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/div[3]/div[2]/div[3]/p[2]" match="H. pylori" post=": Helicobacter pylori, Abdominal US: abdominal ultrasound. " name="binomial"/>
+   <result pre=": Shigella, Salmonella, Yersinia, and Campylobacter, H. pylori: " exact="Helicobacter pylori" match="Helicobacter pylori" post=", Abdominal US: abdominal ultrasound. " name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6520671/results/species/binomial/results.xml">
+   <result pre="in autism spectrum disorder and also normalized the overabundance of the mucin-degrading bacterium " exact="Akkermansia muciniphila" xpath="/html[1]/body[1]/div[2]/div[2]/div[9]/p[4]" match="Akkermansia muciniphila" post=" [ 218]. In patients with multiple sclerosis who were characteri" name="binomial"/>
+   <result pre="-nutrients-11-00811&quot;&gt;214]. In a small study on GLUT1 deficiency syndrome a significant increase in " exact="Desulfovibrio spp" match="Desulfovibrio spp" post="., a bacterial group supposed to be involved in the exacerbation of the inflammatory condition of t" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6631099/results/species/binomial/results.xml">
+   <result pre="ded following a couple of key studies. One was the link between exposure to volatile oils from the " exact="Umbellularia californica" match="Umbellularia californica" post=" tree (the &quot;Headache Tree&quot;) and headache attacks [ 102] wh" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6636407/results/species/binomial/results.xml">
+   <result pre="Curcumin, a component of turmeric plant ( " exact="Curcuma longa" match="Curcuma longa" post="), has been reported to be associated with analgesia by reducing inflammation and oxidative stress " name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6646581/results/species/binomial/results.xml">
+   <result pre=" " exact="Fisher test" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/div[2]/div[1]/p[2]" match="Fisher test" post=". " name="binomial"/>
+   <result pre=" " exact="Friedman test" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/div[2]/div[1]/p[2]" match="Friedman test" post=". " name="binomial"/>
+   <result pre=" " exact="Fisher test" match="Fisher test" post=". " name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6716213/results/species/binomial/results.xml">
+   <result pre=" " exact="Recurrent gastrointestinal" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/p[11]" match="Recurrent gastrointestinal" post=" disorders are defined as episodes of recurrent abdominal pain and/or discomfort, nausea, and/or vo" name="binomial"/>
+   <result pre=" " exact="Abdominal migraine" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/p[11]" match="Abdominal migraine" post=" is an idiopathic condition, which is found mainly in subjects aged between 3 and 10 years of age, " name="binomial"/>
+   <result pre=" " exact="Infantile colic" xpath="/html[1]/body[1]/div[2]/div[5]/div[3]/p[11]" match="Infantile colic" post=" affects one infant out of five and is defined as an episode of irritability, agitation, or inconso" name="binomial"/>
+   <result pre=" " exact="Opioid medications" match="Opioid medications" post=" are explicitly discouraged for primary headache disorders because they may potentiate migraine pat" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6734209/results/species/binomial/results.xml">
+   <result pre="aura [ 64]. Finally, the effect of ginkgolide B, a herbal constituent extract from " exact="Ginkgo biloba" match="Ginkgo biloba" post=" tree leaves has been tested for the prophylactic treatment of migraine with aura (MA). In open-lab" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6734284/results/species/binomial/results.xml">
+   <result pre="e been made with Herpes zoster, Adenovirus, Toxoplasmosis, Salmonella, Streptococcal infection and " exact="Escherichia coli" match="Escherichia coli" post=" urinary tract infections [ 21]. " name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6734342/results/species/binomial/results.xml">
+   <result pre=" FHM1 mutations [ 51]. In another example, a large-scale functional RNAi screen in " exact="Caenorhabditis elegans" match="Caenorhabditis elegans" post=" for modifiers of unc-2, the worm orthologue of CACNA1A, identified genes in the TGF-" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6773914/results/species/binomial/results.xml">
+   <result pre=" Botulinum toxin is a neurotoxin derived from " exact="Clostridium botulinum" match="Clostridium botulinum" post=". It results in the paralysis of nerves by blocking the release of acetylcholine. &lt;a href=&quot;#R" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6780403/results/species/binomial/results.xml">
+   <result pre="terial strains came from the animal murine model [ 9]. When a strain of " exact="Bifidobacterium longum" xpath="/html[1]/body[1]/div[2]/div[4]/p[5]" match="Bifidobacterium longum" post=" was orally administered to mice with established anxiety it normalized their behavior; provided th" name="binomial"/>
+   <result pre=". These findings demonstrated that the vagus nerve acts as a conduit for the anxiolytic effects of " exact="B. longum" xpath="/html[1]/body[1]/div[2]/div[4]/p[5]" match="Bifidobacterium longum" post=". " name="binomial"/>
+   <result pre="fects seen within probiotic species. Genomic and functional analysis of 100 strains of the species " exact="L. rhamnosus" match="L. rhamnosus" post=", for instance, clearly identified highly variable functional properties, such as ability to bind t" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6888880/results/species/binomial/results.xml">
+   <result pre="daches were unified in a unique headline (10.1), including High altitude headache (10.1.1), " exact="Diving headache" xpath="/html[1]/body[1]/div[2]/div[3]/div[9]/div[2]/div[2]/div[2]/p[2]" match="Diving headache" post=" (10.1.2) and Sleep apnoea headache (10.1.3). Moreover, Headache attributed to arterial h" name="binomial"/>
+   <result pre="ciated to vascular disorders, were moved at the third digit of the first level (10.3), between " exact="Dyalisis headache" xpath="/html[1]/body[1]/div[2]/div[3]/div[9]/div[2]/div[2]/div[2]/p[2]" match="Dyalisis headache" post=" (10.2) and Headache attributed to hypothyroidism (10.4). Headache attributed to fasting&lt;" name="binomial"/>
+   <result pre="buted to fasting (10.5) substituted the older denomination &quot; Hypoglicemia&quot;, and the new " exact="Cardiac cephalalgia" xpath="/html[1]/body[1]/div[2]/div[3]/div[9]/div[2]/div[2]/div[2]/p[2]" match="Cardiac cephalalgia" post=" (10.6), a rare occurrence characterized by a close temporal relationship between the onset of head" name="binomial"/>
+   <result pre=" " exact="Although botulinum" match="Although botulinum" post=" toxin A is an established preventive treatment for migraine, its toxicity and the unwanted muscle " name="binomial"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="migraine/PMC6918555/results/species/binomial/results.xml">
+   <result pre=" [2,3] . Widespread implementation of vaccination policies against meningococcal, pneumococcal and " exact="Haemophilus influenzae" match="Haemophilus influenzae" post=" type b diseases has led to a significant decline in the frequency of bacterial meningitis over the" name="binomial"/>
+  </snippets>
+ </snippetsTree>
+</projectSnippetsTree>

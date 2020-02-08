@@ -1,0 +1,611 @@
+{
+  "id": [
+    "28363315"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28363315"
+  ],
+  "pmcid": [
+    "PMC5771233"
+  ],
+  "doi": [
+    "10.1016/j.drugalcdep.2016.12.002"
+  ],
+  "title": [
+    "Providing chronic pain management in the \"Fifth Vital Sign\" Era: Historical and treatment perspectives on a modern-day medical dilemma."
+  ],
+  "authorString": [
+    "Tompkins DA, Hobelmann JG, Compton P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tompkins DA"
+          ],
+          "firstName": [
+            "D Andrew"
+          ],
+          "lastName": [
+            "Tompkins"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2112-2299",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine, Baltimore, MD, USA. Electronic address: dtompki1@jhmi.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Hobelmann JG"
+          ],
+          "firstName": [
+            "J Greg"
+          ],
+          "lastName": [
+            "Hobelmann"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine, Baltimore, MD, USA. Electronic address: greg_hobelmann@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Compton P"
+          ],
+          "firstName": [
+            "Peggy"
+          ],
+          "lastName": [
+            "Compton"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Family and Community Health, University of Pennsylvania School of Nursing, Philadelphia PA, USA. Electronic address: pcompton@nursing.upenn.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2112-2299",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "173 Suppl 1"
+      ],
+      "journalIssueId": [
+        "2541875"
+      ],
+      "dateOfPublication": [
+        "2017 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Drug and alcohol dependence"
+          ],
+          "ISOAbbreviation": [
+            "Drug Alcohol Depend"
+          ],
+          "medlineAbbreviation": [
+            "Drug Alcohol Depend"
+          ],
+          "NLMid": [
+            "7513587"
+          ],
+          "ISSN": [
+            "0376-8716"
+          ],
+          "ESSN": [
+            "1879-0046"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "S11-S21"
+  ],
+  "abstractText": [
+    "BACKGROUND:Over 100 million Americans are living with chronic pain, and pain is the most common reason that patients seek medical attention. Despite the prevalence of pain, the practice of pain management and the scientific discipline of pain research are relatively new fields compared to the rest of medicine - contributing to a twenty-first century dilemma for health care providers asked to relieve suffering in the \"Fifth Vital Sign\" era. METHODS:This manuscript provides a narrative review of the basic mechanisms of chronic pain and history of chronic pain management in the United States - including the various regulatory, health system and provider factors that contributed to the decline of multidisciplinary pain treatment in favor of the predominant opioid treatment strategy seen today. Multiple non-opioid pain treatment strategies are then outlined. The manuscript concludes with three key questions to help guide future research at the intersection of pain and addiction. CONCLUSIONS:The assessment and treatment of chronic pain will continue to be one of the most common functions of a health care provider. To move beyond an over reliance on opioid medications, the addiction and pain research communities must unite with chronic pain patients to increase the evidence base supporting non-opioid analgesic strategies."
+  ],
+  "affiliation": [
+    "Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine, Baltimore, MD, USA. Electronic address: dtompki1@jhmi.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Historical Article",
+        "research-article",
+        "Biography",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K23 DA029609"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 DA029580"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Analgesics, Opioid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interdisciplinary Communication"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 17th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 18th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 19th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 20th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 21st Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Vital Signs"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Comparative Effectiveness Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Management"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intersectoral Collaboration"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chronic pain",
+        "Opioids",
+        "Chronic Pain Management",
+        "Multidisciplinary Pain Treatment",
+        "John J. Bonica"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Analgesics, Opioid"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.drugalcdep.2016.12.002"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5771233"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5771233?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS917135"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-09-26"
+  ],
+  "dateOfCreation": [
+    "2017-04-02"
+  ],
+  "firstIndexDate": [
+    "2017-04-01"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-08"
+  ],
+  "dateOfRevision": [
+    "2019-10-08"
+  ],
+  "firstPublicationDate": [
+    "2017-04-01"
+  ],
+  "embargoDate": [
+    "2018-04-01"
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "id": [
+    "26351179"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26351179"
+  ],
+  "pmcid": [
+    "PMC4563217"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2014-006178"
+  ],
+  "title": [
+    "Experiences with, perceptions of and attitudes towards traditional Korean medicine (TKM) in patients with chronic fatigue: a qualitative, one-on-one, in-depth interview study."
+  ],
+  "authorString": [
+    "Son HM, Park EY, Kim DH, Kim E, Shin MS, Kim TH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Son HM"
+          ],
+          "firstName": [
+            "Haeng-Mi"
+          ],
+          "lastName": [
+            "Son"
+          ],
+          "initials": [
+            "HM"
+          ],
+          "affiliation": [
+            "Department of Nursing, University of Ulsan, Ulsan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park EY"
+          ],
+          "firstName": [
+            "Eun Young"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "EY"
+          ],
+          "affiliation": [
+            "College of Nursing, Gachon University, Incheon, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim DH"
+          ],
+          "firstName": [
+            "Duck Hee"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "DH"
+          ],
+          "affiliation": [
+            "Department of Nursing, Woosuk University, Wanju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim E"
+          ],
+          "firstName": [
+            "Eunjeong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Nursing, Daedong College, Busan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Shin MS"
+          ],
+          "firstName": [
+            "Mi-Suk"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Department of Nursing, Daejeon University, Daejeon, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim TH"
+          ],
+          "firstName": [
+            "Tae-Hun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "TH"
+          ],
+          "affiliation": [
+            "Korean Medicine Clinical Trial Center, Korean Medicine Hospital, Kyung Hee University, Seoul, South Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8448-3219",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2321175"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "e006178"
+  ],
+  "abstractText": [
+    "To explore perceptions and experiences of patients with chronic fatigue with traditional Korean medicine (TKM) and their motivation for choosing TKM.Qualitative, one-on-one, in-depth interview study.Primary TKM hospitals in Seoul, Incheon and Daejeon, South Korea.15 patients with chronic fatigue were interviewed in this study. Patients with chronic fatigue experienced physical and psychological symptoms that resulted in severe difficulties associated with routine daily activities. The motivations for choosing TKM were primarily dissatisfaction with conventional medicine and previous positive experiences with TKM. While undergoing TKM treatment, patients found that TKM practitioners considered fatigue to be a treatable illness; also, patients felt comfortable with the doctor-patient relationship in TKM.Healthcare providers need to be concerned about the symptoms of chronic fatigue to a degree that is in line with the patient's own perceptions. Korean patients with chronic fatigue choose TKM as an alternative to fulfil their long-term needs that were unmet by conventional medicine, and they are greatly positively influenced by TKM. TKM may present a possible therapy to alleviate symptoms of diseases that conventional medicine does not address and is an approach that has a considerable effect on Korean patients."
+  ],
+  "affiliation": [
+    "Department of Nursing, University of Ulsan, Ulsan, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fatigue Syndrome, Chronic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motivation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physician-Patient Relations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Perception"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Qualitative Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Acceptance of Health Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interviews as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Medicine, Korean Traditional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Republic of Korea"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Qualitative Research",
+        "Complementary Medicine"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2014-006178"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4563217"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4563217?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-06-14"
+  ],
+  "dateOfCreation": [
+    "2015-09-09"
+  ],
+  "firstIndexDate": [
+    "2015-09-10"
+  ],
+  "fullTextReceivedDate": [
+    "2015-09-16"
+  ],
+  "dateOfRevision": [
+    "2015-09-15"
+  ],
+  "electronicPublicationDate": [
+    "2015-09-08"
+  ],
+  "firstPublicationDate": [
+    "2015-09-08"
+  ]
+}

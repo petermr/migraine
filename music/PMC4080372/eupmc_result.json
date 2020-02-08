@@ -1,0 +1,279 @@
+{
+  "id": [
+    "25024712"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25024712"
+  ],
+  "pmcid": [
+    "PMC4080372"
+  ],
+  "doi": [
+    "10.1186/1687-9856-2014-S1-S1"
+  ],
+  "title": [
+    "Lawson Wilkins: recollections by his daughter."
+  ],
+  "authorString": [
+    "McMaster EW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "McMaster EW"
+          ],
+          "firstName": [
+            "Elizabeth Wilkins"
+          ],
+          "lastName": [
+            "McMaster"
+          ],
+          "initials": [
+            "EW"
+          ],
+          "affiliation": [
+            "135 Lloyd Avenue, Providence, Rhode Island 02906, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "2014"
+      ],
+      "journalIssueId": [
+        "2180948"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of pediatric endocrinology"
+          ],
+          "ISOAbbreviation": [
+            "Int J Pediatr Endocrinol"
+          ],
+          "medlineAbbreviation": [
+            "Int J Pediatr Endocrinol"
+          ],
+          "NLMid": [
+            "101516111"
+          ],
+          "ISSN": [
+            "1687-9848"
+          ],
+          "ESSN": [
+            "1687-9856"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "S1"
+  ],
+  "abstractText": [
+    "Lawson Wilkins is well known as the \"father\" of the field of pediatric endocrinology, and his scientific accomplishments and legacy are thoroughly documented in this edition and elsewhere. Less well known, though, is what the man himself was like. Here, his daughter, Elizabeth McMaster, recalls the personal side of Dr. Wilkins including his upbringing as the son of a prominent Baltimore doctor, his medical education, establishment of a successful pediatric practice, and eventually the founding of the endocrine clinic at Johns Hopkins. Interwoven with anecdotes and reminiscences, this account provides a vivid sense of Wilkins' personality and life, from his boisterous nature and devotion to his family and career, to the tragic personal losses he endured. He was a man who threw himself fully into everything he did, whether it was making his own liqueur during Prohibition, collecting specimens from abnormally large circus performers as part of his earliest endocrine research, arranging raucous, impromptu singing parties, sailing the Chesapeake with friends, writing a definitive textbook of Pediatric Endocrinology, training a legion of fellows, or the pioneering work for which he is still known today."
+  ],
+  "affiliation": [
+    "135 Lloyd Avenue, Providence, Rhode Island 02906, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25024712/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25024712/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1687-9856-2014-S1-S1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4080372"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4080372?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-05-26"
+  ],
+  "dateOfCreation": [
+    "2014-07-15"
+  ],
+  "firstIndexDate": [
+    "2014-07-16"
+  ],
+  "fullTextReceivedDate": [
+    "2014-07-17"
+  ],
+  "dateOfRevision": [
+    "2015-05-27"
+  ],
+  "firstPublicationDate": [
+    "2014-01-01"
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": [
+    "29417063"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29417063"
+  ],
+  "pmcid": [
+    "PMC5791467"
+  ],
+  "doi": [
+    "10.4103/jehp.jehp_79_17"
+  ],
+  "title": [
+    "The Effect of aerobic exercise on primary dysmenorrhea: A clinical trial study."
+  ],
+  "authorString": [
+    "Dehnavi ZM, Jafarnejad F, Kamali Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dehnavi ZM"
+          ],
+          "firstName": [
+            "Zahra Mohebbi"
+          ],
+          "lastName": [
+            "Dehnavi"
+          ],
+          "initials": [
+            "ZM"
+          ],
+          "affiliation": [
+            "Department of Midwifery, School of Nursing and Midwifery, Isfahan University of Medical Sciences, Isfahan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Jafarnejad F"
+          ],
+          "firstName": [
+            "Farzaneh"
+          ],
+          "lastName": [
+            "Jafarnejad"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Midwifery, Student Research Committee, School of Nursing and Midwifery, Mashhad University of Medical Sciences, Mashhad, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Kamali Z"
+          ],
+          "firstName": [
+            "Zahra"
+          ],
+          "lastName": [
+            "Kamali"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Midwifery, Student Research Committee, School of Nursing and Midwifery, Mashhad University of Medical Sciences, Mashhad, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2649719"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of education and health promotion"
+          ],
+          "ISOAbbreviation": [
+            "J Educ Health Promot"
+          ],
+          "medlineAbbreviation": [
+            "J Educ Health Promot"
+          ],
+          "NLMid": [
+            "101593794"
+          ],
+          "ISSN": [
+            "2277-9531"
+          ],
+          "ESSN": [
+            "2319-6440"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "3"
+  ],
+  "abstractText": [
+    "Primary dysmenorrhea without pelvic pathology is one of the most common complaints in women's medicine. Primary dysmenorrhea can affect the quality of life of women. Aerobic exercise is one of the ways to reduce the severity of primary dysmenorrhea. The present study aimed to determine the effect of 8 weeks of aerobic exercise on the severity of primary dysmenorrhea.This is a clinical trial study performed on 70 students with primary dysmenorrhea in dormitories of Mashhad University of Medical Sciences in 2015. Participants were randomly assigned to intervention and control groups. The instrument was a visual pain questionnaire completed by the two groups in the first 3 days of the menstrual cycle. The exercise protocol included aerobic exercise, which performed the intervention group for 8 weeks, three times a week, and each time for 30 min. Data were analyzed by Fisher and Chi-square tests.The control and intervention groups were homogeneous in terms of demographic characteristics. Results showed that the severity of primary dysmenorrhea at the beginning of the study was not significantly correlated with the two groups. At the end of the 4 weeks after the intervention, the intervention group did not show any significant changes in the control group (P = 0.423) but At the end of 8 weeks after the study, the intervention group showed significant changes compared to the control group (P = 0.041).The results of this study showed that performing aerobic exercise can improve primary dysmenorrhea. Therefore, aerobic exercise can be used to treat primary dysmenorrhea."
+  ],
+  "affiliation": [
+    "Department of Midwifery, School of Nursing and Midwifery, Isfahan University of Medical Sciences, Isfahan, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aerobic exercise",
+        "Pain Intensity",
+        "primary dysmenorrhea"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/jehp.jehp_79_17"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5791467"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-09"
+  ],
+  "firstIndexDate": [
+    "2018-02-09"
+  ],
+  "fullTextReceivedDate": [
+    "2018-02-09"
+  ],
+  "dateOfRevision": [
+    "2018-02-13"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-10"
+  ],
+  "firstPublicationDate": [
+    "2018-01-10"
+  ]
+}

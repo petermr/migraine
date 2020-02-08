@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="pediatricmusic/PMC1142204/results/word/frequencies/results.xml">
+  <result title="frequency" word="pain" count="129"/>
+  <result title="frequency" word="pediatric" count="73"/>
+  <result title="frequency" word="treatment" count="73"/>
+  <result title="frequency" word="children" count="70"/>
+  <result title="frequency" word="studies" count="59"/>
+  <result title="frequency" word="study" count="58"/>
+  <result title="frequency" word="effects" count="38"/>
+  <result title="frequency" word="group" count="38"/>
+  <result title="frequency" word="CAM" count="37"/>
+  <result title="frequency" word="patients" count="35"/>
+  <result title="frequency" word="use" count="31"/>
+  <result title="frequency" word="control" count="29"/>
+  <result title="frequency" word="hypnosis" count="29"/>
+  <result title="frequency" word="music" count="29"/>
+  <result title="frequency" word="interventions" count="28"/>
+  <result title="frequency" word="controlled" count="27"/>
+  <result title="frequency" word="intervention" count="26"/>
+  <result title="frequency" word="acupuncture" count="24"/>
+  <result title="frequency" word="compared" count="23"/>
+  <result title="frequency" word="efficacy" count="22"/>
+  <result title="frequency" word="massage" count="22"/>
+  <result title="frequency" word="(e.g." count="21"/>
+  <result title="frequency" word="migraine" count="21"/>
+ </snippets>
+</snippetsTree>

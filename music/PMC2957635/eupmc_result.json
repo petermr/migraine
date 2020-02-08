@@ -1,0 +1,366 @@
+{
+  "id": [
+    "20976017"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20976017"
+  ],
+  "pmcid": [
+    "PMC2957635"
+  ],
+  "doi": [
+    "10.1155/2011/464759"
+  ],
+  "title": [
+    "The effectiveness of music in pediatric healthcare: a systematic review of randomized controlled trials."
+  ],
+  "authorString": [
+    "Treurnicht Naylor K, Kingsnorth S, Lamont A, McKeever P, Macarthur C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Treurnicht Naylor K"
+          ],
+          "firstName": [
+            "Karline"
+          ],
+          "lastName": [
+            "Treurnicht Naylor"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Kingsnorth S"
+          ],
+          "firstName": [
+            "Shauna"
+          ],
+          "lastName": [
+            "Kingsnorth"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2051-7221",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lamont A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Lamont"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "McKeever P"
+          ],
+          "firstName": [
+            "Patricia"
+          ],
+          "lastName": [
+            "McKeever"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Macarthur C"
+          ],
+          "firstName": [
+            "Colin"
+          ],
+          "lastName": [
+            "Macarthur"
+          ],
+          "initials": [
+            "C"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2051-7221",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2011"
+      ],
+      "journalIssueId": [
+        "1766212"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "464759"
+  ],
+  "abstractText": [
+    "The aim of this study was to systematically review the effectiveness of music on pediatric health-related outcomes. Five electronic databases were searched for randomized controlled/crossover trial designs published between 1984 and 2009. Eligible studies used music as a therapy or intervention, included participants 1 to 18 years, and focused on at least one health-related outcome (with the exclusion of procedural pain). Seventeen studies met the inclusion criteria. Quantitative synthesis was hampered by an inability to aggregate data arising from heterogeneity of interventions, outcomes and measurement tools. Qualitative synthesis revealed significant improvements in one or more health outcomes within four of seven trials involving children with learning and developmental disorders; two of three trials involving children experiencing stressful life events; and four of five trials involving children with acute and/or chronic physical illness. No significant effects were found for two trials involving children with mood disorders and related psychopathology. These findings offer limited qualitative evidence to support the effectiveness of music on health-related outcomes for children and adolescents with clinical diagnoses. Recommendations for establishing a consensus on research priorities and addressing methodological limitations are put forth to support the continued advancement of this popular intervention."
+  ],
+  "affiliation": [
+    "Bloorview Research Institute, Holland Bloorview Kids Rehabilitation Hospital, Toronto, ON, Canada M4G 1R8."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20976017/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20976017/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2011/464759"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2957635"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2957635?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "extCommentList": [
+    {
+      "extComment": [
+        {
+          "extCommentSource": [
+            "CRD"
+          ],
+          "info1": [
+            "12010006776"
+          ],
+          "info2": [
+            "DARE"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2010-10-26"
+  ],
+  "firstIndexDate": [
+    "2010-10-30"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-20"
+  ],
+  "electronicPublicationDate": [
+    "2010-09-30"
+  ],
+  "firstPublicationDate": [
+    "2010-09-30"
+  ]
+}

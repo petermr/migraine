@@ -1,0 +1,281 @@
+{
+  "id": [
+    "26770282"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26770282"
+  ],
+  "pmcid": [
+    "PMC4702057"
+  ],
+  "doi": [
+    "10.3205/cto000123"
+  ],
+  "title": [
+    "Comprehensive review on endonasal endoscopic sinus surgery."
+  ],
+  "authorString": [
+    "Weber RK, Hosemann W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Weber RK"
+          ],
+          "firstName": [
+            "Rainer K"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "RK"
+          ],
+          "affiliation": [
+            "Division of Paranasal Sinus and Skull Base Surgery, Traumatology, Department of Otorhinolaryngology, Municipal Hospital of Karlsruhe, Germany; I-Sinus International Sinus Institute, Karlsruhe, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hosemann W"
+          ],
+          "firstName": [
+            "Werner"
+          ],
+          "lastName": [
+            "Hosemann"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Otorhinolaryngology, Head and Neck Surgery, University of Greifswald, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2364243"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "GMS current topics in otorhinolaryngology, head and neck surgery"
+          ],
+          "ISOAbbreviation": [
+            "GMS Curr Top Otorhinolaryngol Head Neck Surg"
+          ],
+          "medlineAbbreviation": [
+            "GMS Curr Top Otorhinolaryngol Head Neck Surg"
+          ],
+          "NLMid": [
+            "101275966"
+          ],
+          "ISSN": [
+            "1865-1011"
+          ],
+          "ESSN": [
+            "1865-1011"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "Doc08"
+  ],
+  "abstractText": [
+    "Endonasal endoscopic sinus surgery is the standard procedure for surgery of most paranasal sinus diseases. Appropriate frame conditions provided, the respective procedures are safe and successful. These prerequisites encompass appropriate technical equipment, anatomical oriented surgical technique, proper patient selection, and individually adapted extent of surgery. The range of endonasal sinus operations has dramatically increased during the last 20 years and reaches from partial uncinectomy to pansinus surgery with extended surgery of the frontal (Draf type III), maxillary (grade 3-4, medial maxillectomy, prelacrimal approach) and sphenoid sinus. In addition there are operations outside and beyond the paranasal sinuses. The development of surgical technique is still constantly evolving. This article gives a comprehensive review on the most recent state of the art in endoscopic sinus surgery according to the literature with the following aspects: principles and fundamentals, surgical techniques, indications, outcome, postoperative care, nasal packing and stents, technical equipment."
+  ],
+  "affiliation": [
+    "Division of Paranasal Sinus and Skull Base Surgery, Traumatology, Department of Otorhinolaryngology, Municipal Hospital of Karlsruhe, Germany; I-Sinus International Sinus Institute, Karlsruhe, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nasal Packing",
+        "Fess",
+        "Endoscopic Sinus Surgery",
+        "Outcome After Sinus Surgery",
+        "Postoperative Care After Sinus Surgery"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3205/cto000123"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4702057"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4702057?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "14"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-01-15"
+  ],
+  "dateOfCreation": [
+    "2016-01-16"
+  ],
+  "firstIndexDate": [
+    "2016-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2016-01-16"
+  ],
+  "dateOfRevision": [
+    "2018-02-09"
+  ],
+  "electronicPublicationDate": [
+    "2015-12-22"
+  ],
+  "firstPublicationDate": [
+    "2015-12-22"
+  ]
+}

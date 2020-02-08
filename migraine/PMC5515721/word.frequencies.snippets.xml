@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC5515721/results/word/frequencies/results.xml">
+  <result title="frequency" word="(.)" count="77"/>
+  <result title="frequency" word="migraine" count="59"/>
+  <result title="frequency" word="topiramate" count="58"/>
+  <result title="frequency" word="placebo" count="39"/>
+  <result title="frequency" word="headache" count="30"/>
+  <result title="frequency" word="included" count="29"/>
+  <result title="frequency" word="trials" count="28"/>
+  <result title="frequency" word="patients" count="27"/>
+  <result title="frequency" word="Headache" count="24"/>
+  <result title="frequency" word="meta-analysis" count="22"/>
+ </snippets>
+</snippetsTree>

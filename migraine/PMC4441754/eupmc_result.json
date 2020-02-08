@@ -1,0 +1,458 @@
+{
+  "id": [
+    "25956377"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25956377"
+  ],
+  "pmcid": [
+    "PMC4441754"
+  ],
+  "doi": [
+    "10.2196/mhealth.3879"
+  ],
+  "title": [
+    "Testing the Feasibility and Psychometric Properties of a Mobile Diary (myWHI) in Adolescents and Young Adults With Headaches."
+  ],
+  "authorString": [
+    "Huguet A, McGrath PJ, Wheaton M, Mackinnon SP, Rozario S, Tougas ME, Stinson JN, MacLean C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Huguet A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Huguet"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4002-8644",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "IWK Health Centre, Centre for Research in Family Health, Halifax, NS, Canada. anna.huguet@iwk.nshealth.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "McGrath PJ"
+          ],
+          "firstName": [
+            "Patrick J"
+          ],
+          "lastName": [
+            "McGrath"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9568-2571",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wheaton M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Wheaton"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7743-1202",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mackinnon SP"
+          ],
+          "firstName": [
+            "Sean P"
+          ],
+          "lastName": [
+            "Mackinnon"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0921-9589",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rozario S"
+          ],
+          "firstName": [
+            "Sharlene"
+          ],
+          "lastName": [
+            "Rozario"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1523-294X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tougas ME"
+          ],
+          "firstName": [
+            "Michelle E"
+          ],
+          "lastName": [
+            "Tougas"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0015-6705",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stinson JN"
+          ],
+          "firstName": [
+            "Jennifer N"
+          ],
+          "lastName": [
+            "Stinson"
+          ],
+          "initials": [
+            "JN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9969-8052",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "MacLean C"
+          ],
+          "firstName": [
+            "Cathy"
+          ],
+          "lastName": [
+            "MacLean"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4808-3656",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4002-8644",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0015-6705",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9969-8052",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4808-3656",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7743-1202",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9568-2571",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0921-9589",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1523-294X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2271157"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JMIR mHealth and uHealth"
+          ],
+          "ISOAbbreviation": [
+            "JMIR Mhealth Uhealth"
+          ],
+          "medlineAbbreviation": [
+            "JMIR Mhealth Uhealth"
+          ],
+          "NLMid": [
+            "101624439"
+          ],
+          "ISSN": [
+            "2291-5222"
+          ],
+          "ESSN": [
+            "2291-5222"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "e39"
+  ],
+  "abstractText": [
+    "BACKGROUND: Headaches are prevalent among teens and young adults. Self-monitoring is essential for managing headaches and can be accomplished with the help of electronic headache diaries. An increasing number of electronic headache diaries exist, yet the absence of quality standards compromises their use for research and clinical purposes. OBJECTIVE: Our goal was to develop and test the usability, feasibility, and psychometric properties of an electronic diary iPhone application for self-monitoring by adolescents and young adults with headaches. METHODS: We used an iterative participatory design to develop and test our electronic headache diary. Participants aged 14-28 years old with recurrent headaches were recruited internationally. Screening and consent were conducted online. Following completion of an online pre-questionnaire, participants downloaded the diary to use in their natural environment for 14 days. An online post-questionnaire was completed following testing. The diary's usability and feasibility were tested first and determined to be complete when improvements to the diary did not result in a statistically significant impact on indicators of feasibility and adherence. Interviews were conducted with participants of usability and feasibility testing. The psychometric properties of the diary were then tested, and a case study analysis of one participant was completed. RESULTS: Three cycles to test the usability and feasibility were conducted. Each cycle included 11-19 unique participants ranging in age from 16 to 28 years. Following the testing period for each cycle, 15% to 25% of participants took part in the post-cycle interview. Participants perceived the final version of the diary as useful, easy to learn, and efficient to use. Psychometric properties were then tested with a sample of 65 participants (6 aged 14-17 years old; 59 aged 18-28 years old). All items in the diary had substantial between- and within-subjects variability (percent of variance for the two participant groups ranged from 20.64 to 75.60 and 23.74 to 79.21, respectively). Moreover, the Migraine Disability Assessment (MIDAS) included in the diary had adequate between-subjects reliability (R1F=0.66, RKF=0.98), but low within-subjects reliability (RC=0.51). Critical elements of the diary demonstrated adequate convergent and concurrent validity, particularly in the older age group (18-28 years). The validity of some critical elements of the diary could not be explored in the younger age group due to the small subgroup size. The case study provides an example of the potential utility of the diary. CONCLUSIONS: Our electronic headache diary was shown to be a usable and feasible self-monitoring tool when used by adolescents and young adults with headaches for 14 days. This study provides preliminary support of its psychometric properties. Our diary has the potential for helping users to better understand their headaches and, consequently, to change behaviors to improve self-management of their headaches. Its effectiveness as a component of an intervention will be the focus of future research."
+  ],
+  "affiliation": [
+    "IWK Health Centre, Centre for Research in Family Health, Halifax, NS, Canada. anna.huguet@iwk.nshealth.ca."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Feasibility",
+        "Headache",
+        "Psychometric Properties",
+        "Smartphone",
+        "Diary"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2196/mhealth.3879"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4441754"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-05-09"
+  ],
+  "dateOfCreation": [
+    "2015-05-09"
+  ],
+  "firstIndexDate": [
+    "2015-05-10"
+  ],
+  "fullTextReceivedDate": [
+    "2015-06-11"
+  ],
+  "dateOfRevision": [
+    "2015-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2015-05-08"
+  ],
+  "firstPublicationDate": [
+    "2015-05-08"
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "id": [
+    "31757059"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31757059"
+  ],
+  "pmcid": [
+    "PMC6926624"
+  ],
+  "doi": [
+    "10.3390/ijerph16234607"
+  ],
+  "title": [
+    "Vitamin D Deficiency and Unclear Abdominal Pain in Patients from Low- and Middle-Income Countries."
+  ],
+  "authorString": [
+    "Doulberis M, Papaefthymiou A, Kountouras J, Polyzos SA, Srivastava S, Klokowska-Röetzler J, Perrig M, Papoutsi S, Exadaktylos AΚ, Srivastava DS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Doulberis M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Doulberis"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0396-5081",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Gastroenterology and Hepatology, Zurich University, 8091 Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Papaefthymiou A"
+          ],
+          "firstName": [
+            "Apostolis"
+          ],
+          "lastName": [
+            "Papaefthymiou"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3563-4973",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Second Medical Clinic, Faculty of Medicine, Ippokration Hospital, Aristotle University of Thessaloniki, 54642 Thessaloniki, Macedonia, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Kountouras J"
+          ],
+          "firstName": [
+            "Jannis"
+          ],
+          "lastName": [
+            "Kountouras"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Second Medical Clinic, Faculty of Medicine, Ippokration Hospital, Aristotle University of Thessaloniki, 54642 Thessaloniki, Macedonia, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Polyzos SA"
+          ],
+          "firstName": [
+            "Stergios A"
+          ],
+          "lastName": [
+            "Polyzos"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9232-4042",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "First Department of Pharmacology, Faculty of Medicine, Aristotle University of Thessaloniki, 54124 Thessaloniki, Macedonia, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Srivastava S"
+          ],
+          "firstName": [
+            "Simone"
+          ],
+          "lastName": [
+            "Srivastava"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Visceral Medicine and Surgery, University Hospital Inselspital, 3010 Bern, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Klokowska-Röetzler J"
+          ],
+          "firstName": [
+            "Jolanta"
+          ],
+          "lastName": [
+            "Klokowska-Röetzler"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7956-2724",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Emergency Department, University Hospital Inselspital, 3010 Bern, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Perrig M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Perrig"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of General Internal Medicine, University Hospital Inselspital Bern, 3010 Bern, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Papoutsi S"
+          ],
+          "firstName": [
+            "Sylvana"
+          ],
+          "lastName": [
+            "Papoutsi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Visceral Medicine and Surgery, University Hospital Inselspital, 3010 Bern, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Exadaktylos AΚ"
+          ],
+          "firstName": [
+            "Aristomenis Κ"
+          ],
+          "lastName": [
+            "Exadaktylos"
+          ],
+          "initials": [
+            "AΚ"
+          ],
+          "affiliation": [
+            "Emergency Department, University Hospital Inselspital, 3010 Bern, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Srivastava DS"
+          ],
+          "firstName": [
+            "David Shiva"
+          ],
+          "lastName": [
+            "Srivastava"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Emergency Department, University Hospital Inselspital, 3010 Bern, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3563-4973",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0396-5081",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9232-4042",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7956-2724",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "23"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2884447"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Background: Abdominal pain is one of the commonest symptoms in emergency departments (EDs). Diagnosis demands full attention and critical thinking, since many diseases manifest atypically and the consequences of overlooking the symptoms may be disastrous. Despite intensive diagnostic procedures, some cases remain elusive and unclear abdominal pain (UAP) is not infrequent. Emerging evidence supports the hypothesis that functional pain might be attributed to vitamin D deficiency (VDD). People with darker or covered skin are predisposed to developing VDD. Patients in Switzerland stemming from low- and middle-income countries (LMIC) are such a population. Aim: To identify cases with UAP in LMIC patients and to compare vitamin D status with a control group. Methods: A retrospective single-center case-control study was carried out from 1 January 2013 to 31 August 2016 in all adult patients (more than 16 years old) stemming from LMIC and presenting at the university ED of Bern with abdominal pain. Vitamin D status was retrieved from these cases when available. The control group consisted of patients without abdominal pain or metabolic diseases and was matched (1:1) to the cases for age, gender, body mass index, geographic distribution, and season of vitamin D estimation. Results: A total of 10,308 cases from LMIC were reported to the ED. In total, 223 cases were identified with UAP. The status of vitamin D was available for 27 patients; 27 matched individuals were subsequently retrieved for the control group. Women made up 56.7% of the UAP group and 43.3% of the control group. The most common origin of the LMIC subjects was southern Europe (20.4%), followed by southern Asia (16.7%) and Eastern Europe (13%). Fourteen UAP patients exhibited severe VDD (< 25 nmol/L) versus one in the control group (p = 0.001). The difference remained significant if the patients were identified as having VDD (<50 nmol/L) or not (p = 0.024). Comparison of the means indicated that the UAP group had lower vitamin D levels than the control group (41.3 vs. 53.7 nmol/L, respectively), but this difference was marginal (p = 0.060) and not statistically significant. After adjustment for potential confounders, including gender, mean vitamin D levels remained non-significantly different between groups. In the sub-group analysis, vitamin D levels were lower in women than in men (p = 0.037), compared to the respective controls. Conclusion: This study showed for the first time that patients from LMIC who presented to ED with UAP displayed VDD. Validation from larger studies is warranted to evaluate the linkage of VDD with UAP."
+  ],
+  "affiliation": [
+    "Department of Gastroenterology and Hepatology, Zurich University, 8091 Zurich, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vitamin D",
+        "Migrants",
+        "Abdominal Pain",
+        "Emergency Department",
+        "Low Income",
+        "Middle Income",
+        "Irritable Bowel Syndrome (Ibs)1. Introduction"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph16234607"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6926624"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6926624?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-24"
+  ],
+  "firstIndexDate": [
+    "2019-11-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2020-01-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-20"
+  ],
+  "firstPublicationDate": [
+    "2019-11-20"
+  ]
+}

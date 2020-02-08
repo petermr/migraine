@@ -1,0 +1,290 @@
+{
+  "id": [
+    "31607113"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31607113"
+  ],
+  "pmcid": [
+    "PMC6790872"
+  ],
+  "doi": [
+    "10.6065/apem.2019.24.3.195"
+  ],
+  "title": [
+    "Primary hyperparathyroidism versus familial hypocalciuric hypercalcemia: a challenging diagnostic evaluation in an adolescent female."
+  ],
+  "authorString": [
+    "Tosur M, Lopez ME, Paul DL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tosur M"
+          ],
+          "firstName": [
+            "Mustafa"
+          ],
+          "lastName": [
+            "Tosur"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Section of Diabetes and Endocrinology, Department of Pediatrics, Texas Children's Hospital, Baylor College of Medicine, Houston, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lopez ME"
+          ],
+          "firstName": [
+            "Monica E"
+          ],
+          "lastName": [
+            "Lopez"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Department of Surgery and Pediatrics, Texas Children's Hospital, Baylor College of Medicine, Houston, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Paul DL"
+          ],
+          "firstName": [
+            "David L"
+          ],
+          "lastName": [
+            "Paul"
+          ],
+          "initials": [
+            "DL"
+          ],
+          "affiliation": [
+            "Section of Diabetes and Endocrinology, Department of Pediatrics, Texas Children's Hospital, Baylor College of Medicine, Houston, TX, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2871088"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Annals of pediatric endocrinology & metabolism"
+          ],
+          "ISOAbbreviation": [
+            "Ann Pediatr Endocrinol Metab"
+          ],
+          "medlineAbbreviation": [
+            "Ann Pediatr Endocrinol Metab"
+          ],
+          "NLMid": [
+            "101588279"
+          ],
+          "ISSN": [
+            "2287-1012"
+          ],
+          "ESSN": [
+            "2287-1292"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "195-198"
+  ],
+  "abstractText": [
+    "Primary hyperparathyroidism (PHPT) and familial hypocalciuric hypercalcemia (FHH) have significantly different treatment approaches, so physicians must be careful to differentiate these 2 diseases. Herein, we report a 14-year-old female who presented with symptomatic hypercalcemia (12 mg/dL; reference range, 9.2-10.7 mg/dL), elevated intact parathyroid hormone (iPTH) (236 pg/mL; reference range, 9-69 pg/mL), and vitamin D deficiency (6 ng/mL; reference range, ≥ 20 ng/mL). On numerous occasions, her 24-hour urine calcium was more than 4 mg/kg/day, consistent with PHPT, but her fractional excretion of calcium on 24-hour urine collection was consistently below 1%, in line with FHH. 99mTc-Sestamibi scan failed to detect any abnormalities. However, a 4-dimensional computed tomography scan of the neck revealed a right superior parathyroid adenoma which was excised with a focused parathyroidectomy. Although the patient's calcium and iPTH levels normalized, her nonspecific symptoms persisted. This case illustrates both the challenges of differentiating PHPT from FHH and the limitations of a first-line imaging tool in identifying a parathyroid adenoma."
+  ],
+  "affiliation": [
+    "Section of Diabetes and Endocrinology, Department of Pediatrics, Texas Children's Hospital, Baylor College of Medicine, Houston, TX, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Parathyroid hormone",
+        "Parathyroid adenoma",
+        "Hypercalcemia",
+        "Primary Hyperparathyroidism",
+        "Familial Hypocalciuric Hypocalcemia"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.6065/apem.2019.24.3.195"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6790872"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6790872?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-15"
+  ],
+  "firstIndexDate": [
+    "2019-10-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-25"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-30"
+  ],
+  "firstPublicationDate": [
+    "2019-09-30"
+  ]
+}

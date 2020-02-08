@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6802300/results/search/disease/results.xml">
+  <result pre="headache OR post-traumatic headache OR posttraumatic headache OR post traumatic" exact="migraine" post="OR post-traumatic migraine OR posttraumatic migraine OR post concussion"/>
+  <result pre="headache OR posttraumatic headache OR post traumatic migraine OR post-traumatic" exact="migraine" post="OR posttraumatic migraine OR post concussion headache OR post-concussion"/>
+  <result pre="headache OR post traumatic migraine OR post-traumatic migraine OR posttraumatic" exact="migraine" post="OR post concussion headache OR post-concussion headache OR post"/>
+  <result pre="OR post concussion headache OR post-concussion headache OR post concussion" exact="migraine" post="OR post-concussion migraine) AND (treatment OR therapy) . The"/>
+  <result pre="(ED) based study investigated the treatment response of intravenous acute" exact="migraine" post="therapies in an adolescent (aged 8–21 years) group consisting of"/>
+  <result pre="suffered a non-blast mTBI. In addition, 52% screened positive for" exact="post-traumatic stress disorder," post="while 38% screened positive for depression. More than 90%"/>
+  <result pre="across clinical trials with both acute and preventive medications for" exact="migraine" post="[ 16– 18]. A similar placebo effect could be"/>
+  <result pre="responses to pharmacological treatment have previously been reported in pediatric" exact="migraine" post="patients [ 19]. Furthermore, the studies were also considerably"/>
+  <result pre="guidelines for controlled trials of acute and preventive treatment of" exact="migraine" post="[ 20, 21]. These guidelines could serve as inspiration,"/>
+  <result pre="would enable us to compare efficacy of acute and preventive" exact="migraine" post="drugs between PTH and migraine patients. Lastly, PTH patients"/>
+  <result pre="efficacy of acute and preventive migraine drugs between PTH and" exact="migraine" post="patients. Lastly, PTH patients often present with a plethora"/>
+  <result pre="12. Chan Steven Kurowski Brad Byczkowski Terri Timm Nathan Intravenous" exact="migraine" post="therapy in children with posttraumatic headache in the ED"/>
+  <result pre="Baños JE A meta-analysis of the placebo response in acute" exact="migraine" post="and how this response may be influenced by some"/>
+  <result pre="G Davies B et al. Cessation versus continuation of 6-month" exact="migraine" post="preventive therapy with topiramate (PROMPT): a randomised, double-blind, placebo-controlled"/>
+  <result pre="et al. Trial of amitriptyline, Topiramate, and placebo for pediatric" exact="migraine" post="N Engl J Med 2016 376 2 115 124"/>
+  <result pre="headache society for controlled trials of preventive treatment of chronic" exact="migraine" post="in adults Cephalalgia. 2018 38 5 815 832 10.1177/0333102418758283"/>
+  <result pre="international headache society for controlled trials of acute treatment of" exact="migraine" post="attacks in adults: fourth edition Cephalalgia. 2019 39 6"/>
+ </snippets>
+</snippetsTree>

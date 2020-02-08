@@ -1,0 +1,313 @@
+{
+  "id": [
+    "27398280"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27398280"
+  ],
+  "pmcid": [
+    "PMC4937006"
+  ],
+  "doi": [
+    "10.1186/s40064-016-2362-7"
+  ],
+  "title": [
+    "Does complementary and alternative medicine (CAM) use reduce negative life impact of headaches for chronic migraineurs? A national survey."
+  ],
+  "authorString": [
+    "Lee J, Bhowmick A, Wachholtz A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee J"
+          ],
+          "firstName": [
+            "Jieun"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Psychology Department, Chung-Ang University, 84 Heukseok-ro, Dongjak-gu, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Bhowmick A"
+          ],
+          "firstName": [
+            "Amrita"
+          ],
+          "lastName": [
+            "Bhowmick"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "VP Community Development, Health Union LLC, 1 International Plaza, Philadelphia, PA 19113 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wachholtz A"
+          ],
+          "firstName": [
+            "Amy"
+          ],
+          "lastName": [
+            "Wachholtz"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Colorado Denver, Denver, CO 80204 USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2423283"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SpringerPlus"
+          ],
+          "ISOAbbreviation": [
+            "Springerplus"
+          ],
+          "medlineAbbreviation": [
+            "Springerplus"
+          ],
+          "NLMid": [
+            "101597967"
+          ],
+          "ISSN": [
+            "2193-1801"
+          ],
+          "ESSN": [
+            "2193-1801"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "1006"
+  ],
+  "abstractText": [
+    "Chronic migraine is a disabling condition that impacts multiple aspects of migraineurs' lives. Although pharmacological treatments can help to treat the pain associated with migraine headache, chronic migraineurs often experience side-effects of pharmacological treatments. Those experiences may contribute to the observed growth in complementary and alternative medicine (CAM) use among migraineurs. Relatively little is known about the patterns of CAM treatment and the characteristics of chronic migraineurs. Therefore, the purpose of the present study is to investigate the characteristics of chronic migraineurs who use CAM treatment and the relationship among satisfaction with current CAM use, negative life impact, migraine outcomes, and psychiatric comorbidities among chronic migraineurs.2907 participants were recruited from a well-known online migraine headache resource. All participants were US adults aged 18 years or older. Migraineurs are referred to this website through various routes (e.g., referral from healthcare providers, internet search, obtaining information from research papers, personal invitation from other users, and information shared on social media etc.). Participants completed a 30-min self-report-survey in the spring of 2014.Almost half of the participants reported that they are currently using more than three different CAM treatments even though the majority of the participants reported neutral or dissatisfied with their current CAM treatment. Chronic migraineurs who use CAM treatments were more likely to experience prolonged or frequent migraine headaches (p = .018, η(2) = .0021), and experience greater negative life impact from their headaches (p = .000, η(2) = .0172) compared to non-CAM users. CAM treatment satisfaction was inversely related to the number of psychiatric comorbidities, frequency of migraines, and number of migraine symptoms (p's < .05). However, CAM treatment satisfaction was more strongly correlated with migraine outcomes than psychiatric comorbidities.Chronic migraineurs often pursue multiple CAM treatments in spite of low levels of satisfaction with those treatments. Patients who experience relief from traditional treatments are less likely to seek the out additional CAM treatments. Thus it is often the sicker migraine patients who use CAM. More attention is needed to consider migraine treatment resistance, and psychological factors in planning the treatment of chronic migraineurs as those factors may play an important role in treatment choices by patients."
+  ],
+  "affiliation": [
+    "Psychology Department, Chung-Ang University, 84 Heukseok-ro, Dongjak-gu, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K23 DA030397"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Psychiatric Comorbidities",
+        "Chronic Migraineurs",
+        "Cam Treatment Satisfaction",
+        "Migraine Outcomes",
+        "Negative Life Impact"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40064-016-2362-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4937006"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4937006?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-07-11"
+  ],
+  "dateOfCreation": [
+    "2016-07-11"
+  ],
+  "firstIndexDate": [
+    "2016-07-12"
+  ],
+  "fullTextReceivedDate": [
+    "2016-07-10"
+  ],
+  "dateOfRevision": [
+    "2016-10-19"
+  ],
+  "electronicPublicationDate": [
+    "2016-07-07"
+  ],
+  "firstPublicationDate": [
+    "2016-07-07"
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "id": [
+    "30564780"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30564780"
+  ],
+  "pmcid": [
+    "PMC6293067"
+  ],
+  "doi": [
+    "10.1002/epi4.12278"
+  ],
+  "title": [
+    "Bidirectional relations among common psychiatric and neurologic comorbidities and epilepsy: Do they have an impact on the course of the seizure disorder?"
+  ],
+  "authorString": [
+    "Kanner AM, Ribot R, Mazarati A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kanner AM"
+          ],
+          "firstName": [
+            "Andres M"
+          ],
+          "lastName": [
+            "Kanner"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Comprehensive Epilepsy Center and Epilepsy Division Department of Neurology Miller School of Medicine University of Miami Miami Florida U.S.A."
+          ]
+        },
+        {
+          "fullName": [
+            "Ribot R"
+          ],
+          "firstName": [
+            "Ramses"
+          ],
+          "lastName": [
+            "Ribot"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Comprehensive Epilepsy Center and Epilepsy Division Department of Neurology Miller School of Medicine University of Miami Miami Florida U.S.A."
+          ]
+        },
+        {
+          "fullName": [
+            "Mazarati A"
+          ],
+          "firstName": [
+            "Andrey"
+          ],
+          "lastName": [
+            "Mazarati"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatrics and Children's Discovery and Innovation Institute D. Geffen School of Medicine at UCLA Los Angeles California U.S.A."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl Suppl 2"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2761336"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Epilepsia open"
+          ],
+          "ISOAbbreviation": [
+            "Epilepsia Open"
+          ],
+          "medlineAbbreviation": [
+            "Epilepsia Open"
+          ],
+          "NLMid": [
+            "101692036"
+          ],
+          "ISSN": [
+            "2470-9239"
+          ],
+          "ESSN": [
+            "2470-9239"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "210-219"
+  ],
+  "abstractText": [
+    "The treatment of epilepsy is not limited to the achievement of a seizure-free state. It must also incorporate the management of common psychiatric and neurologic comorbidities, affecting on average between 30 and 50% of patients with epilepsy, which have a significant impact on their lives at various levels, including quality of life and the prognosis of the seizure disorder. Mood and anxiety disorders are the most frequent psychiatric comorbidities, whereas stroke and migraine are among the more common neurologic comorbidities, migraine among the younger patients and stroke among the older patients. Not only do these psychiatric and neurologic comorbidities each have a bidirectional relation with epilepsy, but primary mood disorders have a bidirectional relation with these 2 neurologic disorders. Furthermore, depression and migraine have been each associated with a more severe epilepsy course, whereas depression has been associated with a more severe course of stroke and migraines. The purpose of this article is to review the clinical implications of the complex relations among epilepsy and these 3 comorbid disorders, and to identify any clinical and/or experimental evidence that may suggest that having more than one of these comorbid disorders may increase the risk of and course of epilepsy."
+  ],
+  "affiliation": [
+    "Comprehensive Epilepsy Center and Epilepsy Division Department of Neurology Miller School of Medicine University of Miami Miami Florida U.S.A."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Stroke",
+        "Major Depressive Episodes",
+        "Treatment‐resistant Epilepsy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/epi4.12278"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6293067"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6293067?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-20"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-21"
+  ],
+  "dateOfRevision": [
+    "2018-12-21"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-20"
+  ],
+  "firstPublicationDate": [
+    "2018-11-20"
+  ]
+}

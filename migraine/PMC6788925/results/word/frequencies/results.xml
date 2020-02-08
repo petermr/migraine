@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="stroke" count="9"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="cerebral" count="7"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="Lattanzi" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="Cortical" count="5"/>
+ <result title="frequency" word="Silvestrini" count="5"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="infarct" count="5"/>
+ <result title="frequency" word="ischemic" count="5"/>
+ <result title="frequency" word="migraine" count="5"/>
+ <result title="frequency" word="necrosis" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="CLN" count="4"/>
+ <result title="frequency" word="Migraine" count="4"/>
+ <result title="frequency" word="Rural" count="4"/>
+ <result title="frequency" word="Stroke" count="4"/>
+ <result title="frequency" word="acute" count="4"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="brain" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="outcome" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+</results>

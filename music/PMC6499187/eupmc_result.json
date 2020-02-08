@@ -1,0 +1,274 @@
+{
+  "id": [
+    "31105538"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31105538"
+  ],
+  "pmcid": [
+    "PMC6499187"
+  ],
+  "doi": [
+    "10.3389/fnhum.2019.00114"
+  ],
+  "title": [
+    "Transcranial Direct Current Stimulation Use in Warfighting: Benefits, Risks, and Future Prospects."
+  ],
+  "authorString": [
+    "Davis SE, Smith GA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Davis SE"
+          ],
+          "firstName": [
+            "Steven E"
+          ],
+          "lastName": [
+            "Davis"
+          ],
+          "initials": [
+            "SE"
+          ],
+          "affiliation": [
+            "Joint and Operational Analysis Division, Defence Science and Technology Group, Edinburgh, SA, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith GA"
+          ],
+          "firstName": [
+            "Glen A"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "GA"
+          ],
+          "affiliation": [
+            "Institute of Integrated and Intelligent Systems, Griffith University, Nathan, QLD, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2776216"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "114"
+  ],
+  "abstractText": [
+    "Transcranial direct current stimulation (tDCS) is a non-invasive brain stimulation technique which provides unique potential to directly improve human capability on a temporary, at needs, basis. The purpose of this paper is to consider the utility of tDCS through analysis of the potential risks and benefits in the context of defence service personnel. First, we look at the potential benefits, focusing primarily on warfighter survivability and enriching cognition quality in support of command and control. Second, we look at the potential detriments to tDCS military use, focusing on adverse effects, safety considerations, and risk. Third, we examine how the level of risk can be mitigated through military doctrine development focusing on safety parameters and exclusion criteria. Finally, we explore the future prospects of military tDCS use, particularly in terms of addressing gaps in the literature so that tDCS can be used ethically and efficaciously at the level of individual personnel."
+  ],
+  "affiliation": [
+    "Joint and Operational Analysis Division, Defence Science and Technology Group, Edinburgh, SA, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Decision Making",
+        "Biomedical Enhancement",
+        "Military",
+        "Brain Stimulation",
+        "Transcranial Direct Current Stimulation",
+        "Cognitive Enhancement",
+        "Tdcs",
+        "Neuro-enhancement"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2019.00114"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6499187"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6499187?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-21"
+  ],
+  "firstIndexDate": [
+    "2019-05-20"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-21"
+  ],
+  "dateOfRevision": [
+    "2019-05-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-18"
+  ],
+  "firstPublicationDate": [
+    "2019-04-18"
+  ]
+}

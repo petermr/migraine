@@ -1,0 +1,458 @@
+{
+  "id": [
+    "31241819"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31241819"
+  ],
+  "pmcid": [
+    "PMC6899751"
+  ],
+  "doi": [
+    "10.1111/nmo.13604"
+  ],
+  "title": [
+    "Guidelines on management of cyclic vomiting syndrome in adults by the American Neurogastroenterology and Motility Society and the Cyclic Vomiting Syndrome Association."
+  ],
+  "authorString": [
+    "Venkatesan T, Levinthal DJ, Tarbell SE, Jaradeh SS, Hasler WL, Issenman RM, Adams KA, Sarosiek I, Stave CD, Sharaf RN, Sultan S, Li BUK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Venkatesan T"
+          ],
+          "firstName": [
+            "Thangam"
+          ],
+          "lastName": [
+            "Venkatesan"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Division of Gastroenterology and Hepatology, Medical College of Wisconsin, Milwaukee, Wisconsin."
+          ]
+        },
+        {
+          "fullName": [
+            "Levinthal DJ"
+          ],
+          "firstName": [
+            "David J"
+          ],
+          "lastName": [
+            "Levinthal"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Division of Gastroenterology, Hepatology and Nutrition, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania."
+          ]
+        },
+        {
+          "fullName": [
+            "Tarbell SE"
+          ],
+          "firstName": [
+            "Sally E"
+          ],
+          "lastName": [
+            "Tarbell"
+          ],
+          "initials": [
+            "SE"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Northwestern Feinberg School of Medicine, Chicago, Illinois."
+          ]
+        },
+        {
+          "fullName": [
+            "Jaradeh SS"
+          ],
+          "firstName": [
+            "Safwan S"
+          ],
+          "lastName": [
+            "Jaradeh"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Stanford University Medical School, Stanford, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Hasler WL"
+          ],
+          "firstName": [
+            "William L"
+          ],
+          "lastName": [
+            "Hasler"
+          ],
+          "initials": [
+            "WL"
+          ],
+          "affiliation": [
+            "University of Michigan Health System, Ann Arbor, Michigan."
+          ]
+        },
+        {
+          "fullName": [
+            "Issenman RM"
+          ],
+          "firstName": [
+            "Robert M"
+          ],
+          "lastName": [
+            "Issenman"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "Division of Pediatric Gastroenterology, McMaster University, Hamilton, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Adams KA"
+          ],
+          "firstName": [
+            "Kathleen A"
+          ],
+          "lastName": [
+            "Adams"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "affiliation": [
+            "Cyclic Vomiting Syndrome Association, Milwaukee, Wisconsin."
+          ]
+        },
+        {
+          "fullName": [
+            "Sarosiek I"
+          ],
+          "firstName": [
+            "Irene"
+          ],
+          "lastName": [
+            "Sarosiek"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Division of Gastroenterology, Texas Tech University Health Sciences Center, El Paso, Texas."
+          ]
+        },
+        {
+          "fullName": [
+            "Stave CD"
+          ],
+          "firstName": [
+            "Christopher D"
+          ],
+          "lastName": [
+            "Stave"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8232-3994",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Stanford University Medical School, Stanford, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharaf RN"
+          ],
+          "firstName": [
+            "Ravi N"
+          ],
+          "lastName": [
+            "Sharaf"
+          ],
+          "initials": [
+            "RN"
+          ],
+          "affiliation": [
+            "Division of Gastroenterology, Department of Healthcare Policy and Research, Weill Cornell Medical Center, New York, New York."
+          ]
+        },
+        {
+          "fullName": [
+            "Sultan S"
+          ],
+          "firstName": [
+            "Shahnaz"
+          ],
+          "lastName": [
+            "Sultan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Minneapolis VA Health Care System, Minneapolis, Minnesota."
+          ]
+        },
+        {
+          "fullName": [
+            "Li BUK"
+          ],
+          "firstName": [
+            "B U K"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "BUK"
+          ],
+          "affiliation": [
+            "Division of Gastroenterology, Department of Pediatrics, Medical College of Wisconsin, Milwaukee, Wisconsin."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8232-3994",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "31 Suppl 2"
+      ],
+      "journalIssueId": [
+        "2831214"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neurogastroenterology and motility : the official journal of the European Gastrointestinal Motility Society"
+          ],
+          "ISOAbbreviation": [
+            "Neurogastroenterol. Motil."
+          ],
+          "medlineAbbreviation": [
+            "Neurogastroenterol Motil"
+          ],
+          "NLMid": [
+            "9432572"
+          ],
+          "ISSN": [
+            "1350-1925"
+          ],
+          "ESSN": [
+            "1365-2982"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e13604"
+  ],
+  "abstractText": [
+    "The increasing recognition of cyclic vomiting syndrome (CVS) in adults prompted the development of these evidence-based guidelines on the management of CVS in adults, which was sponsored by the American Neurogastroenterology and Motility Society (ANMS) and the Cyclic Vomiting Syndrome Association (CVSA). GRADE (Grading of Recommendations, Assessment, Development, and Evaluation) framework was used and a professional librarian performed the literature search. The expert committee included the President of the CVSA who brought a patient perspective into the deliberations. The committee makes recommendations for the prophylaxis of CVS, treatment of acute attacks, diagnosis, and overall management of CVS. The committee strongly  recommends that adults with moderate-to-severe CVS receive a tricyclic antidepressant (TCA), such as amitriptyline, as a first-line prophylactic medication and receive topiramate or aprepitant as alternate prophylactic medications. Zonisamide or levetiracetam and mitochondrial supplements (Coenzyme Q10, L-carnitine, and riboflavin) are conditionally recommended as alternate prophylactic medications, either alone or concurrently with other prophylactic medications. For acute attacks, the committee conditionally recommends using serotonin antagonists, such as ondansetron, and/or triptans, such as sumatriptan or aprepitant to abort symptoms. Emergency department treatment is best achieved with the use of an individualized treatment protocol and shared with the care team (example provided). The committee recommended screening and treatment for comorbid conditions such as anxiety, depression, migraine headache, autonomic dysfunction, sleep disorders, and substance use with referral to appropriate allied health services as indicated. Techniques like meditation, relaxation, and biofeedback may be offered as complementary therapy to improve overall well-being and patient care outcomes."
+  ],
+  "affiliation": [
+    "Division of Gastroenterology and Hepatology, Medical College of Wisconsin, Milwaukee, Wisconsin."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Management",
+        "Prophylaxis",
+        "Emergency Department",
+        "Abortive Treatment",
+        "Cyclic Vomiting"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/nmo.13604"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6899751"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6899751?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-27"
+  ],
+  "firstIndexDate": [
+    "2019-06-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-06-26"
+  ],
+  "firstPublicationDate": [
+    "2019-06-01"
+  ]
+}

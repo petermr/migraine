@@ -1,0 +1,304 @@
+{
+  "id": [
+    "22121397"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22121397"
+  ],
+  "pmcid": [
+    "PMC3194009"
+  ],
+  "doi": [
+    "10.4021/jocmr581w"
+  ],
+  "title": [
+    "Dubowitz syndrome: a review and implications for cognitive, behavioral, and psychological features."
+  ],
+  "authorString": [
+    "Huber RS, Houlihan D, Filter K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Huber RS"
+          ],
+          "firstName": [
+            "Rebekah S"
+          ],
+          "lastName": [
+            "Huber"
+          ],
+          "initials": [
+            "RS"
+          ]
+        },
+        {
+          "fullName": [
+            "Houlihan D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Houlihan"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Filter K"
+          ],
+          "firstName": [
+            "Kevin"
+          ],
+          "lastName": [
+            "Filter"
+          ],
+          "initials": [
+            "K"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "1883666"
+      ],
+      "dateOfPublication": [
+        "2011 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical medicine research"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Med Res"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Med Res"
+          ],
+          "NLMid": [
+            "101538301"
+          ],
+          "ISSN": [
+            "1918-3003"
+          ],
+          "ESSN": [
+            "1918-3011"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "147-155"
+  ],
+  "abstractText": [
+    "UNLABELLED: Dubowitz syndrome is a rare autosomal recessive disorder characterized by micorcephaly, short stature, abnormal faces, and mild to severe mental retardation. Growth retardation occurs both intrauterine and postnatal. Behavioral characteristics include hyperactivity, short attention span, and aggressiveness. Behavior problems include difficulty feeding, sleep disturbance, and bedwetting. Individuals with the disorder have displayed shyness, fear of crowds, and dislike of loud noises. A high-pitched or hoarse voice is common. Deficits have been found in speech and language skills, reasoning and memory skills, self-help skills, and psychomotor functioning. Ocular, dental, cutaneous, skeletal, cardiovascular, gastrointestinal, neurological, immunological, and hematological medical difficulties have been noted. Approximately 148 cases have been described in the literature. The cause of the disorder remains unknown, however, research suggests genetic origin. Past research emphasizes physical characteristics and medical complications. There is a lack of cognitive, behavioral, and psychological information available regarding the disorder. This article presents a review of the literature and provides assessment and treatment implications for the cognitive, behavioral, and psychological aspects of Dubowitz syndrome. KEYWORDS: Dubowitz; Syndrome; Autosomal; Recessive."
+  ],
+  "affiliation": [
+    "University of Utah, SLC, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22121397/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22121397/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4021/jocmr581w"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3194009"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3194009?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-23"
+  ],
+  "dateOfCreation": [
+    "2011-11-28"
+  ],
+  "firstIndexDate": [
+    "2011-11-29"
+  ],
+  "fullTextReceivedDate": [
+    "2012-03-22"
+  ],
+  "dateOfRevision": [
+    "2013-05-20"
+  ],
+  "firstPublicationDate": [
+    "2011-07-01"
+  ]
+}

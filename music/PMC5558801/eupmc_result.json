@@ -1,0 +1,479 @@
+{
+  "id": [
+    "28389486"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28389486"
+  ],
+  "pmcid": [
+    "PMC5558801"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2016-013384"
+  ],
+  "title": [
+    "Social prescribing: less rhetoric and more reality. A systematic review of the evidence."
+  ],
+  "authorString": [
+    "Bickerdike L, Booth A, Wilson PM, Farley K, Wright K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bickerdike L"
+          ],
+          "firstName": [
+            "Liz"
+          ],
+          "lastName": [
+            "Bickerdike"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7830-4598",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Reviews and Dissemination, University of York, York, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Booth A"
+          ],
+          "firstName": [
+            "Alison"
+          ],
+          "lastName": [
+            "Booth"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7138-6295",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "York Trials Unit, University of York, York, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson PM"
+          ],
+          "firstName": [
+            "Paul M"
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2657-5780",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Alliance Manchester Business School, University of Manchester, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Farley K"
+          ],
+          "firstName": [
+            "Kate"
+          ],
+          "lastName": [
+            "Farley"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "School of Healthcare, University of Leeds, Leeds, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Wright K"
+          ],
+          "firstName": [
+            "Kath"
+          ],
+          "lastName": [
+            "Wright"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9020-1572",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Reviews and Dissemination, University of York, York, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9020-1572",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2657-5780",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7830-4598",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7138-6295",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2542226"
+      ],
+      "dateOfPublication": [
+        "2017 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e013384"
+  ],
+  "abstractText": [
+    "OBJECTIVES:Social prescribing is a way of linking patients in primary care with sources of support within the community to help improve their health and well-being. Social prescribing programmes are being widely promoted and adopted in the UK National Health Service and so we conducted a systematic review to assess the evidence for their effectiveness. SETTING/DATA SOURCES:Nine databases were searched from 2000 to January 2016 for studies conducted in the UK. Relevant reports and guidelines, websites and reference lists of retrieved articles were scanned to identify additional studies. All the searches were restricted to English language only. PARTICIPANTS:Systematic reviews and any published evaluation of programmes where patient referral was made from a primary care setting to a link worker or facilitator of social prescribing were eligible for inclusion. Risk of bias for included studies was undertaken independently by two reviewers and a narrative synthesis was performed. PRIMARY AND SECONDARY OUTCOME MEASURES:Primary outcomes of interest were any measures of health and well-being and/or usage of health services. RESULTS:We included a total of 15 evaluations of social prescribing programmes. Most were small scale and limited by poor design and reporting. All were rated as a having a high risk of bias. Common design issues included a lack of comparative controls, short follow-up durations, a lack of standardised and validated measuring tools, missing data and a failure to consider potential confounding factors. Despite clear methodological shortcomings, most evaluations presented positive conclusions. CONCLUSIONS:Social prescribing is being widely advocated and implemented but current evidence fails to provide sufficient detail to judge either success or value for money. If social prescribing is to realise its potential, future evaluations must be comparative by design and consider when, by whom, for whom, how well and at what cost. TRIAL REGISTRATION NUMBER:PROSPERO Registration: CRD42015023501."
+  ],
+  "affiliation": [
+    "Centre for Reviews and Dissemination, University of York, York, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Systematic Review",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Social Support"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Social Welfare"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Social Work"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "State Medicine"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Primary Health Care"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Prescriptions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United Kingdom"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Primary Care"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2016-013384"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5558801"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5558801?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "34"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-12-20"
+  ],
+  "dateOfCreation": [
+    "2017-04-09"
+  ],
+  "firstIndexDate": [
+    "2017-04-09"
+  ],
+  "fullTextReceivedDate": [
+    "2017-08-25"
+  ],
+  "dateOfRevision": [
+    "2019-02-02"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-07"
+  ],
+  "firstPublicationDate": [
+    "2017-04-07"
+  ]
+}

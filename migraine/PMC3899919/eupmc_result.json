@@ -1,0 +1,615 @@
+{
+  "id": [
+    "24444140"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24444140"
+  ],
+  "pmcid": [
+    "PMC3899919"
+  ],
+  "doi": [
+    "10.1186/1824-7288-40-6"
+  ],
+  "title": [
+    "Psychotherapy versus usual care in pediatric migraine and tension-type headache: a single-blind controlled pilot study."
+  ],
+  "authorString": [
+    "Balottin U, Ferri M, Racca M, Rossi M, Rossi G, Beghi E, Chiappedi M, Termine C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Balottin U"
+          ],
+          "firstName": [
+            "Umberto"
+          ],
+          "lastName": [
+            "Balottin"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6317-7784",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ferri M"
+          ],
+          "firstName": [
+            "Matteo"
+          ],
+          "lastName": [
+            "Ferri"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Racca M"
+          ],
+          "firstName": [
+            "Michela"
+          ],
+          "lastName": [
+            "Racca"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Rossi M"
+          ],
+          "firstName": [
+            "Maura"
+          ],
+          "lastName": [
+            "Rossi"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Rossi G"
+          ],
+          "firstName": [
+            "Giorgio"
+          ],
+          "lastName": [
+            "Rossi"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Beghi E"
+          ],
+          "firstName": [
+            "Ettore"
+          ],
+          "lastName": [
+            "Beghi"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2542-0469",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chiappedi M"
+          ],
+          "firstName": [
+            "Matteo"
+          ],
+          "lastName": [
+            "Chiappedi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Child Neurology and Psychiatry, C, Mondino National Neurological Institute, Pavia, Italy. matteo.chiappedi@mondino.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Termine C"
+          ],
+          "firstName": [
+            "Cristiano"
+          ],
+          "lastName": [
+            "Termine"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2325-8293",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2325-8293",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6317-7784",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2542-0469",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "40"
+      ],
+      "journalIssueId": [
+        "2134487"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Italian journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Ital J Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Ital J Pediatr"
+          ],
+          "NLMid": [
+            "101510759"
+          ],
+          "ISSN": [
+            "1824-7288"
+          ],
+          "ESSN": [
+            "1824-7288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "6"
+  ],
+  "abstractText": [
+    "BACKGROUND: Despite growing interest in psychotherapy in child and adolescent headache, efficacy studies in this research field have focused mainly on cognitive-behavioral therapies. Whereas relaxation and cognitive-behavioral techniques, in particular, have been found to reduce the intensity and frequency of headache in children and adolescents, data on psychodynamic psychotherapy in this population are lacking.Our aim was to explore the effectiveness of a brief psychodynamic psychotherapy program in the treatment of idiopathic headache in childhood and adolescence. METHODS: Thirty-three newly diagnosed idiopathic headache sufferers aged 6-18 years, consecutively referred to our outpatient services, were randomized to receive either a brief cycle of psychodynamic psychotherapy (eight sessions administered at two-week intervals) or usual care (clinical interview, neurological examination, counselling, symptomatic therapy).The two groups were evaluated at baseline (T0) and at six months (T1) to be assessed for headache characteristics (i.e. frequency, intensity and duration), quality of life (i.e. the EuroQoL score), patient's global health status (i.e. the Clinical Global Impression score), and emotional-behavioral symptoms (i.e. Child Behavior Checklist scores). RESULTS: The two groups were fairly similar with reference to the main demographic and clinical variables. The T0/T1 comparison showed a statistically significant improvement in headache frequency (p = 0.005), intensity (p < 0.001) and duration (p = 0.002), a statistically significant improvement in the CGI score (p = 0.018), and a borderline improvement in the EuroQoL score (p = 0.053) in the group receiving psychotherapy. CONCLUSIONS: According to our pilot findings, a brief psychodynamic psychotherapy program may be more effective than usual care in children and adolescents with idiopathic headache."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ambulatory Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Single-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychotherapy, Brief"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Referral and Consultation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tension-Type Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24444140/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24444140/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1824-7288-40-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3899919"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3899919?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-10-30"
+  ],
+  "dateOfCreation": [
+    "2014-01-24"
+  ],
+  "firstIndexDate": [
+    "2014-01-23"
+  ],
+  "fullTextReceivedDate": [
+    "2014-02-08"
+  ],
+  "electronicPublicationDate": [
+    "2014-01-20"
+  ],
+  "firstPublicationDate": [
+    "2014-01-20"
+  ]
+}

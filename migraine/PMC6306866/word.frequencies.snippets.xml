@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6306866/results/word/frequencies/results.xml">
+  <result title="frequency" word="pediatric" count="78"/>
+  <result title="frequency" word="integrative" count="75"/>
+  <result title="frequency" word="Integrative" count="59"/>
+  <result title="frequency" word="Pediatric" count="57"/>
+  <result title="frequency" word="medicine" count="53"/>
+  <result title="frequency" word="Medicine" count="51"/>
+  <result title="frequency" word="pain" count="51"/>
+  <result title="frequency" word="patients" count="37"/>
+  <result title="frequency" word="PIM" count="33"/>
+  <result title="frequency" word="treatment" count="32"/>
+  <result title="frequency" word="Med." count="30"/>
+  <result title="frequency" word="patient" count="29"/>
+  <result title="frequency" word="children" count="26"/>
+  <result title="frequency" word="Stanford" count="24"/>
+  <result title="frequency" word="program" count="24"/>
+  <result title="frequency" word="Children" count="23"/>
+  <result title="frequency" word="Complementary" count="23"/>
+  <result title="frequency" word="therapies" count="23"/>
+  <result title="frequency" word="medical" count="22"/>
+  <result title="frequency" word="faculty" count="21"/>
+ </snippets>
+</snippetsTree>

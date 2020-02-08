@@ -1,0 +1,344 @@
+{
+  "id": [
+    "28861114"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28861114"
+  ],
+  "pmcid": [
+    "PMC5573746"
+  ],
+  "doi": [
+    "10.3345/kjp.2017.60.7.227"
+  ],
+  "title": [
+    "Effects of low-dose topiramate on language function in children with migraine."
+  ],
+  "authorString": [
+    "Han SA, Yang EJ, Kong Y, Joo CU, Kim SJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Han SA"
+          ],
+          "firstName": [
+            "Seung-A"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chonbuk National University Medical School, Jeonju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang EJ"
+          ],
+          "firstName": [
+            "Eu Jeen"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3796-6242",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Pusan National University Children's Hospital, Yangsan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kong Y"
+          ],
+          "firstName": [
+            "Younghwa"
+          ],
+          "lastName": [
+            "Kong"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chonbuk National University Medical School, Jeonju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Joo CU"
+          ],
+          "firstName": [
+            "Chan-Uhng"
+          ],
+          "lastName": [
+            "Joo"
+          ],
+          "initials": [
+            "CU"
+          ],
+          "affiliation": [
+            "Research Institute of Clinical Medicine, Chonbuk National University Medical School, Jeonju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SJ"
+          ],
+          "firstName": [
+            "Sun Jun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Research Institute of Clinical Medicine, Chonbuk National University Medical School, Jeonju, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3796-6242",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "60"
+      ],
+      "journalIssueId": [
+        "2591353"
+      ],
+      "dateOfPublication": [
+        "2017 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Korean journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Korean J Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Korean J Pediatr"
+          ],
+          "NLMid": [
+            "101215374"
+          ],
+          "ISSN": [
+            "1738-1061"
+          ],
+          "ESSN": [
+            "2092-7258"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "227-231"
+  ],
+  "abstractText": [
+    "This study aimed to verify the safety of low-dose topiramate on language development in pediatric patients with migraine.Thirty newly diagnosed pediatric patients with migraine who needed topiramate were enrolled and assessed twice with standard language tests, including the Test of Language Problem Solving Abilities (TOPs), Receptive and Expressive Vocabulary Test, Urimal Test of Articulation and Phonology, and computerized speech laboratory analysis. Data were collected before treatment, and topiramate as monotherapy was sustained for at least 3 months. The mean follow-up period was 4.3±2.7 months. The mean topiramate dosage was 0.9 mg/kg/day.The patient's mean age was 144.1±42.3 months (male-to-female ratio, 9:21). The values of all the language parameters of the TOPs were not changed significantly after the topiramate treatment as follows: Determine cause, from 15.0±4.4 to 15.4±4.8 (P>0.05); making inference, from 17.6±5.6 to 17.5±6.6 (P>0.05); predicting, from 11.5±4.5 to 12.3±4.0 (P>0.05); and total TOPs score, from 44.1± 13.4 to 45.3±13.6 (P>0.05). The total mean length of utterance in words during the test decreased from 44.1±13.4 to 45.3±13.6 (P<0.05). The Receptive and Expressive Vocabulary Test results decreased from 97.7±22.1 to 96.3±19.9 months, and from 81.8±23.4 to 82.3±25.4 months, respectively (P>0.05). In the articulation and phonology validation in both groups, speech pitch and energy were not significant, and all the vowel test results showed no other significant values.No significant difference was found in the language-speaking ability between the patients; however, the number of vocabularies used decreased. Therefore, topiramate should be used cautiously for children with migraine."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Chonbuk National University Medical School, Jeonju, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Language",
+        "Migraine",
+        "Topiramate",
+        "Prophylactic Agents"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3345/kjp.2017.60.7.227"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5573746"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5573746?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-01"
+  ],
+  "firstIndexDate": [
+    "2017-09-01"
+  ],
+  "fullTextReceivedDate": [
+    "2017-09-04"
+  ],
+  "dateOfRevision": [
+    "2017-09-03"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-31"
+  ],
+  "firstPublicationDate": [
+    "2017-07-31"
+  ]
+}

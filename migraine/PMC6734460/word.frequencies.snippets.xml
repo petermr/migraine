@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6734460/results/word/frequencies/results.xml">
+  <result title="frequency" word="migraine" count="170"/>
+  <result title="frequency" word="headache" count="137"/>
+  <result title="frequency" word="symptoms" count="66"/>
+  <result title="frequency" word="patients" count="59"/>
+  <result title="frequency" word="study" count="55"/>
+  <result title="frequency" word="prevalence" count="54"/>
+  <result title="frequency" word="autonomic" count="52"/>
+  <result title="frequency" word="age" count="45"/>
+  <result title="frequency" word="clinical" count="43"/>
+  <result title="frequency" word="children" count="42"/>
+  <result title="frequency" word="cluster" count="41"/>
+  <result title="frequency" word="pain" count="40"/>
+  <result title="frequency" word="attacks" count="39"/>
+  <result title="frequency" word="Headache" count="38"/>
+  <result title="frequency" word="tension-type" count="35"/>
+  <result title="frequency" word="episodic" count="29"/>
+  <result title="frequency" word="Pain" count="27"/>
+  <result title="frequency" word="headaches" count="27"/>
+  <result title="frequency" word="syndromes" count="27"/>
+  <result title="frequency" word="Neurol" count="26"/>
+  <result title="frequency" word="changes" count="25"/>
+  <result title="frequency" word="primary" count="25"/>
+  <result title="frequency" word="Cephalalgia" count="24"/>
+  <result title="frequency" word="cortex" count="24"/>
+  <result title="frequency" word="studies" count="24"/>
+  <result title="frequency" word="Migraine" count="22"/>
+ </snippets>
+</snippetsTree>

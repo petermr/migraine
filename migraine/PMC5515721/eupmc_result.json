@@ -1,0 +1,594 @@
+{
+  "id": [
+    "28721545"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28721545"
+  ],
+  "pmcid": [
+    "PMC5515721"
+  ],
+  "doi": [
+    "10.1186/s10194-017-0776-4"
+  ],
+  "title": [
+    "Is topiramate effective for migraine prevention in patients less than 18 years of age? A meta-analysis of randomized controlled trials."
+  ],
+  "authorString": [
+    "Le K, Yu D, Wang J, Ali AI, Guo Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Le K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Le"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Neurology, Affiliated ZhongDa Hospital, School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu D"
+          ],
+          "firstName": [
+            "Dafan"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Neurology, Affiliated ZhongDa Hospital, School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jiamin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Neurology, Affiliated ZhongDa Hospital, School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ali AI"
+          ],
+          "firstName": [
+            "Abdoulaye Idriss"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "AI"
+          ],
+          "affiliation": [
+            "Department of Neurology, Affiliated ZhongDa Hospital, School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo Y"
+          ],
+          "firstName": [
+            "Yijing"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6638-8963",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, Affiliated ZhongDa Hospital, School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, People's Republic of China. 975607384@qq.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0576-7679",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6638-8963",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2512389"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "69"
+  ],
+  "abstractText": [
+    "BACKGROUND:Mainly based on evidence of success in adults, various medications are commonly used to prevent pediatric migraines. Topiramate has been approved for migraine prevention in children as young as 12 years of age. In this meta-analysis, we aimed to assess the currently published data pertaining to the efficacy of topiramate for migraine prevention in patients less than 18 years of age. METHODS:We searched PubMed/Medline, Embase and the Cochrane Library (from inception to April 2017) for randomized controlled trials (RCTs) published in English. Two independent investigators performed data extraction and quality evaluation using the Cochrane Collaboration's tool. The data extracted were analyzed by Review Manager 5.3 software. RESULTS:A total of four RCTs matching the inclusion criteria were included, with an aggregate of 465 patients. Of these patients, 329 were included in the topiramate group, and 136 were included in the placebo group. This meta-analysis revealed that compared with placebo, topiramate failed to decrease the number of patients experiencing a ≥ 50% relative reduction in headache frequency (n = 465, RR = 1.26, 95% CI = [0.94,1.67], Z = 1.55, P = 0.12) or the number of headache days (n = 465, MD = -0.77, 95% CI = [-2.31,0.76], Z = 0.99, P = 0.32) but did reduce PedMIDAS scores (n = 205, MD = -9.02, 95% CI = [-17.34, -0.70], Z = 2.13, P = 0.03). Higher rates of side effects and adverse events in the topiramate group than in the placebo group were observed in the included trials. CONCLUSIONS:Topiramate may not achieve a more effective clinical trial endpoint than placebo in the prevention of migraines in patients less than 18 years of age, and topiramate may lead to more side effects or adverse events in the included patients."
+  ],
+  "affiliation": [
+    "Department of Neurology, Affiliated ZhongDa Hospital, School of Medicine, Southeast University, Nanjing, Jiangsu, 210009, People's Republic of China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fructose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AA"
+                  ],
+                  "qualifierName": [
+                    "analogs & derivatives"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anticonvulsants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Topiramate"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Prevention",
+        "Migraine",
+        "Adolescent",
+        "Pediatric",
+        "Topiramate"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anticonvulsants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fructose"
+          ],
+          "registryNumber": [
+            "30237-26-4"
+          ]
+        },
+        {
+          "name": [
+            "topiramate"
+          ],
+          "registryNumber": [
+            "0H73WJJ391"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-017-0776-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5515721"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5515721?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29614145"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "J Fam Pract. 2018 Apr;67(4):238;239;241"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-03-07"
+  ],
+  "dateOfCreation": [
+    "2017-07-20"
+  ],
+  "firstIndexDate": [
+    "2017-07-19"
+  ],
+  "fullTextReceivedDate": [
+    "2017-08-01"
+  ],
+  "dateOfRevision": [
+    "2018-12-02"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-18"
+  ],
+  "firstPublicationDate": [
+    "2017-07-18"
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "id": [
+    "13507202"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "13507202"
+  ],
+  "pmcid": [
+    "PMC2480403"
+  ],
+  "title": [
+    "Elizabeth Garrett Anderson and her contemporaries."
+  ],
+  "authorString": [
+    "ANDERSON OM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "ANDERSON OM"
+          ],
+          "firstName": [
+            "O M"
+          ],
+          "lastName": [
+            "ANDERSON"
+          ],
+          "initials": [
+            "OM"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "210609"
+      ],
+      "dateOfPublication": [
+        "1957 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "1957"
+      ],
+      "printPublicationDate": [
+        "1957-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Ulster medical journal"
+          ],
+          "ISOAbbreviation": [
+            "Ulster Med J"
+          ],
+          "medlineAbbreviation": [
+            "Ulster Med J"
+          ],
+          "NLMid": [
+            "0417367"
+          ],
+          "ISSN": [
+            "0041-6193"
+          ],
+          "ESSN": [
+            "2046-4207"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1957"
+  ],
+  "pageInfo": [
+    "98-107"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Historical Article",
+        "research-article",
+        "Biography",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 19th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 20th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Physicians"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Physicians, Women"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Physicians, Women"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "OM"
+          ],
+          "name": [
+            "pre-1966 citations"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/13507202/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/13507202/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2480403"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2480403?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2000-07-01"
+  ],
+  "dateOfCreation": [
+    "1957-11-01"
+  ],
+  "firstIndexDate": [
+    "2010-01-10"
+  ],
+  "fullTextReceivedDate": [
+    "2009-12-05"
+  ],
+  "dateOfRevision": [
+    "2018-12-01"
+  ],
+  "firstPublicationDate": [
+    "1957-11-01"
+  ]
+}

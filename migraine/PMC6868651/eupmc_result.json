@@ -1,0 +1,289 @@
+{
+  "id": [
+    "31754630"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31754630"
+  ],
+  "pmcid": [
+    "PMC6868651"
+  ],
+  "doi": [
+    "10.1089/trgh.2019.0041"
+  ],
+  "title": [
+    "Clinical Course of Transgender Adolescents with Complicated Postural Orthostatic Tachycardia Syndrome Undergoing Hormonal Therapy in Gender Transition: A Case Series."
+  ],
+  "authorString": [
+    "Boris JR, McClain ZBR, Bernadzikowski T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Boris JR"
+          ],
+          "firstName": [
+            "Jeffrey R"
+          ],
+          "lastName": [
+            "Boris"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "Pediatric Cardiologist, Independent, Media, Pennsylvania."
+          ]
+        },
+        {
+          "fullName": [
+            "McClain ZBR"
+          ],
+          "firstName": [
+            "Zachary B R"
+          ],
+          "lastName": [
+            "McClain"
+          ],
+          "initials": [
+            "ZBR"
+          ],
+          "affiliation": [
+            "Division of Adolescent Medicine, Children's Hospital of Philadelphia and Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania."
+          ]
+        },
+        {
+          "fullName": [
+            "Bernadzikowski T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Bernadzikowski"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Division of Radiology, Children's Hospital of Philadelphia, Philadelphia, Pennsylvania."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2773589"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Transgender health"
+          ],
+          "ISOAbbreviation": [
+            "Transgend Health"
+          ],
+          "medlineAbbreviation": [
+            "Transgend Health"
+          ],
+          "NLMid": [
+            "101691357"
+          ],
+          "ISSN": [
+            "2380-193X"
+          ],
+          "ESSN": [
+            "2380-193X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "331-334"
+  ],
+  "abstractText": [
+    "Purpose: Postural orthostatic tachycardia syndrome (POTS), an increasingly recognized dysautonomia, may affect as many as 3,000,000 Americans. Concurrently, prevalence estimates suggest 10% of individuals identify as lesbian, gay, bisexual, transgender, or questioning/queer. The preponderance of female POTS patients implies hormonal differences between natal sexes and their role in POTS. Transgender POTS patients using hormone therapies may offer further insight into the mechanism of POTS. There have been no previously published studies of transgender patients with POTS undergoing gender-affirming hormone therapy. Methods: We reviewed our electronic health record for clinical histories of transgender patients in our POTS Database. Results: Three patients who transitioned from female to male demonstrated clinical improvement of their POTS symptoms with the addition of testosterone therapy. Conclusion: We present our clinical experience of three transgender POTS patients who transitioned from female to male with hormone therapy, all of whom demonstrated clinical improvement with testosterone. This may give further insight into the pathophysiology of POTS. However, the authors do not endorse the use of hormone therapy as primary therapy for the symptoms of POTS."
+  ],
+  "affiliation": [
+    "Pediatric Cardiologist, Independent, Media, Pennsylvania."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dysautonomia",
+        "Orthostatic Intolerance",
+        "Lgbt Health",
+        "Testosterone Therapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1089/trgh.2019.0041"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6868651"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6868651?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-23"
+  ],
+  "firstIndexDate": [
+    "2019-11-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-26"
+  ],
+  "dateOfRevision": [
+    "2019-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-20"
+  ],
+  "firstPublicationDate": [
+    "2019-11-20"
+  ]
+}

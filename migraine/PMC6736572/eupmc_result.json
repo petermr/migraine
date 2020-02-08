@@ -1,0 +1,525 @@
+{
+  "id": [
+    "31551903"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31551903"
+  ],
+  "pmcid": [
+    "PMC6736572"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00932"
+  ],
+  "title": [
+    "NREM Sleep Instability in Pediatric Migraine Without Aura."
+  ],
+  "authorString": [
+    "Roccella M, Marotta R, Operto FF, Smirni D, Precenzano F, Bitetti I, Messina G, Sessa F, Di Mizio G, Loreto C, Salerno M, Russo V, Murabito P, Gallai B, Esposito M, Iacono D, Carotenuto M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Roccella M"
+          ],
+          "firstName": [
+            "Michele"
+          ],
+          "lastName": [
+            "Roccella"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Psychology, Educational Science and Human Movement, University of Palermo, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Marotta R"
+          ],
+          "firstName": [
+            "Rosa"
+          ],
+          "lastName": [
+            "Marotta"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Medical and Surgical Sciences, University \"Magna Graecia\", Catanzaro, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Operto FF"
+          ],
+          "firstName": [
+            "Francesca Felicia"
+          ],
+          "lastName": [
+            "Operto"
+          ],
+          "initials": [
+            "FF"
+          ],
+          "affiliation": [
+            "Basic Medical Sciences, Neuroscience and Sense Organs Department, University of the Study of Bari \"Aldo Moro\", Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Smirni D"
+          ],
+          "firstName": [
+            "Daniela"
+          ],
+          "lastName": [
+            "Smirni"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Psychology, Educational Science and Human Movement, University of Palermo, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Precenzano F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Precenzano"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Clinic of Child and Adolescent Neuropsychiatry, Department of Mental Health, Physical and Preventive Medicine, University of Campania \"Luigi Vanvitelli\", Naples, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bitetti I"
+          ],
+          "firstName": [
+            "Ilaria"
+          ],
+          "lastName": [
+            "Bitetti"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Clinic of Child and Adolescent Neuropsychiatry, Department of Mental Health, Physical and Preventive Medicine, University of Campania \"Luigi Vanvitelli\", Naples, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Messina G"
+          ],
+          "firstName": [
+            "Giovanni"
+          ],
+          "lastName": [
+            "Messina"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Clinical and Experimental Medicine, University of Foggia, Foggia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sessa F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Sessa"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Clinical and Experimental Medicine, University of Foggia, Foggia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Di Mizio G"
+          ],
+          "firstName": [
+            "Giulio"
+          ],
+          "lastName": [
+            "Di Mizio"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Legal, Historical, Economic and Social Sciences, University of Catanzaro, Catanzaro, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Loreto C"
+          ],
+          "firstName": [
+            "Carla"
+          ],
+          "lastName": [
+            "Loreto"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Biotechnological Sciences, University of Catania, Catania, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Salerno M"
+          ],
+          "firstName": [
+            "Monica"
+          ],
+          "lastName": [
+            "Salerno"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Medical, Surgical and Advanced Technologies \"G.F. Ingrassia\", University of Catania, Catania, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Russo V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Russo"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Institute of Ophthalmology, University of Foggia, Foggia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Murabito P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Murabito"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Clinical and Experimental Medicine, University of Catania, Catania, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Gallai B"
+          ],
+          "firstName": [
+            "Beatrice"
+          ],
+          "lastName": [
+            "Gallai"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Surgical and Biomedical Sciences, University of Perugia, Perugia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Esposito M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Esposito"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Clinic of Child and Adolescent Neuropsychiatry, Department of Mental Health, Physical and Preventive Medicine, University of Campania \"Luigi Vanvitelli\", Naples, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Iacono D"
+          ],
+          "firstName": [
+            "Diego"
+          ],
+          "lastName": [
+            "Iacono"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Neurodevelopment Research Lab, Biomedical Research Institute of New Jersey, Cedar Knolls, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Carotenuto M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Carotenuto"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Clinic of Child and Adolescent Neuropsychiatry, Department of Mental Health, Physical and Preventive Medicine, University of Campania \"Luigi Vanvitelli\", Naples, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "932"
+  ],
+  "abstractText": [
+    "Children with migraine headaches appear to have a range of sleep disturbances. The aim of the present study was to assess the NREM sleep instability in a population of school-aged individuals affected by migraine without aura (MoA). Thirty-three children with MoA (20 males, 13 females, mean age 10.45 ± 2.06 years) underwent to overnight Polysomnographic (PSG) recordings and Cyclic Alternating Pattern (CAP) analyses accordingly with international criteria. MoA group showed a reduction in sleep duration parameters (TIB, SPT, TST; p ≤ 0.001 for all) and in arousal index during REM sleep and an increase in awakenings per hour (AWK/h) vs. Controls (C) (p = 0.008). In particular, MoA children showed a reduced CAP rate% (p ≤ 0.001), CAP rate% in S1 (p ≤ 0.001) and CAP rate% in SWS (p = 0.004) vs. C. Moreover, A phases distribution were characterized by a reduction in slow wave components (total number CAP A1%, CAP A1 index) (p ≤ 0.001) and an increase of fast components representation (total number of CAP A2% and CAP A3%) (p < 0.001) in MoA vs. C. Moreover, MoA children showed an increased A1 and A2 mean duration (p ≤ 0.001). Our findings show a reduction of arousability in MoA group and lower NREM lower sleep instability associated with MoA in children."
+  ],
+  "affiliation": [
+    "Department of Psychology, Educational Science and Human Movement, University of Palermo, Palermo, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sleep Macrostructure",
+        "Nrem Sleep Instability",
+        "Cyclic Alternating Pattern (Cap) Analysis",
+        "Full Overnight Polysomnography",
+        "Migraine Without Aura (Moa)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00932"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6736572"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6736572?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-26"
+  ],
+  "firstIndexDate": [
+    "2019-09-26"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-27"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-27"
+  ],
+  "firstPublicationDate": [
+    "2019-08-27"
+  ]
+}

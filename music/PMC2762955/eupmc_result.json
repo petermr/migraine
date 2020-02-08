@@ -1,0 +1,552 @@
+{
+  "id": [
+    "19811630"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19811630"
+  ],
+  "pmcid": [
+    "PMC2762955"
+  ],
+  "doi": [
+    "10.1186/1471-2474-10-124"
+  ],
+  "title": [
+    "Patients' experiences of living with and receiving treatment for fibromyalgia syndrome: a qualitative study."
+  ],
+  "authorString": [
+    "Lempp HK, Hatch SL, Carville SF, Choy EH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lempp HK"
+          ],
+          "firstName": [
+            "Heidi K"
+          ],
+          "lastName": [
+            "Lempp"
+          ],
+          "initials": [
+            "HK"
+          ]
+        },
+        {
+          "fullName": [
+            "Hatch SL"
+          ],
+          "firstName": [
+            "Stephani L"
+          ],
+          "lastName": [
+            "Hatch"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9103-2427",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Carville SF"
+          ],
+          "firstName": [
+            "Serene F"
+          ],
+          "lastName": [
+            "Carville"
+          ],
+          "initials": [
+            "SF"
+          ]
+        },
+        {
+          "fullName": [
+            "Choy EH"
+          ],
+          "firstName": [
+            "Ernest H"
+          ],
+          "lastName": [
+            "Choy"
+          ],
+          "initials": [
+            "EH"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9103-2427",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "1590881"
+      ],
+      "dateOfPublication": [
+        "2009 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC musculoskeletal disorders"
+          ],
+          "ISOAbbreviation": [
+            "BMC Musculoskelet Disord"
+          ],
+          "medlineAbbreviation": [
+            "BMC Musculoskelet Disord"
+          ],
+          "NLMid": [
+            "100968565"
+          ],
+          "ISSN": [
+            "1471-2474"
+          ],
+          "ESSN": [
+            "1471-2474"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2009"
+  ],
+  "pageInfo": [
+    "124"
+  ],
+  "abstractText": [
+    "BACKGROUND: Fibromyalgia syndrome (FMS) presents a challenge for patients and health care staff across many medical specialities. The aetiology is multi-dimensional, involving somatic, psychological and social factors. Patients' views were obtained to understand their experience of living with this long-term condition, using qualitative interviews. METHODS: 12 patients were recruited and stratified by age, gender and ethnicity from one rheumatology outpatient clinic, and a departmental held database of patients diagnosed with FMS. RESULTS: Patients' accounts of their experience of FMS resonated well with two central concepts: social identity and illness intrusiveness. These suggested three themes for the analytical framework: life before and after diagnosis (e.g. lack of information about FMS, invisibility of FMS); change in health identity (e.g. mental distress, impact on social life) and perceived quality of care (e.g. lack of contact with nurses, attitudes of specialists). The information provided from one male participant did not differ from the female patients, but black and ethnic community patients expressed a degree of suspicion towards the medication prescribed, and the attitudes displayed by some doctors, a finding that has not been previously reported amongst this patient group. Patients expected more consultation time and effective treatment than they received. Subjective experiences and objective physical and emotional changes were non-overlapping. Patients' accounts revealed that their physical, mental and social health was compromised, at times overwhelming and affected their identity. CONCLUSION: FMS is a condition that intrudes upon many aspects of patients' lives and is little understood. At the same time, it is a syndrome that evokes uneasiness in health care staff (as current diagnostic criteria are not well supported by objective markers of physiological or biochemical nature, and indeed because of doubt about the existence of the condition) and places great demands on resources in clinical practice. Greater attention needs to be paid to the links between the explanatory models of patients and staff, and most important, to the interrelationship between the complex physical, psychological and social needs of patients with FMS. Taking a less medical but more holistic approach when drawing up new diagnostic criteria for FMS might match better individuals' somatic and psycho-social symptom profile and may result in more effective treatment."
+  ],
+  "affiliation": [
+    "Academic Rheumatology/NIHR Guy's and St Thomas' Foundation Trust Biomedical Research Centre, King's College London, Weston Education Centre, 10, Cutcombe Road, London, SE5 9RJ, UK. heidi.k.lempp@kcl.ac.uk"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fibromyalgia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Activities of Daily Living"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Qualitative Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Patient Satisfaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1471-2474-10-124.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2474/10/124/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2474/10/124"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19811630/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19811630/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2474-10-124"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2762955"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2762955?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "34"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-05-04"
+  ],
+  "dateOfCreation": [
+    "2009-10-19"
+  ],
+  "firstIndexDate": [
+    "2010-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2009-10-19"
+  ],
+  "dateOfRevision": [
+    "2013-05-31"
+  ],
+  "electronicPublicationDate": [
+    "2009-10-07"
+  ],
+  "firstPublicationDate": [
+    "2009-10-07"
+  ]
+}

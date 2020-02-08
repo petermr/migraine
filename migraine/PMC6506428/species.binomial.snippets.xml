@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6506428/results/species/binomial/results.xml">
+  <result pre="d pancreatic, SSYC: Shigella, Salmonella, Yersinia, and Campylobacter, " exact="H. pylori" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/div[3]/div[2]/div[3]/p[2]" match="H. pylori" post=": Helicobacter pylori, Abdominal US: abdominal ultrasound. " name="binomial"/>
+  <result pre=": Shigella, Salmonella, Yersinia, and Campylobacter, H. pylori: " exact="Helicobacter pylori" match="Helicobacter pylori" post=", Abdominal US: abdominal ultrasound. " name="binomial"/>
+ </snippets>
+</snippetsTree>

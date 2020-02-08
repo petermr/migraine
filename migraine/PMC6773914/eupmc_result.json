@@ -1,0 +1,323 @@
+{
+  "id": [
+    "31592308"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31592308"
+  ],
+  "pmcid": [
+    "PMC6773914"
+  ],
+  "doi": [
+    "10.15171/joddd.2019.020"
+  ],
+  "title": [
+    "Effect of injection of botulinum toxin on decreasing the symptoms and signs of masticatory muscles in patients with temporomandibular dysfunction."
+  ],
+  "authorString": [
+    "Ghavimi MA, Yazdani J, Afzalimehr A, Ghoreyshizadeh A, Dehnad SV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ghavimi MA"
+          ],
+          "firstName": [
+            "Mohammad Ali"
+          ],
+          "lastName": [
+            "Ghavimi"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Tabriz University of Medical Sciences, Tabriz, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Yazdani J"
+          ],
+          "firstName": [
+            "Javad"
+          ],
+          "lastName": [
+            "Yazdani"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Tabriz University of Medical Sciences, Tabriz, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Afzalimehr A"
+          ],
+          "firstName": [
+            "Atena"
+          ],
+          "lastName": [
+            "Afzalimehr"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Tabriz University of Medical Sciences, Tabriz, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghoreyshizadeh A"
+          ],
+          "firstName": [
+            "Arezoo"
+          ],
+          "lastName": [
+            "Ghoreyshizadeh"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatric Dentistry, Faculty of Dentistry, Tabriz University of Medical Sciences, Tabriz, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Dehnad SV"
+          ],
+          "firstName": [
+            "Seyed Vahid"
+          ],
+          "lastName": [
+            "Dehnad"
+          ],
+          "initials": [
+            "SV"
+          ],
+          "affiliation": [
+            "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Tabriz University of Medical Sciences, Tabriz, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2869292"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of dental research, dental clinics, dental prospects"
+          ],
+          "ISOAbbreviation": [
+            "J Dent Res Dent Clin Dent Prospects"
+          ],
+          "medlineAbbreviation": [
+            "J Dent Res Dent Clin Dent Prospects"
+          ],
+          "NLMid": [
+            "101576035"
+          ],
+          "ISSN": [
+            "2008-210X"
+          ],
+          "ESSN": [
+            "2008-2118"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "128-132"
+  ],
+  "abstractText": [
+    "Background. Temporomandibular joint dysfunction (TMD) is a term that describes problems in the masticatory system, including the temporomandibular joint, the dento-muscular system and the supporting bones. Injection of botulinum toxin, as a noninvasive technique, might be useful in decreasing symptoms such as muscular spasm, dystonia, migraine headaches and TMD. Therefore, the aim of the present study was to evaluate the effect of injection of botulinum toxin on decreasing the symptoms and signs of masticatory muscles in patients with TMD. Methods. A total of 61 patients were consecutively included in the present study in 2016‒2017. All the subjects received a 50-unit injection of Dysport botulinum toxin in the masseter muscles using an extraoral injection technique. The results of the injection were evaluated in terms of pain severity using VAS, clinical evaluations of the joint click through palpation and by determining the inter-incisal distance. The patients underwent follow-up examinations at 1-week, 3-month and 6-month intervals after injection. Data were analyzed with appropriate statistical tests. Results. Comparison of pain severity and articular clicks at different intervals showed decreases in these parameters over time, with significant differences between the time intervals (P<0.05). Comparison of mouth opening at different intervals showed increases in mouth opening over time. Conclusion. The results of the present study showed that injection of botulinum toxin can be used in patients with TMD as a non-invasive treatment modality."
+  ],
+  "affiliation": [
+    "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Tabriz University of Medical Sciences, Tabriz, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pain",
+        "Botulinum Toxin",
+        "Temporomandibular Joint Dysfunction",
+        "Articular Click"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.15171/joddd.2019.020"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6773914"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6773914?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-09"
+  ],
+  "firstIndexDate": [
+    "2019-10-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-10"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-14"
+  ],
+  "firstPublicationDate": [
+    "2019-08-14"
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6426199/results/search/funders/results.xml">
+  <result pre="Medicine, Kurashiki Central Hospital, Okayama, Japan [3], Department of Medicine," exact="Nagoya University" post="Hospital, Nagoya, Japan [4], Department of Biology, University of"/>
+  <result pre="Medicine, Nagoya University Hospital, Nagoya, Japan [4], Department of Biology," exact="University of Wisconsin-Milwaukee," post="Milwaukee, WI, United States of America [5], Department of"/>
+  <result pre="[5], Department of Epidemiology and Biostatistics, School of Health Sciences," exact="Wuhan University," post="Wuhan, China [6], Department of Endocrinology, Tenri Hospital, Nara,"/>
+  <result pre="Endocrinology, Tenri Hospital, Nara, Japan Kwok Chun Shing Editor []," exact="Keele University," post="UNITED KINGDOM Competing Interests: The authors have declared that"/>
+  <result pre="intervention and side effects of the available options. The 2012" exact="American Academy of Neurology" post="guideline recommends beta-blockers, specifically propranolol and metoprolol, as first"/>
+  <result pre="in adults: report of the Quality Standards Subcommittee of the" exact="American Academy of Neurology" post="and the American Headache Society . Neurology 2012; 78("/>
+ </snippets>
+</snippetsTree>

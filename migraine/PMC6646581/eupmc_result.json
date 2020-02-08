@@ -1,0 +1,461 @@
+{
+  "id": [
+    "31379706"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31379706"
+  ],
+  "pmcid": [
+    "PMC6646581"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00738"
+  ],
+  "title": [
+    "Repetitive Peripheral Magnetic Stimulation (rPMS) in Subjects With Migraine-Setup Presentation and Effects on Skeletal Musculature."
+  ],
+  "authorString": [
+    "Renner T, Sollmann N, Trepte-Freisleder F, Albers L, Mathonia NM, Bonfert MV, König H, Klose B, Krieg SM, Heinen F, Gerstl L, Landgraf MN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Renner T"
+          ],
+          "firstName": [
+            "Tabea"
+          ],
+          "lastName": [
+            "Renner"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine, LMU Center for Children With Medical Complexity, Dr. von Hauner Children's Hospital, LMU-University Hospital, Ludwig-Maximilians-Universität, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Sollmann N"
+          ],
+          "firstName": [
+            "Nico"
+          ],
+          "lastName": [
+            "Sollmann"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8120-2223",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Diagnostic and Interventional Neuroradiology, Klinikum rechts der Isar, Technische Universität München, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Trepte-Freisleder F"
+          ],
+          "firstName": [
+            "Florian"
+          ],
+          "lastName": [
+            "Trepte-Freisleder"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine, LMU Center for Children With Medical Complexity, Dr. von Hauner Children's Hospital, LMU-University Hospital, Ludwig-Maximilians-Universität, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Albers L"
+          ],
+          "firstName": [
+            "Lucia"
+          ],
+          "lastName": [
+            "Albers"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine, LMU Center for Children With Medical Complexity, Dr. von Hauner Children's Hospital, LMU-University Hospital, Ludwig-Maximilians-Universität, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Mathonia NM"
+          ],
+          "firstName": [
+            "Nina M"
+          ],
+          "lastName": [
+            "Mathonia"
+          ],
+          "initials": [
+            "NM"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine, LMU Center for Children With Medical Complexity, Dr. von Hauner Children's Hospital, LMU-University Hospital, Ludwig-Maximilians-Universität, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Bonfert MV"
+          ],
+          "firstName": [
+            "Michaela V"
+          ],
+          "lastName": [
+            "Bonfert"
+          ],
+          "initials": [
+            "MV"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine, LMU Center for Children With Medical Complexity, Dr. von Hauner Children's Hospital, LMU-University Hospital, Ludwig-Maximilians-Universität, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "König H"
+          ],
+          "firstName": [
+            "Helene"
+          ],
+          "lastName": [
+            "König"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine, LMU Center for Children With Medical Complexity, Dr. von Hauner Children's Hospital, LMU-University Hospital, Ludwig-Maximilians-Universität, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Klose B"
+          ],
+          "firstName": [
+            "Birgit"
+          ],
+          "lastName": [
+            "Klose"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine, LMU Center for Children With Medical Complexity, Dr. von Hauner Children's Hospital, LMU-University Hospital, Ludwig-Maximilians-Universität, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Krieg SM"
+          ],
+          "firstName": [
+            "Sandro M"
+          ],
+          "lastName": [
+            "Krieg"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, Klinikum rechts der Isar, Technische Universität München, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Heinen F"
+          ],
+          "firstName": [
+            "Florian"
+          ],
+          "lastName": [
+            "Heinen"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine, LMU Center for Children With Medical Complexity, Dr. von Hauner Children's Hospital, LMU-University Hospital, Ludwig-Maximilians-Universität, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gerstl L"
+          ],
+          "firstName": [
+            "Lucia"
+          ],
+          "lastName": [
+            "Gerstl"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine, LMU Center for Children With Medical Complexity, Dr. von Hauner Children's Hospital, LMU-University Hospital, Ludwig-Maximilians-Universität, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Landgraf MN"
+          ],
+          "firstName": [
+            "Mirjam N"
+          ],
+          "lastName": [
+            "Landgraf"
+          ],
+          "initials": [
+            "MN"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine, LMU Center for Children With Medical Complexity, Dr. von Hauner Children's Hospital, LMU-University Hospital, Ludwig-Maximilians-Universität, Munich, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8120-2223",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "738"
+  ],
+  "abstractText": [
+    "Purpose: Repetitive peripheral magnetic stimulation (rPMS) has been successfully applied recently in migraineurs to alleviate migraine symptoms. Symptom relief has been achieved by stimulating myofascial trigger points (mTrPs) of the trapezius muscles, which are considered part of the trigemino-cervical complex (TCC). However, effects on musculature have not been assessed in detail, and the specificity of effects to muscles considered part of the TCC yet has to be elucidated. Against this background, this study presents the setup of rPMS in migraine and evaluates effects on skeletal musculature. Materials and Methods: Thirty-seven adults (mean age: 25.0 ± 4.1 years, 36 females) suffering from migraine and presenting mTrPs according to physical examination underwent rPMS either to mTrPs in the trapezius muscles (considered part of the TCC; n = 19) or deltoid muscles (considered not part of the TCC; n = 18) during six sessions over the course of 2 weeks. Standardized questionnaires were filled in to assess any adverse events and experience with rPMS as well as satisfaction and benefits from stimulation. Algometry was performed to evaluate changes in pressure pain thresholds (PPTs). Results: All stimulation sessions were successfully performed without adverse events, with 84.2% of subjects of the trapezius group and 94.4% of subjects of the deltoid group describing rPMS as comfortable (p = 0.736). Muscular pain or tension improved in 73.7% of subjects of the trapezius group and in 61.1% of subjects of the deltoid group (p = 0.077). PPTs of the trapezius muscles clearly increased from the first to the last stimulation sessions-regardless of the stimulated muscle (rPMS to the trapezius or deltoid muscles). However, depending on the examined muscles the increase of PPTs differed significantly (subjects with stimulation of trapezius muscles: p = 0.021; subjects with stimulation of deltoid muscles: p = 0.080). Conclusion: rPMS is a comfortable method in migraineurs that can improve local muscular pain or tension. Furthermore, it is able to increase directly and indirectly the PPTs of the trapezius muscles (considered part of the TCC) when applied over mTrPs, supporting the role of the TCC in migraineurs."
+  ],
+  "affiliation": [
+    "Department of Pediatric Neurology and Developmental Medicine, LMU Center for Children With Medical Complexity, Dr. von Hauner Children's Hospital, LMU-University Hospital, Ludwig-Maximilians-Universität, Munich, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Deltoid Muscle",
+        "Trapezius Muscle",
+        "Repetitive Peripheral Magnetic Stimulation",
+        "Active Myofascial Trigger Points",
+        "Trigemino-cervical Complex"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00738"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6646581"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6646581?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-06"
+  ],
+  "firstIndexDate": [
+    "2019-08-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-04"
+  ],
+  "dateOfRevision": [
+    "2019-08-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-16"
+  ],
+  "firstPublicationDate": [
+    "2019-07-16"
+  ]
+}

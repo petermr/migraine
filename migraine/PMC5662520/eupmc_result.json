@@ -1,0 +1,845 @@
+{
+  "id": [
+    "29086160"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29086160"
+  ],
+  "pmcid": [
+    "PMC5662520"
+  ],
+  "doi": [
+    "10.1186/s10194-017-0815-1"
+  ],
+  "title": [
+    "Hormonal contraceptives and risk of ischemic stroke in women with migraine: a consensus statement from the European Headache Federation (EHF) and the European Society of Contraception and Reproductive Health (ESC)."
+  ],
+  "authorString": [
+    "Sacco S, Merki-Feld GS, Ægidius KL, Bitzer J, Canonico M, Kurth T, Lampl C, Lidegaard Ø, Anne MacGregor E, MaassenVanDenBrink A, Mitsikostas DD, Nappi RE, Ntaios G, Sandset PM, Martelletti P, European Headache Federation (EHF) and the European Society of Contraception and Reproductive Health (ESC)."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sacco S"
+          ],
+          "firstName": [
+            "Simona"
+          ],
+          "lastName": [
+            "Sacco"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0651-1939",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Applied Clinical Sciences and Biotechnology, University of L'Aquila, L'Aquila, Italy. simona.sacco@univaq.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Merki-Feld GS"
+          ],
+          "firstName": [
+            "Gabriele S"
+          ],
+          "lastName": [
+            "Merki-Feld"
+          ],
+          "initials": [
+            "GS"
+          ],
+          "affiliation": [
+            "Department of Gynecology, Clinic for Reproductive Endocrinology, University Hospital, Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Ægidius KL"
+          ],
+          "firstName": [
+            "Karen Lehrmann"
+          ],
+          "lastName": [
+            "Ægidius"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "affiliation": [
+            "Department of Neurology, Bispebjerg Hospital and University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Bitzer J"
+          ],
+          "firstName": [
+            "Johannes"
+          ],
+          "lastName": [
+            "Bitzer"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Obstetrics and Gynecology, University Hospital of Basel, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Canonico M"
+          ],
+          "firstName": [
+            "Marianne"
+          ],
+          "lastName": [
+            "Canonico"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Université Paris-Saclay, University Paris-Sud, UVSQ, CESP, Inserm UMRS1018, Orsay, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Kurth T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Kurth"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7169-2620",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Public Health, Charité - Universitätsmedizin Berlin, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lampl C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Lampl"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Headache Medical Center Seilerstaette Linz, Linz, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Lidegaard Ø"
+          ],
+          "firstName": [
+            "Øjvind"
+          ],
+          "lastName": [
+            "Lidegaard"
+          ],
+          "initials": [
+            "Ø"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynaecology, Rigshospitalet, Faculty of Health Sciences, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Anne MacGregor E"
+          ],
+          "firstName": [
+            "E"
+          ],
+          "lastName": [
+            "Anne MacGregor"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Centre for Neuroscience & Trauma, BICMS, Barts and the London School of Medicine and Dentistry, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "MaassenVanDenBrink A"
+          ],
+          "firstName": [
+            "Antoinette"
+          ],
+          "lastName": [
+            "MaassenVanDenBrink"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Division of Vascular Medicine and Pharmacology, Department of Internal Medicine, Erasmus Medical Center Rotterdam, Rotterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Mitsikostas DD"
+          ],
+          "firstName": [
+            "Dimos-Dimitrios"
+          ],
+          "lastName": [
+            "Mitsikostas"
+          ],
+          "initials": [
+            "DD"
+          ],
+          "affiliation": [
+            "Department of Neurology, Aeginition Hospital, National and Kapodistrian University of Athens, Athens, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Nappi RE"
+          ],
+          "firstName": [
+            "Rossella Elena"
+          ],
+          "lastName": [
+            "Nappi"
+          ],
+          "initials": [
+            "RE"
+          ],
+          "affiliation": [
+            "Research Centre for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ntaios G"
+          ],
+          "firstName": [
+            "George"
+          ],
+          "lastName": [
+            "Ntaios"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Medicine, University of Thessaly, Larissa, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Sandset PM"
+          ],
+          "firstName": [
+            "Per Morten"
+          ],
+          "lastName": [
+            "Sandset"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            "Department of Haematology, Oslo University Hospital and University of Oslo, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Martelletti P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Martelletti"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Clinical and Molecular Medicine, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "collectiveName": [
+            "European Headache Federation (EHF) and the European Society of Contraception and Reproductive Health (ESC)"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7169-2620",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2843-8640",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0651-1939",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2603225"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "108"
+  ],
+  "abstractText": [
+    "Several data indicate that migraine, especially migraine with aura, is associated with an increased risk of ischemic stroke and other vascular events. Of concern is whether the risk of ischemic stroke in migraineurs is magnified by the use of hormonal contraceptives. As migraine prevalence is high in women of reproductive age, it is common to face the issue of migraine and hormonal contraceptive use in clinical practice. In this document, we systematically reviewed data about the association between migraine, ischemic stroke and hormonal contraceptive use. Thereafter a consensus procedure among international experts was done to develop statements to support clinical decision making, in terms of cardiovascular safety, for prescription of hormonal contraceptives to women with migraine. Overall, quality of current evidence regarding the risk of ischemic stroke in migraineurs associated with the use of hormonal contraceptives is low. Available data suggest that combined hormonal contraceptive may further increase the risk of ischemic stroke in those who have migraine, specifically migraine with aura. Thus, our current statements privilege safety and provide several suggestions to try to avoid possible risks. As the quality of available data is poor further research is needed on this topic to increase safe use of hormonal contraceptives in women with migraine."
+  ],
+  "affiliation": [
+    "Department of Applied Clinical Sciences and Biotechnology, University of L'Aquila, L'Aquila, Italy. simona.sacco@univaq.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NNF14OC0011645"
+          ],
+          "agency": [
+            "Novo Nordisk Fonden"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Ischemia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Contraceptives, Oral, Combined"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Contraceptives, Oral, Hormonal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Consensus"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine with Aura"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stroke"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reproductive Health"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Contraception",
+        "Migraine",
+        "Stroke",
+        "Headache",
+        "Hormonal Contraceptives",
+        "Aura"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Contraceptives, Oral, Combined"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Contraceptives, Oral, Hormonal"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-017-0815-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5662520"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5662520?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30203397"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "J Headache Pain. 2018 Sep 10;19(1):81"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "128"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-05-01"
+  ],
+  "dateOfCreation": [
+    "2017-11-01"
+  ],
+  "firstIndexDate": [
+    "2017-11-01"
+  ],
+  "fullTextReceivedDate": [
+    "2017-11-17"
+  ],
+  "dateOfRevision": [
+    "2018-09-14"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-30"
+  ],
+  "firstPublicationDate": [
+    "2017-10-30"
+  ]
+}

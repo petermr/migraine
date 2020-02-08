@@ -1,0 +1,346 @@
+{
+  "id": [
+    "31043785"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31043785"
+  ],
+  "pmcid": [
+    "PMC6469474"
+  ],
+  "doi": [
+    "10.2147/TCRM.S159690"
+  ],
+  "title": [
+    "Once-monthly galcanezumab for the prevention of migraine in adults: an evidence-based descriptive review and potential place in therapy."
+  ],
+  "authorString": [
+    "Lupi C, Guerzoni S, Negro A, Benemei S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lupi C"
+          ],
+          "firstName": [
+            "Chiara"
+          ],
+          "lastName": [
+            "Lupi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Headache Centre, Careggi University Hospital, Department of Health Sciences, University of Florence, Florence, Italy, silvia.benemei@unifi.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Guerzoni S"
+          ],
+          "firstName": [
+            "Simona"
+          ],
+          "lastName": [
+            "Guerzoni"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Medical Toxicology Unit, Headache and Drug Abuse Centre, Department of Biomedical, Metabolic and Neural Sciences, University of Modena e Reggio Emilia, Modena, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Negro A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Negro"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3590-298X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Clinical and Molecular Medicine, Regional Referral Headache Centre, Sant'Andrea Hospital, Sapienza University, Rome."
+          ]
+        },
+        {
+          "fullName": [
+            "Benemei S"
+          ],
+          "firstName": [
+            "Silvia"
+          ],
+          "lastName": [
+            "Benemei"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6316-430X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Headache Centre, Careggi University Hospital, Department of Health Sciences, University of Florence, Florence, Italy, silvia.benemei@unifi.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3590-298X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6316-430X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2762016"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Therapeutics and clinical risk management"
+          ],
+          "ISOAbbreviation": [
+            "Ther Clin Risk Manag"
+          ],
+          "medlineAbbreviation": [
+            "Ther Clin Risk Manag"
+          ],
+          "NLMid": [
+            "101253281"
+          ],
+          "ISSN": [
+            "1176-6336"
+          ],
+          "ESSN": [
+            "1178-203X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "557-569"
+  ],
+  "abstractText": [
+    "In the last 15 years relevant efforts have been made to demonstrate that calcitonin gene-related peptide (CGRP) antagonism is a valuable and druggable mechanism for treatment or prevention of migraine. Galcanezumab is one of the antibodies developed and studied to prevent migraine by targeting CGRP. The scope of this review is to report data currently available on galcanezumab. According to available data, galcanezumab is safe and efficacious in preventing migraine in episodic migraine patients, also reducing disability and functional impairment due to the disorder. In September 2018, galcanezumab was approved in the USA for the prevention of migraine in adults. The placement of galcanezumab into the current therapeutic scenario will be a revolution for migraine patients, and probably in a less near future also for patients affected by other primary headaches."
+  ],
+  "affiliation": [
+    "Headache Centre, Careggi University Hospital, Department of Health Sciences, University of Florence, Florence, Italy, silvia.benemei@unifi.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Calcitonin gene-related peptide",
+        "CGRP",
+        "Headache",
+        "Ly2951742",
+        "Monoclonal Antibody Prophylaxis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/TCRM.S159690"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6469474"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6469474?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-05-03"
+  ],
+  "firstIndexDate": [
+    "2019-05-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-06"
+  ],
+  "dateOfRevision": [
+    "2019-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-11"
+  ],
+  "firstPublicationDate": [
+    "2019-04-11"
+  ]
+}

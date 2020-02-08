@@ -1,0 +1,1021 @@
+{
+  "id": [
+    "27164717"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27164717"
+  ],
+  "pmcid": [
+    "PMC4862248"
+  ],
+  "doi": [
+    "10.1212/WNL.0000000000002666"
+  ],
+  "title": [
+    "Definition and diagnostic criteria of sleep-related hypermotor epilepsy."
+  ],
+  "authorString": [
+    "Tinuper P, Bisulli F, Cross JH, Hesdorffer D, Kahane P, Nobili L, Provini F, Scheffer IE, Tassi L, Vignatelli L, Bassetti C, Cirignotta F, Derry C, Gambardella A, Guerrini R, Halasz P, Licchetta L, Mahowald M, Manni R, Marini C, Mostacci B, Naldi I, Parrino L, Picard F, Pugliatti M, Ryvlin P, Vigevano F, Zucconi M, Berkovic S, Ottman R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tinuper P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Tinuper"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Bisulli F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Bisulli"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1109-7296",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Cross JH"
+          ],
+          "firstName": [
+            "J H"
+          ],
+          "lastName": [
+            "Cross"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Hesdorffer D"
+          ],
+          "firstName": [
+            "Dale"
+          ],
+          "lastName": [
+            "Hesdorffer"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Kahane P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Kahane"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Nobili L"
+          ],
+          "firstName": [
+            "Lino"
+          ],
+          "lastName": [
+            "Nobili"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Provini F"
+          ],
+          "firstName": [
+            "Federica"
+          ],
+          "lastName": [
+            "Provini"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Scheffer IE"
+          ],
+          "firstName": [
+            "Ingrid E"
+          ],
+          "lastName": [
+            "Scheffer"
+          ],
+          "initials": [
+            "IE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2311-2174",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Tassi L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Tassi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Vignatelli L"
+          ],
+          "firstName": [
+            "Luca"
+          ],
+          "lastName": [
+            "Vignatelli"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9051-7091",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Bassetti C"
+          ],
+          "firstName": [
+            "Claudio"
+          ],
+          "lastName": [
+            "Bassetti"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4535-0245",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Cirignotta F"
+          ],
+          "firstName": [
+            "Fabio"
+          ],
+          "lastName": [
+            "Cirignotta"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Derry C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Derry"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Gambardella A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Gambardella"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7384-3074",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Guerrini R"
+          ],
+          "firstName": [
+            "Renzo"
+          ],
+          "lastName": [
+            "Guerrini"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Halasz P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Halasz"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Licchetta L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Licchetta"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Mahowald M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Mahowald"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Manni R"
+          ],
+          "firstName": [
+            "Raffaele"
+          ],
+          "lastName": [
+            "Manni"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Marini C"
+          ],
+          "firstName": [
+            "Carla"
+          ],
+          "lastName": [
+            "Marini"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Mostacci B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Mostacci"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6994-0821",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Naldi I"
+          ],
+          "firstName": [
+            "Ilaria"
+          ],
+          "lastName": [
+            "Naldi"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Parrino L"
+          ],
+          "firstName": [
+            "Liborio"
+          ],
+          "lastName": [
+            "Parrino"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4035-6234",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Picard F"
+          ],
+          "firstName": [
+            "Fabienne"
+          ],
+          "lastName": [
+            "Picard"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Pugliatti M"
+          ],
+          "firstName": [
+            "Maura"
+          ],
+          "lastName": [
+            "Pugliatti"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Ryvlin P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Ryvlin"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7775-6576",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Vigevano F"
+          ],
+          "firstName": [
+            "Federico"
+          ],
+          "lastName": [
+            "Vigevano"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Zucconi M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Zucconi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Berkovic S"
+          ],
+          "firstName": [
+            "Samuel"
+          ],
+          "lastName": [
+            "Berkovic"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        },
+        {
+          "fullName": [
+            "Ottman R"
+          ],
+          "firstName": [
+            "Ruth"
+          ],
+          "lastName": [
+            "Ottman"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2311-2174",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9051-7091",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4035-6234",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1109-7296",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7384-3074",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4535-0245",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7775-6576",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6994-0821",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "19"
+      ],
+      "volume": [
+        "86"
+      ],
+      "journalIssueId": [
+        "2407528"
+      ],
+      "dateOfPublication": [
+        "2016 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neurology"
+          ],
+          "ISOAbbreviation": [
+            "Neurology"
+          ],
+          "medlineAbbreviation": [
+            "Neurology"
+          ],
+          "NLMid": [
+            "0401060"
+          ],
+          "ISSN": [
+            "0028-3878"
+          ],
+          "ESSN": [
+            "1526-632X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "1834-1842"
+  ],
+  "abstractText": [
+    "The syndrome known as nocturnal frontal lobe epilepsy is recognized worldwide and has been studied in a wide range of clinical and scientific settings (epilepsy, sleep medicine, neurosurgery, pediatric neurology, epidemiology, genetics). Though uncommon, it is of considerable interest to practicing neurologists because of complexity in differential diagnosis from more common, benign sleep disorders such as parasomnias, or other disorders like psychogenic nonepileptic seizures. Moreover, misdiagnosis can have substantial adverse consequences on patients' lives. At present, there is no consensus definition of this disorder and disagreement persists about its core electroclinical features and the spectrum of etiologies involved. To improve the definition of the disorder and establish diagnostic criteria with levels of certainty, a consensus conference using formal recommended methodology was held in Bologna in September 2014. It was recommended that the name be changed to sleep-related hypermotor epilepsy (SHE), reflecting evidence that the attacks are associated with sleep rather than time of day, the seizures may arise from extrafrontal sites, and the motor aspects of the seizures are characteristic. The etiology may be genetic or due to structural pathology, but in most cases remains unknown. Diagnostic criteria were developed with 3 levels of certainty: witnessed (possible) SHE, video-documented (clinical) SHE, and video-EEG-documented (confirmed) SHE. The main research gaps involve epidemiology, pathophysiology, treatment, and prognosis."
+  ],
+  "affiliation": [
+    "From IRCCS Istituto delle Scienze Neurologiche (P.T., F.B., F. Provini, L.V., L.L., B.M., I.N.), Bologna; Department of Biomedical and Neuromotor Sciences (P.T., F.B., F. Provini, L.L.), University of Bologna, Italy; University College London-Institute of Child Health (J.H.C.), Great Ormond Street Hospital for Children NHS Foundation Trust, London and Young Epilepsy, Lingfield, UK; Department of Epidemiology (D.H., R.O.), Mailman School of Public Health, and G.H. Sergievsky Center, College of Physicians & Surgeons, Columbia University, New York, NY; Unité Médicale Epilepsie et Malaises (P.K.), Pôle de Neurologie et Psychiatrie, CHU de Grenoble, France; \"C. Munari\" Center for Epilepsy Surgery (L.N., L.T.), Niguarda Hospital, Milan, Italy; Epilepsy Research Centre (I.E.S.), Department of Medicine, University of Melbourne, Austin Health, Australia; Department of Neurology (C.B.), University of Bern, Switzerland; Unit of Neurology (F.C.), S. Orsola-Malpighi Hospital, University of Bologna, Italy; Department of Clinical Neurosciences (C.D.), Western General Hospital, Edinburgh, UK; Department of Medical and Surgical Sciences (A.G.), Institute of Neurology, University Magna Græcia, Catanzaro, Italy; Neurology Unit and Laboratories (R.G., C.M.), A. Meyer Children's Hospital, Florence, Italy; National Institute of Clinical Neuroscience (P.H.), Budapest, Hungary; Department of Neurology (M.M.), University of Minnesota Medical School, Minneapolis; Institute of Neurology Mondino (R.M.), University of Pavia; Sleep Disorders Center (L.P.), Department of Neurology, University of Parma, Italy; Department of Neurology (F. Picard), University Hospital and Medical School of Geneva, Switzerland; Department of Biomedical and Surgical Sciences (M.P.), University of Ferrara, Italy; Department of Clinical Neurosciences (P.R.), CHUV, Lausanne, Switzerland; Functional Neurology and Epileptology (P.R.), Hospices Civils de Lyon and CRNL, Lyon; Epilepsy Institute (P.R.), IDEE, Lyon, France"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Consensus Development Conference",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "GGP13200"
+          ],
+          "agency": [
+            "Telethon"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epilepsy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electroencephalography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Video Recording"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Terminology as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1212/WNL.0000000000002666"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4862248"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4862248?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "33"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-04-28"
+  ],
+  "dateOfCreation": [
+    "2016-05-11"
+  ],
+  "firstIndexDate": [
+    "2016-05-11"
+  ],
+  "fullTextReceivedDate": [
+    "2016-05-22"
+  ],
+  "dateOfRevision": [
+    "2017-04-28"
+  ],
+  "electronicPublicationDate": [
+    "2016-04-15"
+  ],
+  "firstPublicationDate": [
+    "2016-04-15"
+  ]
+}

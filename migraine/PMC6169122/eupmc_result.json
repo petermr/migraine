@@ -1,0 +1,274 @@
+{
+  "id": [
+    "30320034"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30320034"
+  ],
+  "pmcid": [
+    "PMC6169122"
+  ],
+  "title": [
+    "Comparison of Parametric and Non-parametric EEG Feature Extraction Methods in Detection of Pediatric Migraine without Aura."
+  ],
+  "authorString": [
+    "Kazemi S, Katibeh P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kazemi S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Kazemi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Katibeh P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Katibeh"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1380-314X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Neurologist, Assistant professor of Shiraz University of medical science, Shiraz, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1380-314X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2739275"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of biomedical physics & engineering"
+          ],
+          "ISOAbbreviation": [
+            "J Biomed Phys Eng"
+          ],
+          "medlineAbbreviation": [
+            "J Biomed Phys Eng"
+          ],
+          "NLMid": [
+            "101589641"
+          ],
+          "ISSN": [
+            "2251-7200"
+          ],
+          "ESSN": [
+            "2251-7200"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "305-310"
+  ],
+  "abstractText": [
+    "Background:Migraine headache without aura is the most common type of migraine especially among pediatric patients. It has always been a great challenge of migraine diagnosis using quantitative electroencephalography measurements through feature classification. It has been proven that different feature extraction and classification methods vary in terms of performance regarding detection and diagnostic accuracy. Previous work on the subject was controversial, hence a comparison of these methods seems necessary. Objective:The aim of this research is to compare two parametric and non-parametric feature extraction methods and also two classification methods in order to obtain optimal combinations of diagnostic accuracy. Materials and Methods:Having recorded background EEG from 24 pediatric migraineurs and 19 control subjects, data was processed by Welch's and Yule-Walker's methods. Features were selected using genetic algorithm, and then given to a support vector machine and the linear discriminant analysis for the classification. Accuracy was calculated for all combinations having the dominant frequency and the correlated absolute power of each EEG wave band (theta, alpha, and beta) and for all wave bands combined. Results:The highest migraine detection accuracy of 93% was obtained utilizing Welch's method for EEG feature extraction alongside support vector machine for a classifier. Besides, Yule-Walker autoregressive method showed better performance than Welch's, when only power bands (and not the dominant frequency) were used as classification input. Conclusion:The superiority of Welch's method over Yule-Walker's and the support vector machine over linear discriminant analysis can be great help for further researches on computer aided EEG-based diagnosis of migraine."
+  ],
+  "affiliation": [
+    "School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Support vector machine",
+        "Linear Discriminant Analysis",
+        "Quantitative Electroencephalography",
+        "Welch",
+        "Yule-walker Autoregressive Method"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6169122"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6169122?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-16"
+  ],
+  "firstIndexDate": [
+    "2018-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-17"
+  ],
+  "dateOfRevision": [
+    "2018-10-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-01"
+  ],
+  "firstPublicationDate": [
+    "2018-09-01"
+  ]
+}

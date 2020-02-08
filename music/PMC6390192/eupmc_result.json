@@ -1,0 +1,581 @@
+{
+  "id": [
+    "30747715"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30747715"
+  ],
+  "pmcid": [
+    "PMC6390192"
+  ],
+  "doi": [
+    "10.2196/13080"
+  ],
+  "title": [
+    "Evaluation of Self-Management Support Functions in Apps for People With Persistent Pain: Systematic Review."
+  ],
+  "authorString": [
+    "Devan H, Farmery D, Peebles L, Grainger R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Devan H"
+          ],
+          "firstName": [
+            "Hemakumar"
+          ],
+          "lastName": [
+            "Devan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2923-7277",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Health, Activity and Rehabilitation Research, School of Physiotherapy, University of Otago, Wellington, New Zealand."
+          ]
+        },
+        {
+          "fullName": [
+            "Farmery D"
+          ],
+          "firstName": [
+            "Devin"
+          ],
+          "lastName": [
+            "Farmery"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0931-2786",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medicine, University of Otago, Wellington, New Zealand."
+          ]
+        },
+        {
+          "fullName": [
+            "Peebles L"
+          ],
+          "firstName": [
+            "Lucy"
+          ],
+          "lastName": [
+            "Peebles"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4193-7732",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Otago, Wellington, New Zealand."
+          ]
+        },
+        {
+          "fullName": [
+            "Grainger R"
+          ],
+          "firstName": [
+            "Rebecca"
+          ],
+          "lastName": [
+            "Grainger"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9201-8678",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medicine, University of Otago, Wellington, New Zealand."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2923-7277",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0931-2786",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9201-8678",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4193-7732",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2776451"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JMIR mHealth and uHealth"
+          ],
+          "ISOAbbreviation": [
+            "JMIR Mhealth Uhealth"
+          ],
+          "medlineAbbreviation": [
+            "JMIR Mhealth Uhealth"
+          ],
+          "NLMid": [
+            "101624439"
+          ],
+          "ISSN": [
+            "2291-5222"
+          ],
+          "ESSN": [
+            "2291-5222"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e13080"
+  ],
+  "abstractText": [
+    "BACKGROUND:Smartphone apps are a potential mechanism for development of self-management skills in people with persistent pain. However, the inclusion of best-practice content items in available pain management apps fostering core self-management skills for self-management support is not known. OBJECTIVE:The aim of the study was to evaluate the contents of smartphone apps providing information on pain management strategies for people with persistent pain facilitating self-management support and to appraise the app quality. METHODS:A systematic search was performed in the New Zealand App Store and Google Play Store. Apps were included if they were designed for people with persistent pain, provided information on pain self-management strategies, and were available in English. App contents were evaluated using an a priori 14-item self-management support (SMS-14) checklist. App quality was assessed using the 23-item Mobile Apps Rating Scale. RESULTS:Of the 939 apps screened, 19 apps met the inclusion criteria. Meditation and guided relaxation were the most frequently included self-management strategies. Overall, the included apps met a median of 4 (range 1-8) of the SMS-14 checklist. A total of 3 apps (Curable, PainScale-Pain Diary and Coach, and SuperBetter) met the largest number of items (8 out of 14) to foster self-management of pain. Self-monitoring of symptoms (n=11) and self-tailoring of strategies (n=9) were frequently featured functions, whereas a few apps had features facilitating social support and enabling communicating with clinicians. No apps provided information tailored to the cultural needs of the user. The app quality mean scores using Mobile Apps Rating Scale ranged from 2.7 to 4.5 (out of 5.0). Although use of 2 apps (Headspace and SuperBetter) has been shown to improve health outcomes, none of the included apps have been evaluated in people with persistent pain. CONCLUSIONS:Of the 3 apps (Curable, PainScale-Pain Diary and Coach, and SuperBetter) that met the largest number of items to support skills in self-management of pain, 2 apps (PainScale-Pain Diary and Coach and SuperBetter) were free, suggesting the potential for using apps as a scalable, wide-reaching intervention to complement face-to-face care. However, none provided culturally tailored information. Although 2 apps (Headspace and SuperBetter) were validated to show improved health outcomes, none were tested in people with persistent pain. Both users and clinicians should be aware of such limitations and make informed choices in using or recommending apps as a self-management tool. For better integration of apps in clinical practice, concerted efforts are required among app developers, clinicians, and people with persistent pain in developing apps and evaluating for clinical efficacy."
+  ],
+  "affiliation": [
+    "Centre for Health, Activity and Rehabilitation Research, School of Physiotherapy, University of Otago, Wellington, New Zealand."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "New Zealand"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Management"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mobile Applications"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Self-Management"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Culture",
+        "Technology",
+        "Chronic pain",
+        "Self-management",
+        "Smartphone",
+        "Mhealth"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2196/13080"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6390192"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-01-29"
+  ],
+  "dateOfCreation": [
+    "2019-02-13"
+  ],
+  "firstIndexDate": [
+    "2019-02-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-18"
+  ],
+  "dateOfRevision": [
+    "2020-01-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-12"
+  ],
+  "firstPublicationDate": [
+    "2019-02-12"
+  ]
+}

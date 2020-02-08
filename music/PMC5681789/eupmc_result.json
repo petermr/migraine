@@ -1,0 +1,529 @@
+{
+  "id": [
+    "29126444"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29126444"
+  ],
+  "pmcid": [
+    "PMC5681789"
+  ],
+  "doi": [
+    "10.1186/s12913-017-2668-3"
+  ],
+  "title": [
+    "Expectations towards participation in easily accessible pain management interventions: a qualitative study."
+  ],
+  "authorString": [
+    "Nøst TH, Steinsbekk A, Riseth L, Bratås O, Grønning K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nøst TH"
+          ],
+          "firstName": [
+            "Torunn Hatlen"
+          ],
+          "lastName": [
+            "Nøst"
+          ],
+          "initials": [
+            "TH"
+          ],
+          "affiliation": [
+            "Department of Public Health and Nursing, Norwegian University of Science and Technology, Postbox 8905, 7491, Trondheim, Norway. torunn.h.nost@ntnu.no."
+          ]
+        },
+        {
+          "fullName": [
+            "Steinsbekk A"
+          ],
+          "firstName": [
+            "Aslak"
+          ],
+          "lastName": [
+            "Steinsbekk"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Public Health and Nursing, Norwegian University of Science and Technology, Postbox 8905, 7491, Trondheim, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Riseth L"
+          ],
+          "firstName": [
+            "Liv"
+          ],
+          "lastName": [
+            "Riseth"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Public Health and Nursing, Norwegian University of Science and Technology, Postbox 8905, 7491, Trondheim, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Bratås O"
+          ],
+          "firstName": [
+            "Ola"
+          ],
+          "lastName": [
+            "Bratås"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Public Health and Nursing, Norwegian University of Science and Technology, Postbox 8905, 7491, Trondheim, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Grønning K"
+          ],
+          "firstName": [
+            "Kjersti"
+          ],
+          "lastName": [
+            "Grønning"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4256-6339",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Public Health and Nursing, Norwegian University of Science and Technology, Postbox 8905, 7491, Trondheim, Norway."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4256-6339",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2616406"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC health services research"
+          ],
+          "ISOAbbreviation": [
+            "BMC Health Serv Res"
+          ],
+          "medlineAbbreviation": [
+            "BMC Health Serv Res"
+          ],
+          "NLMid": [
+            "101088677"
+          ],
+          "ISSN": [
+            "1472-6963"
+          ],
+          "ESSN": [
+            "1472-6963"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "712"
+  ],
+  "abstractText": [
+    "BACKGROUND:People with chronic pain use a range of healthcare services, but they also report a high degree of dissatisfaction with treatments. One reason for dissatisfaction might be participants' expectations towards treatments. The aim of this study was to explore expectations of people with chronic pain towards participation in easily accessible pain management interventions delivered in public primary care. METHODS:A qualitative study using semi-structured individual face-to-face interviews with 21 informants. The informants were recruited among participants enrolled in a randomised controlled trial on the effect of an easily accessible self-management course for people with chronic pain. The data were analysed thematically using Systematic Text Condensation. RESULTS:Having experienced pain for a long time, there was no specific expectation of a cure or a significant alleviation of the pain. The informants' expectations mainly concerned a hope that participation could lead to a better everyday life. The informants said that hope was important as it motivated them to keep going and continue self-care activities. The hope acted as a driving force towards trying new interventions and maintaining motivation to do activities they experienced as beneficial. Both concrete aspects of the current intervention and an understanding of what interventions in general could offer contributed to the informants hope. The expectations centred about the interventions being something new, as they had not previously tried this service, an opportunity to gain and reinforce skills, to help them continue to grow as a person, to meet others in similar situations, and to access professional support in an easy manner. Participating in interventions provided by healthcare services was seen by some as an act of self-care, where they did something active to manage their health. CONCLUSIONS:Expectations towards the interventions were related to a hope for participation leading to a better everyday life. The role of hope for peoples' motivation to self-care implies that service providers should be aware of and help to maintain hope for a better everyday life. The importance of social support as part of self-care should be acknowledged when developing interventions targeting chronic pain. TRIAL REGISTRATION:ClinicalTrials.gov: NCT02531282 . Registered on August 21 2015."
+  ],
+  "affiliation": [
+    "Department of Public Health and Nursing, Norwegian University of Science and Technology, Postbox 8905, 7491, Trondheim, Norway. torunn.h.nost@ntnu.no."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "238331/F60"
+          ],
+          "agency": [
+            "Norges Forskningsråd"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Self Care"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motivation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Qualitative Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Social Support"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Patient Satisfaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Primary Health Care"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Norway"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interviews as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pain Management"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chronic pain",
+        "Primary Health Care",
+        "Qualitative Research",
+        "Self-care",
+        "Expectation",
+        "Health Services Accessibility"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12913-017-2668-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5681789"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5681789?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-05-14"
+  ],
+  "dateOfCreation": [
+    "2017-11-12"
+  ],
+  "firstIndexDate": [
+    "2017-11-12"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-28"
+  ],
+  "dateOfRevision": [
+    "2019-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-10"
+  ],
+  "firstPublicationDate": [
+    "2017-11-10"
+  ]
+}

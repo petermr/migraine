@@ -1,0 +1,343 @@
+{
+  "id": [
+    "31555627"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31555627"
+  ],
+  "pmcid": [
+    "PMC6742947"
+  ],
+  "doi": [
+    "10.3389/fped.2019.00367"
+  ],
+  "title": [
+    "Utilization of a Novel Pathway in a Tertiary Pediatric Hospital to Meet the Sensory Needs of Acutely Ill Pediatric Patients."
+  ],
+  "authorString": [
+    "Gupta N, Brown C, Deneke J, Maha J, Kong M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gupta N"
+          ],
+          "firstName": [
+            "Neha"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7606-4612",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of Alabama at Birmingham, CPPI Suite, Birmingham, AL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Brown C"
+          ],
+          "firstName": [
+            "Chelsea"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Children's of Alabama, Birmingham, AL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Deneke J"
+          ],
+          "firstName": [
+            "Jennifer"
+          ],
+          "lastName": [
+            "Deneke"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Children's of Alabama, Birmingham, AL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Maha J"
+          ],
+          "firstName": [
+            "Julian"
+          ],
+          "lastName": [
+            "Maha"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "KultureCity, Birmingham, AL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Kong M"
+          ],
+          "firstName": [
+            "Michele"
+          ],
+          "lastName": [
+            "Kong"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of Alabama at Birmingham, CPPI Suite, Birmingham, AL, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7606-4612",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2778733"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Front Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Front Pediatr"
+          ],
+          "NLMid": [
+            "101615492"
+          ],
+          "ISSN": [
+            "2296-2360"
+          ],
+          "ESSN": [
+            "2296-2360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "367"
+  ],
+  "abstractText": [
+    "Objective: To identify pediatric patients with sensory sensitivities during a hospital visit, and to implement a clinical pathway that can meet their sensory needs. The goal is to remove barriers to care delivery that is related to the sensory need for pediatric patients who present with an acute medical illness. Methods: The clinical pathway (identified as 'Sensory Pathway') was developed as a joint effort between key stakeholders within the community and medical providers. The pathway was conducted in a tertiary pediatric hospital from September 2016-April 2019. The main components of this pathway included- 1. Staff training; 2. Provision of sensory toolkits and story board; 3. Early collaboration with allied professionals; and 4. Early and continuous parental involvement. The Sensory Pathway was implemented first in the emergency department, followed by inpatient units. Patients triggered the pathway through caregiver or staff identification. Demographic of patients who triggered the pathway was extracted. A detailed qualitative analysis of any parents' feedback received was performed. Results: A cohort of patients with sensory needs was identified amongst pediatric patients who presented to the hospital with an acute illness. The most common comorbidity associated with sensory sensitivity/need was Autism Spectrum Disorder (48%), followed by cerebral palsy (22.8%) and Attention-Deficit/Hyperactivity Disorder (16%). 1337 patients (51.8%) had a single comorbidity while 45.9% patients had more than one comorbidity. Only 1.3% patients had a known diagnosis of sensory processing disorder. The pathway was triggered in 2,580 patient visits with 1643 patients and 937 repeat visits. The vast majority of patients who triggered the pathway had a medical presenting complaint (vs. behavioral). The following themes emerged from the parents' feedback: 1. Additional help received specific to the child's sensory needs; 2. Feeling of comfort; and 3. Improved overall experience. Conclusion: The Sensory Pathway identified a unique profile of pediatric patients who have sensory needs during their hospital stay. The pathway was successfully implemented for children with sensory need in our hospital across a wide range of demographic and with varied medical illness."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, University of Alabama at Birmingham, CPPI Suite, Birmingham, AL, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Emergency Department",
+        "Acute Illness",
+        "Sensory Sensitivities",
+        "Sensory Needs",
+        "Sensory Pathway",
+        "Sensory Processing Difficulties"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fped.2019.00367"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6742947"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6742947?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-27"
+  ],
+  "firstIndexDate": [
+    "2019-09-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-06"
+  ],
+  "firstPublicationDate": [
+    "2019-09-06"
+  ]
+}

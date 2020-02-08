@@ -1,0 +1,216 @@
+{
+  "id": [
+    "28908186"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28908186"
+  ],
+  "pmcid": [
+    "PMC5078231"
+  ],
+  "title": [
+    "Occupational and Physio-Therapy as Adjuncts to Child Guidance: A Suggestion for Designers of Child Guidance Clinics."
+  ],
+  "authorString": [
+    "Wellisch E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wellisch E"
+          ],
+          "firstName": [
+            "E"
+          ],
+          "lastName": [
+            "Wellisch"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Consultant Phys. Med. (Austria) Medical Director, Crayford Child Guidance Clinic, Kent."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2521366"
+      ],
+      "dateOfPublication": [
+        "1949 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "1949"
+      ],
+      "printPublicationDate": [
+        "1949-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Mental health (London)"
+          ],
+          "ISOAbbreviation": [
+            "Ment Health (Lond)"
+          ],
+          "medlineAbbreviation": [
+            "Ment Health (Lond)"
+          ],
+          "NLMid": [
+            "0312437"
+          ],
+          "ISSN": [
+            "0025-9632"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1949"
+  ],
+  "pageInfo": [
+    "33-35"
+  ],
+  "affiliation": [
+    "Consultant Phys. Med. (Austria) Medical Director, Crayford Child Guidance Clinic, Kent."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5078231"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5078231?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-14"
+  ],
+  "firstIndexDate": [
+    "2017-09-14"
+  ],
+  "fullTextReceivedDate": [
+    "2017-02-05"
+  ],
+  "dateOfRevision": [
+    "2017-09-23"
+  ],
+  "firstPublicationDate": [
+    "1949-11-01"
+  ]
+}

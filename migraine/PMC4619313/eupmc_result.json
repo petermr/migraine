@@ -1,0 +1,433 @@
+{
+  "id": [
+    "26500752"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26500752"
+  ],
+  "pmcid": [
+    "PMC4619313"
+  ],
+  "doi": [
+    "10.1186/s13229-015-0051-y"
+  ],
+  "title": [
+    "Platelet studies in autism spectrum disorder patients and first-degree relatives."
+  ],
+  "authorString": [
+    "Bijl N, Thys C, Wittevrongel C, De la Marche W, Devriendt K, Peeters H, Van Geet C, Freson K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bijl N"
+          ],
+          "firstName": [
+            "Nora"
+          ],
+          "lastName": [
+            "Bijl"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Cardiovascular Sciences, Centre for Molecular and Vascular Biology, KU Leuven, Gasthuisberg Campus, O & N I, Herestraat 49-b911, 3000 Leuven, Belgium ; The LAuRes Consortium, KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Thys C"
+          ],
+          "firstName": [
+            "Chantal"
+          ],
+          "lastName": [
+            "Thys"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Cardiovascular Sciences, Centre for Molecular and Vascular Biology, KU Leuven, Gasthuisberg Campus, O & N I, Herestraat 49-b911, 3000 Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Wittevrongel C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Wittevrongel"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Cardiovascular Sciences, Centre for Molecular and Vascular Biology, KU Leuven, Gasthuisberg Campus, O & N I, Herestraat 49-b911, 3000 Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "De la Marche W"
+          ],
+          "firstName": [
+            "Wouter"
+          ],
+          "lastName": [
+            "De la Marche"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Neurosciences, Research Group Psychiatry, KU Leuven, Leuven, Belgium ; The LAuRes Consortium, KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Devriendt K"
+          ],
+          "firstName": [
+            "Koenraad"
+          ],
+          "lastName": [
+            "Devriendt"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Human Genetics, KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Peeters H"
+          ],
+          "firstName": [
+            "Hilde"
+          ],
+          "lastName": [
+            "Peeters"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7295-3375",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Human Genetics, KU Leuven, Leuven, Belgium ; The LAuRes Consortium, KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Geet C"
+          ],
+          "firstName": [
+            "Chris"
+          ],
+          "lastName": [
+            "Van Geet"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Cardiovascular Sciences, Centre for Molecular and Vascular Biology, KU Leuven, Gasthuisberg Campus, O & N I, Herestraat 49-b911, 3000 Leuven, Belgium ; The LAuRes Consortium, KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Freson K"
+          ],
+          "firstName": [
+            "Kathleen"
+          ],
+          "lastName": [
+            "Freson"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4381-2442",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Cardiovascular Sciences, Centre for Molecular and Vascular Biology, KU Leuven, Gasthuisberg Campus, O & N I, Herestraat 49-b911, 3000 Leuven, Belgium ; The LAuRes Consortium, KU Leuven, Leuven, Belgium."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7295-3375",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4381-2442",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2256440"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular autism"
+          ],
+          "ISOAbbreviation": [
+            "Mol Autism"
+          ],
+          "medlineAbbreviation": [
+            "Mol Autism"
+          ],
+          "NLMid": [
+            "101534222"
+          ],
+          "ISSN": [
+            "2040-2392"
+          ],
+          "ESSN": [
+            "2040-2392"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "57"
+  ],
+  "abstractText": [
+    "Platelets have been proven to be a useful cellular model to study some neuropathologies, due to the overlapping biological features between neurons and platelets as granule secreting cells. Altered platelet dense granule morphology was previously reported in three autism spectrum disorder (ASD) patients with chromosomal translocations that disrupted ASD candidate genes NBEA, SCAMP5, and AMYSIN, but a systematic analysis of platelet function in ASD is lacking in contrast to numerous reports of elevated serotonin levels in platelets and blood as potential biomarker for ASD.We explored platelet count, size, epinephrine-induced activation, and dense granule ATP secretion in a cohort of 159 ASD patients, their 289 first-degree relatives (103 unaffected siblings, 99 mothers, and 87 fathers), 45 adult controls, and 65 pediatric controls. For each of the responses separately, a linear mixed model with gender as a covariate was used to compare the level between groups. We next investigated the correlation between platelet function outcomes and severity of impairments in social behavior (social responsiveness score (SRS)).The average platelet count was increased in ASD patients and siblings vs. controls (ASD 320.3 × 10(9)/L, p = 0.003; siblings 332.0 × 10(9)/L, p < 0.001; controls 283.0 × 10(9)/L). The maximal platelet secretion-dependent aggregation response to epinephrine was not significantly lower for ASD patients. However, secondary wave responses following stimulation with epinephrine were more frequently delayed or absent compared to controls (ASD 52 %, siblings 45 %, parents 53 %, controls 22 %, p = 0.002). In addition, stimulated release of ATP from dense granules was reduced in ASD patients, siblings, and parents vs. controls following activation of platelets with either collagen (ASD 1.54 μM, p = 0.001; siblings 1.51 μM, p < 0.001; parents 1.67 μM, p = 0.021; controls 2.03 μM) or ADP (ASD 0.96 μM, p = 0.003; siblings 1.00 μM, p = 0.012; parents 1.17 μM, p = 0.21; controls 1.40 μM). Plasma serotonin levels were increased for ASD patients (n = 20, p = 0.005) and siblings (n = 20, p = 0.0001) vs. controls (n = 16). No significant correlations were found in the different groups between SRS scores and count, size, epinephrine aggregation, or ATP release.We report increased platelet counts, decreased platelet ATP dense granule secretion, and increased serotonin plasma levels not only in ASD patients but also in their first-degree relatives. This suggests that potential genetic factors associated with platelet counts and granule secretion can be associated with, but are not fully penetrant for ASD."
+  ],
+  "affiliation": [
+    "Department of Cardiovascular Sciences, Centre for Molecular and Vascular Biology, KU Leuven, Gasthuisberg Campus, O & N I, Herestraat 49-b911, 3000 Leuven, Belgium ; The LAuRes Consortium, KU Leuven, Leuven, Belgium."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Serotonin",
+        "Platelets",
+        "Platelet activation",
+        "Autism",
+        "Atp Secretion",
+        "Dense Granules"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13229-015-0051-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4619313"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4619313?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "27030804"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Mol Autism. 2016;7:20"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-27"
+  ],
+  "dateOfCreation": [
+    "2015-10-27"
+  ],
+  "firstIndexDate": [
+    "2015-10-28"
+  ],
+  "fullTextReceivedDate": [
+    "2015-10-27"
+  ],
+  "dateOfRevision": [
+    "2016-07-27"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-23"
+  ],
+  "firstPublicationDate": [
+    "2015-10-23"
+  ]
+}

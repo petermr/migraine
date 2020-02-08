@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="1 * [], 1 Department of Neurology, The Children's Hospital," exact="Zhejiang University" post="School of Medicine, National Clinical Research Center for Child"/>
+ <result pre="[], 1 Department of Neurology, The Children's Hospital, Zhejiang University" exact="School of Medicine," post="National Clinical Research Center for Child Health Hangzhou China"/>
+ <result pre="Health Hangzhou China [], 2 Department of Epidemiology and Biostatistics," exact="Zhejiang University" post="School of Public Health Hangzhou China [], 3 Department"/>
+ <result pre="Hangzhou China [], 4 Department of Pulmonology, The Children's Hospital," exact="Zhejiang University" post="School of Medicine, National Clinical Research Center for Child"/>
+ <result pre="[], 4 Department of Pulmonology, The Children's Hospital, Zhejiang University" exact="School of Medicine," post="National Clinical Research Center for Child Health Hangzhou China"/>
+ <result pre="(TD) trace elements zinc (Zn) copper (Cu) iron (Fe) Funding" exact="National Natural Science Foundation of China" post="10.13039/501100001809 81741076 81801490 fig-count: table-count: equation-count: ref-count: page-count: word-count:"/>
+ <result pre="comprehensive evaluation and control subjects at the Children's Hospital of" exact="Zhejiang University" post="School of Medicine between January 1, 2018 and December"/>
+ <result pre="and control subjects at the Children's Hospital of Zhejiang University" exact="School of Medicine" post="between January 1, 2018 and December 31, 2018. The"/>
+ <result pre="by the institutional review committee of the Children's Hospital of" exact="Zhejiang University" post="School of Medicine (2019-IRB-090). According to nature of the"/>
+ <result pre="institutional review committee of the Children's Hospital of Zhejiang University" exact="School of Medicine" post="(2019-IRB-090). According to nature of the study, informed consent"/>
+ <result pre="approved by institutional review committee of the Children's Hospital of" exact="Zhejiang University" post="School of Medicine (2019-IRB-090). Written informed consent from the"/>
+ <result pre="institutional review committee of the Children's Hospital of Zhejiang University" exact="School of Medicine" post="(2019-IRB-090). Written informed consent from the participants' legal guardian/next"/>
+ <result pre="of the disease. Funding. This present study was supported by" exact="National Natural Science Foundation of China" post="(Grant No. 81741076 and 81801490), Zhejiang Provincial Natural Science"/>
+</results>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6646581/results/species/binomial/results.xml">
+  <result pre=" " exact="Fisher test" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/div[2]/div[1]/p[2]" match="Fisher test" post=". " name="binomial"/>
+  <result pre=" " exact="Friedman test" xpath="/html[1]/body[1]/div[2]/div[3]/div[5]/div[2]/div[1]/p[2]" match="Friedman test" post=". " name="binomial"/>
+  <result pre=" " exact="Fisher test" match="Fisher test" post=". " name="binomial"/>
+ </snippets>
+</snippetsTree>

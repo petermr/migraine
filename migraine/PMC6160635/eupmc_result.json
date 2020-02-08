@@ -1,0 +1,300 @@
+{
+  "id": [
+    "30279708"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30279708"
+  ],
+  "pmcid": [
+    "PMC6160635"
+  ],
+  "title": [
+    "Comparison of the Quality of Sleep and Intensity of Headache between Migraine, Tension Headache, and Healthy Children."
+  ],
+  "authorString": [
+    "Cheraghi F, Shamsaei F, Fayyazi A, Molaaei Yeganeh F, Roshanaei G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheraghi F"
+          ],
+          "firstName": [
+            "Fatemeh"
+          ],
+          "lastName": [
+            "Cheraghi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Chronic Diseases (Home Care) Research Center,Hamadan University of Medical Sciences ,Hamadan ,Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Shamsaei F"
+          ],
+          "firstName": [
+            "Farshid"
+          ],
+          "lastName": [
+            "Shamsaei"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Mother and Child Cares Research Center, Hamadan University of Medical Sciences, Hamadan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Fayyazi A"
+          ],
+          "firstName": [
+            "Afshin"
+          ],
+          "lastName": [
+            "Fayyazi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Pediatric Department, Hamadan University of Medical Sciences, Hamadan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Molaaei Yeganeh F"
+          ],
+          "firstName": [
+            "Fahimeh"
+          ],
+          "lastName": [
+            "Molaaei Yeganeh"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Nursing & Midwifery Faculty, Hamadan University of Medical Sciences, Hamadan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Roshanaei G"
+          ],
+          "firstName": [
+            "Godratolah"
+          ],
+          "lastName": [
+            "Roshanaei"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "modeling of noncommunicable diseases Research Center, Hamadan University of Medical Sciences, Hamadan, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2733620"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Iranian journal of child neurology"
+          ],
+          "ISOAbbreviation": [
+            "Iran J Child Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Iran J Child Neurol"
+          ],
+          "NLMid": [
+            "101463836"
+          ],
+          "ISSN": [
+            "1735-4668"
+          ],
+          "ESSN": [
+            "2008-0700"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "45-54"
+  ],
+  "abstractText": [
+    "Objectives:Headache and sleep problems are commonly reported in children, and both can adversely impact the child's life. We aimed to compare the sleep quality and intensity of headache between school-age children with migraine as well as tension headache and healthy children. Materials & Methods:In this cross-sectional study, 198 children 6-12 yr old in three groups were enrolled from Aug 2015 to Mar 2016. Migraine and tension headache groups from the Outpatient Clinic of Imam Khomeini of Hamadan, western Iran and healthy group from elementary schools were randomly selected (66 children in each group). Data were collected using demographic questionnaire, Child Sleep Habits Questionnaire (CSHQ), Numeric Scale of Pain Intensity and Wong-Baker Faces Pain Rating Scale. The data were analyzed using SPSS by descriptive statistic and multivariate ANOVA, one way ANOVA, Chi-square, Kruskal-Wallis and linear regression tests. Results:Approximately, 45.5% of children with migraine and 37.9% of them with tension headache had experienced severe headache. Only a significant relationship was seen between mean scores of headache intensity and sleep quality in migraine group (P<0.05). There was a significant difference in mean scores of sleep quality among three groups (P<0.001). Conclusion:The children with migraine experienced more unsuitable sleep in duration of severe headache. Highlighting the co-morbidity between intensity of headache and sleep problem of children with migraine and tension headache is important to improve treatment strategies and to know the impact of headache on their normal life."
+  ],
+  "affiliation": [
+    "Chronic Diseases (Home Care) Research Center,Hamadan University of Medical Sciences ,Hamadan ,Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Migraine",
+        "Sleep Quality",
+        "Tension Headache"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6160635"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6160635?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-04"
+  ],
+  "firstIndexDate": [
+    "2018-10-04"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-03"
+  ],
+  "dateOfRevision": [
+    "2019-01-07"
+  ],
+  "firstPublicationDate": [
+    "2018-01-01"
+  ],
+  "embargoDate": [
+    "2019-01-01"
+  ]
+}

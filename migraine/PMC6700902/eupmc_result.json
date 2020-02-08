@@ -1,0 +1,288 @@
+{
+  "id": [
+    "PMC6700902"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6700902"
+  ],
+  "doi": [
+    "10.1177/2325967119S00007"
+  ],
+  "title": [
+    "CLINICAL PREDICTORS OF SYMPTOM RESOLUTION FOR CHILDREN AND ADOLESCENTS WITH SPORT-RELATED CONCUSSION."
+  ],
+  "authorString": [
+    "Howell DR, Potter MN, Kirkwood MW, Wilson PE, Provance A, Wilson JC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Howell DR"
+          ],
+          "firstName": [
+            "David R."
+          ],
+          "lastName": [
+            "Howell"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "affiliation": [
+            "Sports Medicine Center, Colorado Children’s Hospital, Aurora, CO, USA"
+          ]
+        },
+        {
+          "fullName": [
+            "Potter MN"
+          ],
+          "firstName": [
+            "Morgan N."
+          ],
+          "lastName": [
+            "Potter"
+          ],
+          "initials": [
+            "MN"
+          ]
+        },
+        {
+          "fullName": [
+            "Kirkwood MW"
+          ],
+          "firstName": [
+            "Michael W."
+          ],
+          "lastName": [
+            "Kirkwood"
+          ],
+          "initials": [
+            "MW"
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson PE"
+          ],
+          "firstName": [
+            "Pamela E."
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "PE"
+          ]
+        },
+        {
+          "fullName": [
+            "Provance A"
+          ],
+          "firstName": [
+            "Aaron"
+          ],
+          "lastName": [
+            "Provance"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson JC"
+          ],
+          "firstName": [
+            "Julie C."
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "JC"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3 Suppl"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2803298"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Orthopaedic journal of sports medicine"
+          ],
+          "ISOAbbreviation": [
+            "Orthop J Sports Med"
+          ],
+          "medlineAbbreviation": [
+            "Orthop J Sports Med"
+          ],
+          "NLMid": [
+            "101620522"
+          ],
+          "ISSN": [
+            "2325-9671"
+          ],
+          "ESSN": [
+            "2325-9671"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "affiliation": [
+    "Sports Medicine Center, Colorado Children’s Hospital, Aurora, CO, USA"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6700902/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6700902"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-28"
+  ],
+  "firstIndexDate": [
+    "2019-08-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-28"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-29"
+  ],
+  "firstPublicationDate": [
+    "2019-03-29"
+  ]
+}

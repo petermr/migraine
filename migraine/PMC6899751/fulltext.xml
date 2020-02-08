@@ -1,0 +1,1258 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Neurogastroenterol Motil</journal-id><journal-id journal-id-type="iso-abbrev">Neurogastroenterol. Motil</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2982</journal-id><journal-id journal-id-type="publisher-id">NMO</journal-id><journal-title-group><journal-title>Neurogastroenterology and Motility</journal-title></journal-title-group><issn pub-type="ppub">1350-1925</issn><issn pub-type="epub">1365-2982</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6899751</article-id><article-id pub-id-type="doi">10.1111/nmo.13604</article-id><article-id pub-id-type="publisher-id">NMO13604</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>The Guidelines on Management of Cyclic Vomiting Syndrome (CVS) in Adults</subject><subj-group subj-group-type="heading"><subject>Review Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Guidelines on management of cyclic vomiting syndrome in adults by the American Neurogastroenterology and Motility Society and the Cyclic Vomiting Syndrome Association</article-title><alt-title alt-title-type="left-running-head">VENKATESAN et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="nmo13604-cr-0001" contrib-type="author" corresp="yes"><name><surname>Venkatesan</surname><given-names>Thangam</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0001">
+<sup>1</sup>
+</xref><address><email>tvenkate@mcw.edu</email></address></contrib><contrib id="nmo13604-cr-0002" contrib-type="author"><name><surname>Levinthal</surname><given-names>David J.</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="nmo13604-cr-0003" contrib-type="author"><name><surname>Tarbell</surname><given-names>Sally E.</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="nmo13604-cr-0004" contrib-type="author"><name><surname>Jaradeh</surname><given-names>Safwan S.</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="nmo13604-cr-0005" contrib-type="author"><name><surname>Hasler</surname><given-names>William L.</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="nmo13604-cr-0006" contrib-type="author"><name><surname>Issenman</surname><given-names>Robert M.</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="nmo13604-cr-0007" contrib-type="author"><name><surname>Adams</surname><given-names>Kathleen A.</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="nmo13604-cr-0008" contrib-type="author"><name><surname>Sarosiek</surname><given-names>Irene</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="nmo13604-cr-0009" contrib-type="author"><name><surname>Stave</surname><given-names>Christopher D.</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="nmo13604-cr-0010" contrib-type="author"><name><surname>Sharaf</surname><given-names>Ravi N.</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="nmo13604-cr-0011" contrib-type="author"><name><surname>Sultan</surname><given-names>Shahnaz</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="nmo13604-cr-0012" contrib-type="author"><name><surname>Li</surname><given-names>B U. K.</given-names></name><xref ref-type="aff" rid="nmo13604-aff-0011">
+<sup>11</sup>
+</xref></contrib></contrib-group><aff id="nmo13604-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Division of Gastroenterology and Hepatology</named-content>
+<institution>Medical College of Wisconsin</institution>
+<city>Milwaukee</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+</aff><aff id="nmo13604-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Division of Gastroenterology, Hepatology and Nutrition</named-content>
+<institution>University of Pittsburgh Medical Center</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+</aff><aff id="nmo13604-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Psychiatry and Behavioral Sciences</named-content>
+<institution>Northwestern Feinberg School of Medicine</institution>
+<city>Chicago</city>
+<named-content content-type="country-part">Illinois</named-content>
+</aff><aff id="nmo13604-aff-0004">
+<label><sup>4</sup></label>
+<institution>Stanford University Medical School</institution>
+<city>Stanford</city>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="nmo13604-aff-0005">
+<label><sup>5</sup></label>
+<institution>University of Michigan Health System</institution>
+<city>Ann Arbor</city>
+<named-content content-type="country-part">Michigan</named-content>
+</aff><aff id="nmo13604-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Division of Pediatric Gastroenterology</named-content>
+<institution>McMaster University</institution>
+<city>Hamilton</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="nmo13604-aff-0007">
+<label><sup>7</sup></label>
+<institution>Cyclic Vomiting Syndrome Association</institution>
+<city>Milwaukee</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+</aff><aff id="nmo13604-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Division of Gastroenterology</named-content>
+<institution>Texas Tech University Health Sciences Center</institution>
+<city>El Paso</city>
+<named-content content-type="country-part">Texas</named-content>
+</aff><aff id="nmo13604-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Division of Gastroenterology</named-content>
+<named-content content-type="organisation-division">Department of Healthcare Policy and Research</named-content>
+<institution>Weill Cornell Medical Center</institution>
+<city>New York</city>
+<named-content content-type="country-part">New York</named-content>
+</aff><aff id="nmo13604-aff-0010">
+<label><sup>10</sup></label>
+<institution>Minneapolis VA Health Care System</institution>
+<city>Minneapolis</city>
+<named-content content-type="country-part">Minnesota</named-content>
+</aff><aff id="nmo13604-aff-0011">
+<label><sup>11</sup></label>
+<named-content content-type="organisation-division">Division of Gastroenterology</named-content>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>Medical College of Wisconsin</institution>
+<city>Milwaukee</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Thangam Venkatesan, Division of Gastroenterology and Hepatology, Medical College of Wisconsin, Milwaukee, WI 53226.<break/>
+Email: <email>tvenkate@mcw.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>6</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2019</year></pub-date><volume>31</volume><issue>Suppl 2</issue><issue-id pub-id-type="doi">10.1111/nmo.2019.31.issue-S2</issue-id><issue-title content-type="special-issue-title">The Guidelines on Management of Cyclic Vomiting Syndrome (CVS) in Adults</issue-title><elocation-id>e13604</elocation-id><history><date date-type="received"><day>06</day><month>3</month><year>2019</year></date><date date-type="rev-recd"><day>17</day><month>3</month><year>2019</year></date><date date-type="accepted"><day>18</day><month>3</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2019 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. Neurogastroenterology &#x00026; Motility Published by John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:NMO-31-na.pdf"/><abstract id="nmo13604-abs-0001"><title>Abstract</title><p>The increasing recognition of cyclic vomiting syndrome (<styled-content style="fixed-case" toggle="no">CVS</styled-content>) in adults prompted the development of these evidence&#x02010;based guidelines on the management of <styled-content style="fixed-case" toggle="no">CVS</styled-content> in adults, which was sponsored by the American Neurogastroenterology and Motility Society (<styled-content style="fixed-case" toggle="no">ANMS</styled-content>) and the Cyclic Vomiting Syndrome Association (<styled-content style="fixed-case" toggle="no">CVSA</styled-content>). <styled-content style="fixed-case" toggle="no">GRADE</styled-content> (Grading of Recommendations, Assessment, Development, and Evaluation) framework was used and a professional librarian performed the literature search. The expert committee included the President of the <styled-content style="fixed-case" toggle="no">CVSA</styled-content> who brought a patient perspective into the deliberations. The committee makes recommendations for the prophylaxis of <styled-content style="fixed-case" toggle="no">CVS</styled-content>, treatment of acute attacks, diagnosis, and overall management of <styled-content style="fixed-case" toggle="no">CVS</styled-content>. The committee strongly&#x000a0; recommends that adults with moderate&#x02010;to&#x02010;severe <styled-content style="fixed-case" toggle="no">CVS</styled-content> receive a tricyclic antidepressant (<styled-content style="fixed-case" toggle="no">TCA</styled-content>), such as amitriptyline, as a first&#x02010;line prophylactic medication and receive topiramate or aprepitant as alternate prophylactic medications. Zonisamide or levetiracetam and mitochondrial supplements (Coenzyme Q10, L&#x02010;carnitine, and riboflavin) are conditionally recommended as alternate prophylactic medications, either alone or concurrently with other prophylactic medications. For acute attacks, the committee conditionally recommends using serotonin antagonists, such as ondansetron, and/or triptans, such as sumatriptan or aprepitant to abort symptoms<bold>.</bold> Emergency department treatment is best achieved with the use of an individualized treatment protocol and shared with the care team (example provided). The committee recommended screening and treatment for comorbid conditions such as anxiety, depression, migraine headache, autonomic dysfunction, sleep disorders, and substance use with referral to appropriate allied health services as indicated. Techniques like meditation, relaxation, and biofeedback may be offered as complementary therapy to improve overall well&#x02010;being and patient care outcomes.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="nmo13604-kwd-0001">abortive treatment</kwd><kwd id="nmo13604-kwd-0002">cyclic vomiting</kwd><kwd id="nmo13604-kwd-0003">emergency department</kwd><kwd id="nmo13604-kwd-0004">management</kwd><kwd id="nmo13604-kwd-0005">prophylaxis</kwd></kwd-group><counts><fig-count count="2"/><table-count count="4"/><page-count count="14"/><word-count count="11321"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.2 mode:remove_FC converted:05.12.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="nmo13604-cit-1001">
+<string-name>
+<surname>Venkatesan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Levinthal</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Tarbell</surname>
+<given-names>SE</given-names>
+</string-name>, et&#x000a0;al. <article-title>Guidelines on management of cyclic vomiting syndrome in adults by the American Neurogastroenterology and Motility Society and the Cyclic Vomiting Syndrome Association</article-title>. <source xml:lang="en">Neurogastroenterol Motil</source>. <year>2019</year>;<volume>31</volume>(Suppl. 2):<elocation-id>e13604</elocation-id>
+<pub-id pub-id-type="doi">10.1111/nmo.13604</pub-id>
+<pub-id pub-id-type="pmid">31241819</pub-id></mixed-citation>
+</p></notes></front><body id="nmo13604-body-0001"><p>
+<boxed-text position="anchor" content-type="box" id="nmosup13604-blkfxd-0002" orientation="portrait"><caption><title>Key Points</title></caption><p>
+<list list-type="bullet" id="nmosup13604-list-0001"><list-item><p>These Evidence&#x02010;Based Guidelines on the Management of CVS in Adults are based on the GRADE (Grading of ecommendations, Assessment, Development and Evaluation) framework and recommendations for the prophylaxis of CVS, treatment of acute attacks, diagnosis and overall management of CVS are made.</p></list-item><list-item><p>The committee strongly recommends that adults with moderate&#x02010;to&#x02010;severe CVS receive a tricyclic antidepressant (TCA) such as amitriptyline, as a first&#x02010;line prophylactic medication. For acute attacks, the committee conditionally recommends using serotonin antagonists such as ondansetron, and/or triptans such as sumatriptan or newer agents such as aprepitant (NK1 receptor antagonist) to abort symptoms.</p></list-item><list-item><p>An individualized treatment plan for treatment of CVS in the emergency department can facilitate care and an example is provided.</p></list-item></list>
+</p></boxed-text>
+</p><sec id="nmo13604-sec-0002"><label>1</label><title>INTRODUCTION</title><p>Cyclic vomiting syndrome (CVS) is a chronic functional gastrointestinal disorder that is being increasingly recognized in adults.<xref rid="nmosup13604-bib-0001" ref-type="ref">1</xref>, <xref rid="nmosup13604-bib-0002" ref-type="ref">2</xref> It is characterized by episodic nausea and vomiting and is associated with significant morbidity. Approximately one&#x02010;third of adult patients become disabled.<xref rid="nmosup13604-bib-0003" ref-type="ref">3</xref> There is considerable variation in recognition, diagnosis, and management of CVS. The diagnosis for CVS is based on Rome criteria, first developed in 2006 and subsequently revised in 2016.<xref rid="nmosup13604-bib-0004" ref-type="ref">4</xref>, <xref rid="nmosup13604-bib-0005" ref-type="ref">5</xref> Although their sensitivity and specificity in making a diagnosis of CVS has not been determined, the current Rome IV symptom&#x02010;based criteria established a uniform, symptom&#x02010;based framework that is useful in clinical practice. While other disorders of nausea and vomiting such as gastroparesis may be confused with CVS, these disorders lack the stereotypical and sudden onset of symptoms, features that appear to be fairly unique to CVS. With further research, the clinical features of CVS will become better delineated, and this information is likely to influence future iterations of symptom&#x02010;based CVS diagnostic criteria. For example, many patients with CVS experience abdominal pain during an acute attack, but this feature is not currently incorporated in the Rome IV CVS criteria and should be considered in future revisions.</p><p>This article represents an official statement of the American Neurogastroenterology and Motility Society (ANMS) and the Cyclic Vomiting Syndrome Association (CVSA) on the diagnosis and management of CVS in adults. The target audience for this guideline includes gastroenterologists, emergency medicine physicians, primary care providers, other clinicians, patients, and policymakers. The committee developed and graded the recommendations and assessed the certainty in the evidence using the Grading of Recommendations, Assessment, Development, and Evaluation&#x000a0;(GRADE) framework.<xref rid="nmosup13604-bib-0006" ref-type="ref">6</xref> The committee members, who were selected jointly by the CVSA and a council member of the ANMS clinical guidelines committee, included primarily gastroenterologists with clinical and research expertise, providers from other disciplines, such as psychology and neurology, methodologists with experience in evidence appraisal and guideline development, and one patient representative, who was also President of the CVSA. The panel chair was a gastroenterologist. Conflicts of interest of all participants were managed according to ANMS policies. At the time of appointment, a majority of the guideline panel, including the chair and the vice&#x02010;chair, had no conflicts of interest as defined and judged by ANMS policies. This manuscript was prepared by committee members and a patient advocate who served as part of the committee in order to incorporate patient values and preferences while developing recommendations, as per the GRADE methodology.<xref rid="nmosup13604-bib-0006" ref-type="ref">6</xref> A librarian conducted the literature search and two GRADE experts reviewed and graded the literature. The reader is referred to the accompanying technical review for a more detailed understanding of the process and additional details about individual studies. The committee had four in&#x02010;person meetings and multiple conference calls during this process. Committee members except for the two GRADE experts voted on all recommendations and either &#x0201c;agreed&#x0201d; or &#x0201c;disagreed&#x0201d; and votes were tallied.</p><p>Recommendations for the diagnosis of CVS, suggested investigations, treatment protocol for the emergency department (ED), and algorithm for management are also provided. These recommendations are based on best practices and consensus of the committee members. These were formulated based on review of the available literature and the collective experience of the committee members who have taken care of more than 3000 patients with CVS in their practices.</p><p>With increasing attention paid to use of cannabis in CVS, Cannabinoid Hyperemesis Syndrome (CHS) has been proposed as a distinct entity by the Rome Foundation. <xref rid="nmosup13604-bib-0007" ref-type="ref">7</xref>, <xref rid="nmosup13604-bib-0008" ref-type="ref">8</xref>, <xref rid="nmosup13604-bib-0009" ref-type="ref">9</xref>, <xref rid="nmosup13604-bib-0010" ref-type="ref">10</xref> CHS, the role of cannabis in hyperemesis, and the overlap between CHS and CVS are described in a separate manuscript included with these CVS guidelines.</p></sec><sec id="nmo13604-sec-0003"><label>2</label><title>TREATMENT OF CYCLIC VOMITING SYNDROME</title><p>Treatment of CVS should be based on a biopsychosocial care model, integrating lifestyle modification, prophylactic and/or abortive medications, and evidenced&#x02010;based psychotherapy to address psychiatric comorbidity. Ongoing care by a dedicated team will likely improve overall healthcare outcomes. Given the lack of validated outcomes to assess the severity of CVS, the committee arbitrarily defined severity as mild, moderate, or severe based on the frequency and duration of episodes, need for healthcare utilization, and impact of symptoms on activities of daily living as shown in shown in Figure&#x000a0;<xref rid="nmo13604-fig-0001" ref-type="fig">1</xref>. We recommend using prophylactic medications in moderate&#x02010;to&#x02010;severe CVS and offering abortive medications to all patients to terminate an acute attack. Recommendations for prophylactic and abortive medications and rationale for their use are discussed below and are summarized in Table&#x000a0;<xref rid="nmo13604-tbl-0001" ref-type="table">1</xref>.</p><fig fig-type="Figure" xml:lang="en" id="nmo13604-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Algorithm for treatment of cyclic vomiting syndrome. Adapted from Bhandari et al.<xref rid="nmosup13604-bib-0056" ref-type="ref">56</xref>
+</p></caption><graphic id="nlm-graphic-1" xlink:href="NMO-31-na-g001"/></fig></sec><sec id="nmo13604-sec-0004"><label>3</label><title>PROPHYLACTIC MEDICATIONS IN CVS</title><sec id="nmo13604-sec-0005"><label>3.1</label><title>Recommendation 1. We strongly recommend that adults with moderate&#x02010;to&#x02010;severe CVS receive tricyclic antidepressants (TCAs), especially amitriptyline, as a first&#x02010;line prophylactic medication</title><p>
+<italic>Grade: Strong recommendation, very low&#x02010;quality evidence. Vote: 100% agreement</italic>
+</p><p>Amitriptyline (AT) is a tricyclic antidepressant, a mixed serotonin and norepinephrine reuptake inhibitor that also interacts with cholinergic, and multiple histamine receptors and ion channels.<xref rid="nmosup13604-bib-0011" ref-type="ref">11</xref> Amitriptyline is converted by cytochrome P4502C19 (CYP2C19) to nortriptyline (NT).<xref rid="nmosup13604-bib-0012" ref-type="ref">12</xref> Both AT and NT are converted by CYP2D6 to their inactive metabolite. Genetic polymorphisms in CYP2C19 and CYP2D6 can affect the efficacy and side effect profile of TCAs.<xref rid="nmosup13604-bib-0013" ref-type="ref">13</xref> Prophylactic therapy with TCAs should be considered in patients who have moderate&#x02010;to&#x02010;severe CVS. Moderate&#x02010;to&#x02010;severe CVS is defined by one or more of the following: &#x02265;4&#x000a0;episodes/year, episodes &#x0003e;2&#x000a0;days in duration, severe episodes that require emergency department (ED) visits or hospitalization, or episodes that significantly interfere with activities of daily living.<xref rid="nmosup13604-bib-0014" ref-type="ref">14</xref> Patient preferences need to be taken into consideration prior to initiating prophylactic therapy.</p><p>The evidence on the use of TCAs in adults with CVS is based on open&#x02010;label and retrospective studies and two randomized controlled trials (RCTs) in children.<xref rid="nmosup13604-bib-0003" ref-type="ref">3</xref>, <xref rid="nmosup13604-bib-0015" ref-type="ref">15</xref>, <xref rid="nmosup13604-bib-0016" ref-type="ref">16</xref>, <xref rid="nmosup13604-bib-0017" ref-type="ref">17</xref> There were fourteen studies that included 600 adult and pediatric patients.<xref rid="nmosup13604-bib-0003" ref-type="ref">3</xref>, <xref rid="nmosup13604-bib-0015" ref-type="ref">15</xref>, <xref rid="nmosup13604-bib-0016" ref-type="ref">16</xref>, <xref rid="nmosup13604-bib-0017" ref-type="ref">17</xref>, <xref rid="nmosup13604-bib-0018" ref-type="ref">18</xref>, <xref rid="nmosup13604-bib-0019" ref-type="ref">19</xref>, <xref rid="nmosup13604-bib-0020" ref-type="ref">20</xref>, <xref rid="nmosup13604-bib-0021" ref-type="ref">21</xref>, <xref rid="nmosup13604-bib-0022" ref-type="ref">22</xref>, <xref rid="nmosup13604-bib-0023" ref-type="ref">23</xref>, <xref rid="nmosup13604-bib-0024" ref-type="ref">24</xref>, <xref rid="nmosup13604-bib-0025" ref-type="ref">25</xref>, <xref rid="nmosup13604-bib-0026" ref-type="ref">26</xref>, <xref rid="nmosup13604-bib-0027" ref-type="ref">27</xref> Across these studies, 413/600 (70%) of patients reported complete or partial improvement with a decrease in frequency, duration, or severity of CVS symptoms when treated with a TCA, most commonly amitriptyline. A few well&#x02010;conducted studies are highlighted here. Hejazi et&#x000a0;al<xref rid="nmosup13604-bib-0015" ref-type="ref">15</xref> in an open&#x02010;label study of 46 patients demonstrated a marked reduction in the number of CVS episodes from 17 to 3, in the duration of a CVS episode from 6 to 2&#x000a0;days, and in the number of ED visits/hospitalizations from 15 to 3.3 with AT. Kumar et&#x000a0;al<xref rid="nmosup13604-bib-0003" ref-type="ref">3</xref> in a retrospective study of 70 patients showed that the majority of patients (86%) responded to treatment with AT. Some of these patients were also treated with other agents such as topiramate and mitochondrial supplements such as Co&#x02010;Q10 and L&#x02010;carnitine. An observational study found that of 24 patients who received AT for at least 3&#x000a0;months, 93% had a reduction in symptoms measured by a visual analog scale, while 26% had complete remission of symptoms.<xref rid="nmosup13604-bib-0018" ref-type="ref">18</xref>
+</p><p>The mean effective dose in adults is 75&#x02010;100&#x000a0;mg daily or 1&#x02010;1.5&#x000a0;mg/kg body weight.<xref rid="nmosup13604-bib-0003" ref-type="ref">3</xref>, <xref rid="nmosup13604-bib-0015" ref-type="ref">15</xref>, <xref rid="nmosup13604-bib-0028" ref-type="ref">28</xref> Amitriptyline is best titrated in 10&#x02010;25&#x000a0;mg increments as this improves tolerability by allowing adaptation to and preventing discontinuation from side effects, particularly daytime sedation. This improves the ultimate efficacy of the medication. Most of the panelists used 10&#x000a0;mg but some used 25&#x000a0;mg. As always, this needs to be individualized based upon the patient response. The incidence of side effects with AT varies from 9% to 25% although this did not result in discontinuation of the drug in most studies.<xref rid="nmosup13604-bib-0019" ref-type="ref">19</xref> Side effects include daytime sedation, weight gain, dryness of mouth, and constipation. The night&#x02010;time administration of AT can often promote sleep, whereas the lingering daytime sedation tends to improve or resolve in 8&#x02010;12&#x000a0;weeks. Though most studies have only evaluated AT, NT may be used alternatively to minimize side effects. Given the risk of prolongation of the QTc interval and cardiac arrhythmias, we recommend obtaining an EKG at baseline, once during titration at ~50&#x000a0;mg and after the target dose is reached. More frequent monitoring will vary between individual patients, based on their response to AT and concomitant use of other medications that can prolong the QT interval. It is recommended that the QTc be maintained at &#x0003c;470&#x000a0;msec for women and &#x0003c;450&#x000a0;msec for men. The dosage of AT should be reduced or stopped if there is QTc prolongation or development of significant side effects. The incidence of cardiac arrhythmias appears to be low, and no serious adverse events have been reported with its use in CVS. Serious psychiatric side effects such as psychotic reactions, hypomania, and delirium may occur with the treatment of depression with amitriptyline but are not reported in CVS, perhaps due to the higher doses typically used to treat the former.<xref rid="nmosup13604-bib-0029" ref-type="ref">29</xref>
+</p><p>The evidence was considered very low quality despite the fact that there were 14 studies, given issues with selection bias, confounding, co&#x02010;interventions (supplements), and variation in outcomes reported across the different studies. Despite this, the committee members including the patient representative unanimously agreed that TCAs are extremely effective prophylaxis in CVS based on their collective experience and made a strong recommendation for its use. The committee acknowledged that conducting a RCT would be difficult due to lack of funding and potential difficulties with recruitment for the control arm, rendering the availability of high&#x02010;quality evidence difficult to obtain in the future. Further, side effects associated with AT would make it difficult to blind patients to the drug vs. placebo, which may skew the results of RCTs in favor of a response to AT</p></sec><sec id="nmo13604-sec-0006"><label>3.2</label><title>Recommendation 2. We conditionally recommend that adults with moderate&#x02010;to&#x02010;severe CVS receive topiramate as an alternate prophylactic medication</title><p>
+<italic>Grade: Conditional recommendation, very low&#x02010;quality evidence. Vote: 100% agreement</italic>
+</p><p>Topiramate may be used as an alternative prophylactic medication in moderate&#x02010;to&#x02010;severe CVS. Several studies show that topiramate is effective in preventing migraine headaches, but there is limited evidence on its utility in CVS. One retrospective study of 16 children treated with topiramate found that 81% became episode free, 13% showed at least &#x02265;50% reduction in number of episodes, and only 6% did not respond.<xref rid="nmosup13604-bib-0030" ref-type="ref">30</xref> In a retrospective study of 18 adults treated with prophylactic topiramate, 72% had &#x02265;50% reduction in frequency/severity of CVS episodes. Some patients on topiramate were also receiving AT and mitochondrial supplements in this study.<xref rid="nmosup13604-bib-0003" ref-type="ref">3</xref>
+</p><p>We recommend starting topiramate at 25&#x000a0;mg daily and titrating by 25&#x000a0;mg each week to a target dose of 100&#x000a0;mg daily (50&#x000a0;mg b.i.d. or 100&#x000a0;mg XL single dose). Blood levels may be obtained for therapeutic monitoring, and the dose further increased until clinical response is achieved, or side effects (cognitive dysfunction, paresthesia, headache, fatigue, dizziness, or mood problems) occur.<xref rid="nmosup13604-bib-0002" ref-type="ref">2</xref>, <xref rid="nmosup13604-bib-0031" ref-type="ref">31</xref>, <xref rid="nmosup13604-bib-0032" ref-type="ref">32</xref>, <xref rid="nmosup13604-bib-0033" ref-type="ref">33</xref> Weight loss from appetite reduction is a side effect and may be desired, in patients who are overweight or obese.<xref rid="nmosup13604-bib-0034" ref-type="ref">34</xref>, <xref rid="nmosup13604-bib-0035" ref-type="ref">35</xref>, <xref rid="nmosup13604-bib-0036" ref-type="ref">36</xref> We recommend monitoring serum electrolytes and renal function twice a year as metabolic acidosis may occur.<xref rid="nmosup13604-bib-0037" ref-type="ref">37</xref>, <xref rid="nmosup13604-bib-0038" ref-type="ref">38</xref> Oral bicarbonate supplementation may be initiated if serum bicarbonate is &#x0003c;20&#x000a0;mmol/L. There is a slightly increased risk of developing renal stones.<xref rid="nmosup13604-bib-0039" ref-type="ref">39</xref> Female patients should be informed that topiramate can interfere with the efficacy of oral contraceptives.</p></sec><sec id="nmo13604-sec-0007"><label>3.3</label><title>Recommendation 3. We conditionally recommend that adults with moderate&#x02010;to&#x02010;severe CVS receive aprepitant as an alternate prophylactic medication</title><p>
+<italic>Grade: Conditional recommendation, very low&#x02010;quality evidence. Vote: 100% agreement</italic>
+</p><p>Aprepitant is a relatively new (approved 2003) substance P/neurokinin 1 receptor (NK1) highly selective, high&#x02010;affinity antagonist antiemetic agent.<xref rid="nmosup13604-bib-0040" ref-type="ref">40</xref> It binds to receptors in the nucleus tractus solitarius that mediate the emetic motor reflex. It has been used to prevent acute and delayed (&#x0003e;24&#x000a0;hours) vomiting induced by moderate and highly emetogenic chemotherapy as well as in post&#x02010;operative nausea and vomiting (PONV). Although the plasma half&#x02010;life is 9&#x02010;13&#x000a0;hours, clinical effects may persist for 3&#x02010;5&#x000a0;days.<xref rid="nmosup13604-bib-0041" ref-type="ref">41</xref> Significant inhibitors (eg, grapefruit juice, clarithromycin) and inducers (eg, enzalutamide, topiramate) of CYP3A4 system increase and decrease levels, respectively, and are to be avoided if possible.<xref rid="nmosup13604-bib-0042" ref-type="ref">42</xref> Caution is recommended in patients with severe liver disease.</p><p>There is a single open&#x02010;label trial of aprepitant used prophylactically to treat CVS in children and adolescents refractory to conventional treatment.<xref rid="nmosup13604-bib-0043" ref-type="ref">43</xref> This trial included adolescents weighing &#x0003e;60&#x000a0;kg who were treated with 125&#x000a0;mg twice weekly. At 12&#x000a0;months, in an intention&#x02010;to&#x02010;treat analysis, of 16 children and adolescents who were treated with a prophylactic regimen, 82% achieved a complete resolution of episodes or partial response (&#x0003e;50% reduction in frequency and intensity). Based on these criteria, 19% (3/16) had a complete response and 62% (10/16) had a partial response. Side effects encountered include hiccups (19%), fatigue (13%), increased appetite (13%), mild headache (6%), and severe migraine in one patient (6%). Additional side effects in adults include constipation (up to 39%), in trials in CINV. In a 4&#x02010;week, multicenter, randomized double&#x02010;masked trial of 126 adults with gastroparesis (and related syndromes), although oral aprepitant (125&#x000a0;mg) failed to significantly reduce nausea when measured by visual analog criteria, it achieved the secondary outcomes of significant reduction in nausea and vomiting severity index as measured by the Gastroparesis Clinical Symptom Index.<xref rid="nmosup13604-bib-0044" ref-type="ref">44</xref> Most trials in CINV used aprepitant in combination with 5HT<sub>3</sub> antagonists and corticosteroids.<xref rid="nmosup13604-bib-0045" ref-type="ref">45</xref>, <xref rid="nmosup13604-bib-0046" ref-type="ref">46</xref> Nine task force members have used aprepitant prophylactically in adolescents or adults with some success in preventing episodes.</p><p>Based upon the data in children and adolescents and the clinical experince of&#x000a0;committee members,&#x000a0;we recommend initiating aprepitant as an alternate/second&#x02010;line prophylactic treatment in patients who are refractory to standard therapy with TCAs or topiramate. The suggested dose is 125&#x000a0;mg twice a week for adults &#x0003e;60&#x000a0;kg and 80&#x000a0;mg twice weekly in adults 40&#x02010;60&#x000a0;kg. Costs per capsule of Emend<sup>&#x000ae;</sup> ($120&#x02010;230) or generic aprepitant ($47&#x02010;90) are high and must be considered when prescribing this medication.</p></sec><sec id="nmo13604-sec-0008"><label>3.4</label><title>Recommendation 4. We conditionally recommend that adults with moderate&#x02010;to&#x02010;severe CVS receive zonisamide or levetiracetam as an alternate prophylactic medication</title><p>
+<italic>Grade: Conditional recommendation, very low&#x02010;quality evidence. Vote: 100% agreementp</italic>
+</p><p>Zonisamide is an oral sulfonamide anti&#x02010;epileptic (AED) with direct influence on sodium and calcium channel function as well as modulation of GABAergic receptors.<xref rid="nmosup13604-bib-0047" ref-type="ref">47</xref>, <xref rid="nmosup13604-bib-0048" ref-type="ref">48</xref> It has high bioavailability with a fairly long half&#x02010;life (~60&#x000a0;hours) and is metabolized in the liver by CYP3A4 enzymes before renal excretion.<xref rid="nmosup13604-bib-0048" ref-type="ref">48</xref> Levetiracetam is an AED that may act primarily via its binding to synaptic vesicle protein 2 (SV2) and subsequent influence on SV2&#x02010;dependent neurotransmitter release, as well as an influence on intracellular Ca<sup>2+</sup> homeostasis and neuronal excitability.<xref rid="nmosup13604-bib-0049" ref-type="ref">49</xref> Levetiracetam is an oral medication with high bioavailability and fairly short half&#x02010;life (~6&#x02010;8&#x000a0;hours) and is not significantly metabolized before renal excretion.</p><p>The evidence supporting the use of zonisamide or levetiracetam as prophylactic therapy in CVS is based on one retrospective case series of 20 adult patients.<xref rid="nmosup13604-bib-0050" ref-type="ref">50</xref> However, the benefits of this therapeutic approach have been substantiated by additional clinical experience. In their report, Clouse and colleagues described adults who suffered from about 12&#x000a0;episodes/year and had failed to respond to TCA therapy. The substantial reduction in the number of CVS attacks from a mean of 1.3&#x000a0;&#x000b1;&#x000a0;0.3 to 0.5&#x000a0;&#x000b1;&#x000a0;0.2&#x000a0;episodes/year in response to zonisamide or levetiracetam was quite notable. Ultimately, the majority (75%) of patients on zonisamide or levetiracetam reported a moderate clinical response, and 20% experienced a complete cessation of episodes. The mean duration of follow&#x02010;up was 9.5&#x000a0;months (minimum: 3&#x000a0;months). Side effects of fatigue, confusion, impaired concentration, or headache were commonly reported by patients, but those with more severe side effects tolerated the switch to the alternative AED very well.</p><p>The doses of zonisamide and levetiracetam used for CVS prophylaxis mirror those used to prevent seizures. For zonisamide, a starting dose of 100&#x000a0;mg PO daily is typical, with weekly increases of 100&#x000a0;mg/day to target a final dose of 400&#x000a0;mg/day. Levetiracetam is typically started at 500&#x000a0;mg PO in divided doses twice daily and increased by 500&#x000a0;mg weekly until the target dose of ~1000&#x02013;2000&#x000a0;mg/day is achieved. Generic formulations are not particularly expensive. Neither agent requires routine serum monitoring of liver or renal function, but lower doses should be used in those with established liver or renal disease. Finally, newer AEDs related to zonisamide and levetiracetam, such as lacosamide or brivaracetam, are now available, but it remains to be seen if these newer agents are as effective in prophylaxis of CVS episodes.</p></sec><sec id="nmo13604-sec-0009"><label>3.5</label><title>Recommendation 5. We conditionally recommend using mitochondrial supplements such as Co&#x02010;Q10, and riboflavin as prophylactic therapy in the treatment of CVS. Mitochondrial supplements may be used concurrently with other prophylactic agents</title><p>
+<italic>GRADE: Conditional recommendation, very low&#x02010;quality evidence. Vote: 100% agreement</italic>
+</p><p>Mitochondrial dysfunction is a probable contributory factor in the pathogenesis of both CVS and migraine headache.<xref rid="nmosup13604-bib-0051" ref-type="ref">51</xref>, <xref rid="nmosup13604-bib-0052" ref-type="ref">52</xref> Migraine&#x000a0;sufferers exhibit decreased respiratory complex function in imaging and enzyme assays and is likely present in CVS, though specific studies are lacking.<xref rid="nmosup13604-bib-0053" ref-type="ref">53</xref> In addition, both conditions have strong preferential maternal inheritance.<xref rid="nmosup13604-bib-0003" ref-type="ref">3</xref>, <xref rid="nmosup13604-bib-0054" ref-type="ref">54</xref>, <xref rid="nmosup13604-bib-0055" ref-type="ref">55</xref> Childhood CVS frequently progresses to migraine headache. There is a high prevalence of migraine among close relatives with CVS and both often respond to similar medications.<xref rid="nmosup13604-bib-0015" ref-type="ref">15</xref>, <xref rid="nmosup13604-bib-0056" ref-type="ref">56</xref>, <xref rid="nmosup13604-bib-0057" ref-type="ref">57</xref> Given the links between these two disorders, mitochondrial supplements have been used in the prophylaxis of CVS.</p><p>Coenzyme Q10 (Co&#x02010;Q10), a natural steroid&#x02010;derived hydrophobic compound, serves as the electron shuttle between complexes 1 or 2 and complex 3 of the mitochondrial respiratory chain. Co&#x02010;Q10 has shown efficacy in migraine prophylaxis. One retrospective Internet survey compared the efficacy, tolerability, and patient satisfaction of Co&#x02010;Q10 (n&#x000a0;=&#x000a0;32) with amitriptyline (n&#x000a0;=&#x000a0;249) in children with CVS.<xref rid="nmosup13604-bib-0019" ref-type="ref">19</xref> The prophylactic treatment of CVS with Co&#x02010;Q10 showed overall efficacy of 68%, without side effects (0/22). The study had limitations: the retrospective and subjective nature of questionnaires, the lack of a proven diagnosis of CVS, the self&#x02010;selection bias in Internet questionnaire studies, the smaller number of subjects treated with Co&#x02010;Q10, and the wide variability of Co&#x02010;Q10 duration, dosage, brands, and preparations used (gel capsules, liquids, tablets). Boles et&#x000a0;al<xref rid="nmosup13604-bib-0019" ref-type="ref">19</xref> recommended Co&#x02010;Q dose of 10&#x000a0;mg/kg per day in two divided doses, up to 200&#x000a0;mg bid (either in liquid or gel capsule formulation). For refractory cases, they suggest obtaining blood Co&#x02010;Q10 levels and increasing the dose to achieve a target blood level of 3&#x000a0;mg/L.</p><p>Riboflavin, a precursor of flavin mononucleotide and flavin&#x02010;adenosine&#x02010;dinucleotide, cofactors for multiple reduction&#x02010;oxidation enzymes play an important role in oxidative reactions in mitochondria respiratory chain complexes. Prophylactic treatment in migraine shows a significant reduction in headache frequency, good treatment adherence, and excellent tolerability.<xref rid="nmosup13604-bib-0058" ref-type="ref">58</xref> In a systematic review of the efficacy of riboflavin as prophylactic therapy, riboflavin was associated with a positive therapeutic effect in five clinical trials in adults with migraine.<xref rid="nmosup13604-bib-0059" ref-type="ref">59</xref> Most migraine studies report doses of riboflavin of 200 mg twice daily. Based upon this indirect evidence, one may also consider riboflavin as an additional prophylactic supplement in adult CVS patients.</p></sec></sec><sec id="nmo13604-sec-0010"><label>4</label><title>ABORTIVE MEDICATIONS IN CVS</title><sec id="nmo13604-sec-0011"><label>4.1</label><title>Recommendation 6. We conditionally recommend using triptans like sumatriptan to abort symptoms of a CVS episode</title><p>
+<italic>Grade: Conditional recommendation, moderate&#x02010;quality evidence. Vote: &#x0003e;80% agreement</italic>
+</p><p>Sumatriptan is a serotonin agonist approved for the treatment of migraine.<xref rid="nmosup13604-bib-0060" ref-type="ref">60</xref> It likely binds to the 5&#x02010;HT<sub>1B</sub> and 5&#x02010;HT<sub>1D</sub> receptor subclasses in the meninges, producing constriction of distended dural blood vessels. The efficacy of sumatriptan in migraine is due to multiple sites of action (vascular, neural, and central). There are reports of efficacy of sumatriptan in abdominal migraine, a condition classified in the subgroup of childhood periodic syndromes.<xref rid="nmosup13604-bib-0061" ref-type="ref">61</xref>, <xref rid="nmosup13604-bib-0062" ref-type="ref">62</xref> CVS is also in the subgroup of periodic syndromes that include migraine and its equivalents. While the mechanisms causing CVS are not well defined, there is a clear&#x02010;cut clinical, familial, therapeutic, and likely pathogenic parallel with migraine headaches.<xref rid="nmosup13604-bib-0063" ref-type="ref">63</xref>
+</p><p>In one non&#x02013;placebo&#x02010;controlled study of 11 children with CVS, the efficacy of sumatriptan treatment was high in those with a family history of migraine compared to cases without a family history of migraine.<xref rid="nmosup13604-bib-0064" ref-type="ref">64</xref> However, those without a family history of migraine still responded to sumatriptan in 50% of their attacks. In this study, sumatriptan was administered by SC injection in nine and via nasal route in three patients. Although the number of patients was small, the administration of sumatriptan reduced vomiting in nine patients (82%) and the nasal route seemed less effective. Three other case reports describe the efficacy of injectable sumatriptan in aborting episodes of CVS.<xref rid="nmosup13604-bib-0065" ref-type="ref">65</xref> The committee believes that sumatriptan is effective in the acute treatment of CVS although randomized placebo&#x02010;controlled studies investigating the efficacy of sumatriptan in CVS attacks are lacking.</p><p>We recommend administration of triptans during the prodrome or within 30&#x02010;45&#x000a0;minutes of the onset of vomiting in an episode. The efficacy appears to diminish after the first 60&#x000a0;minutes. We recommend nasal and injectable administration given uncertain oral absorption in CVS. For the nasal route, we recommend administering the drug, while the head is gently flexed forward to avoid nasopharyngeal dripping of the drug which can have a bitter taste.<xref rid="nmosup13604-bib-0066" ref-type="ref">66</xref> We recommend using sumatriptan as a nasal spray at 20&#x000a0;mg initially, while a comparable subcutaneous sumatriptan dose in adults is 6&#x000a0;mg. The dose may be repeated in 2&#x000a0;hours if there is no response or a partial response. Sumatriptan should be limited to a maximum of 6&#x000a0;doses/week to avoid overuse. Common side effects include tingling, numbness, dizziness, nausea, and drowsiness. Triptans should not be given to those with underlying coronary artery disease, peripheral vascular disease, hypertension, or stroke due its vasoconstrictor properties.</p></sec><sec id="nmo13604-sec-0012"><label>4.2</label><title>Recommendation 7. We conditionally recommend using serotonin antagonists such as ondansetron to abort symptoms of a CVS episode</title><p>
+<italic>Vote: 100% agreement</italic>
+</p><p>Ondansetron is a selective 5&#x02010;hydroxytryptamine type 3 (5&#x02010;HT<sub>3</sub>) receptor antagonist.<xref rid="nmosup13604-bib-0067" ref-type="ref">67</xref> It acts by blocking afferent 5&#x02010;HT<sub>3</sub> receptors on the vagus peripherally and centrally in the chemoreceptor trigger zone (CTZ) of the area postrema within the medulla oblongata. These actions result in decreased circulating serotonin at the CTZ level, reducing symptoms of nausea and vomiting in affected patients.<xref rid="nmosup13604-bib-0067" ref-type="ref">67</xref>, <xref rid="nmosup13604-bib-0068" ref-type="ref">68</xref> Ondansetron is metabolized in the liver by CYP3A4, CYP1A2, and CYP2D6 and is excreted renally.<xref rid="nmosup13604-bib-0069" ref-type="ref">69</xref>
+</p><p>Despite its wide use in CVS, there is a lack of clinical trials of 5&#x02010;HT<sub>3</sub> antagonists in this condition. However, there are ample data demonstrating the efficacy of these agents in CINV and postoperative nausea and vomiting (PONV) in treating acute, delayed, and anticipatory nausea and vomiting.<xref rid="nmosup13604-bib-0070" ref-type="ref">70</xref>, <xref rid="nmosup13604-bib-0071" ref-type="ref">71</xref> Studies indicate that ondansetron is as effective as other 5&#x02010;HT<sub>3</sub> receptor antagonists in the treatment of CINV.<xref rid="nmosup13604-bib-0072" ref-type="ref">72</xref>
+</p><p>The committee recommends ondansetron as a first&#x02010;line agent in aborting an episode of CVS. Based on clinical experience, combining 5&#x02010;HT<sub>3</sub> receptor antagonists with other abortive agents such as anxiolytics and phenothiazines for sedation may be more effective in aborting an episode than monotherapy. We note that there is a wide variability of responses with a few patients having a complete abortive response while the majority experience attenuation but not cessation of the episode. Adverse effects are uncommon and may include headache, dizziness, drowsiness, diarrhea, constipation, and infrequently extrapyramidal reactions.<xref rid="nmosup13604-bib-0073" ref-type="ref">73</xref> A baseline EKG to check for QTc prolongation is recommended in adults prior to initiating this medication. We recommend using 8&#x000a0;mg of ondansetron as a sublingual preparation or rectally (reformulated) at the onset of the prodrome in combination with other abortive medications like triptans, and anxiolytics to abort an episode of CVS. The oral route should be avoided as patients are usually unable to tolerate oral preparations during an episode and also due to the unpredictable absorption of medications during an episode of vomiting.</p></sec><sec id="nmo13604-sec-0013"><label>4.3</label><title>Recommendation 8. We conditionally recommend aprepitant to abort symptoms of a CVS episode</title><p>
+<italic>Grade: Conditional recommendation, very low&#x02010;quality evidence. Vote: &#x0003e;80% agreement</italic>
+</p><p>There is a single open&#x02010;label trial of oral aprepitant used as <italic>abortive</italic> treatment of CVS in children and adolescents who were refractory to conventional treatment.<xref rid="nmosup13604-bib-0043" ref-type="ref">43</xref> All children &#x0003e;20&#x000a0;kg were given the standard regimen used in chemotherapy&#x02010;induced nausea and vomiting (CINV) of 125&#x000a0;mg initially during the prodrome, then 80&#x000a0;mg daily for the following 2&#x000a0;days as needed. Oral aprepitant could be retained if administered during a prodrome at least 30&#x000a0;minutes before the onset of vomiting. At the end of 12&#x000a0;months, this recurring abortive regimen significantly reduced the duration of episodes from 5&#x000a0;days to 1&#x000a0;day, the number of vomits from 9 to 4 times per hour, and the number of hospital admissions from 9 to 2.5. Side effects appear to be mild, and the medication was well tolerated. There are no data on the use of intravenous fosaprepitant (phosphorylated prodrug of aprepitant) in CVS, although it has been used effectively in moderate and highly emetogenic CINV.<xref rid="nmosup13604-bib-0074" ref-type="ref">74</xref>
+</p><p>Based upon low&#x02010;quality evidence in children and adolescents and positive clinical experience, the committee recommends aprepitant as a potentially effective second&#x02010;line abortive agent. We recommend using a standard dosing regimen of 125&#x000a0;mg, 80&#x000a0;mg, and 80&#x000a0;mg on three consecutive days with the first dose to be taken as early in the prodrome and before the onset of vomiting. The target individuals in whom abortive aprepitant is recommended include those who are refractory to standard abortive therapy (eg, sumatriptan and ondansetron) and those who have a defined prodrome or a predictable periodicity (episode which occurs in relation to the menstrual cycle) in which aprepitant can be initiated a day or two before the anticipated onset of vomiting. Difficulties with obtaining insurance approval for aprepitant and IV fosaprepitant have been a barrier to its use despite demonstrated efficacy.</p></sec></sec><sec id="nmo13604-sec-0014"><label>5</label><title>TREATMENT OF COMORBID CONDITIONS</title><sec id="nmo13604-sec-0015"><label>5.1</label><title>Recommendation 9. We suggest screening and treatment for comorbid conditions such as anxiety, depression, migraine headache, autonomic dysfunction, sleep disorders, and substance use. We suggest referral to appropriate allied health services (psychologist, psychiatrist, neurologist, sleep, or substance use specialist) as indicated</title><p>
+<italic>Vote: 100% agreement</italic>
+</p><p>Psychiatric conditions, including anxiety, panic, and depression, are common in adults with CVS,<xref rid="nmosup13604-bib-0018" ref-type="ref">18</xref>, <xref rid="nmosup13604-bib-0075" ref-type="ref">75</xref> with one systematic review finding a prevalence of 39.7% (CI: 33.6&#x02010;46.1).<xref rid="nmosup13604-bib-0076" ref-type="ref">76</xref> However, few studies used standardized diagnostic interviews to ascertain psychiatric disorders, with most reporting the presence of psychiatric conditions based on either a patient report/chart review or via a screening instrument. One case report described persistent nausea that provoked anxiety, leading to conditioned anticipatory nausea and vomiting that in turn aggravated the patient's CVS.<xref rid="nmosup13604-bib-0077" ref-type="ref">77</xref> Other studies reported that panic symptoms can trigger episodes of CVS.<xref rid="nmosup13604-bib-0075" ref-type="ref">75</xref>, <xref rid="nmosup13604-bib-0078" ref-type="ref">78</xref> Taranukha et&#x000a0;al<xref rid="nmosup13604-bib-0079" ref-type="ref">79</xref> recently reported that 41% of adults with CVS had high degrees of psychological distress measured by the Basic Symptom Inventory. Anxiety and mood symptoms may both be risk factors for precipitating episodes of CVS or as a consequence of CVS. It is prudent to assess for psychiatric comorbidity in adult CVS patients. Further, several population studies have found increased symptom burden, functional disability, decreased quality of life, and increased healthcare costs when medical and mental health conditions co&#x02010;occur.<xref rid="nmosup13604-bib-0080" ref-type="ref">80</xref>
+</p><p>Migraine headache (including a family history of migraine) is closely linked with CVS.<xref rid="nmosup13604-bib-0004" ref-type="ref">4</xref>, <xref rid="nmosup13604-bib-0005" ref-type="ref">5</xref> The prevalence of migraine headaches in adults with CVS varies between 13% and 70%.<xref rid="nmosup13604-bib-0015" ref-type="ref">15</xref>
+<xref rid="nmosup13604-bib-0075" ref-type="ref">75</xref> Furthermore, 57% of adult CVS patients (with or without migraine) were reported to have a first and/or second&#x02010;degree relative with migraines or migraine variants.<xref rid="nmosup13604-bib-0075" ref-type="ref">75</xref> It is unclear whether treating migraines independently improves the CVS disease course, but many medications are effective prophylactic therapies (i.e. TCAs, anti&#x02010;epileptic drugs) or abortive therapies (ie, triptans) for both conditions. Anecdotally, some committee members have observed that when CVS and migraines co&#x02010;occur, they may both respond to TCAs but at different dosages, requiring the clinician to keep titrating the dose upwards even when symptoms of one of the disorders have been abolished.</p><p>Autonomic function in CVS has been extensively investigated, with findings that many CVS patients exhibit autonomic dysregulation. In a study of 20 adult patients with CVS, 7 (35%) had postural tachycardia.<xref rid="nmosup13604-bib-0081" ref-type="ref">81</xref> Another study in 22 adults with CVS found 5 (23%) with either postural tachycardia or orthostatic hypotension, while 10 (47%) of the 21 pediatric CVS patients studied by Chelimsky et&#x000a0;al<xref rid="nmosup13604-bib-0082" ref-type="ref">82</xref>, <xref rid="nmosup13604-bib-0083" ref-type="ref">83</xref> reported orthostatic intolerance. Abnormalities in skin sympathetic responses and thermoregulatory sweat tests have also been reported. The report by Chelimsky et&#x000a0;al<xref rid="nmosup13604-bib-0084" ref-type="ref">84</xref> in children suggests that treatment of the underlying autonomic dysfunction reduces the number of vomiting episodes; however, the treatment of CVS and postural orthostatic tachycardia syndrome (POTS) overlaps in the use of supplemental fluid intake, conditioning, and propranolol. Concurrent treatment of the underlying autonomic disorder may be needed particularly in the setting of severe orthostatic symptoms such as chronic daily nausea and subacute symptoms in between acute vomiting episodes.</p><p>Widespread drug usage has been found in CVS with 39%&#x02010;81% using cannabis, 19% alcohol, 36% tobacco, and 17% reliant on narcotics for pain management.<xref rid="nmosup13604-bib-0085" ref-type="ref">85</xref>, <xref rid="nmosup13604-bib-0086" ref-type="ref">86</xref> Although none of these studies contained a specific comparison group, most of these figures appear to be higher than those found in the general population. Co&#x02010;occurring substance use or abuse can interact with medications for the management of CVS and complicate treatment, and thus, standard screening for such disorders and appropriate treatment is indicated. The role of cannabis in CVS and CHS is discussed in detail in a separate paper in this&#x000a0;supplement.</p></sec><sec id="nmo13604-sec-0016"><label>5.2</label><title>Recommendation 10. We suggest that techniques such as meditation, relaxation and biofeedback be offered as complementary therapy in CVS. These measures are generally devoid of side effects and may improve overall well&#x02010;being and patient care outcomes</title><p>
+<italic>Vote: 100% agreement</italic>
+</p><p>Cyclic vomiting syndrome is a functional GI disorder that is thought to be due to altered brain&#x02010;gut interaction.<xref rid="nmosup13604-bib-0087" ref-type="ref">87</xref>, <xref rid="nmosup13604-bib-0088" ref-type="ref">88</xref>, <xref rid="nmosup13604-bib-0089" ref-type="ref">89</xref> Episodes of CVS are often triggered by stressors. Functional neuroimaging studies have shown distinct differences in functional connectivity in regions of the brain such as the insular cortex that are associated with processing of emotion, nausea, and pain. This supports the hypothesis that symptoms are centrally mediated and highlights the potential for interventions aimed to reduce stress to positively influence the clinical course of adults with CVS. Mind&#x02010;body interventions such as meditation and relaxation as well as lifestyle modifications including regular exercise, good sleep hygiene, and avoidance of fasting and dehydration may help reduce both migraine headache and the frequency of CVS episodes. The emphasis on self&#x02010;management skills may also contribute to the patient developing an enhanced sense of efficacy. There is scant literature addressing the use of complementary techniques in adult CVS. Relaxation and biofeedback combined with cognitive behavioral therapy were successful in reducing the frequency of CVS episodes in one adolescent case study.<xref rid="nmosup13604-bib-0090" ref-type="ref">90</xref>
+</p><p>The recommendations provided are summarized in Table&#x000a0;<xref rid="nmo13604-tbl-0001" ref-type="table">1</xref> and are drawn from a systematic GRADE evaluation of the literature (1&#x02010;6 and 8) and expert committee consensus (7,9 and 10). We provide these recommendations with an appreciation of the limited, and low&#x02010;quality evidence provided from the literature aiming to bridge the gap between what we know and how we can best help patients at the present time.</p><table-wrap id="nmo13604-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Recommendations for treatment of cyclic vomiting syndrome</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">1.</td><td align="left" rowspan="1" colspan="1">We strongly recommend that adults with moderate&#x02010;to&#x02010;severe CVS receive tricyclic antidepressants (TCAs) such as amitriptyline, as a first&#x02010;line prophylactic medication (very low&#x02010;quality evidence)</td></tr><tr><td align="left" rowspan="1" colspan="1">2.</td><td align="left" rowspan="1" colspan="1">We conditionally recommend that adults with moderate&#x02010;to&#x02010;severe CVS receive topiramate as an alternate prophylactic medication (very low&#x02010;quality evidence)</td></tr><tr><td align="left" rowspan="1" colspan="1">3.</td><td align="left" rowspan="1" colspan="1">We conditionally recommend that adults with moderate&#x02010;to&#x02010;severe CVS receive aprepitant as an alternate prophylactic medication (very low&#x02010;quality evidence)</td></tr><tr><td align="left" rowspan="1" colspan="1">4.</td><td align="left" rowspan="1" colspan="1">We conditionally recommend that adults with moderate&#x02010;to&#x02010;severe CVS receive zonisamide or levetiracetam as an alternate prophylactic medication (very low&#x02010;quality evidence)</td></tr><tr><td align="left" rowspan="1" colspan="1">5.</td><td align="left" rowspan="1" colspan="1">We conditionally recommend using Co&#x02010;Q10, and riboflavin as prophylactic therapy in the treatment of CVS. Mitochondrial supplements may be used concurrently in addition to other prophylactic agents (very low&#x02010;quality evidence)</td></tr><tr><td align="left" rowspan="1" colspan="1">6.</td><td align="left" rowspan="1" colspan="1">We conditionally recommend using triptans like sumatriptan to abort symptoms of a CVS episode. (moderate&#x02010;quality evidence)</td></tr><tr><td align="left" rowspan="1" colspan="1">7.</td><td align="left" rowspan="1" colspan="1">We conditionally recommend using serotonin antagonists such as ondansetron to abort symptoms of a CVS episode (consensus statement)</td></tr><tr><td align="left" rowspan="1" colspan="1">8.</td><td align="left" rowspan="1" colspan="1">We conditionally recommend aprepitant to abort symptoms of a CVS episode (very low&#x02010;quality evidence)</td></tr><tr><td align="left" rowspan="1" colspan="1">9.</td><td align="left" rowspan="1" colspan="1">We suggest screening and treatment for comorbid conditions such as anxiety, depression, migraine headache, sleep disorders, autonomic dysfunction, and substance use. We suggest referral to appropriate allied health services (psychologist, psychiatrist, neurologist, sleep, or substance use specialist) as indicated (consensus statement)</td></tr><tr><td align="left" rowspan="1" colspan="1">10.</td><td align="left" rowspan="1" colspan="1">We suggest that techniques such as meditation, relaxation and biofeedback be offered as complementary therapy in CVS. These measures are generally devoid of side effects and may improve overall well&#x02010;being and patient care outcomes (consensus statement)</td></tr></tbody></table><table-wrap-foot id="nmo13604-ntgp-0001"><fn id="nmo13604-note-0001"><p>Recommendations are labeled as either &#x0201c;strong&#x0201d; or &#x0201c;conditional&#x0201d; according to the GRADE approach. Clinicians may interpret &#x0201c;strong&#x0201d; recommendations to mean that most individuals should receive the intervention. Clinicians may interpret &#x0201c;conditional&#x0201d; recommendations to mean that different choices will be appropriate for individual patients, and clinicians must help each patient arrive at a management decision consistent with the patient's values and preferences. Consensus statements were not based on the GRADE approach and were recommendations made by the committee based on indirect evidence and/or their collective experience in managing adult and pediatric CVS patients.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="nmo13604-sec-0017"><label>5.3</label><title>Consensus statement on diagnosis and management of CVS</title><p>The following section addresses the diagnosis, appropriate investigations, and an algorithm for the treatment of CVS. These recommendations are formulated based on expert opinion, available literature, and indirect evidence and as such are not amenable to GRADE methodology. They are intended to provide a succinct, comprehensive overview of the diagnosis and management of CVS.</p></sec><sec id="nmo13604-sec-0018"><label>5.4</label><title>Diagnosis</title><p>Cyclic vomiting syndrome has typical clinical features, and the hallmark of CVS is the presence of intermittent episodes of severe nausea and vomiting interspersed with symptom&#x02010;free intervals. However, patients may experience inter&#x02010;episodic nausea or dyspepsia and may not be completely asymptomatic in between typical episodes. This feature of adult CVS was recognized for the first time in the updated Rome IV criteria for CVS (Table&#x000a0;<xref rid="nmo13604-tbl-0002" ref-type="table">2</xref>). At the present time, the expert committee endorses the Rome IV diagnostic criteria for CVS but also acknowledges that the sensitivity and specificity of these criteria have not been subjected to rigorous study. The use of chronic cannabis in CVS has led to a putative new diagnosis of CHS and is discussed in a separate article in this special supplement.</p><table-wrap id="nmo13604-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Rome IV criteria for cyclic vomiting syndrome</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">Stereotypical episodes of vomiting regarding onset (acute) and duration (&#x0003c;1&#x000a0;week)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="nmo13604-list-0001"><list-item><p>At least three discrete episodes in the prior year and two episodes in the past 6&#x000a0;months, occurring at least 1&#x000a0;week apart </p></list-item><list-item><p>Absence of vomiting between episodes, but other milder symptoms can be present between cycles </p></list-item></list>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Supportive remarks:</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;Personal or family history of migraine headaches</td></tr><tr><td align="left" rowspan="1" colspan="1">Criteria must be fulfilled for the last 6&#x000a0;months with symptom onset at least 3&#x000a0;months before diagnosis</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>There are four phases of CVS: prodromal phase, vomiting phase, recovery, and asymptomatic or inter&#x02010;episodic phase.<xref rid="nmosup13604-bib-0075" ref-type="ref">75</xref> During the prodrome, patients have intense nausea, some with symptoms of panic. Autonomic symptoms such as diarrhea, cold and hot flashes, and profuse sweating may also be present. This is followed by the acute emetic phase where patients will have severe vomiting and retching. The vomiting can often be relentless varying from 1 to 6 times/hour, and the retching often persists even after the stomach has been completely emptied. Abdominal pain is very common and can be&#x000a0;present in up to 70% adults with CVS. Restlessness and intense feelings of thirst with accompanying &#x0201c;drinking and guzzling&#x0201d; behavior may also be observed.<xref rid="nmosup13604-bib-0075" ref-type="ref">75</xref> Other symptoms include a migraine headache, photosensitivity, and phonosensitivity. Patients are often unable to articulate and have been described as being in a &#x0201c;conscious coma.&#x0201d; Patients sometimes induce vomiting by sticking a finger in their throat to obtain symptomatic relief. This should not be misinterpreted as self&#x02010;induced vomiting or bulimia. Episodes usually begin in the early morning hours though this is variable. The four phases of CVS are depicted in Figure&#x000a0;<xref rid="nmo13604-fig-0002" ref-type="fig">2</xref>. The recovery phase varies from hours to days, and patients are slowly able to resume oral intake and return to baseline. A proposed data collection sheet for use in clinic to capture the salient features while entertaining a diagnosis of CVS is shown in Table&#x000a0;<xref rid="nmo13604-tbl-0003" ref-type="table">3</xref>.</p><fig fig-type="Figure" xml:lang="en" id="nmo13604-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Schematic representation of the four phases of cyclic vomiting syndrome and their therapeutic goals.<xref rid="nmosup13604-bib-0075" ref-type="ref">75</xref>
+</p></caption><graphic id="nlm-graphic-3" xlink:href="NMO-31-na-g002"/></fig><table-wrap id="nmo13604-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Proposed data collection sheet for cyclic vomiting syndrome</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><tbody><tr style="border-bottom:solid 1px #000000"><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">Demographics</td><td align="left" rowspan="1" colspan="1">Age, Gender, Race</td></tr><tr><td align="left" rowspan="9" colspan="1">2</td><td align="left" rowspan="9" colspan="1">Characteristics of a CVS episode</td><td align="left" rowspan="1" colspan="1">Date of onset</td></tr><tr><td align="left" rowspan="1" colspan="1">Frequency of vomiting episodes over the previous 12&#x000a0;months and since onset of symptoms</td></tr><tr><td align="left" rowspan="1" colspan="1">Duration of a typical episode (hours, days)</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of emeses/hour</td></tr><tr><td align="left" rowspan="1" colspan="1">Presence of other symptoms, particularly abdominal pain and migraine headache</td></tr><tr><td align="left" rowspan="1" colspan="1">Presence of inter&#x02010;episodic quiescent/asymptomatic intervals and any changes over time</td></tr><tr><td align="left" rowspan="1" colspan="1">Presence of inter&#x02010;episodic nausea/dyspepsia</td></tr><tr><td align="left" rowspan="1" colspan="1">Specific triggers&#x02014;stress both positive and negative, relation to menstrual period, weather, anesthesia, surgery, travel/motion sickness, sleep deprivation, food, allergies.</td></tr><tr><td align="left" rowspan="1" colspan="1">Alleviating factors&#x02014;taking frequent and long hot showers/baths; sitting in a dark, quiet room, sleep, using cannabis</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">CVS episode</td><td align="left" rowspan="1" colspan="1">Prodromal phase&#x02014;presence, duration, symptoms<xref ref-type="fn" rid="nmo13604-note-0002">[Link]</xref>
+</td></tr><tr><td align="left" rowspan="4" colspan="1">4</td><td align="left" rowspan="4" colspan="1">Prior prophylactic treatment (dose and duration) and response to medications</td><td align="left" rowspan="1" colspan="1">TCAs such as amitriptyline</td></tr><tr><td align="left" rowspan="1" colspan="1">Anti&#x02010;epileptic drugs (topiramate, zonisamide, and levetiracetam)</td></tr><tr><td align="left" rowspan="1" colspan="1">NK1 receptor antagonists (aprepitant)</td></tr><tr><td align="left" rowspan="1" colspan="1">Mitochondrial supplements (Co&#x02010;Q10, riboflavin)</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">Prior abortive medications</td><td align="left" rowspan="1" colspan="1">Triptans (such as sumatriptan), serotonin receptor antagonists (ondansetron), benzodiazepines, NK1 receptor antagonists</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">Health care utilization</td><td align="left" rowspan="1" colspan="1">No. of emergency department/urgent care visits/hospitalizations over the past year and since onset of CVS symptoms</td></tr><tr><td align="left" rowspan="10" colspan="1">7</td><td align="left" rowspan="10" colspan="1">Comorbid conditions</td><td align="left" rowspan="1" colspan="1">Migraine headache</td></tr><tr><td align="left" rowspan="1" colspan="1">Irritable bowel syndrome</td></tr><tr><td align="left" rowspan="1" colspan="1">Fibromyalgia</td></tr><tr><td align="left" rowspan="1" colspan="1">Anxiety</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression</td></tr><tr><td align="left" rowspan="1" colspan="1">Panic disorder</td></tr><tr><td align="left" rowspan="1" colspan="1">Autonomic dysfunction</td></tr><tr><td align="left" rowspan="1" colspan="1">Seizures</td></tr><tr><td align="left" rowspan="1" colspan="1">GERD</td></tr><tr><td align="left" rowspan="1" colspan="1">Cardiac conditions (hypertension, coronary artery disease)</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">Family history</td><td align="left" rowspan="1" colspan="1">Migraine, CVS, anxiety, fibromyalgia, neurological disorders</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">Social history</td><td align="left" rowspan="1" colspan="1">Smoking nicotine, <xref ref-type="fn" rid="nmo13604-note-0003">[Link]</xref>cannabis, alcohol use</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">Investigations</td><td align="left" rowspan="1" colspan="1">Blood work, EGD, Imaging studies of the abdomen</td></tr></tbody></table><table-wrap-foot id="nmo13604-ntgp-0002"><fn id="nmo13604-note-0002"><p>Abortive medications such as triptans and ondansetron and anxiolytics are most effective when used early in the prodromal phase.</p></fn><fn id="nmo13604-note-0003"><p>Data collection sheet for cannabis use is given in a separate manuscript on cannabis use in CVS in this supplement.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Fleischer et&#x000a0;al<xref rid="nmosup13604-bib-0075" ref-type="ref">75</xref> described patterns of coalescence with CVS wherein over a period of time, the duration of individual episodes gets longer while asymptomatic intervals shorten, eventually leading to a pattern that resembles chronic daily vomiting. In others, chronic daily nausea becomes superimposed on acute vomiting episodes resulting in continuous symptomatology and disability. Encountering a patient in a coalescent phase of their illness presents a diagnostic challenge as the illness may not be recognizable as CVS by most clinicians. When the typical episodic pattern is lost (often occurring over years), a careful history focusing on symptoms at the onset of the disorder is important to make an accurate diagnosis, as most patients endorse a discernable cyclic pattern that was part of the initial presentation.</p></sec><sec id="nmo13604-sec-0019"><label>5.5</label><title>Investigations</title><p>The Rome IV criteria for the diagnosis of CVS require that there is &#x0201c;no organic pathology&#x0201d; to explain the symptoms. Hence, it is reasonable to pursue some higher&#x02010;yield diagnostic investigations to exclude other disorders that may mimic CVS. Unfortunately, many patients with CVS are subjected to extensive and often repetitive diagnostic testing before the diagnosis is even considered. Diagnosing CVS efficiently and in a cost&#x02010;effective manner can be achieved by early clinical recognition based upon the Rome IV criteria, followed by a limited diagnostic workup to exclude alternative disorders. The following suggestions reflect the committee's expert opinion as there is limited published data pertaining to approach.</p><p>A basic workup for a patient with previously uninvestigated episodes of vomiting should include biochemical, endoscopic, and potentially radiographic assessments. Biochemical testing should include the following: a complete blood count, serum electrolytes and glucose, liver panel, lipase, and urinalysis. Although patients will undoubtedly receive some testing in an ED setting if presenting with a CVS episode, in general diagnostic tests should be performed after resolution to minimize confounding variables such as dehydration. An esophagogastroduodenoscopy (EGD) should be performed to exclude organic pathology such a gastric volvulus, which may mimic CVS in rare instances. It is important not to over&#x02010;interpret some endoscopic findings, such as a Mallory&#x02010;Weiss tear, mild gastritis, or esophagitis as being causal, when those findings may more likely be epiphenomena reflective of recent retching and vomiting. Imaging studies including a right upper quadrant ultrasound could reveal biliary disease, and a small bowel follow&#x02010;through or CT/MR enterography may also be able to exclude any obstructive lesions within the small bowel.</p><p>Gastric emptying tests are not typically useful in the diagnostic workup as patterns of emptying are variable in CVS with patients exhibiting rapid or normal gastric emptying and only a small subset exhibiting delayed gastric emptying.<xref rid="nmosup13604-bib-0091" ref-type="ref">91</xref> However, these tests may be useful in patients who have inter&#x02010;episodic symptoms to help elucidate pathophysiology and tailor therapy. A solid&#x02010;phase 4&#x02010;hour gastric emptying scan should only be done in the inter&#x02010;episodic phase as emptying&#x000a0;will clearly be altered or delayed during the sick phase. Both opiates and cannabis can delay gastric emptying.<xref rid="nmosup13604-bib-0092" ref-type="ref">92</xref> Lastly, patients with any localizing neurological symptoms should undergo brain imaging (CT or MRI) and would justify referral to a neurologist.</p><p>Investigations for hypothyroidism (thyroid&#x02010;stimulating hormone and/or T4/T3 serum levels), acute pancreatitis (serum lipase), Addison disease (serum cortisol and/or an adrenocorticotropin stimulation (ACTH) stimulation test), mitochondrial disease (serum lactate, pyruvate), or less common metabolic disorders such as acute intermittent porphyria (urine porphyrins) may be considered, especially with supporting symptoms.</p><p>Once a diagnosis of CVS has been established, we recommend assessing severity of CVS, identifying triggers, and recognizing comorbid conditions. An algorithm for the management of CVS is shown in Figure&#x000a0;<xref rid="nmo13604-fig-0001" ref-type="fig">1</xref>. As always, treatment options should be discussed with the patient and patient preferences should be considered. Ongoing care with a team to provide support is crucial to achieve good outcomes.</p></sec><sec id="nmo13604-sec-0020"><label>5.6</label><title>Treatment of CVS in the emergency department</title><p>The present review evaluates the evidence for effectiveness of different drugs used in the acute care setting. The review demonstrates the paucity of Grade I evidence for the effectiveness of any one drug. It is possible that some of these drugs are more effective when used sequentially or in combination.<xref rid="nmosup13604-bib-0002" ref-type="ref">2</xref>, <xref rid="nmosup13604-bib-0075" ref-type="ref">75</xref>, <xref rid="nmosup13604-bib-0078" ref-type="ref">78</xref> The literature is largely silent on the effectiveness of sequential drug regimens, combinations of drugs, or process improvement implicit in the use of treatment guidelines, order sets, or expedited treatment programs which have proven so useful in the treatment of asthma, myocardial infarction, and stroke.<xref rid="nmosup13604-bib-0093" ref-type="ref">93</xref>, <xref rid="nmosup13604-bib-0094" ref-type="ref">94</xref>, <xref rid="nmosup13604-bib-0095" ref-type="ref">95</xref>
+</p><p>Given the intrinsic inherent variation in a clinically defined entity, it is very likely that the response to individual medications will be heterogenous although possible that single drugs will work best for a well&#x02010;defined subgroup. It is likely that a combination of drugs will continue to be the preferred approach for the treatment of most of these patients. For this broad group, a combination of anti&#x02010;emetics, analgesics, and sedation are likely to be effective for symptomatic relief of rescue therapy.<xref rid="nmosup13604-bib-0096" ref-type="ref">96</xref>, <xref rid="nmosup13604-bib-0097" ref-type="ref">97</xref> Discussions with neurologists in the drafting of this review indicated that the improper administration of nasal triptans may account for their seeming ineffectiveness.<xref rid="nmosup13604-bib-0066" ref-type="ref">66</xref> A &#x0201c;head forward&#x0201d; technique vastly improves drug delivery to anteriorly placed nasal receptors. As in asthma, patient education should be included as part of the treatment approach. For patients where anxiety is a prominent feature, a medication protocol that uses anxiolytic and sedative drugs may be more effective. There is very limited data on the use of benzodiazepines in cyclic vomiting syndrome. That said they can very helpful in the short term to reduce anxiety and somatic symptoms in the setting of a vomiting episode in the emergency department or an acute care setting. The dilemma is that these medications while effective and should only be used short term tend to be used long&#x02010;term. The risks with long&#x02010;term use include tolerance, dependence, and abuse. A recent report from the U.S. National Center for Health Statistics shows that from 2011 to 2016, benzodiazepines were among the 10 most frequently cited drugs in overdose deaths. <xref rid="nmosup13604-bib-0098" ref-type="ref">98</xref> Thus, for any condition where anxiety plays a pivotal role, a focused evaluation should be conducted and the medication treatment of choice, antidepressants, be considered along with cognitive behavioral treatment of any underlying anxiety disorder.</p><p>While opiates may occasionally be required for control of severe pain, it is preferable to opt for the use of intravenous ketorolac and non&#x02010;opiate sedation to avoid development of dependence or patient labeling that accompanies regular opiate use in a chronic recurrent condition such as CVS. A sample ED protocol template is provided in Table&#x000a0;<xref rid="nmo13604-tbl-0004" ref-type="table">4</xref>.</p><table-wrap id="nmo13604-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Cyclic vomiting syndrome emergency department (ED) protocol<xref ref-type="fn" rid="nmo13604-note-0004">[Link]</xref>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">____[name]____________ has an established diagnosis of Cyclic Vomiting Syndrome</td></tr><tr><td align="left" rowspan="1" colspan="1">Operational definition</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<list list-type="bullet" id="nmo13604-list-0002"><list-item><p>A recurring pattern of discrete episodes of severe vomiting, accompanied by profound nausea and/or severe abdominal pain</p></list-item><list-item><p>Patient returns to usual health status between episodes (may have inter&#x02010;episodic nausea and or dyspepsia)</p></list-item><list-item><p>In some patients, CVS episodes resemble a migraine attack</p></list-item><list-item><p>Patients may be restless, anxious, and distressed</p></list-item><list-item><p>Patients are not customarily dehydrated until late in the episode</p></list-item></list>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Therapeutic goal</td></tr><tr><td align="left" rowspan="1" colspan="1">Rapid recognition and intervention may decrease severity of the attack and promote prompt resolution of symptoms</td></tr><tr><td align="left" rowspan="1" colspan="1">ED management</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="nmo13604-list-0003"><list-item><p>Clinical assessment: Pulse/Temp/BP/Weight, consciousness, and hydration</p></list-item><list-item><p>Laboratories 
+</p><list list-type="alpha-lower" id="nmo13604-list-0004"><list-item><p>CBC, urea, creatinine, LFT's, lipase, glucose, and electrolytes</p></list-item><list-item><p>EKG</p></list-item><list-item><p>Urine analysis</p></list-item><list-item><p>Diagnostic imaging at discretion of attending physician</p></list-item></list></list-item></list>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Treatment</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="nmo13604-list-0005"><list-item><p>Intravenous fluids 
+</p><list list-type="alpha-lower" id="nmo13604-list-0006"><list-item><p>IV saline bolus if clinically dehydrated</p></list-item><list-item><p>IV D5NS at 100%&#x02010;150% maintenance (suggested rate is 200&#x000a0;cc/h for a 70&#x000a0;kg adult.)</p></list-item></list></list-item><list-item><p>For vomiting and nausea 
+</p><list list-type="alpha-lower" id="nmo13604-list-0007"><list-item><p>IV ondansetron 8&#x000a0;mg IV&#x000a0;&#x000d7;&#x000a0;1&#x02014;may repeat q 4&#x02010;6&#x000a0;h if ondansetron is ineffective</p></list-item><list-item><p>Consider diphenhydramine 50&#x000a0;mg IV and metoclopramide 10&#x000a0;mg IV</p></list-item><list-item><p>Consider IV fosaprepitant 150&#x000a0;mg if available</p></list-item></list></list-item><list-item><p>For sedation
+</p><list list-type="alpha-lower" id="nmo13604-list-0008"><list-item><p>IV lorazepam 1&#x02010;2&#x000a0;mg and b. IV diphenhydramine 50&#x000a0;mg for additional sedation</p></list-item></list></list-item><list-item><p>For migraine&#x02010;like presentation 
+</p><list list-type="alpha-lower" id="nmo13604-list-0009"><list-item><p>Sumatriptan nasal 20&#x000a0;mg (head forward technique) or</p></list-item><list-item><p>Sumatriptan subcutaneous injection 6&#x000a0;mg/0.5&#x000a0;mL</p></list-item></list></list-item><list-item><p>For pain 
+</p><list list-type="alpha-lower" id="nmo13604-list-0010"><list-item><p>IV ketorolac 30 mg if &#x0003e; 60 minutes from onset; may repeat 15 mg q 6 h x 2 (maximum 60 mg/d)</p></list-item><list-item><p>Opioids may be considered as part of an ongoing treatment plan in refractory patients<xref ref-type="fn" rid="nmo13604-note-0005">[Link]</xref>
+</p></list-item></list></list-item></list>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Reassess</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="nmo13604-list-0011"><list-item><p>Treatment failure&#x02014;intensify treatment as indicated above or admit patient</p></list-item><list-item><p>Positive treatment response&#x02014;discharge 
+</p><list list-type="alpha-lower" id="nmo13604-list-0012"><list-item><p>Continue ondansetron (soluble tablets) q 6&#x02010;8&#x000a0;h&#x000a0;&#x000d7;&#x000a0;24&#x02010;48&#x000a0;h if initially effective</p></list-item><list-item><p>Continue lorazepam&#x000a0;&#x000d7;&#x000a0;24&#x02010;48&#x000a0;h if initially effective</p></list-item><list-item><p>Continue NSAIDs for pain as needed</p></list-item></list></list-item></list>
+</td></tr></tbody></table><table-wrap-foot id="nmo13604-ntgp-0003"><fn id="nmo13604-note-0004"><p>This ED protocol represents a sample template and should be tailored based on individual needs.</p></fn><fn id="nmo13604-note-0005"><p>Opioids must be used sparingly and with caution given the risk of addiction, dependence with frequent or long&#x02010;term use. Every effort should be made to use non&#x02010;opioid alternatives including the use of sedatives and prompt care which can alleviate the anxiety that often drives symptoms.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec id="nmo13604-sec-0021"><label>6</label><title>CONCLUSIONS</title><p>Cyclic vomiting syndrome is a condition that challenges both patients and healthcare providers alike due to the considerable morbidity and misery associated with it and the lack of a clear understanding of pathophysiology and robust therapeutic evidence required to advance treatment. The 10 recommendations, the consensus statement, and treatment algorithms provided aim to bridge the gap between our current knowledge of CVS and how we can best help patients until we have a more complete understanding of this complex condition. Other sections in this special supplement on CVS &#x000a0;include a more detailed discussion of CHS, pathophysiology, gaps in knowledge, and future research directions.</p></sec><sec id="nmo13604-sec-0023"><title>FUNDING</title><p>Funding for this work was provided by the Cyclic Vomiting Syndrome Association (CVSA).</p></sec><sec id="nmo13604-sec-0024"><title>DISCLOSURES</title><p>KAA: No disclosures. WLH: Retainer agreements, Allegan PLC Advisory Board for relamorelin in gastroparesis; Significant research support, Medtronic &#x02010; wireless motility capsule in gastroparesis; Rhythm pharmaceuticals &#x02010; phase II trial in diabetic gastroparesis; Participation in other guideline development, member gastrointestinal transit appropriate use criteria panel. RMI: Advisory Board for Abbvie; co&#x02010;investigator on a nutritional study with Abbott Nutrition; Participation in other guideline development, Consensus Statement on Pediatric Cyclic Vomiting Syndrome. SSJ: Retainer agreements, None; Significant research support, None; Participation in other guideline development, American Autonomic Society &#x02013; Guide for Orthostatic Hypotension. DJL: Retainer agreements, Consultant, Takeda Pharmaceuticals; Significant research support, NIH K08 DK101756; Participation in other guideline development, "Elimination Dysfunction in Multiple Sclerosis" &#x02013; Guideline Committee, Consortium of MS Care Centers. BUKL: Retainer agreement, Consultant, Takeda Pharmaceuticals; Participation in other guideline development, Consensus Statement on Pediatric Cyclic Vomiting Syndrome Section Editor, Pediatric Gastroenterology, UpToDate. IS: Significant research support, NIH/NIDDK Gastroparesis Consortium, Forest Pharmaceuticals. AAM: Significant research support, Colorado Department of Public Health and Environment for a study, "The Adverse Health Effects of Edible Cannabis Products" (CDPHE 17 FHHA 96950). RNS: State Empire Clinical Research Investigator Program, NCI K07CA216326 and NCI R01 CA211723, and PCORI; Paid consultant for the non&#x02010;profit Institute for Clinical and Economic Review. CDS: No disclosures. SS: Participation in development of clinical guidelines for other scientific or clinical societies, American Gastroenterology Association (AGA), American Society of Gastrointestinal Endoscopy (ASGE). SET: Participation in other guideline development, American Autonomic Society: Pediatric guideline committee on orthostatic intolerance. TV: Participation in other guideline development, None; Retainer agreement, Consultant, Takeda Pharmaceuticals; Ad hoc expert consultant for &#x0201c;Best Doctors&#x0201d; and &#x0201c;Grand Rounds&#x0201d;.</p></sec><sec id="nmo13604-sec-0025"><title>AUTHOR CONTRIBUTIONS</title><p>TV, BL, DL, WH, SJ, ST, KA, IS, RI, ST, and RS analyzed data and wrote the paper. CS collated data and performed the library search. All authors critically reviewed the manuscript.</p></sec></body><back><ack id="nmo13604-sec-0022"><title>ACKNOWLEDGMENTS</title><p>We would like to gratefully acknowledge Dr. Benson Massey for his counsel and serving as a liaison between the American Neurogastroenterology and Motility Society (ANMS) and the Cyclic Vomiting Syndrome Association (CVSA) and facilitating the successful completion of this work.</p></ack><ref-list content-type="cited-references" id="nmo13604-bibl-0001"><title>REFERENCES</title><ref id="nmosup13604-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0001">
+<string-name>
+<surname>Gee</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>On fitful or recurrent vomiting</article-title>. <source xml:lang="en">St Bartholomew's Hosp Rep</source>. <year>1882</year>;<volume>18</volume>:<fpage>1</fpage>&#x02010;<lpage>6</lpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0002">
+<string-name>
+<surname>Abell</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Boles</surname>
+<given-names>RG</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cyclic vomiting syndrome in adults</article-title>. <source xml:lang="en">Neurogastroenterol Motil</source>. <year>2008</year>;<volume>20</volume>:<fpage>269</fpage>&#x02010;<lpage>284</lpage>.<pub-id pub-id-type="pmid">18371009</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0003">
+<string-name>
+<surname>Kumar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bashar</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Reddy</surname>
+<given-names>N</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cyclic vomiting syndrome (CVS): is there a difference based on onset of symptoms&#x02013;pediatric versus adult?</article-title>
+<source xml:lang="en">BMC Gastroenterol</source>. <year>2012</year>;<volume>12</volume>:<fpage>52</fpage>.<pub-id pub-id-type="pmid">22639867</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0004">
+<string-name>
+<surname>Tack</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Talley</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Camilleri</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Functional gastroduodenal disorders</article-title>. <source xml:lang="en">Gastroenterology</source>. <year>2006</year>;<volume>130</volume>:<fpage>1466</fpage>&#x02010;<lpage>1479</lpage>.<pub-id pub-id-type="pmid">16678560</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0005">
+<string-name>
+<surname>Stanghellini</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Talley</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>F</given-names>
+</string-name>, et&#x000a0;al. <article-title>Rome IV &#x02010; gastroduodenal disorders</article-title>. <source xml:lang="en">Gastroenterology</source>. <year>2016</year>;<volume>150</volume>:<fpage>1380</fpage>&#x02010;<lpage>1392</lpage>.<pub-id pub-id-type="pmid">27147122</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0006">
+<string-name>
+<surname>Sultan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Falck&#x02010;Ytter</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Inadomi</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>The AGA institute process for developing clinical practice guidelines part one: grading the evidence</article-title>. <source xml:lang="en">Clin Gastroenterol Hepatol</source>. <year>2013</year>;<volume>11</volume>:<fpage>329</fpage>&#x02010;<lpage>332</lpage>.<pub-id pub-id-type="pmid">23517554</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0007">
+<string-name>
+<surname>Simonetto</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Oxentenko</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Herman</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Szostek</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Cannabinoid hyperemesis: a case series of 98 patients</article-title>. <source xml:lang="en">Mayo Clin Proc</source>. <year>2012</year>;<volume>87</volume>:<fpage>114</fpage>&#x02010;<lpage>119</lpage>.<pub-id pub-id-type="pmid">22305024</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0008">
+<string-name>
+<surname>Sorensen</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>DeSanto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Borgelt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name>
+<surname>Monte</surname>
+<given-names>AA</given-names>
+</string-name>. <article-title>Cannabinoid hyperemesis syndrome: diagnosis, pathophysiology, and treatment&#x02010;a systematic review</article-title>. <source xml:lang="en">J Med Toxicol</source>. <year>2017</year>;<volume>13</volume>:<fpage>71</fpage>&#x02010;<lpage>87</lpage>.<pub-id pub-id-type="pmid">28000146</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0009">
+<string-name>
+<surname>Soriano&#x02010;Co</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Batke</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cappell</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>The cannabis hyperemesis syndrome characterized by persistent nausea and vomiting, abdominal pain, and compulsive bathing associated with chronic marijuana use: a report of eight cases in the United States</article-title>. <source xml:lang="en">Dig Dis Sci</source>. <year>2010</year>;<volume>55</volume>:<fpage>3113</fpage>&#x02010;<lpage>3119</lpage>.<pub-id pub-id-type="pmid">20130993</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0010">
+<string-name>
+<surname>Wallace</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Andrews</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Garmany</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Jelley</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Cannabinoid hyperemesis syndrome: literature review and proposed diagnosis and treatment algorithm</article-title>. <source xml:lang="en">South Med J</source>. <year>2011</year>;<volume>104</volume>:<fpage>659</fpage>&#x02010;<lpage>664</lpage>.<pub-id pub-id-type="pmid">21886087</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0011">
+<string-name>
+<surname>Wolff</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Czorlich</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Nagaraj</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Amitriptyline and carbamazepine utilize voltage&#x02010;gated ion channel suppression to impair excitability of sensory dorsal horn neurons in thin tissue slice: an in vitro study</article-title>. <source xml:lang="en">Neurosci Res</source>. <year>2016</year>;<volume>109</volume>:<fpage>16</fpage>&#x02010;<lpage>27</lpage>.<pub-id pub-id-type="pmid">26945616</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0012">
+<string-name>
+<surname>Gillman</surname>
+<given-names>PK</given-names>
+</string-name>. <article-title>Tricyclic antidepressant pharmacology and therapeutic drug interactions updated</article-title>. <source xml:lang="en">Br J Pharmacol</source>. <year>2007</year>;<volume>151</volume>:<fpage>737</fpage>&#x02010;<lpage>748</lpage>.<pub-id pub-id-type="pmid">17471183</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0013">
+<string-name>
+<surname>Hicks</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Sangkuhl</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Swen</surname>
+<given-names>JJ</given-names>
+</string-name>, et al. <article-title>Clinical pharmacogenetics implementation consortium guideline (CPIC) for CYP2D6 and CYP2C19 genotypes and dosing of tricyclic antidepressants: 2016 update</article-title>. <source xml:lang="en">Clin Pharmacol Ther</source>. <year>2016</year>;<volume>102</volume>:<fpage>37</fpage>&#x02010;<lpage>44</lpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0014">
+<string-name>
+<surname>Bhandari</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Venkatesan</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Clinical characteristics, comorbidities and hospital outcomes in hospitalizations with cyclic vomiting syndrome: a nationwide analysis</article-title>. <source xml:lang="en">Dig Dis Sci</source>. <year>2017</year>;<volume>62</volume>:<fpage>2035</fpage>&#x02010;<lpage>2044</lpage>.<pub-id pub-id-type="pmid">28050780</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0015">
+<string-name>
+<surname>Hejazi</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Reddymasu</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Namin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lavenbarg</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Foran</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>McCallum</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>Efficacy of tricyclic antidepressant therapy in adults with cyclic vomiting syndrome: a two&#x02010;year follow&#x02010;up study</article-title>. <source xml:lang="en">J Clin Gastroenterol</source>. <year>2010</year>;<volume>44</volume>:<fpage>18</fpage>&#x02010;<lpage>21</lpage>.<pub-id pub-id-type="pmid">20027010</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0016">
+<string-name>
+<surname>Haghighat</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rafie</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Dehghani</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Fallahi</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name>
+<surname>Nejabat</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Cyclic vomiting syndrome in children: experience with 181 cases from southern Iran</article-title>. <source xml:lang="en">World J Gastroenterol</source>. <year>2007</year>;<volume>13</volume>:<fpage>1833</fpage>&#x02010;<lpage>1836</lpage>.<pub-id pub-id-type="pmid">17465476</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0017">
+<string-name>
+<surname>Badihian</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Saneian</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Badihian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yaghini</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Prophylactic therapy of cyclic vomiting syndrome in children: comparison of amitriptyline and cyproheptadine: a randomized clinical trial</article-title>. <source xml:lang="en">Am J Gastroenterol</source>. <year>2018</year>;<volume>113</volume>:<fpage>135</fpage>&#x02010;<lpage>140</lpage>.<pub-id pub-id-type="pmid">28719594</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0018">
+<string-name>
+<surname>Namin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>Z</given-names>
+</string-name>, et&#x000a0;al. <article-title>Clinical, psychiatric and manometric profile of cyclic vomiting syndrome in adults and response to tricyclic therapy</article-title>. <source xml:lang="en">Neurogastroenterol Motil</source>. <year>2007</year>;<volume>19</volume>:<fpage>196</fpage>&#x02010;<lpage>202</lpage>.<pub-id pub-id-type="pmid">17300289</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0019">
+<string-name>
+<surname>Boles</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Lovett&#x02010;Barr</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Preston</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>BU</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Treatment of cyclic vomiting syndrome with co&#x02010;enzyme Q10 and amitriptyline, a retrospective study</article-title>. <source xml:lang="en">BMC Neurol</source>. <year>2010</year>;<volume>10</volume>:<fpage>10</fpage>.<pub-id pub-id-type="pmid">20109231</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0020">
+<string-name>
+<surname>Shearer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Luthra</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>Cyclic vomiting syndrome: a case series and review of the literature</article-title>. <source xml:lang="en">Frontline Gastroenterol</source>. <year>2018</year>;<volume>9</volume>:<fpage>2</fpage>&#x02010;<lpage>9</lpage>.<pub-id pub-id-type="pmid">29484154</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0021">
+<string-name>
+<surname>Aanpreung</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Vajaradul</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Cyclic vomiting syndrome in Thai children</article-title>. <source xml:lang="en">J Med Assoc Thai</source>. <year>2002</year>;<volume>85</volume>(<issue>Suppl 2</issue>):<fpage>S743</fpage>&#x02010;<lpage>S748</lpage>.<pub-id pub-id-type="pmid">12403255</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0022">
+<string-name>
+<surname>Andersen</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Sugerman</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Lockhart</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Weinberg</surname>
+<given-names>WA</given-names>
+</string-name>. <article-title>Effective prophylactic therapy for cyclic vomiting syndrome in children using amitriptyline or cyproheptadine</article-title>. <source xml:lang="en">Pediatrics</source>. <year>1997</year>;<volume>100</volume>:<fpage>977</fpage>&#x02010;<lpage>981</lpage>.<pub-id pub-id-type="pmid">9374568</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0023">
+<string-name>
+<surname>Boles</surname>
+<given-names>RG</given-names>
+</string-name>. <article-title>High degree of efficacy in the treatment of cyclic vomiting syndrome with combined co&#x02010;enzyme Q10, L&#x02010;carnitine and amitriptyline, a case series</article-title>. <source xml:lang="en">BMC Neurol</source>. <year>2011</year>;<volume>11</volume>:<fpage>102</fpage>.<pub-id pub-id-type="pmid">21846334</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0024">
+<string-name>
+<surname>Hikita</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kodama</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ogita</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kaneko</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nakamoto</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Mimaki</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Cyclic vomiting syndrome in infants and children: a clinical follow&#x02010;up study</article-title>. <source xml:lang="en">Pediatr Neurol</source>. <year>2016</year>;<volume>57</volume>:<fpage>29</fpage>&#x02010;<lpage>33</lpage>.<pub-id pub-id-type="pmid">26861170</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0025">
+<string-name>
+<surname>Moses</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Keilman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Worley</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Radhakrishnan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Rothner</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Parikh</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Approach to the diagnosis and treatment of cyclic vomiting syndrome: a large single&#x02010;center experience with 106 patients</article-title>. <source xml:lang="en">Pediatr Neurol</source>. <year>2014</year>;<volume>50</volume>:<fpage>569</fpage>&#x02010;<lpage>573</lpage>.<pub-id pub-id-type="pmid">24842256</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0026">
+<string-name>
+<surname>Prakash</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Clouse</surname>
+<given-names>RE</given-names>
+</string-name>. <article-title>Cyclic vomiting syndrome in adults: clinical features and response to tricyclic antidepressants</article-title>. <source xml:lang="en">Am J Gastroenterol</source>. <year>1999</year>;<volume>94</volume>:<fpage>2855</fpage>&#x02010;<lpage>2860</lpage>.<pub-id pub-id-type="pmid">10520833</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0027">
+<string-name>
+<surname>Treepongkaruna</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jarasvaraparn</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tanpowpong</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lertudomphonwanit</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Short&#x02010; and long&#x02010;term outcomes of children with cyclic vomiting syndrome</article-title>. <source xml:lang="en">J Med Assoc Thai</source>. <year>2014</year>;<volume>97</volume>:<fpage>1077</fpage>&#x02010;<lpage>1083</lpage>.<pub-id pub-id-type="pmid">25632624</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0028">
+<string-name>
+<surname>Li</surname>
+<given-names>BU</given-names>
+</string-name>, <string-name>
+<surname>Lefevre</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chelimsky</surname>
+<given-names>GG</given-names>
+</string-name>, et&#x000a0;al. <article-title>North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition consensus statement on the diagnosis and management of cyclic vomiting syndrome</article-title>. <source xml:lang="en">J Pediatr Gastroenterol Nutr</source>. <year>2008</year>;<volume>47</volume>:<fpage>379</fpage>&#x02010;<lpage>393</lpage>.<pub-id pub-id-type="pmid">18728540</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0029">
+<string-name>
+<surname>Baldessarini</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Willmuth</surname>
+<given-names>RL</given-names>
+</string-name>. <article-title>Psychotic reactions during amitriptyline therapy</article-title>. <source xml:lang="en">Can Psychiatr Assoc J</source>. <year>1968</year>;<volume>13</volume>:<fpage>571</fpage>&#x02010;<lpage>573</lpage>.<pub-id pub-id-type="pmid">5726841</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0030">
+<string-name>
+<surname>Sezer</surname>
+<given-names>OB</given-names>
+</string-name>, <string-name>
+<surname>Sezer</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>A new approach to the prophylaxis of cyclic vomiting: topiramate</article-title>. <source xml:lang="en">J Neurogastroenterol Motil</source>. <year>2016</year>;<volume>22</volume>:<fpage>656</fpage>&#x02010;<lpage>660</lpage>.<pub-id pub-id-type="pmid">27302967</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0031">
+<string-name>
+<surname>Sankar</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ramsay</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>McKay</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hulihan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wiegand</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Group</surname>
+<given-names>C&#x02010;S</given-names>
+</string-name>. <article-title>A multicenter, outpatient, open&#x02010;label study to evaluate the dosing, effectiveness, and safety of topiramate as monotherapy in the treatment of epilepsy in clinical practice</article-title>. <source xml:lang="en">Epilepsy Behav</source>
+<year>2009</year>;<volume>15</volume>:<fpage>506</fpage>&#x02010;<lpage>512</lpage>.<pub-id pub-id-type="pmid">19643672</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0032">
+<string-name>
+<surname>Cirulli</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name>
+<surname>Urban</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Marino</surname>
+<given-names>SE</given-names>
+</string-name>, et&#x000a0;al. <article-title>Genetic and environmental correlates of topiramate&#x02010;induced cognitive impairment</article-title>. <source xml:lang="en">Epilepsia</source>. <year>2012</year>;<volume>53</volume>:<fpage>e5</fpage>&#x02010;<lpage>e8</lpage>.<pub-id pub-id-type="pmid">22091778</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0033">
+<string-name>
+<surname>Loring</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Williamson</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Meador</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Wiegand</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hulihan</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Topiramate dose effects on cognition: a randomized double&#x02010;blind study</article-title>. <source xml:lang="en">Neurology</source>. <year>2011</year>;<volume>76</volume>:<fpage>131</fpage>&#x02010;<lpage>137</lpage>.<pub-id pub-id-type="pmid">21148119</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0034">
+<string-name>
+<surname>Cho</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Heo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>WJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Long&#x02010;term efficacy and tolerability of topiramate as add&#x02010;on therapy in refractory partial epilepsy: an observational study</article-title>. <source xml:lang="en">Epilepsia</source>. <year>2009</year>;<volume>50</volume>:<fpage>1910</fpage>&#x02010;<lpage>1919</lpage>.<pub-id pub-id-type="pmid">19563348</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0035">
+<string-name>
+<surname>Majkowski</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Neto</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wapenaar</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Van Oene</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Time course of adverse events in patients with localization&#x02010;related epilepsy receiving topiramate added to carbamazepine</article-title>. <source xml:lang="en">Epilepsia</source>. <year>2005</year>;<volume>46</volume>:<fpage>648</fpage>&#x02010;<lpage>653</lpage>.<pub-id pub-id-type="pmid">15857429</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0036">
+<string-name>
+<surname>El Yaman</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Mroueh</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Sinno</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Mikati</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Long&#x02010;term patterns of weight changes during topiramate therapy: an observational study</article-title>. <source xml:lang="en">Neurology</source>. <year>2007</year>;<volume>69</volume>:<fpage>310</fpage>&#x02010;<lpage>311</lpage>.<pub-id pub-id-type="pmid">17636070</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0037">
+<string-name>
+<surname>Takeoka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Holmes</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Thiele</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al. <article-title>Topiramate and metabolic acidosis in pediatric epilepsy</article-title>. <source xml:lang="en">Epilepsia</source>. <year>2001</year>;<volume>42</volume>:<fpage>387</fpage>&#x02010;<lpage>392</lpage>.<pub-id pub-id-type="pmid">11442157</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0038">
+<string-name>
+<surname>Jovanovic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sokic</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Grabnar</surname>
+<given-names>I</given-names>
+</string-name>, et&#x000a0;al. <article-title>Effect of long&#x02010;term topiramate therapy on serum bicarbonate and potassium levels in adult epileptic patients</article-title>. <source xml:lang="en">Ann Pharmacother</source>. <year>2014</year>;<volume>48</volume>:<fpage>992</fpage>&#x02010;<lpage>997</lpage>.<pub-id pub-id-type="pmid">24811395</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0039">
+<string-name>
+<surname>Kuo</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Moran</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Abrahams</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Lingeman</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Topiramate&#x02010;induced nephrolithiasis</article-title>. <source xml:lang="en">J Endourol</source>. <year>2002</year>;<volume>16</volume>:<fpage>229</fpage>&#x02010;<lpage>231</lpage>.<pub-id pub-id-type="pmid">12042105</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0040">
+<string-name>
+<surname>Massaro</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Lenz</surname>
+<given-names>KL</given-names>
+</string-name>. <article-title>Aprepitant: a novel antiemetic for chemotherapy&#x02010;induced nausea and vomiting</article-title>. <source xml:lang="en">Ann Pharmacother</source>. <year>2005</year>;<volume>39</volume>:<fpage>77</fpage>&#x02010;<lpage>85</lpage>.<pub-id pub-id-type="pmid">15562136</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0041">
+<string-name>
+<surname>Van Laere</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>De Hoon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bormans</surname>
+<given-names>G</given-names>
+</string-name>, et&#x000a0;al. <article-title>Equivalent dynamic human brain NK1&#x02010;receptor occupancy following single&#x02010;dose i.v. fosaprepitant vs. oral aprepitant as assessed by PET imaging</article-title>. <source xml:lang="en">Clin Pharmacol Ther</source>
+<year>2012</year>;<volume>92</volume>:<fpage>243</fpage>&#x02010;<lpage>250</lpage>.<pub-id pub-id-type="pmid">22739139</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0042">
+<string-name>
+<surname>Deepalakshmi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Arun</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name>
+<surname>Ahuja</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Grapefruit and medications may be a deadly mix&#x02010; An overview</article-title>. <source xml:lang="en">J Pharm BioSci</source>
+<year>2014</year>;<volume>3</volume>:<fpage>80</fpage>&#x02010;<lpage>84</lpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0043">
+<string-name>
+<surname>Cristofori</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Thapar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Saliakellis</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al. <article-title>Efficacy of the neurokinin&#x02010;1 receptor antagonist aprepitant in children with cyclical vomiting syndrome</article-title>. <source xml:lang="en">Aliment Pharmacol Ther</source>. <year>2014</year>;<volume>40</volume>:<fpage>309</fpage>&#x02010;<lpage>317</lpage>.<pub-id pub-id-type="pmid">24898244</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0044">
+<string-name>
+<surname>Pasricha</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Yates</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name>
+<surname>Sarosiek</surname>
+<given-names>I</given-names>
+</string-name>, et&#x000a0;al. <article-title>Aprepitant has mixed effects on nausea and reduces other symptoms in patients with gastroparesis and related disorders</article-title>. <source xml:lang="en">Gastroenterology</source>. <year>2018</year>;<volume>154</volume>:<fpage>65</fpage>&#x02010;<lpage>76</lpage> e11.<pub-id pub-id-type="pmid">29111115</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0045">
+<string-name>
+<surname>Navari</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Reinhardt</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Gralla</surname>
+<given-names>RJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Reduction of cisplatin&#x02010;induced emesis by a selective neurokinin&#x02010;1&#x02010;receptor antagonist. L&#x02010;754,030 Antiemetic Trials Group</article-title>. <source xml:lang="en">N Engl J Med</source>
+<year>1999</year>;<volume>340</volume>:<fpage>190</fpage>&#x02010;<lpage>195</lpage>.<pub-id pub-id-type="pmid">9917226</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0046">
+<string-name>
+<surname>de Wit</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Herrstedt</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rapoport</surname>
+<given-names>B</given-names>
+</string-name>, et&#x000a0;al. <article-title>The oral NK(1) antagonist, aprepitant, given with standard antiemetics provides protection against nausea and vomiting over multiple cycles of cisplatin&#x02010;based chemotherapy: a combined analysis of two randomised, placebo&#x02010;controlled phase III clinical trials</article-title>. <source xml:lang="en">Eur J Cancer</source>. <year>2004</year>;<volume>40</volume>:<fpage>403</fpage>&#x02010;<lpage>410</lpage>.<pub-id pub-id-type="pmid">14746859</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0047">
+<string-name>
+<surname>Biton</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Clinical pharmacology and mechanism of action of zonisamide</article-title>. <source xml:lang="en">Clin Neuropharmacol</source>. <year>2007</year>;<volume>30</volume>:<fpage>230</fpage>&#x02010;<lpage>240</lpage>.<pub-id pub-id-type="pmid">17762320</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0048">
+<string-name>
+<surname>Brodie</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ben&#x02010;Menachem</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Chouette</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Giorgi</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Zonisamide: its pharmacology, efficacy and safety in clinical trials</article-title>. <source xml:lang="en">Acta Neurol Scand Suppl</source>. <year>2012</year>;<volume>126</volume>:<fpage>19</fpage>&#x02010;<lpage>28</lpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0049">
+<string-name>
+<surname>Deshpande</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Delorenzo</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Mechanisms of levetiracetam in the control of status epilepticus and epilepsy</article-title>. <source xml:lang="en">Front Neurol</source>. <year>2014</year>;<volume>5</volume>:<fpage>11</fpage>.<pub-id pub-id-type="pmid">24550884</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0050">
+<string-name>
+<surname>Clouse</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Sayuk</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Lustman</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Prakash</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Zonisamide or levetiracetam for adults with cyclic vomiting syndrome: a case series</article-title>. <source xml:lang="en">Clin Gastroenterol Hepatol</source>. <year>2007</year>;<volume>5</volume>:<fpage>44</fpage>&#x02010;<lpage>48</lpage>.<pub-id pub-id-type="pmid">17157078</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0051">
+<string-name>
+<surname>Montagna</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sacquegna</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Martinelli</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>Mitochondrial abnormalities in migraine. Preliminary findings</article-title>. <source xml:lang="en">Headache</source>. <year>1988</year>;<volume>28</volume>:<fpage>477</fpage>&#x02010;<lpage>480</lpage>.<pub-id pub-id-type="pmid">3243709</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0052">
+<string-name>
+<surname>Boles</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Mitochondrial disease and cyclic vomiting syndrome</article-title>. <source xml:lang="en">Dig Dis Sci</source>. <year>1999</year>;<volume>44</volume>:<fpage>103S</fpage>&#x02010;<lpage>107S</lpage>.<pub-id pub-id-type="pmid">10490048</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0053">
+<string-name>
+<surname>Sparaco</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Feleppa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lipton</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rapoport</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bigal</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Mitochondrial dysfunction and migraine: evidence and hypotheses</article-title>. <source xml:lang="en">Cephalalgia</source>. <year>2006</year>;<volume>26</volume>:<fpage>361</fpage>&#x02010;<lpage>372</lpage>.<pub-id pub-id-type="pmid">16556237</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0054">
+<string-name>
+<surname>Boles</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>BU</given-names>
+</string-name>. <article-title>Maternal inheritance in cyclic vomiting syndrome</article-title>. <source xml:lang="en">Am J Med Genet A</source>. <year>2005</year>;<volume>133A</volume>:<fpage>71</fpage>&#x02010;<lpage>77</lpage>.<pub-id pub-id-type="pmid">15643622</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0055">
+<string-name>
+<surname>Boles</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>BU</given-names>
+</string-name>. <article-title>Maternal inheritance in cyclic vomiting syndrome with neuromuscular disease</article-title>. <source xml:lang="en">Am J Med Genet A</source>. <year>2003</year>;<volume>120A</volume>:<fpage>474</fpage>&#x02010;<lpage>482</lpage>.<pub-id pub-id-type="pmid">12884425</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0056">
+<string-name>
+<surname>Bhandari</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jha</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Thakur</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gerdes</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Venkatesan</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Cyclic vomiting syndrome: epidemiology, diagnosis, and treatment</article-title>. <source xml:lang="en">Clin Auton Res</source>. <year>2018</year>;<volume>28</volume>:<fpage>203</fpage>&#x02010;<lpage>209</lpage>.<pub-id pub-id-type="pmid">29442203</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0057">
+<string-name>
+<surname>Jackson</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Shimeall</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sessums</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Tricyclic antidepressants and headaches: systematic review and meta&#x02010;analysis</article-title>. <source xml:lang="en">BMJ (Clinical research ed)</source>. <year>2010</year>;<volume>341</volume>:<fpage>c5222</fpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0058">
+<string-name>
+<surname>Boehnke</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Reuter</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Flach</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Schuh&#x02010;Hofer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Einhaupl</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Arnold</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>High&#x02010;dose riboflavin treatment is efficacious in migraine prophylaxis: an open study in a tertiary care centre</article-title>. <source xml:lang="en">Eur J Neurol</source>. <year>2004</year>;<volume>11</volume>:<fpage>475</fpage>&#x02010;<lpage>477</lpage>.<pub-id pub-id-type="pmid">15257686</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0059">
+<string-name>
+<surname>Thompson</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Saluja</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>Prophylaxis of migraine headaches with riboflavin: a systematic review</article-title>. <source xml:lang="en">J Clin Pharm Ther</source>. <year>2017</year>;<volume>42</volume>:<fpage>394</fpage>&#x02010;<lpage>403</lpage>.<pub-id pub-id-type="pmid">28485121</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0060">
+<string-name>
+<surname>Hershey</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>LeCates</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bentti</surname>
+<given-names>AL</given-names>
+</string-name>. <article-title>Effectiveness of nasal sumatriptan in 5&#x02010; to 12&#x02010;year&#x02010;old children</article-title>. <source xml:lang="en">Headache</source>. <year>2001</year>;<volume>41</volume>:<fpage>693</fpage>&#x02010;<lpage>697</lpage>.<pub-id pub-id-type="pmid">11554957</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0061">
+<string-name>
+<surname>Moran</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Adult abdominal migraine and sumatriptan: a case report</article-title>. <source xml:lang="en">Ir Med J</source>. <year>1998</year>;<volume>91</volume>:<fpage>215</fpage>&#x02010;<lpage>216</lpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0062">
+<string-name>
+<surname>Kakisaka</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wakusawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Haginoya</surname>
+<given-names>K</given-names>
+</string-name>, et&#x000a0;al. <article-title>Efficacy of sumatriptan in two pediatric cases with abdominal pain&#x02010;related functional gastrointestinal disorders: does the mechanism overlap that of migraine?</article-title>
+<source xml:lang="en">J Child Neurol</source>. <year>2010</year>;<volume>25</volume>:<fpage>234</fpage>&#x02010;<lpage>237</lpage>.<pub-id pub-id-type="pmid">19509407</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0063">
+<string-name>
+<surname>Li</surname>
+<given-names>BU</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Heitlinger</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Robbins</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Hayes</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Is cyclic vomiting syndrome related to migraine?</article-title>
+<source xml:lang="en">J Pediatr</source>. <year>1999</year>;<volume>134</volume>:<fpage>567</fpage>&#x02010;<lpage>572</lpage>.<pub-id pub-id-type="pmid">10228291</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0064">
+<string-name>
+<surname>Hikita</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kodama</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kaneko</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Sumatriptan as a treatment for cyclic vomiting syndrome: a clinical trial</article-title>. <source xml:lang="en">Cephalalgia</source>. <year>2011</year>;<volume>31</volume>:<fpage>504</fpage>&#x02010;<lpage>507</lpage>.<pub-id pub-id-type="pmid">21147834</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0065">
+<string-name>
+<surname>Calhoun</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Pruitt</surname>
+<given-names>AP</given-names>
+</string-name>. <article-title>Injectable sumatriptan for cyclic vomiting syndrome in adults: a case series</article-title>. <source xml:lang="en">Headache</source>. <year>2014</year>;<volume>54</volume>:<fpage>1526</fpage>&#x02010;<lpage>1530</lpage>.<pub-id pub-id-type="pmid">25168483</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0066">
+<string-name>
+<surname>Fuseau</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Petricoul</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Barrow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ibbotson</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Clinical pharmacokinetics of intranasal sumatriptan</article-title>. <source xml:lang="en">Clin Pharmacokinet</source>. <year>2002</year>;<volume>41</volume>:<fpage>801</fpage>&#x02010;<lpage>811</lpage>.<pub-id pub-id-type="pmid">12190330</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0067">
+<string-name>
+<surname>Blackwell</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Harding</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>The clinical pharmacology of ondansetron</article-title>. <source xml:lang="en">Eur J Cancer Clin Oncol</source>. <year>1989</year>;<volume>25</volume>(<issue>Suppl 1</issue>):<fpage>S21</fpage>&#x02010;<lpage>S24</lpage>; discussion S25&#x02010;27.</mixed-citation></ref><ref id="nmosup13604-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0068">
+<string-name>
+<surname>Kohler</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Goldspiel</surname>
+<given-names>BR</given-names>
+</string-name>. <article-title>Ondansetron: a serotonin receptor (5&#x02010;HT3) antagonist for antineoplastic chemotherapy&#x02010;induced nausea and vomiting</article-title>. <source xml:lang="en">DICP</source>. <year>1991</year>;<volume>25</volume>:<fpage>367</fpage>&#x02010;<lpage>380</lpage>.<pub-id pub-id-type="pmid">1833888</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0069">
+<string-name>
+<surname>Pritchard</surname>
+<given-names>JF</given-names>
+</string-name>. <article-title>Ondansetron metabolism and pharmacokinetics</article-title>. <source xml:lang="en">Semin Oncol</source>. <year>1992</year>;<volume>19</volume>:<fpage>9</fpage>&#x02010;<lpage>15</lpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0070">
+<string-name>
+<surname>Jordan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hinke</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Grothey</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>A meta&#x02010;analysis comparing the efficacy of four 5&#x02010;HT3&#x02010;receptor antagonists for acute chemotherapy&#x02010;induced emesis</article-title>. <source xml:lang="en">Support Care Cancer</source>. <year>2007</year>;<volume>15</volume>:<fpage>1023</fpage>&#x02010;<lpage>1033</lpage>.<pub-id pub-id-type="pmid">17205281</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0071">
+<string-name>
+<surname>Larijani</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Gratz</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Afshar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Minassian</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Treatment of postoperative nausea and vomiting with ondansetron: a randomized, double&#x02010;blind comparison with placebo</article-title>. <source xml:lang="en">Anest Analg</source>. <year>1991</year>;<volume>73</volume>:<fpage>246</fpage>&#x02010;<lpage>249</lpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0072">
+<string-name>
+<surname>del Giglio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Soares</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name>
+<surname>Caparroz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Castro</surname>
+<given-names>PC</given-names>
+</string-name>. <article-title>Granisetron is equivalent to ondansetron for prophylaxis of chemotherapy&#x02010;induced nausea and vomiting: results of a meta&#x02010;analysis of randomized controlled trials</article-title>. <source xml:lang="en">Cancer</source>. <year>2000</year>;<volume>89</volume>:<fpage>2301</fpage>&#x02010;<lpage>2308</lpage>.<pub-id pub-id-type="pmid">11147601</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0073">
+<string-name>
+<surname>Domino</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Polissar</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Posner</surname>
+<given-names>KL</given-names>
+</string-name>. <article-title>Comparative efficacy and safety of ondansetron, droperidol, and metoclopramide for preventing postoperative nausea and vomiting: a meta&#x02010;analysis</article-title>. <source xml:lang="en">Anest Analg</source>. <year>1999</year>;<volume>88</volume>:<fpage>1370</fpage>&#x02010;<lpage>1379</lpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0074">
+<string-name>
+<surname>Ruhlmann</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Herrstedt</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Fosaprepitant for the prevention of chemotherapy&#x02010;induced nausea and vomiting</article-title>. <source xml:lang="en">Expert Rev Anticancer Ther</source>. <year>2012</year>;<volume>12</volume>:<fpage>139</fpage>&#x02010;<lpage>150</lpage>.<pub-id pub-id-type="pmid">22316362</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0075">
+<string-name>
+<surname>Fleisher</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Gornowicz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Burch</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Feldman</surname>
+<given-names>EJ</given-names>
+</string-name>. <article-title>Cyclic Vomiting Syndrome in 41 adults: the illness, the patients, and problems of management</article-title>. <source xml:lang="en">BMC Med</source>. <year>2005</year>;<volume>3</volume>:<fpage>20</fpage>.<pub-id pub-id-type="pmid">16368014</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0076">
+<string-name>
+<surname>Lee</surname>
+<given-names>LY</given-names>
+</string-name>, <string-name>
+<surname>Abbott</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Mahlangu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Moodie</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The management of cyclic vomiting syndrome: a systematic review</article-title>. <source xml:lang="en">Eur J Gastroenterol Hepatol</source>. <year>2012</year>;<volume>24</volume>:<fpage>1001</fpage>&#x02010;<lpage>1006</lpage>.<pub-id pub-id-type="pmid">22634989</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0077">
+<string-name>
+<surname>McRonald</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name>
+<surname>Fleisher</surname>
+<given-names>DR</given-names>
+</string-name>. <article-title>Anticipatory nausea in cyclical vomiting</article-title>. <source xml:lang="en">BMC Pediatr</source>. <year>2005</year>;<volume>5</volume>:<fpage>3</fpage>.<pub-id pub-id-type="pmid">15790392</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0078">
+<string-name>
+<surname>Hejazi</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>McCallum</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>Review article: cyclic vomiting syndrome in adults&#x02013;rediscovering and redefining an old entity</article-title>. <source xml:lang="en">Aliment Pharmacol Ther</source>. <year>2011</year>;<volume>34</volume>:<fpage>263</fpage>&#x02010;<lpage>273</lpage>.<pub-id pub-id-type="pmid">21668458</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0079">
+<string-name>
+<surname>Taranukha</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Charan Suresh Kumar</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Seamon</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sahr</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Szabo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Venkatesan</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Depression, young age, chronic marijuana use, and interepisodic symptoms predict psychological distress in patients with cyclic vomiting syndrome</article-title>. <source xml:lang="en">Neurogastroenterol Motil</source>
+<year>2018</year>;<volume>30</volume>:<fpage>e13245</fpage>.<pub-id pub-id-type="pmid">29152814</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0080">
+<string-name>
+<surname>Druss</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>ER</given-names>
+</string-name>. <article-title>Mental disorders and medical comorbidity</article-title>. <source xml:lang="en">Synth Proj Res Synth Rep</source>. <year>2011</year>;<volume>21</volume>:<fpage>1</fpage>&#x02010;<lpage>26</lpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0081">
+<string-name>
+<surname>Venkatesan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Prieto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Barboi</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Autonomic nerve function in adults with cyclic vomiting syndrome: a prospective study</article-title>. <source xml:lang="en">Neurogastroenterol Motil</source>. <year>2010</year>;<volume>22</volume>:<fpage>1303</fpage>&#x02010;<lpage>1307</lpage> e1339.<pub-id pub-id-type="pmid">20667005</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0082">
+<string-name>
+<surname>Hejazi</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Lavenbarg</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Pasnoor</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Autonomic nerve function in adult patients with cyclic vomiting syndrome</article-title>. <source xml:lang="en">Neurogastroenterol Motil</source>. <year>2011</year>;<volume>23</volume>:<fpage>439</fpage>&#x02010;<lpage>443</lpage>.<pub-id pub-id-type="pmid">21323793</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0083">
+<string-name>
+<surname>Chelimsky</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Chelimsky</surname>
+<given-names>GG</given-names>
+</string-name>. <article-title>Autonomic abnormalities in cyclic vomiting syndrome</article-title>. <source xml:lang="en">J Pediatr Gastroenterol Nutr</source>. <year>2007</year>;<volume>3</volume>:<fpage>326</fpage>&#x02010;<lpage>330</lpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0084">
+<string-name>
+<surname>Chelimsky</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Madan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Alshekhlee</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Heller</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>McNeeley</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Chelimsky</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>A comparison of dysautonomias comorbid with cyclic vomiting syndrome and with migraine</article-title>. <source xml:lang="en">Gastroenterol Res Pract</source>. <year>2009</year>;<volume>2009</volume>:<fpage>701019</fpage>.<pub-id pub-id-type="pmid">20111731</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0085">
+<string-name>
+<surname>Choung</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Locke</surname>
+<given-names>GR</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Schleck</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Zinsmeister</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Talley</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>Cyclic vomiting syndrome and functional vomiting in adults: association with cannabinoid use in males</article-title>. <source xml:lang="en">Neurogastroenterol Motil</source>. <year>2012</year>;<volume>24</volume>:<fpage>20</fpage>&#x02010;<lpage>26</lpage> e21.</mixed-citation></ref><ref id="nmosup13604-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0086">
+<string-name>
+<surname>Venkatesan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sengupta</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lodhi</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>An Internet survey of marijuana and hot shower use in adults with cyclic vomiting syndrome (CVS)</article-title>. <source xml:lang="en">Exp Brain Res</source>. <year>2014</year>;<volume>232</volume>:<fpage>2563</fpage>&#x02010;<lpage>2570</lpage>.<pub-id pub-id-type="pmid">24792504</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0087">
+<string-name>
+<surname>Li</surname>
+<given-names>BU</given-names>
+</string-name>, <string-name>
+<surname>Misiewicz</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Cyclic vomiting syndrome: a brain&#x02010;gut disorder</article-title>. <source xml:lang="en">Gastroenterol Clin North Am</source>. <year>2003</year>;<volume>32</volume>:<fpage>997</fpage>&#x02010;<lpage>1019</lpage>.<pub-id pub-id-type="pmid">14562585</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0088">
+<string-name>
+<surname>Mayer</surname>
+<given-names>EA</given-names>
+</string-name>. <article-title>Gut feelings: the emerging biology of gut&#x02010;brain communication</article-title>. <source xml:lang="en">Nat Rev Neurosci</source>. <year>2011</year>;<volume>12</volume>:<fpage>453</fpage>&#x02010;<lpage>466</lpage>.<pub-id pub-id-type="pmid">21750565</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0089">
+<string-name>
+<surname>Mayer</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Tillisch</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>The brain&#x02010;gut axis in abdominal pain syndromes</article-title>. <source xml:lang="en">Annu Rev Med</source>. <year>2011</year>;<volume>62</volume>:<fpage>381</fpage>&#x02010;<lpage>396</lpage>.<pub-id pub-id-type="pmid">21090962</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0090">
+<string-name>
+<surname>Slutsker</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Konichezky</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gothelf</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Breaking the cycle: cognitive behavioral therapy and biofeedback training in a case of cyclic vomiting syndrome</article-title>. <source xml:lang="en">Psychol Health Med</source>. <year>2010</year>;<volume>15</volume>:<fpage>625</fpage>&#x02010;<lpage>631</lpage>.<pub-id pub-id-type="pmid">21154016</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0091">
+<string-name>
+<surname>Hejazi</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Lavenbarg</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>McCallum</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>Spectrum of gastric emptying patterns in adult patients with cyclic vomiting syndrome</article-title>. <source xml:lang="en">Neurogastroenterol Motil</source>. <year>2010</year>;<volume>22</volume>:<fpage>1298</fpage>&#x02010;<lpage>1302</lpage> e1338.<pub-id pub-id-type="pmid">20723071</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0092">
+<string-name>
+<surname>McCallum</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Soykan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Sridhar</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Ricci</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Lange</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Plankey</surname>
+<given-names>MW</given-names>
+</string-name>. <article-title>Delta&#x02010;9&#x02010;tetrahydrocannabinol delays the gastric emptying of solid food in humans: a double&#x02010;blind, randomized study</article-title>. <source xml:lang="en">Aliment Pharmacol Ther</source>. <year>1999</year>;<volume>13</volume>:<fpage>77</fpage>&#x02010;<lpage>80</lpage>.</mixed-citation></ref><ref id="nmosup13604-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0093">
+<string-name>
+<surname>Kercsmar</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>TR</given-names>
+</string-name>. <article-title>Clinical pathways in treatment of asthma</article-title>. <source xml:lang="en">Curr Opin Allergy Clin Immunol</source>. <year>2002</year>;<volume>2</volume>:<fpage>183</fpage>&#x02010;<lpage>187</lpage>.<pub-id pub-id-type="pmid">12045412</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0094">
+<string-name>
+<surname>Pope</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fernandes</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Bouthillette</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Etherington</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Frequent users of the emergency department: a program to improve care and reduce visits</article-title>. <source xml:lang="en">CMAJ</source>. <year>2000</year>;<volume>162</volume>:<fpage>1017</fpage>&#x02010;<lpage>1020</lpage>.<pub-id pub-id-type="pmid">10763402</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0095"><label>95</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0095">
+<string-name>
+<surname>Boersma</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Maas</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Deckers</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Simoons</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Early thrombolytic treatment in acute myocardial infarction: reappraisal of the golden hour</article-title>. <source xml:lang="en">Lancet</source>. <year>1996</year>;<volume>348</volume>:<fpage>771</fpage>&#x02010;<lpage>775</lpage>.<pub-id pub-id-type="pmid">8813982</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0096"><label>96</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0096">
+<string-name>
+<surname>Silberstein</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Winner</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Chmiel</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Migraine preventive medication reduces resource utilization</article-title>. <source xml:lang="en">Headache</source>. <year>2003</year>;<volume>43</volume>:<fpage>171</fpage>&#x02010;<lpage>178</lpage>.<pub-id pub-id-type="pmid">12603635</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0097"><label>97</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0097">
+<string-name>
+<surname>Orr</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Aube</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>
+<given-names>WJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Canadian Headache Society systematic review and recommendations on the treatment of migraine pain in emergency settings</article-title>. <source xml:lang="en">Cephalalgia</source>. <year>2015</year>;<volume>35</volume>:<fpage>271</fpage>&#x02010;<lpage>284</lpage>.<pub-id pub-id-type="pmid">24875925</pub-id></mixed-citation></ref><ref id="nmosup13604-bib-0098"><label>98</label><mixed-citation publication-type="journal" id="nmosup13604-cit-0098">
+<string-name>
+<surname>Warner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Trinidad</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Bastian</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Minino</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Hedegaard</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Drugs most frequently involved in drug overdose deaths: United States, 2010&#x02010;2014</article-title>. <source xml:lang="en">Natl Vital Stat Rep</source>. <year>2016</year>;<volume>65</volume>:<fpage>1</fpage>&#x02010;<lpage>15</lpage>.</mixed-citation></ref></ref-list></back></article>

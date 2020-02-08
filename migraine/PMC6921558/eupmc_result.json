@@ -1,0 +1,426 @@
+{
+  "id": [
+    "31852450"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31852450"
+  ],
+  "pmcid": [
+    "PMC6921558"
+  ],
+  "doi": [
+    "10.1186/s12871-019-0897-1"
+  ],
+  "title": [
+    "Ten-year experience with standardized non-operating room anesthesia with Sevoflurane for MRI in children affected by neuropsychiatric disorders."
+  ],
+  "authorString": [
+    "Mongodi S, Ottonello G, Viggiano R, Borrelli P, Orcesi S, Pichiecchio A, Balottin U, Mojoli F, Iotti GA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mongodi S"
+          ],
+          "firstName": [
+            "Silvia"
+          ],
+          "lastName": [
+            "Mongodi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1987-8599",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Anesthesia and Intensive Care, Rianimazione 1 Fondazione IRCCS Policlinico S. Matteo, 27100, Pavia, Italy. silvia.mongodi@libero.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Ottonello G"
+          ],
+          "firstName": [
+            "Gaia"
+          ],
+          "lastName": [
+            "Ottonello"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Anaesthesia and Intensive Care, Merate, DEA ASST Lecco, Lecco, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Viggiano R"
+          ],
+          "firstName": [
+            "Raffaelealdo"
+          ],
+          "lastName": [
+            "Viggiano"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of medical-surgical, diagnostic and paediatric sciences, University of Pavia, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Borrelli P"
+          ],
+          "firstName": [
+            "Paola"
+          ],
+          "lastName": [
+            "Borrelli"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Public Health, Experimental and Forensic Medicine, Unit of Biostatistics and Clinical Epidemiology, University of Pavia, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Orcesi S"
+          ],
+          "firstName": [
+            "Simona"
+          ],
+          "lastName": [
+            "Orcesi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Child Neurology and Psychiatry Unit, IRCCS Mondino Foundation, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Pichiecchio A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Pichiecchio"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Neuroradiology department, IRCCS Mondino Foundation, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Balottin U"
+          ],
+          "firstName": [
+            "Umberto"
+          ],
+          "lastName": [
+            "Balottin"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Child Neurology and Psychiatry Unit, IRCCS Mondino Foundation, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Mojoli F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Mojoli"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Anesthesia and Intensive Care, Rianimazione 1 Fondazione IRCCS Policlinico S. Matteo, 27100, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Iotti GA"
+          ],
+          "firstName": [
+            "Giorgio Antonio"
+          ],
+          "lastName": [
+            "Iotti"
+          ],
+          "initials": [
+            "GA"
+          ],
+          "affiliation": [
+            "Anesthesia and Intensive Care, Rianimazione 1 Fondazione IRCCS Policlinico S. Matteo, 27100, Pavia, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1987-8599",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2887363"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC anesthesiology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Anesthesiol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Anesthesiol"
+          ],
+          "NLMid": [
+            "100968535"
+          ],
+          "ISSN": [
+            "1471-2253"
+          ],
+          "ESSN": [
+            "1471-2253"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "235"
+  ],
+  "abstractText": [
+    "BACKGROUND:Children require anesthesia for MRI to maintain immobility and reduce discomfort; clear indications about the best anesthesiologic management are lacking and each center developed its own protocol. Moreover, children with neuropsychiatric disorders more likely require sedation and are described in literature as more prone to general and respiratory complications. Aim of this study was to analyze the applicability of a sevoflurane-based approach, to describe general and respiratory complications and to identify risk factors in a pediatric neuropsychiatric population. METHODS:Retrospective cohort study, university Hospital (January 2007-December 2016). All the 1469 anesthesiologic records of children addressed from Neuropsychiatric Unit to undergo MRI under general anesthesia were analyzed; 12 patients equal or older than 18-year-old were excluded. We identified post-hoc nine macro-categories: static encephalopathies, metabolic/evolutive encephalopathies, epileptic encephalopathies, neuromuscular diseases, autistic spectrum disorders, migraine, psychiatric disorders, intellectual disabilities, others. A logistic regression model for events with low frequency (Firth's penalized likelihood approach) was carried out to identify the mutually adjusted effect among endpoints (complications) and the independent variables chosen on the basis of statistical significance (univariate analysis, p ≤ 0.05) and clinical judgment. RESULTS:Of 1457 anesthesiologic records (age 4.0 (IQR 2.0 to 7.0) year-old, males 891 (61.2%), weight 17.0 (IQR 12.0 to 24.9) kg), 18 were cancelled for high anesthesiologic risk, 50 were cooperative, 1389 were anesthetized. A sevoflurane-based anesthesia was feasible in 92.3%; these patients required significantly less mechanical ventilation (8.6 vs. 16.2%; p = 0.012). Complications' rate was low (6.2%; 3.1% respiratory). The risk for general complications increases with ASA score > 1 (OR 2.22, 95 CI% 1.30 to 3.77, p = 0.003), male sex (OR 1.73, 95% CI 1.07 to 2.81, p = 0.025), multi-drug anesthesia (OR 2.98, 95 CI% 1.26 to 7.06, p = 0.013). For respiratory complications, it increases with ASA score > 1 (OR 2.34, 95 CI% 1.19 to 4.73, p = 0.017), autumn-winter (OR 2.01, 95 CI% 1.06 to 3.78, p = 0.030), neuromuscular disorders (OR 3.18, 95 CI% 1.20 to 8.41, p = 0.020). We had no major complications compromising patients' outcome or requiring admission to ICU. CONCLUSIONS:Sevoflurane anesthesia is feasible and safe for children affected by neuropsychiatric disorders undergoing MRI. Specific risk factors for general and respiratory complications should be considered."
+  ],
+  "affiliation": [
+    "Anesthesia and Intensive Care, Rianimazione 1 Fondazione IRCCS Policlinico S. Matteo, 27100, Pavia, Italy. silvia.mongodi@libero.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sevoflurane",
+        "Nora",
+        "Mri Sedation",
+        "Non-operating Room Anesthesia",
+        "Neuropsychiatric Disorders Anesthesia"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12871-019-0897-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6921558"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6921558?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-20"
+  ],
+  "firstIndexDate": [
+    "2019-12-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-02"
+  ],
+  "dateOfRevision": [
+    "2019-12-31"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-18"
+  ],
+  "firstPublicationDate": [
+    "2019-12-18"
+  ]
+}

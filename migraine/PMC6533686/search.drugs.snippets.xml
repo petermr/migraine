@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6533686/results/search/drugs/results.xml">
+  <result pre="medication as well. Substances indicated as used &quot;attack medication&quot; were" exact="ibuprofen" post="by 18 (56.3%), paracetamol by 8 (25.0%), mefenamic acid"/>
+  <result pre="indicated as used &quot;attack medication&quot; were ibuprofen by 18 (56.3%)," exact="paracetamol" post="by 8 (25.0%), mefenamic acid by 7 (21.9%), acetylic-salicylic"/>
+  <result pre="medication&quot; were ibuprofen by 18 (56.3%), paracetamol by 8 (25.0%)," exact="mefenamic acid" post="by 7 (21.9%), acetylic-salicylic acid by 5 (15.6%), caffeine"/>
+  <result pre="acetylic-salicylic acid by 5 (15.6%), caffeine by 2 (6.3%), and" exact="metamizole" post="and naproxen each by one (3.1%). Substances used for"/>
+  <result pre="by 5 (15.6%), caffeine by 2 (6.3%), and metamizole and" exact="naproxen" post="each by one (3.1%). Substances used for &quot;preventative medication&quot;"/>
+  <result pre="each by one (3.1%). Substances used for &quot;preventative medication&quot; were" exact="propranolol" post="( n = 1) and zonisamid ( n = 1). None of the"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,466 @@
+{
+  "id": [
+    "23633139"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23633139"
+  ],
+  "pmcid": [
+    "PMC3632469"
+  ],
+  "doi": [
+    "10.1534/genetics.113.151241"
+  ],
+  "title": [
+    "Charles Darwin's mitochondria."
+  ],
+  "authorString": [
+    "Hayman J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hayman J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Hayman"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Pathology, University of Melbourne, Melbourne, Victoria 3010, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "194"
+      ],
+      "journalIssueId": [
+        "2034124"
+      ],
+      "dateOfPublication": [
+        "2013 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genetics"
+          ],
+          "ISOAbbreviation": [
+            "Genetics"
+          ],
+          "medlineAbbreviation": [
+            "Genetics"
+          ],
+          "NLMid": [
+            "0374636"
+          ],
+          "ISSN": [
+            "0016-6731"
+          ],
+          "ESSN": [
+            "1943-2631"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "21-25"
+  ],
+  "abstractText": [
+    "Charles Darwin's long-term illness has been the subject of much speculation. His numerous symptoms have led to conclusions that his illness was essentially psychogenic in nature. These diagnoses have never been fully convincing, however, particularly in regard to the proposed underlying psychological background causes of the illness. Similarly, two proposed somatic causes of illness, Chagas disease and arsenic poisoning, lack credibility and appear inconsistent with the lifetime history of the illness. Other physical explanations are simply too incomplete to explain the range of symptoms. Here, a very different sort of explanation will be offered. We now know that mitochondrial mutations producing impaired mitochondrial function may result in a wide range of differing symptoms, including symptoms thought to be primarily psychological. Examination of Darwin's maternal family history supports the contention that his illness was mitochondrial in nature; his mother and one maternal uncle had strange illnesses and the youngest maternal sibling died of an infirmity with symptoms characteristic of mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes (MELAS syndrome), a condition rooted in mitochondrial dysfunction. Darwin's own symptoms are described here and are in accord with the hypothesis that he had the mtDNA mutation commonly associated with the MELAS syndrome."
+  ],
+  "affiliation": [
+    "Department of Pathology, University of Melbourne, Melbourne, Victoria 3010, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Historical Article",
+        "research-article",
+        "Biography",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mitochondria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mitochondrial Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Mitochondrial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Family"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inheritance Patterns"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 19th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "England"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA, Mitochondrial"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23633139/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23633139/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1534/genetics.113.151241"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3632469"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3632469?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-11-05"
+  ],
+  "dateOfCreation": [
+    "2013-05-01"
+  ],
+  "firstIndexDate": [
+    "2013-05-02"
+  ],
+  "fullTextReceivedDate": [
+    "2013-05-05"
+  ],
+  "dateOfRevision": [
+    "2015-04-27"
+  ],
+  "firstPublicationDate": [
+    "2013-05-01"
+  ]
+}

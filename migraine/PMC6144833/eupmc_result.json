@@ -1,0 +1,420 @@
+{
+  "id": [
+    "30203806"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30203806"
+  ],
+  "pmcid": [
+    "PMC6144833"
+  ],
+  "doi": [
+    "10.4103/0366-6999.240806"
+  ],
+  "title": [
+    "Multimodal Magnetic Resonance Imaging Studies of Migraines Related to Increasing Risk Factors for Brain Lesions Would Be an Optimal Research Focus: A Pilot Literature Citation Analysis."
+  ],
+  "authorString": [
+    "Liu MQ, Chen ZY, Yu SY, Ma L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu MQ"
+          ],
+          "firstName": [
+            "Meng-Qi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "MQ"
+          ],
+          "affiliation": [
+            "Department of Radiology, Chinese People's Liberation Army General Hospital; Department of Radiology, Haninan Branch of Chinese People's Liberation Army General Hospital, Beijing 100853, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen ZY"
+          ],
+          "firstName": [
+            "Zhi-Ye"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "ZY"
+          ],
+          "affiliation": [
+            "Department of Radiology, Chinese People's Liberation Army General Hospital; Department of Radiology, Haninan Branch of Chinese People's Liberation Army General Hospital, Beijing 100853, China; Department of Neurology, Chinese People's Liberation Army General Hospital, Beijing 100853, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu SY"
+          ],
+          "firstName": [
+            "Sheng-Yuan"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "affiliation": [
+            "Department of Neurology, Chinese People's Liberation Army General Hospital, Beijing 100853, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Radiology, Chinese People's Liberation Army General Hospital, Beijing 100853, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "18"
+      ],
+      "volume": [
+        "131"
+      ],
+      "journalIssueId": [
+        "2726568"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Chinese medical journal"
+          ],
+          "ISOAbbreviation": [
+            "Chin. Med. J."
+          ],
+          "medlineAbbreviation": [
+            "Chin Med J (Engl)"
+          ],
+          "NLMid": [
+            "7513795"
+          ],
+          "ISSN": [
+            "0366-6999"
+          ],
+          "ESSN": [
+            "2542-5641"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2246-2248"
+  ],
+  "affiliation": [
+    "Department of Radiology, Chinese People's Liberation Army General Hospital; Department of Radiology, Haninan Branch of Chinese People's Liberation Army General Hospital, Beijing 100853, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Publications"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bibliometrics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multimodal Imaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/0366-6999.240806"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6144833"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6144833?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-22"
+  ],
+  "dateOfCreation": [
+    "2018-09-12"
+  ],
+  "firstIndexDate": [
+    "2018-09-11"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-01"
+  ],
+  "dateOfRevision": [
+    "2019-07-22"
+  ],
+  "firstPublicationDate": [
+    "2018-09-01"
+  ]
+}

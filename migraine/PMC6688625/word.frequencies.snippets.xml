@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6688625/results/word/frequencies/results.xml">
+  <result title="frequency" word="concussion" count="115"/>
+  <result title="frequency" word="care" count="87"/>
+  <result title="frequency" word="patients" count="76"/>
+  <result title="frequency" word="telemedicine" count="66"/>
+  <result title="frequency" word="assessment" count="50"/>
+  <result title="frequency" word="medical" count="46"/>
+  <result title="frequency" word="pediatric" count="36"/>
+  <result title="frequency" word="clinical" count="33"/>
+  <result title="frequency" word="Canadian" count="32"/>
+  <result title="frequency" word="access" count="31"/>
+  <result title="frequency" word="remote" count="30"/>
+  <result title="frequency" word="neurological" count="27"/>
+  <result title="frequency" word="healthcare" count="26"/>
+  <result title="frequency" word="Canada" count="24"/>
+  <result title="frequency" word="Concussion" count="23"/>
+  <result title="frequency" word="management" count="23"/>
+  <result title="frequency" word="use" count="23"/>
+  <result title="frequency" word="health" count="22"/>
+  <result title="frequency" word="in-person" count="22"/>
+  <result title="frequency" word="injury" count="22"/>
+  <result title="frequency" word="patient" count="22"/>
+  <result title="frequency" word="physical" count="22"/>
+  <result title="frequency" word="provide" count="22"/>
+  <result title="frequency" word="symptoms" count="21"/>
+  <result title="frequency" word="youth" count="21"/>
+ </snippets>
+</snippetsTree>

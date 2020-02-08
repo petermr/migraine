@@ -1,0 +1,508 @@
+{
+  "id": [
+    "18377647"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "18377647"
+  ],
+  "pmcid": [
+    "PMC2322948"
+  ],
+  "doi": [
+    "10.1186/1472-6882-8-8"
+  ],
+  "title": [
+    "Eurythmy Therapy in clinical studies: a systematic literature review."
+  ],
+  "authorString": [
+    "Büssing A, Ostermann T, Majorek M, Matthiessen PF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Büssing A"
+          ],
+          "firstName": [
+            "Arndt"
+          ],
+          "lastName": [
+            "Büssing"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5025-7950",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ostermann T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Ostermann"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Majorek M"
+          ],
+          "firstName": [
+            "Magdalena"
+          ],
+          "lastName": [
+            "Majorek"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Matthiessen PF"
+          ],
+          "firstName": [
+            "Peter F"
+          ],
+          "lastName": [
+            "Matthiessen"
+          ],
+          "initials": [
+            "PF"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5025-7950",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "1506265"
+      ],
+      "dateOfPublication": [
+        "2008 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC complementary and alternative medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "NLMid": [
+            "101088661"
+          ],
+          "ISSN": [
+            "1472-6882"
+          ],
+          "ESSN": [
+            "1472-6882"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2008"
+  ],
+  "pageInfo": [
+    "8"
+  ],
+  "abstractText": [
+    "BACKGROUND: We aimed to overview the current literature on eurythmy therapy (EYT) which is an integral part of Anthroposophic Medicine. EYT can be described as a movement therapy in which speech movements are transposed into exercises which address the patient's capability to soul expression and strengthen his salutogenetic resources. METHODS: We searched several databases such as Cochrane, EMBASE, NCCAM, NLM, DIMDI, CAMbase, and Medline for case-control studies, cohort studies and randomised controlled trials on the treatment effects of EYT in a clinical setting. In a second search we included journal databases from Karger, Kluwer, Springer, Thieme, and Merkurstab archive. RESULTS: We found 8 citations which met the inclusion criterion: 4 publications referring to a prospective cohort study without control group (the AMOS study), and 4 articles referring to 2 explorative pre-post studies without control group, 1 prospective, non-randomized comparative study, and 1 descriptive study with a control group. The methodological quality of studies ranged in from poor to good, and in sample size from 5 to 898 patients. In most studies, EYT was used as an add-on, not as a mono-therapy. The studies described positive treatment effects with clinically relevant effect sizes in most cases. CONCLUSION: Indications, study designs and the usage of additional treatments within the identified studies were quite heterogeneous. Despite of this, EYT can be regarded as a potentially relevant add-on in a therapeutic concept, although its specific relevance remains to be clarified. Well performed controlled studies on this unique treatment are highly recommended."
+  ],
+  "affiliation": [
+    "Chair of Medical Theory and Complementary Medicine, University of Witten/Herdecke, Gerhard-Kienle-Weg 4, 58239 Herdecke, Germany. arbuess@yahoo.de"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Anthroposophy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18377647/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18377647/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1472-6882/8/8/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1472-6882/8/8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1472-6882-8-8.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1472-6882-8-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2322948"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2322948?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2008-05-13"
+  ],
+  "dateOfCreation": [
+    "2008-04-18"
+  ],
+  "firstIndexDate": [
+    "2009-12-24"
+  ],
+  "fullTextReceivedDate": [
+    "2009-05-02"
+  ],
+  "dateOfRevision": [
+    "2013-06-05"
+  ],
+  "electronicPublicationDate": [
+    "2008-03-31"
+  ],
+  "firstPublicationDate": [
+    "2008-03-31"
+  ]
+}

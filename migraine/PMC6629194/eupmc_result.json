@@ -1,0 +1,553 @@
+{
+  "id": [
+    "31363336"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31363336"
+  ],
+  "pmcid": [
+    "PMC6629194"
+  ],
+  "doi": [
+    "10.20471/acc.2019.58.01.18"
+  ],
+  "title": [
+    "HEREDITARY ANGIOEDEMA DUE TO C1-INHIBITOR DEFICIENCY IN PEDIATRIC PATIENTS IN CROATIA - FIRST NATIONAL STUDY, DIAGNOSTIC AND PROPHYLACTIC CHALLENGES."
+  ],
+  "authorString": [
+    "Karadža-Lapić L, Barešić M, Vrsalović R, Ivković-Jureković I, Sršen S, Prkačin I, Rijavec M, Cikojević D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Karadža-Lapić L"
+          ],
+          "firstName": [
+            "Ljerka"
+          ],
+          "lastName": [
+            "Karadža-Lapić"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "1Department of Otorhinolaryngology, Šibenik General Hospital, Šibenik, Croatia; 2Division of Clinical Immunology and Rheumatology, Department of Internal Medicine, School of Medicine, University of Zagreb, Zagreb University Hospital Centre, Zagreb, Croatia; 3Department of Pediatrics, Sestre milosrdnice University Hospital Centre, Zagreb, Croatia; 4Zagreb Children's Hospital, Zagreb, Croatia; Pediatric Department, Faculty of Medicine, Josip Juraj Strossmayer University of Osijek, Osijek, Croatia; 5Department of Pediatrics, Split University Hospital Centre, Split, Croatia; 6Department of Internal Medicine, School of Medicine, University of Zagreb, Merkur University Hospital, Zagreb, Croatia; 7Golnik University Clinic of Pulmonary and Allergic Diseases, Golnik, Slovenia; 8Department of Otorhinolaryngology, Split University Hospital Centre, Split, Croatia."
+          ]
+        },
+        {
+          "fullName": [
+            "Barešić M"
+          ],
+          "firstName": [
+            "Marko"
+          ],
+          "lastName": [
+            "Barešić"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "1Department of Otorhinolaryngology, Šibenik General Hospital, Šibenik, Croatia; 2Division of Clinical Immunology and Rheumatology, Department of Internal Medicine, School of Medicine, University of Zagreb, Zagreb University Hospital Centre, Zagreb, Croatia; 3Department of Pediatrics, Sestre milosrdnice University Hospital Centre, Zagreb, Croatia; 4Zagreb Children's Hospital, Zagreb, Croatia; Pediatric Department, Faculty of Medicine, Josip Juraj Strossmayer University of Osijek, Osijek, Croatia; 5Department of Pediatrics, Split University Hospital Centre, Split, Croatia; 6Department of Internal Medicine, School of Medicine, University of Zagreb, Merkur University Hospital, Zagreb, Croatia; 7Golnik University Clinic of Pulmonary and Allergic Diseases, Golnik, Slovenia; 8Department of Otorhinolaryngology, Split University Hospital Centre, Split, Croatia."
+          ]
+        },
+        {
+          "fullName": [
+            "Vrsalović R"
+          ],
+          "firstName": [
+            "Renata"
+          ],
+          "lastName": [
+            "Vrsalović"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "1Department of Otorhinolaryngology, Šibenik General Hospital, Šibenik, Croatia; 2Division of Clinical Immunology and Rheumatology, Department of Internal Medicine, School of Medicine, University of Zagreb, Zagreb University Hospital Centre, Zagreb, Croatia; 3Department of Pediatrics, Sestre milosrdnice University Hospital Centre, Zagreb, Croatia; 4Zagreb Children's Hospital, Zagreb, Croatia; Pediatric Department, Faculty of Medicine, Josip Juraj Strossmayer University of Osijek, Osijek, Croatia; 5Department of Pediatrics, Split University Hospital Centre, Split, Croatia; 6Department of Internal Medicine, School of Medicine, University of Zagreb, Merkur University Hospital, Zagreb, Croatia; 7Golnik University Clinic of Pulmonary and Allergic Diseases, Golnik, Slovenia; 8Department of Otorhinolaryngology, Split University Hospital Centre, Split, Croatia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ivković-Jureković I"
+          ],
+          "firstName": [
+            "Irena"
+          ],
+          "lastName": [
+            "Ivković-Jureković"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "1Department of Otorhinolaryngology, Šibenik General Hospital, Šibenik, Croatia; 2Division of Clinical Immunology and Rheumatology, Department of Internal Medicine, School of Medicine, University of Zagreb, Zagreb University Hospital Centre, Zagreb, Croatia; 3Department of Pediatrics, Sestre milosrdnice University Hospital Centre, Zagreb, Croatia; 4Zagreb Children's Hospital, Zagreb, Croatia; Pediatric Department, Faculty of Medicine, Josip Juraj Strossmayer University of Osijek, Osijek, Croatia; 5Department of Pediatrics, Split University Hospital Centre, Split, Croatia; 6Department of Internal Medicine, School of Medicine, University of Zagreb, Merkur University Hospital, Zagreb, Croatia; 7Golnik University Clinic of Pulmonary and Allergic Diseases, Golnik, Slovenia; 8Department of Otorhinolaryngology, Split University Hospital Centre, Split, Croatia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sršen S"
+          ],
+          "firstName": [
+            "Saša"
+          ],
+          "lastName": [
+            "Sršen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "1Department of Otorhinolaryngology, Šibenik General Hospital, Šibenik, Croatia; 2Division of Clinical Immunology and Rheumatology, Department of Internal Medicine, School of Medicine, University of Zagreb, Zagreb University Hospital Centre, Zagreb, Croatia; 3Department of Pediatrics, Sestre milosrdnice University Hospital Centre, Zagreb, Croatia; 4Zagreb Children's Hospital, Zagreb, Croatia; Pediatric Department, Faculty of Medicine, Josip Juraj Strossmayer University of Osijek, Osijek, Croatia; 5Department of Pediatrics, Split University Hospital Centre, Split, Croatia; 6Department of Internal Medicine, School of Medicine, University of Zagreb, Merkur University Hospital, Zagreb, Croatia; 7Golnik University Clinic of Pulmonary and Allergic Diseases, Golnik, Slovenia; 8Department of Otorhinolaryngology, Split University Hospital Centre, Split, Croatia."
+          ]
+        },
+        {
+          "fullName": [
+            "Prkačin I"
+          ],
+          "firstName": [
+            "Ingrid"
+          ],
+          "lastName": [
+            "Prkačin"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "1Department of Otorhinolaryngology, Šibenik General Hospital, Šibenik, Croatia; 2Division of Clinical Immunology and Rheumatology, Department of Internal Medicine, School of Medicine, University of Zagreb, Zagreb University Hospital Centre, Zagreb, Croatia; 3Department of Pediatrics, Sestre milosrdnice University Hospital Centre, Zagreb, Croatia; 4Zagreb Children's Hospital, Zagreb, Croatia; Pediatric Department, Faculty of Medicine, Josip Juraj Strossmayer University of Osijek, Osijek, Croatia; 5Department of Pediatrics, Split University Hospital Centre, Split, Croatia; 6Department of Internal Medicine, School of Medicine, University of Zagreb, Merkur University Hospital, Zagreb, Croatia; 7Golnik University Clinic of Pulmonary and Allergic Diseases, Golnik, Slovenia; 8Department of Otorhinolaryngology, Split University Hospital Centre, Split, Croatia."
+          ]
+        },
+        {
+          "fullName": [
+            "Rijavec M"
+          ],
+          "firstName": [
+            "Matija"
+          ],
+          "lastName": [
+            "Rijavec"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "1Department of Otorhinolaryngology, Šibenik General Hospital, Šibenik, Croatia; 2Division of Clinical Immunology and Rheumatology, Department of Internal Medicine, School of Medicine, University of Zagreb, Zagreb University Hospital Centre, Zagreb, Croatia; 3Department of Pediatrics, Sestre milosrdnice University Hospital Centre, Zagreb, Croatia; 4Zagreb Children's Hospital, Zagreb, Croatia; Pediatric Department, Faculty of Medicine, Josip Juraj Strossmayer University of Osijek, Osijek, Croatia; 5Department of Pediatrics, Split University Hospital Centre, Split, Croatia; 6Department of Internal Medicine, School of Medicine, University of Zagreb, Merkur University Hospital, Zagreb, Croatia; 7Golnik University Clinic of Pulmonary and Allergic Diseases, Golnik, Slovenia; 8Department of Otorhinolaryngology, Split University Hospital Centre, Split, Croatia."
+          ]
+        },
+        {
+          "fullName": [
+            "Cikojević D"
+          ],
+          "firstName": [
+            "Draško"
+          ],
+          "lastName": [
+            "Cikojević"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "1Department of Otorhinolaryngology, Šibenik General Hospital, Šibenik, Croatia; 2Division of Clinical Immunology and Rheumatology, Department of Internal Medicine, School of Medicine, University of Zagreb, Zagreb University Hospital Centre, Zagreb, Croatia; 3Department of Pediatrics, Sestre milosrdnice University Hospital Centre, Zagreb, Croatia; 4Zagreb Children's Hospital, Zagreb, Croatia; Pediatric Department, Faculty of Medicine, Josip Juraj Strossmayer University of Osijek, Osijek, Croatia; 5Department of Pediatrics, Split University Hospital Centre, Split, Croatia; 6Department of Internal Medicine, School of Medicine, University of Zagreb, Merkur University Hospital, Zagreb, Croatia; 7Golnik University Clinic of Pulmonary and Allergic Diseases, Golnik, Slovenia; 8Department of Otorhinolaryngology, Split University Hospital Centre, Split, Croatia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "58"
+      ],
+      "journalIssueId": [
+        "2842722"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Acta clinica Croatica"
+          ],
+          "ISOAbbreviation": [
+            "Acta Clin Croat"
+          ],
+          "medlineAbbreviation": [
+            "Acta Clin Croat"
+          ],
+          "NLMid": [
+            "9425483"
+          ],
+          "ISSN": [
+            "0353-9466"
+          ],
+          "ESSN": [
+            "1333-9451"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "139-146"
+  ],
+  "abstractText": [
+    "Hereditary angioedema (HAE) is a rare autosomal dominant disease with deficiency (type I) or dysfunction (type II) of C1 inhibitor, caused by mutations in the C1-INH gene, characterized by recurrent submucosal or subcutaneous edemas including skin swelling, abdominal pain and life-threatening episodes of upper airway obstruction. The aim of this study was to investigate healthcare experiences in children with HAE due to C1 inhibitor deficiency (C1-INH-HAE) in Croatia in order to estimate the number of affected children and to recommend management protocols for diagnosis, short-term prophylaxis and acute treatment. Patients were recruited during a 4-year period at five hospitals in Croatia. Complement testing was performed in patients with a positive family history. This pilot study revealed nine pediatric patients positive for C1-INH- HAE type I, aged 1-16 years, four of them asymptomatic. Before the age of one year, C1-INH levels may be lower than in adults; it is advisable to confirm C1-INH-HAE after the age of one year. Plasma-derived C1-INH is recommended as acute and short-term prophylactic treatment. Recombinant C1-INH and icatibant are licensed for the acute treatment of pediatric patients. In Croatia, HAE is still underdiagnosed in pediatric population."
+  ],
+  "affiliation": [
+    "1Department of Otorhinolaryngology, Šibenik General Hospital, Šibenik, Croatia; 2Division of Clinical Immunology and Rheumatology, Department of Internal Medicine, School of Medicine, University of Zagreb, Zagreb University Hospital Centre, Zagreb, Croatia; 3Department of Pediatrics, Sestre milosrdnice University Hospital Centre, Zagreb, Croatia; 4Zagreb Children's Hospital, Zagreb, Croatia; Pediatric Department, Faculty of Medicine, Josip Juraj Strossmayer University of Osijek, Osijek, Croatia; 5Department of Pediatrics, Split University Hospital Centre, Split, Croatia; 6Department of Internal Medicine, School of Medicine, University of Zagreb, Merkur University Hospital, Zagreb, Croatia; 7Golnik University Clinic of Pulmonary and Allergic Diseases, Golnik, Slovenia; 8Department of Otorhinolaryngology, Split University Hospital Centre, Split, Croatia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Croatia"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Complement C1 Inhibitor Protein"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Angioedemas, Hereditary"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Croatia",
+        "Complement C1 Inhibitor Protein",
+        "Hereditary Angioedema Types I And Ii – Diagnosis"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Complement C1 Inhibitor Protein"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.20471/acc.2019.58.01.18"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6629194"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6629194?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-20"
+  ],
+  "dateOfCreation": [
+    "2019-08-01"
+  ],
+  "firstIndexDate": [
+    "2019-08-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-01"
+  ],
+  "dateOfRevision": [
+    "2019-11-20"
+  ],
+  "firstPublicationDate": [
+    "2019-03-01"
+  ]
+}

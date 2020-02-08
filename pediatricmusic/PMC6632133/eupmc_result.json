@@ -1,0 +1,336 @@
+{
+  "id": [
+    "31125105"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31125105"
+  ],
+  "pmcid": [
+    "PMC6632133"
+  ],
+  "doi": [
+    "10.1001/jamanetworkopen.2019.4410"
+  ],
+  "title": [
+    "Management of Chronic Pain in Adults Living With Sickle Cell Disease in the Era of the Opioid Epidemic: A Qualitative Study."
+  ],
+  "authorString": [
+    "Sinha CB, Bakshi N, Ross D, Krishnamurti L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sinha CB"
+          ],
+          "firstName": [
+            "Cynthia B"
+          ],
+          "lastName": [
+            "Sinha"
+          ],
+          "initials": [
+            "CB"
+          ],
+          "affiliation": [
+            "Division of Pediatric Hematology-Oncology-BMT, Emory University, Atlanta, Georgia."
+          ]
+        },
+        {
+          "fullName": [
+            "Bakshi N"
+          ],
+          "firstName": [
+            "Nitya"
+          ],
+          "lastName": [
+            "Bakshi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Division of Pediatric Hematology-Oncology-BMT, Emory University, Atlanta, Georgia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ross D"
+          ],
+          "firstName": [
+            "Diana"
+          ],
+          "lastName": [
+            "Ross"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Division of Pediatric Hematology-Oncology-BMT, Emory University, Atlanta, Georgia."
+          ]
+        },
+        {
+          "fullName": [
+            "Krishnamurti L"
+          ],
+          "firstName": [
+            "Lakshmanan"
+          ],
+          "lastName": [
+            "Krishnamurti"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Division of Pediatric Hematology-Oncology-BMT, Emory University, Atlanta, Georgia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2812349"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JAMA network open"
+          ],
+          "ISOAbbreviation": [
+            "JAMA Netw Open"
+          ],
+          "medlineAbbreviation": [
+            "JAMA Netw Open"
+          ],
+          "NLMid": [
+            "101729235"
+          ],
+          "ISSN": [
+            "2574-3805"
+          ],
+          "ESSN": [
+            "2574-3805"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e194410"
+  ],
+  "abstractText": [
+    "Importance:The hallmark of sickle cell disease (SCD) is vaso-occlusive pain that may be acute and episodic or may progress to chronic, persistent pain with unpredictable and disabling exacerbations. Patients with SCD rely on opioids almost exclusively for acute and chronic pain management. Objective:To understand how the current opioid epidemic and subsequent guidelines from the Centers for Disease Control and Prevention are associated with the management of acute and chronic pain for patients with SCD. Design, Setting, and Participants:Qualitative study using semistructured interview guides. Interviews 1 hour or longer were conducted over the telephone. Participants were adults (aged ≥18 years) diagnosed with SCD who experienced pain on 3 or more days per week recruited from national SCD conferences, symposiums, and 2 sickle cell clinics. Open coding analysis facilitated thematic analysis of interview transcripts. Data collection took place from May 2017 to June 2018. Main Outcomes and Measures:Participant perspective of any changes to their pain management associated with the 2016 guidelines from the Centers for Disease Control and Prevention. Results:The 15 adults interviewed had a median (range) age of 32 (21-52) years; 13 (87%) were female; and all were of African American race/ethnicity. Participants reported that recently their opioid prescriptions had become more restrictive, were more closely monitored, and were increasingly difficult to fill in pharmacies. Participants also described increased stigmatization about opioid use and that their medical care was being affected by the physician's exclusive focus on reducing pain medication use. There was an emerging interest among adult patients in the consideration of the use of alternative therapies, including marijuana, to manage pain. Conclusions and Relevance:These findings suggest that from the perspective of adults living with SCD, the opioid epidemic may have negatively affected patients' care by increasing barriers to opioids. Patients reported decreased opioid dosing, increased stigmatization regarding opioid use, physician preoccupation with opioid dosage interfering with comprehensive care, and lack of access to alternative therapies."
+  ],
+  "affiliation": [
+    "Division of Pediatric Hematology-Oncology-BMT, Emory University, Atlanta, Georgia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K23 HL140142"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1001/jamanetworkopen.2019.4410"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6632133"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31755941"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "JAMA Netw Open. 2019 Nov 1;2(11):e1917637"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-25"
+  ],
+  "firstIndexDate": [
+    "2019-05-25"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-25"
+  ],
+  "dateOfRevision": [
+    "2019-11-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-03"
+  ],
+  "firstPublicationDate": [
+    "2019-05-03"
+  ]
+}

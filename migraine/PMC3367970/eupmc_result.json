@@ -1,0 +1,780 @@
+{
+  "id": [
+    "22679513"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22679513"
+  ],
+  "pmcid": [
+    "PMC3367970"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0038579"
+  ],
+  "title": [
+    "Methylation defect in imprinted genes detected in patients with an Albright's hereditary osteodystrophy like phenotype and platelet Gs hypofunction."
+  ],
+  "authorString": [
+    "Izzi B, Francois I, Labarque V, Thys C, Wittevrongel C, Devriendt K, Legius E, Van den Bruel A, D'Hooghe M, Lambrechts D, de Zegher F, Van Geet C, Freson K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Izzi B"
+          ],
+          "firstName": [
+            "Benedetta"
+          ],
+          "lastName": [
+            "Izzi"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3649-7931",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Molecular and Vascular Biology, University of Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Francois I"
+          ],
+          "firstName": [
+            "Inge"
+          ],
+          "lastName": [
+            "Francois"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Labarque V"
+          ],
+          "firstName": [
+            "Veerle"
+          ],
+          "lastName": [
+            "Labarque"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Thys C"
+          ],
+          "firstName": [
+            "Chantal"
+          ],
+          "lastName": [
+            "Thys"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Wittevrongel C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Wittevrongel"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Devriendt K"
+          ],
+          "firstName": [
+            "Koen"
+          ],
+          "lastName": [
+            "Devriendt"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Legius E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Legius"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Van den Bruel A"
+          ],
+          "firstName": [
+            "Annick"
+          ],
+          "lastName": [
+            "Van den Bruel"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "D'Hooghe M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "D'Hooghe"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Lambrechts D"
+          ],
+          "firstName": [
+            "Diether"
+          ],
+          "lastName": [
+            "Lambrechts"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "de Zegher F"
+          ],
+          "firstName": [
+            "Francis"
+          ],
+          "lastName": [
+            "de Zegher"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Van Geet C"
+          ],
+          "firstName": [
+            "Chris"
+          ],
+          "lastName": [
+            "Van Geet"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Freson K"
+          ],
+          "firstName": [
+            "Kathleen"
+          ],
+          "lastName": [
+            "Freson"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4381-2442",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3649-7931",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4381-2442",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1937981"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "e38579"
+  ],
+  "abstractText": [
+    "Pseudohypoparathyroidism (PHP) indicates a group of heterogeneous disorders whose common feature is represented by impaired signaling of hormones that activate Gsalpha, encoded by the imprinted GNAS gene. PHP-Ib patients have isolated Parathormone (PTH) resistance and GNAS epigenetic defects while PHP-Ia cases present with hormone resistance and characteristic features jointly termed as Albright's Hereditary Osteodystrophy (AHO) due to maternally inherited GNAS mutations or similar epigenetic defects as found for PHP-Ib. Pseudopseudohypoparathyroidism (PPHP) patients with an AHO phenotype and no hormone resistance and progressive osseous heteroplasia (POH) cases have inactivating paternally inherited GNAS mutations.We here describe 17 subjects with an AHO-like phenotype that could be compatible with having PPHP but none of them carried Gsalpha mutations. Functional platelet studies however showed an obvious Gs hypofunction in the 13 patients that were available for testing. Methylation for the three differentially methylated GNAS regions was quantified via the Sequenom EpiTYPER. Patients showed significant hypermethylation of the XL amplicon compared to controls (36 ± 3 vs. 29 ± 3%; p<0.001); a pattern that is reversed to XL hypomethylation found in PHPIb. Interestingly, XL hypermethylation was associated with reduced XLalphaS protein levels in the patients' platelets. Methylation for NESP and ExonA/B was significantly different for some but not all patients, though most patients have site-specific CpG methylation abnormalities in these amplicons. Since some AHO features are present in other imprinting disorders, the methylation of IGF2, H19, SNURF and GRB10 was quantified. Surprisingly, significant IGF2 hypermethylation (20 ± 10 vs. 14 ± 7%; p<0.05) and SNURF hypomethylation (23 ± 6 vs. 32 6%; p<0.001) was found in patients vs. controls, while H19 and GRB10 methylation was normal.In conclusion, this is the first report of methylation defects including GNAS in patients with an AHO-like phenotype without endocrinological abnormalities. Additional studies are still needed to correlate the methylation defect with the clinical phenotype."
+  ],
+  "affiliation": [
+    "Center for Molecular and Vascular Biology, University of Leuven, Leuven, Belgium."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fibrous Dysplasia, Polyostotic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pseudohypoparathyroidism"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "GTP-Binding Protein alpha Subunits, Gs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insulin-Like Growth Factor II"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromogranins"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nuclear Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Methylation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "GRB10 Adaptor Protein"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "GRB10 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "SNURF protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Nuclear Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Chromogranins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Insulin-Like Growth Factor II"
+          ],
+          "registryNumber": [
+            "67763-97-7"
+          ]
+        },
+        {
+          "name": [
+            "GRB10 Adaptor Protein"
+          ],
+          "registryNumber": [
+            "151441-47-3"
+          ]
+        },
+        {
+          "name": [
+            "GNAS protein, human"
+          ],
+          "registryNumber": [
+            "EC 3.6.1.-"
+          ]
+        },
+        {
+          "name": [
+            "IGF2 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "GTP-Binding Protein alpha Subunits, Gs"
+          ],
+          "registryNumber": [
+            "EC 3.6.5.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22679513/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22679513/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0038579"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3367970"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3367970?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp",
+        "omim"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2012-10-02"
+  ],
+  "dateOfCreation": [
+    "2012-06-08"
+  ],
+  "firstIndexDate": [
+    "2012-06-09"
+  ],
+  "fullTextReceivedDate": [
+    "2012-06-11"
+  ],
+  "dateOfRevision": [
+    "2016-11-25"
+  ],
+  "electronicPublicationDate": [
+    "2012-06-05"
+  ],
+  "firstPublicationDate": [
+    "2012-06-05"
+  ]
+}

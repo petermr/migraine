@@ -1,0 +1,273 @@
+{
+  "id": [
+    "31107703"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31107703"
+  ],
+  "pmcid": [
+    "PMC6635047"
+  ],
+  "doi": [
+    "10.1097/WCO.0000000000000704"
+  ],
+  "title": [
+    "Recent developments in imaging of epilepsy."
+  ],
+  "authorString": [
+    "Wiest R, Beisteiner R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wiest R"
+          ],
+          "firstName": [
+            "Roland"
+          ],
+          "lastName": [
+            "Wiest"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute of Diagnostic and Interventional Neuroradiology, Inselspital, University of Bern, Bern, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Beisteiner R"
+          ],
+          "firstName": [
+            "Roland"
+          ],
+          "lastName": [
+            "Beisteiner"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neurology, Highfield MR Center, Medical University of Vienna, Vienna, Austria."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "32"
+      ],
+      "journalIssueId": [
+        "2831520"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Current opinion in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Curr. Opin. Neurol."
+          ],
+          "medlineAbbreviation": [
+            "Curr Opin Neurol"
+          ],
+          "NLMid": [
+            "9319162"
+          ],
+          "ISSN": [
+            "1350-7540"
+          ],
+          "ESSN": [
+            "1473-6551"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "530-538"
+  ],
+  "abstractText": [
+    "PURPOSE OF REVIEW:Imaging constitutes one of the key pillars in the diagnostic workup after a first seizure as well as for the presurgical workup in epilepsy. The role of imaging in emergency situations, mainly to support the adequate diagnosis, as well as its role in planning of noninvasive image-guided therapies is less well established. Here, we provide an overview on peri-ictal imaging findings to support differential diagnosis in emergency situations and describe recent attempts toward minimal invasive therapy in the treatment of epilepsy and its comorbidities based on a combination of imaging techniques with ultrasound. RECENT FINDINGS:Peri-ictal perfusion changes can differentiate ictal stroke mimics from acute ischemic stroke if focal areas of increased perfusion are depicted by computed tomography or MRI. Postictal perfusion patterns in patients with persisting neurological symptoms are frequently normal and do not reach enough diagnostic sensitivity to differentiate between stroke and its mimics. Noninvasive magnetic resonance-techniques as arterial spin labeling may provide a higher sensitivity, especially in combination with diffusion-weighted and susceptibility-weighted MRI. Imaging guided focused ultrasound (FUS) bears the potential to ablate epileptogenic tissue and allows suppression of epileptic activity. Imaging guided blood-brain-barrier opening with FUS offers new options for local drug administration. SUMMARY:MRI should be considered the method of choice in the differential diagnosis of peri-ictal imaging findings and their differential diagnosis. A combination of various MRI techniques with FUS opens new avenues for treatment of epilepsy."
+  ],
+  "affiliation": [
+    "Institute of Diagnostic and Interventional Neuroradiology, Inselspital, University of Bern, Bern, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/WCO.0000000000000704"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6635047"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6635047?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-21"
+  ],
+  "firstIndexDate": [
+    "2019-05-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2020-01-16"
+  ],
+  "firstPublicationDate": [
+    "2019-08-01"
+  ]
+}

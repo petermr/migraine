@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6742947/results/search/country/results.xml">
+  <result pre="Pediatrics, University of Alabama at Birmingham, CPPI Suite Birmingham, AL" exact="United States" post="[], 2 Children's of Alabama Birmingham, AL United States"/>
+  <result pre="AL United States [], 2 Children's of Alabama Birmingham, AL" exact="United States" post="[], 3 KultureCity Birmingham, AL United States Edited by:"/>
+  <result pre="Alabama Birmingham, AL United States [], 3 KultureCity Birmingham, AL" exact="United States" post="Edited by: Andreas Schwingshackl, University of California, Los Angeles,"/>
+  <result pre="States Edited by: Andreas Schwingshackl, University of California, Los Angeles," exact="United States" post="Reviewed by: Michael Shoykhet, Children's National Health System, United"/>
+  <result pre="United States Reviewed by: Michael Shoykhet, Children's National Health System," exact="United States;" post="Takanari Ikeyama, Aichi Child Health and Medical General Center,"/>
+  <result pre="States; Takanari Ikeyama, Aichi Child Health and Medical General Center," exact="Japan" post="*Correspondence: Michele Kong mkong@peds.uab.edu This article was submitted to"/>
+ </snippets>
+</snippetsTree>

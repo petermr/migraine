@@ -1,0 +1,723 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d1 20130915//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 39.96?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Exp Neurosci</journal-id><journal-id journal-id-type="iso-abbrev">J Exp Neurosci</journal-id><journal-id journal-id-type="publisher-id">EXN</journal-id><journal-id journal-id-type="hwp">spexn</journal-id><journal-title-group><journal-title>Journal of Experimental Neuroscience</journal-title></journal-title-group><issn pub-type="epub">1179-0695</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage UK: London, England</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6383087</article-id><article-id pub-id-type="doi">10.1177/1179069519830421</article-id><article-id pub-id-type="publisher-id">10.1177_1179069519830421</article-id><article-id pub-id-type="publisher-manuscript">EXN-18-0084.R1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Current State of the Literature on Psychological and Social Sequelae
+of Sports-Related Concussion in School-Aged Children and
+Adolescents</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4192-8756</contrib-id><name><surname>Wilmoth</surname><given-names>Kristin</given-names></name><xref ref-type="aff" rid="aff1-1179069519830421">1</xref></contrib><contrib contrib-type="author"><name><surname>Tan</surname><given-names>Alexander</given-names></name><xref ref-type="aff" rid="aff2-1179069519830421">2</xref></contrib><contrib contrib-type="author"><name><surname>Hague</surname><given-names>Cole</given-names></name><xref ref-type="aff" rid="aff3-1179069519830421">3</xref></contrib><contrib contrib-type="author"><name><surname>Tarkenton</surname><given-names>Tahnae</given-names></name><xref ref-type="aff" rid="aff3-1179069519830421">3</xref></contrib><contrib contrib-type="author"><name><surname>Silver</surname><given-names>Cheryl H</given-names></name><xref ref-type="aff" rid="aff3-1179069519830421">3</xref></contrib><contrib contrib-type="author"><name><surname>Didehbani</surname><given-names>Nyaz</given-names></name><xref ref-type="aff" rid="aff3-1179069519830421">3</xref></contrib><contrib contrib-type="author"><name><surname>Rossetti</surname><given-names>Heidi C</given-names></name><xref ref-type="aff" rid="aff3-1179069519830421">3</xref></contrib><contrib contrib-type="author"><name><surname>Batjer</surname><given-names>Hunt</given-names></name><xref ref-type="aff" rid="aff4-1179069519830421">4</xref></contrib><contrib contrib-type="author"><name><surname>Bell</surname><given-names>Kathleen R</given-names></name><xref ref-type="aff" rid="aff5-1179069519830421">5</xref></contrib><contrib contrib-type="author"><name><surname>Cullum</surname><given-names>C Munro</given-names></name><xref ref-type="aff" rid="aff3-1179069519830421">3</xref><xref ref-type="aff" rid="aff4-1179069519830421">4</xref><xref ref-type="aff" rid="aff6-1179069519830421">6</xref><xref ref-type="corresp" rid="corresp1-1179069519830421"/></contrib></contrib-group><aff id="aff1-1179069519830421"><label>1</label>Department of Neurology, Medical College
+of Wisconsin, Milwaukee, WI, USA</aff><aff id="aff2-1179069519830421"><label>2</label>Department of Neuropsychology,
+Children&#x02019;s Healthcare of Atlanta, Atlanta, GA, USA</aff><aff id="aff3-1179069519830421"><label>3</label>Department of Psychiatry, The University
+of Texas Southwestern Medical Center, Dallas, TX, USA</aff><aff id="aff4-1179069519830421"><label>4</label>Department of Neurological Surgery, The
+University of Texas Southwestern Medical Center, Dallas, TX, USA</aff><aff id="aff5-1179069519830421"><label>5</label>Department of Physical Medicine and
+Rehabilitation, The University of Texas Southwestern Medical Center, Dallas, TX,
+USA</aff><aff id="aff6-1179069519830421"><label>6</label>Department of Neurology and
+Neurotherapeutics, The University of Texas Southwestern Medical Center, Dallas, TX,
+USA</aff><author-notes><corresp id="corresp1-1179069519830421">C Munro Cullum, Department of Psychiatry,
+The University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd,
+Dallas, TX 75390-9044, USA. Email:
+<email>Munro.Cullum@UTSouthwestern.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>2</month><year>2019</year></pub-date><pub-date pub-type="collection"><year>2019</year></pub-date><volume>13</volume><elocation-id>1179069519830421</elocation-id><history><date date-type="received"><day>17</day><month>11</month><year>2018</year></date><date date-type="accepted"><day>21</day><month>1</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2019</copyright-statement><copyright-year>2019</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license license-type="creative-commons" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/"><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><p>Considerably less attention has been paid to psychological and social sequelae of
+concussion in youth athletes compared with neurocognitive outcomes. This
+narrative review consolidates the literature on postconcussive emotional and
+psychosocial functioning in school-aged children and adolescents, highlighting
+athlete-specific findings. MEDLINE and PsycINFO databases were queried for
+pediatric concussion studies examining psychological and/or social outcomes, and
+604 studies met search criteria (11 of those specific to sport). Results were
+organized into domains: emotional and social dysfunction, behavioral problems,
+academic difficulties, sleep disturbance, headache, and quality of life. The
+small body of literature regarding psychological and social issues following
+pediatric concussion suggests behavioral disturbances at least temporarily
+disrupt daily life. Extrapolation from samples of athletes and nonathletes
+indicates postconcussive anxiety and depressive symptoms appear, although levels
+may be subclinical. Social and academic findings were less clear. Future
+well-controlled and adequately powered research will be essential to anticipate
+concussed athletes&#x02019; psychosocial needs.</p></abstract><kwd-group><kwd>Neurotrauma</kwd><kwd>neuropsychology</kwd></kwd-group><funding-group><award-group id="award1-1179069519830421"><funding-source id="funding1-1179069519830421"><institution-wrap><institution>UT Southwestern Texas Institute for Brain Injury and
+Repair</institution><institution-id/></institution-wrap></funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>Annually, 173&#x02009;285 cases of pediatric sports-related concussion (SRC) are seen in US
+emergency departments,<sup><xref rid="bibr1-1179069519830421" ref-type="bibr">1</xref></sup> although the actual incidence is unknown and likely to be higher than recorded
+numbers. Sports-related concussion can produce a variety of neurobehavioral symptoms
+with physical, emotional, and cognitive sequelae<sup><xref rid="bibr2-1179069519830421" ref-type="bibr">2</xref><xref rid="bibr3-1179069519830421" ref-type="bibr"/>-<xref rid="bibr4-1179069519830421" ref-type="bibr">4</xref></sup> that can overlap with typical
+psychological responses to injury.<sup><xref rid="bibr5-1179069519830421" ref-type="bibr">5</xref>(p519)</sup> After accounting for baseline
+symptoms, headache, fatigue, irritability, and being &#x0201c;more emotional&#x0201d; were the most
+common symptoms in children with mild traumatic brain injury (mTBI).<sup><xref rid="bibr6-1179069519830421" ref-type="bibr">6</xref></sup></p><p>Whereas concussion symptoms generally resolve within a few days to weeks, they tend to
+last longer in younger individuals, and an estimated 14% to 20% of children experience
+symptoms that persist beyond 3&#x02009;months.<sup><xref rid="bibr6-1179069519830421" ref-type="bibr">6</xref><xref rid="bibr7-1179069519830421" ref-type="bibr"/>-<xref rid="bibr8-1179069519830421" ref-type="bibr">8</xref></sup> Furthermore, postconcussive
+symptoms, including mood and behavior problems, remained clinically elevated in 12% of
+one mTBI sample (n&#x02009;=&#x02009;176, age 8-15) 12&#x02009;months after injury.<sup><xref rid="bibr9-1179069519830421" ref-type="bibr">9</xref></sup> Such symptoms can directly affect multiple aspects of daily life, including
+emotional functioning, school attendance, and social engagement.<sup><xref rid="bibr10-1179069519830421" ref-type="bibr">10</xref></sup></p><p>Despite growing research on cognitive outcomes after mTBI in children, other
+psychological and social outcomes are not well described. For young athletes in
+particular, routine physical activity, social contact with peers, and daily routines at
+home/school are often restricted as part of postconcussion symptom management. A recent
+systematic review of 30 case-controlled studies on the psychiatric component of mTBI
+recovery from sport and nonsport injuries indicated initially elevated psychological
+symptoms in children following mTBI compared with controls, which generally resolved
+over time.<sup><xref rid="bibr11-1179069519830421" ref-type="bibr">11</xref></sup> Another review of predominantly high school and collegiate athletes provided
+evidence for mood disturbances following SRC associated with anxiety and reduced social
+support as symptoms persisted.<sup><xref rid="bibr12-1179069519830421" ref-type="bibr">12</xref></sup> Less is known about emotional sequelae in younger children in the context of the
+developing brain, as school-aged children with mTBI may be at elevated risk of negative outcomes.<sup><xref rid="bibr6-1179069519830421" ref-type="bibr">6</xref></sup> A summary of postinjury behavioral, emotional, and social functioning has not
+been published specific to pediatric SRC.</p><p>Our aim was to consolidate and present the body of research pertaining to
+psychological/social sequelae of SRC in school-aged children and adolescents in a
+narrative review. We note differing characteristics of the studies (eg, sample size,
+setting) to provide context to the findings. We elected not to address cognitive
+symptoms following injury, as this has been summarized elsewhere.<sup><xref rid="bibr13-1179069519830421" ref-type="bibr">13</xref></sup> Academic outcomes were included because school is a prominent social environment
+for children and adolescents. Sleep problems are nonspecific and can indicate emotional
+disturbance or postconcussive symptoms. Headache is one of the most common symptoms of
+pediatric SRC.<sup><xref rid="bibr14-1179069519830421" ref-type="bibr">14</xref>,<xref rid="bibr15-1179069519830421" ref-type="bibr">15</xref></sup> Given the
+significant psychosocial relevance of sleep and pain, we included these in our review.
+Finally, we included investigations of quality of life (QOL) following SRC because it
+dovetails with psychosocial well-being and is relevant for children and adolescents.</p><p>MEDLINE and PsycINFO databases were queried using relevant search terms and controlled
+vocabulary, and 604 articles were returned (see outline/summary in <xref rid="table1-1179069519830421" ref-type="table">Table 1</xref>). To be included,
+studies had to contain (1) participants with mild TBI/concussion; (2) subjects 4 to
+19&#x02009;years old, or analyses for age; and (3) an outcome variable of postinjury
+psychological or social issues. Outcomes were organized into the following domains:
+emotional/social dysfunction, behavioral problems, academic difficulties, sleep
+disturbance, headache, and QOL. Reference lists of selected articles were also examined.
+Studies were excluded if they combined samples (eg, collegiate and high school athletes)
+to focus on pediatric populations. Only 11 articles (highlighted in <xref rid="table2-1179069519830421" ref-type="table">Table 2</xref>) met inclusion
+criteria. Sport-specific concussion literature was emphasized first, with expansion into
+mTBI of other etiologies as applicable. There were no studies specifically comparing
+sport and nonsport samples on outcomes and an absence of studies focusing specifically
+on SRC in youth within some domains.</p><table-wrap id="table1-1179069519830421" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Database queries conducted.</p></caption><alternatives><graphic xlink:href="10.1177_1179069519830421-table1"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/></colgroup><tbody><tr><td rowspan="1" colspan="1">MEDLINE<break/>1. Brain concussion (MeSH Term) OR concuss* OR mild
+traumatic brain injur*<break/>2. Psychiatry OR emotional adjustment
+OR behavioral medicine OR mental disorders OR mental health services
+(MeSH Terms)<break/>3. Adolescent OR child OR minors (MeSH
+Terms)<break/>4. Student* OR adolescen* OR pediatric OR children* OR
+youth*<break/>5. 3 OR 4<break/><italic>1 AND 2 AND 5</italic>
+<break/>509 articles returned</td></tr><tr><td rowspan="1" colspan="1">PsycINFO</td></tr><tr><td rowspan="1" colspan="1">Brain concussion (Index Term) </td></tr><tr><td rowspan="1" colspan="1">Concuss* OR mild traumatic brain injur* OR mild head injur* </td></tr><tr><td rowspan="1" colspan="1">
+<italic>1 OR 2</italic>
+</td></tr><tr><td rowspan="1" colspan="1">95 articles returned</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-1179069519830421"><p>Asterisks indicate broad word endings were included. Searches included
+articles published between November 14, 2006 and May 17, 2018.</p></fn></table-wrap-foot></table-wrap><table-wrap id="table2-1179069519830421" orientation="portrait" position="float"><label>Table 2.</label><caption><p>Overview of pediatric studies examining psychological and/or social sequelae of
+sports-related concussion.</p></caption><alternatives><graphic xlink:href="10.1177_1179069519830421-table2"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Study</th><th align="left" rowspan="1" colspan="1">mTBI sample size</th><th align="left" rowspan="1" colspan="1">Ages, y</th><th align="left" rowspan="1" colspan="1">Sample characteristics</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Baker et al<sup><xref rid="bibr16-1179069519830421" ref-type="bibr">16</xref></sup></td><td rowspan="1" colspan="1">91</td><td rowspan="1" colspan="1">13-19</td><td rowspan="1" colspan="1">Students evaluated by a physician following a sports-related
+concussion (SRC) observed by a team athletic trainer (AT)</td></tr><tr><td rowspan="1" colspan="1">Collins et al<sup><xref rid="bibr17-1179069519830421" ref-type="bibr">17</xref></sup></td><td rowspan="1" colspan="1">109</td><td rowspan="1" colspan="1">15.8&#x02009;&#x000b1;&#x02009;1.2</td><td rowspan="1" colspan="1">High school athletes with SRC diagnosed on field by a physician</td></tr><tr><td rowspan="1" colspan="1">Ellis et al<sup><xref rid="bibr18-1179069519830421" ref-type="bibr">18</xref></sup></td><td rowspan="1" colspan="1">174</td><td rowspan="1" colspan="1">14.2&#x02009;&#x000b1;&#x02009;2.3</td><td rowspan="1" colspan="1">Chart review for patients aged &#x02a7d;19 who were diagnosed within 30&#x02009;d of
+SRC by physicians using consensus statement guidelines</td></tr><tr><td rowspan="1" colspan="1">Frommer et al<sup><xref rid="bibr14-1179069519830421" ref-type="bibr">14</xref></sup></td><td rowspan="1" colspan="1">Year 1: 391<break/>Year 2: 421</td><td rowspan="1" colspan="1"><italic>M</italic><sub>Year 1</sub>:
+15.9<break/><italic>M</italic><sub>Year 2</sub>: 15.9</td><td rowspan="1" colspan="1">Concussions sustained during practice or competition requiring
+AT/physician attention, resulting in restricted sport
+participation</td></tr><tr><td rowspan="1" colspan="1">Houston et al<sup><xref rid="bibr19-1179069519830421" ref-type="bibr">19</xref></sup></td><td rowspan="1" colspan="1">122</td><td rowspan="1" colspan="1">15.8&#x02009;&#x000b1;&#x02009;1.1</td><td rowspan="1" colspan="1">High school athletes sustaining an SRC</td></tr><tr><td rowspan="1" colspan="1">Iadevaia et al<sup><xref rid="bibr20-1179069519830421" ref-type="bibr">20</xref></sup></td><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">12-16</td><td rowspan="1" colspan="1">Adolescent student-athletes sustaining a first SRC who were examined
+by an AT and diagnosed by a physician</td></tr><tr><td rowspan="1" colspan="1">Kostyun et al<sup><xref rid="bibr21-1179069519830421" ref-type="bibr">21</xref></sup></td><td rowspan="1" colspan="1">545</td><td rowspan="1" colspan="1">11-18</td><td rowspan="1" colspan="1">Patients treated for SRC, identified via chart review</td></tr><tr><td rowspan="1" colspan="1">Lau et al<sup><xref rid="bibr22-1179069519830421" ref-type="bibr">22</xref></sup></td><td rowspan="1" colspan="1">108</td><td rowspan="1" colspan="1"><italic>M</italic><sub>Short</sub>:
+16.12<break/><italic>M</italic><sub>Long</sub>: 15.90</td><td rowspan="1" colspan="1">Male high school football athletes divided into early (&#x02a7d;14&#x02009;d,
+n&#x02009;=&#x02009;58) and late (&#x0003e;14&#x02009;d, n&#x02009;=&#x02009;50) symptom clearance groups</td></tr><tr><td rowspan="1" colspan="1">Makki et al<sup><xref rid="bibr23-1179069519830421" ref-type="bibr">23</xref></sup></td><td rowspan="1" colspan="1">42</td><td rowspan="1" colspan="1">14-19</td><td rowspan="1" colspan="1">Adolescent student-athletes with SRC</td></tr><tr><td rowspan="1" colspan="1">Meehan et al<sup><xref rid="bibr15-1179069519830421" ref-type="bibr">15</xref></sup></td><td rowspan="1" colspan="1">544</td><td rowspan="1" colspan="1">13-18</td><td rowspan="1" colspan="1">High school athletes sustaining a concussion.</td></tr><tr><td rowspan="1" colspan="1">Russell et al<sup><xref rid="bibr24-1179069519830421" ref-type="bibr">24</xref></sup></td><td rowspan="1" colspan="1">63</td><td rowspan="1" colspan="1">13-18</td><td rowspan="1" colspan="1">Children presenting for evaluation within 30&#x02009;d of SRC, diagnosed
+using consensus statement guidelines.</td></tr><tr><th rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">SETTING</th><th align="left" rowspan="1" colspan="1">RELEVANT MEASURES</th><th align="left" rowspan="1" colspan="1">PSYCHOLOGICAL/SOCIAL RESULTS</th></tr><tr><td rowspan="1" colspan="1">Baker et al<sup><xref rid="bibr16-1179069519830421" ref-type="bibr">16</xref></sup></td><td rowspan="1" colspan="1">Outpatient concussion clinic in New York between 2010 and 2012</td><td rowspan="1" colspan="1">Sport Concussion Assessment Tool&#x02013;2 (SCAT2), computerized
+neurocognitive testing, and follow-up phone interview</td><td rowspan="1" colspan="1">School problems associated with postconcussive symptoms (including
+irritability and trouble falling asleep) and neurocognitive
+performance &#x0003c;9th percentile</td></tr><tr><td rowspan="1" colspan="1">Collins et al<sup><xref rid="bibr17-1179069519830421" ref-type="bibr">17</xref></sup></td><td rowspan="1" colspan="1">20 high schools in University of Pittsburgh Medical Center&#x02019;s Sports
+Concussion Program</td><td rowspan="1" colspan="1">Immediate Post-concussion Assessment and Cognitive Test (ImPACT)
+within 5-7&#x02009;d</td><td rowspan="1" colspan="1">Postinjury headache was associated with postconcussive symptoms and
+lower neurocognitive performance</td></tr><tr><td rowspan="1" colspan="1">Ellis et al<sup><xref rid="bibr18-1179069519830421" ref-type="bibr">18</xref></sup></td><td rowspan="1" colspan="1">Outpatient concussion clinic in Winnipeg</td><td rowspan="1" colspan="1">Postconcussive symptom log and psychiatric history, from clinic
+visit</td><td rowspan="1" colspan="1">Emotional symptoms in 50%. Psychiatric disorder (new or worse) in
+10%, of which 25% went untreated</td></tr><tr><td rowspan="1" colspan="1">Frommer et al<sup><xref rid="bibr14-1179069519830421" ref-type="bibr">14</xref></sup></td><td rowspan="1" colspan="1">US High School Reporting Information Online (HS RIO) sport injury
+surveillance tool</td><td rowspan="1" colspan="1">Initial postconcussive symptoms, documented by the AT</td><td rowspan="1" colspan="1">Headache was the most common symptom and most frequently reported as
+primary. Drowsiness reported by more females than males</td></tr><tr><td rowspan="1" colspan="1">Houston et al<sup><xref rid="bibr19-1179069519830421" ref-type="bibr">19</xref></sup></td><td rowspan="1" colspan="1">15 high schools in Arizona</td><td rowspan="1" colspan="1">Pediatric Quality of Life Inventory (PedsQL), Multidimensional
+Fatigue Scale, and SCAT2 at 3 and 10&#x02009;d</td><td rowspan="1" colspan="1">Postconcussive symptoms negatively associated with quality of life
+(QOL). Lower physical QOL, fatigue, and school dysfunction predicted
+longer return to play</td></tr><tr><td rowspan="1" colspan="1">Iadevaia et al<sup><xref rid="bibr10-1179069519830421" ref-type="bibr">10</xref></sup></td><td rowspan="1" colspan="1">Interscholastic athletes in 2011-2012 from upper Midwest
+schools</td><td rowspan="1" colspan="1">Semi-structured interview &#x02a7e;1&#x02009;year (15.3&#x02009;&#x000b1;&#x02009;2.8&#x02009;months) after
+injury</td><td rowspan="1" colspan="1">Postconcussive symptoms significantly affected daily lives, evoked
+feelings of frustration, and impeded school attendance, activities,
+and social interactions</td></tr><tr><td rowspan="1" colspan="1">Kostyun et al<sup><xref rid="bibr21-1179069519830421" ref-type="bibr">21</xref></sup></td><td rowspan="1" colspan="1">Sports medicine concussion clinic affiliated with a Connecticut
+children&#x02019;s hospital</td><td rowspan="1" colspan="1">ImPACT within 90&#x02009;d</td><td rowspan="1" colspan="1">Sleeping &#x0003c;7&#x02009;h the night prior associated with greater
+postconcussive symptoms. Sleeping&#x02009;&#x0003e;&#x02009;9&#x02009;hours associated with lower
+neurocognitive performance</td></tr><tr><td rowspan="1" colspan="1">Lau et al<sup><xref rid="bibr22-1179069519830421" ref-type="bibr">22</xref></sup></td><td rowspan="1" colspan="1">Pennsylvania interscholastic athletic association football programs
+in 2002-2006</td><td rowspan="1" colspan="1">ImPACT within 2-3&#x02009;d and postconcussive symptom clusters</td><td rowspan="1" colspan="1">Migraine and sleep symptoms more frequent within the long recovery
+group. Migraine (but not sleep) symptoms were a risk factor for
+protracted recovery</td></tr><tr><td rowspan="1" colspan="1">Makki et al<sup><xref rid="bibr23-1179069519830421" ref-type="bibr">23</xref></sup></td><td rowspan="1" colspan="1">Outpatient concussion clinic in New York</td><td rowspan="1" colspan="1">SCAT2 symptom log and hours in school for 14&#x02009;d after clinic
+visit</td><td rowspan="1" colspan="1">Postconcussive symptoms associated with number of hours spent in
+school, controlling for time since injury</td></tr><tr><td rowspan="1" colspan="1">Meehan et al<sup><xref rid="bibr15-1179069519830421" ref-type="bibr">15</xref></sup></td><td rowspan="1" colspan="1">HS RIO</td><td rowspan="1" colspan="1">Initial postconcussive symptoms, documented by the AT</td><td rowspan="1" colspan="1">Headache was the most common symptom (93%). Drowsiness in 27% and
+irritability in 9% of injuries</td></tr><tr><td rowspan="1" colspan="1">Russell et al<sup><xref rid="bibr24-1179069519830421" ref-type="bibr">24</xref></sup></td><td rowspan="1" colspan="1">Outpatient concussion clinic in Winnipeg</td><td rowspan="1" colspan="1">Post-concussion Symptom Scale, PedsQL, and medical history, at
+initial and follow-up clinic visits</td><td rowspan="1" colspan="1">Lower physical and cognitive QOL associated with postconcussive
+symptoms and longer recovery</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn2-1179069519830421"><p>Studies were excluded if samples combined concussed pediatric athletes with
+other populations (eg, collegiate athletes).</p></fn></table-wrap-foot></table-wrap><sec id="section1-1179069519830421"><title>Emotional and Social Dysfunction</title><p>Changes in mood after SRC have been well documented, including the suggestion that
+the biochemical cascade of SRC may, at least temporarily, directly disrupt mood.<sup><xref rid="bibr25-1179069519830421" ref-type="bibr">25</xref></sup> In addition, symptoms of SRC, such as reduced concentration, headaches, and
+sleep disturbance, may negatively impact activities in daily life and produce
+stress, compounding and/or producing emotional disturbances. Restrictions from
+sport, a significant source of socialization and physical activity in youth, may
+cause further frustration due to reduced contact with teammates, worry about the
+future, and limited participation in the sport that is important to personal
+identity formation.<sup><xref rid="bibr26-1179069519830421" ref-type="bibr">26</xref></sup> Mood disturbances have been reported following mTBI,<sup><xref rid="bibr25-1179069519830421" ref-type="bibr">25</xref>,<xref rid="bibr27-1179069519830421" ref-type="bibr">27</xref>,<xref rid="bibr28-1179069519830421" ref-type="bibr">28</xref></sup> potentially
+implicating a neurobiological disruption.<sup><xref rid="bibr29-1179069519830421" ref-type="bibr">29</xref></sup></p><p>Several concussion workgroups have identified concerns about emotional well-being
+after mTBI in children and adolescents.<sup><xref rid="bibr30-1179069519830421" ref-type="bibr">30</xref>,<xref rid="bibr31-1179069519830421" ref-type="bibr">31</xref></sup> For example, maladaptive
+coping is more pronounced in student-athletes with SRC than orthopedic injuries.<sup><xref rid="bibr12-1179069519830421" ref-type="bibr">12</xref></sup> In one of the few pediatric SRC studies of emotional difficulties, which has
+been included in <xref rid="table2-1179069519830421" ref-type="table">Table
+2</xref>, half of children seen in an outpatient concussion clinic (N&#x02009;=&#x02009;174)
+experienced emotional symptoms, and poorer psychiatric outcomes were associated with
+initial symptom burden and postconcussive syndrome.<sup><xref rid="bibr18-1179069519830421" ref-type="bibr">18</xref></sup> A new onset or worsening of a psychiatric disorder occurred in 10% of their
+sample, of which 25% went untreated.<sup><xref rid="bibr18-1179069519830421" ref-type="bibr">18</xref></sup></p><sec id="section2-1179069519830421"><title>Depression</title><p>We found no SRC studies focusing on middle and high school athletes alone,
+specifically examining depression. Inferences about depression in concussed
+athletes may be informed by the broader pediatric mTBI literature. Children
+(ages 6-15) hospitalized for mTBIs of mixed etiologies were reported to be over
+9&#x02009;times more likely to have a new-onset mood diagnosis at 6 months after injury
+compared with orthopedic controls with skeletal fractures.<sup><xref rid="bibr27-1179069519830421" ref-type="bibr">27</xref></sup> Greater mood swings and withdrawal, but not depression per se, were
+described in school-aged children approximately 2&#x02009;years after concussion
+compared with age- and sex-matched controls.<sup><xref rid="bibr32-1179069519830421" ref-type="bibr">32</xref></sup> In a separate study comparing depressive symptoms at 2&#x02009;years after mTBI
+and arm injury,<sup><xref rid="bibr28-1179069519830421" ref-type="bibr">28</xref></sup> no differences were found across time points (3, 12, and 24&#x02009;months),
+although criteria for major depressive disorder were met by a larger proportion
+of patients with uncomplicated mTBI (4%-6% across time points vs 0%-3% in
+controls).</p><p>Postconcussive depressive symptoms are predictive of other symptoms (ie, pain and
+sleep) and outcomes (ie, academic and QOL) following pediatric mTBI, which
+suggests that disruptions in other areas of the child&#x02019;s life may produce or
+exacerbate low mood.<sup><xref rid="bibr33-1179069519830421" ref-type="bibr">33</xref></sup> Depressive symptoms appear, most often at subclinical levels, in children
+and adolescents after SRC and other mTBI. Further research is needed to
+determine under what conditions depression may be more likely to manifest.</p></sec><sec id="section3-1179069519830421"><title>Anxiety</title><p>Anxiety-related symptoms have not been specifically explored in pediatric SRC,
+and current literature involving mTBI due to other causes may provide guidance.
+Approximately 10% of 63 children aged 5 to 14 with mTBI developed a new-onset
+anxiety disorder within 1&#x02009;year, with younger age and premorbid anxiety being
+risk factors.<sup><xref rid="bibr34-1179069519830421" ref-type="bibr">34</xref></sup> Another investigation found concussed children (n&#x02009;=&#x02009;42) were over 4&#x02009;times
+more likely to have a new-onset anxiety diagnosis within 6&#x02009;months of injury
+compared with orthopedic controls<sup><xref rid="bibr27-1179069519830421" ref-type="bibr">27</xref></sup>; however, anxiety symptom levels were comparable in the mTBI and
+orthopedic injury groups 1 and 2&#x02009;years later.<sup><xref rid="bibr32-1179069519830421" ref-type="bibr">32</xref>,<xref rid="bibr35-1179069519830421" ref-type="bibr">35</xref></sup></p></sec><sec id="section4-1179069519830421"><title>Social functioning</title><p>Empirical evidence for the effects of SRC upon children&#x02019;s social relationships or
+development of social competence is lacking. It could be that prolonged
+disruption in a concussed athlete&#x02019;s reintegration with classmates and teammates
+might temporarily interfere with social relationships at a critical time in
+personal development. Social support after mTBI assists in improving QOL and
+physical health.<sup><xref rid="bibr30-1179069519830421" ref-type="bibr">30</xref></sup> In the absence of specific research on social functioning following SRC,
+we may extrapolate evidence from studies of children with mTBI of other
+etiologies. When measuring caregiver report of social competence in children who
+experienced TBIs of varying severity and etiology, the mTBI group (n&#x02009;=&#x02009;60)
+displayed the poorest social competence compared with both uninjured controls
+(n&#x02009;=&#x02009;43) and the moderate/severe TBI group (n&#x02009;=&#x02009;33).<sup><xref rid="bibr36-1179069519830421" ref-type="bibr">36</xref></sup> Although social adjustment problems were not present at 6&#x02009;months after mTBI,<sup><xref rid="bibr36-1179069519830421" ref-type="bibr">36</xref></sup> difficulties emerged by 2&#x02009;years when compared with uninjured controls.<sup><xref rid="bibr37-1179069519830421" ref-type="bibr">37</xref></sup> Children with mTBI may receive less support than those sustaining more
+severe injuries, which fits with the concept of mTBI as an &#x0201c;invisible injury&#x0201d;
+wherein neurobehavioral changes go unnoticed by others yet pose challenges to
+the individuals experiencing the problems.<sup><xref rid="bibr38-1179069519830421" ref-type="bibr">38</xref></sup> These findings attest to the need for further investigation of the
+effects of SRC upon social functioning of school-age athletes to understand
+their needs and provide appropriate support and intervention.</p></sec></sec><sec id="section5-1179069519830421"><title>Behavioral Problems</title><p>There is a dearth of studies investigating behavioral disorders following pediatric
+mTBI in general, and to our knowledge, none have directly addressed youth SRC. In an
+examination of a New Zealand birth cohort followed until age 16, children with a
+history of mTBI during preschool years were at greater risk of
+attention-deficit/hyperactivity, conduct, or oppositional defiant disorder during adolescence.<sup><xref rid="bibr39-1179069519830421" ref-type="bibr">39</xref></sup> Negative outcomes may be attributable to a disruption in behavioral skill
+acquisition (whether neurobiologically or psychosocially) during a critical period
+during development.<sup><xref rid="bibr39-1179069519830421" ref-type="bibr">39</xref>,<xref rid="bibr40-1179069519830421" ref-type="bibr">40</xref></sup> When comparing behavior problems including delinquency and
+aggression following mTBI with orthopedic injuries, subtle findings emerged. Youth
+(mean age = 10) had substantially worse behavior following mTBI than orthopedic
+injury according to parent, but not teacher report; however, postinjury behavior in
+adolescents (up to age 15) was similar between mTBI and control groups according to
+both parents and teachers.<sup><xref rid="bibr9-1179069519830421" ref-type="bibr">9</xref></sup></p><p>Thus far, a clear understanding of the relationship between SRC and postconcussive
+behavioral symptoms remains elusive. Conclusions from more general pediatric mTBI
+studies have also been hampered by a variety of methodological differences and
+limitations. These include small sample size, reliance on parent report, issues with
+premorbid psychiatric or behavioral concerns, little differentiation between TBI
+etiologies in analyses, and combining samples of heterogeneous TBI severity. Future
+studies will need to be conducted with larger samples with attention to aspects of
+premorbid functioning to clarify these relationships, as has been done in adult, and
+to a lesser extent pediatric samples, in the moderate/severe TBI literature.<sup><xref rid="bibr41-1179069519830421" ref-type="bibr">41</xref></sup></p></sec><sec id="section6-1179069519830421"><title>Academic Difficulties</title><p>Common symptoms of SRC such as headache, dizziness, sensory sensitivities,
+concentration difficulties, and sleep disturbance may have negative implications in
+the school environment, including problems with sustaining concentration, using
+academic resources, navigating school environments, and learning new material.<sup><xref rid="bibr42-1179069519830421" ref-type="bibr">42</xref></sup> The SRC guidelines encourage initial rest and a graduated, step-by-step
+return to normal academic activities,<sup><xref rid="bibr31-1179069519830421" ref-type="bibr">31</xref></sup> based on the idea that resuming activities too soon may exacerbate symptoms
+and potentially delay recovery. Although greater mental activity in the initial
+weeks following concussion was associated with reported symptom exacerbation,
+children who had symptom exacerbations did not experience poorer outcomes.<sup><xref rid="bibr43-1179069519830421" ref-type="bibr">43</xref></sup> There is also concern that prolonged withdrawal from the school environment
+may socially isolate a student; thus, maintaining an appropriate level of academic
+activity is important.</p><p>The optimal period of rest for each individual is unknown, however, as both too
+little and too much restriction from school participation may negatively impact
+recovery.<sup><xref rid="bibr44-1179069519830421" ref-type="bibr">44</xref><xref rid="bibr45-1179069519830421" ref-type="bibr"/>-<xref rid="bibr46-1179069519830421" ref-type="bibr">46</xref></sup> One study
+found that of 45% of 170 concussed students examined, the athlete returned to school
+&#x0201c;too soon&#x0201d; after concussion, as determined by physician chart review, resulting in a
+recurrence or worsening of symptoms.<sup><xref rid="bibr47-1179069519830421" ref-type="bibr">47</xref></sup> In addition, a recent prospective study (briefly outlined in <xref rid="table2-1179069519830421" ref-type="table">Table 2</xref>) indicated that
+too many hours of school after concussion exacerbated symptoms.<sup><xref rid="bibr23-1179069519830421" ref-type="bibr">23</xref></sup> While limiting cognitive activity within academic environments acutely after
+injury may reduce the risk of persistent postconcussive symptoms,<sup><xref rid="bibr48-1179069519830421" ref-type="bibr">48</xref></sup> moderate levels of mental and physical activity have been associated with
+better neurocognitive performance for student-athletes in the initial days to weeks
+following injury.<sup><xref rid="bibr49-1179069519830421" ref-type="bibr">49</xref></sup></p><p>Factors that have been most associated with return-to-learn (RTL) issues after SRC
+include concussion severity and prolonged recovery. A study of middle and high
+school athletes with observed concussions (described in <xref rid="table2-1179069519830421" ref-type="table">Table 2</xref>) linked postconcussive symptoms and
+impaired neurocognitive performance with school problems.<sup><xref rid="bibr16-1179069519830421" ref-type="bibr">16</xref></sup> Symptom monitoring in the academic setting is critical, as school concerns
+have been reported by actively symptomatic students and their parents following
+pediatric mTBI, with greater symptom severity associated with more school-related
+problems and worse academic effects.<sup><xref rid="bibr50-1179069519830421" ref-type="bibr">50</xref></sup> While this relationship held for both parent and adolescent symptom ratings,
+younger students aged 10 to 12 denied problems by self-report.</p></sec><sec id="section7-1179069519830421"><title>Sleep Disturbance</title><p>Sleep disturbance is a significant consequence of SRC, as normal sleeping patterns
+are often altered initially following concussion and disruptions may remain
+throughout the child&#x02019;s recovery.<sup><xref rid="bibr51-1179069519830421" ref-type="bibr">51</xref></sup> Neurocognitive function during recovery from SRC may be particularly affected
+by disrupted sleep, although present examinations of this question have been
+limited. In a high school athlete surveillance study (n&#x02009;=&#x02009;544; see <xref rid="table2-1179069519830421" ref-type="table">Table 2</xref> for more detail),
+nearly a third of adolescents self-reported excessive sleep or trouble falling
+asleep following SRC.<sup><xref rid="bibr15-1179069519830421" ref-type="bibr">15</xref></sup> In a similar pediatric sport concussion sample (n&#x02009;=&#x02009;545; also described in
+<xref rid="table2-1179069519830421" ref-type="table">Table 2</xref>), excessive
+sleep (longer than 9&#x02009;hours) the night prior to postconcussion testing was associated
+with reduced visual memory, visual motor speed, and reaction time.<sup><xref rid="bibr21-1179069519830421" ref-type="bibr">21</xref></sup></p><p>Although few sleep studies in SRC have been conducted, sleep difficulties have been
+associated with poorer functional, social, and emotional outcomes in the general
+pediatric mTBI literature.<sup><xref rid="bibr52-1179069519830421" ref-type="bibr">52</xref>,<xref rid="bibr53-1179069519830421" ref-type="bibr">53</xref></sup> Changes in a child&#x02019;s normal sleeping patterns following SRC may
+hinder recovery and worsen other symptoms and outcome.<sup><xref rid="bibr15-1179069519830421" ref-type="bibr">15</xref>,<xref rid="bibr54-1179069519830421" ref-type="bibr">54</xref></sup> In contrast to subjective
+report, findings regarding sleep disturbance from studies using actigraphy and
+polysomnography have been inconsistent within the pediatric mTBI literature.
+Polysomnographic sleep activity did not differ in a study of 10 athletes following
+SRC and 11 healthy athletes from noncontract sports.<sup><xref rid="bibr20-1179069519830421" ref-type="bibr">20</xref></sup> However, greater objectively measured sleep problems have been documented in
+adolescents with mTBI compared with controls.<sup><xref rid="bibr55-1179069519830421" ref-type="bibr">55</xref>,<xref rid="bibr56-1179069519830421" ref-type="bibr">56</xref></sup></p><p>Sleep allows the brain to restore its normal neurometabolic homeostasis, and fatigue
+has been posited as a protective mechanism from overexertion of cognitive
+activities<sup><xref rid="bibr21-1179069519830421" ref-type="bibr">21</xref>,<xref rid="bibr57-1179069519830421" ref-type="bibr">57</xref></sup>; however, excessive sleep or fatigue may be detrimental. While
+some rest after injury appears to be beneficial, mounting evidence suggests that too
+much rest can be associated with prolonged symptoms.<sup><xref rid="bibr45-1179069519830421" ref-type="bibr">45</xref></sup> Thus, further investigation of sleep disturbance following pediatric SRC may
+aid in determining optimal levels of prescriptive rest.</p></sec><sec id="section8-1179069519830421"><title>Headache</title><p>Pain can have a negative impact on daily activities, mental health, sleep, and
+personal relationships.<sup><xref rid="bibr58-1179069519830421" ref-type="bibr">58</xref></sup> Complaints of acute and chronic headache are frequently reported after SRC,
+occurring in more than 90% of high school concussions,<sup><xref rid="bibr15-1179069519830421" ref-type="bibr">15</xref></sup> and may co-occur with other physical, emotional, and cognitive complaints.
+High school athletes with postconcussive headache at 1&#x02009;week after injury (n&#x02009;=&#x02009;36)
+were more likely to endorse other symptoms than those without headache (n&#x02009;=&#x02009;73;
+study outlined in <xref rid="table2-1179069519830421" ref-type="table">Table
+2</xref>).<sup><xref rid="bibr17-1179069519830421" ref-type="bibr">17</xref></sup> Headache is not only a key symptom that in combination with other on-field
+indications leads to a suspected or diagnosed concussion but also serves as an
+important determining factor in players&#x02019; RTP. In a sample of Pennsylvania high
+school football programs, athletes with concussion symptoms lasting &#x0003e;14&#x02009;days
+(n&#x02009;=&#x02009;50) were more likely to have migraines than those recovering within 2&#x02009;weeks
+(n&#x02009;=&#x02009;58; see <xref rid="table2-1179069519830421" ref-type="table">Table 2</xref> for
+more detail).<sup><xref rid="bibr22-1179069519830421" ref-type="bibr">22</xref></sup></p><p>Presentation of headache symptoms appears to differ by age, gender, and informant,
+likely due to differences in communication of symptoms. Postinjury headache is more
+common in children with mTBI (43% of 402) than arm fractures (26% of 122), with a
+larger discrepancy for adolescent females (55% vs 23%).<sup><xref rid="bibr59-1179069519830421" ref-type="bibr">59</xref></sup> At 3&#x02009;months after injury, headache remained more common for children with
+mTBI than extracranial trauma.<sup><xref rid="bibr6-1179069519830421" ref-type="bibr">6</xref></sup> In a representative US sample (n&#x02009;=&#x02009;6483), caregivers were less likely to
+identify headache symptoms reported by their adolescent children.<sup><xref rid="bibr60-1179069519830421" ref-type="bibr">60</xref></sup></p><p>In the pediatric mTBI literature, rates of chronic headache vary. In a sample of 406
+children and adolescents with mTBI, headache was present in 31% at 3&#x02009;months.<sup><xref rid="bibr61-1179069519830421" ref-type="bibr">61</xref></sup> A larger sample of children reporting to an emergency department following
+mTBI (n&#x02009;=&#x02009;670), however, found that only 11% experienced posttraumatic headaches
+initially, with reduction to 8% at 3&#x02009;months.<sup><xref rid="bibr62-1179069519830421" ref-type="bibr">62</xref></sup> The transition of acute post-mTBI headache pain to chronic pain following
+pediatric SRC is poorly understood, and extrapolated evidence from more severe head
+injury would indicate this transition involves complex interactions between
+neurobiological and psychosocial factors.<sup><xref rid="bibr63-1179069519830421" ref-type="bibr">63</xref></sup></p></sec><sec id="section9-1179069519830421"><title>Quality of Life</title><p>QOL is a multidimensional construct that involves evaluation of life satisfaction.
+Health-related QOL specifically addresses the impact of health on physical, mental,
+and social well-being. In a study of 15 Arizona high schools, athletes with greater
+postconcussive symptoms had reduced QOL, and lower physical QOL was linked to longer recovery.<sup><xref rid="bibr19-1179069519830421" ref-type="bibr">19</xref></sup> Lower physical and cognitive QOL acutely following SRC was associated with
+postconcussive symptoms and longer recovery in a sample recruited from outpatient
+concussion clinics.<sup><xref rid="bibr24-1179069519830421" ref-type="bibr">24</xref></sup> These studies are described in more detail in <xref rid="table2-1179069519830421" ref-type="table">Table 2</xref>.<sup><xref rid="bibr19-1179069519830421" ref-type="bibr">19</xref>,<xref rid="bibr24-1179069519830421" ref-type="bibr">24</xref></sup> After pediatric mTBI, QOL
+ratings remained significantly below normative levels, even after symptom resolution.<sup><xref rid="bibr64-1179069519830421" ref-type="bibr">64</xref></sup> Using clinical cutoffs, poor health-related QOL was reported in 11% of mTBI
+children at 3&#x02009;months and 13% at 12&#x02009;months following concussion.<sup><xref rid="bibr65-1179069519830421" ref-type="bibr">65</xref></sup></p><p>A recent systematic review of pediatric mTBI and health-related QOL had mixed
+findings, with several studies documenting marginal or nonsignificant postinjury
+changes in QOL.<sup><xref rid="bibr66-1179069519830421" ref-type="bibr">66</xref></sup> Prospective studies indicate postinjury QOL ratings across time points
+appeared no different than baseline estimates, with similar ratings from children
+and caregivers.<sup><xref rid="bibr67-1179069519830421" ref-type="bibr">67</xref>,<xref rid="bibr68-1179069519830421" ref-type="bibr">68</xref></sup> It is notable that postinjury QOL ratings have not been
+significantly different between mTBI and orthopedic injury groups,<sup><xref rid="bibr69-1179069519830421" ref-type="bibr">69</xref>,<xref rid="bibr70-1179069519830421" ref-type="bibr">70</xref></sup> even
+considering baseline QOL.<sup><xref rid="bibr71-1179069519830421" ref-type="bibr">71</xref></sup> Overall, QOL impairments observed after pediatric concussion appear generally
+minimal, with symptom burden likely driving the disruption.<sup><xref rid="bibr70-1179069519830421" ref-type="bibr">70</xref></sup></p></sec><sec id="section10-1179069519830421"><title>Discussion</title><p>Empirical investigation of the consequences of SRC has increased dramatically in the
+past decade, with much attention on professional and collegiate athletes. Less
+research emphasis has been placed on younger athletes, particularly with regard to
+psychological and social adjustment issues. This review explored these and related
+domains (ie, emotional/social functioning, behavioral problems, academic
+difficulties, sleep disturbances, headache, and QOL) following SRC in school-aged
+and adolescent student-athletes (summarized in <xref rid="table2-1179069519830421" ref-type="table">Table 2</xref>). General pediatric mTBI studies
+were included, as they provide a basis for understanding possible outcomes of SRC
+where few specific SRC studies are available.</p><p>Our overall conclusion is that a solid understanding of both the short-term and
+long-term emotional and behavioral sequelae of SRC in pediatric populations has yet
+to be achieved. As research about the psychosocial outcomes of SRC expands,
+clinicians will be able to more accurately anticipate the psychosocial needs of
+concussed student-athletes. Identification of issues early in the course of recovery
+may allow for attenuation of prolonged affective and behavioral disturbances. To
+this end, more complete knowledge of the risk factors and psychosocial outcomes
+related to SRC and clinical attention to these areas in children and adolescents is
+needed. Some postconcussion mood symptoms may be subsyndromic and not reach the
+clinical threshold of diagnosis, although behavioral problems occur at a higher rate
+in children and adolescents following mTBI. In addition, there is a paucity of
+information about factors related to the development of more prolonged or severe
+psychological distress and who may be at risk.</p><p>Relevant to psychosocial outcomes, the optimal amount of cognitive and physical rest
+following concussion is currently under debate. While some initial rest is usually
+indicated, this should not come at the expense of delaying successful reintegration.
+First, it is important to consider when and how concussion symptoms might affect
+academic performance. Children and adolescents spend a good part of their day in
+school, and school adjustment and performance have important implications for
+identity/social development and future academic and even occupational potential. Up
+to 73% of concussed athletes may need academic accommodations, and accommodations
+are more often provided to students within schools that have a concussion policy in place.<sup><xref rid="bibr72-1179069519830421" ref-type="bibr">72</xref></sup> However, only 53% of school nurses (n&#x02009;=&#x02009;1027)<sup><xref rid="bibr73-1179069519830421" ref-type="bibr">73</xref></sup> and 44% of athletic trainers (n&#x02009;=&#x02009;995)<sup><xref rid="bibr74-1179069519830421" ref-type="bibr">74</xref></sup> reported awareness of existing RTL guidelines. Emotional distress and social
+withdrawal, whether or not accompanied by academic failure, have the potential to
+affect interpersonal connections, which are at the heart of identity development,
+particularly for adolescents.</p><p>Future research should address study design limitations common in mTBI recovery.<sup><xref rid="bibr75-1179069519830421" ref-type="bibr">75</xref></sup> In particular, notable heterogeneity in research designs makes conclusions
+about emotional and behavioral symptoms following SRC difficult. For example,
+parent, teacher, and self-report of social-emotional and behavioral symptoms are
+often discrepant,<sup><xref rid="bibr76-1179069519830421" ref-type="bibr">76</xref>,<xref rid="bibr77-1179069519830421" ref-type="bibr">77</xref></sup> and children with mTBI report more somatic symptoms of
+concussion than do their parents.<sup><xref rid="bibr78-1179069519830421" ref-type="bibr">78</xref></sup> Therefore, the sources for symptom reporting should be specified. Parent
+reports may differ due to misattribution of premorbid psychiatric symptoms.<sup><xref rid="bibr79-1179069519830421" ref-type="bibr">79</xref></sup> Family functioning including perceived family relationships and distress is
+poorly understood in the context of concussion outcomes.</p><p>Research should also be translated into clinical practice by directing efforts toward
+identifying appropriate interventions and accommodations for both acute and
+prolonged concussion symptoms. Emotional symptoms may go unrecognized because of
+lack of knowledge about concussion. Early intervention is expected to mitigate the
+distress experienced by concussed athletes in the short term and help to avert the
+development of prolonged psychosocial consequences. Education, particularly directed
+to school staff, is crucial. Informed management of psychological sequelae of SRC
+such as depression can range from informal support to referrals for therapies.<sup><xref rid="bibr18-1179069519830421" ref-type="bibr">18</xref></sup></p></sec><sec id="section11-1179069519830421"><title>Conclusions</title><p>Although symptoms of concussion typically resolve within days or weeks, for some
+children and adolescents sequelae can persist for months; this variability in
+recovery is not fully understood. The consequences of SRC are well documented for
+cognitive and physical domains. However, emotional, behavioral, and social
+implications are less robust, particularly for young athletes. Current studies
+suggest psychological sequelae of concussion such as heightened emotional reactivity
+and irritability at least temporarily disrupt daily life, and symptoms of depression
+and anxiety may be present. Conclusions about potential disruption in social and
+academic functioning are less specific. Student-athletes experience a unique set of
+psychological issues following SRC, given the importance of athletics and related
+social activities in their lives. The available body of literature about these
+issues following SRC is small, and future well-controlled research is needed with
+larger samples.</p></sec></body><back><fn-group><fn fn-type="financial-disclosure"><p><bold>Funding:</bold>The author(s) disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: This work was
+supported by the UT Southwestern Texas Institute for Brain Injury and
+Repair.</p></fn><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold>The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="con"><p><bold>Author Contributions:</bold> KW and CH conducted database queries and identified relevant literature. KW, AT,
+CH, TT, and CHS reviewed selected articles and reference lists. All authors
+contributed, reviewed, and approved of the final manuscript.</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Kristin Wilmoth <inline-graphic xlink:href="10.1177_1179069519830421-img1.jpg"/>
+<ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0003-4192-8756">https://orcid.org/0000-0003-4192-8756</ext-link></p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-1179069519830421"><label>1</label><mixed-citation publication-type="journal">
+<collab>Centers for Disease Control and Prevention</collab>.
+<article-title>Nonfatal traumatic brain injuries related to sports and
+recreation activities among persons aged &#x0003c;/=19&#x02009;years&#x02014;United States,
+2001-2009</article-title>. <source>MMWR</source>.
+<year>2011</year>;<volume>60</volume>:<fpage>1337</fpage>&#x02013;<lpage>1342</lpage>.<pub-id pub-id-type="pmid">21976115</pub-id></mixed-citation></ref><ref id="bibr2-1179069519830421"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ayr</surname><given-names>LK</given-names></name><name><surname>Yeates</surname><given-names>KO</given-names></name><name><surname>Taylor</surname><given-names>HG</given-names></name><name><surname>Browne</surname><given-names>M.</given-names></name></person-group>
+<article-title>Dimensions of postconcussive symptoms in children with mild
+traumatic brain injuries</article-title>. <source>J Int Neuropsychol
+Soc</source>.
+<year>2009</year>;<volume>15</volume>:<fpage>19</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">19128525</pub-id></mixed-citation></ref><ref id="bibr3-1179069519830421"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heyer</surname><given-names>GL</given-names></name><name><surname>Schaffer</surname><given-names>CE</given-names></name><name><surname>Rose</surname><given-names>SC</given-names></name><name><surname>Young</surname><given-names>JA</given-names></name><name><surname>McNally</surname><given-names>KA</given-names></name><name><surname>Fischer</surname><given-names>AN.</given-names></name></person-group>
+<article-title>Specific factors influence postconcussion symptom duration among
+youth referred to a sports concussion clinic</article-title>. <source>J
+Pediatr</source>.
+<year>2016</year>;<volume>174</volume>:<fpage>33</fpage>&#x02013;<lpage>38.e2</lpage>.<pub-id pub-id-type="pmid">27056449</pub-id></mixed-citation></ref><ref id="bibr4-1179069519830421"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Teel</surname><given-names>EF</given-names></name><name><surname>Marshall</surname><given-names>SW</given-names></name><name><surname>Shankar</surname><given-names>V</given-names></name><name><surname>McCrea</surname><given-names>M</given-names></name><name><surname>Guskiewicz</surname><given-names>KM.</given-names></name></person-group>
+<article-title>Predicting recovery patterns after sport-related
+concussion</article-title>. <source>J Athl Train</source>.
+<year>2017</year>;<volume>52</volume>:<fpage>288</fpage>&#x02013;<lpage>298</lpage>.<pub-id pub-id-type="pmid">28387552</pub-id></mixed-citation></ref><ref id="bibr5-1179069519830421"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bloom</surname><given-names>GA</given-names></name><name><surname>Horton</surname><given-names>AS</given-names></name><name><surname>McCrory</surname><given-names>P</given-names></name><name><surname>Johnston</surname><given-names>KM.</given-names></name></person-group>
+<article-title>Sport psychology and concussion: new impacts to
+explore</article-title>. <source>Br J Sports Med</source>.
+<year>2004</year>;<volume>38</volume>:<fpage>519</fpage>&#x02013;<lpage>521</lpage>.<pub-id pub-id-type="pmid">15388529</pub-id></mixed-citation></ref><ref id="bibr6-1179069519830421"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barlow</surname><given-names>KM</given-names></name><name><surname>Crawford</surname><given-names>S</given-names></name><name><surname>Stevenson</surname><given-names>A</given-names></name><name><surname>Sandhu</surname><given-names>SS</given-names></name><name><surname>Belanger</surname><given-names>F</given-names></name><name><surname>Dewey</surname><given-names>D.</given-names></name></person-group>
+<article-title>Epidemiology of postconcussion syndrome in pediatric mild
+traumatic brain injury</article-title>. <source>Pediatrics</source>.
+<year>2010</year>;<volume>126</volume>:<fpage>e374</fpage>&#x02013;<lpage>e381</lpage>.<pub-id pub-id-type="pmid">20660554</pub-id></mixed-citation></ref><ref id="bibr7-1179069519830421"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ponsford</surname><given-names>J</given-names></name><name><surname>Willmott</surname><given-names>C</given-names></name><name><surname>Rothwell</surname><given-names>A</given-names></name><etal>et al</etal></person-group>
+<article-title>Impact of early intervention on outcome after
+mild traumatic brain injury in children</article-title>.
+<source>Pediatrics</source>.
+<year>2001</year>;<volume>108</volume>:<fpage>1297</fpage>&#x02013;<lpage>1303</lpage>.<pub-id pub-id-type="pmid">11731651</pub-id></mixed-citation></ref><ref id="bibr8-1179069519830421"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Taylor</surname><given-names>HG</given-names></name><name><surname>Dietrich</surname><given-names>A</given-names></name><name><surname>Nuss</surname><given-names>K</given-names></name><etal>et al</etal></person-group>
+<article-title>Post-concussive symptoms in children with mild
+traumatic brain injury</article-title>. <source>Neuropsychology</source>.
+<year>2010</year>;<volume>24</volume>:<fpage>148</fpage>&#x02013;<lpage>159</lpage>.<pub-id pub-id-type="pmid">20230109</pub-id></mixed-citation></ref><ref id="bibr9-1179069519830421"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Taylor</surname><given-names>HG</given-names></name><name><surname>Orchinik</surname><given-names>LJ</given-names></name><name><surname>Minich</surname><given-names>N</given-names></name><etal>et al</etal></person-group>
+<article-title>Symptoms of persistent behavior problems in
+children with mild traumatic brain injury</article-title>. <source>J Head
+Trauma Rehabil</source>.
+<year>2015</year>;<volume>30</volume>:<fpage>302</fpage>&#x02013;<lpage>310</lpage>.<pub-id pub-id-type="pmid">25629259</pub-id></mixed-citation></ref><ref id="bibr10-1179069519830421"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iadevaia</surname><given-names>C</given-names></name><name><surname>Roiger</surname><given-names>T</given-names></name><name><surname>Zwart</surname><given-names>MB.</given-names></name></person-group>
+<article-title>Qualitative examination of adolescent health-related quality of
+life at 1&#x02009;year postconcussion</article-title>. <source>J Athl
+Train</source>.
+<year>2015</year>;<volume>50</volume>:<fpage>1182</fpage>&#x02013;<lpage>1189</lpage>.<pub-id pub-id-type="pmid">26509684</pub-id></mixed-citation></ref><ref id="bibr11-1179069519830421"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Emery</surname><given-names>CA</given-names></name><name><surname>Barlow</surname><given-names>KM</given-names></name><name><surname>Brooks</surname><given-names>BL</given-names></name><etal>et al</etal></person-group>
+<article-title>A systematic review of psychiatric,
+psychological, and behavioural outcomes following mild traumatic brain
+injury in children and adolescents</article-title>. <source>Can J
+Psychiatry</source>.
+<year>2016</year>;<volume>61</volume>:<fpage>259</fpage>&#x02013;<lpage>269</lpage>.<pub-id pub-id-type="pmid">27254800</pub-id></mixed-citation></ref><ref id="bibr12-1179069519830421"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Covassin</surname><given-names>T</given-names></name><name><surname>Elbin</surname><given-names>RJ</given-names></name><name><surname>Beidler</surname><given-names>E</given-names></name><name><surname>Lafevor</surname><given-names>M</given-names></name><name><surname>Kontos</surname><given-names>AP.</given-names></name></person-group>
+<article-title>A review of psychological issues that may be associated with a
+sport-related concussion in youth and collegiate athletes</article-title>.
+<source>Sport Exerc Perform</source>.
+<year>2017</year>;<volume>6</volume>:<fpage>220</fpage>&#x02013;<lpage>229</lpage>.</mixed-citation></ref><ref id="bibr13-1179069519830421"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karr</surname><given-names>JE</given-names></name><name><surname>Areshenkoff</surname><given-names>CN</given-names></name><name><surname>Garcia-Barrera</surname><given-names>MA.</given-names></name></person-group>
+<article-title>The neuropsychological outcomes of concussion: a systematic
+review of meta-analyses on the cognitive sequelae of mild traumatic brain
+injury</article-title>. <source>Neuropsychology</source>.
+<year>2014</year>;<volume>28</volume>:<fpage>321</fpage>&#x02013;<lpage>336</lpage>.<pub-id pub-id-type="pmid">24219611</pub-id></mixed-citation></ref><ref id="bibr14-1179069519830421"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Frommer</surname><given-names>LJ</given-names></name><name><surname>Gurka</surname><given-names>KK</given-names></name><name><surname>Cross</surname><given-names>KM</given-names></name><name><surname>Ingersoll</surname><given-names>CD</given-names></name><name><surname>Comstock</surname><given-names>RD</given-names></name><name><surname>Saliba</surname><given-names>SA.</given-names></name></person-group>
+<article-title>Sex differences in concussion symptoms of high school
+athletes</article-title>. <source>J Athl Train</source>.
+<year>2011</year>;<volume>46</volume>:<fpage>76</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">21214354</pub-id></mixed-citation></ref><ref id="bibr15-1179069519830421"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meehan</surname><given-names>WP</given-names></name><name><surname>d&#x02019;Hemecourt</surname><given-names>P</given-names></name><name><surname>Comstock</surname><given-names>RD</given-names></name></person-group>
+<article-title>High school concussions in the 2008-2009
+academic year: mechanism, symptoms, and management</article-title>.
+<source>Am J Sports Med</source>.
+<year>2010</year>;<volume>38</volume>:<fpage>2405</fpage>&#x02013;<lpage>2409</lpage>.<pub-id pub-id-type="pmid">20716683</pub-id></mixed-citation></ref><ref id="bibr16-1179069519830421"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baker</surname><given-names>JG</given-names></name><name><surname>Leddy</surname><given-names>JJ</given-names></name><name><surname>Darling</surname><given-names>SR</given-names></name><etal>et al</etal></person-group>
+<article-title>Factors associated with problems for adolescents
+returning to the classroom after sport-related concussion</article-title>.
+<source>Clin Pediatr</source>.
+<year>2015</year>;<volume>54</volume>:<fpage>961</fpage>&#x02013;<lpage>968</lpage>.</mixed-citation></ref><ref id="bibr17-1179069519830421"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Collins</surname><given-names>MW</given-names></name><name><surname>Field</surname><given-names>M</given-names></name><name><surname>Lovell</surname><given-names>MR</given-names></name><etal>et al</etal></person-group>
+<article-title>Relationship between postconcussion headache and
+neuropsychological test performance in high school athletes</article-title>.
+<source>Am J Sports Med</source>.
+<year>2003</year>;<volume>31</volume>:<fpage>168</fpage>&#x02013;<lpage>173</lpage>.<pub-id pub-id-type="pmid">12642248</pub-id></mixed-citation></ref><ref id="bibr18-1179069519830421"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellis</surname><given-names>MJ</given-names></name><name><surname>Ritchie</surname><given-names>LJ</given-names></name><name><surname>Koltek</surname><given-names>M</given-names></name><etal>et al</etal></person-group>
+<article-title>Psychiatric outcomes after pediatric
+sports-related concussion</article-title>. <source>J Neurosurg
+Pediatr</source>.
+<year>2015</year>;<volume>16</volume>:<fpage>709</fpage>&#x02013;<lpage>718</lpage>.<pub-id pub-id-type="pmid">26359916</pub-id></mixed-citation></ref><ref id="bibr19-1179069519830421"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Houston</surname><given-names>MN</given-names></name><name><surname>Bay</surname><given-names>RC</given-names></name><name><surname>Valovich McLeod</surname><given-names>TC.</given-names></name></person-group>
+<article-title>The relationship between post-injury measures of cognition,
+balance, symptom reports and health-related quality-of-life in adolescent
+athletes with concussion</article-title>. <source>Brain Inj</source>.
+<year>2016</year>;<volume>30</volume>:<fpage>891</fpage>&#x02013;<lpage>898</lpage>.<pub-id pub-id-type="pmid">27088297</pub-id></mixed-citation></ref><ref id="bibr20-1179069519830421"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gosselin</surname><given-names>N</given-names></name><name><surname>Lassonde</surname><given-names>M</given-names></name><name><surname>Petit</surname><given-names>D</given-names></name><etal>et al</etal></person-group>
+<article-title>Sleep following sport-related
+concussions</article-title>. <source>Sleep Med</source>.
+<year>2009</year>;<volume>10</volume>:<fpage>35</fpage>&#x02013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">18226956</pub-id></mixed-citation></ref><ref id="bibr21-1179069519830421"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kostyun</surname><given-names>R</given-names></name><name><surname>Milewski</surname><given-names>MD</given-names></name><name><surname>Hafeez</surname><given-names>I.</given-names></name></person-group>
+<article-title>Sleep disturbance and neurocognitive function during the recovery
+from a sport-related concussion in adolescents</article-title>. <source>Am J
+Sports Med</source>.
+<year>2015</year>;<volume>43</volume>:<fpage>633</fpage>&#x02013;<lpage>640</lpage>.<pub-id pub-id-type="pmid">25520301</pub-id></mixed-citation></ref><ref id="bibr22-1179069519830421"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lau</surname><given-names>BC</given-names></name><name><surname>Collins</surname><given-names>MW</given-names></name><name><surname>Lovell</surname><given-names>MR.</given-names></name></person-group>
+<article-title>Sensitivity and specificity of subacute computerized
+neurocognitive testing and symptom evaluation in predicting outcomes after
+sports-related concussion</article-title>. <source>Am J Sports Med</source>.
+<year>2011</year>;<volume>39</volume>:<fpage>1209</fpage>&#x02013;<lpage>1216</lpage>.<pub-id pub-id-type="pmid">21285444</pub-id></mixed-citation></ref><ref id="bibr23-1179069519830421"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Makki</surname><given-names>AY</given-names></name><name><surname>Leddy</surname><given-names>J</given-names></name><name><surname>Hinds</surname><given-names>A</given-names></name><etal>et al</etal></person-group>
+<article-title>School attendance and symptoms in adolescents
+after sport-related concussion</article-title>. <source>Glob Pediatr
+Health</source>.
+<year>2016</year>;<volume>3</volume>:2333794X16630493.</mixed-citation></ref><ref id="bibr24-1179069519830421"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Russell</surname><given-names>K</given-names></name><name><surname>Selci</surname><given-names>E</given-names></name><name><surname>Chu</surname><given-names>S</given-names></name><name><surname>Fineblit</surname><given-names>S</given-names></name><name><surname>Ritchie</surname><given-names>L</given-names></name><name><surname>Ellis</surname><given-names>MJ.</given-names></name></person-group>
+<article-title>Longitudinal assessment of health-related quality of life
+following adolescent sports-related concussion</article-title>. <source>J
+Neurotrauma</source>.
+<year>2017</year>;<volume>34</volume>:<fpage>2147</fpage>&#x02013;<lpage>2153</lpage>.<pub-id pub-id-type="pmid">28077006</pub-id></mixed-citation></ref><ref id="bibr25-1179069519830421"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mainwaring</surname><given-names>LM</given-names></name><name><surname>Hutchison</surname><given-names>M</given-names></name><name><surname>Bisschop</surname><given-names>SM</given-names></name><name><surname>Comper</surname><given-names>P</given-names></name><name><surname>Richards</surname><given-names>DW.</given-names></name></person-group>
+<article-title>Emotional response to sport concussion compared to ACL
+injury</article-title>. <source>Brain Inj</source>.
+<year>2010</year>;<volume>24</volume>:<fpage>589</fpage>&#x02013;<lpage>597</lpage>.<pub-id pub-id-type="pmid">20235761</pub-id></mixed-citation></ref><ref id="bibr26-1179069519830421"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meehan</surname><given-names>WP</given-names><suffix>III</suffix></name></person-group>
+<article-title>Medical therapies for
+concussion</article-title>. <source>Clin Sports Med</source>.
+<year>2011</year>;<volume>30</volume>:<fpage>115</fpage>&#x02013;<lpage>124</lpage>,
+ix.<pub-id pub-id-type="pmid">21074086</pub-id></mixed-citation></ref><ref id="bibr27-1179069519830421"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Luis</surname><given-names>CA</given-names></name><name><surname>Mittenberg</surname><given-names>W.</given-names></name></person-group>
+<article-title>Mood and anxiety disorders following pediatric traumatic brain
+injury: a prospective study</article-title>. <source>J Clin Exp
+Neuropsychol</source>.
+<year>2002</year>;<volume>24</volume>:<fpage>270</fpage>&#x02013;<lpage>279</lpage>.<pub-id pub-id-type="pmid">11992209</pub-id></mixed-citation></ref><ref id="bibr28-1179069519830421"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>O&#x02019;Connor</surname><given-names>SS</given-names></name><name><surname>Zatzick</surname><given-names>DF</given-names></name><name><surname>Wang</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>Association between posttraumatic stress,
+depression, and functional impairments in adolescents 24&#x02009;months after
+traumatic brain injury</article-title>. <source>Journal of Traumatic
+Stress</source>.
+<year>2012</year>;<volume>25</volume>:<fpage>264</fpage>&#x02013;<lpage>271</lpage>.<pub-id pub-id-type="pmid">22729979</pub-id></mixed-citation></ref><ref id="bibr29-1179069519830421"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ho</surname><given-names>RA</given-names></name><name><surname>Hall</surname><given-names>GB</given-names></name><name><surname>Noseworthy</surname><given-names>MD</given-names></name><name><surname>DeMatteo</surname><given-names>C.</given-names></name></person-group>
+<article-title>An emotional Go/No-Go fMRI study in adolescents with depressive
+symptoms following concussion</article-title>. <source>Int J
+Psychophysiol</source>.
+<year>2018</year>;<volume>132</volume>:<fpage>62</fpage>&#x02013;<lpage>73</lpage>.<pub-id pub-id-type="pmid">28986325</pub-id></mixed-citation></ref><ref id="bibr30-1179069519830421"><label>30</label><mixed-citation publication-type="gov">
+<person-group person-group-type="author"><name><surname>Lumba-Brown</surname><given-names>A</given-names></name><name><surname>Yeates</surname><given-names>KO</given-names></name><name><surname>Gioia</surname><given-names>G</given-names></name><etal>et al</etal></person-group>
+<article-title>Report from the pediatric mild traumatic brain
+injury guideline workgroup: systematic review and clinical recommendations
+for healthcare providers on the diagnosis and management of mild traumatic
+brain injury among children</article-title>. <ext-link ext-link-type="uri" xlink:href="https://www.cdc.gov/injury/pdfs/bsc/systematicreviewcompilation_august_2016.pdf">https://www.cdc.gov/injury/pdfs/bsc/systematicreviewcompilation_august_2016.pdf</ext-link>.</mixed-citation></ref><ref id="bibr31-1179069519830421"><label>31</label><mixed-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>McCrory</surname><given-names>P</given-names></name><name><surname>Meeuwisse</surname><given-names>W</given-names></name><name><surname>Dvorak</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>Consensus statement on concussion in sport-the
+5th international conference on concussion in sport held in Berlin, October
+2016</article-title>. <conf-name>Br J Sports Med</conf-name>
+<year>2017</year>;<volume>51</volume>:<fpage>838</fpage>&#x02013;<lpage>847</lpage>.</mixed-citation></ref><ref id="bibr32-1179069519830421"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hawley</surname><given-names>CA</given-names></name><name><surname>Ward</surname><given-names>AB</given-names></name><name><surname>Magnay</surname><given-names>AR</given-names></name><name><surname>Long</surname><given-names>J.</given-names></name></person-group>
+<article-title>Outcomes following childhood head injury: a population
+study</article-title>. <source>J Neurol Neurosurg Psychiatry</source>.
+<year>2004</year>;<volume>75</volume>:<fpage>737</fpage>&#x02013;<lpage>742</lpage>.<pub-id pub-id-type="pmid">15090570</pub-id></mixed-citation></ref><ref id="bibr33-1179069519830421"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kwan</surname><given-names>V</given-names></name><name><surname>Vo</surname><given-names>M</given-names></name><name><surname>Noel</surname><given-names>M</given-names></name><name><surname>Yeates</surname><given-names>K</given-names></name></person-group>
+<article-title>A scoping review of pain in children after
+traumatic brain injury: is there more than headache?</article-title>
+[published online ahead of print February 9, 2018]. <source>J
+Neurotrauma</source>. doi:<pub-id pub-id-type="doi">10.1089/neu.2017.5281</pub-id>.</mixed-citation></ref><ref id="bibr34-1179069519830421"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Max</surname><given-names>JE</given-names></name><name><surname>Lopez</surname><given-names>A</given-names></name><name><surname>Wilde</surname><given-names>EA</given-names></name><etal>et al</etal></person-group>
+<article-title>Anxiety disorders in children and adolescents in
+the second six months after traumatic brain injury</article-title>.
+<source>J Pediatr Rehabil Med</source>.
+<year>2015</year>;<volume>8</volume>:<fpage>345</fpage>&#x02013;<lpage>355</lpage>.<pub-id pub-id-type="pmid">26684074</pub-id></mixed-citation></ref><ref id="bibr35-1179069519830421"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hawley</surname><given-names>CA.</given-names></name></person-group>
+<article-title>Reported problems and their resolution following mild, moderate
+and severe traumatic brain injury amongst children and adolescents in the
+UK</article-title>. <source>Brain Inj</source>.
+<year>2003</year>;<volume>17</volume>:<fpage>105</fpage>&#x02013;<lpage>129</lpage>.<pub-id pub-id-type="pmid">12519639</pub-id></mixed-citation></ref><ref id="bibr36-1179069519830421"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anderson</surname><given-names>V</given-names></name><name><surname>Beauchamp</surname><given-names>MH</given-names></name><name><surname>Yeates</surname><given-names>KO</given-names></name><name><surname>Crossley</surname><given-names>L</given-names></name><name><surname>Hearps</surname><given-names>SJ</given-names></name><name><surname>Catroppa</surname><given-names>C.</given-names></name></person-group>
+<article-title>Social competence at 6&#x02009;months following childhood traumatic brain
+injury</article-title>. <source>J Int Neuropsychol Soc</source>.
+<year>2013</year>;<volume>19</volume>:<fpage>539</fpage>&#x02013;<lpage>550</lpage>.<pub-id pub-id-type="pmid">23552444</pub-id></mixed-citation></ref><ref id="bibr37-1179069519830421"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anderson</surname><given-names>V</given-names></name><name><surname>Beauchamp</surname><given-names>MH</given-names></name><name><surname>Yeates</surname><given-names>KO</given-names></name><etal>et al</etal></person-group>
+<article-title>Social competence at two years after childhood
+traumatic brain injury</article-title>. <source>J Neurotrauma</source>.
+<year>2017</year>;<volume>34</volume>:<fpage>2261</fpage>&#x02013;<lpage>2271</lpage>.<pub-id pub-id-type="pmid">28177265</pub-id></mixed-citation></ref><ref id="bibr38-1179069519830421"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kennedy</surname><given-names>JE</given-names></name><name><surname>Cullen</surname><given-names>MA</given-names></name><name><surname>Amador</surname><given-names>RR</given-names></name><name><surname>Huey</surname><given-names>JC</given-names></name><name><surname>Leal</surname><given-names>FO.</given-names></name></person-group>
+<article-title>Symptoms in military service members after blast mTBI with and
+without associated injuries</article-title>.
+<source>Neurorehabilitation</source>.
+<year>2010</year>;<volume>26</volume>:<fpage>191</fpage>&#x02013;<lpage>197</lpage>.<pub-id pub-id-type="pmid">20448309</pub-id></mixed-citation></ref><ref id="bibr39-1179069519830421"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McKinlay</surname><given-names>A</given-names></name><name><surname>Grace</surname><given-names>R</given-names></name><name><surname>Horwood</surname><given-names>J</given-names></name><name><surname>Fergusson</surname><given-names>D</given-names></name><name><surname>MacFarlane</surname><given-names>M.</given-names></name></person-group>
+<article-title>Adolescent psychiatric symptoms following preschool childhood
+mild traumatic brain injury: evidence from a birth cohort</article-title>.
+<source>J Head Trauma Rehabil</source>.
+<year>2009</year>;<volume>24</volume>:<fpage>221</fpage>&#x02013;<lpage>227</lpage>.<pub-id pub-id-type="pmid">19461369</pub-id></mixed-citation></ref><ref id="bibr40-1179069519830421"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kirkwood</surname><given-names>MW</given-names></name><name><surname>Yeates</surname><given-names>KO</given-names></name><name><surname>Wilson</surname><given-names>PE.</given-names></name></person-group>
+<article-title>Pediatric sport-related concussion: a review of the clinical
+management of an oft-neglected population</article-title>.
+<source>Pediatrics</source>.
+<year>2006</year>;<volume>117</volume>:<fpage>1359</fpage>&#x02013;<lpage>1371</lpage>.<pub-id pub-id-type="pmid">16585334</pub-id></mixed-citation></ref><ref id="bibr41-1179069519830421"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwartz</surname><given-names>L</given-names></name><name><surname>Taylor</surname><given-names>HG</given-names></name><name><surname>Drotar</surname><given-names>D</given-names></name><name><surname>Yeates</surname><given-names>KO</given-names></name><name><surname>Wade</surname><given-names>SL</given-names></name><name><surname>Stancin</surname><given-names>T.</given-names></name></person-group>
+<article-title>Long-term behavior problems following pediatric traumatic brain
+injury: prevalence, predictors, and correlates</article-title>. <source>J
+Pediatr Psychol</source>.
+<year>2003</year>;<volume>28</volume>:<fpage>251</fpage>&#x02013;<lpage>263</lpage>.<pub-id pub-id-type="pmid">12730282</pub-id></mixed-citation></ref><ref id="bibr42-1179069519830421"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Halstead</surname><given-names>ME</given-names></name><name><surname>McAvoy</surname><given-names>K</given-names></name><name><surname>Devore</surname><given-names>CD</given-names></name><etal>et al</etal></person-group>
+<article-title>Returning to learning following a
+concussion</article-title>. <source>Pediatrics</source>.
+<year>2013</year>;<volume>132</volume>:<fpage>948</fpage>&#x02013;<lpage>957</lpage>.<pub-id pub-id-type="pmid">24163302</pub-id></mixed-citation></ref><ref id="bibr43-1179069519830421"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Silverberg</surname><given-names>ND</given-names></name><name><surname>Iverson</surname><given-names>GL</given-names></name><name><surname>McCrea</surname><given-names>M</given-names></name><name><surname>Apps</surname><given-names>JN</given-names></name><name><surname>Hammeke</surname><given-names>TA</given-names></name><name><surname>Thomas</surname><given-names>DG.</given-names></name></person-group>
+<article-title>Activity-related symptom exacerbations after pediatric
+concussion</article-title>. <source>JAMA Pediatr</source>.
+<year>2016</year>;<volume>170</volume>:<fpage>946</fpage>&#x02013;<lpage>953</lpage>.<pub-id pub-id-type="pmid">27479847</pub-id></mixed-citation></ref><ref id="bibr44-1179069519830421"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Buckley</surname><given-names>TA</given-names></name><name><surname>Munkasy</surname><given-names>BA</given-names></name><name><surname>Clouse</surname><given-names>BP.</given-names></name></person-group>
+<article-title>Acute cognitive and physical rest may not improve concussion
+recovery time</article-title>. <source>J Head Trauma Rehabil</source>.
+<year>2016</year>;<volume>31</volume>:<fpage>233</fpage>&#x02013;<lpage>241</lpage>.<pub-id pub-id-type="pmid">26394292</pub-id></mixed-citation></ref><ref id="bibr45-1179069519830421"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schneider</surname><given-names>KJ</given-names></name><name><surname>Leddy</surname><given-names>JJ</given-names></name><name><surname>Guskiewicz</surname><given-names>KM</given-names></name><etal>et al</etal></person-group>
+<article-title>Rest and treatment/rehabilitation following
+sport-related concussion: a systematic review</article-title>. <source>Br J
+Sports Med</source>.
+<year>2017</year>;<volume>51</volume>:<fpage>930</fpage>&#x02013;<lpage>934</lpage>.<pub-id pub-id-type="pmid">28341726</pub-id></mixed-citation></ref><ref id="bibr46-1179069519830421"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thomas</surname><given-names>DG</given-names></name><name><surname>Apps</surname><given-names>JN</given-names></name><name><surname>Hoffmann</surname><given-names>RG</given-names></name><name><surname>McCrea</surname><given-names>M</given-names></name><name><surname>Hammeke</surname><given-names>T.</given-names></name></person-group>
+<article-title>Benefits of strict rest after acute concussion: a randomized
+controlled trial</article-title>. <source>Pediatrics</source>.
+<year>2015</year>;<volume>135</volume>:<fpage>213</fpage>&#x02013;<lpage>223</lpage>.<pub-id pub-id-type="pmid">25560444</pub-id></mixed-citation></ref><ref id="bibr47-1179069519830421"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carson</surname><given-names>JD</given-names></name><name><surname>Lawrence</surname><given-names>DW</given-names></name><name><surname>Kraft</surname><given-names>SA</given-names></name><etal>et al</etal></person-group>
+<article-title>Premature return to play and return to learn
+after a sport-related concussion: physician&#x02019;s chart review</article-title>.
+<source>Can Fam Physician</source>.
+<year>2014</year>;<volume>60</volume>:e310, e312&#x02013;e315.</mixed-citation></ref><ref id="bibr48-1179069519830421"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>NJ</given-names></name><name><surname>Mannix</surname><given-names>RC</given-names></name><name><surname>O&#x02019;Brien</surname><given-names>MJ</given-names></name><etal>et al</etal></person-group>
+<article-title>Effect of cognitive activity level on duration
+of post-concussion symptoms</article-title>. <source>Pediatrics</source>.
+<year>2014</year>;<volume>133</volume>:<fpage>e299</fpage>&#x02013;<lpage>304</lpage>.<pub-id pub-id-type="pmid">24394679</pub-id></mixed-citation></ref><ref id="bibr49-1179069519830421"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Majerske</surname><given-names>CW</given-names></name><name><surname>Mihalik</surname><given-names>JP</given-names></name><name><surname>Ren</surname><given-names>D</given-names></name><etal>et al</etal></person-group>
+<article-title>Concussion in sports: postconcussive activity
+levels, symptoms, and neurocognitive performance</article-title>. <source>J
+Athl Train</source>.
+<year>2008</year>;<volume>43</volume>:<fpage>265</fpage>&#x02013;<lpage>274</lpage>.<pub-id pub-id-type="pmid">18523563</pub-id></mixed-citation></ref><ref id="bibr50-1179069519830421"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ransom</surname><given-names>DM</given-names></name><name><surname>Vaughan</surname><given-names>CG</given-names></name><name><surname>Pratson</surname><given-names>L</given-names></name><name><surname>Sady</surname><given-names>MD</given-names></name><name><surname>McGill</surname><given-names>CA</given-names></name><name><surname>Gioia</surname><given-names>GA.</given-names></name></person-group>
+<article-title>Academic effects of concussion in children and
+adolescents</article-title>. <source>Pediatrics</source>.
+<year>2015</year>;<volume>135</volume>:<fpage>1043</fpage>&#x02013;<lpage>1050</lpage>.<pub-id pub-id-type="pmid">25963014</pub-id></mixed-citation></ref><ref id="bibr51-1179069519830421"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eisenberg</surname><given-names>MA</given-names></name><name><surname>Meehan</surname><given-names>WP</given-names><suffix>III</suffix></name><name><surname>Mannix</surname><given-names>R.</given-names></name></person-group>
+<article-title>Duration and course of post-concussive symptoms</article-title>.
+<source>Pediatrics</source>.
+<year>2014</year>;<volume>133</volume>:<fpage>999</fpage>&#x02013;<lpage>1006</lpage>.<pub-id pub-id-type="pmid">24819569</pub-id></mixed-citation></ref><ref id="bibr52-1179069519830421"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Albicini</surname><given-names>MS</given-names></name><name><surname>Lee</surname><given-names>J</given-names></name><name><surname>McKinlay</surname><given-names>A.</given-names></name></person-group>
+<article-title>Ongoing daytime behavioural problems in university students
+following childhood mild traumatic brain injury</article-title>. <source>Int
+J Rehabil Res</source>.
+<year>2016</year>;<volume>39</volume>:<fpage>77</fpage>&#x02013;<lpage>83</lpage>.<pub-id pub-id-type="pmid">26704343</pub-id></mixed-citation></ref><ref id="bibr53-1179069519830421"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chan</surname><given-names>LG</given-names></name><name><surname>Feinstein</surname><given-names>A.</given-names></name></person-group>
+<article-title>Persistent sleep disturbances independently predict poorer
+functional and social outcomes 1&#x02009;year after mild traumatic brain
+injury</article-title>. <source>J Head Trauma Rehabil</source>.
+<year>2015</year>;<volume>30</volume>:<fpage>E67</fpage>&#x02013;<lpage>E75</lpage>.<pub-id pub-id-type="pmid">25931180</pub-id></mixed-citation></ref><ref id="bibr54-1179069519830421"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kostyun</surname><given-names>R.</given-names></name></person-group>
+<article-title>Sleep disturbances in concussed athletes: a review of the
+literature</article-title>. <source>Conn Med</source>.
+<year>2015</year>;<volume>79</volume>:<fpage>161</fpage>&#x02013;<lpage>165</lpage>.<pub-id pub-id-type="pmid">26244223</pub-id></mixed-citation></ref><ref id="bibr55-1179069519830421"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaufman</surname><given-names>Y</given-names></name><name><surname>Tzischinsky</surname><given-names>O</given-names></name><name><surname>Epstein</surname><given-names>R</given-names></name><name><surname>Etzioni</surname><given-names>A</given-names></name><name><surname>Lavie</surname><given-names>P</given-names></name><name><surname>Pillar</surname><given-names>G.</given-names></name></person-group>
+<article-title>Long-term sleep disturbances in adolescents after minor head
+injury</article-title>. <source>Pediatr Neurol</source>.
+<year>2001</year>;<volume>24</volume>:<fpage>129</fpage>&#x02013;<lpage>134</lpage>.<pub-id pub-id-type="pmid">11275462</pub-id></mixed-citation></ref><ref id="bibr56-1179069519830421"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tham</surname><given-names>SW</given-names></name><name><surname>Fales</surname><given-names>J</given-names></name><name><surname>Palermo</surname><given-names>TM.</given-names></name></person-group>
+<article-title>Subjective and objective assessment of sleep in adolescents with
+mild traumatic brain injury</article-title>. <source>J Neurotrauma</source>.
+<year>2015</year>;<volume>32</volume>:<fpage>847</fpage>&#x02013;<lpage>852</lpage>.<pub-id pub-id-type="pmid">25707446</pub-id></mixed-citation></ref><ref id="bibr57-1179069519830421"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khoury</surname><given-names>S</given-names></name><name><surname>Chouchou</surname><given-names>F</given-names></name><name><surname>Amzica</surname><given-names>F</given-names></name><etal>et al</etal></person-group>
+<article-title>Rapid EEG activity during sleep dominates in
+mild traumatic brain injury patients with acute pain</article-title>.
+<source>J Neurotrauma</source>.
+<year>2013</year>;<volume>30</volume>:<fpage>633</fpage>&#x02013;<lpage>641</lpage>.<pub-id pub-id-type="pmid">23510169</pub-id></mixed-citation></ref><ref id="bibr58-1179069519830421"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McCarberg</surname><given-names>BH</given-names></name><name><surname>Nicholson</surname><given-names>BD</given-names></name><name><surname>Todd</surname><given-names>KH</given-names></name><name><surname>Palmer</surname><given-names>T</given-names></name><name><surname>Penles</surname><given-names>L.</given-names></name></person-group>
+<article-title>The impact of pain on quality of life and the unmet needs of pain
+management: results from pain sufferers and physicians participating in an
+Internet survey</article-title>. <source>Am J Ther</source>.
+<year>2008</year>;<volume>15</volume>:<fpage>312</fpage>&#x02013;<lpage>320</lpage>.<pub-id pub-id-type="pmid">18645331</pub-id></mixed-citation></ref><ref id="bibr59-1179069519830421"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blume</surname><given-names>HK</given-names></name><name><surname>Vavilala</surname><given-names>MS</given-names></name><name><surname>Jaffe</surname><given-names>KM</given-names></name><etal>et al</etal></person-group>
+<article-title>Headache after pediatric traumatic brain injury:
+a cohort study</article-title>. <source>Pediatrics</source>.
+<year>2012</year>;<volume>129</volume>:e31&#x02013;e39.</mixed-citation></ref><ref id="bibr60-1179069519830421"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>EF</given-names></name><name><surname>Cui</surname><given-names>L</given-names></name><name><surname>Lateef</surname><given-names>T</given-names></name><name><surname>Nelson</surname><given-names>KB</given-names></name><name><surname>Merikangas</surname><given-names>KR.</given-names></name></person-group>
+<article-title>Parent-child agreement in the reporting of headaches in a
+national sample of adolescents</article-title>. <source>J Child
+Neurol</source>.
+<year>2012</year>;<volume>27</volume>:<fpage>61</fpage>&#x02013;<lpage>67</lpage>.<pub-id pub-id-type="pmid">21832254</pub-id></mixed-citation></ref><ref id="bibr61-1179069519830421"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Babcock</surname><given-names>L</given-names></name><name><surname>Byczkowski</surname><given-names>T</given-names></name><name><surname>Wade</surname><given-names>SL</given-names></name><name><surname>Ho</surname><given-names>M</given-names></name><name><surname>Mookerjee</surname><given-names>S</given-names></name><name><surname>Bazarian</surname><given-names>JJ.</given-names></name></person-group>
+<article-title>Predicting postconcussion syndrome after mild traumatic brain
+injury in children and adolescents who present to the emergency
+department</article-title>. <source>JAMA Pediatr</source>.
+<year>2013</year>;<volume>167</volume>:<fpage>156</fpage>&#x02013;<lpage>161</lpage>.<pub-id pub-id-type="pmid">23247384</pub-id></mixed-citation></ref><ref id="bibr62-1179069519830421"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuczynski</surname><given-names>A</given-names></name><name><surname>Crawford</surname><given-names>S</given-names></name><name><surname>Bodell</surname><given-names>L</given-names></name><name><surname>Dewey</surname><given-names>D</given-names></name><name><surname>Barlow</surname><given-names>KM.</given-names></name></person-group>
+<article-title>Characteristics of post-traumatic headaches in children following
+mild traumatic brain injury and their response to treatment: a prospective
+cohort</article-title>. <source>Dev Med Child Neurol</source>.
+<year>2013</year>;<volume>55</volume>:<fpage>636</fpage>&#x02013;<lpage>641</lpage>.<pub-id pub-id-type="pmid">23560811</pub-id></mixed-citation></ref><ref id="bibr63-1179069519830421"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Young Casey</surname><given-names>C</given-names></name><name><surname>Greenberg</surname><given-names>MA</given-names></name><name><surname>Nicassio</surname><given-names>PM</given-names></name><name><surname>Harpin</surname><given-names>RE</given-names></name><name><surname>Hubbard</surname><given-names>D.</given-names></name></person-group>
+<article-title>Transition from acute to chronic pain and disability: a model
+including cognitive, affective, and trauma factors</article-title>.
+<source>Pain</source>.
+<year>2008</year>;<volume>134</volume>:<fpage>69</fpage>&#x02013;<lpage>79</lpage>.<pub-id pub-id-type="pmid">17504729</pub-id></mixed-citation></ref><ref id="bibr64-1179069519830421"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Novak</surname><given-names>Z</given-names></name><name><surname>Aglipay</surname><given-names>M</given-names></name><name><surname>Barrowman</surname><given-names>N</given-names></name><etal>et al</etal></person-group>
+<article-title>Association of persistent postconcussion
+symptoms with pediatric quality of life</article-title>. <source>JAMA
+Pediatr</source>.
+<year>2016</year>;<volume>170</volume>:e162900.</mixed-citation></ref><ref id="bibr65-1179069519830421"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zonfrillo</surname><given-names>MR</given-names></name><name><surname>Durbin</surname><given-names>DR</given-names></name><name><surname>Koepsell</surname><given-names>TD</given-names></name><etal>et al</etal></person-group>
+<article-title>Prevalence of and risk factors for poor
+functioning after isolated mild traumatic brain injury in
+children</article-title>. <source>J Neurotrauma</source>.
+<year>2014</year>;<volume>31</volume>:<fpage>722</fpage>&#x02013;<lpage>727</lpage>.<pub-id pub-id-type="pmid">24294826</pub-id></mixed-citation></ref><ref id="bibr66-1179069519830421"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fineblit</surname><given-names>S</given-names></name><name><surname>Selci</surname><given-names>E</given-names></name><name><surname>Loewen</surname><given-names>H</given-names></name><name><surname>Ellis</surname><given-names>M</given-names></name><name><surname>Russell</surname><given-names>K.</given-names></name></person-group>
+<article-title>Health-related quality of life after pediatric mild traumatic
+brain injury/concussion: a systematic review</article-title>. <source>J
+Neurotrauma</source>.
+<year>2016</year>;<volume>33</volume>:<fpage>1561</fpage>&#x02013;<lpage>1568</lpage>.<pub-id pub-id-type="pmid">26916876</pub-id></mixed-citation></ref><ref id="bibr67-1179069519830421"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anderson</surname><given-names>V</given-names></name><name><surname>Godfrey</surname><given-names>C</given-names></name><name><surname>Rosenfeld</surname><given-names>JV</given-names></name><name><surname>Catroppa</surname><given-names>C.</given-names></name></person-group>
+<article-title>Predictors of cognitive function and recovery 10&#x02009;years after
+traumatic brain injury in young children</article-title>.
+<source>Pediatrics</source>.
+<year>2012</year>;<volume>129</volume>:<fpage>e254</fpage>&#x02013;<lpage>e261</lpage>.<pub-id pub-id-type="pmid">22271691</pub-id></mixed-citation></ref><ref id="bibr68-1179069519830421"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pieper</surname><given-names>P</given-names></name><name><surname>Garvan</surname><given-names>C.</given-names></name></person-group>
+<article-title>Health-related quality-of-life in the first year following a
+childhood concussion</article-title>. <source>Brain Inj</source>.
+<year>2014</year>;<volume>28</volume>:<fpage>105</fpage>&#x02013;<lpage>113</lpage>.<pub-id pub-id-type="pmid">24180478</pub-id></mixed-citation></ref><ref id="bibr69-1179069519830421"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moran</surname><given-names>LM</given-names></name><name><surname>Taylor</surname><given-names>HG</given-names></name><name><surname>Rusin</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>Quality of life in pediatric mild traumatic
+brain injury and its relationship to postconcussive
+symptoms</article-title>. <source>J Pediatr Psychol</source>.
+<year>2012</year>;<volume>37</volume>:<fpage>736</fpage>&#x02013;<lpage>744</lpage>.<pub-id pub-id-type="pmid">21994421</pub-id></mixed-citation></ref><ref id="bibr70-1179069519830421"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yeates</surname><given-names>KO</given-names></name><name><surname>Kaizar</surname><given-names>E</given-names></name><name><surname>Rusin</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>Reliable change in postconcussive symptoms and
+its functional consequences among children with mild traumatic brain
+injury</article-title>. <source>Arch Pediatr Adolesc Med</source>.
+<year>2012</year>;<volume>166</volume>:<fpage>615</fpage>&#x02013;<lpage>622</lpage>.<pub-id pub-id-type="pmid">22393171</pub-id></mixed-citation></ref><ref id="bibr71-1179069519830421"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rivara</surname><given-names>FP</given-names></name><name><surname>Koepsell</surname><given-names>TD</given-names></name><name><surname>Wang</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>Disability 3, 12, and 24&#x02009;months after traumatic
+brain injury among children and adolescents</article-title>.
+<source>Pediatrics</source>.
+<year>2011</year>;<volume>128</volume>:<fpage>e1129</fpage>&#x02013;<lpage>e1138</lpage>.<pub-id pub-id-type="pmid">22025592</pub-id></mixed-citation></ref><ref id="bibr72-1179069519830421"><label>72</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davis</surname><given-names>GA</given-names></name><name><surname>Anderson</surname><given-names>V</given-names></name><name><surname>Babl</surname><given-names>FE</given-names></name><etal>et al</etal></person-group>
+<article-title>What is the difference in concussion management
+in children as compared with adults? A systematic review</article-title>.
+<source>Br J Sports Med</source>.
+<year>2017</year>;<volume>51</volume>:<fpage>949</fpage>&#x02013;<lpage>957</lpage>.<pub-id pub-id-type="pmid">28455361</pub-id></mixed-citation></ref><ref id="bibr73-1179069519830421"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olympia</surname><given-names>RP</given-names></name><name><surname>Ritter</surname><given-names>JT</given-names></name><name><surname>Brady</surname><given-names>J</given-names></name><name><surname>Bramley</surname><given-names>H.</given-names></name></person-group>
+<article-title>Return to learning after a concussion and compliance with
+recommendations for cognitive rest</article-title>. <source>Clin J Sport
+Med</source>.
+<year>2016</year>;<volume>26</volume>:<fpage>115</fpage>&#x02013;<lpage>119</lpage>.<pub-id pub-id-type="pmid">25961156</pub-id></mixed-citation></ref><ref id="bibr74-1179069519830421"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kasamatsu</surname><given-names>T</given-names></name><name><surname>Cleary</surname><given-names>M</given-names></name><name><surname>Bennett</surname><given-names>J</given-names></name><name><surname>Howard</surname><given-names>K</given-names></name><name><surname>McLeod</surname><given-names>TV.</given-names></name></person-group>
+<article-title>Examining academic support after concussion for the adolescent
+student-athlete: perspectives of the athletic trainer</article-title>.
+<source>J Athl Train</source>.
+<year>2016</year>;<volume>51</volume>:<fpage>153</fpage>&#x02013;<lpage>161</lpage>.<pub-id pub-id-type="pmid">26942658</pub-id></mixed-citation></ref><ref id="bibr75-1179069519830421"><label>75</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Macciocchi</surname><given-names>SN</given-names></name><name><surname>Barth</surname><given-names>JT</given-names></name><name><surname>Littlefield</surname><given-names>LM.</given-names></name></person-group>
+<article-title>Outcome after mild head injury</article-title>. <source>Clin
+Sports Med</source>.
+<year>1998</year>;<volume>17</volume>:<fpage>27</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">9475968</pub-id></mixed-citation></ref><ref id="bibr76-1179069519830421"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Plourde</surname><given-names>V</given-names></name><name><surname>Daya</surname><given-names>H</given-names></name><name><surname>Low</surname><given-names>TA</given-names></name><name><surname>Barlow</surname><given-names>KM</given-names></name><name><surname>Brooks</surname><given-names>BL.</given-names></name></person-group>
+<article-title>Evaluating anxiety and depression symptoms in children and
+adolescents with prior mild traumatic brain injury: agreement between
+methods and respondents</article-title>. <source>Child
+Neuropsychol</source>.
+<year>2019</year>;<volume>25</volume>:<fpage>44</fpage>&#x02013;<lpage>59</lpage>.<pub-id pub-id-type="pmid">29382257</pub-id></mixed-citation></ref><ref id="bibr77-1179069519830421"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>SR.</given-names></name></person-group>
+<article-title>Making sense of multiple informants in child and adolescent
+psychopathology: a guide for clinicians</article-title>. <source>J
+Psychoeducat Assess</source>.
+<year>2007</year>;<volume>25</volume>:<fpage>139</fpage>&#x02013;<lpage>149</lpage>.</mixed-citation></ref><ref id="bibr78-1179069519830421"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hajek</surname><given-names>CA</given-names></name><name><surname>Yeates</surname><given-names>KO</given-names></name><name><surname>Taylor</surname><given-names>HG</given-names></name><etal>et al</etal></person-group>
+<article-title>Agreement between parents and children on
+ratings of post-concussive symptoms following mild traumatic brain
+injury</article-title>. <source>Child Neuropsychol</source>.
+<year>2011</year>;<volume>17</volume>:<fpage>17</fpage>&#x02013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">20680882</pub-id></mixed-citation></ref><ref id="bibr79-1179069519830421"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yeates</surname><given-names>KO</given-names></name><name><surname>Taylor</surname><given-names>HG</given-names></name><name><surname>Rusin</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>Premorbid child and family functioning as
+predictors of post-concussive symptoms in children with mild traumatic brain
+injuries</article-title>. <source>Int J Dev Neurosci</source>.
+<year>2012</year>;<volume>30</volume>:<fpage>231</fpage>&#x02013;<lpage>237</lpage>.<pub-id pub-id-type="pmid">21651973</pub-id></mixed-citation></ref></ref-list></back></article>

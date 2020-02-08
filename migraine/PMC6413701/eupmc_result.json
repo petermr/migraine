@@ -1,0 +1,424 @@
+{
+  "id": [
+    "30890994"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30890994"
+  ],
+  "pmcid": [
+    "PMC6413701"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00092"
+  ],
+  "title": [
+    "Features of Primary Chronic Headache in Children and Adolescents and Validity of Ichd 3 Criteria."
+  ],
+  "authorString": [
+    "Papetti L, Salfa I, Battan B, Moavero R, Termine C, Bartoli B, Di Nunzio F, Tarantino S, Alaimo Di Loro P, Vigevano F, Valeriani M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Papetti L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Papetti"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Headache Center, Department of Neuroscience, Bambino Gesù Children Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Salfa I"
+          ],
+          "firstName": [
+            "Irene"
+          ],
+          "lastName": [
+            "Salfa"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Headache Center, Department of Neuroscience, Bambino Gesù Children Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Battan B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Battan"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Headache Center, Department of Neuroscience, Bambino Gesù Children Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Moavero R"
+          ],
+          "firstName": [
+            "Romina"
+          ],
+          "lastName": [
+            "Moavero"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Headache Center, Department of Neuroscience, Bambino Gesù Children Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Termine C"
+          ],
+          "firstName": [
+            "Cristiano"
+          ],
+          "lastName": [
+            "Termine"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Child Neuropsychiatry Unit, Department of Clinical and Experimental Medicine, University of Insubria, Varese, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bartoli B"
+          ],
+          "firstName": [
+            "Beatrice"
+          ],
+          "lastName": [
+            "Bartoli"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Child Neuropsychiatry Unit, Department of Clinical and Experimental Medicine, University of Insubria, Varese, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Di Nunzio F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Di Nunzio"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Headache Center, Department of Neuroscience, Bambino Gesù Children Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Tarantino S"
+          ],
+          "firstName": [
+            "Samuela"
+          ],
+          "lastName": [
+            "Tarantino"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Headache Center, Department of Neuroscience, Bambino Gesù Children Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Alaimo Di Loro P"
+          ],
+          "firstName": [
+            "Pierfrancesco"
+          ],
+          "lastName": [
+            "Alaimo Di Loro"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Statistical Sciences, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Vigevano F"
+          ],
+          "firstName": [
+            "Federico"
+          ],
+          "lastName": [
+            "Vigevano"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Headache Center, Department of Neuroscience, Bambino Gesù Children Hospital, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Valeriani M"
+          ],
+          "firstName": [
+            "Massimiliano"
+          ],
+          "lastName": [
+            "Valeriani"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Headache Center, Department of Neuroscience, Bambino Gesù Children Hospital, Rome, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "92"
+  ],
+  "abstractText": [
+    "Introduction: Chronic headaches are not a rare condition in children and adolescents with negative effects on their quality of life. Our aims were to investigate the clinical features of chronic headache and usefulness of the International Classification of Headache Disorders 3rd edition (ICHD 3) criteria for the diagnosis in a cohort of pediatric patients. Methods: We retrospectively reviewed the charts of patients attending the Headache Center of Bambino Gesù Children and Insubria University Hospital during the 2010-2016 time interval. Statistical analysis was conducted to study possible correlations between: (a) chronic primary headache (CPH) and demographic data (age and sex), (b) CPH and headache qualitative features, (c) CPH and risk of medication overuse headache (MOH), and (d) CPH and response to prophylactic therapies. Moreover, we compared the diagnosis obtained by ICHD 3 vs. ICHD 2 criteria Results: We included 377 patients with CPH (66.4% females, 33.6% males, under 18 years of age). CPH was less frequent under 6 years of age (0.8%; p < 0.05) and there was no correlation between age/sex and different CPH types. The risk to develop MOH was higher after 15 years of age (p < 0.05). When we compared the diagnosis obtained by ICHD 2 and ICHD 3 criteria we found a significant difference for the undefined diagnosis (2.6% vs. 7.9%; p < 0.05), while the diagnosis of probable chronic migraine was only possible by using the ICHD2 criteria (11.9% of patients; p < 0.05). The main criterion which was not satisfied for a definitive diagnosis was the duration of the attacks less than 2 h (70% of patients younger than 6 years; p < 0.005). Amitriptyline and topiramate were the most effective drugs (p < 0.05), although no significant difference was found between them (p > 0.05). Conclusion: The ICHD 3 criteria show limitations when applied to children under 6 years of age. The risk of developing MOH increases with age. Although our \"real word\" study shows that amitriptyline and topiramate are the most effective drugs regardless of the CPH type, the lack of placebo-controlled data and the limited follow-up results did not allow us to conclude about the drug efficacy."
+  ],
+  "affiliation": [
+    "Headache Center, Department of Neuroscience, Bambino Gesù Children Hospital, Rome, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Chronic Headache",
+        "Tension-type Headache",
+        "Prophylactic Therapy",
+        "Chronic Migraine",
+        "Medication Overuse Headache"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00092"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6413701"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6413701?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-21"
+  ],
+  "firstIndexDate": [
+    "2019-03-21"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-23"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-15"
+  ],
+  "firstPublicationDate": [
+    "2019-02-15"
+  ]
+}

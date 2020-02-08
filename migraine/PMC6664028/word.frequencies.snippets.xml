@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6664028/results/word/frequencies/results.xml">
+  <result title="frequency" word="headache" count="54"/>
+  <result title="frequency" word="epileptic" count="45"/>
+  <result title="frequency" word="EEG" count="31"/>
+  <result title="frequency" word="Parisi" count="31"/>
+  <result title="frequency" word="ictal" count="24"/>
+  <result title="frequency" word="epilepsy" count="22"/>
+ </snippets>
+</snippetsTree>

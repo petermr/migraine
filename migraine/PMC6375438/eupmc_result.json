@@ -1,0 +1,390 @@
+{
+  "id": [
+    "30230350"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30230350"
+  ],
+  "pmcid": [
+    "PMC6375438"
+  ],
+  "doi": [
+    "10.1289/EHP3799"
+  ],
+  "title": [
+    "Uncomfortable Uncertainty: Do OTC Analgesics Disrupt Fetal Germ Cell Development?"
+  ],
+  "authorString": [
+    "Konkel L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Konkel L"
+          ],
+          "firstName": [
+            "Lindsey"
+          ],
+          "lastName": [
+            "Konkel"
+          ],
+          "initials": [
+            "L"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "126"
+      ],
+      "journalIssueId": [
+        "2724301"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Environmental health perspectives"
+          ],
+          "ISOAbbreviation": [
+            "Environ. Health Perspect."
+          ],
+          "medlineAbbreviation": [
+            "Environ Health Perspect"
+          ],
+          "NLMid": [
+            "0330411"
+          ],
+          "ISSN": [
+            "0091-6765"
+          ],
+          "ESSN": [
+            "1552-9924"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "94001"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "article-commentary",
+        "Comment",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germ Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rodentia"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Acetaminophen"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ibuprofen"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Analgesics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Uncertainty"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Analgesics"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Acetaminophen"
+          ],
+          "registryNumber": [
+            "362O9ITL9D"
+          ]
+        },
+        {
+          "name": [
+            "Ibuprofen"
+          ],
+          "registryNumber": [
+            "WK2XYI10QM"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1289/EHP3799"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6375438"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6375438?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29665328"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Environ Health Perspect. 2018 Apr 16;126(4):047006"
+          ],
+          "type": [
+            "Comment on"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc0"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-29"
+  ],
+  "dateOfCreation": [
+    "2018-09-20"
+  ],
+  "firstIndexDate": [
+    "2018-09-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-20"
+  ],
+  "dateOfRevision": [
+    "2019-04-19"
+  ],
+  "firstPublicationDate": [
+    "2018-09-01"
+  ]
+}

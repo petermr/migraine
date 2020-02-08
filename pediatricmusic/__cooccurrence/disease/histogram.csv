@@ -1,0 +1,549 @@
+disease,count
+migraine,119
+cancer,58
+multiple sclerosis,51
+obesity,26
+asthma,24
+epilepsy,23
+arthritis,22
+dementia,20
+stroke,19
+autism,19
+fibromyalgia,19
+encephalomyelitis,18
+irritable bowel syndrome,16
+cystic fibrosis,16
+suppression,15
+hepatitis,15
+sinusitis,14
+allergy,14
+optic neuritis,13
+encephalopathy,13
+neuromyelitis optica,13
+rhinitis,12
+breast cancer,11
+sleep apnea,11
+neuropathy,11
+diabetes mellitus,11
+pertussis,10
+otitis media,10
+hypersensitivity,10
+substance abuse,10
+neurodegeneration,10
+multiple sclerosis.,10
+schizophrenia,10
+influenza,9
+aphasia,9
+rheumatoid arthritis,9
+pneumonia,9
+anemia,8
+bronchiolitis,8
+meningitis,8
+myelitis,8
+chronic fatigue syndrome,8
+shortness,8
+appendicitis,7
+metabolic syndrome,7
+constipation,7
+post-traumatic stress disorder,7
+cardiovascular disease,7
+leukemia,7
+autoimmune disease,7
+progressive multifocal leukoencephalopathy,7
+juvenile idiopathic arthritis,7
+allergic rhinitis,7
+heart disease,7
+tuberculosis,6
+cystic fibrosis,,6
+cardiac arrest,6
+choanal atresia,6
+osteoarthritis,6
+attention deficit hyperactivity disorder,6
+osteomyelitis,6
+hypothyroidism,6
+sexual dysfunction,6
+atherosclerosis,5
+respiratory failure.,5
+vasculitis,5
+bronchiectasis,5
+respiratory failure,5
+lung cancer,5
+psoriasis,5
+colitis,5
+cystic fibrosis.,5
+substance abuse.,5
+maxillary sinusitis,5
+endometriosis,5
+lymphedema,5
+diabetes mellitus,,5
+multiple sclerosis,,5
+infectious mononucleosis,5
+heart disease,,5
+uveitis,5
+ulcerative colitis,5
+diarrhea,5
+chronic fatigue syndrome.,5
+cellulitis,5
+food allergy.,4
+restless legs syndrome,4
+frontal sinusitis,4
+infertility,4
+mucopolysaccharidosis,4
+optic neuritis,,4
+optic neuritis.,4
+lymphoma,4
+anxiety disorder,4
+bacterial meningitis,4
+obstructive sleep apnea,4
+rheumatoid arthritis,,4
+substance abuse,,4
+hyperglycemia,4
+food allergy,4
+lung disease,4
+anxiety disorder,,4
+anxiety disorder.,4
+pharyngitis,4
+bipolar disorder,4
+allergic rhinitis,,4
+atrioventricular block,4
+aids,4
+neurological disorder,4
+neutropenia,4
+dyslipidemia,4
+multiple sclerosis?,4
+diphtheria,4
+heart disease.,4
+cerebral palsy,4
+trigeminal neuralgia,4
+ptosis,4
+thrombocytopenia,4
+optic neuropathy,4
+thyroiditis,4
+eosinophilia,3
+bipolar disorder,,3
+pancreatitis,3
+respiratory failure,,3
+optic neuropathy,,3
+congenital heart disease,3
+major depressive disorder,3
+encephalitis,3
+cerebral palsy,,3
+sphenoid sinusitis,3
+atrial fibrillation,3
+periodontal disease,,3
+rash,3
+neuromyelitis optica,,3
+infectious mononucleosis,,3
+atrial fibrillation,,3
+breast cancer,,3
+sleep apnea,,3
+aspiration pneumonia,,3
+osteoporosis,3
+peripheral neuropathy,3
+lactic acidosis,,3
+bruxism,3
+movement disorder,3
+bowel dysfunction,3
+lupus erythematosus,3
+diabetes mellitus.,3
+agraphia,3
+glomerulonephritis,3
+cardiac arrest.,3
+pulmonary hypertension,3
+learning disability,3
+cardiomyopathy,3
+sexual dysfunction,,3
+rickets,3
+sarcoma,3
+lupus erythematosus,,3
+lung disease.,3
+autoimmune disease.,3
+idiopathic intracranial hypertension,3
+essential tremor,3
+lung disease,,3
+primary ciliary dyskinesia,3
+craniosynostosis,3
+chronic maxillary sinusitis,3
+periodontal disease,2
+status epilepticus,,2
+carpal tunnel syndrome,2
+frontal sinusitis,,2
+bacterial meningitis.,2
+vascular dementia,2
+vestibular disease,2
+liver cancer,,2
+herpes simplex,2
+eating disorder,2
+sleep disorder,2
+dental caries,,2
+acute lymphoblastic leukemia,2
+cerebral palsy.,2
+familial hemiplegic migraine,2
+cryptorchidism,2
+rheumatic fever,2
+cleft lip,2
+leukopenia,2
+branch retinal artery occlusion,2
+alcohol abuse,2
+generalized anxiety disorder,,2
+arteriovenous malformation,2
+diabetic ketoacidosis,2
+acute disseminated encephalomyelitis,2
+alcohol dependence,2
+endocarditis,2
+maxillary sinusitis,,2
+necrotizing enterocolitis,2
+urinary tract infection,2
+chronic frontal sinusitis,2
+scoliosis,2
+rhabdomyosarcoma,2
+diabetic neuropathy,,2
+orbital cellulitis,2
+congestive heart failure,,2
+sarcoidosis,2
+myasthenia gravis.,2
+hypogonadism,2
+peptic ulcer,2
+retinopathy,2
+systemic lupus erythematosus,,2
+hepatic encephalopathy,2
+pulmonary embolism,2
+mastoiditis,2
+mental disorder,2
+gastroenteritis,2
+chorea,2
+cerebral infarction,,2
+hemangioma,2
+sleep apnea.,2
+bowel dysfunction,,2
+aspiration pneumonia.,2
+hypoparathyroidism,2
+panic disorder,2
+pneumothorax,2
+hypokalemia,2
+neurogenic bladder,2
+hernia,2
+dental caries,2
+actinic keratosis,,2
+measles,2
+chronic obstructive pulmonary disease,2
+enophthalmos,2
+frontotemporal dementia,2
+motion sickness,2
+testicular cancer,2
+cannabis abuse.,2
+sickle cell anemia,2
+aseptic meningitis,,2
+idiopathic intracranial hypertension.,2
+chronic kidney disease,2
+myasthenia gravis,2
+metabolic syndrome.,2
+complex regional pain syndrome,2
+cataract,2
+status epilepticus,2
+cardiac arrest,,2
+cannabis abuse,2
+pain disorder.,2
+hypermobility syndrome,2
+lymphadenopathy,2
+congenital heart disease,,2
+congenital heart disease.,2
+pulmonary edema,2
+temporal lobe epilepsy,2
+epidermolysis bullosa,2
+attention deficit hyperactivity disorder,,2
+multiple sclerosis;,2
+proteinuria,2
+neuromuscular disease,2
+tonsillitis,2
+cystitis,2
+viral hepatitis,2
+head and neck cancer,2
+megacolon,2
+acute frontal sinusitis,2
+sickle cell anemia,,2
+neuromuscular disease.,2
+neuroblastoma,2
+papilledema,2
+hyperthyroidism,2
+primary ciliary dyskinesia.,2
+macular edema,2
+metachromatic leukodystrophy,2
+cardiovascular disease.,2
+sexual dysfunction.,2
+cerebellar ataxia,2
+right bundle branch block,2
+leukodystrophy,2
+poliomyelitis,2
+junctional epidermolysis bullosa,2
+lymphoblastic leukemia,2
+trigeminal neuralgia,,2
+cerebral venous sinus thrombosis,2
+respiratory disease,,2
+factitious disorder,2
+pulmonary edema.,2
+esotropia,2
+mood disorder,2
+liver disease,2
+metabolic acidosis,2
+chronic fatigue syndrome,,2
+aspiration pneumonia,2
+malaria,2
+dermatitis,2
+essential tremor,,2
+cleft palate,2
+urticaria,2
+metabolic acidosis.,2
+food allergy,,1
+plague,1
+vascular dementia,,1
+status epilepticus.,1
+irritable bowel syndrome,,1
+irritable bowel syndrome.,1
+thyroid disease,1
+bronchopneumonia,1
+bipolar disorder.,1
+eye disease,,1
+frontal sinusitis.,1
+acute respiratory distress syndrome,1
+optic neuropathy.,1
+autoimmune thyroiditis,1
+bone disease,,1
+enteropathy,1
+testicular cancer.,1
+testicular cancer,,1
+schizoaffective disorder,,1
+streptococcal meningitis,1
+coloboma,1
+congenital hypothyroidism,1
+dental caries.,1
+neonatal abstinence syndrome,1
+prostate cancer.,1
+periarthritis,1
+meningioma,1
+endocrine disease,1
+lung carcinoma,1
+chronic maxillary sinusitis.,1
+maxillary sinusitis.,1
+scrofula,1
+respiratory disease,1
+rubella,1
+gastritis,1
+anal cancer.,1
+dyslexia,1
+motion sickness.,1
+muscular dystrophy,,1
+motion sickness,,1
+cortical blindness,1
+generalized anxiety disorder;,1
+colon cancer,,1
+cholestasis,1
+generalized anxiety disorder.,1
+dacryocystitis,1
+gastrointestinal disease,,1
+bacterial disease,,1
+peanut allergy,1
+coeliac disease,,1
+pituitary apoplexy,1
+nasopharyngeal carcinoma,1
+social phobia,,1
+diabetes insipidus.,1
+neuromyelitis optica.,1
+opioid abuse,,1
+opioid abuse.,1
+juvenile idiopathic arthritis.,1
+complex regional pain syndrome,,1
+opioid abuse,1
+complex regional pain syndrome.,1
+allergic asthma.,1
+liver disease.,1
+tetanus,1
+atrial fibrillation.,1
+severe congenital neutropenia.,1
+pancreatic cancer,,1
+nervous system disease,1
+atopic dermatitis,,1
+colorectal cancer,1
+male infertility.,1
+myasthenia gravis,,1
+eosinophilic gastroenteritis,1
+infective endocarditis,1
+strabismus,1
+breast cancer.,1
+neoplasm,1
+radiculopathy,1
+neurological disorder.,1
+varicose veins.,1
+pericardial effusion,1
+lymphoblastic leukemia,,1
+spinal stenosis,1
+lymphoblastic leukemia.,1
+schwannoma,1
+hyperostosis,1
+peripheral artery disease,1
+gangliosidosis,1
+pulmonary embolism.,1
+acute maxillary sinusitis,,1
+rheumatoid arthritis.,1
+viral disease,1
+compartment syndrome,1
+typhoid fever,1
+cerebral infarction.,1
+otitis media,,1
+ovarian cancer,,1
+aphthous stomatitis,1
+substance abuse;,1
+otitis media;,1
+diabetic retinopathy,1
+dyspepsia,1
+cortical blindness,,1
+atrioventricular block.,1
+paraplegia,1
+choanal atresia?,1
+choanal atresia,,1
+systemic lupus erythematosus,1
+pancreatic cancer,1
+specific phobia,1
+lactic acidosis.,1
+cirrhosis,1
+colon cancer,1
+rabies,1
+cavernous sinus thrombosis,1
+chronic obstructive pulmonary disease.,1
+temporal lobe epilepsy.,1
+synovitis,1
+cystic fibrosis?,1
+aseptic meningitis,1
+oligodendroglioma,1
+bulimia nervosa,,1
+hypospadias,1
+anxiety disorder;,1
+hepatocellular carcinoma.,1
+androgenic alopecia,1
+common variable immunodeficiency,1
+sleep disorder,,1
+neonatal abstinence syndrome,,1
+sleep disorder.,1
+hypersomnia,1
+myeloid leukemia,1
+cocaine abuse,1
+premature ovarian failure,,1
+allergic rhinitis.,1
+chronic inflammatory demyelinating polyneuropathy,,1
+acute dacryocystitis,1
+eating disorder.,1
+polycystic ovary syndrome,1
+oral candidiasis.,1
+peptic ulcer.,1
+metabolic syndrome,,1
+macular edema.,1
+metabolic disorder,1
+interstitial cystitis,1
+second-degree atrioventricular block,1
+myeloid leukemia,,1
+short bowel syndrome,1
+panic disorder,,1
+aortic aneurysm,1
+allergic asthma,1
+carcinoma in situ,1
+necrotizing enterocolitis,,1
+cerebral venous sinus thrombosis.,1
+atrial septal defect,,1
+acute pyelonephritis,,1
+acute lymphoblastic leukemia.,1
+attention deficit hyperactivity disorder.,1
+viral disease,,1
+alcoholic cardiomyopathy,,1
+cervical cancer,1
+attention deficit hyperactivity disorder;,1
+adenoid hypertrophy,1
+neurogenic bladder,,1
+retinal ischemia,1
+alopecia,1
+infectious disease.,1
+acute myeloid leukemia,,1
+beta-thalassemia,1
+conversion disorder,,1
+hereditary hemorrhagic telangiectasia,,1
+autoimmune hepatitis,1
+skin cancer,,1
+trichotillomania,1
+substance dependence,1
+lactose intolerance,,1
+sickle cell anemia.,1
+major depressive disorder.,1
+major depressive disorder,,1
+arthropathy,1
+nephropathy,1
+heart disease;,1
+polycythemia,1
+somatoform disorder,1
+diabetic retinopathy,,1
+patent foramen ovale,1
+tetraplegia,1
+acute pancreatitis.,1
+neurofibromatosis,1
+acinic cell carcinoma,1
+thalassemia,1
+achromatopsia,1
+optic atrophy,1
+cardiac tamponade,,1
+post-traumatic stress disorder.,1
+chronic frontal sinusitis,,1
+rheumatic fever.,1
+chronic frontal sinusitis.,1
+rheumatic fever,,1
+scotoma,1
+acropustulosis,1
+hypoglycemia,1
+malabsorption,1
+spinal muscular atrophy,1
+degenerative disc disease.,1
+degenerative disc disease,,1
+thoracic outlet syndrome,1
+male infertility,1
+trigeminal neuralgia.,1
+iron deficiency anemia,1
+agoraphobia,1
+acute pancreatitis,1
+autoimmune thyroiditis.,1
+restless legs syndrome.,1
+pulmonary edema,,1
+narcolepsy,1
+myositis,1
+ulcerative colitis,,1
+pulmonary edema;,1
+anisometropia,1
+autoimmune disease,,1
+peripheral neuropathy,,1
+exotropia,1
+diabetes insipidus,1
+carcinoma in situ,,1
+chronic fatigue syndrome?,1
+vitiligo,1
+herpes zoster,,1
+acute maxillary sinusitis,1
+thrombophilia,1
+pericardial effusion;,1
+cholecystitis,1
+stomatitis,1
+inborn error of metabolism.,1
+osteonecrosis,1
+anorexia nervosa,1
+spinal muscular atrophy,,1
+porphyria,1
+vesicoureteral reflux,1
+essential tremor.,1
+cavernous sinus thrombosis,,1
+disseminated intravascular coagulation,1
+aortic atherosclerosis,,1
+hyperinsulinemia,1
+refractive error,,1
+mental disorder,,1
+polyneuropathy,1
+vasomotor rhinitis,1
+alcohol abuse.,1
+alcohol abuse,,1
+pain disorder,1
+metabolic acidosis,,1
+somatoform disorder,,1

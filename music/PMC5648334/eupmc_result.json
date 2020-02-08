@@ -1,0 +1,309 @@
+{
+  "id": [
+    "29057372"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29057372"
+  ],
+  "pmcid": [
+    "PMC5648334"
+  ],
+  "doi": [
+    "10.1016/j.ynpai.2017.03.002"
+  ],
+  "title": [
+    "Do the psychological effects of vagus nerve stimulation partially mediate vagal pain modulation?"
+  ],
+  "authorString": [
+    "Frangos E, Richards EA, Bushnell MC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Frangos E"
+          ],
+          "firstName": [
+            "Eleni"
+          ],
+          "lastName": [
+            "Frangos"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "National Center for Complementary and Integrative Health, National Institutes of Health, Bethesda, MD 20892."
+          ]
+        },
+        {
+          "fullName": [
+            "Richards EA"
+          ],
+          "firstName": [
+            "Emily A"
+          ],
+          "lastName": [
+            "Richards"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "affiliation": [
+            "National Center for Complementary and Integrative Health, National Institutes of Health, Bethesda, MD 20892."
+          ]
+        },
+        {
+          "fullName": [
+            "Bushnell MC"
+          ],
+          "firstName": [
+            "M Catherine"
+          ],
+          "lastName": [
+            "Bushnell"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "National Center for Complementary and Integrative Health, National Institutes of Health, Bethesda, MD 20892."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2610295"
+      ],
+      "dateOfPublication": [
+        "2017 Jan-Jul"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neurobiology of pain (Cambridge, Mass.)"
+          ],
+          "ISOAbbreviation": [
+            "Neurobiol Pain"
+          ],
+          "medlineAbbreviation": [
+            "Neurobiol Pain"
+          ],
+          "NLMid": [
+            "101705141"
+          ],
+          "ISSN": [
+            "2452-073X"
+          ],
+          "ESSN": [
+            "2452-073X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "37-45"
+  ],
+  "abstractText": [
+    "There is preclinical and clinical evidence that vagus nerve stimulation modulates both pain and mood state. Mechanistic studies show brainstem circuitry involved in pain modulation by vagus nerve stimulation, but little is known about possible indirect descending effects of altered mood state on pain perception. This possibility is important, since previous studies have shown that mood state affects pain, particularly the affective dimension (pain unpleasantness). To date, human studies investigating the effects of vagus nerve stimulation on pain perception have not reliably measured psychological factors to determine their role in altered pain perception elicited by vagus nerve stimulation. Thus, it remains unclear how much of a role psychological factors play in vagal pain modulation. Here, we present a rationale for including psychological measures in future vagus nerve stimulation studies on pain."
+  ],
+  "affiliation": [
+    "National Center for Complementary and Integrative Health, National Institutes of Health, Bethesda, MD 20892."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Z99 AT999999"
+          ],
+          "agency": [
+            "Intramural NIH HHS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pain",
+        "vagus nerve",
+        "Affect",
+        "Tvns"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ynpai.2017.03.002"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5648334"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5648334?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS871885"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-10-24"
+  ],
+  "firstIndexDate": [
+    "2017-10-23"
+  ],
+  "fullTextReceivedDate": [
+    "2018-05-18"
+  ],
+  "dateOfRevision": [
+    "2019-10-08"
+  ],
+  "electronicPublicationDate": [
+    "2017-05-17"
+  ],
+  "firstPublicationDate": [
+    "2017-01-01"
+  ],
+  "embargoDate": [
+    "2018-05-17"
+  ]
+}

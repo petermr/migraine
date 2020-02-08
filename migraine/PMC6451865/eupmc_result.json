@@ -1,0 +1,320 @@
+{
+  "id": [
+    "31037080"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31037080"
+  ],
+  "pmcid": [
+    "PMC6451865"
+  ],
+  "title": [
+    "Ictal Electroencephalographic Findings in Children with Migraine Headache."
+  ],
+  "authorString": [
+    "Shafagh H, Bakhshandeh MK, Matini E, Mohammadnur M, Taheri Otaghsara SM, Baktash A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shafagh H"
+          ],
+          "firstName": [
+            "Hamed"
+          ],
+          "lastName": [
+            "Shafagh"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Faculty of Medicine, Tehran Medical sciences , Islamic Azad university ,Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Bakhshandeh MK"
+          ],
+          "firstName": [
+            "Mohammad Kazem"
+          ],
+          "lastName": [
+            "Bakhshandeh"
+          ],
+          "initials": [
+            "MK"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Faculty of Medicine, Tehran Medical sciences , Islamic Azad university ,Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Matini E"
+          ],
+          "firstName": [
+            "Esfandiar"
+          ],
+          "lastName": [
+            "Matini"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Faculty of Medicine, Tehran Medical sciences , Islamic Azad university ,Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Mohammadnur M"
+          ],
+          "firstName": [
+            "Marjan"
+          ],
+          "lastName": [
+            "Mohammadnur"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Faculty of Medicine, Tehran Medical sciences , Islamic Azad university ,Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Taheri Otaghsara SM"
+          ],
+          "firstName": [
+            "Seyedeh Mohadeseh"
+          ],
+          "lastName": [
+            "Taheri Otaghsara"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Department of Sports Medicine, Taleghani Hospital, Shahid Beheshti University of Medical Sciences(SBMU), Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Baktash A"
+          ],
+          "firstName": [
+            "Aria"
+          ],
+          "lastName": [
+            "Baktash"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Medicine, Tehran University of Medical Sciences(TUMS), Tehran, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2810290"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Iranian journal of child neurology"
+          ],
+          "ISOAbbreviation": [
+            "Iran J Child Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Iran J Child Neurol"
+          ],
+          "NLMid": [
+            "101463836"
+          ],
+          "ISSN": [
+            "1735-4668"
+          ],
+          "ESSN": [
+            "2008-0700"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "71-75"
+  ],
+  "abstractText": [
+    "Objectives:In this study, the EEG findings in children with migraine headache were assessed in Bahrami Hospital, Tehran, Iran from 2014 to 2016. Materials & Methods:In this observational cross-sectional study, 71 consecutive children with migraine headache were enrolled. The EEG findings were determined and compared with other variables. Results:There were 25 cases (35.2%) with abnormal EEG and the type of EEG abnormality comprised slow waves and sharp waves in 19(68%) and 8(32%) patients, respectively. Conclusion:Nearly one-third of children with migraine might have abnormal EEG."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Faculty of Medicine, Tehran Medical sciences , Islamic Azad university ,Tehran, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "EEG",
+        "Children",
+        "Iran",
+        "Migraine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6451865"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6451865?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-01"
+  ],
+  "firstIndexDate": [
+    "2019-05-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-05"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ],
+  "embargoDate": [
+    "2019-06-01"
+  ]
+}

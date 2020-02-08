@@ -1,0 +1,639 @@
+{
+  "id": [
+    "27069774"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27069774"
+  ],
+  "pmcid": [
+    "PMC4809625"
+  ],
+  "doi": [
+    "10.1002/psp4.12049"
+  ],
+  "title": [
+    "Good Practices in Model-Informed Drug Discovery and Development: Practice, Application, and Documentation."
+  ],
+  "authorString": [
+    "EFPIA MID3 Workgroup, Marshall SF, Burghaus R, Cosson V, Cheung SY, Chenel M, DellaPasqua O, Frey N, Hamrén B, Harnisch L, Ivanow F, Kerbusch T, Lippert J, Milligan PA, Rohou S, Staab A, Steimer JL, Tornøe C, Visser SA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "collectiveName": [
+            "EFPIA MID3 Workgroup"
+          ]
+        },
+        {
+          "fullName": [
+            "Marshall SF"
+          ],
+          "firstName": [
+            "S F"
+          ],
+          "lastName": [
+            "Marshall"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "affiliation": [
+            "Pharmacometrics Pfizer Ltd Sandwich UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Burghaus R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Burghaus"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Systems Pharmacology & Medicine Bayer Pharma AG Wuppertal Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Cosson V"
+          ],
+          "firstName": [
+            "V"
+          ],
+          "lastName": [
+            "Cosson"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Clinical Pharmacometrics F. Hoffmann-La Roche Ltd Basel Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheung SY"
+          ],
+          "firstName": [
+            "S Y A"
+          ],
+          "lastName": [
+            "Cheung"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "affiliation": [
+            "Quantitative Clinical Pharmacology AstraZeneca Cambridge UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Chenel M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Chenel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institut de Recherches Internationales Servier Suresnes France."
+          ]
+        },
+        {
+          "fullName": [
+            "DellaPasqua O"
+          ],
+          "firstName": [
+            "O"
+          ],
+          "lastName": [
+            "DellaPasqua"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Clinical Pharmacology Modelling & Simulation GlaxoSmithKline R&D Ltd Uxbridge UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Frey N"
+          ],
+          "firstName": [
+            "N"
+          ],
+          "lastName": [
+            "Frey"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Clinical Pharmacometrics F. Hoffmann-La Roche Ltd Basel Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Hamrén B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Hamrén"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Quantitative Clinical Pharmacology AstraZeneca Gothenburg Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Harnisch L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Harnisch"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Pharmacometrics Pfizer Ltd Sandwich UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Ivanow F"
+          ],
+          "firstName": [
+            "F"
+          ],
+          "lastName": [
+            "Ivanow"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Global regulatory policy & Intelligence Janssen R&D High Wycombe UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Kerbusch T"
+          ],
+          "firstName": [
+            "T"
+          ],
+          "lastName": [
+            "Kerbusch"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Quantitative Pharmacology & Pharmacometrics MSD Oss Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Lippert J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Lippert"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0683-2874",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Systems Pharmacology & Medicine Bayer Pharma AG Wuppertal Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Milligan PA"
+          ],
+          "firstName": [
+            "P A"
+          ],
+          "lastName": [
+            "Milligan"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "affiliation": [
+            "Pharmacometrics Pfizer Ltd Sandwich UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Rohou S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Rohou"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Global Regulatory Affairs & Policy AstraZeneca Paris France."
+          ]
+        },
+        {
+          "fullName": [
+            "Staab A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Staab"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Translational Medicine & Clinical Pharmacology Boehringer Ingelheim Pharma GmbH & Co. KG Biberach Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Steimer JL"
+          ],
+          "firstName": [
+            "J L"
+          ],
+          "lastName": [
+            "Steimer"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Pharmacometrics Novartis Basel CH."
+          ]
+        },
+        {
+          "fullName": [
+            "Tornøe C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Tornøe"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Clinical Reporting Novo Nordisk A/S Søborg Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Visser SA"
+          ],
+          "firstName": [
+            "S A G"
+          ],
+          "lastName": [
+            "Visser"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Quantitative Pharmacology & Pharmacometrics Merck & Co Kenilworth USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0683-2874",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2397390"
+      ],
+      "dateOfPublication": [
+        "2016 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "CPT: pharmacometrics & systems pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "CPT Pharmacometrics Syst Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "CPT Pharmacometrics Syst Pharmacol"
+          ],
+          "NLMid": [
+            "101580011"
+          ],
+          "ISSN": [
+            "2163-8306"
+          ],
+          "ESSN": [
+            "2163-8306"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "93-122"
+  ],
+  "abstractText": [
+    "This document was developed to enable greater consistency in the practice, application, and documentation of Model-Informed Drug Discovery and Development (MID3) across the pharmaceutical industry. A collection of \"good practice\" recommendations are assembled here in order to minimize the heterogeneity in both the quality and content of MID3 implementation and documentation. The three major objectives of this white paper are to: i) inform company decision makers how the strategic integration of MID3 can benefit R&D efficiency; ii) provide MID3 analysts with sufficient material to enhance the planning, rigor, and consistency of the application of MID3; and iii) provide regulatory authorities with substrate to develop MID3 related and/or MID3 enabled guidelines."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Technology, Pharmaceutical"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Documentation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Guidelines as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/psp4.12049"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4809625"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4809625?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "52"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-12-14"
+  ],
+  "dateOfCreation": [
+    "2016-04-12"
+  ],
+  "firstIndexDate": [
+    "2016-04-13"
+  ],
+  "fullTextReceivedDate": [
+    "2016-04-14"
+  ],
+  "dateOfRevision": [
+    "2016-12-30"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-14"
+  ],
+  "firstPublicationDate": [
+    "2016-03-14"
+  ]
+}

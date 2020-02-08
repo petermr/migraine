@@ -1,0 +1,243 @@
+{
+  "id": [
+    "27347442"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27347442"
+  ],
+  "pmcid": [
+    "PMC4909520"
+  ],
+  "doi": [
+    "10.1212/CPJ.0000000000000251"
+  ],
+  "title": [
+    "Alice in Wonderland syndrome: A systematic review."
+  ],
+  "authorString": [
+    "Blom JD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Blom JD"
+          ],
+          "firstName": [
+            "Jan Dirk"
+          ],
+          "lastName": [
+            "Blom"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Parnassia Psychiatric Institute, The Hague; Leiden University, Leiden; and Department of Psychiatry, University of Groningen, Groningen, the Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2423090"
+      ],
+      "dateOfPublication": [
+        "2016 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neurology. Clinical practice"
+          ],
+          "ISOAbbreviation": [
+            "Neurol Clin Pract"
+          ],
+          "medlineAbbreviation": [
+            "Neurol Clin Pract"
+          ],
+          "NLMid": [
+            "101577149"
+          ],
+          "ISSN": [
+            "2163-0402"
+          ],
+          "ESSN": [
+            "2163-0933"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "259-270"
+  ],
+  "abstractText": [
+    "To summarize the literature on Alice in Wonderland syndrome (AIWS), a disorder characterized by distortions of visual perception, the body schema, and the experience of time.On the basis of 169 published case descriptions, the etiology of AIWS is divided into 8 main groups, with neurologic disorders affecting mostly adults and elderly patients and encephalitides affecting mostly patients aged ≤18 years. Symptoms of AIWS are also experienced in the general population, with up to 30% of adolescents reporting nonclinical symptoms.In clinical cases of AIWS, auxiliary investigations (including blood tests, EEG, and brain MRI) are strongly advised. Treatment should be directed at the suspected underlying condition, although reassurance that the symptoms themselves are not harmful seems to suffice in about 50% of the cases. International classifications such as the DSM and ICD should consider placing the syndrome on their research agenda."
+  ],
+  "affiliation": [
+    "Parnassia Psychiatric Institute, The Hague; Leiden University, Leiden; and Department of Psychiatry, University of Groningen, Groningen, the Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1212/CPJ.0000000000000251"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4909520"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4909520?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-06-27"
+  ],
+  "firstIndexDate": [
+    "2016-06-28"
+  ],
+  "fullTextReceivedDate": [
+    "2016-06-27"
+  ],
+  "dateOfRevision": [
+    "2016-06-29"
+  ],
+  "firstPublicationDate": [
+    "2016-06-01"
+  ]
+}

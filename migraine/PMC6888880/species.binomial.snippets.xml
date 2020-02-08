@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6888880/results/species/binomial/results.xml">
+  <result pre="daches were unified in a unique headline (10.1), including High altitude headache (10.1.1), " exact="Diving headache" xpath="/html[1]/body[1]/div[2]/div[3]/div[9]/div[2]/div[2]/div[2]/p[2]" match="Diving headache" post=" (10.1.2) and Sleep apnoea headache (10.1.3). Moreover, Headache attributed to arterial h" name="binomial"/>
+  <result pre="ciated to vascular disorders, were moved at the third digit of the first level (10.3), between " exact="Dyalisis headache" xpath="/html[1]/body[1]/div[2]/div[3]/div[9]/div[2]/div[2]/div[2]/p[2]" match="Dyalisis headache" post=" (10.2) and Headache attributed to hypothyroidism (10.4). Headache attributed to fasting&lt;" name="binomial"/>
+  <result pre="buted to fasting (10.5) substituted the older denomination &quot; Hypoglicemia&quot;, and the new " exact="Cardiac cephalalgia" xpath="/html[1]/body[1]/div[2]/div[3]/div[9]/div[2]/div[2]/div[2]/p[2]" match="Cardiac cephalalgia" post=" (10.6), a rare occurrence characterized by a close temporal relationship between the onset of head" name="binomial"/>
+  <result pre=" " exact="Although botulinum" match="Although botulinum" post=" toxin A is an established preventive treatment for migraine, its toxicity and the unwanted muscle " name="binomial"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,569 @@
+{
+  "id": [
+    "30171359"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30171359"
+  ],
+  "pmcid": [
+    "PMC6119171"
+  ],
+  "doi": [
+    "10.1186/s10194-018-0910-y"
+  ],
+  "title": [
+    "Prolonged migraine aura: new insights from a prospective diary-aided study."
+  ],
+  "authorString": [
+    "Viana M, Sances G, Linde M, Nappi G, Khaliq F, Goadsby PJ, Tassorelli C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Viana M"
+          ],
+          "firstName": [
+            "Michele"
+          ],
+          "lastName": [
+            "Viana"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4356-8109",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Headache Science Center, IRCCS Mondino Foundation, Pavia, Italy. michele.viana@ymail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Sances G"
+          ],
+          "firstName": [
+            "Grazia"
+          ],
+          "lastName": [
+            "Sances"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Headache Science Center, IRCCS Mondino Foundation, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Linde M"
+          ],
+          "firstName": [
+            "Mattias"
+          ],
+          "lastName": [
+            "Linde"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Norwegian University of Science and Technology, Trondheim, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Nappi G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Nappi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Headache Science Center, IRCCS Mondino Foundation, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Khaliq F"
+          ],
+          "firstName": [
+            "Farihah"
+          ],
+          "lastName": [
+            "Khaliq"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Headache Science Center, IRCCS Mondino Foundation, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Goadsby PJ"
+          ],
+          "firstName": [
+            "Peter J"
+          ],
+          "lastName": [
+            "Goadsby"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "affiliation": [
+            "Headache Group - NIHR-Wellcome Trust King's Clinical Research Facility, King's College, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Tassorelli C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Tassorelli"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Headache Science Center, IRCCS Mondino Foundation, Pavia, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4356-8109",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2713118"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "77"
+  ],
+  "abstractText": [
+    "BACKGROUND:There is limited literature on prolonged aura (PA - defined as an aura including at least one symptom for > 1 h and < 7d), and there are no prospective studies. The aim of this study is to characterize prospectively the phenotype and prevalence of PA. FINDINGS:Two hundred and twenty-four patients suffering from migraine with aura were recruited from the Headache Centers of Pavia and Trondheim. Patients prospectively described, on an ad hoc diary, each aura symptom (AS), the duration of AS and headache, and headache features. Seventy-two patients recorded three consecutive auras in their diaries. 19 (26.4%) of patients suffered at least one PA. Out of 216 recorded auras, 38 (17.6%) were PAs. We compared PAs with non-PAs with respect to 20 features; PAs were characterized by a higher number of non-visual symptoms (non-VS) (p < 0.001). No other differences were found. We obtained similar results when we compared auras with at least one symptom with a duration of > 2 h (n = 23) or > 4 h (n = 14) with the the others (n = 193 and n = 202 respectively). CONCLUSION:PAs are quite common. They do not differ from the other auras (even when their duration extends to 2 and/or 4 h) with the exception of a higher number of non-VS."
+  ],
+  "affiliation": [
+    "Headache Science Center, IRCCS Mondino Foundation, Pavia, Italy. michele.viana@ymail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "RC 2013-2015 to IRCCS Mondino Foundation"
+          ],
+          "agency": [
+            "Ministero della Salute (IT)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Medical Records"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine with Aura"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Features",
+        "Headache",
+        "Duration",
+        "Migraine With Aura",
+        "Prolonged Aura"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-018-0910-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6119171"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6119171?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-11-06"
+  ],
+  "dateOfCreation": [
+    "2018-09-02"
+  ],
+  "firstIndexDate": [
+    "2018-09-02"
+  ],
+  "fullTextReceivedDate": [
+    "2018-09-12"
+  ],
+  "dateOfRevision": [
+    "2018-11-06"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-31"
+  ],
+  "firstPublicationDate": [
+    "2018-08-31"
+  ]
+}

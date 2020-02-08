@@ -1,0 +1,457 @@
+{
+  "id": [
+    "24575066"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24575066"
+  ],
+  "pmcid": [
+    "PMC3920463"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2014.00090"
+  ],
+  "title": [
+    "Music reduces pain and increases functional mobility in fibromyalgia."
+  ],
+  "authorString": [
+    "Garza-Villarreal EA, Wilson AD, Vase L, Brattico E, Barrios FA, Jensen TS, Romero-Romo JI, Vuust P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Garza-Villarreal EA"
+          ],
+          "firstName": [
+            "Eduardo A"
+          ],
+          "lastName": [
+            "Garza-Villarreal"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1381-8648",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, Faculty of Medicine and University Hospital \"Dr. Jose E. Gonzalez\", Universidad Autonoma de Nuevo Leon Monterrey, Mexico ; Neuroscience Unit, Center for Research and Development in the Health Sciences (CIDICS), Universidad Autonoma de Nuevo Leon Monterrey, Mexico ; Music in the Brain, Center of Functionally Integrative Neuroscience, Aarhus University Aarhus, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson AD"
+          ],
+          "firstName": [
+            "Andrew D"
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "affiliation": [
+            "Faculty of Health and Social Sciences, School of Social, Psychological and Communication Sciences, Leeds Metropolitan University Leeds, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Vase L"
+          ],
+          "firstName": [
+            "Lene"
+          ],
+          "lastName": [
+            "Vase"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Danish Pain Research Center, Aarhus University Hospital Aarhus, Denmark ; Department of Psychology and Behavioral Sciences, Aarhus University Aarhus, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Brattico E"
+          ],
+          "firstName": [
+            "Elvira"
+          ],
+          "lastName": [
+            "Brattico"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0676-6464",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cognitive Brain Research Unit, Institute of Behavioral Sciences, University of Helsinki Helsinki, Finland ; Department of Music, Finnish Center of Excellence in Interdisciplinary Music Research, University of Jyväskylä Jyväskylä, Finland ; Brain and Mind Laboratory, Department of Biomedical Engineering and Computational Science, Aalto University School of Science Espoo, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Barrios FA"
+          ],
+          "firstName": [
+            "Fernando A"
+          ],
+          "lastName": [
+            "Barrios"
+          ],
+          "initials": [
+            "FA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5699-4222",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Behavioral and Cognitive Neurobiology, Institute of Neurobiology, Universidad Nacional Autonoma de Mexico Campus Juriquilla Queretaro, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Jensen TS"
+          ],
+          "firstName": [
+            "Troels S"
+          ],
+          "lastName": [
+            "Jensen"
+          ],
+          "initials": [
+            "TS"
+          ],
+          "affiliation": [
+            "Danish Pain Research Center, Aarhus University Hospital Aarhus, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Romero-Romo JI"
+          ],
+          "firstName": [
+            "Juan I"
+          ],
+          "lastName": [
+            "Romero-Romo"
+          ],
+          "initials": [
+            "JI"
+          ],
+          "affiliation": [
+            "General Hospital, Secretaria de Salud del Estado de Queretaro Queretaro, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Vuust P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Vuust"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Music in the Brain, Center of Functionally Integrative Neuroscience, Aarhus University Aarhus, Denmark ; Royal Academy of Music Aarhus, Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0676-6464",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5699-4222",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1381-8648",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2120176"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "90"
+  ],
+  "abstractText": [
+    "The pain in Fibromyalgia (FM) is difficult to treat and functional mobility seems to be an important comorbidity in these patients that could evolve into a disability. In this study we wanted to investigate the analgesic effects of music in FM pain. Twenty-two FM patients were passively exposed to (1) self-chosen, relaxing, pleasant music, and to (2) a control auditory condition (pink noise). They rated pain and performed the \"timed-up & go task (TUG)\" to measure functional mobility after each auditory condition. Listening to relaxing, pleasant, self-chosen music reduced pain and increased functional mobility significantly in our FM patients. The music-induced analgesia was significantly correlated with the TUG scores; thereby suggesting that the reduction in pain unpleasantness increased functional mobility. Notably, this mobility improvement was obtained with music played prior to the motor task (not during), therefore the effect cannot be explained merely by motor entrainment to a fast rhythm. Cognitive and emotional mechanisms seem to be central to music-induced analgesia. Our findings encourage the use of music as a treatment adjuvant to reduce chronic pain in FM and increase functional mobility thereby reducing the risk of disability."
+  ],
+  "affiliation": [
+    "Department of Neurology, Faculty of Medicine and University Hospital \"Dr. Jose E. Gonzalez\", Universidad Autonoma de Nuevo Leon Monterrey, Mexico ; Neuroscience Unit, Center for Research and Development in the Health Sciences (CIDICS), Universidad Autonoma de Nuevo Leon Monterrey, Mexico ; Music in the Brain, Center of Functionally Integrative Neuroscience, Aarhus University Aarhus, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Analgesia",
+        "Pain",
+        "music",
+        "Fibromyalgia",
+        "Functional Mobility"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24575066/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24575066/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2014.00090"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3920463"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3920463?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "18"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-02-27"
+  ],
+  "dateOfCreation": [
+    "2014-02-28"
+  ],
+  "firstIndexDate": [
+    "2014-03-03"
+  ],
+  "fullTextReceivedDate": [
+    "2014-02-28"
+  ],
+  "dateOfRevision": [
+    "2018-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2014-02-11"
+  ],
+  "firstPublicationDate": [
+    "2014-02-11"
+  ]
+}

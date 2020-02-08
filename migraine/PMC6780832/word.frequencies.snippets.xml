@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6780832/results/word/frequencies/results.xml">
+  <result title="frequency" word="pain" count="222"/>
+  <result title="frequency" word="chronic" count="117"/>
+  <result title="frequency" word="Pain" count="108"/>
+  <result title="frequency" word="treatment" count="76"/>
+  <result title="frequency" word="children" count="62"/>
+  <result title="frequency" word="interventions" count="45"/>
+  <result title="frequency" word="adolescents" count="41"/>
+  <result title="frequency" word="patients" count="41"/>
+  <result title="frequency" word="pediatric" count="39"/>
+  <result title="frequency" word="Chronic" count="33"/>
+  <result title="frequency" word="physical" count="32"/>
+  <result title="frequency" word="psychological" count="29"/>
+  <result title="frequency" word="therapy" count="29"/>
+  <result title="frequency" word="pain:" count="27"/>
+  <result title="frequency" word="rehabilitation" count="27"/>
+  <result title="frequency" word="(e.g.," count="24"/>
+  <result title="frequency" word="Palermo" count="23"/>
+  <result title="frequency" word="Pediatr." count="22"/>
+  <result title="frequency" word="functional" count="22"/>
+  <result title="frequency" word="intensive" count="22"/>
+  <result title="frequency" word="Eccleston" count="21"/>
+  <result title="frequency" word="evidence" count="21"/>
+  <result title="frequency" word="improvements" count="21"/>
+  <result title="frequency" word="pain," count="21"/>
+ </snippets>
+</snippetsTree>

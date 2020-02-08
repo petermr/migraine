@@ -1,0 +1,441 @@
+{
+  "id": [
+    "31307396"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31307396"
+  ],
+  "pmcid": [
+    "PMC6734284"
+  ],
+  "doi": [
+    "10.1186/s10194-019-1022-z"
+  ],
+  "title": [
+    "New daily persistent headache: a systematic review on an enigmatic disorder."
+  ],
+  "authorString": [
+    "Yamani N, Olesen J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yamani N"
+          ],
+          "firstName": [
+            "Nooshin"
+          ],
+          "lastName": [
+            "Yamani"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9273-0155",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Headache Department, Iranian Center of Neurological Research, Neuroscience Institute, Tehran University of Medical Sciences, Tehran, Iran. Nooshin.yamani@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Olesen J"
+          ],
+          "firstName": [
+            "Jes"
+          ],
+          "lastName": [
+            "Olesen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Danish Headache Centre and Department of Neurology, University of Copenhagen, Rigshospitalet Glostrup, Copenhagen, Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9273-0155",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2834248"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "80"
+  ],
+  "abstractText": [
+    "BACKGROUND:New daily persistent headache (NDPH) presents with a sudden onset headache which continues without remission within 24 h. Although rare, NDPH is important because it is one of the most treatment refractory primary headache disorders and can be highly disabling to the individuals. In this structured review, we describe the current knowledge of epidemiology, clinical features, trigger factors, pathophysiology, diagnosis and therapeutic options of NDPH to better understand this enigmatic disorder. The prevalence of NDPH estimated to be 0.03% to 0.1% in the general population and is higher in children and adolescents than in adults. Individuals with NDPH can pinpoint the exact date their headache started. The pain is constant and lacks special characteristics but in some has migraine features. The exact pathogenic mechanism of NDPH is unknown, however pro-inflammatory cytokines and cervicogenic problems might play a role in its development. The diagnosis of NDPH is mainly clinical and based on a typical history, but proper laboratory investigation is needed to exclude secondary causes of headache. Regarding treatment strategy, controlled drug trials are absent. It is probably best to treat NDPH based upon the predominant headache phenotype. For patients who do not respond to common prophylactic drugs, ketamine infusion, onabotulinum toxin type A, intravenous (IV) lidocaine, IV methylprednisolone and nerve blockade are possible treatment options, but even aggressive treatment is usually ineffective. CONCLUSION:NDPH remains poorly understood but very burdensome for the individual. Multi-center randomized controlled trials are recommended to gain better understanding of NDPH and to establish evidence based treatments."
+  ],
+  "affiliation": [
+    "Headache Department, Iranian Center of Neurological Research, Neuroscience Institute, Tehran University of Medical Sciences, Tehran, Iran. Nooshin.yamani@yahoo.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "not applicable"
+          ],
+          "agency": [
+            "candys foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chronic Daily Headache",
+        "New Daily Persistent Headache",
+        "Primary Headache Disorders",
+        "Ndph"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-019-1022-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734284"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734284?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-10-24"
+  ],
+  "dateOfCreation": [
+    "2019-07-17"
+  ],
+  "firstIndexDate": [
+    "2019-07-18"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-10-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-15"
+  ],
+  "firstPublicationDate": [
+    "2019-07-15"
+  ]
+}

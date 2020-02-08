@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="drugs">
+ <result pre="The remaining 5 patients (3/5 females) used the following medications:" exact="acetaminophen" post="(15 mg/kg), ibuprofen (10 mg/kg) and ketoprofen (1.5 mg/kg)"/>
+ <result pre="patients (3/5 females) used the following medications: acetaminophen (15 mg/kg)," exact="ibuprofen" post="(10 mg/kg) and ketoprofen (1.5 mg/kg) were taken within"/>
+ <result pre="the following medications: acetaminophen (15 mg/kg), ibuprofen (10 mg/kg) and" exact="ketoprofen" post="(1.5 mg/kg) were taken within few minutes after the"/>
+ <result pre="No 5 F 8.2 20 9 Pulsating Frontal, bilateral Yes," exact="acetaminophen" post="6 M 11 30 1 Pulsating Frontal, bilateral Yes,"/>
+ <result pre="acetaminophen 6 M 11 30 1 Pulsating Frontal, bilateral Yes," exact="acetaminophen" post="7 F 15.5 20 8 Pressing Frontal, bilateral No"/>
+ <result pre="No 11 F 12 20 9 Pulsating Diffuse, bilateral Yes," exact="ketoprofen" post="12 F 16 30 8 Pulsating Frontal, bilateral No"/>
+ <result pre="No 14 M 9 30 7 Tightening Diffuse, unilateral Yes," exact="acetaminophen" post="15 F 12.5 30 8 Tightening Occipital, unilateral Yes,"/>
+ <result pre="acetaminophen 15 F 12.5 30 8 Tightening Occipital, unilateral Yes," exact="ibuprofen" post="Discussion The present study was performed on a selected"/>
+</results>

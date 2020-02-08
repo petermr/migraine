@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="nt exposures where a positive plant identification was made were the following (descending order): " exact="Phytolacca americana" xpath="/html[1]/body[1]/div[2]/div[4]/div[19]/p[1]" match="Phytolacca americana" post=" (L.) (Botanic name), Spathiphyllum species (Botanic name), Cherry (Species unspecifi" name="binomial"/>
+ <result pre="ecies unspecified), Ilex species (Botanic name), Philodendron (Species unspecified), " exact="Caladium species" match="Caladium species" post=" (Botanic name of all species of the genus caladium) and Malus species (Botanic name) " name="binomial"/>
+</results>

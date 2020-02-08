@@ -1,0 +1,614 @@
+{
+  "id": [
+    "30822311"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30822311"
+  ],
+  "pmcid": [
+    "PMC6396935"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0212021"
+  ],
+  "title": [
+    "A parallel randomized controlled trial examining the effects of rhythmic sensory stimulation on fibromyalgia symptoms."
+  ],
+  "authorString": [
+    "Braun Janzen T, Paneduro D, Picard L, Gordon A, Bartel LR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Braun Janzen T"
+          ],
+          "firstName": [
+            "Thenille"
+          ],
+          "lastName": [
+            "Braun Janzen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9578-8539",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Music and Health Research Collaboratory, Faculty of Music, University of Toronto, Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Paneduro D"
+          ],
+          "firstName": [
+            "Denise"
+          ],
+          "lastName": [
+            "Paneduro"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Wasser Pain Management Centre, Sinai Health System, Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Picard L"
+          ],
+          "firstName": [
+            "Larry"
+          ],
+          "lastName": [
+            "Picard"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3510-3064",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wasser Pain Management Centre, Sinai Health System, Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Gordon A"
+          ],
+          "firstName": [
+            "Allan"
+          ],
+          "lastName": [
+            "Gordon"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Wasser Pain Management Centre, Sinai Health System, Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Bartel LR"
+          ],
+          "firstName": [
+            "Lee R"
+          ],
+          "lastName": [
+            "Bartel"
+          ],
+          "initials": [
+            "LR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3925-5292",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Music, University of Toronto, Toronto, Ontario, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3925-5292",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9578-8539",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3510-3064",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2787621"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0212021"
+  ],
+  "abstractText": [
+    "This double-blind, two-arm parallel randomized controlled trial investigated the effects of gamma-frequency rhythmic sensory stimulation on fibromyalgia. We were interested in whether rhythmic sensory stimulation would promote significant changes in fibromyalgia and associated symptoms, and whether treatment effects would differ between two distinct treatment parameters. Fifty patients with a formal diagnosis of fibromyalgia were randomly assigned to two test groups. One group received vibrotactile stimulation from a continuous sine wave single-frequency stimulation (40 Hz) for 30 minutes, five days per week, over five weeks, concomitant with usual care. The second group completed the same treatment protocol but received a different stimulation, consisting of random and intermittent complex wave gamma-range vibrotactile stimulation. Fibromyalgia symptoms, pain severity and interference, depression symptoms, quality of life and sleep quality were assessed at baseline and post-intervention. Results indicated that there were statistically significant changes from baseline to post-treatment in measures of fibromyalgia symptom severity, pain interference, depression, and sleep quality. However, treatment outcomes did not differ significantly between groups. These findings provide preliminary evidence that gamma-frequency rhythmic vibroacoustic stimulation may decrease fibromyalgia symptoms and ease associated comorbidities, opening new avenues for further investigation of the effects of rhythmic sensory stimulation on chronic pain conditions."
+  ],
+  "affiliation": [
+    "Music and Health Research Collaboratory, Faculty of Music, University of Toronto, Toronto, Ontario, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fibromyalgia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Disease"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Measurement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depression"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Comorbidity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vibration"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gamma Rays"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Management"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0212021"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6396935"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6396935?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2020-01-06"
+  ],
+  "dateOfCreation": [
+    "2019-03-02"
+  ],
+  "firstIndexDate": [
+    "2019-03-02"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-13"
+  ],
+  "dateOfRevision": [
+    "2020-01-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-01"
+  ],
+  "firstPublicationDate": [
+    "2019-03-01"
+  ]
+}

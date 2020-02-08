@@ -1,0 +1,309 @@
+{
+  "id": [
+    "31360189"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31360189"
+  ],
+  "pmcid": [
+    "PMC6657237"
+  ],
+  "doi": [
+    "10.5114/aoms.2019.86061"
+  ],
+  "title": [
+    "Mitochondria in migraine pathophysiology - does epigenetics play a role?"
+  ],
+  "authorString": [
+    "Fila M, Pawłowska E, Blasiak J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fila M"
+          ],
+          "firstName": [
+            "Michał"
+          ],
+          "lastName": [
+            "Fila"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0748-7080",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, Polish Mother Memorial Hospital, Research Institute, Lodz, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Pawłowska E"
+          ],
+          "firstName": [
+            "Elżbieta"
+          ],
+          "lastName": [
+            "Pawłowska"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Orthodontics, Medical University of Lodz, Lodz, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Blasiak J"
+          ],
+          "firstName": [
+            "Janusz"
+          ],
+          "lastName": [
+            "Blasiak"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Molecular Genetics, University of Lodz, Lodz, Poland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0748-7080",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2841899"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Archives of medical science : AMS"
+          ],
+          "ISOAbbreviation": [
+            "Arch Med Sci"
+          ],
+          "medlineAbbreviation": [
+            "Arch Med Sci"
+          ],
+          "NLMid": [
+            "101258257"
+          ],
+          "ISSN": [
+            "1734-1922"
+          ],
+          "ESSN": [
+            "1896-9151"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "944-956"
+  ],
+  "abstractText": [
+    "The approximately three times higher rate of migraine prevalence in women than men may result from the mitochondrial transmission of this disease. Studies with imaging techniques suggest disturbances in mitochondrial metabolism in specific regions of the brain in migraine patients. Migraine shares some clinical features with several mitochondrial diseases and many other disorders include migraine headaches. Epigenetic regulation of mitochondrial DNA (mtDNA) is a matter of debate and there are some conflicting results, especially on mtDNA methylation. Micro RNAs (miRNAs) and long-noncoding RNA (lncRNAs) have been detected in mitochondria. The regulation of the miRNA-lncRNA axis can be important for mitochondrial physiology and its impairment can result in a disease phenotype. Further studies on the role of mitochondrial epigenetic modifications in migraine are needed, but they require new methods and approaches."
+  ],
+  "affiliation": [
+    "Department of Neurology, Polish Mother Memorial Hospital, Research Institute, Lodz, Poland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "DNA methylation",
+        "Mitochondrial DNA",
+        "micro RNA",
+        "Long Non-coding Rna"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5114/aoms.2019.86061"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6657237"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6657237?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-31"
+  ],
+  "firstIndexDate": [
+    "2019-08-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-31"
+  ],
+  "dateOfRevision": [
+    "2019-08-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-20"
+  ],
+  "firstPublicationDate": [
+    "2019-06-20"
+  ]
+}

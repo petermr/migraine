@@ -1,0 +1,439 @@
+{
+  "id": [
+    "31331109"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31331109"
+  ],
+  "pmcid": [
+    "PMC6680509"
+  ],
+  "doi": [
+    "10.3390/brainsci9070172"
+  ],
+  "title": [
+    "Upregulation of IL-1 Receptor Antagonist in a Mouse Model of Migraine."
+  ],
+  "authorString": [
+    "Lombardo SD, Mazzon E, Basile MS, Cavalli E, Bramanti P, Nania R, Fagone P, Nicoletti F, Petralia MC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lombardo SD"
+          ],
+          "firstName": [
+            "Salvo Danilo"
+          ],
+          "lastName": [
+            "Lombardo"
+          ],
+          "initials": [
+            "SD"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Biotechnological Sciences, University of Catania, Via S. Sofia 89, 95123 Catania, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Mazzon E"
+          ],
+          "firstName": [
+            "Emanuela"
+          ],
+          "lastName": [
+            "Mazzon"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "IRCCS Centro Neurolesi Bonino Pulejo, Strada Statale 113, C.da Casazza, 98124 Messina, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Basile MS"
+          ],
+          "firstName": [
+            "Maria Sofia"
+          ],
+          "lastName": [
+            "Basile"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4811-4694",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical and Biotechnological Sciences, University of Catania, Via S. Sofia 89, 95123 Catania, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cavalli E"
+          ],
+          "firstName": [
+            "Eugenio"
+          ],
+          "lastName": [
+            "Cavalli"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "IRCCS Centro Neurolesi Bonino Pulejo, Strada Statale 113, C.da Casazza, 98124 Messina, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bramanti P"
+          ],
+          "firstName": [
+            "Placido"
+          ],
+          "lastName": [
+            "Bramanti"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "IRCCS Centro Neurolesi Bonino Pulejo, Strada Statale 113, C.da Casazza, 98124 Messina, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Nania R"
+          ],
+          "firstName": [
+            "Riccardo"
+          ],
+          "lastName": [
+            "Nania"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Biotechnological Sciences, University of Catania, Via S. Sofia 89, 95123 Catania, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Fagone P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Fagone"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Biotechnological Sciences, University of Catania, Via S. Sofia 89, 95123 Catania, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Nicoletti F"
+          ],
+          "firstName": [
+            "Ferdinando"
+          ],
+          "lastName": [
+            "Nicoletti"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Biotechnological Sciences, University of Catania, Via S. Sofia 89, 95123 Catania, Italy. ferdinic@unict.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Petralia MC"
+          ],
+          "firstName": [
+            "Maria Cristina"
+          ],
+          "lastName": [
+            "Petralia"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9643-1045",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "IRCCS Centro Neurolesi Bonino Pulejo, Strada Statale 113, C.da Casazza, 98124 Messina, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4811-4694",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9643-1045",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2834206"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain sciences"
+          ],
+          "ISOAbbreviation": [
+            "Brain Sci"
+          ],
+          "medlineAbbreviation": [
+            "Brain Sci"
+          ],
+          "NLMid": [
+            "101598646"
+          ],
+          "ISSN": [
+            "2076-3425"
+          ],
+          "ESSN": [
+            "2076-3425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Migraine is a disorder characterized by attacks of monolateral headaches, often accompanied by nausea, vomiting, and photophobia. Around 30% of patients also report aura symptoms. The cause of the aura is believed to be related to the cortical spreading depression (CSD), a wave of neuronal and glial depolarization originating in the occipital cortex, followed by temporary neuronal silencing. During a migraine attack, increased expression of inflammatory mediators, along with a decrease in the expression of anti-inflammatory genes, have been observed. The aim of this study was to evaluate the expression of inflammatory genes, in particular that of IL-1 receptor antagonist (IL-1RN), following CSD in a mouse model of familial hemiplegic migraine type 1 (FHM-1). We show here that the expression of IL-1RN was upregulated after the CSD, suggesting a possible attempt to modulate the inflammatory response. This study allows researchers to better understand the development of the disease and aids in the search for new therapeutic strategies in migraine."
+  ],
+  "affiliation": [
+    "Department of Biomedical and Biotechnological Sciences, University of Catania, Via S. Sofia 89, 95123 Catania, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Current research funds 2018"
+          ],
+          "agency": [
+            "IRCCS \"Centro Neurolesi \"Bonino Pulejo\", Messina-Italy."
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "cortical spreading depression",
+        "Mouse Model",
+        "Il-1rn"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/brainsci9070172"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6680509"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6680509?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-24"
+  ],
+  "firstIndexDate": [
+    "2019-07-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-11"
+  ],
+  "dateOfRevision": [
+    "2019-08-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-19"
+  ],
+  "firstPublicationDate": [
+    "2019-07-19"
+  ]
+}

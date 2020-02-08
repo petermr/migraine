@@ -1,0 +1,539 @@
+{
+  "id": [
+    "31226929"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31226929"
+  ],
+  "pmcid": [
+    "PMC6734342"
+  ],
+  "doi": [
+    "10.1186/s10194-019-1017-9"
+  ],
+  "title": [
+    "Advances in genetics of migraine."
+  ],
+  "authorString": [
+    "Sutherland HG, Albury CL, Griffiths LR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sutherland HG"
+          ],
+          "firstName": [
+            "Heidi G"
+          ],
+          "lastName": [
+            "Sutherland"
+          ],
+          "initials": [
+            "HG"
+          ],
+          "affiliation": [
+            "Genomics Research Centre, Institute of Health and Biomedical Innovation. School of Biomedical Sciences, Queensland University of Technology (QUT), Brisbane, QLD, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Albury CL"
+          ],
+          "firstName": [
+            "Cassie L"
+          ],
+          "lastName": [
+            "Albury"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7556-6998",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genomics Research Centre, Institute of Health and Biomedical Innovation. School of Biomedical Sciences, Queensland University of Technology (QUT), Brisbane, QLD, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Griffiths LR"
+          ],
+          "firstName": [
+            "Lyn R"
+          ],
+          "lastName": [
+            "Griffiths"
+          ],
+          "initials": [
+            "LR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6774-5475",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genomics Research Centre, Institute of Health and Biomedical Innovation. School of Biomedical Sciences, Queensland University of Technology (QUT), Brisbane, QLD, Australia. lyn.griffiths@qut.edu.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7556-6998",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6774-5475",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2823273"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "72"
+  ],
+  "abstractText": [
+    "BACKGROUND:Migraine is a complex neurovascular disorder with a strong genetic component. There are rare monogenic forms of migraine, as well as more common polygenic forms; research into the genes involved in both types has provided insights into the many contributing genetic factors. This review summarises advances that have been made in the knowledge and understanding of the genes and genetic variations implicated in migraine etiology. FINDINGS:Migraine is characterised into two main types, migraine without aura (MO) and migraine with aura (MA). Hemiplegic migraine is a rare monogenic MA subtype caused by mutations in three main genes - CACNA1A, ATP1A2 and SCN1A - which encode ion channel and transport proteins. Functional studies in cellular and animal models show that, in general, mutations result in impaired glutamatergic neurotransmission and cortical hyperexcitability, which make the brain more susceptible to cortical spreading depression, a phenomenon thought to coincide with aura symptoms. Variants in other genes encoding ion channels and solute carriers, or with roles in regulating neurotransmitters at neuronal synapses, or in vascular function, can also cause monogenic migraine, hemiplegic migraine and related disorders with overlapping symptoms. Next-generation sequencing will accelerate the finding of new potentially causal variants and genes, with high-throughput bioinformatics analysis methods and functional analysis pipelines important in prioritising, confirming and understanding the mechanisms of disease-causing variants. With respect to common migraine forms, large genome-wide association studies (GWAS) have greatly expanded our knowledge of the genes involved, emphasizing the role of both neuronal and vascular pathways. Dissecting the genetic architecture of migraine leads to greater understanding of what underpins relationships between subtypes and comorbid disorders, and may have utility in diagnosis or tailoring treatments. Further work is required to identify causal polymorphisms and the mechanism of their effect, and studies of gene expression and epigenetic factors will help bridge the genetics with migraine pathophysiology. CONCLUSIONS:The complexity of migraine disorders is mirrored by their genetic complexity. A comprehensive knowledge of the genetic factors underpinning migraine will lead to improved understanding of molecular mechanisms and pathogenesis, to enable better diagnosis and treatments for migraine sufferers."
+  ],
+  "affiliation": [
+    "Genomics Research Centre, Institute of Health and Biomedical Innovation. School of Biomedical Sciences, Queensland University of Technology (QUT), Brisbane, QLD, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multifactorial Inheritance"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine with Aura"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome-Wide Association Study"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cortical Spreading Depression"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "NAV1.1 Voltage-Gated Sodium Channel"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mutation",
+        "Genetics",
+        "Variant",
+        "Single nucleotide polymorphism",
+        "Migraine",
+        "Genome-wide Association Study",
+        "Migraine With Aura",
+        "Migraine Without Aura",
+        "Hemiplegic Migraine"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "NAV1.1 Voltage-Gated Sodium Channel"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "SCN1A protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-019-1017-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734342"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734342?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp",
+        "omim"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-09-02"
+  ],
+  "dateOfCreation": [
+    "2019-06-23"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-09-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-21"
+  ],
+  "firstPublicationDate": [
+    "2019-06-21"
+  ]
+}

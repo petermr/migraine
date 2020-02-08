@@ -1,0 +1,576 @@
+{
+  "id": [
+    "30077016"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30077016"
+  ],
+  "pmcid": [
+    "PMC6204882"
+  ],
+  "doi": [
+    "10.1016/j.concog.2018.07.009"
+  ],
+  "title": [
+    "Musical hallucinations, musical imagery, and earworms: A new phenomenological survey."
+  ],
+  "authorString": [
+    "Moseley P, Alderson-Day B, Kumar S, Fernyhough C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Moseley P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Moseley"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9284-2509",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Psychology Department, Durham University, South Road, Durham DH1 3LE, United Kingdom; School of Psychology, University of Central Lancashire, Marsh Lane, Preston PR1 2HE, United Kingdom. Electronic address: peter.moseley@durham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Alderson-Day B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Alderson-Day"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0546-8043",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Psychology Department, Durham University, South Road, Durham DH1 3LE, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar S"
+          ],
+          "firstName": [
+            "Sukhbinder"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3025-9040",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Neuroscience, Newcastle University, Newcastle NE1 7RU, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Fernyhough C"
+          ],
+          "firstName": [
+            "Charles"
+          ],
+          "lastName": [
+            "Fernyhough"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Psychology Department, Durham University, South Road, Durham DH1 3LE, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0546-8043",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9284-2509",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3025-9040",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "65"
+      ],
+      "journalIssueId": [
+        "2735847"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Consciousness and cognition"
+          ],
+          "ISOAbbreviation": [
+            "Conscious Cogn"
+          ],
+          "medlineAbbreviation": [
+            "Conscious Cogn"
+          ],
+          "NLMid": [
+            "9303140"
+          ],
+          "ISSN": [
+            "1053-8100"
+          ],
+          "ESSN": [
+            "1090-2376"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "83-94"
+  ],
+  "abstractText": [
+    "Musical hallucinations (MH) account for a significant proportion of auditory hallucinations, but there is a relative lack of research into their phenomenology. In contrast, much research has focused on other forms of internally generated musical experience, such as earworms (involuntary and repetitive inner music), showing that they can vary in perceived control, repetitiveness, and in their effect on mood. We conducted a large online survey (N = 270), including 44 participants with MH, asking participants to rate imagery, earworms, or MH on several variables. MH were reported as occurring less frequently, with less controllability, less lyrical content, and lower familiarity, than other forms of inner music. MH were also less likely to be reported by participants with higher levels of musical expertise. The findings are outlined in relation to other forms of hallucinatory experience and inner music, and their implications for psychological models of hallucinations discussed."
+  ],
+  "affiliation": [
+    "Psychology Department, Durham University, South Road, Durham DH1 3LE, United Kingdom; School of Psychology, University of Central Lancashire, Marsh Lane, Preston PR1 2HE, United Kingdom. Electronic address: peter.moseley@durham.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "WT098455"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "WT098455 "
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "WT108720"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hallucinations"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Imagination"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Auditory Perception"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Music"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phenomenology",
+        "Earworms",
+        "Mental Imagery",
+        "Auditory Hallucinations",
+        "Musical Hallucinations"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.concog.2018.07.009"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6204882"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6204882?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-25"
+  ],
+  "dateOfCreation": [
+    "2018-08-05"
+  ],
+  "firstIndexDate": [
+    "2018-08-05"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-08"
+  ],
+  "dateOfRevision": [
+    "2019-11-25"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-01"
+  ],
+  "firstPublicationDate": [
+    "2018-08-01"
+  ]
+}

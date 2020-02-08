@@ -1,0 +1,329 @@
+{
+  "id": [
+    "31187008"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31187008"
+  ],
+  "pmcid": [
+    "PMC6541167"
+  ],
+  "doi": [
+    "10.7759/cureus.4343"
+  ],
+  "title": [
+    "Further Evidence that Onabotulinum Toxin is a Viable Treatment Option for Pediatric Chronic Migraine Patients."
+  ],
+  "authorString": [
+    "Ali SS, Bragin I, Rende E, Mejico L, Werner KE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ali SS"
+          ],
+          "firstName": [
+            "Sameer S"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Neurology, Veterans Affairs Connecticut Healthcare System, West Haven, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bragin I"
+          ],
+          "firstName": [
+            "Ilya"
+          ],
+          "lastName": [
+            "Bragin"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Neurology, St. Lukes University Health Network, Bethlehem, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rende E"
+          ],
+          "firstName": [
+            "Elizabeth"
+          ],
+          "lastName": [
+            "Rende"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Neurology, Duke University, Durham, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mejico L"
+          ],
+          "firstName": [
+            "Luis"
+          ],
+          "lastName": [
+            "Mejico"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Neurology, State University of New York, Syracuse, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Werner KE"
+          ],
+          "firstName": [
+            "Klaus E"
+          ],
+          "lastName": [
+            "Werner"
+          ],
+          "initials": [
+            "KE"
+          ],
+          "affiliation": [
+            "Neurology, Duke University, Durham, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2793735"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cureus"
+          ],
+          "ISOAbbreviation": [
+            "Cureus"
+          ],
+          "medlineAbbreviation": [
+            "Cureus"
+          ],
+          "NLMid": [
+            "101596737"
+          ],
+          "ISSN": [
+            "2168-8184"
+          ],
+          "ESSN": [
+            "2168-8184"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e4343"
+  ],
+  "abstractText": [
+    "Introduction Chronic migraine is particularly devastating. It affects school work, extracurricular activities, and quality of life, including relationships with other family members, and can also influence the mental health of both the migraineurs and family members. According to the International Classification of Headache Disorders, 3rd edition (ICHD-3), chronic migraine is defined as 15 or more headache days per month for greater than three months, where at least on eight days per month, there are features of migraine headache. Although botulinum toxin type A (BoNTA) has been proven effective for treating chronic migraine in adults, little literature exists about its use in children. Here, we present the treatment response in children with chronic migraines treated with BoNTA at our institutions Duke and State University of New York (SUNY) Upstate. Method A retrospective analysis of 30 adolescent migraineurs who met ICHD-3 criteria for chronic migraine were treated with BoNTA injection according to the standardized adult protocol. Descriptive statistics and paired t-tests were performed. A total of 185 units of botulinum toxin were injected intramuscularly per patient, as in addition to the standard 31 sites for a total of 155 units, an additional 30 units were given in areas that were felt to provide further benefit. Results Participants (n=30) were 16.5 ± 1.83 years old. The headaches were precipitated by trauma in seven cases. All had failed standard pharmacotherapy, including amitriptyline and topiramate. An average of 2.47 ± 1.6 BoNTA injection cycles was performed. Migraine severity decreased significantly from 7.47 ± 1.89 on a 10-point scale to 4.34 ± 3.02 (p<.001). Additionally, headache frequency improved from 24.4 ± 7.49 painful days per month to 14.8 ± 12.52 painful days per month (p<.001). One patient developed nausea related to injections; all others tolerated it well, with no side effects. Discussion BoNTA injection was a safe and effective therapy for chronic migraine in our cohort of children recalcitrant to medical therapy. Further research with multi-centered, double-blinded, randomized, placebo-controlled trials is warranted to evaluate the long-term safety and efficacy in this population."
+  ],
+  "affiliation": [
+    "Neurology, Veterans Affairs Connecticut Healthcare System, West Haven, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stress",
+        "Children",
+        "Pediatrics",
+        "Pain Management",
+        "Headaches",
+        "Academic Performance",
+        "Family Relations",
+        "Social Health",
+        "Chronic Migraine",
+        "Pediatric Migraine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7759/cureus.4343"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6541167"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6541167?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-13"
+  ],
+  "firstIndexDate": [
+    "2019-06-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-13"
+  ],
+  "dateOfRevision": [
+    "2019-06-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-29"
+  ],
+  "firstPublicationDate": [
+    "2019-03-29"
+  ]
+}

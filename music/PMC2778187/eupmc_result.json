@@ -1,0 +1,279 @@
+{
+  "id": [
+    "19960050"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19960050"
+  ],
+  "pmcid": [
+    "PMC2778187"
+  ],
+  "doi": [
+    "10.1155/2009/812960"
+  ],
+  "title": [
+    "Hairy cell leukemia and bladder cancer in a patient: relation with dye exposure and review of the literaure."
+  ],
+  "authorString": [
+    "Paydas S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Paydas S"
+          ],
+          "firstName": [
+            "Semra"
+          ],
+          "lastName": [
+            "Paydas"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Oncology, Faculty of Medicine, Cukurova University, Adana 01330, Turkey."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2009"
+      ],
+      "journalIssueId": [
+        "1679557"
+      ],
+      "dateOfPublication": [
+        "2009 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Advances in hematology"
+          ],
+          "ISOAbbreviation": [
+            "Adv Hematol"
+          ],
+          "medlineAbbreviation": [
+            "Adv Hematol"
+          ],
+          "NLMid": [
+            "101504271"
+          ],
+          "ISSN": [
+            "1687-9104"
+          ],
+          "ESSN": [
+            "1687-9112"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2009"
+  ],
+  "pageInfo": [
+    "812960"
+  ],
+  "abstractText": [
+    "Chemical exposure is important in the etiology of some cancers. Dye or solvent exposures are important both in bladder cancer (BC) and hairy cell leukemia (HCL). Here a case with BC and HCL has been presented and literature has been reviewed."
+  ],
+  "affiliation": [
+    "Department of Oncology, Faculty of Medicine, Cukurova University, Adana 01330, Turkey."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19960050/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19960050/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2009/812960"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2778187"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2778187?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2009-12-05"
+  ],
+  "firstIndexDate": [
+    "2009-12-26"
+  ],
+  "fullTextReceivedDate": [
+    "2013-04-15"
+  ],
+  "dateOfRevision": [
+    "2019-02-26"
+  ],
+  "electronicPublicationDate": [
+    "2009-04-29"
+  ],
+  "firstPublicationDate": [
+    "2009-04-29"
+  ]
+}

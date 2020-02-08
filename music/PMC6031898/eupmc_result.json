@@ -1,0 +1,639 @@
+{
+  "id": [
+    "29925497"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29925497"
+  ],
+  "pmcid": [
+    "PMC6031898"
+  ],
+  "doi": [
+    "10.2196/10292"
+  ],
+  "title": [
+    "A Newly Designed Mobile-Based Computerized Cognitive Addiction Therapy App for the Improvement of Cognition Impairments and Risk Decision Making in Methamphetamine Use Disorder: Randomized Controlled Trial."
+  ],
+  "authorString": [
+    "Zhu Y, Jiang H, Su H, Zhong N, Li R, Li X, Chen T, Tan H, Du J, Xu D, Yan H, Xu D, Zhao M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhu Y"
+          ],
+          "firstName": [
+            "Youwei"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7891-3297",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang H"
+          ],
+          "firstName": [
+            "Haifeng"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8499-2825",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Su H"
+          ],
+          "firstName": [
+            "Hang"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5730-2259",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhong N"
+          ],
+          "firstName": [
+            "Na"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4656-2936",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li R"
+          ],
+          "firstName": [
+            "Runji"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4533-0970",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai South West Weiyu Middle School, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xiaotong"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8213-9126",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen T"
+          ],
+          "firstName": [
+            "Tianzhen"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6105-8749",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tan H"
+          ],
+          "firstName": [
+            "Haoye"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9689-0583",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Du J"
+          ],
+          "firstName": [
+            "Jiang"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4014-1070",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu D"
+          ],
+          "firstName": [
+            "Ding"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5844-9869",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Bureau of Drug Rehabilitation Administration, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan H"
+          ],
+          "firstName": [
+            "Huan"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0674-9560",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Qingdong Compulsory Drug Dependence Rehablitation Center, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu D"
+          ],
+          "firstName": [
+            "Dawen"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4858-6269",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Qingdong Compulsory Drug Dependence Rehablitation Center, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao M"
+          ],
+          "firstName": [
+            "Min"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4551-043X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9689-0583",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4656-2936",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8499-2825",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5730-2259",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4858-6269",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6105-8749",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5844-9869",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4533-0970",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8213-9126",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4014-1070",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4551-043X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7891-3297",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0674-9560",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2692533"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JMIR mHealth and uHealth"
+          ],
+          "ISOAbbreviation": [
+            "JMIR Mhealth Uhealth"
+          ],
+          "medlineAbbreviation": [
+            "JMIR Mhealth Uhealth"
+          ],
+          "NLMid": [
+            "101624439"
+          ],
+          "ISSN": [
+            "2291-5222"
+          ],
+          "ESSN": [
+            "2291-5222"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e10292"
+  ],
+  "abstractText": [
+    "Cognitive rehabilitation therapy has been found to improve cognitive deficits and impulse control problems in methamphetamine use disorder (MUD). However, there is limited research regarding this therapy's feasibility when using mobile-based health technologies in supporting recovery from MUD in China.The main aim of this study was to test whether 4 weeks of a newly designed computerized cognitive addiction therapy (CCAT) app can improve cognitive impairments, eliminate drug-related attention bias, and attenuate risk decision-making behaviors in participants with MUD.Forty MUD participants were assigned randomly to either the CCAT group (n=20), who received 4 weeks of CCAT plus regular detoxification treatment as usual, or the control group (n=20), who only received the regular detoxification treatment as usual, in drug rehabilitation centers in Shanghai. The CCAT was designed by combine methamphetamine use-related picture stimuli with cognitive training with the aim of improving cognitive function and eliminating drug-related attention bias. The CogState Battery, Delay Discounting Task (DDT), Iowa Gambling Task (IGT), and Balloon Analog Risk Task (BART) were administered face-to-face to all participants before and after CCAT interventions.Forty male patients were recruited. The mean age was 32.70 (SD 5.27) years in the CCAT group and mean 35.05 (SD 8.02) years in the control group. Compared to the control group, CCAT improved working memory in the CCAT group (P=.01). Group×time interactions were observed among DDT, IGT, and BART tasks, with rates of discounting delayed rewards, IGT, and BART scores (P<.001) being reduced among those who received CCAT, whereas no changes were found in the control group.The newly designed CCAT can help to improve cognitive impairment and impulsive control in MUD. Further study is needed to understand the underlying brain mechanisms of the cognitive therapy.ClinicalTrials.gov NCT03318081; https://clinicaltrials.gov/ct2/show/NCT03318081 (Archived by WebCite at https://clinicaltrials.gov/ct2/show/NCT03318081)."
+  ],
+  "affiliation": [
+    "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "methamphetamine",
+        "Cognitive function",
+        "Impulse Control",
+        "Attention Bias",
+        "Methamphetamine Use Disorder",
+        "Risk Decision Making"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2196/10292"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6031898"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-06-22"
+  ],
+  "firstIndexDate": [
+    "2018-06-22"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-14"
+  ],
+  "dateOfRevision": [
+    "2018-07-13"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-20"
+  ],
+  "firstPublicationDate": [
+    "2018-06-20"
+  ]
+}

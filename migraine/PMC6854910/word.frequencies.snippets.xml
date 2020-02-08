@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6854910/results/word/frequencies/results.xml">
+  <result title="frequency" word="disease" count="45"/>
+  <result title="frequency" word="celiac" count="39"/>
+  <result title="frequency" word="patients" count="27"/>
+  <result title="frequency" word="PCD" count="26"/>
+  <result title="frequency" word="children" count="24"/>
+  <result title="frequency" word="potential" count="23"/>
+  <result title="frequency" word="Gastroenterology" count="21"/>
+ </snippets>
+</snippetsTree>

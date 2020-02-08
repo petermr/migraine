@@ -1,0 +1,289 @@
+{
+  "id": [
+    "30559709"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30559709"
+  ],
+  "pmcid": [
+    "PMC6287109"
+  ],
+  "doi": [
+    "10.3389/fneur.2018.01034"
+  ],
+  "title": [
+    "Concussion Subtype Identification With the Rivermead Post-concussion Symptoms Questionnaire."
+  ],
+  "authorString": [
+    "Maruta J, Lumba-Brown A, Ghajar J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Maruta J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Maruta"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Brain Trauma Foundation, New York, NY, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Lumba-Brown A"
+          ],
+          "firstName": [
+            "Angela"
+          ],
+          "lastName": [
+            "Lumba-Brown"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Emergency Medicine, Stanford University School of Medicine, Stanford, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghajar J"
+          ],
+          "firstName": [
+            "Jamshid"
+          ],
+          "lastName": [
+            "Ghajar"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Brain Trauma Foundation, New York, NY, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2647770"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1034"
+  ],
+  "abstractText": [
+    "Classifying concussion in key subtypes according to presenting symptomatology at an early post-injury stage is an emerging approach that may allow prediction of clinical trajectories and delivery of targeted treatments. The Rivermead Post-concussion Symptoms Questionnaire (RPQ) is a simple, freely available, and widely used tool for assessment of the presence and severity of various post-concussion symptoms. We aimed to probe the prevalence among athletes of symptom classes associated with identified concussion phenotypes using the RPQ at baseline and acutely after a concussion. Participants of organized sports aged 12-30 years were baseline-assessed with the expectation that some would experience a concussion during the study period. Concussed athletes were re-assessed within 2 weeks of their injuries. The RPQ was supplemented with three specific questions and reworded for baseline assessment. A binomial test was used to contrast the prevalence of an attribute in the concussed cohort against the probability established by the baseline observation. Three thousand and eighty-eight athletes were baseline-assessed and eighty-nine were re-assessed post-concussion. All concussed athletes endorsed having some elevated symptoms in the RPQ, and such endorsements were more prevalent than those among normal athletes. Moderate-to-severe post-concussion symptoms of specific classes tended to be endorsed with few additional symptoms of other classes of similar intensities. Elevated symptoms detected with the RPQ within as short as 2 weeks after a concussion may help delineate patients' clinical subtypes and guide their treatment. Further refinement of symptom questionnaires and use of objective measures will be needed to properly populate the concussion subtype classification."
+  ],
+  "affiliation": [
+    "Brain Trauma Foundation, New York, NY, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sleep",
+        "Vestibular",
+        "Migraine",
+        "Fatigue",
+        "epidemiology",
+        "Cognitive",
+        "Mild Traumatic Brain Injury (Mtbi)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2018.01034"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6287109"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6287109?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-19"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-21"
+  ],
+  "dateOfRevision": [
+    "2018-12-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-03"
+  ],
+  "firstPublicationDate": [
+    "2018-12-03"
+  ]
+}

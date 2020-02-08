@@ -1,0 +1,549 @@
+{
+  "id": [
+    "30203397"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30203397"
+  ],
+  "pmcid": [
+    "PMC6131682"
+  ],
+  "doi": [
+    "10.1186/s10194-018-0912-9"
+  ],
+  "title": [
+    "Correction to: Hormonal contraceptives and risk of ischemic stroke in women with migraine: a consensus statement from the European Headache Federation (EHF) and the European Society of Contraception and Reproductive Health (ESC)."
+  ],
+  "authorString": [
+    "Sacco S, Merki-Feld GS, Ægidius KL, Bitzer J, Canonico M, Kurth T, Lampl C, Lidegaard Ø, Anne MacGregor E, MaassenVanDenBrink A, Mitsikostas DD, Nappi RE, Ntaios G, Sandset PM, Martelletti P, European Headache Federation (EHF) and the European Society of Contraception and Reproductive Health (ESC)."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sacco S"
+          ],
+          "firstName": [
+            "Simona"
+          ],
+          "lastName": [
+            "Sacco"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0651-1939",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Applied Clinical Sciences and Biotechnology, University of L'Aquila, L'Aquila, Italy. simona.sacco@univaq.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Merki-Feld GS"
+          ],
+          "firstName": [
+            "Gabriele S"
+          ],
+          "lastName": [
+            "Merki-Feld"
+          ],
+          "initials": [
+            "GS"
+          ],
+          "affiliation": [
+            "Department of Gynecology, Clinic for Reproductive Endocrinology, University Hospital, Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Ægidius KL"
+          ],
+          "firstName": [
+            "Karen Lehrmann"
+          ],
+          "lastName": [
+            "Ægidius"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "affiliation": [
+            "Department of Neurology, Bispebjerg Hospital and University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Bitzer J"
+          ],
+          "firstName": [
+            "Johannes"
+          ],
+          "lastName": [
+            "Bitzer"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Obstetrics and Gynecology, University Hospital of Basel, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Canonico M"
+          ],
+          "firstName": [
+            "Marianne"
+          ],
+          "lastName": [
+            "Canonico"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Université Paris-Saclay, University Paris-Sud, UVSQ, CESP, Inserm UMRS1018, Orsay, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Kurth T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Kurth"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Institute of Public Health, Charité - Universitätsmedizin Berlin, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lampl C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Lampl"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Headache Medical Center Seilerstaette Linz, Linz, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Lidegaard Ø"
+          ],
+          "firstName": [
+            "Øjvind"
+          ],
+          "lastName": [
+            "Lidegaard"
+          ],
+          "initials": [
+            "Ø"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynaecology, Rigshospitalet, Faculty of Health Sciences, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Anne MacGregor E"
+          ],
+          "firstName": [
+            "E"
+          ],
+          "lastName": [
+            "Anne MacGregor"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Centre for Neuroscience & Trauma, BICMS, Barts and the London School of Medicine and Dentistry, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "MaassenVanDenBrink A"
+          ],
+          "firstName": [
+            "Antoinette"
+          ],
+          "lastName": [
+            "MaassenVanDenBrink"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Division of Vascular Medicine and Pharmacology, Department of Internal Medicine, Erasmus Medical Center Rotterdam, Rotterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Mitsikostas DD"
+          ],
+          "firstName": [
+            "Dimos-Dimitrios"
+          ],
+          "lastName": [
+            "Mitsikostas"
+          ],
+          "initials": [
+            "DD"
+          ],
+          "affiliation": [
+            "Department of Neurology, Aeginition Hospital, National and Kapodistrian University of Athens, Athens, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Nappi RE"
+          ],
+          "firstName": [
+            "Rossella Elena"
+          ],
+          "lastName": [
+            "Nappi"
+          ],
+          "initials": [
+            "RE"
+          ],
+          "affiliation": [
+            "Research Centre for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ntaios G"
+          ],
+          "firstName": [
+            "George"
+          ],
+          "lastName": [
+            "Ntaios"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Medicine, University of Thessaly, Larissa, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Sandset PM"
+          ],
+          "firstName": [
+            "Per Morten"
+          ],
+          "lastName": [
+            "Sandset"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            "Department of Haematology, Oslo University Hospital and University of Oslo, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Martelletti P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Martelletti"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Clinical and Molecular Medicine, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "collectiveName": [
+            "European Headache Federation (EHF) and the European Society of Contraception and Reproductive Health (ESC)"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0651-1939",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2722721"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "81"
+  ],
+  "abstractText": [
+    "Following the publication of this article [1], the authors noticed that they incorrectly reported the Absolute risk of ischemic stroke in women aged 20 to 44 years in relation to the use of hormonal contraception and migraine status due to a miscalculation. They apologize for this misreported result."
+  ],
+  "affiliation": [
+    "Department of Applied Clinical Sciences and Biotechnology, University of L'Aquila, L'Aquila, Italy. simona.sacco@univaq.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Published Erratum",
+        "correction",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NNF14OC0011645"
+          ],
+          "agency": [
+            "Novo Nordisk Fonden"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-018-0912-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6131682"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6131682?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29086160"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "J Headache Pain. 2017 Oct 30;18(1):108"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-12"
+  ],
+  "firstIndexDate": [
+    "2018-09-11"
+  ],
+  "fullTextReceivedDate": [
+    "2018-09-29"
+  ],
+  "dateOfRevision": [
+    "2019-05-31"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-10"
+  ],
+  "firstPublicationDate": [
+    "2018-09-10"
+  ]
+}

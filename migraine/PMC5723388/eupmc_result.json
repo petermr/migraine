@@ -1,0 +1,420 @@
+{
+  "id": [
+    "29259575"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29259575"
+  ],
+  "pmcid": [
+    "PMC5723388"
+  ],
+  "doi": [
+    "10.3389/fneur.2017.00656"
+  ],
+  "title": [
+    "Visually Induced Dizziness in Children and Validation of the Pediatric Visually Induced Dizziness Questionnaire."
+  ],
+  "authorString": [
+    "Pavlou M, Whitney SL, Alkathiry AA, Huett M, Luxon LM, Raglan E, Godfrey EL, Bamiou DE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pavlou M"
+          ],
+          "firstName": [
+            "Marousa"
+          ],
+          "lastName": [
+            "Pavlou"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5861-2865",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre of Human and Aerospace Physiological Sciences, King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Whitney SL"
+          ],
+          "firstName": [
+            "Susan L"
+          ],
+          "lastName": [
+            "Whitney"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Physical Therapy, School of Health and Rehabilitation Sciences, University of Pittsburgh, Pittsburgh, PA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Alkathiry AA"
+          ],
+          "firstName": [
+            "Abdulaziz A"
+          ],
+          "lastName": [
+            "Alkathiry"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7715-6773",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Physical Therapy, College of Applied Medical Sciences Majmaah University, Majmaah, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Huett M"
+          ],
+          "firstName": [
+            "Marian"
+          ],
+          "lastName": [
+            "Huett"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Physiology, King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Luxon LM"
+          ],
+          "firstName": [
+            "Linda M"
+          ],
+          "lastName": [
+            "Luxon"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "affiliation": [
+            "Department of Audiology, Royal National Throat, Nose and Ear Hospital, University College London NHS Hospital Trust, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Raglan E"
+          ],
+          "firstName": [
+            "Ewa"
+          ],
+          "lastName": [
+            "Raglan"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Audiological Medicine Department, Great Ormond Street Hospital for Children, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Godfrey EL"
+          ],
+          "firstName": [
+            "Emma L"
+          ],
+          "lastName": [
+            "Godfrey"
+          ],
+          "initials": [
+            "EL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8995-9653",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Health and Social Care, King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Bamiou DE"
+          ],
+          "firstName": [
+            "Doris-Eva"
+          ],
+          "lastName": [
+            "Bamiou"
+          ],
+          "initials": [
+            "DE"
+          ],
+          "affiliation": [
+            "University College London Ear Institute, London, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7715-6773",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5861-2865",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8995-9653",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2550588"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "656"
+  ],
+  "abstractText": [
+    "To develop and validate the Pediatric Visually Induced Dizziness Questionnaire (PVID) and quantify the presence and severity of visually induced dizziness (ViD), i.e., symptoms induced by visual motion stimuli including crowds and scrolling computer screens in children.169 healthy (female n = 89; recruited from mainstream schools, London, UK) and 114 children with a primary migraine, concussion, or vestibular disorder diagnosis (female n = 62), aged 6-17 years, were included. Children with primary migraine were recruited from mainstream schools while children with concussion or vestibular disorder were recruited from tertiary balance centers in London, UK, and Pittsburgh, PA, USA. Children completed the PVID, which assesses the frequency of dizziness and unsteadiness experienced in specific environmental situations, and Strength and Difficulties Questionnaire (SDQ), a brief behavioral screening instrument.The PVID showed high internal consistency (11 items; α = 0.90). A significant between-group difference was noted with higher (i.e., worse) PVID scores for patients vs. healthy participants (U = 2,436.5, z = -10.719, p < 0.001); a significant difference was noted between individual patient groups [χ2(2) = 11.014, p = 0.004] but post hoc analysis showed no significant pairwise comparisons. The optimal cut-off score for discriminating between individuals with and without abnormal ViD levels was 0.45 out of 3 (sensitivity 83%, specificity 75%). Self-rated emotional (U = 2,730.0, z = -6.169) and hyperactivity (U = 3,445.0, z = -4.506) SDQ subscale as well as informant (U = 188.5, z = -3.916) and self-rated (U = 3,178.5, z = -5.083) total scores were significantly worse for patients compared to healthy participants (p < 0.001).ViD is common in children with a primary concussion, migraine, or vestibular diagnosis. The PVID is a valid measure for identifying the presence of ViD in children and should be used to identify and quantify these symptoms, which require specific management incorporating exposure to optokinetic stimuli."
+  ],
+  "affiliation": [
+    "Centre of Human and Aerospace Physiological Sciences, King's College London, London, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Motion sickness",
+        "Concussion",
+        "Vestibular Disorders",
+        "Environmental Dizziness Triggers"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2017.00656"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5723388"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5723388?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-12-21"
+  ],
+  "firstIndexDate": [
+    "2017-12-21"
+  ],
+  "fullTextReceivedDate": [
+    "2017-12-22"
+  ],
+  "dateOfRevision": [
+    "2017-12-22"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-05"
+  ],
+  "firstPublicationDate": [
+    "2017-12-05"
+  ]
+}

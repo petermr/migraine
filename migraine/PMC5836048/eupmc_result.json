@@ -1,0 +1,291 @@
+{
+  "id": [
+    "29414874"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29414874"
+  ],
+  "pmcid": [
+    "PMC5836048"
+  ],
+  "doi": [
+    "10.3390/brainsci8020029"
+  ],
+  "title": [
+    "Acute Confusional Migraine: Distinct Clinical Entity or Spectrum of Migraine Biology?"
+  ],
+  "authorString": [
+    "Farooqi AM, Padilla JM, Monteith TS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Farooqi AM"
+          ],
+          "firstName": [
+            "Ashar M"
+          ],
+          "lastName": [
+            "Farooqi"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Department of Neurology-Headache Division, University of Miami, Miller School of Medicine, Miami, FL 33136, USA. farooqam@ucmail.uc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Padilla JM"
+          ],
+          "firstName": [
+            "Jennifer M"
+          ],
+          "lastName": [
+            "Padilla"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Department of Neurology-Headache Division, University of Miami, Miller School of Medicine, Miami, FL 33136, USA. Jennifer.Padilla1@BSWhealth.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Monteith TS"
+          ],
+          "firstName": [
+            "Teshamae S"
+          ],
+          "lastName": [
+            "Monteith"
+          ],
+          "initials": [
+            "TS"
+          ],
+          "affiliation": [
+            "Department of Neurology-Headache Division, University of Miami, Miller School of Medicine, Miami, FL 33136, USA. tmonteith@med.miami.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2647423"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain sciences"
+          ],
+          "ISOAbbreviation": [
+            "Brain Sci"
+          ],
+          "medlineAbbreviation": [
+            "Brain Sci"
+          ],
+          "NLMid": [
+            "101598646"
+          ],
+          "ISSN": [
+            "2076-3425"
+          ],
+          "ESSN": [
+            "2076-3425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The goal of this review is to explore the literature reports of acute confusional migraine (ACM) including patient characteristics, migraine symptomatology, and proposed diagnostic criteria. A literature review was conducted using PubMed, Scopus and Web of Science using the terms \"confusional migraine\" and \"confusional state in migraine\". All the relevant articles from 1970 to 2016 were included. A total of 120 patients were found in the literature. Most of the cases were seen in the pediatric population with a slight male predominance. Personal or family history of migraine was common. Most patients had a headache prior to the confusional state. In addition to confusion and agitation, some developed visual (32.5%) and/or sensory symptoms (19%) and/or speech problems (39%) either prior to or during the confusional state. Data on treatment outcomes is lacking. Patients with most common forms of migraine report attention and cognitive disturbances but awareness remains intact as opposed to patients with ACM. ACM is a distinct entity and should be included as part of the appendix of International Classification of Headache Disoders-3 beta version (ICHD-3β) criteria. Prospective studies are needed to further study this disorder and its association with other migraine forms."
+  ],
+  "affiliation": [
+    "Department of Neurology-Headache Division, University of Miami, Miller School of Medicine, Miami, FL 33136, USA. farooqam@ucmail.uc.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Diagnosis",
+        "Agitation",
+        "Cognitive",
+        "Aura",
+        "Acute Confusional Migraine",
+        "Migraine Variant",
+        "Disorientation",
+        "International Classification Of Headache Disoders-3 Beta Version"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/brainsci8020029"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5836048"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5836048?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-08"
+  ],
+  "firstIndexDate": [
+    "2018-02-09"
+  ],
+  "fullTextReceivedDate": [
+    "2018-03-09"
+  ],
+  "dateOfRevision": [
+    "2018-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-07"
+  ],
+  "firstPublicationDate": [
+    "2018-02-07"
+  ]
+}

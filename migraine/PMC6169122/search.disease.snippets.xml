@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6169122/results/search/disease/results.xml">
+  <result pre="Migraine headache without aura is the most common type of" exact="migraine" post="especially among pediatric patients. It has always been a"/>
+  <result pre="pediatric patients. It has always been a great challenge of" exact="migraine" post="diagnosis using quantitative electroencephalography measurements through feature classification. It"/>
+  <result pre="beta) and for all wave bands combined. Results: The highest" exact="migraine" post="detection accuracy of 93% was obtained utilizing Welch’s method"/>
+  <result pre="and Burg-AR method and classifiers like support vector machine, for" exact="migraine" post="detection is not a new subject [ 6, 7],"/>
+  <result pre="the efficacy of different classification methods is a novelty for" exact="migraine" post="detection, which can absolutely aid migraine computer-aided diagnosis and"/>
+  <result pre="is a novelty for migraine detection, which can absolutely aid" exact="migraine" post="computer-aided diagnosis and follow up. In this research, EEG"/>
+  <result pre="all 4 combinations were compared to obtain best combination of" exact="migraine" post="detection accuracy. Materials and Methods Data acquisition EEG recording"/>
+  <result pre="(12.7 ± 3.12 years, mean ± standard deviation) diagnosed with" exact="migraine" post="without aura, based on ICHD3 criteria of headache disorders,"/>
+  <result pre="healthy subjects (7 males and 12 females) in terms of" exact="migraine" post="or any other headache disorder, also aged between 8"/>
+  <result pre="feature extraction and classification method in computer aided diagnosis of" exact="migraine" post="without aura has very little amount of background of"/>
+  <result pre="O2 are the most decisive ones in EEG-based diagnosis of" exact="migraine" post="having a maximum of 88.4% diagnostic accuracy which is"/>
+  <result pre="effort which makes this research distinct from previous efforts in" exact="migraine" post="EEG classification. Besides, this work has some practical limitations."/>
+  <result pre="the future. Besides, although this study focuses on pediatric EEG" exact="migraine" post="classification, further efforts in this field could include EEG"/>
+  <result pre="could include EEG from adult migraineurs. In sum, analyzing pediatric" exact="migraine" post="EEG using two feature extraction tools and two classification"/>
+  <result pre="[ PMC Free Article] 15145989 3 Hedges TR Jr Pediatric" exact="migraine" post="Am J Ophthalmol 1983 95 844 5 6859200 4"/>
+  <result pre="Tuncel D Alkan A Classification of multi-channel EEG signals for" exact="migraine" post="detection Biomedical Research 2016 27 743 8 7 Bellotti"/>
+ </snippets>
+</snippetsTree>

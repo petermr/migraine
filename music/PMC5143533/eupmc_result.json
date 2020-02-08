@@ -1,0 +1,178 @@
+{
+  "id": [
+    "PMC5143533"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5143533"
+  ],
+  "title": [
+    "The Way with the Nerves."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2569070"
+      ],
+      "dateOfPublication": [
+        "1912 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "1912"
+      ],
+      "printPublicationDate": [
+        "1912-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Psychological clinic"
+          ],
+          "ISOAbbreviation": [
+            "Psychol Clin"
+          ],
+          "medlineAbbreviation": [
+            "Psychol Clin"
+          ],
+          "NLMid": [
+            "0024034"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1912"
+  ],
+  "pageInfo": [
+    "26-27"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "book-review",
+        "Book Review"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143533/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5143533"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-06-18"
+  ],
+  "firstIndexDate": [
+    "2017-06-19"
+  ],
+  "fullTextReceivedDate": [
+    "2017-05-25"
+  ],
+  "dateOfRevision": [
+    "2019-10-01"
+  ],
+  "firstPublicationDate": [
+    "1912-03-01"
+  ]
+}

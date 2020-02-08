@@ -1,0 +1,549 @@
+{
+  "id": [
+    "29299391"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29299391"
+  ],
+  "pmcid": [
+    "PMC5745251"
+  ],
+  "doi": [
+    "10.1002/brb3.874"
+  ],
+  "title": [
+    "The auditory comprehension changes over time after sport-related concussion can indicate multisensory processing dysfunctions."
+  ],
+  "authorString": [
+    "Białuńska A, Salvatore AP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Białuńska A"
+          ],
+          "firstName": [
+            "Anita"
+          ],
+          "lastName": [
+            "Białuńska"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4296-4388",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Rehabilitation Sciences College of Health Sciences University of Texas at El Paso El Paso TX USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Salvatore AP"
+          ],
+          "firstName": [
+            "Anthony P"
+          ],
+          "lastName": [
+            "Salvatore"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation Sciences College of Health Sciences University of Texas at El Paso El Paso TX USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4296-4388",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2634764"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain and behavior"
+          ],
+          "ISOAbbreviation": [
+            "Brain Behav"
+          ],
+          "medlineAbbreviation": [
+            "Brain Behav"
+          ],
+          "NLMid": [
+            "101570837"
+          ],
+          "ISSN": [
+            "2162-3279"
+          ],
+          "ESSN": [
+            "2162-3279"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e00874"
+  ],
+  "abstractText": [
+    "Background:Although science findings and treatment approaches of a concussion have changed in recent years, there continue to be challenges in understanding the nature of the post-concussion behavior. There is growing a body of evidence that some deficits can be related to an impaired auditory processing. Purpose:To assess auditory comprehension changes over time following sport-related concussion (SRC) in young athletes. Methods:A prospective, repeated measures mixed-design was used. A sample of concussed athletes (n = 137) and the control group consisted of age-matched, non-concussed athletes (n = 143) were administered Subtest VIII of the Computerized-Revised Token Test (C-RTT). The 88 concussed athletes selected for final analysis (neither previous history of brain injury, neurological, psychiatric problems, nor auditory deficits) were evaluated after injury during three sessions (PC1, PC2, and PC3); controls were tested once. Between- and within-group comparisons using RMANOVA were performed on the C-RTT Efficiency Score (ES). Results:ES of the SRC athletes group improved over consecutive testing sessions (F = 14.7, p < .001), while post-hoc analysis showed that PC1 results differed from PC2 and PC3 (ts ≥ 4.0, ps < .001), but PC2 and PC3 C-RTT ES did not change statistically (t = 0.6, p = .557). The SRC athletes demonstrated lower ES for all test session when compared to the control group (ts > 2.0, Ps<.01). Conclusion:Dysfunctional auditory comprehension performance following a concussion improved over time, but after the second testing session improved performance slowed, especially in terms of its timing. Yet, not only auditory processing but also sensorimotor integration and/or motor execution can be compromised after a concussion."
+  ],
+  "affiliation": [
+    "Department of Rehabilitation Sciences College of Health Sciences University of Texas at El Paso El Paso TX USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Concussion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Athletic Injuries"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Case-Control Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Longitudinal Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Comprehension"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Auditory Perception"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sports"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Athletes"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "timing",
+        "Concussion",
+        "Auditory Comprehension",
+        "Auditory Processing",
+        "Sensorimotor Integration"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/brb3.874"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5745251"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5745251?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-11"
+  ],
+  "dateOfCreation": [
+    "2018-01-05"
+  ],
+  "firstIndexDate": [
+    "2018-01-05"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-05"
+  ],
+  "dateOfRevision": [
+    "2019-02-15"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-29"
+  ],
+  "firstPublicationDate": [
+    "2017-11-29"
+  ]
+}

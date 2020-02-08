@@ -1,0 +1,287 @@
+{
+  "id": [
+    "22934158"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22934158"
+  ],
+  "pmcid": [
+    "PMC3420407"
+  ],
+  "doi": [
+    "10.1155/2012/163731"
+  ],
+  "title": [
+    "Epilepsy, mental health disorder, or both?"
+  ],
+  "authorString": [
+    "Beletsky V, Mirsattari SM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Beletsky V"
+          ],
+          "firstName": [
+            "Vadim"
+          ],
+          "lastName": [
+            "Beletsky"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Mirsattari SM"
+          ],
+          "firstName": [
+            "Seyed M"
+          ],
+          "lastName": [
+            "Mirsattari"
+          ],
+          "initials": [
+            "SM"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2012"
+      ],
+      "journalIssueId": [
+        "1960986"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Epilepsy research and treatment"
+          ],
+          "ISOAbbreviation": [
+            "Epilepsy Res Treat"
+          ],
+          "medlineAbbreviation": [
+            "Epilepsy Res Treat"
+          ],
+          "NLMid": [
+            "101576602"
+          ],
+          "ISSN": [
+            "2090-1348"
+          ],
+          "ESSN": [
+            "2090-1356"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "163731"
+  ],
+  "abstractText": [
+    "Temporal lobe epilepsy (TLE), a subset of the seizure disorder family, represents a complex neuropsychiatric illness, where the neurological presentation may be complemented by varying severity of affective, behavioral, psychotic, or personality abnormalities, which, in turn, may not only lead to misdiagnosis, but also affect the management. This paper outlines a spectrum of mental health presentations, including psychosis, mood, anxiety, panic, and dissociative states, associated with epilepsy that make the correct diagnosis a challenge."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, The University of Western Ontario, London, ON, Canada N6A 4G5."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22934158/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22934158/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2012/163731"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3420407"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3420407?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-30"
+  ],
+  "dateOfCreation": [
+    "2012-08-30"
+  ],
+  "firstIndexDate": [
+    "2012-08-31"
+  ],
+  "fullTextReceivedDate": [
+    "2012-09-02"
+  ],
+  "dateOfRevision": [
+    "2013-04-02"
+  ],
+  "electronicPublicationDate": [
+    "2011-12-15"
+  ],
+  "firstPublicationDate": [
+    "2011-12-15"
+  ]
+}

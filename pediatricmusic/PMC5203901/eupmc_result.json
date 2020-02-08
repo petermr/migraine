@@ -1,0 +1,801 @@
+{
+  "id": [
+    "28077923"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28077923"
+  ],
+  "pmcid": [
+    "PMC5203901"
+  ],
+  "doi": [
+    "10.1155/2016/5346819"
+  ],
+  "title": [
+    "How Safe Are Common Analgesics for the Treatment of Acute Pain for Children? A Systematic Review."
+  ],
+  "authorString": [
+    "Hartling L, Ali S, Dryden DM, Chordiya P, Johnson DW, Plint AC, Stang A, McGrath PJ, Drendel AL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hartling L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Hartling"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8341-3991",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Alberta Research Centre for Health Evidence, Department of Pediatrics, Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Ali S"
+          ],
+          "firstName": [
+            "Samina"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0595-364X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada; Women and Children's Health Research Institute, Edmonton, AB, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Dryden DM"
+          ],
+          "firstName": [
+            "Donna M"
+          ],
+          "lastName": [
+            "Dryden"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "Alberta Research Centre for Health Evidence, Department of Pediatrics, Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Chordiya P"
+          ],
+          "firstName": [
+            "Pritam"
+          ],
+          "lastName": [
+            "Chordiya"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Alberta Research Centre for Health Evidence, Department of Pediatrics, Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Johnson DW"
+          ],
+          "firstName": [
+            "David W"
+          ],
+          "lastName": [
+            "Johnson"
+          ],
+          "initials": [
+            "DW"
+          ],
+          "affiliation": [
+            "Departments of Pediatrics and Physiology and Pharmacology, Faculty of Medicine, University of Calgary, Calgary, AB, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Plint AC"
+          ],
+          "firstName": [
+            "Amy C"
+          ],
+          "lastName": [
+            "Plint"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "Departments of Pediatrics and Emergency Medicine, University of Ottawa and Division of Emergency Medicine, Children's Hospital of Eastern Ontario, Ottawa, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Stang A"
+          ],
+          "firstName": [
+            "Antonia"
+          ],
+          "lastName": [
+            "Stang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Departments of Pediatrics and Community Health Sciences, University of Calgary and Alberta Children's Hospital Research Institute, Calgary, AB, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "McGrath PJ"
+          ],
+          "firstName": [
+            "Patrick J"
+          ],
+          "lastName": [
+            "McGrath"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9568-2571",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "IWK Health Centre and Science, Pediatrics, Psychiatry and Community Health and Epidemiology, Dalhousie University, Halifax, NS, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Drendel AL"
+          ],
+          "firstName": [
+            "Amy L"
+          ],
+          "lastName": [
+            "Drendel"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9810-6847",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Medical College of Wisconsin, Milwaukee, WI, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9810-6847",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8341-3991",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0595-364X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9568-2571",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2016"
+      ],
+      "journalIssueId": [
+        "2454765"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pain research & management"
+          ],
+          "ISOAbbreviation": [
+            "Pain Res Manag"
+          ],
+          "medlineAbbreviation": [
+            "Pain Res Manag"
+          ],
+          "NLMid": [
+            "9612504"
+          ],
+          "ISSN": [
+            "1203-6765"
+          ],
+          "ESSN": [
+            "1918-1523"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "5346819"
+  ],
+  "abstractText": [
+    "Background. Fear of adverse events and occurrence of side effects are commonly cited by families and physicians as obstructive to appropriate use of pain medication in children. We examined evidence comparing the safety profiles of three groups of oral medications, acetaminophen, nonsteroidal anti-inflammatory drugs, and opioids, to manage acute nonsurgical pain in children (<18 years) treated in ambulatory settings. Methods. A comprehensive search was performed to July 2015, including review of national data registries. Two reviewers screened articles for inclusion, assessed methodological quality, and extracted data. Risks (incidence rates) were pooled using a random effects model. Results. Forty-four studies were included; 23 reported on adverse events. Based on limited current evidence, acetaminophen, ibuprofen, and opioids have similar nausea and vomiting profiles. Opioids have the greatest risk of central nervous system adverse events. Dual therapy with a nonopioid/opioid combination resulted in a lower risk of adverse events than opioids alone. Conclusions. Ibuprofen and acetaminophen have similar reported adverse effects and notably less adverse events than opioids. Dual therapy with a nonopioid/opioid combination confers a protective effect for adverse events over opioids alone. This research highlights challenges in assessing medication safety, including lack of more detailed information in registry data, and inconsistent reporting in trials."
+  ],
+  "affiliation": [
+    "Alberta Research Centre for Health Evidence, Department of Pediatrics, Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nausea"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CI"
+                  ],
+                  "qualifierName": [
+                    "chemically induced"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vomiting"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CI"
+                  ],
+                  "qualifierName": [
+                    "chemically induced"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acetaminophen"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Analgesics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Analgesics, Non-Narcotic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Inflammatory Agents, Non-Steroidal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Therapy, Combination"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acute Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Inflammatory Agents, Non-Steroidal"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Analgesics"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Analgesics, Non-Narcotic"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Acetaminophen"
+          ],
+          "registryNumber": [
+            "362O9ITL9D"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2016/5346819"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5203901"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5203901?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-02-05"
+  ],
+  "dateOfCreation": [
+    "2017-01-13"
+  ],
+  "firstIndexDate": [
+    "2017-01-14"
+  ],
+  "fullTextReceivedDate": [
+    "2017-01-18"
+  ],
+  "dateOfRevision": [
+    "2018-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2016-12-18"
+  ],
+  "firstPublicationDate": [
+    "2016-12-18"
+  ]
+}

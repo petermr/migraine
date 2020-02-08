@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6469474/results/search/country/results.xml">
+  <result pre="2017, EVOLVE-1 was conducted at 90 centers in the USA," exact="Puerto Rico," post="and Canada. At the same time, EVOLVE-2 was performed"/>
+  <result pre="status Location(s) (NCT02959177) I5Q-JE-CGAN EM, adults II Active, not recruiting" exact="Japan" post="(NCT02959190) I5Q-JE-CGAP EM/CM, adults III Active, not recruiting Japan"/>
+  <result pre="recruiting Japan (NCT02959190) I5Q-JE-CGAP EM/CM, adults III Active, not recruiting" exact="Japan" post="(NCT03559257) I5Q-MC-CGAW CONQUER EM/CM, therapy-resistant adults III Recruiting Multinational"/>
+  <result pre="REBUILD EM, participants 6–17 years of age III Recruiting USA," exact="Puerto Rico" post="(NCT02397473) I5Q-MC-CGAL ECH, adults III Completed Multinational (NCT02438826) I5Q-MC-CGAM"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre=" " exact="Orthostatic intolerance" xpath="/html[1]/body[1]/div[2]/div[7]/div[2]/p[8]" match="Orthostatic intolerance" post=": prolonged upright posture can induce symptoms that can include lightheadedness, increased fatigue" name="binomial"/>
+ <result pre=" " exact="Gastrointestinal symptoms" xpath="/html[1]/body[1]/div[2]/div[7]/div[2]/p[8]" match="Gastrointestinal symptoms" post=": abdominal pain, nausea and/or anorexia. " name="binomial"/>
+ <result pre=" " exact="Orthostatic hypotension" match="Orthostatic hypotension" post=" is defined by a BP reduction of at least 20 mm Hg systolic or 10 mm Hg diastolic within the first " name="binomial"/>
+</results>

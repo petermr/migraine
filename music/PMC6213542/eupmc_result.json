@@ -1,0 +1,471 @@
+{
+  "id": [
+    "30297617"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30297617"
+  ],
+  "pmcid": [
+    "PMC6213542"
+  ],
+  "doi": [
+    "10.3390/ijms19103063"
+  ],
+  "title": [
+    "Pain in Mucopolysaccharidoses: Analysis of the Problem and Possible Treatments."
+  ],
+  "authorString": [
+    "Congedi S, Orzalesi M, Di Pede C, Benini F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Congedi S"
+          ],
+          "firstName": [
+            "Sabrina"
+          ],
+          "lastName": [
+            "Congedi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2098-7896",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Dipartimento di Salute della Donna e del Bambino, Università degli studi di Padova, 35128 Padua, Italy. sabricongedi@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Orzalesi M"
+          ],
+          "firstName": [
+            "Marcello"
+          ],
+          "lastName": [
+            "Orzalesi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Scuola di Formazione Maruzza in Cure Palliative Pediatriche \"Maruzza Lyceum\", Fondazione Maruzza Lefebvre D'Ovidio Onlus, 00135 Rome, Italy. morzalesi@interfree.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Di Pede C"
+          ],
+          "firstName": [
+            "Chiara"
+          ],
+          "lastName": [
+            "Di Pede"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Centro di Riferimento Veneto di Terapia del Dolore e Cure Palliative Pediatriche, Dipartimento di Salute della Donna e del Bambino, Università degli studi di Padova, 35128 Padua, Italy. chiaradipede@yahoo.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Benini F"
+          ],
+          "firstName": [
+            "Franca"
+          ],
+          "lastName": [
+            "Benini"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Dipartimento di Salute della Donna e del Bambino, Università degli studi di Padova, 35128 Padua, Italy. franca.benini@aopd.veneto.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2098-7896",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2732859"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Mucopolysaccharidosis (MPS) are a group of lysosomal storage disorders that are caused by the deficiency of enzymes involving in the catabolism of glycosaminoglycan (GAGs). GAGs incompletely degraded accumulate in many sites, damaging tissues and cells, leading to a variety of clinical manifestations. Many of these manifestations are painful, but few data are available in the literature concerning the prevalence, etiology, and pathogenesis of pain in children with MPS. This review, through the analysis of the data available the in literature, underscores the relevant prevalence of pain in MPSs' children, provides the instruments to discern the etiopathogenesis of the disease and of pain, illustrates the available molecules for the management of pain and the possible advantages of non-pharmacological pain therapy in MPSs' patients."
+  ],
+  "affiliation": [
+    "Dipartimento di Salute della Donna e del Bambino, Università degli studi di Padova, 35128 Padua, Italy. sabricongedi@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mucopolysaccharidoses"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Management"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Pain",
+        "Treatments",
+        "Muchopolysaccaridoses"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms19103063"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6213542"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6213542?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-01"
+  ],
+  "dateOfCreation": [
+    "2018-10-10"
+  ],
+  "firstIndexDate": [
+    "2018-10-09"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-18"
+  ],
+  "dateOfRevision": [
+    "2019-01-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-08"
+  ],
+  "firstPublicationDate": [
+    "2018-10-08"
+  ]
+}

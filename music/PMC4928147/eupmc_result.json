@@ -1,0 +1,381 @@
+{
+  "id": [
+    "27445878"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27445878"
+  ],
+  "pmcid": [
+    "PMC4928147"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2016.00874"
+  ],
+  "title": [
+    "Manipulating the Placebo Response in Experimental Pain by Altering Doctor's Performance Style."
+  ],
+  "authorString": [
+    "Czerniak E, Biegon A, Ziv A, Karnieli-Miller O, Weiser M, Alon U, Citron A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Czerniak E"
+          ],
+          "firstName": [
+            "Efrat"
+          ],
+          "lastName": [
+            "Czerniak"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Sackler Faculty of Medicine, Tel Aviv UniversityTel Aviv, Israel; The Joseph Sagol Neuroscience Center, Sheba Medical CenterTel Hashomer, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Biegon A"
+          ],
+          "firstName": [
+            "Anat"
+          ],
+          "lastName": [
+            "Biegon"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurology, State University of New York at Stony Brook, Stony Brook NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ziv A"
+          ],
+          "firstName": [
+            "Amitai"
+          ],
+          "lastName": [
+            "Ziv"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Sackler Faculty of Medicine, Tel Aviv UniversityTel Aviv, Israel; Israel Center for Medical Simulation (MSR), Sheba Medical CenterTel Hashomer, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Karnieli-Miller O"
+          ],
+          "firstName": [
+            "Orit"
+          ],
+          "lastName": [
+            "Karnieli-Miller"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5790-0697",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Sackler Faculty of Medicine, Tel Aviv University Tel Aviv, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Weiser M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Weiser"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Sackler Faculty of Medicine, Tel Aviv UniversityTel Aviv, Israel; Department of Psychiatry, Sheba Medical CenterTel Hashomer, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Alon U"
+          ],
+          "firstName": [
+            "Uri"
+          ],
+          "lastName": [
+            "Alon"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, Weizmann Institute of ScienceRehovot, Israel; The Theatre Laboratory, Weizmann Institute of ScienceRehovot, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Citron A"
+          ],
+          "firstName": [
+            "Atay"
+          ],
+          "lastName": [
+            "Citron"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Theatre Department, University of Haifa Haifa, Israel."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5790-0697",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2374598"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "874"
+  ],
+  "abstractText": [
+    "Performance is paramount in traditional healing rituals. From a Western perspective, such performative behavior can be understood principally as inducing patients' faith in the performer's supernatural healing powers and effecting positive changes through the same mechanisms attributed to the placebo response, which is defined as improvement of clinical outcome in individuals receiving inactive treatment. Here we examined the possibility of using theatrical performance tools, including stage directions and scripting, to reproducibly manipulate the style and content of a simulated doctor-patient encounter and influence the placebo response in experimental pain.A total of 122 healthy volunteers (18-45 years, 76 men) exposed to experimental pain (the cold pressor test) were assessed for pain threshold and tolerance before and after receiving a placebo cream from a \"doctor\" impersonated by a trained actor. The actor alternated between two distinct scripts and stage directions, i.e., performance styles created by a theater director/playwright, one emulating a standard doctor-patient encounter (scenario A) and the other emphasizing attentiveness and strong suggestion, elements also present in ritual healing (scenario B). The placebo response size was calculated as the %difference in pain threshold and tolerance after exposure relative to baseline. In addition, subjects demonstrating a ≥30% increase in pain threshold or tolerance relative to baseline were defined as responders. Each encounter was videotaped in its entirety.Inspection of the videotapes confirmed the reproducibility and consistency of the distinct scenarios enacted by the \"doctor\"-performer. Furthermore, scenario B resulted in a significant increase in pain threshold relative to scenario A. Interestingly, this increase derived from the placebo responder subgroup; as shown by two-way analysis of variance (performance style, F = 4.30; p = 0.040; η(2) = 0.035; style × responder status interaction term, F = 5.21; p = 0.024) followed by post hoc analysis showing a ∼60% increase in pain threshold in responders exposed to scenario B (p = 0.020).These results support the hypothesis that structured manipulation of physician's verbal and non-verbal performance, designed to build rapport and increase faith in treatment, is feasible and may have a significant beneficial effect on the size of the response to placebo analgesia. They also demonstrate that subjects, who are not susceptible to placebo, are also not susceptible to performance style."
+  ],
+  "affiliation": [
+    "Sackler Faculty of Medicine, Tel Aviv UniversityTel Aviv, Israel; The Joseph Sagol Neuroscience Center, Sheba Medical CenterTel Hashomer, Israel."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pain",
+        "Placebo",
+        "Placebo Analgesia",
+        "Placebo Response",
+        "Reward Expectation",
+        "Doctor–patient Interaction",
+        "Placebo Responder",
+        "Performance Style"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2016.00874"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4928147"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4928147?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-07-22"
+  ],
+  "dateOfCreation": [
+    "2016-07-22"
+  ],
+  "firstIndexDate": [
+    "2016-07-24"
+  ],
+  "fullTextReceivedDate": [
+    "2016-07-23"
+  ],
+  "dateOfRevision": [
+    "2016-07-25"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-30"
+  ],
+  "firstPublicationDate": [
+    "2016-06-30"
+  ]
+}

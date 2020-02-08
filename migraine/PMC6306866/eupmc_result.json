@@ -1,0 +1,371 @@
+{
+  "id": [
+    "30545081"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30545081"
+  ],
+  "pmcid": [
+    "PMC6306866"
+  ],
+  "doi": [
+    "10.3390/children5120168"
+  ],
+  "title": [
+    "Pediatric Integrative Medicine in Academia: Stanford Children's Experience."
+  ],
+  "authorString": [
+    "Ramesh G, Gerstbacher D, Arruda J, Golianu B, Mark J, Yeh AM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ramesh G"
+          ],
+          "firstName": [
+            "Gautam"
+          ],
+          "lastName": [
+            "Ramesh"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4064-3353",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Medicine, University of California, San Diego, La Jolla, CA 92093, USA. gramesh@ucsd.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Gerstbacher D"
+          ],
+          "firstName": [
+            "Dana"
+          ],
+          "lastName": [
+            "Gerstbacher"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Division of Rheumatology, Department of Pediatrics, School of Medicine, Stanford University, Palo Alto, CA 94304, USA. gerst1@stanford.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Arruda J"
+          ],
+          "firstName": [
+            "Jenna"
+          ],
+          "lastName": [
+            "Arruda"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, School of Medicine, Stanford University, Palo Alto, CA 94304, USA. jarruda@stanford.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Golianu B"
+          ],
+          "firstName": [
+            "Brenda"
+          ],
+          "lastName": [
+            "Golianu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0731-9535",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Pediatric Anesthesia and Pain Medicine, Department of Anesthesiology, Perioperative and Pain Medicine, School of Medicine, Stanford University, Palo Alto, CA 94304, USA. bgolianu@stanford.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Mark J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Mark"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Division of Pulmonary Medicine, Department of Pediatrics, School of Medicine, Stanford University, Palo Alto, CA 94304, USA. jmark@stanford.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Yeh AM"
+          ],
+          "firstName": [
+            "Ann Ming"
+          ],
+          "lastName": [
+            "Yeh"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Division of Gastroenterology, Hepatology and Nutrition, Department of Pediatrics, School of Medicine, Stanford University, Palo Alto, CA 94304, USA. annming@stanford.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0731-9535",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4064-3353",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2760872"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Children (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Children (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Children (Basel)"
+          ],
+          "NLMid": [
+            "101648936"
+          ],
+          "ISSN": [
+            "2227-9067"
+          ],
+          "ESSN": [
+            "2227-9067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Pediatric integrative medicine is an emerging field which, to date, has not been described in detail in academic medical centers in the United States. Early research of pediatric integrative medicine modalities shows promise for the treatment of common pediatric conditions such as irritable bowel syndrome, acute and chronic pain, headache, and allergy, among others. In light of the growing prevalence of pediatric illnesses and patient complexity, it is crucial to emphasize the patient's overall well-being. As academic centers around the world start to develop pediatric integrative medicine programs, the aim of this manuscript is to briefly highlight evidence of effective integrative treatments in pediatric subspecialties, to describe the establishment of our integrative medicine program, to summarize its early efforts, and to discuss potential barriers and keys to success."
+  ],
+  "affiliation": [
+    "School of Medicine, University of California, San Diego, La Jolla, CA 92093, USA. gramesh@ucsd.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pediatric",
+        "Academic Medicine",
+        "Integrative Medicine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/children5120168"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6306866"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6306866?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-15"
+  ],
+  "firstIndexDate": [
+    "2018-12-21"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-07"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-12"
+  ],
+  "firstPublicationDate": [
+    "2018-12-12"
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "id": [
+    "31534960"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31534960"
+  ],
+  "pmcid": [
+    "PMC6732618"
+  ],
+  "doi": [
+    "10.1155/2019/4616417"
+  ],
+  "title": [
+    "Circadian Variation of Migraine Attack Onset: A Review of Clinical Studies."
+  ],
+  "authorString": [
+    "Baksa D, Gecse K, Kumar S, Toth Z, Gal Z, Gonda X, Juhasz G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baksa D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Baksa"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7826-9179",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "SE-NAP2 Genetic Brain Imaging Migraine Research Group, Hungarian Brain Research Program, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Gecse K"
+          ],
+          "firstName": [
+            "Kinga"
+          ],
+          "lastName": [
+            "Gecse"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "SE-NAP2 Genetic Brain Imaging Migraine Research Group, Hungarian Brain Research Program, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar S"
+          ],
+          "firstName": [
+            "Sahel"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pharmacodynamics, Faculty of Pharmacy, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Toth Z"
+          ],
+          "firstName": [
+            "Zsuzsanna"
+          ],
+          "lastName": [
+            "Toth"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "SE-NAP2 Genetic Brain Imaging Migraine Research Group, Hungarian Brain Research Program, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Gal Z"
+          ],
+          "firstName": [
+            "Zsofia"
+          ],
+          "lastName": [
+            "Gal"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9441-1497",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MTA-SE Neuropsychopharmacology and Neurochemistry Research Group, Hungarian Academy of Sciences, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Gonda X"
+          ],
+          "firstName": [
+            "Xenia"
+          ],
+          "lastName": [
+            "Gonda"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "MTA-SE Neuropsychopharmacology and Neurochemistry Research Group, Hungarian Academy of Sciences, Semmelweis University, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Juhasz G"
+          ],
+          "firstName": [
+            "Gabriella"
+          ],
+          "lastName": [
+            "Juhasz"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5975-4267",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "SE-NAP2 Genetic Brain Imaging Migraine Research Group, Hungarian Brain Research Program, Semmelweis University, Budapest, Hungary."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5975-4267",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7826-9179",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9441-1497",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2777678"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioMed research international"
+          ],
+          "ISOAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "NLMid": [
+            "101600173"
+          ],
+          "ISSN": [
+            "2314-6133"
+          ],
+          "ESSN": [
+            "2314-6141"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4616417"
+  ],
+  "abstractText": [
+    "Several studies suggested that migraine attack onset shows a circadian variation; however, there has not been an overview and synthesis of these findings. A PubMed search with keywords \"migraine\" AND \"circadian\" resulted in ten studies directly investigating this topic. Results of these studies mostly show that migraine attacks follow a monophasic 24-hour cyclic pattern with an early morning or late night peak while other studies reported an afternoon peak and also a biphasic 24-hour cycle of attacks. The identified studies showed methodological variation including sample size, inclusion of medication use, comorbidities, and night or shift workers which could have contributed to the contradictory results. Several theories emerged explaining the diurnal distribution of migraine attacks suggesting roles for different phenomena including a morning rise in cortisol levels, a possible hypothalamic dysfunction, a circadian variation of migraine triggers, sleep stages, and a potentially different setting of the circadian pacemaker among migraineurs. At the moment, most studies show an early morning or late night peak of migraine attack onset, but a significant amount of studies reveals contradictory results. Further studies should investigate the arising hypotheses to improve our understanding of the complex mechanism behind the circadian variation of migraine attacks that can shed light on new targets for migraine therapy."
+  ],
+  "affiliation": [
+    "SE-NAP2 Genetic Brain Imaging Migraine Research Group, Hungarian Brain Research Program, Semmelweis University, Budapest, Hungary."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/4616417"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6732618"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6732618?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-20"
+  ],
+  "firstIndexDate": [
+    "2019-09-20"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-23"
+  ],
+  "dateOfRevision": [
+    "2019-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-25"
+  ],
+  "firstPublicationDate": [
+    "2019-08-25"
+  ]
+}

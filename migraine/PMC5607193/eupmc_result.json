@@ -1,0 +1,756 @@
+{
+  "id": [
+    "28931060"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28931060"
+  ],
+  "pmcid": [
+    "PMC5607193"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0185104"
+  ],
+  "title": [
+    "Isolated positive anti-SS-B autoantibodies are not related to clinical features of systemic autoimmune diseases: Results from a routine population survey."
+  ],
+  "authorString": [
+    "Jardel S, Fabien N, Hot A, Vukusic S, Tebib J, Cottin V, Sève P, Laville M, Belot A, Durieu I, Garnier L, Coutant F, Reynaud Q, Lega JC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jardel S"
+          ],
+          "firstName": [
+            "Sabine"
+          ],
+          "lastName": [
+            "Jardel"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4564-2931",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Internal and Vascular Medicine, Centre Hospitalier Lyon Sud, Hospices Civils de Lyon, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Fabien N"
+          ],
+          "firstName": [
+            "Nicole"
+          ],
+          "lastName": [
+            "Fabien"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Immunology, Centre Hospitalier Lyon Sud, Hospices Civils de Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Hot A"
+          ],
+          "firstName": [
+            "Arnaud"
+          ],
+          "lastName": [
+            "Hot"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine and Vascular Medicine, Centre Hospitalier Edouard Herriot, Hospices Civils de Lyon, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Vukusic S"
+          ],
+          "firstName": [
+            "Sandra"
+          ],
+          "lastName": [
+            "Vukusic"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology A, Hôpital Neurologique Pierre Wertheimer, Hospices Civils de Lyon, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Tebib J"
+          ],
+          "firstName": [
+            "Jacques"
+          ],
+          "lastName": [
+            "Tebib"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Rheumatology, Centre Hospitalier Lyon Sud, Hospices Civils de Lyon, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Cottin V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Cottin"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "National Reference Centre for Rare Pulmonary Diseases, Department of Respiratory Medicine, Louis Pradel Hospital, Hospices Civils de Lyon, UMR 754, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Sève P"
+          ],
+          "firstName": [
+            "Pascal"
+          ],
+          "lastName": [
+            "Sève"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, Hôpital de la Croix Rousse, Hospices Civils de Lyon, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Laville M"
+          ],
+          "firstName": [
+            "Maurice"
+          ],
+          "lastName": [
+            "Laville"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Nephrology, Hospices Civils de Lyon, Centre Hospitalier Lyon Sud, Hospices Civils de Lyon, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Belot A"
+          ],
+          "firstName": [
+            "Alexandre"
+          ],
+          "lastName": [
+            "Belot"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4902-5332",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Nephrology, Rheumatology, Dermatology Unit, Hospices Civils de Lyon, INSERM U1111, Hôpital Femme Mère Enfant, Hospices Civils de Lyon, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Durieu I"
+          ],
+          "firstName": [
+            "Isabelle"
+          ],
+          "lastName": [
+            "Durieu"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Internal and Vascular Medicine, Centre Hospitalier Lyon Sud, Hospices Civils de Lyon, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Garnier L"
+          ],
+          "firstName": [
+            "Lorna"
+          ],
+          "lastName": [
+            "Garnier"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Immunology, Centre Hospitalier Lyon Sud, Hospices Civils de Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Coutant F"
+          ],
+          "firstName": [
+            "Frédéric"
+          ],
+          "lastName": [
+            "Coutant"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Immunology, Centre Hospitalier Lyon Sud, Hospices Civils de Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Reynaud Q"
+          ],
+          "firstName": [
+            "Quitterie"
+          ],
+          "lastName": [
+            "Reynaud"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Internal and Vascular Medicine, Centre Hospitalier Lyon Sud, Hospices Civils de Lyon, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Lega JC"
+          ],
+          "firstName": [
+            "Jean Christophe"
+          ],
+          "lastName": [
+            "Lega"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "UMR 5558, Laboratoire de Biométrie et Biologie Evolutive, CNRS, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4564-2931",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2485-5284",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4902-5332",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2591647"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e0185104"
+  ],
+  "abstractText": [
+    "To assess in clinical practice the frequency and diagnosis associated with the SS-B-positive/SS-A negative autoantibody profile.We analyzed a one-year consecutive population of 624 patients referred by clinicians to the immunology laboratory to investigate anti-SS-A and/or anti-SS-B autoantibodies, who were detected using luminex technology. Data were analyzed for patients with isolated anti-SS-B autoantibodies. The clinical characteristics and diagnosis of connective tissue diseases (CTD) were retrieved according to the international criteria.Among 1173 sera positive for anti-SS-A and/or anti-SS-B autoantibodies from 624 patients, we identified 84 patients (13.5%) that had isolated anti-SS-B. Among the 75 patients positive for anti-SS-B with known clinical data, 15 were diagnosed with a CTD (20%) including 4 systemic lupus erythematosus (5%), 4 rheumatoid arthritis (5%), 2 idiopathic inflammatory myositis (3%), 1 primary Sjögren's syndrome pSS (1%), 1 systemic sclerosis (1%), 2 undefined CTD (3%), and 1 mixed CTD (1%). Among the 60 other patients, 18 had non-CTD autoimmune diseases and 42 had non-autoimmune diseases. Within the CTD population, the presence of isolated anti-SS-B was not significantly associated to characteristic indicating a specific syndrome. There was no association between diagnosis of CTD and level of anti-SS-B autoantibodies (p = 0.70). Arthralgia was the more frequent sign and encountered in 10 patients (67%), of whom 3 had arthritis.The presence of anti-SS-B, without anti-SS-A autoantibodies using luminex technology, was not associated with CTD, especially pSS, in daily clinical practice. Our data suggests that the SS-B serological profile is not contributive for the classification criteria of pSS."
+  ],
+  "affiliation": [
+    "Department of Internal and Vascular Medicine, Centre Hospitalier Lyon Sud, Hospices Civils de Lyon, Claude Bernard University Lyon 1, University of Lyon, Lyon, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arthritis, Rheumatoid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Connective Tissue Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Autoantibodies"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antibodies, Antinuclear"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Surveys"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "SS-A antibodies"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "SS-B antibodies"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Autoantibodies"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antibodies, Antinuclear"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0185104"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5607193"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5607193?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-10-17"
+  ],
+  "dateOfCreation": [
+    "2017-09-20"
+  ],
+  "firstIndexDate": [
+    "2017-09-21"
+  ],
+  "fullTextReceivedDate": [
+    "2017-10-11"
+  ],
+  "dateOfRevision": [
+    "2017-10-17"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-20"
+  ],
+  "firstPublicationDate": [
+    "2017-09-20"
+  ]
+}

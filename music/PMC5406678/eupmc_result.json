@@ -1,0 +1,277 @@
+{
+  "id": [
+    "28338644"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28338644"
+  ],
+  "pmcid": [
+    "PMC5406678"
+  ],
+  "doi": [
+    "10.3390/children4040019"
+  ],
+  "title": [
+    "Clinical Hypnosis, an Effective Mind-Body Modality for Adolescents with Behavioral and Physical Complaints."
+  ],
+  "authorString": [
+    "Sawni A, Breuner CC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sawni A"
+          ],
+          "firstName": [
+            "Anju"
+          ],
+          "lastName": [
+            "Sawni"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Hurley Children's Hospital/Hurley Medical Center, Michigan State University College of Human Medicine, Flint, MI 48503, USA. Asawni1@hurleymc.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Breuner CC"
+          ],
+          "firstName": [
+            "Cora Collette"
+          ],
+          "lastName": [
+            "Breuner"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Adolescent Medicine Division and Department of Orthopedics and Sports Medicine, Seattle Children's Hospital, University of Washington, Seattle, WA 98105, USA. Cora.Breuner@seattlechildrens.org."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2539621"
+      ],
+      "dateOfPublication": [
+        "2017 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Children (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Children (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Children (Basel)"
+          ],
+          "NLMid": [
+            "101648936"
+          ],
+          "ISSN": [
+            "2227-9067"
+          ],
+          "ESSN": [
+            "2227-9067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Mind-body medicine is a system of health practices that includes meditation/relaxation training, guided imagery, hypnosis, biofeedback, yoga, art/music therapy, prayer, t'ai chi, and psychological therapies such as cognitive behavioral therapy. Clinical hypnosis is an important mind-body tool that serves as an adjunct to conventional medical care for the adolescent patient. Clinical hypnosis specifically uses self-directed therapeutic suggestions to cultivate the imagination and facilitate the mind-body connection, leading to positive emotional and physical well-being. There are many similarities between clinical hypnosis and other mind-body/self-regulatory modalities such as visual imagery, mindfulness meditation, yoga, and biofeedback that incorporate experiential learning and mechanisms for change. They may be viewed as subtypes of the hypnotic experience and share the common experience of trance as the entrée into self-empowered change in physiologic and psychological states. Clinical hypnosis can be used by health care providers to teach adolescents coping skills to deal with a wide variety of conditions such as chronic headaches, recurrent abdominal pain, anxiety, depression, grief and bereavement, phobias, anger, family stressors, sleep disorders, or enuresis. Clinical vignettes are given to help illustrate the effectiveness of hypnosis in adolescents."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Hurley Children's Hospital/Hurley Medical Center, Michigan State University College of Human Medicine, Flint, MI 48503, USA. Asawni1@hurleymc.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stress",
+        "Depression",
+        "Pain",
+        "Anxiety",
+        "Adolescents",
+        "Headache",
+        "Hypnosis",
+        "Mindfulness",
+        "Emotional Regulation",
+        "Guided Imagery",
+        "Mind–body Therapies"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/children4040019"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5406678"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5406678?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-03-24"
+  ],
+  "firstIndexDate": [
+    "2017-03-24"
+  ],
+  "fullTextReceivedDate": [
+    "2017-04-30"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-24"
+  ],
+  "firstPublicationDate": [
+    "2017-03-24"
+  ]
+}

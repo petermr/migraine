@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6734342/results/word/frequencies/results.xml">
+  <result title="frequency" word="migraine" count="254"/>
+  <result title="frequency" word="mutations" count="92"/>
+  <result title="frequency" word="genes" count="71"/>
+  <result title="frequency" word="hemiplegic" count="68"/>
+  <result title="frequency" word="genetic" count="61"/>
+  <result title="frequency" word="gene" count="60"/>
+  <result title="frequency" word="variants" count="56"/>
+  <result title="frequency" word="familial" count="52"/>
+  <result title="frequency" word="FHM" count="48"/>
+  <result title="frequency" word="Migraine" count="42"/>
+  <result title="frequency" word="ATPA" count="40"/>
+  <result title="frequency" word="Genet" count="40"/>
+  <result title="frequency" word="disorders" count="40"/>
+  <result title="frequency" word="loci" count="40"/>
+  <result title="frequency" word="GWAS" count="39"/>
+  <result title="frequency" word="associated" count="38"/>
+  <result title="frequency" word="common" count="38"/>
+  <result title="frequency" word="mutation" count="36"/>
+  <result title="frequency" word="channel" count="34"/>
+  <result title="frequency" word="studies" count="33"/>
+  <result title="frequency" word="association" count="32"/>
+  <result title="frequency" word="susceptibility" count="31"/>
+  <result title="frequency" word="including" count="29"/>
+  <result title="frequency" word="vascular" count="29"/>
+  <result title="frequency" word="Headache" count="28"/>
+  <result title="frequency" word="function" count="28"/>
+  <result title="frequency" word="functional" count="28"/>
+  <result title="frequency" word="involved" count="28"/>
+  <result title="frequency" word="Cephalalgia" count="27"/>
+  <result title="frequency" word="Neurol" count="26"/>
+  <result title="frequency" word="SCNA" count="26"/>
+  <result title="frequency" word="type" count="26"/>
+  <result title="frequency" word="CACNAA" count="25"/>
+  <result title="frequency" word="aura" count="25"/>
+  <result title="frequency" word="brain" count="24"/>
+  <result title="frequency" word="identified" count="24"/>
+  <result title="frequency" word="ion" count="24"/>
+  <result title="frequency" word="neuronal" count="24"/>
+  <result title="frequency" word="patients" count="24"/>
+  <result title="frequency" word="Nat" count="23"/>
+  <result title="frequency" word="SNPs" count="23"/>
+  <result title="frequency" word="cortical" count="23"/>
+  <result title="frequency" word="migraine," count="23"/>
+  <result title="frequency" word="novel" count="23"/>
+  <result title="frequency" word="TRESK" count="22"/>
+  <result title="frequency" word="sequencing" count="22"/>
+  <result title="frequency" word="study" count="22"/>
+  <result title="frequency" word="cause" count="21"/>
+  <result title="frequency" word="protein" count="21"/>
+  <result title="frequency" word="symptoms" count="21"/>
+ </snippets>
+</snippetsTree>

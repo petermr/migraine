@@ -1,0 +1,441 @@
+{
+  "id": [
+    "18078007"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "18078007"
+  ],
+  "pmcid": [
+    "PMC2291300"
+  ],
+  "title": [
+    "Anti-hemophilic factor (recombinant), plasma/albumin-free method (octocog-alpha; ADVATE) in the management of hemophilia A."
+  ],
+  "authorString": [
+    "Shapiro AD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shapiro AD"
+          ],
+          "firstName": [
+            "Amy D"
+          ],
+          "lastName": [
+            "Shapiro"
+          ],
+          "initials": [
+            "AD"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "1487197"
+      ],
+      "dateOfPublication": [
+        "2007 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2007"
+      ],
+      "printPublicationDate": [
+        "2007-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Vascular health and risk management"
+          ],
+          "ISOAbbreviation": [
+            "Vasc Health Risk Manag"
+          ],
+          "medlineAbbreviation": [
+            "Vasc Health Risk Manag"
+          ],
+          "NLMid": [
+            "101273479"
+          ],
+          "ISSN": [
+            "1176-6344"
+          ],
+          "ESSN": [
+            "1178-2048"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2007"
+  ],
+  "pageInfo": [
+    "555-565"
+  ],
+  "abstractText": [
+    "Removal of blood-based additives from recombinant clotting factor concentrates continues to be advocated by the hemophilia community due to the history of infectious disease transmission with previous blood-derived clotting factor concentrates. In 2003, octocog-alpha, antihemophilic factor (recombinant), plasma/albumin-free method (ADVATE) was introduced, providing the first third-generation recombinant factor VIII (rFVIII) concentrate. Completed clinical trials have demonstrated ADVATE to be safe and effective in adult and pediatric subjects utilizing both prophylactic and on-demand treatment regimens, and for perioperative hemostatic coverage. In the five completed studies involving more than 200 previously treated patients (PTPs), a single incidence of low-titer, non-persistent inhibitor was reported. Active post authorization safety surveillance (PASS) is being performed to expand the efficacy and safety profile of ADVATE in routine clinical practice. Laboratory studies have documented the storage and post-reconstitution stability of ADVATE, conferring the desired versatility for home treatment. The evolving real-world experience and ongoing studies will provide further insight into ADVATE pharmacokinetics, alternative prophylactic dosing regimens, methods for perioperative hemostatic management, and utility in immune tolerance induction. Experience with ADVATE, and its place in today's treatment paradigm, is the focus of this article."
+  ],
+  "affiliation": [
+    "Indiana Hemophilia and Thrombosis Center, 8402 Harcourt Rd, Suite 420, Indianapolis, IN 46260 USA. ashapiro@ihtc.org"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plasma"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hemophilia A"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Toxicity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Albumins"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Factor VIII"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Recombinant Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Factor VIII"
+          ],
+          "registryNumber": [
+            "9001-27-8"
+          ]
+        },
+        {
+          "name": [
+            "Albumins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Recombinant Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18078007/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18078007/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2291300"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2291300?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2008-01-11"
+  ],
+  "dateOfCreation": [
+    "2007-12-14"
+  ],
+  "firstIndexDate": [
+    "2009-12-24"
+  ],
+  "fullTextReceivedDate": [
+    "2009-09-23"
+  ],
+  "dateOfRevision": [
+    "2013-06-06"
+  ],
+  "firstPublicationDate": [
+    "2007-01-01"
+  ]
+}

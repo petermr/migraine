@@ -1,0 +1,270 @@
+{
+  "id": [
+    "29733088"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29733088"
+  ],
+  "pmcid": [
+    "PMC5923275"
+  ],
+  "doi": [
+    "10.2147/PHMT.S127210"
+  ],
+  "title": [
+    "Pediatric abdominal migraine: current perspectives on a lesser known entity."
+  ],
+  "authorString": [
+    "Mani J, Madani S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mani J"
+          ],
+          "firstName": [
+            "Jyoti"
+          ],
+          "lastName": [
+            "Mani"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Children's Hospital of Michigan, Wayne State University, Detroit, MI, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Madani S"
+          ],
+          "firstName": [
+            "Shailender"
+          ],
+          "lastName": [
+            "Madani"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Pediatric Gastroenterologist, Children's Hospital of Michigan, Detroit, MI, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2652005"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pediatric health, medicine and therapeutics"
+          ],
+          "ISOAbbreviation": [
+            "Pediatric Health Med Ther"
+          ],
+          "medlineAbbreviation": [
+            "Pediatric Health Med Ther"
+          ],
+          "NLMid": [
+            "101655856"
+          ],
+          "ISSN": [
+            "1179-9927"
+          ],
+          "ESSN": [
+            "1179-9927"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "47-58"
+  ],
+  "abstractText": [
+    "Abdominal migraine (AM) is a common cause of chronic and recurrent abdominal pain in children. It is characterized by paroxysms of moderate to severe abdominal pain that is midline, periumbilical, or diffuse in location and accompanied by other symptoms including headache, anorexia, nausea, vomiting, or pallor. Despite the presence of comprehensive diagnostic criteria under Rome IV classification of functional gastrointestinal disorders (FGIDs) and International Classification of Headache Disorders, it continues to be an underdiagnosed entity.The average age of diagnosis is 3-10 years with peak incidence at 7 years. Most of the patients have a personal or family history of migraine. Pathophysiology of the condition is believed to be similar to that of other FGIDs and cephalic migraine. It is also well recognized as a type of pediatric migraine variant. A careful history, thorough physical examination, and use of well-defined, symptom-based guidelines are needed to make a diagnosis. Selective or no testing is required to support a positive diagnosis. It resolves completely in most of the patients. However, these patients have a strong propensity to develop migraine later in life. Explanation and reassurance should be the first step once the diagnosis is made. Nonpharmacologic treatment options including avoidance of triggers, behavior therapy, and dietary modifications should be the initial line of management. Drug therapy should be considered only if symptoms are refractory to these primary interventions.More research focused on pathophysiology and management of AM needs to be carried out to improve outcomes in affected children."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Children's Hospital of Michigan, Wayne State University, Detroit, MI, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Gastroenterology",
+        "Headache",
+        "Abdominal Pain"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/PHMT.S127210"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5923275"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5923275?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-08"
+  ],
+  "firstIndexDate": [
+    "2018-05-08"
+  ],
+  "fullTextReceivedDate": [
+    "2018-05-11"
+  ],
+  "dateOfRevision": [
+    "2018-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-24"
+  ],
+  "firstPublicationDate": [
+    "2018-04-24"
+  ]
+}

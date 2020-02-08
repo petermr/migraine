@@ -1,0 +1,666 @@
+{
+  "id": [
+    "24580721"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24580721"
+  ],
+  "pmcid": [
+    "PMC3996073"
+  ],
+  "doi": [
+    "10.1186/1129-2377-15-12"
+  ],
+  "title": [
+    "Headstrong intervention for pediatric migraine headache: a randomized clinical trial."
+  ],
+  "authorString": [
+    "Rapoff MA, Connelly M, Bickel JL, Powers SW, Hershey AD, Allen JR, Karlson CW, Litzenburg CC, Belmont JM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rapoff MA"
+          ],
+          "firstName": [
+            "Michael A"
+          ],
+          "lastName": [
+            "Rapoff"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "University of Kansas Medical Center, Department of Pediatrics, 3901 Rainbow Boulevard, Kansas City, KS 66160-7330, USA. mrapoff@kumc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Connelly M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Connelly"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Bickel JL"
+          ],
+          "firstName": [
+            "Jennifer L"
+          ],
+          "lastName": [
+            "Bickel"
+          ],
+          "initials": [
+            "JL"
+          ]
+        },
+        {
+          "fullName": [
+            "Powers SW"
+          ],
+          "firstName": [
+            "Scott W"
+          ],
+          "lastName": [
+            "Powers"
+          ],
+          "initials": [
+            "SW"
+          ]
+        },
+        {
+          "fullName": [
+            "Hershey AD"
+          ],
+          "firstName": [
+            "Andrew D"
+          ],
+          "lastName": [
+            "Hershey"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1598-7536",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Allen JR"
+          ],
+          "firstName": [
+            "Janelle R"
+          ],
+          "lastName": [
+            "Allen"
+          ],
+          "initials": [
+            "JR"
+          ]
+        },
+        {
+          "fullName": [
+            "Karlson CW"
+          ],
+          "firstName": [
+            "Cynthia W"
+          ],
+          "lastName": [
+            "Karlson"
+          ],
+          "initials": [
+            "CW"
+          ]
+        },
+        {
+          "fullName": [
+            "Litzenburg CC"
+          ],
+          "firstName": [
+            "Catrina C"
+          ],
+          "lastName": [
+            "Litzenburg"
+          ],
+          "initials": [
+            "CC"
+          ]
+        },
+        {
+          "fullName": [
+            "Belmont JM"
+          ],
+          "firstName": [
+            "John M"
+          ],
+          "lastName": [
+            "Belmont"
+          ],
+          "initials": [
+            "JM"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1598-7536",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2473462"
+      ],
+      "dateOfPublication": [
+        "2014 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "12"
+  ],
+  "abstractText": [
+    "The purpose of this study was to evaluate the efficacy of a self-guided CD-ROM program (\"Headstrong\") containing cognitive-behavioral self-management strategies versus an educational CD-ROM program for treating headaches, headache-related disability, and quality of life.Participants were 35 children ages 7-12 years with migraine recruited from one university medical center and two children's hospital headache clinics. Participants were randomly assigned to complete the Headstrong or educational control CD-ROM program over a 4-week period. Data on headache frequency, duration, and severity, migraine-related disability, and quality of life (QOL) were obtained at baseline, post-intervention, and 3-months post-intervention.At post-intervention, Headstrong resulted in lower severity (on a 10-point scale) than the control group by child report (5.06 ± 1.50 SD vs. 6.25 ± 1.92 SD, p = 0.03, ES = 0.7). At 3-months post-intervention, parents reported less migraine-related disability (on the PedMIDAS) in the Headstrong group compared to the control group (1.36 ± 2.06 SD vs. 5.18 ± 6.40 SD; p = 0.04, ES = 0.8). There were no other group differences at post treatment or at 3-months post-intervention.When compared to an educational control, Headstrong resulted in lower pain severity at post-treatment and less migraine-related disability at 3-months post-intervention, by child and parent report respectively. Headache frequency and quality of life did not change more for Headstrong versus control. Additional research is needed on the Headstrong Program to increase its efficacy and to test it with a larger sample recruited from multiple centers simultaneously."
+  ],
+  "affiliation": [
+    "University of Kansas Medical Center, Department of Pediatrics, 3901 Rainbow Boulevard, Kansas City, KS 66160-7330, USA. mrapoff@kumc.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01-NS046641"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Self Care"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "CD-ROM"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "UT"
+                  ],
+                  "qualifierName": [
+                    "utilization"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Education as Topic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Early Medical Intervention"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24580721/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24580721/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1129-2377-15-12"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3996073"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3996073?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-07-24"
+  ],
+  "dateOfCreation": [
+    "2014-03-04"
+  ],
+  "firstIndexDate": [
+    "2014-03-05"
+  ],
+  "fullTextReceivedDate": [
+    "2014-05-05"
+  ],
+  "dateOfRevision": [
+    "2018-09-14"
+  ],
+  "electronicPublicationDate": [
+    "2014-02-28"
+  ],
+  "firstPublicationDate": [
+    "2014-02-28"
+  ]
+}

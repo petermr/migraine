@@ -1,0 +1,290 @@
+{
+  "id": [
+    "23710229"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23710229"
+  ],
+  "pmcid": [
+    "PMC3654705"
+  ],
+  "doi": [
+    "10.1155/2013/672097"
+  ],
+  "title": [
+    "Complementary and alternative medicine and cardiovascular disease: an evidence-based review."
+  ],
+  "authorString": [
+    "Rabito MJ, Kaye AD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rabito MJ"
+          ],
+          "firstName": [
+            "Matthew J"
+          ],
+          "lastName": [
+            "Rabito"
+          ],
+          "initials": [
+            "MJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Kaye AD"
+          ],
+          "firstName": [
+            "Alan David"
+          ],
+          "lastName": [
+            "Kaye"
+          ],
+          "initials": [
+            "AD"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2013"
+      ],
+      "journalIssueId": [
+        "2004961"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "672097"
+  ],
+  "abstractText": [
+    "Complementary and alternative medicine (CAM) plays a significant role in many aspects of healthcare worldwide, including cardiovascular disease (CVD). This review describes some of the challenges of CAM in terms of scientific research. Biologically-based therapies, mind-body therapies, manipulative and body-based therapies, whole medical systems, and energy medicine are reviewed in detail with regard to cardiovascular risk factors and mediation or modulation of cardiovascular disease pathogenesis. CAM use among patients with CVD is prevalent and in many instances provides positive and significant effects, with biologically-based and mind-body therapies being the most commonly used treatment modalities. More rigorous research to determine the precise physiologic effects and long-term benefits on cardiovascular morbidity and mortality with CAM usage, as well as more open lines of communication between patients and physicians regarding CAM use, is essential when determining optimal treatment plans."
+  ],
+  "affiliation": [
+    "Department of Anesthesiology, Louisiana State University Health Sciences Center, School of Medicine, 1542 Tulane Avenue, Room 656, New Orleans, LA 70112, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23710229/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23710229/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2013/672097"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3654705"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3654705?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-05-28"
+  ],
+  "dateOfCreation": [
+    "2013-05-27"
+  ],
+  "firstIndexDate": [
+    "2013-05-30"
+  ],
+  "fullTextReceivedDate": [
+    "2013-05-30"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "electronicPublicationDate": [
+    "2013-04-22"
+  ],
+  "firstPublicationDate": [
+    "2013-04-22"
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": [
+    "31870279"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31870279"
+  ],
+  "pmcid": [
+    "PMC6929435"
+  ],
+  "doi": [
+    "10.1186/s10194-019-1066-0"
+  ],
+  "title": [
+    "Mechanisms of migraine as a chronic evolutive condition."
+  ],
+  "authorString": [
+    "Andreou AP, Edvinsson L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Andreou AP"
+          ],
+          "firstName": [
+            "Anna P"
+          ],
+          "lastName": [
+            "Andreou"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7008-6626",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Headache Research, Wolfson CARD, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK. anna.andreou@headache-research.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Edvinsson L"
+          ],
+          "firstName": [
+            "Lars"
+          ],
+          "lastName": [
+            "Edvinsson"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Medicine, Lund University, 22185, Lund, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7008-6626",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2888255"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "117"
+  ],
+  "abstractText": [
+    "Understanding the mechanisms of migraine remains challenging as migraine is not a static disorder, and even in its episodic form migraine remains an \"evolutive\" chronic condition. Considerable progress has been made in elucidating the pathophysiological mechanisms of migraine, associated genetic factors that may influence susceptibility to the disease, and functional and anatomical changes during the progression of a migraine attack or the transformation of episodic to chronic migraine. Migraine is a life span neurological disorder that follows an evolutive age-dependent change in its prevalence and even clinical presentations. As a disorder, migraine involves recurrent intense head pain and associated unpleasant symptoms. Migraine attacks evolve over different phases with specific neural mechanisms and symptoms being involved during each phase. In some patients, migraine can be transformed into a chronic form with daily or almost daily headaches. The mechanisms behind this evolutive process remain unknown, but genetic and epigenetic factors, inflammatory processes and central sensitization may play an important role."
+  ],
+  "affiliation": [
+    "Headache Research, Wolfson CARD, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK. anna.andreou@headache-research.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-019-1066-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6929435"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6929435?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-25"
+  ],
+  "firstIndexDate": [
+    "2019-12-30"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-02"
+  ],
+  "dateOfRevision": [
+    "2019-12-31"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-23"
+  ],
+  "firstPublicationDate": [
+    "2019-12-23"
+  ]
+}

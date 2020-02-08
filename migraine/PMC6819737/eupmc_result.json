@@ -1,0 +1,375 @@
+{
+  "id": [
+    "31687337"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31687337"
+  ],
+  "pmcid": [
+    "PMC6819737"
+  ],
+  "doi": [
+    "10.1016/j.ymgmr.2019.100522"
+  ],
+  "title": [
+    "Mitochondrial myopathy plus due to the variant m.586G > A in MT-TF."
+  ],
+  "authorString": [
+    "Barcia G, Assouline Z, Pennisi A, Steffann J, Boddaert N, Gitiaux C, Rötig A, Bonnefont JP, Munnich A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barcia G"
+          ],
+          "firstName": [
+            "Giulia"
+          ],
+          "lastName": [
+            "Barcia"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Fédération de Génétique et Institut Imagine, Université Paris Descartes, Hôpital Necker Enfants Malades, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Assouline Z"
+          ],
+          "firstName": [
+            "Zahra"
+          ],
+          "lastName": [
+            "Assouline"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Fédération de Génétique et Institut Imagine, Université Paris Descartes, Hôpital Necker Enfants Malades, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Pennisi A"
+          ],
+          "firstName": [
+            "Alessandra"
+          ],
+          "lastName": [
+            "Pennisi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Fédération de Génétique et Institut Imagine, Université Paris Descartes, Hôpital Necker Enfants Malades, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Steffann J"
+          ],
+          "firstName": [
+            "Julie"
+          ],
+          "lastName": [
+            "Steffann"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Fédération de Génétique et Institut Imagine, Université Paris Descartes, Hôpital Necker Enfants Malades, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Boddaert N"
+          ],
+          "firstName": [
+            "Nathalie"
+          ],
+          "lastName": [
+            "Boddaert"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Fédération de Génétique et Institut Imagine, Université Paris Descartes, Hôpital Necker Enfants Malades, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Gitiaux C"
+          ],
+          "firstName": [
+            "Cyril"
+          ],
+          "lastName": [
+            "Gitiaux"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Fédération de Génétique et Institut Imagine, Université Paris Descartes, Hôpital Necker Enfants Malades, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Rötig A"
+          ],
+          "firstName": [
+            "Agnès"
+          ],
+          "lastName": [
+            "Rötig"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Fédération de Génétique et Institut Imagine, Université Paris Descartes, Hôpital Necker Enfants Malades, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bonnefont JP"
+          ],
+          "firstName": [
+            "Jean-Paul"
+          ],
+          "lastName": [
+            "Bonnefont"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Fédération de Génétique et Institut Imagine, Université Paris Descartes, Hôpital Necker Enfants Malades, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Munnich A"
+          ],
+          "firstName": [
+            "Arnold"
+          ],
+          "lastName": [
+            "Munnich"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Fédération de Génétique et Institut Imagine, Université Paris Descartes, Hôpital Necker Enfants Malades, Paris, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2851919"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular genetics and metabolism reports"
+          ],
+          "ISOAbbreviation": [
+            "Mol Genet Metab Rep"
+          ],
+          "medlineAbbreviation": [
+            "Mol Genet Metab Rep"
+          ],
+          "NLMid": [
+            "101624422"
+          ],
+          "ISSN": [
+            "2214-4269"
+          ],
+          "ESSN": [
+            "2214-4269"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "100522"
+  ],
+  "affiliation": [
+    "Fédération de Génétique et Institut Imagine, Université Paris Descartes, Hôpital Necker Enfants Malades, Paris, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "letter",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ymgmr.2019.100522"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6819737"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6819737?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-06"
+  ],
+  "firstIndexDate": [
+    "2019-11-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-23"
+  ],
+  "firstPublicationDate": [
+    "2019-10-23"
+  ]
+}

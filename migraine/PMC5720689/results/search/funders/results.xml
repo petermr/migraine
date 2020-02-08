@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="Taiwan [4], School of Chinese Medicine, College of Chinese Medicine," exact="China Medical University," post="Taichung, Taiwan [5], Management Office for Health Data, China"/>
+ <result pre="Medical University, Taichung, Taiwan [5], Management Office for Health Data," exact="China Medical University" post="Hospital, Taichung, Taiwan [6], College of Medicine, China Medical"/>
+ <result pre="China Medical University Hospital, Taichung, Taiwan [6], College of Medicine," exact="China Medical University," post="Taichung, Taiwan [7], Institute of Population Health Sciences, National"/>
+ <result pre="Medical University, Taichung, Taiwan [7], Institute of Population Health Sciences," exact="National Health Research Institutes," post="Zhunan, Taiwan [8], Department of Health Services Administration, College"/>
+ <result pre="University, Taichung, Taiwan [7], Institute of Population Health Sciences, National" exact="Health Research" post="Institutes, Zhunan, Taiwan [8], Department of Health Services Administration,"/>
+ <result pre="Population Health Sciences, National Health Research Institutes, Zhunan, Taiwan [8]," exact="Department of Health" post="Services Administration, College of Public Health, China Medical University,"/>
+ <result pre="Research Institutes, Zhunan, Taiwan [8], Department of Health Services Administration," exact="College of Public Health," post="China Medical University, Taichung, Taiwan Romigi Andrea Editor [],"/>
+ <result pre="[8], Department of Health Services Administration, College of Public Health," exact="China Medical University," post="Taichung, Taiwan Romigi Andrea Editor [], University of Rome"/>
+ <result pre="narcolepsy. Funding This study is supported in part by Taiwan" exact="Ministry of Health" post="and Welfare Clinical Trial Center (MOHW106-TDU-B-212-113004), Bureau of Health"/>
+ <result pre="and Welfare Clinical Trial Center (MOHW106-TDU-B-212-113004), Bureau of Health Promotion," exact="Department of Health," post="Taiwan (DOH99-HP-1205), Tseng-Lien Lin Foundation, Taichung, Taiwan, Taiwan Brain"/>
+ <result pre="the National Health Insurance Administration (NHIA) and maintained by the" exact="National Health Research Institutes" post="(NHRI) for research purposes. The NHI is a compulsory"/>
+ <result pre="National Health Insurance Administration (NHIA) and maintained by the National" exact="Health Research" post="Institutes (NHRI) for research purposes. The NHI is a"/>
+ <result pre="has been approved by the Research Ethics Committee at the" exact="China Medical University" post="Hospital (CRREC-103-048(CR-2)). Study design &amp;amp; subject selection For our"/>
+ <result pre="out using the SAS statistical software (version 9.4 for Windows;" exact="SAS Institute," post="Inc., Cary, NC, USA). Results After propensity-score matching, we"/>
+ <result pre="further investigated. This study is supported in part by Taiwan" exact="Ministry of Health" post="and Welfare Clinical Trial Center (MOHW106-TDU-B-212-113004), Bureau of Health"/>
+ <result pre="and Welfare Clinical Trial Center (MOHW106-TDU-B-212-113004), Bureau of Health Promotion," exact="Department of Health," post="Taiwan (DOH99-HP-1205), Tseng-Lien Lin Foundation, Taichung, Taiwan, Taiwan Brain"/>
+</results>

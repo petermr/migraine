@@ -1,0 +1,344 @@
+{
+  "id": [
+    "31316683"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31316683"
+  ],
+  "pmcid": [
+    "PMC6604354"
+  ],
+  "doi": [
+    "10.1155/2019/8307982"
+  ],
+  "title": [
+    "The Relationship between Infant Colic and Migraine as well as Tension-Type Headache: A Meta-Analysis."
+  ],
+  "authorString": [
+    "Zhang D, Zhang Y, Sang Y, Zheng N, Liu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang D"
+          ],
+          "firstName": [
+            "Dongli"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Second Ward of Department of Neurology, XuZhou Children's Hospital, Xuzhou Medical University, Xuzhou, Jiangsu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yuan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Second Ward of Department of Neurology, XuZhou Children's Hospital, Xuzhou Medical University, Xuzhou, Jiangsu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sang Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Sang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Second Ward of Department of Neurology, XuZhou Children's Hospital, Xuzhou Medical University, Xuzhou, Jiangsu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng N"
+          ],
+          "firstName": [
+            "Nuo"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Second Ward of Department of Neurology, XuZhou Children's Hospital, Xuzhou Medical University, Xuzhou, Jiangsu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xiaoming"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9519-3885",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Second Ward of Department of Neurology, XuZhou Children's Hospital, Xuzhou Medical University, Xuzhou, Jiangsu, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9519-3885",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2778689"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pain research & management"
+          ],
+          "ISOAbbreviation": [
+            "Pain Res Manag"
+          ],
+          "medlineAbbreviation": [
+            "Pain Res Manag"
+          ],
+          "NLMid": [
+            "9612504"
+          ],
+          "ISSN": [
+            "1203-6765"
+          ],
+          "ESSN": [
+            "1918-1523"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "8307982"
+  ],
+  "abstractText": [
+    "Background:Infant colic is a common benign disease during early infancy. Migraine and tension-type headache (TTH) are the most common primary headache forms among pediatric population. Several studies have investigated the incidence of infant colic in patients with migraine and TTH. The meta-analysis was to assess the relationship between infant colic and migraine as well as TTH. Methods:PubMed, Web of Science, and Cochrane Library were searched until August 16, 2018, for potential studies. Data were extracted by two independent authors and analyzed using RevMan 5.2 software. Odds ratios (ORs) with 95% confidence intervals (CIs) were calculated to determine the association between infant colic and migraine as well as TTH, respectively. Results:A total of 148 studies were found, and 7 studies were finally included. A higher incidence of colic during infancy was revealed in migraine patients than controls (P=0.05, OR: 2.51, 95% CI: 1.32-4.77) and TTH subjects (P=0.02, OR: 0.33, 95% CI: 0.13-0.86), respectively. And no significances were found between TTHs with controls (P=0.51, OR: 1.17, 95% CI: 0.73-1.89). Conclusion:This meta-analysis indicated that migraine was associated with increased incidence of infantile colic history, but TTH incidence was not relevant with the incidence of infantile colic history."
+  ],
+  "affiliation": [
+    "Second Ward of Department of Neurology, XuZhou Children's Hospital, Xuzhou Medical University, Xuzhou, Jiangsu, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/8307982"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6604354"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6604354?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-19"
+  ],
+  "firstIndexDate": [
+    "2019-07-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-20"
+  ],
+  "dateOfRevision": [
+    "2019-09-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-16"
+  ],
+  "firstPublicationDate": [
+    "2019-06-16"
+  ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="[1], 0000 0004 1936 7697 grid.22072.35 Department of Pediatrics, Cumming" exact="School of Medicine," post="University of Calgary, [2], 0000 0004 1936 7697 grid.22072.35"/>
+ <result pre="1936 7697 grid.22072.35 Department of Pediatrics, Cumming School of Medicine," exact="University of Calgary," post="[2], 0000 0004 1936 7697 grid.22072.35 Clinical Neurosciences, Cumming"/>
+ <result pre="Calgary, [2], 0000 0004 1936 7697 grid.22072.35 Clinical Neurosciences, Cumming" exact="School of Medicine," post="University of Calgary, [3], grid.17089.37 Department of Pediatrics, University"/>
+ <result pre="0004 1936 7697 grid.22072.35 Clinical Neurosciences, Cumming School of Medicine," exact="University of Calgary," post="[3], grid.17089.37 Department of Pediatrics, University of Alberta, [4],"/>
+ <result pre="of Medicine, University of Calgary, [3], grid.17089.37 Department of Pediatrics," exact="University of Alberta," post="[4], 0000 0001 0684 7358 grid.413571.5 Alberta Children’s Hospital"/>
+ <result pre="Children’s Hospital Research Institute, [5], 0000 0004 1936 7697 grid.22072.35" exact="Hotchkiss Brain Institute, University of Calgary," post="epub: 2020-1-1 pmc-release: 2020-1-1 collection: 2020 17 2 received:"/>
+ <result pre="Institute, [5], 0000 0004 1936 7697 grid.22072.35 Hotchkiss Brain Institute," exact="University of Calgary," post="epub: 2020-1-1 pmc-release: 2020-1-1 collection: 2020 17 2 received:"/>
+ <result pre="Quality of life Neuro-rehabilitation Cerebral palsy Neuromuscular disorders Funding http://dx.doi.org/10.13039/501100000145" exact="Alberta Innovates - Health Solutions" post="Funding http://dx.doi.org/10.13039/501100000024 Canadian Institutes of Health Research 10075523 Kirton"/>
+ <result pre="disorders Funding http://dx.doi.org/10.13039/501100000145 Alberta Innovates - Health Solutions Funding http://dx.doi.org/10.13039/501100000024" exact="Canadian Institutes of Health Research" post="10075523 Kirton Adam Background Few circumstances are more tragic"/>
+ <result pre="Alberta Innovates - Health Solutions Funding http://dx.doi.org/10.13039/501100000024 Canadian Institutes of" exact="Health Research" post="10075523 Kirton Adam Background Few circumstances are more tragic"/>
+ <result pre="opportunity for population-based sampling. The study was approved by the" exact="University of Calgary" post="Conjoint Health Research Ethics Board. Survey design An initial"/>
+ <result pre="The study was approved by the University of Calgary Conjoint" exact="Health Research" post="Ethics Board. Survey design An initial set of potential"/>
+ <result pre="the secure REDCap server and de-identified data was exported to" exact="Microsoft" post="Excel for analysis. Participants A multi-step strategy was employed"/>
+ <result pre="First, names of eligible specialist physicians were acquired from the" exact="Royal College of Physicians" post="and Surgeons of Canada (RCPSC) Directory [ 18]. Second,"/>
+ <result pre="consistently below prevalence estimates for neurological conditions reported by the" exact="Public Health Agency" post="of Canada (PHAC) [ 37]. According to PHAC, per"/>
+ <result pre="interface(s) CP Cerebral palsy EEG Electroencephalography MD Muscular dystrophy PHAC" exact="Public Health Agency" post="of Canada RCPSC Royal College of Physicians and Surgeons"/>
+ <result pre="MD Muscular dystrophy PHAC Public Health Agency of Canada RCPSC" exact="Royal College of Physicians" post="and Surgeons of Canada SCI Spinal cord injury SMA"/>
+ <result pre="Health Sciences Summer Studentship [grant number not applicable] and the" exact="Canadian Institutes of Health Research" post="[grant number: 10075523]. Availability of data and materials The"/>
+ <result pre="Studentship [grant number not applicable] and the Canadian Institutes of" exact="Health Research" post="[grant number: 10075523]. Availability of data and materials The"/>
+ <result pre="and consent to participate The study was approved by the" exact="University of Calgary" post="Conjoint Health Research Ethics Board. Attached to the survey"/>
+ <result pre="The study was approved by the University of Calgary Conjoint" exact="Health Research" post="Ethics Board. Attached to the survey invitation email was"/>
+ <result pre="survey a letter of information/implied consent form approved by the" exact="University of Calgary" post="Conjoint Health Research Ethics Board which explained how consent"/>
+ <result pre="information/implied consent form approved by the University of Calgary Conjoint" exact="Health Research" post="Ethics Board which explained how consent would be obtained"/>
+ <result pre="Comput Interfaces 2015 2 1 1 10 10.1080/2326263X.2015.1008956 18. The" exact="Royal College of Physicians" post="and Surgeons of Canada: Royal College Directory. 2017. https://rclogin.royalcollege.ca/webcenter/portal/rcdirectory_en."/>
+ <result pre="to home Sci World J. 2015 2015 623896 10.1155/2015/623896 37." exact="Public Health Agency" post="of Canada, National Population Health Study of Neurological Conditions"/>
+</results>

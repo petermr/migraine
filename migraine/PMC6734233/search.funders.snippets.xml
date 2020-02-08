@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6734233/results/search/funders/results.xml">
+  <result pre="2 [1], 0000 0001 2181 989X grid.264381.a Department of Neurology," exact="Samsung" post="Medical Center, Sungkyunkwan University School of Medicine, [2], 0000"/>
+  <result pre="0001 2181 989X grid.264381.a Department of Neurology, Samsung Medical Center," exact="Sungkyunkwan University" post="School of Medicine, [2], 0000 0001 0640 5613 grid.414964.a"/>
+  <result pre="989X grid.264381.a Department of Neurology, Samsung Medical Center, Sungkyunkwan University" exact="School of Medicine," post="[2], 0000 0001 0640 5613 grid.414964.a Neuroscience Center, Samsung"/>
+  <result pre="of Medicine, [2], 0000 0001 0640 5613 grid.414964.a Neuroscience Center," exact="Samsung" post="Medical Center, [3], 0000 0001 2181 989X grid.264381.a Department"/>
+  <result pre="0001 2181 989X grid.264381.a Department of Electrical and Computer Engineering," exact="Sungkyunkwan University," post="[4], 0000 0004 1784 4496 grid.410720.0 Center for Neuroscience"/>
+  <result pre="Science, [5], 0000 0001 2181 989X grid.264381.a Department of Radiology," exact="Samsung" post="Medical Center, Sungkyunkwan University School of Medicine, [6], 0000"/>
+  <result pre="0001 2181 989X grid.264381.a Department of Radiology, Samsung Medical Center," exact="Sungkyunkwan University" post="School of Medicine, [6], 0000 0001 2181 989X grid.264381.a"/>
+  <result pre="989X grid.264381.a Department of Radiology, Samsung Medical Center, Sungkyunkwan University" exact="School of Medicine," post="[6], 0000 0001 2181 989X grid.264381.a School of Electronic"/>
+  <result pre="0001 2181 989X grid.264381.a School of Electronic and Electrical Engineering," exact="Sungkyunkwan University," post="epub: 2019-3-3 pmc-release: 2019-3-3 collection: 2019 20 1 29"/>
+  <result pre="CM aged 18–60 years who visited the headache clinic of the" exact="Samsung" post="Medical Center from July 2016 to December 2017. All"/>
+  <result pre="Migraine Chronic migraine Functional MRI Neuroimaging Pain matrix Funding http://dx.doi.org/10.13039/501100003725" exact="National Research Foundation" post="of Korea 2017R1A2B2009086 2017R1A2B4007254 Lee Mi Ji Chung Chin-Sang"/>
+  <result pre="new migraine patients who visited the headache clinic of the" exact="Samsung" post="Medical Center from July 2016 to December 2017. Patients"/>
+  <result pre="[ 9]. Standard protocol approvals, registrations, and patient consents The" exact="Samsung" post="Medical Center Institutional Review Board approved this study. All"/>
+  <result pre="magnetic resonance (MR) imaging using a 3 T MR scanner (Achieva;" exact="Philips" post="Medical Systems, Best, the Netherlands). T1-weighted structural images with"/>
+  <result pre="in data management. Funding This study was supported by the" exact="National Research Foundation" post="of Korea (NRF) grants funded by the Korean government"/>
+  <result pre="of the work. Ethics approval and consent to participate The" exact="Samsung" post="Medical Center Institutional Review Board approved this study. All"/>
+ </snippets>
+</snippetsTree>

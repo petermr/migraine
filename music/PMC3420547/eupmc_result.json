@@ -1,0 +1,369 @@
+{
+  "id": [
+    "22953146"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22953146"
+  ],
+  "pmcid": [
+    "PMC3420547"
+  ],
+  "doi": [
+    "10.1155/2012/152916"
+  ],
+  "title": [
+    "Neural Changes following Behavioral Activation for a Depressed Breast Cancer Patient: A Functional MRI Case Study."
+  ],
+  "authorString": [
+    "Gawrysiak MJ, Carvalho JP, Rogers BP, Nicholas CR, Dougherty JH, Hopko DR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gawrysiak MJ"
+          ],
+          "firstName": [
+            "Michael J"
+          ],
+          "lastName": [
+            "Gawrysiak"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "The Department of Psychology, University of Tennessee, Austin Peay Building, Knoxville, TN 37996-0900, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Carvalho JP"
+          ],
+          "firstName": [
+            "John P"
+          ],
+          "lastName": [
+            "Carvalho"
+          ],
+          "initials": [
+            "JP"
+          ]
+        },
+        {
+          "fullName": [
+            "Rogers BP"
+          ],
+          "firstName": [
+            "Baxter P"
+          ],
+          "lastName": [
+            "Rogers"
+          ],
+          "initials": [
+            "BP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5666-2797",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nicholas CR"
+          ],
+          "firstName": [
+            "Christopher R N"
+          ],
+          "lastName": [
+            "Nicholas"
+          ],
+          "initials": [
+            "CR"
+          ]
+        },
+        {
+          "fullName": [
+            "Dougherty JH"
+          ],
+          "firstName": [
+            "John H"
+          ],
+          "lastName": [
+            "Dougherty"
+          ],
+          "initials": [
+            "JH"
+          ]
+        },
+        {
+          "fullName": [
+            "Hopko DR"
+          ],
+          "firstName": [
+            "Derek R"
+          ],
+          "lastName": [
+            "Hopko"
+          ],
+          "initials": [
+            "DR"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5666-2797",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2012"
+      ],
+      "journalIssueId": [
+        "1960963"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Case reports in psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Case Rep Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Case Rep Psychiatry"
+          ],
+          "NLMid": [
+            "101583308"
+          ],
+          "ISSN": [
+            "2090-682X"
+          ],
+          "ESSN": [
+            "2090-6838"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "152916"
+  ],
+  "abstractText": [
+    "Functional neuroimaging is an innovative but at this stage underutilized method to assess the efficacy of psychotherapy for depression. Functional magnetic resonance imaging (fMRI) was used in this case study to examine changes in brain activity in a depressed breast cancer patient receiving an 8-session Behavioral Activation Treatment for Depression (BATD), based on the work of Hopko and Lejuez (2007). A music listening paradigm was used during fMRI brain scans to assess reward responsiveness at pre- and posttreatment. Following treatment, the patient exhibited attenuated depression and changes in blood oxygenation level dependence (BOLD) response in regions of the prefrontal cortex and the subgenual cingulate cortex. These preliminary findings outline a novel means to assess psychotherapy efficacy and suggest that BATD elicits functional brain changes in areas implicated in the pathophysiology of depression. Further research is necessary to explore neurobiological mechanisms of change in BATD, particularly the potential mediating effects of reward responsiveness and associated brain functioning."
+  ],
+  "affiliation": [
+    "The Department of Psychology, University of Tennessee, Austin Peay Building, Knoxville, TN 37996-0900, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22953146/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22953146/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2012/152916"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3420547"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3420547?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-09-06"
+  ],
+  "dateOfCreation": [
+    "2012-09-07"
+  ],
+  "firstIndexDate": [
+    "2012-09-07"
+  ],
+  "fullTextReceivedDate": [
+    "2012-09-09"
+  ],
+  "dateOfRevision": [
+    "2019-02-26"
+  ],
+  "electronicPublicationDate": [
+    "2012-05-09"
+  ],
+  "firstPublicationDate": [
+    "2012-05-09"
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6360466/results/species/binomial/results.xml">
+  <result pre="pital admission. 1 Cat scratch disease is caused by " exact="Bartonella henselae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Bartonella henselae" post=" and most often presents with fever and regional lymphadenopathy. &lt;a href=&quot;#bibr1-2329048X198" name="binomial"/>
+  <result pre=" hospitalization. West Nile virus immunoglobulin M and Epstein-Barr virus PCR were negative. Serum " exact="Mycoplasma pneumoniae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Mycoplasma pneumoniae" post=" antibodies demonstrated elevated immunoglobulin M at 1861 U/mL, but PCR was negative. Serum anti-s" name="binomial"/>
+  <result pre=" " exact="Bartonella henselae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Bartonella henselae" post=" bacteria can be transmitted from a cat scratch or bite, from cat saliva that contacts broken skin " name="binomial"/>
+  <result pre="The patient’s positive " exact="Mycoplasma pneumoniae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Mycoplasma pneumoniae" post=" immunoglobulin M must be considered in combination with the patient’s negative Mycoplasma pneum" name="binomial"/>
+  <result pre="asma pneumoniae immunoglobulin M must be considered in combination with the patient’s negative " exact="Mycoplasma pneumoniae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Mycoplasma pneumoniae" post=" PCR: this combination of results is not necessarily diagnostic of acute infection. &lt;a href=&quot;" name="binomial"/>
+  <result pre="ibr11-2329048X19826480&quot;&gt;11 One small study suggests that serologic tests do not distinguish " exact="Mycoplasma pneumoniae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Mycoplasma pneumoniae" post=" disease status from carrier status. 12 A larger st" name="binomial"/>
+  <result pre="a href=&quot;#bibr12-2329048X19826480&quot;&gt;12 A larger study looking at neurologic manifestations of " exact="Mycoplasma pneumoniae" xpath="/html[1]/body[1]/div[2]/div[2]/p[4]" match="Mycoplasma pneumoniae" post=" noted 2 distinct disease patterns: one characterized by high immunoglobulin M and frequent respira" name="binomial"/>
+  <result pre="Diagnosis of " exact="Bartonella henselae" match="Bartonella henselae" post=" infection is also challenging due to several factors. The length of time from obtaining serum for " name="binomial"/>
+ </snippets>
+</snippetsTree>

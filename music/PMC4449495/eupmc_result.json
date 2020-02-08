@@ -1,0 +1,265 @@
+{
+  "id": [
+    "26060713"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26060713"
+  ],
+  "pmcid": [
+    "PMC4449495"
+  ],
+  "title": [
+    "Happiness & Health: The Biological Factors- Systematic Review Article."
+  ],
+  "authorString": [
+    "Dfarhud D, Malmir M, Khanahmadi M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dfarhud D"
+          ],
+          "firstName": [
+            "Dariush"
+          ],
+          "lastName": [
+            "Dfarhud"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "1. School of Public Health, Tehran University of Medical Sciences , Tehran, Iran ; 2. Iranian Academy of Medical Sciences , Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Malmir M"
+          ],
+          "firstName": [
+            "Maryam"
+          ],
+          "lastName": [
+            "Malmir"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "3. Dept. of Exceptional Children Psychology, Science & Research Branch, Islamic Azad University , Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Khanahmadi M"
+          ],
+          "firstName": [
+            "Mohammad"
+          ],
+          "lastName": [
+            "Khanahmadi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "4. Dept. of Psychology, Allame Tabataba'i University , Tehran, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "43"
+      ],
+      "journalIssueId": [
+        "2293324"
+      ],
+      "dateOfPublication": [
+        "2014 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Iranian journal of public health"
+          ],
+          "ISOAbbreviation": [
+            "Iran. J. Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Iran J Public Health"
+          ],
+          "NLMid": [
+            "7505531"
+          ],
+          "ISSN": [
+            "2251-6085"
+          ],
+          "ESSN": [
+            "2251-6093"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "1468-1477"
+  ],
+  "abstractText": [
+    "Happiness underlying factors are considerable from two dimensions: endogenic factors (biological, cognitive, personality and ethical sub-factors) and exogenic factors (behavioral, socialcultural, economical, geographical, life events and aesthetics sub-factors). Among all endogenic factors, biological sub-factors are the significant predictors of happiness. Existence of significant differences in temperament and happiness of infants is an indicator of biological influences. Therefore, this study aimed to consider biological factors that underlie happiness. At the first, all of the biological factors in relation with happiness were searched from following websites: PubMed, Wiley& Sons, Science direct (1990-2014). Then, the articles divided into five sub-groups (genetic, brain and neurotransmitters, endocrinology and hormones, physical health, morphology and physical attractiveness). Finally, a systematic review performed based on existing information. Results of studies on genetic factors indicated an average effectiveness of genetic about 35 -50 percent on happiness. In spite of difficulties in finding special genes, several genes distributed to emotion and mood. Neuroscience studies showed that some part of brain (e.g. amygdala, hipocamp and limbic system) and neurotransmitters (e.g. dopamine, serotonin, norepinefrine and endorphin) play a role in control of happiness. A few studies pointed to the role of cortisol and adrenaline (adrenal gland) and oxitocin (pituitary gland) in controlling happiness. Physical health and typology also concluded in most related studies to have a significant role in happiness. Therefore, according to previous research, it can be said that biological and health factors are critical in underlying happiness and its role in happiness is undeniable."
+  ],
+  "affiliation": [
+    "1. School of Public Health, Tehran University of Medical Sciences , Tehran, Iran ; 2. Iranian Academy of Medical Sciences , Tehran, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biological factors",
+        "Health",
+        "Happiness"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4449495"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4449495?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-06-10"
+  ],
+  "dateOfCreation": [
+    "2015-06-10"
+  ],
+  "firstIndexDate": [
+    "2015-06-11"
+  ],
+  "fullTextReceivedDate": [
+    "2015-06-11"
+  ],
+  "dateOfRevision": [
+    "2015-06-13"
+  ],
+  "firstPublicationDate": [
+    "2014-11-01"
+  ]
+}

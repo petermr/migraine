@@ -1,0 +1,285 @@
+{
+  "id": [
+    "31258579"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31258579"
+  ],
+  "pmcid": [
+    "PMC6572967"
+  ],
+  "doi": [
+    "10.12669/pjms.35.3.268"
+  ],
+  "title": [
+    "Ametropia in children with headache."
+  ],
+  "authorString": [
+    "Mehboob MA, Nisar H, Khan M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mehboob MA"
+          ],
+          "firstName": [
+            "Mohammad Asim"
+          ],
+          "lastName": [
+            "Mehboob"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Dr. Mohammad Asim Mehboob, FCPS(Ophth), FICO, FRCS, MRCSEd, Combined Military Hospital, Gujranwala, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nisar H"
+          ],
+          "firstName": [
+            "Haider"
+          ],
+          "lastName": [
+            "Nisar"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Dr. Haider Nisar, FCPS(Paeds), Combined Military Hospital, Khuzdar, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Khan M"
+          ],
+          "firstName": [
+            "Memoona"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Dr. Memoona Khan, FCPS (Hematology), Combined Military Hospital, Khuzdar, Pakistan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2831879"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pakistan journal of medical sciences"
+          ],
+          "ISOAbbreviation": [
+            "Pak J Med Sci"
+          ],
+          "medlineAbbreviation": [
+            "Pak J Med Sci"
+          ],
+          "NLMid": [
+            "100913117"
+          ],
+          "ISSN": [
+            "1682-024X"
+          ],
+          "ESSN": [
+            "1681-715X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "701-704"
+  ],
+  "abstractText": [
+    "Objective:To measure the frequency of uncorrected ametropia in children with 2 to 8 weeks of persistent headache referred to ophthalmic outpatient department for evaluation. Methods:This cross sectional study was conducted at CMH Gujranwala from March 2018 to November 2018.A total of 262 children, aged from 5 to 16 years, with 2 to 8 weeks history of persistent headache underwent detailed ophthalmic assessment for refractive errors, and other ophthalmic evaluation. Children with ametropia, confirmed with cycloplegic refraction and post-mydriatic testing were prescribed with glasses. Patients without any ophthalmic findings were referred back to pediatrics department for further evaluation. Results:Mean age of study population was 8.97 ± 3.16 years. Mean duration of headache was 5.03 ± 1.81 weeks. Ametropia was found in 56 (21.4%) children, while 206 (78.6%) had no refractive error. Out of children with ametropia, 20 (35.7%) had myopia, 24 (42.8%) had astigmatism and 12 (21.5%) had hypermetropia. There was no difference in ametropic children and children without ametropia with respect to gender (p=0.73), age (p=0.54) and duration of headache (p=0.71). Conclusion:A significant proportion of children with ametropia have initial symptoms of headache. Any child with un-explained headache must undergo ophthalmic evaluation to diagnose refractive error, if any."
+  ],
+  "affiliation": [
+    "Dr. Mohammad Asim Mehboob, FCPS(Ophth), FICO, FRCS, MRCSEd, Combined Military Hospital, Gujranwala, Pakistan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ametropia",
+        "Headache",
+        "Refractive Error"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12669/pjms.35.3.268"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6572967"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6572967?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-02"
+  ],
+  "firstIndexDate": [
+    "2019-07-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-30"
+  ],
+  "dateOfRevision": [
+    "2019-07-03"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

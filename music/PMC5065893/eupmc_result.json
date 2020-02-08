@@ -1,0 +1,574 @@
+{
+  "id": [
+    "27372450"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27372450"
+  ],
+  "pmcid": [
+    "PMC5065893"
+  ],
+  "doi": [
+    "10.1007/s00415-016-8208-y"
+  ],
+  "title": [
+    "Hearing and dementia."
+  ],
+  "authorString": [
+    "Hardy CJ, Marshall CR, Golden HL, Clark CN, Mummery CJ, Griffiths TD, Bamiou DE, Warren JD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hardy CJ"
+          ],
+          "firstName": [
+            "Chris J D"
+          ],
+          "lastName": [
+            "Hardy"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "Department of Neurodegenerative Disease, Dementia Research Centre, UCL Institute of Neurology, University College London, Queen Square, London, WC1N 3BG, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Marshall CR"
+          ],
+          "firstName": [
+            "Charles R"
+          ],
+          "lastName": [
+            "Marshall"
+          ],
+          "initials": [
+            "CR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8227-2354",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurodegenerative Disease, Dementia Research Centre, UCL Institute of Neurology, University College London, Queen Square, London, WC1N 3BG, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Golden HL"
+          ],
+          "firstName": [
+            "Hannah L"
+          ],
+          "lastName": [
+            "Golden"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "affiliation": [
+            "Department of Neurodegenerative Disease, Dementia Research Centre, UCL Institute of Neurology, University College London, Queen Square, London, WC1N 3BG, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Clark CN"
+          ],
+          "firstName": [
+            "Camilla N"
+          ],
+          "lastName": [
+            "Clark"
+          ],
+          "initials": [
+            "CN"
+          ],
+          "affiliation": [
+            "Department of Neurodegenerative Disease, Dementia Research Centre, UCL Institute of Neurology, University College London, Queen Square, London, WC1N 3BG, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Mummery CJ"
+          ],
+          "firstName": [
+            "Catherine J"
+          ],
+          "lastName": [
+            "Mummery"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "Cognitive Disorders Clinic for the Deaf, National Hospital for Neurology and Neurosurgery, Queen Square, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Griffiths TD"
+          ],
+          "firstName": [
+            "Timothy D"
+          ],
+          "lastName": [
+            "Griffiths"
+          ],
+          "initials": [
+            "TD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8066-4381",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Central Auditory Disorders Clinic, National Hospital for Neurology and Neurosurgery, Queen Square, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Bamiou DE"
+          ],
+          "firstName": [
+            "Doris-Eva"
+          ],
+          "lastName": [
+            "Bamiou"
+          ],
+          "initials": [
+            "DE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7486-4264",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Central Auditory Disorders Clinic, National Hospital for Neurology and Neurosurgery, Queen Square, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Warren JD"
+          ],
+          "firstName": [
+            "Jason D"
+          ],
+          "lastName": [
+            "Warren"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5405-0826",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Central Auditory Disorders Clinic, National Hospital for Neurology and Neurosurgery, Queen Square, London, UK. jason.warren@ucl.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5405-0826",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8066-4381",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7486-4264",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8227-2354",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "263"
+      ],
+      "journalIssueId": [
+        "2463501"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of neurology"
+          ],
+          "ISOAbbreviation": [
+            "J. Neurol."
+          ],
+          "medlineAbbreviation": [
+            "J Neurol"
+          ],
+          "NLMid": [
+            "0423161"
+          ],
+          "ISSN": [
+            "0340-5354"
+          ],
+          "ESSN": [
+            "1432-1459"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "2339-2354"
+  ],
+  "abstractText": [
+    "Hearing deficits associated with cognitive impairment have attracted much recent interest, motivated by emerging evidence that impaired hearing is a risk factor for cognitive decline. However, dementia and hearing impairment present immense challenges in their own right, and their intersection in the auditory brain remains poorly understood and difficult to assess. Here, we outline a clinically oriented, symptom-based approach to the assessment of hearing in dementias, informed by recent progress in the clinical auditory neuroscience of these diseases. We consider the significance and interpretation of hearing loss and symptoms that point to a disorder of auditory cognition in patients with dementia. We identify key auditory characteristics of some important dementias and conclude with a bedside approach to assessing and managing auditory dysfunction in dementia."
+  ],
+  "affiliation": [
+    "Department of Neurodegenerative Disease, Dementia Research Centre, UCL Institute of Neurology, University College London, Queen Square, London, WC1N 3BG, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "091673/Z/10/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "1332624"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hearing Loss"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dementia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alzheimer’s disease",
+        "Dementia",
+        "Auditory",
+        "hearing",
+        "Frontotemporal Dementia",
+        "Progressive Aphasia",
+        "Lewy Body Disease"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00415-016-8208-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5065893"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5065893?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "17"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-04-07"
+  ],
+  "dateOfCreation": [
+    "2016-07-03"
+  ],
+  "firstIndexDate": [
+    "2016-07-04"
+  ],
+  "fullTextReceivedDate": [
+    "2016-10-30"
+  ],
+  "dateOfRevision": [
+    "2017-04-07"
+  ],
+  "electronicPublicationDate": [
+    "2016-07-02"
+  ],
+  "firstPublicationDate": [
+    "2016-07-02"
+  ]
+}

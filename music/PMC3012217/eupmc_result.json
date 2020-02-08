@@ -1,0 +1,250 @@
+{
+  "id": [
+    "21965970"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21965970"
+  ],
+  "pmcid": [
+    "PMC3012217"
+  ],
+  "title": [
+    "A comparative study of efficacy of emg bio-feedback and progressive muscular relaxation in tension headache."
+  ],
+  "authorString": [
+    "Gada MT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gada MT"
+          ],
+          "lastName": [
+            "Gada"
+          ],
+          "initials": [
+            "MT"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "1868188"
+      ],
+      "dateOfPublication": [
+        "1984 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "1984"
+      ],
+      "printPublicationDate": [
+        "1984-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian Journal of Psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Psychiatry"
+          ],
+          "NLMid": [
+            "0013255"
+          ],
+          "ISSN": [
+            "0019-5545"
+          ],
+          "ESSN": [
+            "1998-3794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1984"
+  ],
+  "pageInfo": [
+    "121-127"
+  ],
+  "abstractText": [
+    "The aim of the present study was to find out efficacy of frontalis EMG Biofeedback therapy, deep muscular relaxation therapy and compare the efficacy of both in cases of tension headache. During two week basal-data recording period all patients were taught deep muscular relaxation by Jacobson's technique. Simultaneously patients were instructed to keep headache diary. Headache diary yielded three different parameters a) number of headache-free days per week, b) peak headache intensity (or each week and c) average daily headache activity score per week. These parameters were used to find out therapeutic efficacy of each treatment. Patients were randomly divided in two groups. EMG Biofeedback group was given frontalis EMG feedback through EMG J 33 muscle trainer of Cyborg Corporation (U.S.A.). Patients in each group were given 20 sessions (two sessions per week); each session lasting 30 minutes. Patients were instructed to practice at least one 30 minute session of relaxation at home. The data were subjected to statistical calculation. The results indicate that frontalis EMG Biofeedback therapy and deep muscle relaxation therapy are significantly effective in cases of tension headache. Both treatments are equally effective. The findings are discussed in relation to Indian situation."
+  ],
+  "affiliation": [
+    "Head and Hon. Asst. Psychiatrist, Municipal General Hospital - Rajawadi, Bombay."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21965970/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21965970/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3012217"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3012217?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-11-10"
+  ],
+  "dateOfCreation": [
+    "2011-10-03"
+  ],
+  "firstIndexDate": [
+    "2011-10-04"
+  ],
+  "fullTextReceivedDate": [
+    "2011-10-14"
+  ],
+  "firstPublicationDate": [
+    "1984-04-01"
+  ]
+}

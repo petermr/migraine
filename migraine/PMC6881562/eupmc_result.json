@@ -1,0 +1,330 @@
+{
+  "id": [
+    "31827936"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31827936"
+  ],
+  "pmcid": [
+    "PMC6881562"
+  ],
+  "doi": [
+    "10.1155/2019/5610213"
+  ],
+  "title": [
+    "Left Atrial Myxoma Presenting as Lateral Medullary (Wallenberg's) Syndrome."
+  ],
+  "authorString": [
+    "Gupta S, Ayala R, Desai A, Modi VI, Nardino RJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gupta S"
+          ],
+          "firstName": [
+            "Simran"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2006-1236",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, University of Connecticut School of Medicine, UCONN Health, Farmington, CT, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ayala R"
+          ],
+          "firstName": [
+            "Ricky"
+          ],
+          "lastName": [
+            "Ayala"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, University of Connecticut School of Medicine, UCONN Health, Farmington, CT, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Desai A"
+          ],
+          "firstName": [
+            "Aakash"
+          ],
+          "lastName": [
+            "Desai"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, University of Connecticut School of Medicine, UCONN Health, Farmington, CT, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Modi VI"
+          ],
+          "firstName": [
+            "Viraj I"
+          ],
+          "lastName": [
+            "Modi"
+          ],
+          "initials": [
+            "VI"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, University of Connecticut School of Medicine, UCONN Health, Farmington, CT, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nardino RJ"
+          ],
+          "firstName": [
+            "Robert J"
+          ],
+          "lastName": [
+            "Nardino"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, University of Connecticut School of Medicine, UCONN Health, Farmington, CT, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2006-1236",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2778717"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Case reports in cardiology"
+          ],
+          "ISOAbbreviation": [
+            "Case Rep Cardiol"
+          ],
+          "medlineAbbreviation": [
+            "Case Rep Cardiol"
+          ],
+          "NLMid": [
+            "101576452"
+          ],
+          "ISSN": [
+            "2090-6404"
+          ],
+          "ESSN": [
+            "2090-6412"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "5610213"
+  ],
+  "abstractText": [
+    "Myxomas are benign, primary tumors of the heart. Atrial myxomas can present with a variety of clinical features including dyspnea, orthopnea, pulmonary edema, and pulmonary or systemic emboli. Constitutional symptoms such as fever and weight loss may also be present. We report the case of a young female presenting with headache, facial numbness, and vertigo, who was found to have a posterolateral medullary stroke secondary to a large left atrial cardiac myxoma."
+  ],
+  "affiliation": [
+    "Department of Internal Medicine, University of Connecticut School of Medicine, UCONN Health, Farmington, CT, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/5610213"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6881562"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6881562?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-13"
+  ],
+  "firstIndexDate": [
+    "2019-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-12-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-11"
+  ],
+  "firstPublicationDate": [
+    "2019-11-11"
+  ]
+}

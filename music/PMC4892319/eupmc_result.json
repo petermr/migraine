@@ -1,0 +1,307 @@
+{
+  "id": [
+    "27303609"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27303609"
+  ],
+  "pmcid": [
+    "PMC4892319"
+  ],
+  "doi": [
+    "10.15412/J.BCN.03070208"
+  ],
+  "title": [
+    "Neurofeedback: A Comprehensive Review on System Design, Methodology and Clinical Applications."
+  ],
+  "authorString": [
+    "Marzbani H, Marateb HR, Mansourian M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Marzbani H"
+          ],
+          "firstName": [
+            "Hengameh"
+          ],
+          "lastName": [
+            "Marzbani"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Faculty of Engineering, University of Isfahan, Isfahan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Marateb HR"
+          ],
+          "firstName": [
+            "Hamid Reza"
+          ],
+          "lastName": [
+            "Marateb"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4408-2397",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Faculty of Engineering, University of Isfahan, Isfahan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Mansourian M"
+          ],
+          "firstName": [
+            "Marjan"
+          ],
+          "lastName": [
+            "Mansourian"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biostatistics and Epidemiology, School of Health, Isfahan University of Medical Sciences, Isfahan, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4408-2397",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2419823"
+      ],
+      "dateOfPublication": [
+        "2016 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Basic and clinical neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Basic Clin Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Basic Clin Neurosci"
+          ],
+          "NLMid": [
+            "101575211"
+          ],
+          "ISSN": [
+            "2008-126X"
+          ],
+          "ESSN": [
+            "2228-7442"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "143-158"
+  ],
+  "abstractText": [
+    "Neurofeedback is a kind of biofeedback, which teaches self-control of brain functions to subjects by measuring brain waves and providing a feedback signal. Neurofeedback usually provides the audio and or video feedback. Positive or negative feedback is produced for desirable or undesirable brain activities, respectively. In this review, we provided clinical and technical information about the following issues: (1) Various neurofeedback treatment protocols i.e. alpha, beta, alpha/theta, delta, gamma, and theta; (2) Different EEG electrode placements i.e. standard recording channels in the frontal, temporal, central, and occipital lobes; (3) Electrode montages (unipolar, bipolar); (4) Types of neurofeedback i.e. frequency, power, slow cortical potential, functional magnetic resonance imaging, and so on; (5) Clinical applications of neurofeedback i.e. treatment of attention deficit hyperactivity disorder, anxiety, depression, epilepsy, insomnia, drug addiction, schizophrenia, learning disabilities, dyslexia and dyscalculia, autistic spectrum disorders and so on as well as other applications such as pain management, and the improvement of musical and athletic performance; and (6) Neurofeedback softwares. To date, many studies have been conducted on the neurofeedback therapy and its effectiveness on the treatment of many diseases. Neurofeedback, like other treatments, has its own pros and cons. Although it is a non-invasive procedure, its validity has been questioned in terms of conclusive scientific evidence. For example, it is expensive, time-consuming and its benefits are not long-lasting. Also, it might take months to show the desired improvements. Nevertheless, neurofeedback is known as a complementary and alternative treatment of many brain dysfunctions. However, current research does not support conclusive results about its efficacy."
+  ],
+  "affiliation": [
+    "Department of Biomedical Engineering, Faculty of Engineering, University of Isfahan, Isfahan, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "methods-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electroencephalography",
+        "Brain diseases",
+        "Neurofeedback",
+        "Complementary Therapies",
+        "Brain Waves"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.15412/J.BCN.03070208"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4892319"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4892319?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "16"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-06-15"
+  ],
+  "dateOfCreation": [
+    "2016-06-15"
+  ],
+  "firstIndexDate": [
+    "2016-06-16"
+  ],
+  "fullTextReceivedDate": [
+    "2016-06-16"
+  ],
+  "dateOfRevision": [
+    "2016-06-17"
+  ],
+  "firstPublicationDate": [
+    "2016-04-01"
+  ]
+}

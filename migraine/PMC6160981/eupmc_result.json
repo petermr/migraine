@@ -1,0 +1,386 @@
+{
+  "id": [
+    "30049994"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30049994"
+  ],
+  "pmcid": [
+    "PMC6160981"
+  ],
+  "doi": [
+    "10.3390/ph11030075"
+  ],
+  "title": [
+    "Polyethylene Glycol Exposure with Antihemophilic Factor (Recombinant), PEGylated (rurioctocog alfa pegol) and Other Therapies Indicated for the Pediatric Population: History and Safety."
+  ],
+  "authorString": [
+    "Stidl R, Denne M, Goldstine J, Kadish B, Korakas KI, Turecek PL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stidl R"
+          ],
+          "firstName": [
+            "Reinhard"
+          ],
+          "lastName": [
+            "Stidl"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Baxalta Innovations GmbH, Shire, Industriestraße 67, 1220 Vienna, Austria. reinhard.stidl@shire.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Denne M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Denne"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Shire, Bank of America Plaza, 540 W Madison St, Chicago, IL 60661, USA. michael.denne@shire.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Goldstine J"
+          ],
+          "firstName": [
+            "Jimena"
+          ],
+          "lastName": [
+            "Goldstine"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Shire, Bank of America Plaza, 540 W Madison St, Chicago, IL 60661, USA. jimenag@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kadish B"
+          ],
+          "firstName": [
+            "Bill"
+          ],
+          "lastName": [
+            "Kadish"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "PAREXEL International, 433 Hackensack Avenue, 10th Floor, Hackensack, NJ 07601, USA. Bill.Kadish@ppsigroup.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Korakas KI"
+          ],
+          "firstName": [
+            "Katherine I"
+          ],
+          "lastName": [
+            "Korakas"
+          ],
+          "initials": [
+            "KI"
+          ],
+          "affiliation": [
+            "PAREXEL International, 433 Hackensack Avenue, 10th Floor, Hackensack, NJ 07601, USA. Kate.Korakas@PAREXEL.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Turecek PL"
+          ],
+          "firstName": [
+            "Peter L"
+          ],
+          "lastName": [
+            "Turecek"
+          ],
+          "initials": [
+            "PL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6161-1556",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Baxalta Innovations GmbH, Shire, Industriestraße 67, 1220 Vienna, Austria. peter.turecek@shire.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6161-1556",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2703205"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pharmaceuticals (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Pharmaceuticals (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Pharmaceuticals (Basel)"
+          ],
+          "NLMid": [
+            "101238453"
+          ],
+          "ISSN": [
+            "1424-8247"
+          ],
+          "ESSN": [
+            "1424-8247"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Polyethylene glycol (PEG) is an inert, water soluble polymer, used for decades in pharmaceuticals. Although PEG is considered safe, concerns persist about the potential adverse effects of long-term exposure to PEG-containing therapies, specifically in children, following the introduction of PEGylated recombinant factor products used for the treatment of hemophilia. Given the absence of long-term surveillance data, and to evaluate the potential risk, we estimated PEG exposure in the pediatric population receiving PEGylated therapies with pediatric indications administered intravenously or intramuscularly. We used a range of pediatric weights and doses based on prescribing information (PI) or treatment guidelines. PIs and reporting websites were searched for information about adverse events (AEs). For a child weighing 50 kg on the highest prophylactic dose of a FVIII product, the range of total PEG exposure was 40⁻21,840 mg/year; for factor IX (FIX) products, the range was 13⁻1342 mg/year; and for other products, the range was 383⁻26,743 mg/year, primarily as a derivative excipient. No AE patterns attributable to PEG were found for any of these products, including potential renal, neurological, or hepatic AEs. Our analyses suggest the pediatric population has had substantial exposure to PEG for several decades, with no evidence of adverse consequences."
+  ],
+  "affiliation": [
+    "Baxalta Innovations GmbH, Shire, Industriestraße 67, 1220 Vienna, Austria. reinhard.stidl@shire.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Safety",
+        "Hemophilia",
+        "Conjugation",
+        "PEGylation",
+        "Pediatric",
+        "polyethylene glycol",
+        "Biologics",
+        "Excipient",
+        "Polysorbate",
+        "Rurioctocog Alfa Pegol"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ph11030075"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6160981"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6160981?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR51224"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-28"
+  ],
+  "firstIndexDate": [
+    "2018-07-28"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-06"
+  ],
+  "dateOfRevision": [
+    "2018-10-02"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-26"
+  ],
+  "firstPublicationDate": [
+    "2018-07-26"
+  ]
+}

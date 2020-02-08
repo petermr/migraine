@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6679182/results/word/frequencies/results.xml">
+  <result title="frequency" word="migraine" count="46"/>
+  <result title="frequency" word="hsa-miR-" count="31"/>
+  <result title="frequency" word="hsa-miR-a-p" count="27"/>
+  <result title="frequency" word="subjects" count="26"/>
+  <result title="frequency" word="expression" count="24"/>
+  <result title="frequency" word="saliva" count="24"/>
+  <result title="frequency" word="months" count="23"/>
+ </snippets>
+</snippetsTree>

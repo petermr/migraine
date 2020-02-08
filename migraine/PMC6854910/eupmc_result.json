@@ -1,0 +1,376 @@
+{
+  "id": [
+    "31772571"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31772571"
+  ],
+  "pmcid": [
+    "PMC6854910"
+  ],
+  "doi": [
+    "10.1155/2019/8974751"
+  ],
+  "title": [
+    "The Challenge of Treatment in Potential Celiac Disease."
+  ],
+  "authorString": [
+    "Trovato CM, Montuori M, Valitutti F, Leter B, Cucchiara S, Oliva S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Trovato CM"
+          ],
+          "firstName": [
+            "Chiara Maria"
+          ],
+          "lastName": [
+            "Trovato"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3869-1815",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Gastroenterology and Liver Unit, Department of Pediatrics, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Montuori M"
+          ],
+          "firstName": [
+            "Monica"
+          ],
+          "lastName": [
+            "Montuori"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Pediatric Gastroenterology and Liver Unit, Department of Pediatrics, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Valitutti F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Valitutti"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1473-2240",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Gastroenterology and Liver Unit, Department of Pediatrics, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Leter B"
+          ],
+          "firstName": [
+            "Beatrice"
+          ],
+          "lastName": [
+            "Leter"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Molecular Medicine, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cucchiara S"
+          ],
+          "firstName": [
+            "Salvatore"
+          ],
+          "lastName": [
+            "Cucchiara"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Pediatric Gastroenterology and Liver Unit, Department of Pediatrics, Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Oliva S"
+          ],
+          "firstName": [
+            "Salvatore"
+          ],
+          "lastName": [
+            "Oliva"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2348-2308",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Gastroenterology and Liver Unit, Department of Pediatrics, Sapienza University of Rome, Rome, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2348-2308",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3869-1815",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1473-2240",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2779310"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Gastroenterology research and practice"
+          ],
+          "ISOAbbreviation": [
+            "Gastroenterol Res Pract"
+          ],
+          "medlineAbbreviation": [
+            "Gastroenterol Res Pract"
+          ],
+          "NLMid": [
+            "101475557"
+          ],
+          "ISSN": [
+            "1687-6121"
+          ],
+          "ESSN": [
+            "1687-630X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "8974751"
+  ],
+  "abstractText": [
+    "Potential celiac disease (PCD) is defined by the presence of positive serum antibodies, HLA-DQ2/DQ8 haplotypes, and a normal small intestinal mucosa (Marsh grade 0-1). This condition occurs in one-fifth of celiac disease (CD) patients and usually represents a clinical challenge. We reviewed genetic, histologic, and clinical features of this specific condition by performing a systematic search on MEDLINE, Embase, and Scholar database. Accordingly, we identified different genetic features in patients with PCD compared to the classical forms. Frequently, signs of inflammation (deposits of immunoglobulin A (IgA) and/or increased number of intraepithelial lymphocytes) can be clearly identify in the mucosa of PCD patients after an accurate histological assessment. Finally, the main challenge is represented by the treatment: the gluten-free diet should be considered only in the presence of gluten-dependent symptoms in both children and adults. What is known: (i) potential celiac disease (PCD) occurs in one-fifth of all celiac diseases (CD), and (ii) despite the absence of classical lesions, clear signs of inflammation are often detectable. What is new: (i) patients with PCD show different genetic features, and (ii) the presence of gluten-dependent symptoms is the main determinant to initiate the gluten-free diet, after a complete diagnostic work-up."
+  ],
+  "affiliation": [
+    "Pediatric Gastroenterology and Liver Unit, Department of Pediatrics, Sapienza University of Rome, Rome, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/8974751"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6854910"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6854910?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-28"
+  ],
+  "firstIndexDate": [
+    "2019-11-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-01"
+  ],
+  "dateOfRevision": [
+    "2019-12-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-20"
+  ],
+  "firstPublicationDate": [
+    "2019-10-20"
+  ]
+}

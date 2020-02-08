@@ -1,0 +1,426 @@
+{
+  "id": [
+    "31695618"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31695618"
+  ],
+  "pmcid": [
+    "PMC6817617"
+  ],
+  "doi": [
+    "10.3389/fphar.2019.01262"
+  ],
+  "title": [
+    "Surprising Anticancer Activities of Psychiatric Medications: Old Drugs Offer New Hope for Patients With Brain Cancer."
+  ],
+  "authorString": [
+    "Zhuo C, Xun Z, Hou W, Ji F, Lin X, Tian H, Zheng W, Chen M, Liu C, Wang W, Chen C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhuo C"
+          ],
+          "firstName": [
+            "Chuanjun"
+          ],
+          "lastName": [
+            "Zhuo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, School of Mental Health, Psychiatric Genetics Laboratory (PSYG-Lab), Jining Medical University, Jining, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xun Z"
+          ],
+          "firstName": [
+            "Zhiyuan"
+          ],
+          "lastName": [
+            "Xun"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Psychiatric-Neuroimaging-Genetics and Morbidity Laboratory (PNGC-Lab), Nankai University Affiliated Anding Hospital, Tianjin Mental Health Center, Mental Health Teaching Hospital, Tianjin Medical University, Tianjin, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou W"
+          ],
+          "firstName": [
+            "Weihong"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Zhengzhou University, Zhengzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ji F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Ji"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, School of Mental Health, Psychiatric Genetics Laboratory (PSYG-Lab), Jining Medical University, Jining, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin X"
+          ],
+          "firstName": [
+            "Xiaodong"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Wenzhou Seventh People's Hospital, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tian H"
+          ],
+          "firstName": [
+            "Hongjun"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Psychiatric-Neuroimaging-Genetics and Morbidity Laboratory (PNGC-Lab), Nankai University Affiliated Anding Hospital, Tianjin Mental Health Center, Mental Health Teaching Hospital, Tianjin Medical University, Tianjin, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng W"
+          ],
+          "firstName": [
+            "Weifang"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Wenzhou Seventh People's Hospital, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen M"
+          ],
+          "firstName": [
+            "Min"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, School of Mental Health, Psychiatric Genetics Laboratory (PSYG-Lab), Jining Medical University, Jining, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Chuanxin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, School of Mental Health, Psychiatric Genetics Laboratory (PSYG-Lab), Jining Medical University, Jining, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang W"
+          ],
+          "firstName": [
+            "Wenqiang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of China-Canada Biological Psychiatry Lab, Xiamen Xianyue Hospital, Xiamen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen C"
+          ],
+          "firstName": [
+            "Ce"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Wenzhou Seventh People's Hospital, Wenzhou, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779305"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1262"
+  ],
+  "abstractText": [
+    "Despite decades of research and major efforts, malignant brain tumors remain among the deadliest of all cancers. Recently, an increasing number of psychiatric drugs has been proven to possess suppressing activities against brain tumors, and rapid progress has been made in understanding the potential mechanisms of action of these drugs. In particular, the traditional mood stabilizer valproic acid, the widely used antidepressants fluoxetine and escitalopram oxalate, and the atypical psychiatric drug aripiprazole have demonstrated promise for application in brain tumor treatment strategies through multiple lines of laboratory, preclinical, and clinical evidence. The unexpected discovery of the anticancer properties of these drugs has ignited interest in the repurposing of other psychiatric drugs to combat brain cancer. In this review, we synthesize recent progress in understanding the potential molecular mechanisms underlying the brain cancer-killing activities of representative psychiatric drugs. We also identify key limitations in the repurposing of these medications that must be overcome to enhance our ability to successfully prevent and treat brain cancer, especially in the most vulnerable groups of patients, such as children and adolescents, pregnant women, and those with unfavorable genetic variants. Moreover, we propose perspectives that may guide future research and provide long-awaited new hope to patients with brain cancer and their families."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, School of Mental Health, Psychiatric Genetics Laboratory (PSYG-Lab), Jining Medical University, Jining, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Schizophrenia",
+        "Depression",
+        "Brain cancer",
+        "Bipolar disorder",
+        "Glioblastoma Multiforme",
+        "Psychiatric Disorder",
+        "Psychiatric Drug"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2019.01262"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6817617"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6817617?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-08"
+  ],
+  "firstIndexDate": [
+    "2019-11-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-11"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-22"
+  ],
+  "firstPublicationDate": [
+    "2019-10-22"
+  ]
+}

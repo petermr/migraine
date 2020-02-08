@@ -1,0 +1,388 @@
+{
+  "id": [
+    "26457113"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26457113"
+  ],
+  "pmcid": [
+    "PMC4592735"
+  ],
+  "doi": [
+    "10.1155/2015/931418"
+  ],
+  "title": [
+    "Complementary Therapies for Significant Dysfunction from Tinnitus: Treatment Review and Potential for Integrative Medicine."
+  ],
+  "authorString": [
+    "Wolever RQ, Price R, Hazelton AG, Dmitrieva NO, Bechard EM, Shaffer JK, Tucci DL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wolever RQ"
+          ],
+          "firstName": [
+            "Ruth Q"
+          ],
+          "lastName": [
+            "Wolever"
+          ],
+          "initials": [
+            "RQ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2899-218X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physical Medicine & Rehabilitation, Osher Center for Integrative Medicine, Vanderbilt University Schools of Medicine and Nursing, 3401 West End, Suite 380, Nashville, TN 37203, USA ; Duke Integrative Medicine and Duke Department of Psychiatry and Behavioral Sciences, Duke University School of Medicine, DUMC 102904, Durham, NC 27710, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Price R"
+          ],
+          "firstName": [
+            "Rebecca"
+          ],
+          "lastName": [
+            "Price"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Speech Pathology & Audiology, Duke University Health Systems, DUMC 3887, Durham, NC 27710, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hazelton AG"
+          ],
+          "firstName": [
+            "A Garrett"
+          ],
+          "lastName": [
+            "Hazelton"
+          ],
+          "initials": [
+            "AG"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Medicine, East Carolina University, 600 Moye Boulevard, Greenville, NC 27834, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dmitrieva NO"
+          ],
+          "firstName": [
+            "Natalia O"
+          ],
+          "lastName": [
+            "Dmitrieva"
+          ],
+          "initials": [
+            "NO"
+          ],
+          "affiliation": [
+            "Department of Psychological Sciences, Northern Arizona University, P.O. Box 15106, Flagstaff, AZ 86011, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bechard EM"
+          ],
+          "firstName": [
+            "Elizabeth M"
+          ],
+          "lastName": [
+            "Bechard"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "affiliation": [
+            "Duke Integrative Medicine, DUMC 102904, Durham, NC 27710, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shaffer JK"
+          ],
+          "firstName": [
+            "Janet K"
+          ],
+          "lastName": [
+            "Shaffer"
+          ],
+          "initials": [
+            "JK"
+          ],
+          "affiliation": [
+            "Duke Integrative Medicine, DUMC 102904, Durham, NC 27710, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tucci DL"
+          ],
+          "firstName": [
+            "Debara L"
+          ],
+          "lastName": [
+            "Tucci"
+          ],
+          "initials": [
+            "DL"
+          ],
+          "affiliation": [
+            "Division of Head and Neck Surgery & Communication Sciences, Duke University School of Medicine, DUMC 3085, Durham, NC 27710, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2899-218X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2015"
+      ],
+      "journalIssueId": [
+        "2263831"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "931418"
+  ],
+  "abstractText": [
+    "Tinnitus is a prevalent and costly chronic condition; no universally effective treatment exists. Only 20% of patients who report tinnitus actually seek treatment, and when treated, most patients commonly receive sound-based and educational (SBE) therapy. Additional treatment options are necessary, however, for nonauditory aspects of tinnitus (e.g., anxiety, depression, and significant interference with daily life) and when SBE therapy is inefficacious or inappropriate. This paper provides a comprehensive review of (1) conventional tinnitus treatments and (2) promising complementary therapies that have demonstrated some benefit for severe dysfunction from tinnitus. While there has been no systematic study of the benefits of an Integrative Medicine approach for severe tinnitus, the current paper reviews emerging evidence suggesting that synergistic combinations of complementary therapies provided within a whole-person framework may augment SBE therapy and empower patients to exert control over their tinnitus symptoms without the use of medications, expensive devices, or extended programs."
+  ],
+  "affiliation": [
+    "Department of Physical Medicine & Rehabilitation, Osher Center for Integrative Medicine, Vanderbilt University Schools of Medicine and Nursing, 3401 West End, Suite 380, Nashville, TN 37203, USA ; Duke Integrative Medicine and Duke Department of Psychiatry and Behavioral Sciences, Duke University School of Medicine, DUMC 102904, Durham, NC 27710, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R21 DC011643"
+          ],
+          "agency": [
+            "NIDCD NIH HHS"
+          ],
+          "acronym": [
+            "DC"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2015/931418"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4592735"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4592735?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-12"
+  ],
+  "dateOfCreation": [
+    "2015-10-12"
+  ],
+  "firstIndexDate": [
+    "2015-10-13"
+  ],
+  "fullTextReceivedDate": [
+    "2015-10-13"
+  ],
+  "dateOfRevision": [
+    "2016-10-19"
+  ],
+  "electronicPublicationDate": [
+    "2015-09-20"
+  ],
+  "firstPublicationDate": [
+    "2015-09-20"
+  ]
+}

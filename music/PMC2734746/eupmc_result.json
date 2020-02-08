@@ -1,0 +1,751 @@
+{
+  "id": [
+    "19643002"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19643002"
+  ],
+  "pmcid": [
+    "PMC2734746"
+  ],
+  "doi": [
+    "10.1186/1471-2466-9-37"
+  ],
+  "title": [
+    "The efficacy of a comprehensive lifestyle modification programme based on yoga in the management of bronchial asthma: a randomized controlled trial."
+  ],
+  "authorString": [
+    "Vempati R, Bijlani RL, Deepak KK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vempati R"
+          ],
+          "firstName": [
+            "Ramaprabhu"
+          ],
+          "lastName": [
+            "Vempati"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Bijlani RL"
+          ],
+          "firstName": [
+            "Ramesh Lal"
+          ],
+          "lastName": [
+            "Bijlani"
+          ],
+          "initials": [
+            "RL"
+          ]
+        },
+        {
+          "fullName": [
+            "Deepak KK"
+          ],
+          "firstName": [
+            "Kishore Kumar"
+          ],
+          "lastName": [
+            "Deepak"
+          ],
+          "initials": [
+            "KK"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "1594703"
+      ],
+      "dateOfPublication": [
+        "2009 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC pulmonary medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Pulm Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Pulm Med"
+          ],
+          "NLMid": [
+            "100968563"
+          ],
+          "ISSN": [
+            "1471-2466"
+          ],
+          "ESSN": [
+            "1471-2466"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2009"
+  ],
+  "pageInfo": [
+    "37"
+  ],
+  "abstractText": [
+    "BACKGROUND: There is a substantial body of evidence on the efficacy of yoga in the management of bronchial asthma. Many studies have reported, as the effects of yoga on bronchial asthma, significant improvements in pulmonary functions, quality of life and reduction in airway hyper-reactivity, frequency of attacks and medication use. In addition, a few studies have attempted to understand the effects of yoga on exercise-induced bronchoconstriction (EIB) or exercise tolerance capacity. However, none of these studies has investigated any immunological mechanisms by which yoga improves these variables in bronchial asthma. METHODS: The present randomized controlled trial (RCT) was conducted on 57 adult subjects with mild or moderate bronchial asthma who were allocated randomly to either the yoga (intervention) group (n = 29) or the wait-listed control group (n = 28). The control group received only conventional care and the yoga group received an intervention based on yoga, in addition to the conventional care. The intervention consisted of 2-wk supervised training in lifestyle modification and stress management based on yoga followed by closely monitored continuation of the practices at home for 6-wk. The outcome measures were assessed in both the groups at 0 wk (baseline), 2, 4 and 8 wk by using Generalized Linear Model (GLM) repeated measures followed by post-hoc analysis. RESULTS: In the yoga group, there was a steady and progressive improvement in pulmonary function, the change being statistically significant in case of the first second of forced expiratory volume (FEV1) at 8 wk, and peak expiratory flow rate (PEFR) at 2, 4 and 8 wk as compared to the corresponding baseline values. There was a significant reduction in EIB in the yoga group. However, there was no corresponding reduction in the urinary prostaglandin D2 metabolite (11beta prostaglandin F2alpha) levels in response to the exercise challenge. There was also no significant change in serum eosinophilic cationic protein levels during the 8-wk study period in either group. There was a significant improvement in Asthma Quality of Life (AQOL) scores in both groups over the 8-wk study period. But the improvement was achieved earlier and was more complete in the yoga group. The number-needed-to-treat worked out to be 1.82 for the total AQOL score. An improvement in total AQOL score was greater than the minimal important difference and the same outcome was achieved for the sub-domains of the AQOL. The frequency of rescue medication use showed a significant decrease over the study period in both the groups. However, the decrease was achieved relatively earlier and was more marked in the yoga group than in the control group. CONCLUSION: The present RCT has demonstrated that adding the mind-body approach of yoga to the predominantly physical approach of conventional care results in measurable improvement in subjective as well as objective outcomes in bronchial asthma. The trial supports the efficacy of yoga in the management of bronchial asthma. However, the preliminary efforts made towards working out the mechanism of action of the intervention have not thrown much light on how yoga works in bronchial asthma. TRIAL REGISTRATION: Current Controlled Trials ISRCTN00815962."
+  ],
+  "affiliation": [
+    "Department of Physiology, All India Institute of Medical Sciences, New Delhi, India. rpvempati@gmail.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lung"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Asthma"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adrenal Cortex Hormones"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dinoprost"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "UR"
+                  ],
+                  "qualifierName": [
+                    "urine"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Asthmatic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Peak Expiratory Flow Rate"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Forced Expiratory Volume"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Yoga"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Linear Models"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress, Psychological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Life Style"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Outcome Assessment (Health Care)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Adrenal Cortex Hormones"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Dinoprost"
+          ],
+          "registryNumber": [
+            "551-11-1"
+          ]
+        },
+        {
+          "name": [
+            "Anti-Asthmatic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2466/9/37"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2466/9/37/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1471-2466-9-37.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19643002/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19643002/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2466-9-37"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2734746"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2734746?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "35"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2009-12-03"
+  ],
+  "dateOfCreation": [
+    "2009-08-31"
+  ],
+  "firstIndexDate": [
+    "2009-12-25"
+  ],
+  "fullTextReceivedDate": [
+    "2011-01-17"
+  ],
+  "electronicPublicationDate": [
+    "2009-07-30"
+  ],
+  "firstPublicationDate": [
+    "2009-07-30"
+  ]
+}

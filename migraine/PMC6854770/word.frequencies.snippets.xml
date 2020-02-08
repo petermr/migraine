@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6854770/results/word/frequencies/results.xml">
+  <result title="frequency" word="migraine" count="130"/>
+  <result title="frequency" word="headache" count="89"/>
+  <result title="frequency" word="diet" count="87"/>
+  <result title="frequency" word="dietary" count="37"/>
+  <result title="frequency" word="patients" count="29"/>
+  <result title="frequency" word="effects" count="28"/>
+  <result title="frequency" word="Headache" count="27"/>
+  <result title="frequency" word="studies" count="27"/>
+  <result title="frequency" word="weight" count="27"/>
+  <result title="frequency" word="role" count="24"/>
+  <result title="frequency" word="treatment" count="23"/>
+  <result title="frequency" word="mechanisms" count="22"/>
+  <result title="frequency" word="low" count="21"/>
+ </snippets>
+</snippetsTree>

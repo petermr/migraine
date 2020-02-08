@@ -1,0 +1,503 @@
+{
+  "id": [
+    "26377548"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26377548"
+  ],
+  "pmcid": [
+    "PMC4574220"
+  ],
+  "doi": [
+    "10.1186/s12868-015-0200-4"
+  ],
+  "title": [
+    "Musical ability is associated with enhanced auditory and visual cognitive processing."
+  ],
+  "authorString": [
+    "Faßhauer C, Frese A, Evers S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Faßhauer C"
+          ],
+          "firstName": [
+            "Caroline"
+          ],
+          "lastName": [
+            "Faßhauer"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Frese A"
+          ],
+          "firstName": [
+            "Achim"
+          ],
+          "lastName": [
+            "Frese"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Evers S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Evers"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Münster, Münster, Germany. everss@uni-muenster.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2476512"
+      ],
+      "dateOfPublication": [
+        "2015 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurosci"
+          ],
+          "NLMid": [
+            "100966986"
+          ],
+          "ISSN": [
+            "1471-2202"
+          ],
+          "ESSN": [
+            "1471-2202"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "59"
+  ],
+  "abstractText": [
+    "Musical ability has always been linked to enhanced cognitive and intellectual skills. We were interested in the relation between musical ability and short-time cognitive processing as measured by event-related potentials, in particular in visual processing, since previous studies have already suggested such a link for acoustic cognitive processing. We measured auditory and visual event-related potentials as elicited by an oddball paradigm in 20 healthy subjects (10 musicians and 10 non-musicians; 10 female; mean age 24 ± 2 years). In addition, the Seashore test and a test developed by the authors to detect relevant amusia, the latter one with a high ceiling effect, were also applied.The most important finding was that there is a significant linear correlation between musical ability as measured by these tests and the P3 latencies of both the auditory and visual event-related potentials. Furthermore, musicians showed shorter latencies of the event-related potentials than non-musicians.We conclude that musical ability as measured by neuropsychological tests is associated with improved short-time cognitive processing both in the auditory and, surprisingly, also in the visual domain."
+  ],
+  "affiliation": [
+    "Department of Neurology, University of Münster, Münster, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electroencephalography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acoustic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Photic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Auditory Perception"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Visual Perception"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychometrics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Evoked Potentials, Auditory"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Evoked Potentials, Visual"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Professional Competence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Music"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12868-015-0200-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4574220"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4574220?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-03-24"
+  ],
+  "dateOfCreation": [
+    "2015-09-18"
+  ],
+  "firstIndexDate": [
+    "2015-09-18"
+  ],
+  "fullTextReceivedDate": [
+    "2015-09-20"
+  ],
+  "dateOfRevision": [
+    "2018-04-22"
+  ],
+  "electronicPublicationDate": [
+    "2015-09-16"
+  ],
+  "firstPublicationDate": [
+    "2015-09-16"
+  ]
+}

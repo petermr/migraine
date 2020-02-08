@@ -1,0 +1,292 @@
+{
+  "id": [
+    "24409425"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24409425"
+  ],
+  "pmcid": [
+    "PMC3884868"
+  ],
+  "doi": [
+    "10.12965/jer.130080"
+  ],
+  "title": [
+    "Exercise rehabilitation for smartphone addiction."
+  ],
+  "authorString": [
+    "Kim H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim H"
+          ],
+          "firstName": [
+            "Hyunna"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Social Welfare, Cheongam College, Suncheon, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2112150"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of exercise rehabilitation"
+          ],
+          "ISOAbbreviation": [
+            "J Exerc Rehabil"
+          ],
+          "medlineAbbreviation": [
+            "J Exerc Rehabil"
+          ],
+          "NLMid": [
+            "101615171"
+          ],
+          "ISSN": [
+            "2288-176X"
+          ],
+          "ESSN": [
+            "2288-1778"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "500-505"
+  ],
+  "abstractText": [
+    "Internet addiction after launching smartphone is becoming serious. Therefore this paper has attempted to sketch out the diverse addiction treatment and then check the feasibility of exercise rehabilitation. The reason to addict the internet or smartphone is personalized individual characters related personal psychological and emotional factors and social environmental factors around them. We have shown that 2 discernible approaches due to 2 different addiction causes: that is behavioral treatment and complementary treatment. In the behavioral treatment, cognitive behavioral approach (CBT) is representative methods for changing additive thoughts and behaviors. Motivational interviewing (MI) is also the brief approach for persons not ready to change their behavior. Mindfulness behavioral cognitive treatment (MBCT) also the adapted treatment based on CBT. There are different types following the emphatic point, mindfulness-based relapse prevention (MBRP) or mindfulness oriented recovery enhancement (MORE). It is apparent that therapeutic recreation, music therapy using drumming activity, and art therapy are useful complementary treatment. Exercise rehabilitation contained the systematic procedures and comprehensive activities compared to previous addiction treatments by contents and techniques. Exercise rehabilitation can treat both physical symptoms at first and mental problems in the next step. So more evidence-based exercise rehabilitation researches need to do, but it is highly probable that exercise rehab can apply for smartphone addiction."
+  ],
+  "affiliation": [
+    "Department of Social Welfare, Cheongam College, Suncheon, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cognitive Behavioral Therapy",
+        "Exercise Rehabilitation",
+        "Complementary Treatment",
+        "Smartphone Addiction"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24409425/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24409425/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12965/jer.130080"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3884868"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3884868?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "21"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-02-28"
+  ],
+  "dateOfCreation": [
+    "2014-01-10"
+  ],
+  "firstIndexDate": [
+    "2014-01-11"
+  ],
+  "fullTextReceivedDate": [
+    "2014-01-11"
+  ],
+  "dateOfRevision": [
+    "2014-02-28"
+  ],
+  "electronicPublicationDate": [
+    "2013-12-31"
+  ],
+  "firstPublicationDate": [
+    "2013-12-31"
+  ]
+}

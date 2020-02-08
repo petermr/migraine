@@ -1,0 +1,397 @@
+{
+  "id": [
+    "30828315"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30828315"
+  ],
+  "pmcid": [
+    "PMC6384232"
+  ],
+  "doi": [
+    "10.3389/fneur.2019.00114"
+  ],
+  "title": [
+    "Pain Catastrophizing in Childhood Migraine: An Observational Study in a Tertiary Headache Center."
+  ],
+  "authorString": [
+    "Sciruicchio V, Simeone M, Foschino Barbaro MG, Tanzi RC, Delussi MD, Libro G, D'Agnano D, Basiliana R, de Tommaso M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sciruicchio V"
+          ],
+          "firstName": [
+            "Vittorio"
+          ],
+          "lastName": [
+            "Sciruicchio"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Children Epilepsy and EEG Center, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Simeone M"
+          ],
+          "firstName": [
+            "Michele"
+          ],
+          "lastName": [
+            "Simeone"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Associazione Italiana di Psicoterapia Cognitiva S.r.l (AIPC), Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Foschino Barbaro MG"
+          ],
+          "firstName": [
+            "Maria Grazia"
+          ],
+          "lastName": [
+            "Foschino Barbaro"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "affiliation": [
+            "Associazione Italiana di Psicoterapia Cognitiva S.r.l (AIPC), Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Tanzi RC"
+          ],
+          "firstName": [
+            "Roberta Caterina"
+          ],
+          "lastName": [
+            "Tanzi"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "affiliation": [
+            "Associazione Italiana di Psicoterapia Cognitiva S.r.l (AIPC), Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Delussi MD"
+          ],
+          "firstName": [
+            "Marianna D"
+          ],
+          "lastName": [
+            "Delussi"
+          ],
+          "initials": [
+            "MD"
+          ],
+          "affiliation": [
+            "Applied Neurophysiology and Pain Unit, Basic Medical, Neuroscience and Sensory System Department, Policlinico General Hospital, Bari Aldo Moro University, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Libro G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Libro"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Applied Neurophysiology and Pain Unit, Basic Medical, Neuroscience and Sensory System Department, Policlinico General Hospital, Bari Aldo Moro University, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Agnano D"
+          ],
+          "firstName": [
+            "Daniela"
+          ],
+          "lastName": [
+            "D'Agnano"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Children Epilepsy and EEG Center, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Basiliana R"
+          ],
+          "firstName": [
+            "Roberta"
+          ],
+          "lastName": [
+            "Basiliana"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Children Epilepsy and EEG Center, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "de Tommaso M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "de Tommaso"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Applied Neurophysiology and Pain Unit, Basic Medical, Neuroscience and Sensory System Department, Policlinico General Hospital, Bari Aldo Moro University, Bari, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779308"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "114"
+  ],
+  "abstractText": [
+    "Background: Migraine is the most common cause of primary headache in children leading to a decrease in the quality of life. During the last decade, pain catastrophizing construct became a major focus of interest in the study and treatment of pain. Aim of the study: To evaluate pain catastrophizing in episodic and chronic migraine children and adolescents selected in a tertiary headache Center.To test whether the children's pain catastrophizing might be associated (a) with the frequency of attacks and disability (b) with psychopathological aspects (c) with allodynia and total tenderness score as symptom of central sensitization.To test the best discriminating clinical variables and scores between episodic and chronic migraine, including pain catastrophizing. Methods: We conducted a cross sectional observational study on consecutive pediatric patients affected by migraine. We selected 190 headache patients who met the diagnostic criteria for Migraine without aura, Migraine with aura and Chronic migraine. We submitted all children to the Child version of the Pain Catastrophizing Scale (PCS-C), and to the disability scale for migraine (PedMIDAS), general quality of life estimated by children (PedsQL) and parents (PedsQL-P), anxiety and depression (SAFA-A; SAFA-D) scales. We also evaluated headache frequency and the presence and severity of allodynia and pericranial tenderness. Results: No difference was detected in Total Pain Catastrophizing score (PCS-C) between chronic and episodic migraine groups (ANOVA F = 0.59, p = 0.70); the PedMIDAS, the PedsQL-P for physical functioning and the Total Tenderness Score were discriminant variables between episodic and chronic migraine. The PCS-C was not correlated with migraine related disability as expressed by Ped MIDAS, but it was significantly correlated with general low quality of life, allodynia, pericranial tenderness, anxiety, and depression. Conclusion: Pain catastrophizing seems a mental characteristic of a clinical phenotype with psychopathological traits and enhanced expression of central sensitization symptoms. This clinical profile causes general decline in quality of life in the child judgment, with a probable parents' underestimation. In childhood age, it would not be a feature of chronic migraine, but the possibility that it could predict this evolution is consistent and worthy of further prospective evaluation."
+  ],
+  "affiliation": [
+    "Children Epilepsy and EEG Center, Bari, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Migraine",
+        "Central sensitization",
+        "Allodynia",
+        "Pain Catastrophizing",
+        "Pericranial Tenderness"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2019.00114"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6384232"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6384232?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-05"
+  ],
+  "firstIndexDate": [
+    "2019-03-04"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-10"
+  ],
+  "dateOfRevision": [
+    "2019-03-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-15"
+  ],
+  "firstPublicationDate": [
+    "2019-02-15"
+  ]
+}

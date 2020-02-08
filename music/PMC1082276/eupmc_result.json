@@ -1,0 +1,402 @@
+{
+  "id": [
+    "353397"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "353397"
+  ],
+  "pmcid": [
+    "PMC1082276"
+  ],
+  "doi": [
+    "10.1017/s0025727300032907"
+  ],
+  "title": [
+    "A new look at The Cure of Folly."
+  ],
+  "authorString": [
+    "Schupbach W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Schupbach W"
+          ],
+          "firstName": [
+            "W"
+          ],
+          "lastName": [
+            "Schupbach"
+          ],
+          "initials": [
+            "W"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "96890"
+      ],
+      "dateOfPublication": [
+        "1978 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "1978"
+      ],
+      "printPublicationDate": [
+        "1978-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medical History"
+          ],
+          "ISOAbbreviation": [
+            "Med Hist"
+          ],
+          "medlineAbbreviation": [
+            "Med Hist"
+          ],
+          "NLMid": [
+            "0401052"
+          ],
+          "ISSN": [
+            "0025-7273"
+          ],
+          "ESSN": [
+            "2048-8343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1978"
+  ],
+  "pageInfo": [
+    "267-281"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Historical Article",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quackery"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Art"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Paintings"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 16th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 17th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Netherlands"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "General Surgery"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Medicine in the Arts"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        },
+        {
+          "code": [
+            "Q"
+          ],
+          "name": [
+            "History of medicine"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1017/s0025727300032907"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC1082276"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC1082276?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "1978-09-30"
+  ],
+  "dateOfCreation": [
+    "1978-07-01"
+  ],
+  "firstIndexDate": [
+    "2009-12-23"
+  ],
+  "fullTextReceivedDate": [
+    "2009-04-19"
+  ],
+  "dateOfRevision": [
+    "2019-05-16"
+  ],
+  "firstPublicationDate": [
+    "1978-07-01"
+  ]
+}

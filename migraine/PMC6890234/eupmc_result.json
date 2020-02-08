@@ -1,0 +1,271 @@
+{
+  "id": [
+    "31819693"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31819693"
+  ],
+  "pmcid": [
+    "PMC6890234"
+  ],
+  "doi": [
+    "10.2147/EB.S225171"
+  ],
+  "title": [
+    "The Psychophysical Assessment of Hierarchical Magno-, Parvo- and Konio-Cellular Visual Stream Dysregulations in Migraineurs."
+  ],
+  "authorString": [
+    "Wesner MF, Brazeau J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wesner MF"
+          ],
+          "firstName": [
+            "Michael F"
+          ],
+          "lastName": [
+            "Wesner"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Psychology Department, Lakehead University, Thunder Bay, Ontario P7B 5E1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Brazeau J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Brazeau"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Center for Pediatric Excellence, Ottawa, ON K2G 1W2, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2775391"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Eye and brain"
+          ],
+          "ISOAbbreviation": [
+            "Eye Brain"
+          ],
+          "medlineAbbreviation": [
+            "Eye Brain"
+          ],
+          "NLMid": [
+            "101587774"
+          ],
+          "ISSN": [
+            "1179-2744"
+          ],
+          "ESSN": [
+            "1179-2744"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "49-62"
+  ],
+  "abstractText": [
+    "Introduction:Although conscious, image-forming illusions have been noted in migraine, few studies have specifically sought to collectively evaluate the role of all three parallel visual processing streams in the retinogeniculostriate pathway involved with image-forming vision and their implications in the development of migraine symptoms. Methods:We psychophysically assessed the functionality of the inferred magnocellular (MC), parvocellular (PC), and koniocellular (KC) streams at different hierarchical loci across three clinical groups: individuals who experience migraine with aura (MA; n=13), experience migraine without aura (MWO; n=14), and Controls (n=15). Participants completed four experiments: Experiment 1 designed to assess retinal short-wavelength-sensitive (S-) cone sensitivities; Experiment 2 intended to measure postretinal temporal and spatiochromatic contrast sensitivities; Experiment 3 intended to assess postretinal spatiotemporal achromatic contrast sensitivities; and Experiment 4 designed to measure thalamocortical color discriminations along the three cone-excitation axes. Results:S-cone deficits were revealed with greater retinal areas being affected in MA compared to MWO participants. Findings across the four experiments suggest a prominent retinal locus of dysfunction in MA (lesser in MWO) with potential feedforward compensations occurring within the KC visual stream. Conclusion:Complex, integrative network compensations need to be factored in when considering the dysregulating influences of migraine along the visual pathway."
+  ],
+  "affiliation": [
+    "Psychology Department, Lakehead University, Thunder Bay, Ontario P7B 5E1, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Parvocellular",
+        "Magnocellular",
+        "S-cones",
+        "Koniocellular",
+        "Spatiochromatic"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/EB.S225171"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6890234"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6890234?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-11"
+  ],
+  "firstIndexDate": [
+    "2019-12-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-11"
+  ],
+  "dateOfRevision": [
+    "2019-12-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-29"
+  ],
+  "firstPublicationDate": [
+    "2019-11-29"
+  ]
+}

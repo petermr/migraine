@@ -1,0 +1,739 @@
+{
+  "id": [
+    "30658563"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30658563"
+  ],
+  "pmcid": [
+    "PMC6734472"
+  ],
+  "doi": [
+    "10.1186/s10194-019-0960-9"
+  ],
+  "title": [
+    "Quantitative magnetic resonance imaging of the upper trapezius muscles - assessment of myofascial trigger points in patients with migraine."
+  ],
+  "authorString": [
+    "Sollmann N, Mathonia N, Weidlich D, Bonfert M, Schroeder SA, Badura KA, Renner T, Trepte-Freisleder F, Ganter C, Krieg SM, Zimmer C, Rummeny EJ, Karampinos DC, Baum T, Landgraf MN, Heinen F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sollmann N"
+          ],
+          "firstName": [
+            "Nico"
+          ],
+          "lastName": [
+            "Sollmann"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8120-2223",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Diagnostic and Interventional Neuroradiology, Klinikum rechts der Isar, Technische Universität München, Ismaninger Str. 22, 81675, Munich, Germany. Nico.Sollmann@tum.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Mathonia N"
+          ],
+          "firstName": [
+            "Nina"
+          ],
+          "lastName": [
+            "Mathonia"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine and LMU Center for Children with Medical Complexity, Dr. von Hauner Children's Hospital, LMU - University Hospital, Ludwig-Maximilians-Universität, Lindwurmstr. 4, 80337, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Weidlich D"
+          ],
+          "firstName": [
+            "Dominik"
+          ],
+          "lastName": [
+            "Weidlich"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Diagnostic and Interventional Radiology, Klinikum rechts der Isar, Technische Universität München, Ismaninger Str. 22, 81675, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Bonfert M"
+          ],
+          "firstName": [
+            "Michaela"
+          ],
+          "lastName": [
+            "Bonfert"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine and LMU Center for Children with Medical Complexity, Dr. von Hauner Children's Hospital, LMU - University Hospital, Ludwig-Maximilians-Universität, Lindwurmstr. 4, 80337, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schroeder SA"
+          ],
+          "firstName": [
+            "Sebastian A"
+          ],
+          "lastName": [
+            "Schroeder"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine and LMU Center for Children with Medical Complexity, Dr. von Hauner Children's Hospital, LMU - University Hospital, Ludwig-Maximilians-Universität, Lindwurmstr. 4, 80337, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Badura KA"
+          ],
+          "firstName": [
+            "Katharina A"
+          ],
+          "lastName": [
+            "Badura"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine and LMU Center for Children with Medical Complexity, Dr. von Hauner Children's Hospital, LMU - University Hospital, Ludwig-Maximilians-Universität, Lindwurmstr. 4, 80337, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Renner T"
+          ],
+          "firstName": [
+            "Tabea"
+          ],
+          "lastName": [
+            "Renner"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine and LMU Center for Children with Medical Complexity, Dr. von Hauner Children's Hospital, LMU - University Hospital, Ludwig-Maximilians-Universität, Lindwurmstr. 4, 80337, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Trepte-Freisleder F"
+          ],
+          "firstName": [
+            "Florian"
+          ],
+          "lastName": [
+            "Trepte-Freisleder"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine and LMU Center for Children with Medical Complexity, Dr. von Hauner Children's Hospital, LMU - University Hospital, Ludwig-Maximilians-Universität, Lindwurmstr. 4, 80337, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ganter C"
+          ],
+          "firstName": [
+            "Carl"
+          ],
+          "lastName": [
+            "Ganter"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6735-7448",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Diagnostic and Interventional Radiology, Klinikum rechts der Isar, Technische Universität München, Ismaninger Str. 22, 81675, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Krieg SM"
+          ],
+          "firstName": [
+            "Sandro M"
+          ],
+          "lastName": [
+            "Krieg"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "TUM-Neuroimaging Center, Klinikum rechts der Isar, Technische Universität München, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Zimmer C"
+          ],
+          "firstName": [
+            "Claus"
+          ],
+          "lastName": [
+            "Zimmer"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Diagnostic and Interventional Neuroradiology, Klinikum rechts der Isar, Technische Universität München, Ismaninger Str. 22, 81675, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Rummeny EJ"
+          ],
+          "firstName": [
+            "Ernst J"
+          ],
+          "lastName": [
+            "Rummeny"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "affiliation": [
+            "Department of Diagnostic and Interventional Radiology, Klinikum rechts der Isar, Technische Universität München, Ismaninger Str. 22, 81675, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Karampinos DC"
+          ],
+          "firstName": [
+            "Dimitrios C"
+          ],
+          "lastName": [
+            "Karampinos"
+          ],
+          "initials": [
+            "DC"
+          ],
+          "affiliation": [
+            "Department of Diagnostic and Interventional Radiology, Klinikum rechts der Isar, Technische Universität München, Ismaninger Str. 22, 81675, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Baum T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Baum"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Diagnostic and Interventional Neuroradiology, Klinikum rechts der Isar, Technische Universität München, Ismaninger Str. 22, 81675, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Landgraf MN"
+          ],
+          "firstName": [
+            "Mirjam N"
+          ],
+          "lastName": [
+            "Landgraf"
+          ],
+          "initials": [
+            "MN"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine and LMU Center for Children with Medical Complexity, Dr. von Hauner Children's Hospital, LMU - University Hospital, Ludwig-Maximilians-Universität, Lindwurmstr. 4, 80337, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Heinen F"
+          ],
+          "firstName": [
+            "Florian"
+          ],
+          "lastName": [
+            "Heinen"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology and Developmental Medicine and LMU Center for Children with Medical Complexity, Dr. von Hauner Children's Hospital, LMU - University Hospital, Ludwig-Maximilians-Universität, Lindwurmstr. 4, 80337, Munich, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8120-2223",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6735-7448",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2768766"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "8"
+  ],
+  "abstractText": [
+    "BACKGROUND:Research in migraine points towards central-peripheral complexity with a widespread pattern of structures involved. Migraine-associated neck and shoulder muscle pain has clinically been conceptualized as myofascial trigger points (mTrPs). However, concepts remain controversial, and the identification of mTrPs is mostly restricted to manual palpation in clinical routine. This study investigates a more objective, quantitative assessment of mTrPs by means of magnetic resonance imaging (MRI) with T2 mapping. METHODS:Ten subjects (nine females, 25.6 ± 5.2 years) with a diagnosis of migraine according to ICHD-3 underwent bilateral manual palpation of the upper trapezius muscles to localize mTrPs. Capsules were attached to the skin adjacent to the palpated mTrPs for marking. MRI of the neck and shoulder region was performed at 3 T, including a T2-prepared, three-dimensional (3D) turbo spin echo (TSE) sequence. The T2-prepared 3D TSE sequence was used to generate T2 maps, followed by manual placement of regions of interest (ROIs) covering the trapezius muscles of both sides and signal alterations attributable to mTrPs. RESULTS:The trapezius muscles showed an average T2 value of 27.7 ± 1.4 ms for the right and an average T2 value of 28.7 ± 1.0 ms for the left side (p = 0.1055). Concerning signal alterations in T2 maps attributed to mTrPs, nine values were obtained for the right (32.3 ± 2.5 ms) and left side (33.0 ± 1.5 ms), respectively (p = 0.0781). When comparing the T2 values of the trapezius muscles to the T2 values extracted from the signal alterations attributed to the mTrPs of the ipsilateral side, we observed a statistically significant difference (p = 0.0039). T2 hyperintensities according to visual image inspection were only reported in four subjects for the right and in two subjects for the left side. CONCLUSIONS:Our approach enables the identification of mTrPs and their quantification in terms of T2 mapping even in the absence of qualitative signal alterations. Thus, it (1) might potentially challenge the current gold-standard method of physical examination of mTrPs, (2) could allow for more targeted and objectively verifiable interventions, and (3) could add valuable models to understand better central-peripheral mechanisms in migraine."
+  ],
+  "affiliation": [
+    "Department of Diagnostic and Interventional Neuroradiology, Klinikum rechts der Isar, Technische Universität München, Ismaninger Str. 22, 81675, Munich, Germany. Nico.Sollmann@tum.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "677661"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Momo - Modules on migraine onset"
+          ],
+          "agency": [
+            "German Joint Federal Committee"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "grant agreement No 677661 - ProFatMRI"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Palpation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trigger Points"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Superficial Back Muscles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Magnetic Resonance Imaging",
+        "Myofascial Trigger Points",
+        "Trapezius Muscle",
+        "T2 Mapping",
+        "Trigemino-cervical Complex"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-019-0960-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734472"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6734472?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-14"
+  ],
+  "dateOfCreation": [
+    "2019-01-20"
+  ],
+  "firstIndexDate": [
+    "2019-01-20"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-09-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-18"
+  ],
+  "firstPublicationDate": [
+    "2019-01-18"
+  ]
+}

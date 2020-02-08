@@ -1,0 +1,271 @@
+{
+  "id": [
+    "28904545"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28904545"
+  ],
+  "pmcid": [
+    "PMC5590362"
+  ],
+  "doi": [
+    "10.4103/ijnmr.IJNMR_119_13"
+  ],
+  "title": [
+    "The Effects of Massage and Breastfeeding on Response to Venipuncture Pain among Hospitalized Neonates."
+  ],
+  "authorString": [
+    "Zargham-Boroujeni A, Elsagh A, Mohammadizadeh M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zargham-Boroujeni A"
+          ],
+          "firstName": [
+            "Ali"
+          ],
+          "lastName": [
+            "Zargham-Boroujeni"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Nursing and Midwifery Care Research Center, Faculty of Nursing and Midwifery, Isfahan University of Medical Sciences, Isfahan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Elsagh A"
+          ],
+          "firstName": [
+            "Azamolmolouk"
+          ],
+          "lastName": [
+            "Elsagh"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Faculty of Nursing and Midwifery, Alborz University of Medical Science, Alborz, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Mohammadizadeh M"
+          ],
+          "firstName": [
+            "Majid"
+          ],
+          "lastName": [
+            "Mohammadizadeh"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Medicine, Isfahan University of Medical Sciences, Isfahan, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2596851"
+      ],
+      "dateOfPublication": [
+        "2017 Jul-Aug"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Iranian journal of nursing and midwifery research"
+          ],
+          "ISOAbbreviation": [
+            "Iran J Nurs Midwifery Res"
+          ],
+          "medlineAbbreviation": [
+            "Iran J Nurs Midwifery Res"
+          ],
+          "NLMid": [
+            "101558775"
+          ],
+          "ISSN": [
+            "1735-9066"
+          ],
+          "ESSN": [
+            "2228-5504"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "308-312"
+  ],
+  "abstractText": [
+    "Untreated procedural pain leads to long-term and short-term complications in neonates. Preventing pain in sick infants and neonates, whose conditions are getting worse, not only is a professional and legal duty but also a prevention measure to decrease future psychological and even neurological complications. Therefore, nurses should prevent newborns' pain. The aim of this study was to compare the effects of massage and breastfeeding on the pain of the neonates.This was a clinical trial conducted among 75 full-term and near-term infants who underwent venipuncture. The newborns were randomly allocated to the following groups (n = 25 for each): group 1, breastfeeding; group 2, massage; and group 3, control. In the first group, venipuncture was done 2 minutes after breastfeeding. In the second group, massage was done with effleurage technique for 3 minutes and venipuncture was done 2 minutes after massage. The Neonatal Infant Pain Scale (NIPS) was used for pain measurement in the first 30 seconds of venipuncture. Data were analyzed by t-test and one-way analysis of variance (ANOVA).The lowest mean pain score recorded in the massage group (0.92) whereas it was 4.84 in the breastfeeding group and 6.16 in the control group. ANOVA test and post-hoc statistics revealed that both interventions resulted in a significant reduction of the pain scores.According to the findings of this study, the lowest pain score was in massage group, then in breastfeeding group and control group accordingly. Considering the fact that massage and breastfeeding are natural, useful, and cost free interventions and do not need any special facility, these methods are suggested in pain management and pain control during painful procedures administrated for infants."
+  ],
+  "affiliation": [
+    "Nursing and Midwifery Care Research Center, Faculty of Nursing and Midwifery, Isfahan University of Medical Sciences, Isfahan, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Iran",
+        "Pain",
+        "Nursing",
+        "Complementary Therapies",
+        "Neonatal Intensive Care",
+        "Venipuncture"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/ijnmr.IJNMR_119_13"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5590362"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-14"
+  ],
+  "firstIndexDate": [
+    "2017-09-14"
+  ],
+  "fullTextReceivedDate": [
+    "2017-09-18"
+  ],
+  "dateOfRevision": [
+    "2017-09-17"
+  ],
+  "firstPublicationDate": [
+    "2017-07-01"
+  ]
+}

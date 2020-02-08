@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6629194/results/search/country/results.xml">
+  <result pre="7 Cikojević Draško 8 [], 1 Šibenik General Hospital Šibenik" exact="Croatia" post="2 Zagreb University Hospital Centre Zagreb Croatia 3 Sestre"/>
+  <result pre="General Hospital Šibenik Croatia 2 Zagreb University Hospital Centre Zagreb" exact="Croatia" post="3 Sestre milosrdnice University Hospital Centre Zagreb Croatia 4"/>
+  <result pre="Centre Zagreb Croatia 3 Sestre milosrdnice University Hospital Centre Zagreb" exact="Croatia" post="4 Zagreb Croatia Josip Juraj Strossmayer University of Osijek"/>
+  <result pre="3 Sestre milosrdnice University Hospital Centre Zagreb Croatia 4 Zagreb" exact="Croatia" post="Josip Juraj Strossmayer University of Osijek Osijek Croatia 5"/>
+  <result pre="4 Zagreb Croatia Josip Juraj Strossmayer University of Osijek Osijek" exact="Croatia" post="5 Split University Hospital Centre Split Croatia 6 Merkur"/>
+  <result pre="of Osijek Osijek Croatia 5 Split University Hospital Centre Split" exact="Croatia" post="6 Merkur University Hospital Zagreb Croatia 7 Slovenia 8"/>
+  <result pre="University Hospital Centre Split Croatia 6 Merkur University Hospital Zagreb" exact="Croatia" post="7 Slovenia 8 Split University Hospital Centre Split Croatia"/>
+  <result pre="Centre Split Croatia 6 Merkur University Hospital Zagreb Croatia 7" exact="Slovenia" post="8 Split University Hospital Centre Split Croatia Corresponding author:"/>
+  <result pre="Zagreb Croatia 7 Slovenia 8 Split University Hospital Centre Split" exact="Croatia" post="Corresponding author: Ljerka Karadža-Lapić, MD, PhD, Šibenik General Hospital,"/>
+  <result pre="children with HAE due to C1 inhibitor deficiency (C1-INH-HAE) in" exact="Croatia" post="in order to estimate the number of affected children"/>
+  <result pre="I and II – diagnosis Complement C1 inhibitor protein Child" exact="Croatia" post="Introduction Hereditary angioedema (HAE) due to C1 inhibitor deficiency"/>
+  <result pre="to investigate health care experiences in children with HAE in" exact="Croatia" post="in order to estimate the number of affected children"/>
+  <result pre="M Miljkovic J Kosnik M Hereditary angioedema nationwide study in" exact="Slovenia" post="reveals four novel mutations in SERPING1 gene. PLoS One."/>
+  <result pre="TJ Is there a need for clinical guidelines in the" exact="United States" post="for the diagnosis of hereditary angioedema and the screening"/>
+ </snippets>
+</snippetsTree>

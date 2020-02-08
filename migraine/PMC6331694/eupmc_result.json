@@ -1,0 +1,1801 @@
+{
+  "id": [
+    "30474429"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30474429"
+  ],
+  "pmcid": [
+    "PMC6331694"
+  ],
+  "doi": [
+    "10.2217/fon-2018-0278"
+  ],
+  "title": [
+    "The National Physicians Cooperative: transforming fertility management in the cancer setting and beyond."
+  ],
+  "authorString": [
+    "Smith BM, Duncan FE, Ataman L, Smith K, Quinn GP, Chang RJ, Finlayson C, Orwig K, Valli-Pulaski H, Moravek MB, Zelinski MB, Irene Su H, Vitek W, Smith JF, Jeruss JS, Gracia C, Coutifaris C, Shah D, Nahata L, Gomez-Lobo V, Appiah LC, Brannigan RE, Gillis V, Gradishar W, Javed A, Rhoton-Vlasak AS, Kondapalli LA, Neuber E, Ginsberg JP, Muller CH, Hirshfeld-Cytron J, Kutteh WH, Lindheim SR, Cherven B, Meacham LR, Rao P, Torno L, Sender LS, Vadaparampil ST, Skiles JL, Schafer-Kalkhoff T, Frias OJ, Byrne J, Westphal LM, Schust DJ, Klosky JL, McCracken KA, Ting A, Khan Z, Granberg C, Lockart B, Scoccia B, Laronda MM, Mersereau JE, Marsh C, Pavone ME, Woodruff TK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Smith BM"
+          ],
+          "firstName": [
+            "Brigid M"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "BM"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Duncan FE"
+          ],
+          "firstName": [
+            "Francesca E"
+          ],
+          "lastName": [
+            "Duncan"
+          ],
+          "initials": [
+            "FE"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ataman L"
+          ],
+          "firstName": [
+            "Lauren"
+          ],
+          "lastName": [
+            "Ataman"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith K"
+          ],
+          "firstName": [
+            "Kristin"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Quinn GP"
+          ],
+          "firstName": [
+            "Gwendolyn P"
+          ],
+          "lastName": [
+            "Quinn"
+          ],
+          "initials": [
+            "GP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4208-9889",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, New York University School of Medicine, New York, NY 10016, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang RJ"
+          ],
+          "firstName": [
+            "R Jeffrey"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "Department of OB/GYN & Reproductive Sciences, Division of Reproductive Endocrinology & Infertility, University of California San Diego, La Jolla, CA 92093, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Finlayson C"
+          ],
+          "firstName": [
+            "Courtney"
+          ],
+          "lastName": [
+            "Finlayson"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Division of Endocrinology, Ann & Robert H Lurie Children's Hospital of Chicago, Chicago, IL 60611 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Orwig K"
+          ],
+          "firstName": [
+            "Kyle"
+          ],
+          "lastName": [
+            "Orwig"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Obstetrics, Gynecology & Reproductive Sciences, University of Pittsburgh School of Medicine, Pittsburgh, PA 15213, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Valli-Pulaski H"
+          ],
+          "firstName": [
+            "Hanna"
+          ],
+          "lastName": [
+            "Valli-Pulaski"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8092-0066",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Obstetrics, Gynecology & Reproductive Sciences, University of Pittsburgh School of Medicine, Pittsburgh, PA 15213, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Moravek MB"
+          ],
+          "firstName": [
+            "Molly B"
+          ],
+          "lastName": [
+            "Moravek"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9972-4938",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, Division of Reproductive Endocrinology & Infertility, University of Michigan, Ann Arbor, MI 48109, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zelinski MB"
+          ],
+          "firstName": [
+            "Mary B"
+          ],
+          "lastName": [
+            "Zelinski"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "affiliation": [
+            "Division of Reproductive & Developmental Science, Oregon National Primate Research Center, Beaverton, OR 97006, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Irene Su H"
+          ],
+          "firstName": [
+            "H"
+          ],
+          "lastName": [
+            "Irene Su"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Reproductive Medicine & Moores Cancer Center, University of California San Diego, La Jolla, CA 92093, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vitek W"
+          ],
+          "firstName": [
+            "Wendy"
+          ],
+          "lastName": [
+            "Vitek"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Obstetrics and Gynecology, University of Rochester School of Medicine & Dentistry, Rochester, NY 14642, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith JF"
+          ],
+          "firstName": [
+            "James F"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "affiliation": [
+            "Department of Urology, University of California San Francisco, San Francisco, CA 94110, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeruss JS"
+          ],
+          "firstName": [
+            "Jacqueline S"
+          ],
+          "lastName": [
+            "Jeruss"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "affiliation": [
+            "Department of Surgery, University of Michigan, Ann Arbor, MI 48109, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gracia C"
+          ],
+          "firstName": [
+            "Clarisa"
+          ],
+          "lastName": [
+            "Gracia"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, University of Pennsylvania, Philadelphia, PA 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Coutifaris C"
+          ],
+          "firstName": [
+            "Christos"
+          ],
+          "lastName": [
+            "Coutifaris"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, University of Pennsylvania, Philadelphia, PA 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shah D"
+          ],
+          "firstName": [
+            "Divya"
+          ],
+          "lastName": [
+            "Shah"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, University of Pennsylvania, Philadelphia, PA 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nahata L"
+          ],
+          "firstName": [
+            "Leena"
+          ],
+          "lastName": [
+            "Nahata"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Division of Endocrinology, The Ohio State University College of Medicine/Nationwide Children's Hospital, Columbus, OH 43210, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gomez-Lobo V"
+          ],
+          "firstName": [
+            "Veronica"
+          ],
+          "lastName": [
+            "Gomez-Lobo"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Division of Pediatric & Adolescent Gynecology, MedStar Washington Hospital Center, Children's National Health System, Washington, DC 20010, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Appiah LC"
+          ],
+          "firstName": [
+            "Leslie Coker"
+          ],
+          "lastName": [
+            "Appiah"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "affiliation": [
+            "The James Cancer Center, Nationwide Children's Hospital, The Ohio State University, Columbus, OH 43210, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Brannigan RE"
+          ],
+          "firstName": [
+            "Robert E"
+          ],
+          "lastName": [
+            "Brannigan"
+          ],
+          "initials": [
+            "RE"
+          ],
+          "affiliation": [
+            "Department of Urology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gillis V"
+          ],
+          "firstName": [
+            "Valerie"
+          ],
+          "lastName": [
+            "Gillis"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Urology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gradishar W"
+          ],
+          "firstName": [
+            "William"
+          ],
+          "lastName": [
+            "Gradishar"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Hematology/Oncology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Javed A"
+          ],
+          "firstName": [
+            "Asma"
+          ],
+          "lastName": [
+            "Javed"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatric & Adolescent Medicine, Division of Pediatric & Adolescent Gynecology, Mayo Clinic, Rochester, MN 55905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rhoton-Vlasak AS"
+          ],
+          "firstName": [
+            "Alice S"
+          ],
+          "lastName": [
+            "Rhoton-Vlasak"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, Division of Reproductive Endocrinology & Infertility, University of Florida, Gainesville, FL 32608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kondapalli LA"
+          ],
+          "firstName": [
+            "Laxmi A"
+          ],
+          "lastName": [
+            "Kondapalli"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "affiliation": [
+            "Colorado Center for Reproductive Medicine, Lone Tree, CO 80124, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Neuber E"
+          ],
+          "firstName": [
+            "Evelyn"
+          ],
+          "lastName": [
+            "Neuber"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Center for Advanced Reproductive Services, University of Connecticut, Farmington, CT 06032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ginsberg JP"
+          ],
+          "firstName": [
+            "Jill P"
+          ],
+          "lastName": [
+            "Ginsberg"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Division of Oncology, Children's Hospital of Philadelphia, Philadelphia, PA 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Muller CH"
+          ],
+          "firstName": [
+            "Charles H"
+          ],
+          "lastName": [
+            "Muller"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "Department of Urology, University of Washington School of Medicine, Seattle, WA 98195, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hirshfeld-Cytron J"
+          ],
+          "firstName": [
+            "Jennifer"
+          ],
+          "lastName": [
+            "Hirshfeld-Cytron"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Fertility Centers of Illinois, Chicago, IL, USA, 60610."
+          ]
+        },
+        {
+          "fullName": [
+            "Kutteh WH"
+          ],
+          "firstName": [
+            "William H"
+          ],
+          "lastName": [
+            "Kutteh"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "affiliation": [
+            "Division of Reproductive Endocrinology, Vanderbilt University School of Medicine, Nashville, TN 37232, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lindheim SR"
+          ],
+          "firstName": [
+            "Steven R"
+          ],
+          "lastName": [
+            "Lindheim"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, Wright State University, Boonshoft School of Medicine, Dayton, OH 45435, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cherven B"
+          ],
+          "firstName": [
+            "Brooke"
+          ],
+          "lastName": [
+            "Cherven"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Aflac Cancer & Blood Disorders Center, Children's Healthcare of Atlanta, Atlanta, GA 30342, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Meacham LR"
+          ],
+          "firstName": [
+            "Lillian R"
+          ],
+          "lastName": [
+            "Meacham"
+          ],
+          "initials": [
+            "LR"
+          ],
+          "affiliation": [
+            "Aflac Cancer & Blood Disorders Center & Department of Pediatrics, Division of Hematology/Oncology & Division of Endocrinology, Emory University, Atlanta, GA 30322, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rao P"
+          ],
+          "firstName": [
+            "Pooja"
+          ],
+          "lastName": [
+            "Rao"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Division of Pediatric Hematology/Oncology, Penn State Health Children's Hospital, Hershey, PA 17033, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Torno L"
+          ],
+          "firstName": [
+            "Lilibeth"
+          ],
+          "lastName": [
+            "Torno"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Division of Oncology, CHOC Children's Hospital, Orange, CA 92868, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sender LS"
+          ],
+          "firstName": [
+            "Leonard S"
+          ],
+          "lastName": [
+            "Sender"
+          ],
+          "initials": [
+            "LS"
+          ],
+          "affiliation": [
+            "Division of Oncology, CHOC Children's Hospital, Orange, CA 92868, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vadaparampil ST"
+          ],
+          "firstName": [
+            "Susan T"
+          ],
+          "lastName": [
+            "Vadaparampil"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "affiliation": [
+            "Department of Health Outcomes & Behavior, Moffitt Cancer Center & Research Institute, Tampa, FL 33612, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Skiles JL"
+          ],
+          "firstName": [
+            "Jodi L"
+          ],
+          "lastName": [
+            "Skiles"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Division of Hematology and Oncology, Indiana University School of Medicine, Indianapolis, IN 46202, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schafer-Kalkhoff T"
+          ],
+          "firstName": [
+            "Tara"
+          ],
+          "lastName": [
+            "Schafer-Kalkhoff"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Division of Pediatric & Adolescent Gynecology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Frias OJ"
+          ],
+          "firstName": [
+            "Oliva J"
+          ],
+          "lastName": [
+            "Frias"
+          ],
+          "initials": [
+            "OJ"
+          ],
+          "affiliation": [
+            "Division of Pediatric & Adolescent Gynecology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Byrne J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Byrne"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Children's Research Center, Mayo Clinic, Rochester, MN 55905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Westphal LM"
+          ],
+          "firstName": [
+            "Lynn M"
+          ],
+          "lastName": [
+            "Westphal"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "affiliation": [
+            "Department of Obstetrics and Gynecology, Stanford University School of Medicine, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schust DJ"
+          ],
+          "firstName": [
+            "Danny J"
+          ],
+          "lastName": [
+            "Schust"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Department of Obstetrics, Gynecology & Women's Health, University of Missouri School of Medicine, Columbia, MO 65212, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Klosky JL"
+          ],
+          "firstName": [
+            "James L"
+          ],
+          "lastName": [
+            "Klosky"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Aflac Cancer & Blood Disorders Center & Department of Pediatrics, Division of Hematology/Oncology & Division of Endocrinology, Emory University, Atlanta, GA 30322, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "McCracken KA"
+          ],
+          "firstName": [
+            "Kate A"
+          ],
+          "lastName": [
+            "McCracken"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "affiliation": [
+            "Section of Pediatric & Adolescent Gynecology, Nationwide Children's Hospital, Columbus, OH 43205, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ting A"
+          ],
+          "firstName": [
+            "Alison"
+          ],
+          "lastName": [
+            "Ting"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Division of Reproductive & Developmental Science, Oregon National Primate Research Center, Beaverton, OR 97006, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Khan Z"
+          ],
+          "firstName": [
+            "Zaraq"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Division of Reproductive Endocrinology & Infertility, Mayo Clinic, Rochester, MN 55905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Granberg C"
+          ],
+          "firstName": [
+            "Candace"
+          ],
+          "lastName": [
+            "Granberg"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Urology, Mayo Clinic, Rochester, MN 55905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lockart B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Lockart"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Division of Hematology, Oncology & Stem Cell Transplant, Ann & Robert H Lurie Children's Hospital of Chicago, Chicago, IL 60611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Scoccia B"
+          ],
+          "firstName": [
+            "Bert"
+          ],
+          "lastName": [
+            "Scoccia"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, University of Illinois at Chicago, Chicago, IL 60607, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Laronda MM"
+          ],
+          "firstName": [
+            "Monica M"
+          ],
+          "lastName": [
+            "Laronda"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mersereau JE"
+          ],
+          "firstName": [
+            "Jennifer E"
+          ],
+          "lastName": [
+            "Mersereau"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Department of Obstetrics and Gynecology, Division of Reproductive Endocrinology & Infertility, University of North Carolina, Raleigh, NC 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Marsh C"
+          ],
+          "firstName": [
+            "Courtney"
+          ],
+          "lastName": [
+            "Marsh"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, University of Kansas Health System, Kansas City, KS 66160, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pavone ME"
+          ],
+          "firstName": [
+            "Mary Ellen"
+          ],
+          "lastName": [
+            "Pavone"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, Division of Reproductive Endocrinology & Infertility, Feinberg School of Medicine, Northwestern Medicine, Chicago, IL 60611, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Woodruff TK"
+          ],
+          "firstName": [
+            "Teresa K"
+          ],
+          "lastName": [
+            "Woodruff"
+          ],
+          "initials": [
+            "TK"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4208-9889",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8092-0066",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9972-4938",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "29"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2758986"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Future oncology (London, England)"
+          ],
+          "ISOAbbreviation": [
+            "Future Oncol"
+          ],
+          "medlineAbbreviation": [
+            "Future Oncol"
+          ],
+          "NLMid": [
+            "101256629"
+          ],
+          "ISSN": [
+            "1479-6694"
+          ],
+          "ESSN": [
+            "1744-8301"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "3059-3072"
+  ],
+  "abstractText": [
+    "Once unimaginable, fertility management is now a nationally established part of cancer care in institutions, from academic centers to community hospitals to private practices. Over the last two decades, advances in medicine and reproductive science have made it possible for men, women and children to be connected with an oncofertility specialist or offered fertility preservation soon after a cancer diagnosis. The Oncofertility Consortium's National Physicians Cooperative is a large-scale effort to engage physicians across disciplines - oncology, urology, obstetrics and gynecology, reproductive endocrinology, and behavioral health - in clinical and research activities to enable significant progress in providing fertility preservation options to children and adults. Here, we review the structure and function of the National Physicians Cooperative and identify next steps."
+  ],
+  "affiliation": [
+    "Department of Obstetrics & Gynecology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P50 HD076188"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Progression"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antineoplastic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavioral Medicine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Endocrinology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Medical Oncology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reproductive Medicine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gynecology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obstetrics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Urology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fertility"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pregnancy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physicians"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Practice Guidelines as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fertility Preservation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Intersectoral Collaboration"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Reproductive Health",
+        "Fertility Preservation",
+        "Oncofertility"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antineoplastic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2217/fon-2018-0278"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6331694"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6331694?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-15"
+  ],
+  "dateOfCreation": [
+    "2018-11-27"
+  ],
+  "firstIndexDate": [
+    "2018-11-26"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-26"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-26"
+  ],
+  "firstPublicationDate": [
+    "2018-11-26"
+  ]
+}

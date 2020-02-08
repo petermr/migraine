@@ -1,0 +1,1297 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">F1000Res</journal-id><journal-id journal-id-type="iso-abbrev">F1000Res</journal-id><journal-id journal-id-type="pmc">F1000Research</journal-id><journal-title-group><journal-title>F1000Research</journal-title></journal-title-group><issn pub-type="epub">2046-1402</issn><publisher><publisher-name>F1000 Research Limited</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5749131</article-id><article-id pub-id-type="doi">10.12688/f1000research.12324.1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group><subj-group><subject>Articles</subject><subj-group><subject>Bone Biology, Osteoporosis &#x00026; Other Diseases of Bone</subject></subj-group><subj-group><subject>Cardiovascular Medicine in Anesthesia: Clinical Science</subject></subj-group><subj-group><subject>Cartilage Biology &#x00026; Osteoarthritis</subject></subj-group><subj-group><subject>Cognitive Neurology &#x00026; Dementia</subject></subj-group><subj-group><subject>Coronary Artery Disease</subject></subj-group><subj-group><subject>Emergency Medicine</subject></subj-group><subj-group><subject>Musculoskeletal Pain &#x00026; Analgesia</subject></subj-group><subj-group><subject>Orthopedics (incl. Sports Injuries)</subject></subj-group><subj-group><subject>Pain Management: Acute Clinical</subject></subj-group><subj-group><subject>Pain Management: Chronic Clinical</subject></subj-group><subj-group><subject>Pregnancy, Labor, Delivery &#x00026; Postpartum Care</subject></subj-group><subj-group><subject>Substance Abuse</subject></subj-group></subj-group></article-categories><title-group><article-title>Use of electroanalgesia and laser therapies as alternatives to opioids for acute and chronic pain management</article-title><fn-group content-type="pub-status"><fn><p>[version 1; referees: 2 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>White</surname><given-names>Paul F.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a2">2</xref><xref ref-type="aff" rid="a3">3</xref></contrib><contrib contrib-type="author"><name><surname>Elvir Lazo</surname><given-names>Ofelia Loani</given-names></name><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2825-5182</contrib-id><xref ref-type="aff" rid="a3">3</xref></contrib><contrib contrib-type="author"><name><surname>Galeas</surname><given-names>Lidia</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><xref ref-type="aff" rid="a4">4</xref></contrib><contrib contrib-type="author"><name><surname>Cao</surname><given-names>Xuezhao</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><xref ref-type="aff" rid="a3">3</xref><xref ref-type="aff" rid="a5">5</xref></contrib><aff id="a1">
+<label>1</label>P.O. Box 548, Gualala, CA 95445, USA</aff><aff id="a2">
+<label>2</label>The White Mountain Institute, The Sea Ranch, CA, USA</aff><aff id="a3">
+<label>3</label>Department of Anesthesiology, Cedars-Sinai Medical Center, 8700 Beverly Boulevard, Los Angeles, CA 95445, USA</aff><aff id="a4">
+<label>4</label>Orlando Family Medicine, Orlando, FL, USA</aff><aff id="a5">
+<label>5</label>First Hospital of China Medical University, Shenyang, China</aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email xlink:href="mailto:paul.white@cshs.org">paul.white@cshs.org</email></corresp><fn fn-type="con"><p>Each co-author contributed to the preparation of the manuscript, including the creation of the tables.</p></fn><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>PFW is a non-paid consultant of Phoenix Thera-Lase Systems. The other authors declare that they have no competing interests.</p></fn></author-notes><pub-date pub-type="epub"><day>21</day><month>12</month><year>2017</year></pub-date><pub-date pub-type="collection"><year>2017</year></pub-date><volume>6</volume><elocation-id>2161</elocation-id><history><date date-type="accepted"><day>11</day><month>12</month><year>2017</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2017 White PF et al.</copyright-statement><copyright-year>2017</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="f1000research-6-13341.pdf"/><abstract><p>The use of opioid analgesics for postoperative pain management has contributed to the global opioid epidemic. It was recently reported that prescription opioid analgesic use often continued after major joint replacement surgery even though patients were no longer experiencing joint pain. The use of epidural local analgesia for perioperative pain management was not found to be protective against persistent opioid use in a large cohort of opioid-na&#x000ef;ve patients undergoing abdominal surgery. In a retrospective study involving over 390,000 outpatients more than 66 years of age who underwent minor ambulatory surgery procedures, patients receiving a prescription opioid analgesic within 7 days of discharge were 44% more likely to continue using opioids 1 year after surgery. In a review of 11 million patients undergoing elective surgery from 2002 to 2011, both opioid overdoses and opioid dependence were found to be increasing over time. Opioid-dependent surgical patients were more likely to experience postoperative pulmonary complications, require longer hospital stays, and increase costs to the health-care system. The Centers for Disease Control and Prevention emphasized the importance of finding alternatives to opioid medication for treating pain. In the new clinical practice guidelines for back pain, the authors endorsed the use of non-pharmacologic therapies. However, one of the more widely used non-pharmacologic treatments for chronic pain (namely radiofrequency ablation therapy) was recently reported to have no clinical benefit. Therefore, this clinical commentary will review evidence in the peer-reviewed literature supporting the use of electroanalgesia and laser therapies for treating acute pain, cervical (neck) pain, low back pain, persistent post-surgical pain after spine surgery (&#x0201c;failed back syndrome&#x0201d;), major joint replacements, and abdominal surgery as well as other common chronic pain syndromes (for example, myofascial pain, peripheral neuropathic pain, fibromyalgia, degenerative joint disease/osteoarthritis, and migraine headaches).</p></abstract><kwd-group kwd-group-type="author"><kwd>Non-pharmacologic analgesic techniques</kwd><kwd>Opioid abuse</kwd><kwd>Acute Pain</kwd><kwd>Chronic Pain</kwd><kwd>Electroanalgesia</kwd><kwd>Cold laser therapy</kwd></kwd-group><funding-group><funding-statement>This research did not receive any grant funding from agencies in the public, commercial, or not-for-profit sectors. PFW&#x02019;s academic work is supported in part by a stipend from Cedars-Sinai Medical Center in Los Angeles, CA, and the White Mountain Institute (a private not-for-profit foundation) in The Sea Ranch, CA.</funding-statement></funding-group></article-meta><notes><sec sec-type="editor-note"><title>Editorial Note on the Review Process</title><p>
+<ext-link ext-link-type="uri" xlink:href="http://f1000research.com/browse/f1000-faculty-reviews">F1000 Faculty Reviews</ext-link> are commissioned from members of the prestigious
+<ext-link ext-link-type="uri" xlink:href="http://f1000.com/prime/thefaculty">F1000 Faculty</ext-link> and are edited as a service to readers. In order to make these reviews as comprehensive and accessible as possible, the referees provide input before publication and only the final, revised version is published. The referees who approved the final version are listed with their names and affiliations but without their reports on earlier versions (any comments will already have been addressed in the published version).</p><p>The referees who approved this article are: </p><list list-type="simple" list-content="reviewer-list"><list-item><p>
+<named-content content-type="reviewer-name">Stephan A. Schug</named-content>, Anaesthesiology, Pharmacology and Anaesthesiology Unit, University of Western Australia, Perth, WA, Australia
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item><list-item><p>
+<named-content content-type="reviewer-name">Charles Argoff</named-content>, Department of Neurology, Albany Medical Center, Albany, NY, USA
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item></list></sec></notes></front><body><sec sec-type="intro"><title>Introduction</title><p> Pain is a common cause of disability and is extremely costly to society at large. The excessive reliance on opioid analgesics for treating both acute and chronic pain has contributed to the current global opioid epidemic. Recently, the Centers for Disease Control and Prevention (CDCP) reported that patients initially given a 1-day supply of opioid medication after surgery had a 6% likelihood of still using the drug a year later. However, that number rose to roughly 10% for patients given a 2-day supply and 45% for patients given a 40-day prescription. In light of the growing opioid crisis, we have emphasized the importance of using non-opioid analgesic drugs and techniques for acute and chronic pain management
+<sup><xref rid="ref-1" ref-type="bibr">1</xref>&#x02013;
+<xref rid="ref-3" ref-type="bibr">3</xref></sup>.</p><p> In 2007, a review article by international experts in pain management encouraged the more widespread use of opioid-containing analgesics for treating chronic pain by suggesting that &#x0201c;if only we (namely, physicians and nurses) could overcome our &#x02018;opiophobia&#x02019;, we would improve pain management&#x0201d;
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. In an accompanying editorial
+<sup><xref rid="ref-1" ref-type="bibr">1</xref></sup>, we argued that &#x0201c;less may be more&#x0201d; with respect to the use of opioid (narcotic) analgesics for acute (and chronic) pain therapy. Currently, 5&#x02013;8 million people in the USA use opioids for chronic pain management
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. It has become increasingly apparent that prolonged opioid use is a growing problem in previously opioid-na&#x000ef;ve patients who receive narcotics for acute pain after a surgical procedure. Excessive reliance on opioid analgesics for postoperative pain control can lead to prolonged opioid dependence after both major
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup> and minor
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup> surgery. In a large retrospective study involving over 390,000 older outpatients undergoing minor ambulatory surgery procedures
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>, older patients receiving prescription opioid analgesics within 7 days of discharge were 44% more likely to continue using opioids 1 year after surgery. More recently, Goesling
+<italic>et al.</italic>
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup> reported that for many patients taking opioid analgesics before major joint replacement surgery, as well as opioid-na&#x000ef;ve patients undergoing arthroplasty procedures, opioid use persisted after surgery despite the absence of joint-related pain. More recently, Cauley
+<italic>et al.</italic>
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup> reported on a large cohort of opioid-na&#x000ef;ve patients undergoing abdominal surgery who continued to use opioid analgesics 3&#x02013;6 months after surgery. Moreover, adjunctive use of epidural local analgesia was not protective against persistent opioid use in this opioid-na&#x000ef;ve population
+<sup><xref rid="ref-9" ref-type="bibr">9</xref></sup>. Although opioid-related side effects (for example, nausea, vomiting, constipation, ileus, bladder dysfunction, pruritus, sedation, visual hallucinations, and ventilatory depression) are well known, there are growing concerns regarding long-term physical dependence and addiction liability with continued opioid use after surgical procedures.</p><p>Prolonged use of opioid analgesics is associated with an increased risk of more serious complications, including opioid use disorder, overdose, and death
+<sup><xref rid="ref-10" ref-type="bibr">10</xref></sup>. Interestingly, no study of prolonged opioid use has ever demonstrated long-term benefits for the users. An epidemiological study by Eriksen
+<italic>et al.</italic>
+<sup><xref rid="ref-11" ref-type="bibr">11</xref></sup> involving patients with chronic pain treated with opioids for 5 years provided compelling evidence that opioids were not a panacea for chronic pain. In fact, the patients&#x02019; quality of life failed to improve despite escalating doses of opioids over the 5-year study period. The authors concluded that &#x0201c;it is remarkable that opioid treatment of long-term/chronic non-cancer pain does not seem to fulfil any of the key outcome treatment goals, namely pain relief, improved quality of life and improved functional capacity&#x0201d;
+<sup><xref rid="ref-11" ref-type="bibr">11</xref></sup>. More recent studies suggest that long-term opioid use can actually retard functional recovery. In a 2012 commentary, Sullivan and Ballantyne
+<sup><xref rid="ref-12" ref-type="bibr">12</xref></sup> asked the rhetorical question, &#x0201c;what are we treating with long-term opioid therapy?&#x0201d; As the opioid epidemic continues to spread and deaths due to opioid overdoses increase, it is clear that the only &#x0201c;winners&#x0201d; are the pharmaceutical drug manufacturers.</p><p>A 2016 article in
+<italic>Time</italic> magazine described a new paradigm for treating opioid addiction
+<sup><xref rid="ref-13" ref-type="bibr">13</xref></sup>. Predictably, the solution being offered by the pharmaceutical industry involves giving more drugs! The &#x0201c;new&#x0201d; drug touted as the solution to opioid dependency (Suboxone) is a combination of two old drugs, namely buprenorphine (a weak partial opioid agonist) and naloxone (an opioid antagonist). A more recent article
+<sup><xref rid="ref-14" ref-type="bibr">14</xref></sup> describes the cost of the &#x0201c;follow on&#x0201d; drugs used to counteract opioid-related side effects (for example, nausea, constipation, and reduced testosterone levels) and overdoses. In 2016, US pharmaceutical companies had sales of $8.6 billion on 336 million opioid prescriptions. The &#x0201c;follow on&#x0201d; drug market is currently valued at more than $3 billion per year, and sales of drugs used to counteract opioid-induced constipation exceed $2 billion per year
+<sup><xref rid="ref-14" ref-type="bibr">14</xref></sup>. It is time to seriously consider the use of &#x0201c;alternative&#x0201d; non-pharmacologic therapies for treating chronic pain rather than simply giving more opioid compounds and hoping for a different result
+<sup><xref rid="ref-3" ref-type="bibr">3</xref></sup>.</p><p>Given the fact that the long-term use of opioid analgesics fails to improve the lives of patients suffering from chronic pain and costs the health-care system billions of dollars to treat opioid overdoses, it is somewhat surprising that the health-care practitioners (and third-party payers) have been reluctant to seriously consider the use of non-pharmacologic &#x0201c;alternative&#x0201d; therapies for managing pain. The use of non-pharmacologic modalities has been questioned by medical practitioners because of the perceived lack of prospective, randomized, double-blind sham-controlled studies supporting their use in clinical practice. Although this skepticism may be warranted for some so-called alternative pain therapies, there are in fact many well-controlled studies confirming the benefits of using electroanalgesia and laser therapy for improving acute and chronic pain management. Nevertheless, these non-pharmacologic analgesic modalities remain grossly under-utilized in clinical practice. In a 2006 clinical commentary regarding a study involving the use of complementary alternative therapies for reducing postoperative pain after open heart surgery
+<sup><xref rid="ref-15" ref-type="bibr">15</xref></sup>, Oz and Olivo
+<sup><xref rid="ref-16" ref-type="bibr">16</xref></sup> suggested that it was time to consider incorporating complementary and alternative medical practices into conventional medical treatments. Other studies have suggested that perioperative imagery, massage, and music can reduce pain and anxiety after surgery
+<sup><xref rid="ref-17" ref-type="bibr">17</xref>,
+<xref rid="ref-18" ref-type="bibr">18</xref></sup>. A 2007 editorial on the potentially beneficial role of &#x0201c;alternative&#x0201d; therapies as part of a multimodal approach for reducing anxiety, pain, and emetic symptoms in the perioperative period
+<sup><xref rid="ref-19" ref-type="bibr">19</xref></sup> suggested that it was time for practitioners to &#x0201c;get on board&#x0201d; by incorporating non-traditional medical therapies into their everyday clinical practices. Sadly, 10 years later in the face of an opioid epidemic, the emphasis of the medical community remains on pharmacotherapy. In this F1000 Faculty Review, we discuss clinical studies describing the benefits of using electroanalgesia and laser therapy as adjuvants in the management of acute and chronic pain.</p></sec><sec><title>Electroanalgesia</title><p>Electroanalgesia is a form of neuromodulation therapy which encompasses electro-acupuncture (EA), ultrasound-guided acupotomy, percutaneous electrical nerve stimulation (PENS), transcutaneous electrical nerve stimulation (TENS), and peripheral nerve stimulation (PNS). Patients who experience significant improvement in pain and disability with PNS may be candidates for implantation of a spinal cord stimulator
+<sup><xref rid="ref-20" ref-type="bibr">20</xref>,
+<xref rid="ref-21" ref-type="bibr">21</xref></sup>. However, the risk of mechanical failure, infection, and neurologic complications, as well as the high costs, are strong deterrents to using this highly invasive electro-analgesic technique. The less invasive forms of electroanalgesia (for example, TENS, EA, PENS, and PNS) have been reported to produce significant short-term reductions in the levels of acute and chronic pain and should be used prior to even considering the use of an implantable device.</p><p>Gan
+<italic>et al.</italic>
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup> reported that TENS applied at acupoints reduced both postoperative pain and emesis, confirming earlier studies
+<sup><xref rid="ref-23" ref-type="bibr">23</xref>&#x02013;
+<xref rid="ref-27" ref-type="bibr">27</xref></sup>. TENS also reduced pain and improved patient satisfaction during minor office procedures
+<sup><xref rid="ref-28" ref-type="bibr">28</xref></sup>. However, in a comparison of TENS and parasternal local anesthetic blocks for pain management after cardiac surgery
+<sup><xref rid="ref-29" ref-type="bibr">29</xref></sup>, the local anesthetic-based technique was found to be significantly more efficacious. TENS produced modest short-term reductions in pain and improvements in physical activity in patients experiencing a variety of chronic pain syndromes (for example, low back pain
+<sup><xref rid="ref-30" ref-type="bibr">30</xref>&#x02013;
+<xref rid="ref-35" ref-type="bibr">35</xref></sup>, neck pain
+<sup><xref rid="ref-36" ref-type="bibr">36</xref></sup>, osteoarthritis/gonarthritis
+<sup><xref rid="ref-37" ref-type="bibr">37</xref>,
+<xref rid="ref-38" ref-type="bibr">38</xref></sup>, abdominal/pelvic pain
+<sup><xref rid="ref-39" ref-type="bibr">39</xref></sup>, myofascial pain syndrome
+<sup><xref rid="ref-40" ref-type="bibr">40</xref></sup>, and temporal-mandibular disorders
+<sup><xref rid="ref-41" ref-type="bibr">41</xref></sup>). However, a recent review of electrotherapy modalities for treating chronic rotator cuff diseases
+<sup><xref rid="ref-42" ref-type="bibr">42</xref></sup> concluded that, in contrast to more invasive electroanalgesia modalities (for example, EA), TENS was not consistently superior to placebo treatments. In patients undergoing total knee arthroplasty procedures, TENS offered no significant advantage with respect to improving pain control and functional recovery compared with placebo treatments
+<sup><xref rid="ref-43" ref-type="bibr">43</xref></sup>. Finally, Salazar
+<italic>et al.</italic>
+<sup><xref rid="ref-44" ref-type="bibr">44</xref></sup> recently reported that there was only low-quality evidence supporting the effectiveness of TENS for pain relief in patients with fibromyalgia. However, these investigators found moderate-quality evidence for the effectiveness of EA in treating fibromyalgia-related pain
+<sup><xref rid="ref-44" ref-type="bibr">44</xref></sup>. Thus, the current evidence suggests that TENS techniques are significantly less effective than electroanalgesia techniques such as EA and PENS, which involve the insertion of multiple acupuncture-like needles
+<sup><xref rid="ref-45" ref-type="bibr">45</xref></sup>.</p><p>Sator-Katzenschlager
+<italic>et al.</italic>
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup> and others
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup> have reported on the short- and long-term benefits of EA in patients with chronic low back pain. In a recent study involving elderly patients undergoing spine surgery, Zhang
+<italic>et al.</italic>
+<sup><xref rid="ref-46" ref-type="bibr">46</xref></sup> found that preoperative EA (versus &#x0201c;sham&#x0201d; treatments) reduced both intraoperative anesthetic and analgesic requirements, levels of inflammatory mediators, and residual postoperative cognitive dysfunction in elderly surgical patients. These EA studies are consistent with studies involving the use of PENS in patients with chronic low back pain
+<sup><xref rid="ref-47" ref-type="bibr">47</xref></sup> and sciatica
+<sup><xref rid="ref-33" ref-type="bibr">33</xref></sup>. Moreover, PENS was found to be significantly more effective than TENS and exercise therapy
+<sup><xref rid="ref-33" ref-type="bibr">33</xref>,
+<xref rid="ref-47" ref-type="bibr">47</xref></sup>. In a recent comparative study, PENS was found to be more effective than &#x0201c;dry needling&#x0201d; in improving pain control in patients with myofascial chronic neck pain
+<sup><xref rid="ref-48" ref-type="bibr">48</xref></sup>. A growing body of literature supports the short-term benefits of EA and PENS techniques when administered as an adjuvant to conventional medical approaches in the management of a wide variety of acute and chronic pain syndromes, including post-surgical pain, low back pain, sciatica, neck pain, knee osteoarthritis, headaches, peripheral neuropathic pain, and fibromyalgia
+<sup><xref rid="ref-33" ref-type="bibr">33</xref>,
+<xref rid="ref-44" ref-type="bibr">44</xref>,
+<xref rid="ref-47" ref-type="bibr">47</xref>&#x02013;
+<xref rid="ref-52" ref-type="bibr">52</xref></sup>. In a recent comparative study, EA was also found to be more effective in facilitating functional recovery in patients with knee osteoarthritis than the potent non-steroidal anti-inflammatory drug meloxicam
+<sup><xref rid="ref-53" ref-type="bibr">53</xref></sup>. Interestingly, acupotomy EA was reported to be superior to conventional EA in patients with knee osteoarthritis with respect to pain control and functional recovery
+<sup><xref rid="ref-54" ref-type="bibr">54</xref></sup>. Despite numerous controlled studies in the peer-reviewed literature supporting their clinical efficacy (
+<xref ref-type="table" rid="T1">Table 1</xref>), minimally invasive electroanalgesia techniques have failed to gain widespread clinical acceptance because they are time-consuming to perform and insurance reimbursement is extremely low compared with other medical procedures. Although there is some &#x02018;cumulative&#x02019; benefit after a series of electroanalgesia treatments, maintenance therapy is typically required because the duration of pain relief after each treatment session is fairly short-lived (&#x0003c;48 hours).</p><table-wrap id="T1" orientation="portrait" position="anchor"><label>Table 1. </label><caption><title>Comparison of typical characteristics and applications of transcutaneous and percutaneous electroanalgesia techniques for treating acute and chronic pain.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Transcutaneous electroanalgesia techniques</th><th align="left" valign="top" rowspan="1" colspan="1">Percutaneous electroanalgesia techniques</th></tr></thead><tbody><tr><td valign="top" rowspan="1" colspan="1">Examples</td><td valign="top" rowspan="1" colspan="1">Transcutaneous electrical nerve stimulation (TENS)
+<break/>Acupoint-like transcutaneous electrical nerve
+<break/>stimulation</td><td valign="top" rowspan="1" colspan="1">Electroacupuncture (EA)
+<break/>Percutaneous electrical nerve stimulation (PENS)
+<break/>Peripheral nerve stimulation</td></tr><tr><td valign="top" rowspan="1" colspan="1">Application</td><td valign="top" rowspan="1" colspan="1">Non-invasive
+<break/>Cutaneous pads (disposable)</td><td valign="top" rowspan="1" colspan="1">Minimally invasive
+<break/>Acupuncture needles inserted through skin</td></tr><tr><td valign="top" rowspan="1" colspan="1">Duration of pain relief</td><td valign="top" rowspan="1" colspan="1">Limited short-term benefits (&#x0003c;24 hours)</td><td valign="top" rowspan="1" colspan="1">Short-term and some longer-term benefits
+<break/>(24&#x02013;72 hours)</td></tr><tr><td valign="top" rowspan="1" colspan="1">Cost</td><td valign="top" rowspan="1" colspan="1">Low (self-administered)</td><td valign="top" rowspan="1" colspan="1">High (personnel required)</td></tr><tr><td valign="top" rowspan="1" colspan="1">Time required to
+<break/>perform techniques</td><td valign="top" rowspan="1" colspan="1">Minimal</td><td valign="top" rowspan="1" colspan="1">More labor-intensive and time-consuming to
+<break/>perform</td></tr><tr><td valign="top" rowspan="1" colspan="1">Applications for
+<break/>acute and chronic
+<break/>pain management</td><td valign="top" rowspan="1" colspan="1">Acute postoperative pain, low back pain, neck
+<break/>pain, osteoarthritis/gonarthritis, abdominal/pelvic
+<break/>pain, myofascial pain syndrome, chronic rotator cuff
+<break/>diseases, and temporomandibular disorders</td><td valign="top" rowspan="1" colspan="1">Acute post-surgical pain, low back pain, sciatica,
+<break/>neck pain, knee osteoarthritis, osteoarthritis/
+<break/>gonarthritis, headaches, peripheral neuropathic
+<break/>pain, and fibromyalgia</td></tr></tbody></table></table-wrap></sec><sec><title>Laser therapy</title><p>Compared with electroanalgesia and exercise therapy, laser therapy is a relatively recent development in medicine. The first cold laser was US Food and Drug Administration (FDA)-approved for treating pain in 2001, and low-level laser therapy (LLLT), also known as cold laser therapy, has been used in the USA since only 2002. High-intensity laser therapy (HILT), also known as laser heat therapy, is an even more recent development; initial publications appeared in 2011. Laser therapy involves a simple, non-invasive, &#x0201c;point-and-shoot&#x0201d; technique which can be performed by technicians. Cellular chromophores are presumed to be the receptor sites responsible for the beneficial effects of the laser light beam, including both cytochrome c oxidase (with absorption peaks in the near-infrared range) and photoactive porphyrins
+<sup><xref rid="ref-55" ref-type="bibr">55</xref></sup>. Mitochondria are also thought to be a site for the therapeutic effects of infrared light, leading to increased ATP production, modulation of reactive oxygen species, and induction of transcription factors. These effects lead to increased cell proliferation and migration by fibroblasts; reduction in the levels of cytokines, growth factors, and inflammatory mediators; and increased tissue oxygenation, leading to enhanced control of the inflammatory process, reduced pain, and improved wound healing
+<sup><xref rid="ref-56" ref-type="bibr">56</xref>&#x02013;
+<xref rid="ref-59" ref-type="bibr">59</xref></sup>. Studies with laser therapy have confirmed enhanced wound healing in both diabetic
+<sup><xref rid="ref-60" ref-type="bibr">60</xref></sup> and non-diabetic
+<sup><xref rid="ref-59" ref-type="bibr">59</xref>,
+<xref rid="ref-61" ref-type="bibr">61</xref>,
+<xref rid="ref-62" ref-type="bibr">62</xref></sup> patients. Applying LLLT within the first 5 days of herpes zoster eruption also significantly reduced the incidence of post-herpetic neuralgia
+<sup><xref rid="ref-63" ref-type="bibr">63</xref></sup>.</p><p>Many sham-controlled studies have reported that LLLT is effective in alleviating acute pain associated with a variety of superficial medical and surgical conditions (for example, oral surgery
+<sup><xref rid="ref-64" ref-type="bibr">64</xref>&#x02013;
+<xref rid="ref-66" ref-type="bibr">66</xref></sup>, nipple pain associated with prolonged breastfeeding
+<sup><xref rid="ref-67" ref-type="bibr">67</xref></sup>, plantar fasciitis
+<sup><xref rid="ref-68" ref-type="bibr">68</xref>,
+<xref rid="ref-69" ref-type="bibr">69</xref></sup>, and carpel tunnel syndrome
+<sup><xref rid="ref-70" ref-type="bibr">70</xref></sup>). In women with chronic myofascial pain, LLLT reduced the pain intensity
+<sup><xref rid="ref-71" ref-type="bibr">71</xref></sup>. Interestingly, LLLT has been reported to reduce acute pain after coronary artery bypass graft surgery
+<sup><xref rid="ref-72" ref-type="bibr">72</xref>,
+<xref rid="ref-73" ref-type="bibr">73</xref></sup>. Recent studies also reported that LLLT could improve sensory function in patients with peripheral somatosensory neuropathy and neuropathic pain
+<sup><xref rid="ref-74" ref-type="bibr">74</xref>,
+<xref rid="ref-75" ref-type="bibr">75</xref></sup>. However, other investigators have reported sham-controlled studies with negative results using LLLT in patients with superficial medical conditions (for example, plantar fasciitis)
+<sup><xref rid="ref-76" ref-type="bibr">76</xref></sup>. Despite early clinical studies reporting benefits from LLLT in patients with fibromyalgia
+<sup><xref rid="ref-77" ref-type="bibr">77</xref>,
+<xref rid="ref-78" ref-type="bibr">78</xref></sup>, a recent study by Vayvay
+<italic>et al.</italic>
+<sup><xref rid="ref-79" ref-type="bibr">79</xref></sup> reported that LLLT was not significantly better than sham treatments and Kinesio Tape.</p><p>Several studies have described the use of LLLT for treating dental pain after oral surgery, with reduced orthodontic pain at 6 hours, 24 hours, 3 days, and even 1 week after surgery
+<sup><xref rid="ref-80" ref-type="bibr">80</xref></sup>. Alan
+<italic>et al.</italic>
+<sup><xref rid="ref-81" ref-type="bibr">81</xref></sup> reported that although LLLT reduced trismus and swelling after oral surgery, pain was only decreased on the 7th postoperative day. More recently, LLLT administered after maxillofacial surgery was reported to accelerate healing and enhance quality of life related to oral health
+<sup><xref rid="ref-82" ref-type="bibr">82</xref></sup>. However, Chen
+<italic>et al.</italic>
+<sup><xref rid="ref-83" ref-type="bibr">83</xref></sup> reported that LLLT had limited efficacy in reducing pain in patients with temporal-mandibular joint disorders. Although LLLT is reported to be more effective than &#x0201c;traditional procedures&#x0201d; in the management of oro-facial pain, it remains to be determined which power level and wavelength produce the optimal outcomes
+<sup><xref rid="ref-84" ref-type="bibr">84</xref></sup>.</p><p>LLLT has been reported to be a useful adjunct treatment for oral mucositis in patients with cancer
+<sup><xref rid="ref-85" ref-type="bibr">85</xref>&#x02013;
+<xref rid="ref-90" ref-type="bibr">90</xref></sup>. However, in patients with breast cancer and unilateral lymphedema, LLLT failed to significantly improve their quality of life, pain scores, grip strength, or limb volume
+<sup><xref rid="ref-91" ref-type="bibr">91</xref></sup>. In contrast, long-term beneficial effects have been reported with pulsed HILT in the treatment of post-mastectomy pain syndrome
+<sup><xref rid="ref-92" ref-type="bibr">92</xref></sup>. A recent literature review
+<sup><xref rid="ref-93" ref-type="bibr">93</xref></sup> suggested that LLLT might be a promising option for the management of cancer treatment-related side effects (for example, oral mucositis, radiodermatitis, lymphedema, and chemotherapy-induced peripheral neuropathic pain). Although LLLT has been reported to have a suppressive effect on cancer cells
+<sup><xref rid="ref-94" ref-type="bibr">94</xref>&#x02013;
+<xref rid="ref-97" ref-type="bibr">97</xref></sup>, studies using rodent models suggest that it might modify cancer cell behavior and actually lead to stimulation of dysplastic cells
+<sup><xref rid="ref-98" ref-type="bibr">98</xref>&#x02013;
+<xref rid="ref-101" ref-type="bibr">101</xref></sup>. For example, Rhee
+<italic>et al.</italic>
+<sup><xref rid="ref-102" ref-type="bibr">102</xref></sup> reported that LLLT increased tumor size in rodents when thyroid cancer cells were directly exposed to photodynamic (laser) therapy. Clearly, additional studies with both LLLT and HILT are needed in patients with cancer.</p><p>In a sham-controlled, prospective safety and efficacy study of LLLT in patients with subacute musculoskeletal back pain, Basford
+<italic>et al.</italic>
+<sup><xref rid="ref-103" ref-type="bibr">103</xref></sup> concluded that LLLT produced a &#x0201c;moderate&#x0201d; reduction in pain while improving the patients&#x02019; perception of clinical benefit and level of functionality. Glazov
+<italic>et al.</italic>
+<sup><xref rid="ref-104" ref-type="bibr">104</xref></sup> found evidence to support a short-term benefit of LLLT in treating low back pain in patients with a shorter duration of pain symptoms. However, these investigators suggested that greater pain-relieving benefits were achieved when higher laser dosages were administered (that is, HILT versus LLLT). This speculation was confirmed by Boyraz
+<italic>et al.</italic>
+<sup><xref rid="ref-105" ref-type="bibr">105</xref></sup> and Chen
+<italic>et al.</italic>
+<sup><xref rid="ref-106" ref-type="bibr">106</xref></sup>, who reported that HILT in combination with exercise produced significant functional improvements with longer-lasting beneficial effects than exercise therapy alone in patients with lumbar disc herniation. HILT also appeared to be an effective alternative to spine surgery for reducing pain and improving the performance of activities of daily living in patients with chronic back pain
+<sup><xref rid="ref-107" ref-type="bibr">107</xref></sup>.</p><p>In a recent review
+<sup><xref rid="ref-42" ref-type="bibr">42</xref></sup>, the authors stated that LLLT has only short-term benefits (versus sham) in treating rotator cuff disease; however, HILT was effective in minimizing pain and disability and increasing range of motion in patients with shoulder pain
+<sup><xref rid="ref-108" ref-type="bibr">108</xref></sup>. Similarly, in a 2013 systematic review of LLLT in treating chronic neck pain, the authors reported that although the benefits observed were statistically significant, the differences failed to achieve a &#x0201c;minimally-important clinical difference&#x0201d;
+<sup><xref rid="ref-109" ref-type="bibr">109</xref></sup>. In contrast, Alayat
+<italic>et al.</italic> found that HILT combined with exercise in patients with chronic low back
+<sup><xref rid="ref-110" ref-type="bibr">110</xref></sup> and neck
+<sup><xref rid="ref-111" ref-type="bibr">111</xref></sup> pain was more effective than exercise therapy alone and also had a more sustained effect in decreasing pain and functional disability (for example, improving range of motion), and beneficial effects lasted for up to 3 months. Chow
+<italic>et al.</italic>
+<sup><xref rid="ref-112" ref-type="bibr">112</xref></sup> reported that laser therapy reduced pain immediately after treatment sessions in patients with acute neck pain and for up to 22 weeks after completion of a series of treatments in patients with chronic neck pain. Ha&#x00142;adaj
+<italic>et al.</italic>
+<sup><xref rid="ref-113" ref-type="bibr">113</xref></sup> demonstrated that HILT also produced clinically-significant analgesic efficacy in patients with cervical radicular pain syndrome and cervical spondylosis. Dundar
+<italic>et al.</italic>
+<sup><xref rid="ref-114" ref-type="bibr">114</xref></sup> reported that HILT is an effective therapeutic method in the treatment of patients with myofascial pain syndrome of the trapezius muscle, a common cause of chronic neck pain.</p><p>Kim
+<italic>et al.</italic>
+<sup><xref rid="ref-115" ref-type="bibr">115</xref></sup> and others
+<sup><xref rid="ref-116" ref-type="bibr">116</xref></sup> reported that HILT was an effective non-surgical intervention for patients with knee osteoarthritis, reducing pain and improving their ability to perform activities of daily living. Alayat
+<italic>et al.</italic>
+<sup><xref rid="ref-117" ref-type="bibr">117</xref></sup> reported that, in men with osteopenia and osteoporosis, HILT combined with exercise was more effective than exercise alone in reducing pain and improving quality of life after a series of treatments. Kheshie
+<italic>et al.</italic>
+<sup><xref rid="ref-118" ref-type="bibr">118</xref></sup> and others
+<sup><xref rid="ref-119" ref-type="bibr">119</xref></sup> have reported that HILT is significantly more effective than LLLT in treating chronic osteoarthritis-related pain. These findings with HILT (versus LLLT) were also confirmed in a study by Alayat
+<italic>et al.</italic>
+<sup><xref rid="ref-120" ref-type="bibr">120</xref></sup> in patients with Bell&#x02019;s palsy. HILT was also effective in the short-term management of pain and disability related to subacromial impingement syndrome, frozen shoulder and lateral epicondylitis
+<sup><xref rid="ref-121" ref-type="bibr">121</xref>&#x02013;
+<xref rid="ref-123" ref-type="bibr">123</xref></sup>. HILT at wavelengths of 830 and 1,064 nm was better than TENS in improving control of pain and paresthesias secondary to carpal tunnel syndrome
+<sup><xref rid="ref-124" ref-type="bibr">124</xref></sup>. Analogous to LLLT, HILT has also been used to treat acute headache pain
+<sup><xref rid="ref-125" ref-type="bibr">125</xref>&#x02013;
+<xref rid="ref-127" ref-type="bibr">127</xref></sup>, degenerative joint conditions
+<sup><xref rid="ref-115" ref-type="bibr">115</xref>&#x02013;
+<xref rid="ref-119" ref-type="bibr">119</xref>,
+<xref rid="ref-128" ref-type="bibr">128</xref>&#x02013;
+<xref rid="ref-131" ref-type="bibr">131</xref></sup>, neuropathic pain syndromes
+<sup><xref rid="ref-64" ref-type="bibr">64</xref>,
+<xref rid="ref-132" ref-type="bibr">132</xref>&#x02013;
+<xref rid="ref-136" ref-type="bibr">136</xref></sup>, and a wide variety of musculoskeletal disorders, including fibromyalgia
+<sup><xref rid="ref-77" ref-type="bibr">77</xref>&#x02013;
+<xref rid="ref-79" ref-type="bibr">79</xref>,
+<xref rid="ref-114" ref-type="bibr">114</xref>,
+<xref rid="ref-137" ref-type="bibr">137</xref></sup>.</p><p>A more powerful version of HILT has been introduced using class IV lasers producing more than 25 W of power (for example, the Phoenix Thera-Lase device) (
+<xref ref-type="table" rid="T2">Table 2</xref>). Huang
+<italic>et al.</italic>
+<sup><xref rid="ref-138" ref-type="bibr">138</xref></sup> demonstrated that the beneficial outcomes of laser therapy were directly related to the amount of energy (power) administered. The energy density (in joules per square centimeter) or power (in watts) appears to be strongly related to the efficiency of laser radiation in reducing pain and inflammation. Power density represents the laser/light-emitting diode incident power in watts on the tissue spot size (that is, output power divided by the size of the irradiated area in watts per square meter). The higher power density is responsible for regulating or &#x0201c;speeding up&#x0201d; the transport of electrons in the mitochondrial respiratory chain
+<sup><xref rid="ref-90" ref-type="bibr">90</xref></sup>. The World Association of Laser Therapy has established that target tissues need an energy density of 5&#x02013;7 J/cm
+<sup>2</sup> or higher to elicit a clinically significant biological cellular response
+<sup><xref rid="ref-139" ref-type="bibr">139</xref></sup>.</p><table-wrap id="T2" orientation="portrait" position="anchor"><label>Table 2. </label><caption><title>Comparison of primary characteristics of low-level laser therapy and high-intensity laser therapy devices for the management of common pain syndromes.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Low-level laser therapy (LLLT)</th><th align="left" valign="top" rowspan="1" colspan="1">High-intensity laser therapy (HILT)</th></tr></thead><tbody><tr><td valign="top" rowspan="1" colspan="1">Laser class</td><td valign="top" rowspan="1" colspan="1">I, Im, II, III</td><td valign="top" rowspan="1" colspan="1">IV</td></tr><tr><td valign="top" rowspan="1" colspan="1">Wavelength</td><td valign="top" rowspan="1" colspan="1">600&#x02013;980 nm</td><td valign="top" rowspan="1" colspan="1">660&#x02013;1,275 nm</td></tr><tr><td valign="top" rowspan="1" colspan="1">Power</td><td valign="top" rowspan="1" colspan="1">&#x0003c;1 W</td><td valign="top" rowspan="1" colspan="1">1&#x02013;75 W</td></tr><tr><td valign="top" rowspan="1" colspan="1">Penetration abilities</td><td valign="top" rowspan="1" colspan="1">Low (&#x0003c;2 cm)</td><td valign="top" rowspan="1" colspan="1">Deep (5&#x02013;15 cm)</td></tr><tr><td valign="top" rowspan="1" colspan="1">Temperature changes</td><td valign="top" rowspan="1" colspan="1">&#x0003c;1.0&#x000b0;C</td><td valign="top" rowspan="1" colspan="1">Low thermal accumulation</td></tr><tr><td valign="top" rowspan="1" colspan="1">Applications for acute and
+<break/>chronic pain management</td><td valign="top" rowspan="1" colspan="1">Superficial postoperative pain
+<break/>Osteoarthritis
+<break/>Low back pain
+<break/>Neck pain
+<break/>Plantar fasciitis
+<break/>Dental pain
+<break/>Mucositis-associated pain
+<break/>Acute and chronic pain related to
+<break/>herpes virus
+<break/>Trigeminal neuralgia
+<break/>Wound repair
+<break/>The pain of muscle injury
+<break/>Shoulder pain
+<break/>Carpal tunnel syndrome
+<break/>Fibromyalgia-related pain
+<break/>Headache
+<break/>Opioid dependency</td><td valign="top" rowspan="1" colspan="1">Postoperative pain
+<break/>Osteoarthritis
+<break/>Hemophilic arthropathy
+<break/>Low back pain related to herpes virus
+<break/>Myofascial pain syndrome
+<break/>Shoulder pain
+<break/>Fibromyalgia-related pain
+<break/>Opioid dependency
+<break/>
+<break/>Note: Several of the applications
+<break/>listed for low-level laser therapy have
+<break/>not been studied using high-intensity
+<break/>laser therapy devices. However, there
+<break/>is no reason to expect that they would
+<break/>not respond as well or better.</td></tr></tbody></table></table-wrap><p>The more powerful HILT devices are also referred to as laser heat devices
+<sup><xref rid="ref-140" ref-type="bibr">140</xref></sup>. In addition, some of these powerful laser devices function at longer wavelengths; for example, the Phoenix Thera-Lase (Phoenix Thera-Lase Systems, Dallas, TX, USA), which produces up to 75 W of power, operates at a wavelength of 1,275 nm. Therefore, the laser beam produced by these devices can penetrate more deeply into the soft tissue because of their enhanced power and the reduced absorption of the laser beam by melanin and hemoglobin (
+<xref ref-type="fig" rid="f1">Figure 1</xref>)
+<sup><xref rid="ref-3" ref-type="bibr">3</xref></sup>. Profound and long-lasting analgesic effects have recently been reported with this HILT device in patients with chronic post-surgical pain requiring the use of opioid analgesics
+<sup><xref rid="ref-141" ref-type="bibr">141</xref></sup>, professional athletes with degenerative joint disease requiring non-opioid analgesics
+<sup><xref rid="ref-142" ref-type="bibr">142</xref></sup>, and a woman with long-standing drug-resistant fibromyalgia
+<sup><xref rid="ref-137" ref-type="bibr">137</xref></sup>. The fibromyalgia case report suggests that the use of HILT at 42&#x02013;75 W of power can produce more profound and longer-lasting beneficial effects than standard treatment protocols utilizing LLLT
+<sup><xref rid="ref-79" ref-type="bibr">79</xref></sup> and less powerful HILT devices
+<sup><xref rid="ref-140" ref-type="bibr">140</xref></sup>. Importantly, LLLT studies have reported that photobiomodulation therapy produced greater improvement in muscular performance and accelerating recovery when it is administered prior to exercising
+<sup><xref rid="ref-143" ref-type="bibr">143</xref>,
+<xref rid="ref-144" ref-type="bibr">144</xref></sup>. Although Foley
+<italic>et al.</italic>
+<sup><xref rid="ref-145" ref-type="bibr">145</xref></sup> reported that LLLT facilitated a faster recovery of injured university athletes, they failed to include either a control or an active comparator group.</p><fig fig-type="figure" id="f1" orientation="portrait" position="anchor"><label>Figure 1. </label><caption><title>The absorption effect of different wavelengths of infrared light by water, hemoglobin, oxyhemoglobin, and melanin.</title><p>This figure illustrates one of the effects of the wavelength differences between the Phoenix Thera-Lase and other commercially available high-intensity laser therapy devices (for example, LightForce/LiteCure, erbium-doped yttrium aluminium garnet laser [Er:YAG], and neodymium-doped YAG [Nd:YAG]) with respect to infrared light absorption. These spectra are available from online sources.</p></caption><graphic xlink:href="f1000research-6-13341-g0000"/></fig><p>Larger-scale studies are clearly needed to verify the benefits of HILT compared with both LLLT and electroanalgesia in decreasing acute and chronic pain and improving long-term clinical outcomes. Finally, determining the optimal power and wavelength for each clinical condition is critically important in optimizing both LLLT and HILT. For example, de Oliveria
+<italic>et al.</italic>
+<sup><xref rid="ref-144" ref-type="bibr">144</xref></sup> compared 100, 200, and 400 mW of power and found that with LLLT a higher power does not necessarily produce a better result with respect to improvement in muscle performance. These authors also recommended using a wavelength of 810 nm for achieving optimal results with LLLT. However, Bordvik
+<italic>et al.</italic>
+<sup><xref rid="ref-146" ref-type="bibr">146</xref></sup> reported that a 910 nm wavelength produced greater tissue penetration than 810 nm with a super-pulsed laser.</p><p>Super-pulsed class IIIB lasers (for example, Multi Radiance, Medical [Solon, Ohio], and Thera-Lase [Toronto, Ontario, Canada]) can produce a peak power of up to 100 W without causing tissue warming in contrast to the more powerful class IV lasers (for example, LightForce lasers [LiteCure, Newark, DE] produces 0.5&#x02013;25 W at wavelengths of 980/810 nm and Phoenix Thera-Lase [Phoenix Thera-Lase Systems, Dallas, TX] produces 1&#x02013;75 W at a wavelength of 1,275 nm). In a sham-controlled study, Leal-Junior and colleagues
+<sup><xref rid="ref-147" ref-type="bibr">147</xref></sup> reported that a super-pulsed laser was effective in decreasing pain and improving the quality of life in patients with non-specific knee pain. Of interest, a recent study by de Marchi
+<italic>et al.</italic>
+<sup><xref rid="ref-148" ref-type="bibr">148</xref></sup> reported that low-powered &#x02018;pulsed&#x02019; lasers produced superior effects with respect to delayed-onset muscle soreness and elevations in creatine kinase activity than both low- and high-powered continuous lasers. Notarnicola
+<italic>et al.</italic>
+<sup><xref rid="ref-149" ref-type="bibr">149</xref></sup> reported that HILT with 5 W of power at wavelengths of 650 nm, 810 nm, and TRIAX (810/980/1,064 nm) reduces low back pain scores and disability at 1, 2, and 4 months post-treatment. The greatest efficacy in promoting nerve regeneration and modulating pain transmission was associated with the use of the longer wavelengths (810/980/1,064 nm versus 650 nm).</p></sec><sec sec-type="discussion"><title>Discussion</title><p>In a recent &#x0201c;call to action&#x0201d; to end the opioid epidemic in this country
+<sup><xref rid="ref-150" ref-type="bibr">150</xref></sup>, the US Surgeon General pointed out that the annual number of overdose deaths involving prescription opioids has nearly quadrupled since 2000 and this increase parallels the marked growth in the quantity of opioid pain relievers being prescribed
+<sup><xref rid="ref-151" ref-type="bibr">151</xref></sup>. Prescription opioid addiction and misuse have also contributed to a resurgence in heroin use and the spread of HIV and hepatitis C
+<sup><xref rid="ref-152" ref-type="bibr">152</xref></sup>. In the &#x0201c;Turn the Tide&#x0201d; Rx Pocket card which the government recently mailed to all practicing clinicians in this country, there was no mention of non-pharmacologic approaches to treating pain. However, in the recent FDA response to the opioid crisis, Califf
+<italic>et al.</italic>
+<sup><xref rid="ref-153" ref-type="bibr">153</xref></sup> emphasized that more &#x0201c;alternatives&#x0201d; to opioid analgesics are needed, including non-pharmacologic therapies. According to the FDA leadership, &#x0201c;non-pharmacologic approaches to pain treatment were identified as an urgent priority&#x0201d;
+<sup><xref rid="ref-153" ref-type="bibr">153</xref></sup>. The new Clinical Guidelines Committee of the American College of Physicians also endorsed the use of non-invasive treatments such as laser therapy for the treatment of acute, subacute, and chronic low back pain
+<sup><xref rid="ref-154" ref-type="bibr">154</xref></sup>. The CDCP has also recently emphasized the importance of finding non-pharmacologic alternatives to opioid analgesic medications for treating pain
+<sup><xref rid="ref-155" ref-type="bibr">155</xref></sup>. These authors reported that patients initially given a 1-day supply of opioid medication had a 6% likelihood of still using the drug a year later. However, that number rose to roughly 10% for patients given a 2-day supply and to 45% for patients given a 40-day prescription.</p><p>Of importance, Barnett
+<italic>et al.</italic>
+<sup><xref rid="ref-156" ref-type="bibr">156</xref></sup>, in a recent issue of the
+<italic>New England Journal of Medicine</italic>, reported that long-term opioid use was increased in previously opioid-na&#x000ef;ve patients who received treatment in an emergency department from high (versus low) intensity opioid prescribers. Altering the prescribing habits of physicians and their surrogates will clearly help; however, in order to effectively deal with the current opioid crisis, more innovative non-pharmacologic approaches for treating acute and chronic pain are clearly needed
+<sup><xref rid="ref-157" ref-type="bibr">157</xref></sup>. In this review, we have described numerous clinical studies published within the last 5 years which support the use of non-pharmacologic electro-analgesic and laser therapies for managing both acute and chronic pain.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>The consequences of the widespread reliance on opioid-containing medication for managing acute and chronic pain should not be surprising. Many different electro-analgesic and laser therapy techniques have been described in the peer-reviewed literature for treating acute and chronic pain. However, these &#x0201c;alternative&#x0201d; therapies have failed to achieve broad acceptance in the medical community because of lingering questions regarding their analgesic efficacy, a lack of long-term outcome studies, and low reimbursement by third-party payers to the health-care providers administering these non-traditional therapeutic modalities. Although the use of powerful HILT devices appears to produce more profound and sustained beneficial effects than electroanalgesia and LLLT in the treatment of acute and chronic pain, this therapeutic modality has also failed to achieve widespread acceptance in the medical community because of a lack of knowledge regarding the potential long-term benefits of HILT among health-care providers, low third-party reimbursement rates, and the high cost associated with purchasing these more powerful laser devices. The mechanism of action of both electroanalgesia and laser therapy appears to involve neuromodulation of peripheral nerves using low-level electrical currents
+<sup><xref rid="ref-158" ref-type="bibr">158</xref></sup> and infrared light
+<sup><xref rid="ref-159" ref-type="bibr">159</xref>,
+<xref rid="ref-160" ref-type="bibr">160</xref></sup>, respectively. Acustimulation, a popular form of electroanalgesia, has been reported to trigger the release of neurotransmitters and endogenous opioid-like substances and to activate c-fos within the central nervous system (CNS). Laser photobiomodulation appears to induce direct inhibitory effects on peripheral nerves, which reduces acute pain input into the CNS. In chronic pain patients, laser-induced changes in the spinal cord produces longer-term suppression of pain in the CNS.</p><p>Given the current opioid crisis in the USA, it is time to seriously consider incorporating these &#x0201c;alternative&#x0201d; analgesic therapies into treatment protocols for managing acute and chronic pain rather than adding more &#x0201c;fuel to the fire&#x0201d; by administering even more opioid-related drugs (157). A simple, safe, and effective non-invasive pain therapy without side effects could significantly reduce the dependence on oral opioid-containing medications in the post-discharge period after surgery. These non-pharmacologic therapies would also be cost-effective alternatives to opioids for treating chronic pain not responding to non-opioid analgesic medications. It would appear that both electroanalgesia and laser therapy are safer and more cost-effective for managing chronic pain than the long-term use of opioid analgesics. Finally, HILT could prove to be a valuable therapy for treating patients who have become addicted to opioid-containing prescription medications.</p></sec></body><back><ref-list><ref id="ref-1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>PF</given-names></name><name><surname>Kehlet</surname><given-names>H</given-names></name></person-group>:
+<article-title>Improving pain management: are we jumping from the frying pan into the fire?</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2007</year>;<volume>105</volume>(<issue>1</issue>):<fpage>10</fpage>&#x02013;<lpage>2</lpage>.
+<pub-id pub-id-type="doi">10.1213/01.ane.0000268392.05157.a8</pub-id>
+<?supplied-pmid 17578944?><pub-id pub-id-type="pmid">17578944</pub-id></mixed-citation></ref><ref id="ref-2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>PF</given-names></name></person-group>:
+<article-title>Multimodal analgesia: its role in preventing postoperative pain.</article-title>
+<source><italic>Curr Opin Investig Drugs.</italic></source>
+<year>2008</year>;<volume>9</volume>(<issue>1</issue>):<fpage>76</fpage>&#x02013;<lpage>82</lpage>.
+<?supplied-pmid 18183534?><pub-id pub-id-type="pmid">18183534</pub-id></mixed-citation></ref><ref id="ref-3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>PF</given-names></name></person-group>:
+<article-title>What are the advantages of non-opioid analgesic techniques in the management of acute and chronic pain?</article-title>
+<source><italic>Expert Opin Pharmacother.</italic></source>
+<year>2017</year>;<volume>18</volume>(<issue>4</issue>):<fpage>329</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="doi">10.1080/14656566.2017.1289176</pub-id>
+<?supplied-pmid 28132576?><pub-id pub-id-type="pmid">28132576</pub-id></mixed-citation></ref><ref id="ref-4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brennan</surname><given-names>F</given-names></name><name><surname>Carr</surname><given-names>DB</given-names></name><name><surname>Cousins</surname><given-names>M</given-names></name></person-group>:
+<article-title>Pain management: a fundamental human right.</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2007</year>;<volume>105</volume>(<issue>1</issue>):<fpage>205</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="doi">10.1213/01.ane.0000268145.52345.55</pub-id>
+<?supplied-pmid 17578977?><pub-id pub-id-type="pmid">17578977</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1090220">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reuben</surname><given-names>DB</given-names></name><name><surname>Alvanzo</surname><given-names>AA</given-names></name><name><surname>Ashikaga</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>National Institutes of Health Pathways to Prevention Workshop: the role of opioids in the treatment of chronic pain.</article-title>
+<source><italic>Ann Intern Med.</italic></source>
+<year>2015</year>;<volume>162</volume>(<issue>4</issue>):<fpage>295</fpage>&#x02013;<lpage>300</lpage>.
+<pub-id pub-id-type="doi">10.7326/M14-2775</pub-id>
+<?supplied-pmid 25581341?><pub-id pub-id-type="pmid">25581341</pub-id></mixed-citation></ref><ref id="ref-6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Goesling</surname><given-names>J</given-names></name><name><surname>Moser</surname><given-names>SE</given-names></name><name><surname>Zaidi</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Trends and predictors of opioid use after total knee and total hip arthroplasty.</article-title>
+<source><italic>Pain.</italic></source>
+<year>2016</year>;<volume>157</volume>(<issue>6</issue>):<fpage>1259</fpage>&#x02013;<lpage>65</lpage>.
+<pub-id pub-id-type="doi">10.1097/j.pain.0000000000000516</pub-id>
+<!--<pub-id pub-id-type="pmcid">4868627</pub-id>-->
+<?supplied-pmid 26871536?><pub-id pub-id-type="pmid">26871536</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726141047">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alam</surname><given-names>A</given-names></name><name><surname>Gomes</surname><given-names>T</given-names></name><name><surname>Zheng</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Long-term analgesic use after low-risk surgery: a retrospective cohort study.</article-title>
+<source><italic>Arch Intern Med.</italic></source>
+<year>2012</year>;<volume>172</volume>(<issue>5</issue>):<fpage>425</fpage>&#x02013;<lpage>30</lpage>.
+<pub-id pub-id-type="doi">10.1001/archinternmed.2011.1827</pub-id>
+<?supplied-pmid 22412106?><pub-id pub-id-type="pmid">22412106</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/14054961">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cauley</surname><given-names>CE</given-names></name><name><surname>Anderson</surname><given-names>G</given-names></name><name><surname>Haynes</surname><given-names>AB</given-names></name><etal/></person-group>:
+<article-title>Predictors of In-hospital Postoperative Opioid Overdose After Major Elective Operations: A Nationally Representative Cohort Study.</article-title>
+<source><italic>Ann Surg.</italic></source>
+<year>2017</year>;<volume>265</volume>(<issue>4</issue>):<fpage>702</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1097/SLA.0000000000001945</pub-id>
+<?supplied-pmid 28267693?><pub-id pub-id-type="pmid">28267693</pub-id></mixed-citation></ref><ref id="ref-9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ladha</surname><given-names>KS</given-names></name><name><surname>Patorno</surname><given-names>E</given-names></name><name><surname>Liu</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Impact of Perioperative Epidural Placement on Postdischarge Opioid Use in Patients Undergoing Abdominal Surgery.</article-title>
+<source><italic>Anesthesiology.</italic></source>
+<year>2016</year>;<volume>124</volume>(<issue>2</issue>):<fpage>396</fpage>&#x02013;<lpage>403</lpage>.
+<pub-id pub-id-type="doi">10.1097/ALN.0000000000000952</pub-id>
+<!--<pub-id pub-id-type="pmcid">4718880</pub-id>-->
+<?supplied-pmid 26575145?><pub-id pub-id-type="pmid">26575145</pub-id></mixed-citation></ref><ref id="ref-10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olsen</surname><given-names>Y</given-names></name></person-group>:
+<article-title>The CDC Guideline on Opioid Prescribing: Rising to the Challenge.</article-title>
+<source><italic>JAMA.</italic></source>
+<year>2016</year>;<volume>315</volume>(<issue>15</issue>):<fpage>1577</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1001/jama.2016.1910</pub-id>
+<?supplied-pmid 26978227?><pub-id pub-id-type="pmid">26978227</pub-id></mixed-citation></ref><ref id="ref-11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eriksen</surname><given-names>J</given-names></name><name><surname>Sj&#x000f8;gren</surname><given-names>P</given-names></name><name><surname>Bruera</surname><given-names>E</given-names></name><etal/></person-group>:
+<article-title>Critical issues on opioids in chronic non-cancer pain: an epidemiological study.</article-title>
+<source><italic>Pain.</italic></source>
+<year>2006</year>;<volume>125</volume>(<issue>1&#x02013;2</issue>):<fpage>172</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.pain.2006.06.009</pub-id>
+<?supplied-pmid 16842922?><pub-id pub-id-type="pmid">16842922</pub-id></mixed-citation></ref><ref id="ref-12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sullivan</surname><given-names>MD</given-names></name><name><surname>Ballantyne</surname><given-names>JC</given-names></name></person-group>:
+<article-title>What are we treating with long-term opioid therapy?</article-title>
+<source><italic>Arch Intern Med.</italic></source>
+<year>2012</year>;<volume>172</volume>(<issue>5</issue>):<fpage>433</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1001/archinternmed.2011.2156</pub-id>
+<?supplied-pmid 22412109?><pub-id pub-id-type="pmid">22412109</pub-id></mixed-citation></ref><ref id="ref-13"><label>13</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>A</given-names></name></person-group>:
+<article-title>A new paradigm for opioid addiction: more drugs</article-title>. TIME magazine.<year>2016</year>
+<ext-link ext-link-type="uri" xlink:href="https://www.scribd.com/article/327612021/A-New-Paradigm-For-Opioid-Addiction-More-Drugs">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-14"><label>14</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Edwards</surname><given-names>HS</given-names></name></person-group>:
+<article-title>The Drug Cascade.</article-title>TIME magazine.<year>2017</year>
+<ext-link ext-link-type="uri" xlink:href="http://time.com/4828108/the-drug-cascade">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kshettry</surname><given-names>VR</given-names></name><name><surname>Carole</surname><given-names>LF</given-names></name><name><surname>Henly</surname><given-names>SJ</given-names></name><etal/></person-group>:
+<article-title>Complementary alternative medical therapies for heart surgery patients: feasibility, safety, and impact.</article-title>
+<source><italic>Ann Thorac Surg.</italic></source>
+<year>2006</year>;<volume>81</volume>(<issue>1</issue>):<fpage>201</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.athoracsur.2005.06.016</pub-id>
+<?supplied-pmid 16368364?><pub-id pub-id-type="pmid">16368364</pub-id></mixed-citation></ref><ref id="ref-16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oz</surname><given-names>MC</given-names></name><name><surname>Olivo</surname><given-names>EL</given-names></name></person-group>:
+<article-title>Invited commentary.</article-title>
+<source><italic>Ann Thorac Surg.</italic></source>
+<year>2006</year>;<volume>81</volume>(<issue>1</issue>):<fpage>205</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.athoracsur.2005.07.007</pub-id>
+<?supplied-pmid 16368365?><pub-id pub-id-type="pmid">16368365</pub-id></mixed-citation></ref><ref id="ref-17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tse</surname><given-names>MM</given-names></name><name><surname>Chan</surname><given-names>MF</given-names></name><name><surname>Benzie</surname><given-names>IF</given-names></name></person-group>:
+<article-title>The effect of music therapy on postoperative pain, heart rate, systolic blood pressures and analgesic use following nasal surgery.</article-title>
+<source><italic>J Pain Palliat Care Pharmacother.</italic></source>
+<year>2005</year>;<volume>19</volume>(<issue>3</issue>):<fpage>21</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1080/J354v19n03_05</pub-id>
+<?supplied-pmid 16219608?><pub-id pub-id-type="pmid">16219608</pub-id></mixed-citation></ref><ref id="ref-18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sendelbach</surname><given-names>SE</given-names></name><name><surname>Halm</surname><given-names>MA</given-names></name><name><surname>Doran</surname><given-names>KA</given-names></name><etal/></person-group>:
+<article-title>Effects of music therapy on physiological and psychological outcomes for patients undergoing cardiac surgery.</article-title>
+<source><italic>J Cardiovasc Nurs.</italic></source>
+<year>2006</year>;<volume>21</volume>(<issue>3</issue>):<fpage>194</fpage>&#x02013;<lpage>200</lpage>.
+<?supplied-pmid 16699359?><pub-id pub-id-type="pmid">16699359</pub-id></mixed-citation></ref><ref id="ref-19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>PF</given-names></name></person-group>:
+<article-title>Use of alternative medical therapies in the perioperative period: is it time to get on board?</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2007</year>;<volume>104</volume>(<issue>2</issue>):<fpage>251</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1213/01.ane.0000253081.07841.01</pub-id>
+<?supplied-pmid 17242073?><pub-id pub-id-type="pmid">17242073</pub-id></mixed-citation></ref><ref id="ref-20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deogaonkar</surname><given-names>M</given-names></name><name><surname>Slavin</surname><given-names>KV</given-names></name></person-group>:
+<article-title>Peripheral nerve/field stimulation for neuropathic pain.</article-title>
+<source><italic>Neurosurg Clin N Am.</italic></source>
+<year>2014</year>;<volume>25</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>10</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.nec.2013.10.001</pub-id>
+<?supplied-pmid 24262894?><pub-id pub-id-type="pmid">24262894</pub-id></mixed-citation></ref><ref id="ref-21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chakravarthy</surname><given-names>K</given-names></name><name><surname>Nava</surname><given-names>A</given-names></name><name><surname>Christo</surname><given-names>PJ</given-names></name><etal/></person-group>:
+<article-title>Review of Recent Advances in Peripheral Nerve Stimulation (PNS).</article-title>
+<source><italic>Curr Pain Headache Rep.</italic></source>
+<year>2016</year>;<volume>20</volume>(<issue>11</issue>):<fpage>60</fpage>.
+<pub-id pub-id-type="doi">10.1007/s11916-016-0590-8</pub-id>
+<?supplied-pmid 27671799?><pub-id pub-id-type="pmid">27671799</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727183801">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gan</surname><given-names>TJ</given-names></name><name><surname>Jiao</surname><given-names>KR</given-names></name><name><surname>Zenn</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>A randomized controlled comparison of electro-acupoint stimulation or ondansetron versus placebo for the prevention of postoperative nausea and vomiting.</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2004</year>;<volume>99</volume>(<issue>4</issue>):<fpage>1070</fpage>&#x02013;<lpage>5</lpage>, table of contents.
+<pub-id pub-id-type="doi">10.1213/01.ANE.0000130355.91214.9E</pub-id>
+<?supplied-pmid 15385352?><pub-id pub-id-type="pmid">15385352</pub-id></mixed-citation></ref><ref id="ref-23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>B</given-names></name><name><surname>Tang</surname><given-names>J</given-names></name><name><surname>White</surname><given-names>PF</given-names></name><etal/></person-group>:
+<article-title>Effect of the intensity of transcutaneous acupoint electrical stimulation on the postoperative analgesic requirement.</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>1997</year>;<volume>85</volume>(<issue>2</issue>):<fpage>406</fpage>&#x02013;<lpage>13</lpage>.
+<?supplied-pmid 9249122?><pub-id pub-id-type="pmid">9249122</pub-id></mixed-citation></ref><ref id="ref-24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>L</given-names></name><name><surname>Tang</surname><given-names>J</given-names></name><name><surname>White</surname><given-names>PF</given-names></name><etal/></person-group>:
+<article-title>The effect of location of transcutaneous electrical nerve stimulation on postoperative opioid analgesic requirement: acupoint versus nonacupoint stimulation.</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>1998</year>;<volume>87</volume>(<issue>5</issue>):<fpage>1129</fpage>&#x02013;<lpage>34</lpage>.
+<?supplied-pmid 9806695?><pub-id pub-id-type="pmid">9806695</pub-id></mixed-citation></ref><ref id="ref-25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Z&#x000e1;rate</surname><given-names>E</given-names></name><name><surname>Mingus</surname><given-names>M</given-names></name><name><surname>White</surname><given-names>PF</given-names></name><etal/></person-group>:
+<article-title>The use of transcutaneous acupoint electrical stimulation for preventing nausea and vomiting after laparoscopic surgery.</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2001</year>;<volume>92</volume>(<issue>3</issue>):<fpage>629</fpage>&#x02013;<lpage>35</lpage>.
+<pub-id pub-id-type="doi">10.1213/00000539-200103000-00014</pub-id>
+<?supplied-pmid 11226090?><pub-id pub-id-type="pmid">11226090</pub-id></mixed-citation></ref><ref id="ref-26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hamza</surname><given-names>MA</given-names></name><name><surname>White</surname><given-names>PF</given-names></name><name><surname>Ahmed</surname><given-names>HE</given-names></name><etal/></person-group>:
+<article-title>Effect of the frequency of transcutaneous electrical nerve stimulation on the postoperative opioid analgesic requirement and recovery profile.</article-title>
+<source><italic>Anesthesiology.</italic></source>
+<year>1999</year>;<volume>91</volume>(<issue>5</issue>):<fpage>1232</fpage>&#x02013;<lpage>8</lpage>.
+<?supplied-pmid 10551571?><pub-id pub-id-type="pmid">10551571</pub-id></mixed-citation></ref><ref id="ref-27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>PF</given-names></name><name><surname>Hamza</surname><given-names>MA</given-names></name><name><surname>Recart</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Optimal timing of acustimulation for antiemetic prophylaxis as an adjunct to ondansetron in patients undergoing plastic surgery.</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2005</year>;<volume>100</volume>(<issue>2</issue>):<fpage>367</fpage>&#x02013;<lpage>72</lpage>.
+<pub-id pub-id-type="doi">10.1213/01.ANE.0000144425.16116.0A</pub-id>
+<?supplied-pmid 15673859?><pub-id pub-id-type="pmid">15673859</pub-id></mixed-citation></ref><ref id="ref-28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lis&#x000f3;n</surname><given-names>JF</given-names></name><name><surname>Amer-Cuenca</surname><given-names>JJ</given-names></name><name><surname>Piquer-Mart&#x000ed;</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Transcutaneous Nerve Stimulation for Pain Relief During Office Hysteroscopy: A Randomized Controlled Trial.</article-title>
+<source><italic>Obstet Gynecol.</italic></source>
+<year>2017</year>;<volume>129</volume>(<issue>2</issue>):<fpage>363</fpage>&#x02013;<lpage>70</lpage>.
+<pub-id pub-id-type="doi">10.1097/AOG.0000000000001842</pub-id>
+<?supplied-pmid 28079781?><pub-id pub-id-type="pmid">28079781</pub-id></mixed-citation></ref><ref id="ref-29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ozturk</surname><given-names>NK</given-names></name><name><surname>Baki</surname><given-names>ED</given-names></name><name><surname>Kavakli</surname><given-names>AS</given-names></name><etal/></person-group>:
+<article-title>Comparison of Transcutaneous Electrical Nerve Stimulation and Parasternal Block for Postoperative Pain Management after Cardiac Surgery.</article-title>
+<source><italic>Pain Res Manag.</italic></source>
+<year>2016</year>;<volume>2016</volume>: 4261949.
+<pub-id pub-id-type="doi">10.1155/2016/4261949</pub-id>
+<!--<pub-id pub-id-type="pmcid">4904586</pub-id>-->
+<?supplied-pmid 27445610?><pub-id pub-id-type="pmid">27445610</pub-id></mixed-citation></ref><ref id="ref-30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gadsby</surname><given-names>JG</given-names></name><name><surname>Flowerdew</surname><given-names>MW</given-names></name></person-group>:
+<article-title>Transcutaneous electrical nerve stimulation and acupuncture-like transcutaneous electrical nerve stimulation for chronic low back pain.</article-title>
+<source><italic>Cochrane Database Syst Rev.</italic></source>
+<year>2000</year>; (<issue>2</issue>):<fpage>CD000210</fpage>.
+<pub-id pub-id-type="doi">10.1002/14651858.CD000210</pub-id>
+<?supplied-pmid 10796326?><pub-id pub-id-type="pmid">10796326</pub-id></mixed-citation></ref><ref id="ref-31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sator-Katzenschlager</surname><given-names>SM</given-names></name><name><surname>Scharbert</surname><given-names>G</given-names></name><name><surname>Kozek-Langenecker</surname><given-names>SA</given-names></name><etal/></person-group>:
+<article-title>The short- and long-term benefit in chronic low back pain through adjuvant electrical versus manual auricular acupuncture.</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2004</year>;<volume>98</volume>(<issue>5</issue>):<fpage>1359</fpage>&#x02013;<lpage>64</lpage>, table of contents.
+<pub-id pub-id-type="doi">10.1213/01.ANE.0000107941.16173.F7</pub-id>
+<?supplied-pmid 15105215?><pub-id pub-id-type="pmid">15105215</pub-id></mixed-citation></ref><ref id="ref-32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carlsson</surname><given-names>CP</given-names></name><name><surname>Sj&#x000f6;lund</surname><given-names>BH</given-names></name></person-group>:
+<article-title>Acupuncture for chronic low back pain: a randomized placebo-controlled study with long-term follow-up.</article-title>
+<source><italic>Clin J Pain.</italic></source>
+<year>2001</year>;<volume>17</volume>(<issue>4</issue>):<fpage>296</fpage>&#x02013;<lpage>305</lpage>.
+<pub-id pub-id-type="doi">10.1097/00002508-200112000-00003</pub-id>
+<?supplied-pmid 11783809?><pub-id pub-id-type="pmid">11783809</pub-id></mixed-citation></ref><ref id="ref-33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ghoname</surname><given-names>EA</given-names></name><name><surname>White</surname><given-names>PF</given-names></name><name><surname>Ahmed</surname><given-names>HE</given-names></name><etal/></person-group>:
+<article-title>Percutaneous electrical nerve stimulation: an alternative to TENS in the management of sciatica.</article-title>
+<source><italic>Pain.</italic></source>
+<year>1999</year>;<volume>83</volume>(<issue>2</issue>):<fpage>193</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0304-3959(99)00097-4</pub-id>
+<?supplied-pmid 10534590?><pub-id pub-id-type="pmid">10534590</pub-id></mixed-citation></ref><ref id="ref-34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jauregui</surname><given-names>JJ</given-names></name><name><surname>Cherian</surname><given-names>JJ</given-names></name><name><surname>Gwam</surname><given-names>CU</given-names></name><etal/></person-group>:
+<article-title>A Meta-Analysis of Transcutaneous Electrical Nerve Stimulation for Chronic Low Back Pain.</article-title>
+<source><italic>Surg Technol Int.</italic></source>
+<year>2016</year>;<volume>28</volume>:<fpage>296</fpage>&#x02013;<lpage>302</lpage>.
+<?supplied-pmid 27042787?><pub-id pub-id-type="pmid">27042787</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726265062">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rajfur</surname><given-names>J</given-names></name><name><surname>Pasternok</surname><given-names>M</given-names></name><name><surname>Rajfur</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Efficacy of Selected Electrical Therapies on Chronic Low Back Pain: A Comparative Clinical Pilot Study.</article-title>
+<source><italic>Med Sci Monit.</italic></source>
+<year>2017</year>;<volume>23</volume>:<fpage>85</fpage>&#x02013;<lpage>100</lpage>.
+<pub-id pub-id-type="doi">10.12659/MSM.899461</pub-id>
+<!--<pub-id pub-id-type="pmcid">5240899</pub-id>-->
+<?supplied-pmid 28062862?><pub-id pub-id-type="pmid">28062862</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727195233">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chan</surname><given-names>DK</given-names></name><name><surname>Johnson</surname><given-names>MI</given-names></name><name><surname>Sun</surname><given-names>KO</given-names></name><etal/></person-group>:
+<article-title>Electrical acustimulation of the wrist for chronic neck pain: a randomized, sham-controlled trial using a wrist-ankle acustimulation device.</article-title>
+<source><italic>Clin J Pain.</italic></source>
+<year>2009</year>;<volume>25</volume>(<issue>4</issue>):<fpage>320</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1097/AJP.0b013e318192ce39</pub-id>
+<?supplied-pmid 19590481?><pub-id pub-id-type="pmid">19590481</pub-id></mixed-citation></ref><ref id="ref-37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gschiel</surname><given-names>B</given-names></name><name><surname>Kager</surname><given-names>H</given-names></name><name><surname>Pipam</surname><given-names>W</given-names></name><etal/></person-group>:
+<article-title>Analgetische Effizienz von transkutaner elektrischer Nervenstimulation (TENS-Therapie) bei Patienten mit Gonarthrose. Eine prospektive, randomisierte, placebokontrollierte, doppelblinde Studie.</article-title>
+<source><italic>Schmerz.</italic></source>
+<year>2010</year>;<volume>24</volume>(<issue>5</issue>):<fpage>494</fpage>&#x02013;<lpage>500</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00482-010-0957-4</pub-id>
+<pub-id pub-id-type="pmid">20706740</pub-id></mixed-citation></ref><ref id="ref-38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zeng</surname><given-names>C</given-names></name><name><surname>Li</surname><given-names>H</given-names></name><name><surname>Yang</surname><given-names>T</given-names></name><name><surname>Deng</surname><given-names>Z</given-names></name><etal/></person-group>:
+<article-title>Electrical stimulation for pain relief in knee osteoarthritis: systematic review and network meta-analysis.</article-title>
+<source><italic>Osteoarthritis Cartilage.</italic></source>
+<year>2015</year>;<volume>23</volume>(<issue>2</issue>):<fpage>189</fpage>&#x02013;<lpage>202</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.joca.2014.11.014</pub-id>
+<?supplied-pmid 25497083?><pub-id pub-id-type="pmid">25497083</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/725277008">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harvey</surname><given-names>MP</given-names></name><name><surname>Watier</surname><given-names>A</given-names></name><name><surname>Dufort</surname><given-names>Rouleau &#x000c9;</given-names></name><etal/></person-group>:
+<article-title>Non-invasive stimulation techniques to relieve abdominal/pelvic pain: Is more always better?</article-title>
+<source><italic>World J Gastroenterol.</italic></source>
+<year>2017</year>;<volume>23</volume>(<issue>20</issue>):<fpage>3758</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="doi">10.3748/wjg.v23.i20.3758</pub-id>
+<!--<pub-id pub-id-type="pmcid">5449433</pub-id>-->
+<?supplied-pmid 28611529?><pub-id pub-id-type="pmid">28611529</pub-id></mixed-citation></ref><ref id="ref-40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Azatcam</surname><given-names>G</given-names></name><name><surname>Atalay</surname><given-names>NS</given-names></name><name><surname>Akkaya</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>Comparison of effectiveness of Transcutaneous Electrical Nerve Stimulation and Kinesio Taping added to exercises in patients with myofascial pain syndrome.</article-title>
+<source><italic>J Back Musculoskelet Rehabil.</italic></source>
+<year>2017</year>;<volume>30</volume>(<issue>2</issue>):<fpage>291</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.3233/BMR-150503</pub-id>
+<?supplied-pmid 27858689?><pub-id pub-id-type="pmid">27858689</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/730209317">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ferreira</surname><given-names>AP</given-names></name><name><surname>Costa</surname><given-names>DR</given-names></name><name><surname>Oliveira</surname><given-names>AI</given-names></name><etal/></person-group>:
+<article-title>Short-term transcutaneous electrical nerve stimulation reduces pain and improves the masticatory muscle activity in temporomandibular disorder patients: a randomized controlled trial.</article-title>
+<source><italic>J Appl Oral Sci.</italic></source>
+<year>2017</year>;<volume>25</volume>(<issue>2</issue>):<fpage>112</fpage>&#x02013;<lpage>20</lpage>.
+<pub-id pub-id-type="doi">10.1590/1678-77572016-0173</pub-id>
+<!--<pub-id pub-id-type="pmcid">5393531</pub-id>-->
+<?supplied-pmid 28403351?><pub-id pub-id-type="pmid">28403351</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727522946">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Page</surname><given-names>MJ</given-names></name><name><surname>Green</surname><given-names>S</given-names></name><name><surname>Mrocki</surname><given-names>MA</given-names></name><etal/></person-group>:
+<article-title>Electrotherapy modalities for rotator cuff disease.</article-title>
+<source><italic>Cochrane Database Syst Rev.</italic></source>
+<year>2016</year>; (<issue>6</issue>):<fpage>CD012225</fpage>.
+<pub-id pub-id-type="doi">10.1002/14651858.CD012225</pub-id>
+<?supplied-pmid 27283591?><pub-id pub-id-type="pmid">27283591</pub-id></mixed-citation></ref><ref id="ref-43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ramanathan</surname><given-names>D</given-names></name><name><surname>Saleh</surname><given-names>A</given-names></name><name><surname>Klika</surname><given-names>AK</given-names></name><etal/></person-group>:
+<article-title>The Use of Transcutaneous Electrical Nerve Stimulation After Total Knee Arthroplasty: A Prospective Randomized Controlled Trial.</article-title>
+<source><italic>Surg Technol Int.</italic></source>
+<year>2017</year>;<volume>30</volume>:<fpage>425</fpage>&#x02013;<lpage>34</lpage>.
+<?supplied-pmid 28537354?><pub-id pub-id-type="pmid">28537354</pub-id></mixed-citation></ref><ref id="ref-44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Salazar</surname><given-names>AP</given-names></name><name><surname>Stein</surname><given-names>C</given-names></name><name><surname>Marchese</surname><given-names>RR</given-names></name><etal/></person-group>:
+<article-title>Electric Stimulation for Pain Relief in Patients with Fibromyalgia: A Systematic Review and Meta-analysis of Randomized Controlled Trials.</article-title>
+<source><italic>Pain Physician.</italic></source>
+<year>2017</year>;<volume>20</volume>(<issue>2</issue>):<fpage>15</fpage>&#x02013;<lpage>25</lpage>.
+<?supplied-pmid 28158150?><pub-id pub-id-type="pmid">28158150</pub-id></mixed-citation></ref><ref id="ref-45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yokoyama</surname><given-names>M</given-names></name><name><surname>Sun</surname><given-names>X</given-names></name><name><surname>Oku</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Comparison of percutaneous electrical nerve stimulation with transcutaneous electrical nerve stimulation for long-term pain relief in patients with chronic low back pain.</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2004</year>;<volume>98</volume>(<issue>6</issue>):<fpage>1552</fpage>&#x02013;<lpage>6</lpage>, table of contents.
+<pub-id pub-id-type="doi">10.1213/01.ANE.0000112312.94043.DF</pub-id>
+<?supplied-pmid 15155304?><pub-id pub-id-type="pmid">15155304</pub-id></mixed-citation></ref><ref id="ref-46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Q</given-names></name><name><surname>Li</surname><given-names>YN</given-names></name><name><surname>Guo</surname><given-names>YY</given-names></name><etal/></person-group>:
+<article-title>Effects of preconditioning of electro-acupuncture on postoperative cognitive dysfunction in elderly: A prospective, randomized, controlled trial.</article-title>
+<source><italic>Medicine (Baltimore).</italic></source>
+<year>2017</year>;<volume>96</volume>(<issue>26</issue>):<fpage>e7375</fpage>.
+<pub-id pub-id-type="doi">10.1097/MD.0000000000007375</pub-id>
+<!--<pub-id pub-id-type="pmcid">5500085</pub-id>-->
+<?supplied-pmid 28658163?><pub-id pub-id-type="pmid">28658163</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732232810">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ghoname</surname><given-names>EA</given-names></name><name><surname>Craig</surname><given-names>WF</given-names></name><name><surname>White</surname><given-names>PF</given-names></name><etal/></person-group>:
+<article-title>Percutaneous electrical nerve stimulation for low back pain: a randomized crossover study.</article-title>
+<source><italic>JAMA.</italic></source>
+<year>1999</year>;<volume>281</volume>(<issue>9</issue>):<fpage>818</fpage>&#x02013;<lpage>23</lpage>.
+<pub-id pub-id-type="doi">10.1001/jama.281.9.818</pub-id>
+<?supplied-pmid 10071003?><pub-id pub-id-type="pmid">10071003</pub-id></mixed-citation></ref><ref id="ref-48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Le&#x000f3;n-Hern&#x000e1;ndez</surname><given-names>JV</given-names></name><name><surname>Mart&#x000ed;n-Pintado-Zugasti</surname><given-names>A</given-names></name><name><surname>Frutos</surname><given-names>LG</given-names></name><etal/></person-group>:
+<article-title>Immediate and short-term effects of the combination of dry needling and percutaneous TENS on post-needling soreness in patients with chronic myofascial neck pain.</article-title>
+<source><italic>Braz J Phys Ther.</italic></source>
+<year>2016</year>;<volume>20</volume>(<issue>5</issue>):<fpage>422</fpage>&#x02013;<lpage>31</lpage>.
+<pub-id pub-id-type="doi">10.1590/bjpt-rbf.2014.0176</pub-id>
+<!--<pub-id pub-id-type="pmcid">5123263</pub-id>-->
+<?supplied-pmid 27410163?><pub-id pub-id-type="pmid">27410163</pub-id></mixed-citation></ref><ref id="ref-49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>PF</given-names></name><name><surname>Li</surname><given-names>S</given-names></name><name><surname>Chiu</surname><given-names>JW</given-names></name></person-group>:
+<article-title>Electroanalgesia: its role in acute and chronic pain management.</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2001</year>;<volume>92</volume>(<issue>2</issue>):<fpage>505</fpage>&#x02013;<lpage>13</lpage>.
+<pub-id pub-id-type="doi">10.1213/00000539-200102000-00042</pub-id>
+<?supplied-pmid 11159259?><pub-id pub-id-type="pmid">11159259</pub-id></mixed-citation></ref><ref id="ref-50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>PF</given-names></name></person-group>:
+<article-title>Electroanalgesia: does it have a place in the routine management of acute and chronic pain?</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2004</year>;<volume>98</volume>(<issue>5</issue>):<fpage>1197</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1213/01.ANE.0000112307.87820.B1</pub-id>
+<?supplied-pmid 15105186?><pub-id pub-id-type="pmid">15105186</pub-id></mixed-citation></ref><ref id="ref-51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qi</surname><given-names>L</given-names></name><name><surname>Tang</surname><given-names>Y</given-names></name><name><surname>You</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Comparing the Effectiveness of Electroacupuncture with Different Grades of Knee Osteoarthritis: A Prospective Study.</article-title>
+<source><italic>Cell Physiol Biochem.</italic></source>
+<year>2016</year>;<volume>39</volume>(<issue>6</issue>):<fpage>2331</fpage>&#x02013;<lpage>40</lpage>.
+<pub-id pub-id-type="doi">10.1159/000447925</pub-id>
+<?supplied-pmid 27832623?><pub-id pub-id-type="pmid">27832623</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726952267">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>SM</given-names></name><name><surname>Kain</surname><given-names>ZN</given-names></name><name><surname>White</surname><given-names>PF</given-names></name></person-group>:
+<article-title>Acupuncture analgesia: II. Clinical considerations.</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2008</year>;<volume>106</volume>(<issue>2</issue>):<fpage>611</fpage>&#x02013;<lpage>21</lpage>, table of contents.
+<pub-id pub-id-type="doi">10.1213/ane.0b013e318160644d</pub-id>
+<?supplied-pmid 18227323?><pub-id pub-id-type="pmid">18227323</pub-id></mixed-citation></ref><ref id="ref-53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gang</surname><given-names>J</given-names></name><name><surname>Mi</surname><given-names>Y</given-names></name><name><surname>Wang</surname><given-names>H</given-names></name></person-group>:
+<article-title>[Clinical efficacy comparison between electroacupuncture and meloxicam in the treatment of knee os- teoarthritis at the early and middle stage: a randomized controlled trial].</article-title>
+<source><italic>Zhongguo Zhen Jiu.</italic></source>
+<year>2016</year>;<volume>36</volume>(<issue>5</issue>):<fpage>467</fpage>&#x02013;<lpage>70</lpage>.
+<pub-id pub-id-type="doi">10.13703/j.0255-2930.2016.05.005</pub-id>
+<?supplied-pmid 27509602?><pub-id pub-id-type="pmid">27509602</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732232817">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ding</surname><given-names>Y</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Shi</surname><given-names>X</given-names></name><etal/></person-group>:
+<article-title>Effect of ultrasound-guided acupotomy vs electro-acupuncture on knee osteoarthritis: a randomized controlled study.</article-title>
+<source><italic>J Tradit Chin Med.</italic></source>
+<year>2016</year>;<volume>36</volume>(<issue>4</issue>):<fpage>450</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0254-6272(16)30060-7</pub-id>
+<?supplied-pmid 28459239?><pub-id pub-id-type="pmid">28459239</pub-id></mixed-citation></ref><ref id="ref-55"><label>55</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Hamblin</surname><given-names>MR</given-names></name><name><surname>Demidova</surname><given-names>TN</given-names></name></person-group>:
+<article-title>Mechanisms of low level light therapy.</article-title>In: Hamblin MR, Waynant RW, Anders J, editors; Saturday 21 January 2006; San Jose CA: SPIE;<year>2006</year>;<fpage>614001</fpage>
+<pub-id pub-id-type="doi">10.1117/12.646294</pub-id>
+</mixed-citation></ref><ref id="ref-56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ojea</surname><given-names>AR</given-names></name><name><surname>Madi</surname><given-names>O</given-names></name><name><surname>Neto</surname><given-names>RM</given-names></name><etal/></person-group>:
+<article-title>Beneficial Effects of Applying Low-Level Laser Therapy to Surgical Wounds After Bariatric Surgery.</article-title>
+<source><italic>Photomed Laser Surg.</italic></source>
+<year>2016</year>;<volume>34</volume>(<issue>11</issue>):<fpage>580</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1089/pho.2016.4149</pub-id>
+<?supplied-pmid 27841968?><pub-id pub-id-type="pmid">27841968</pub-id></mixed-citation></ref><ref id="ref-57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Flemming</surname><given-names>K</given-names></name><name><surname>Cullum</surname><given-names>N</given-names></name></person-group>:
+<article-title>Systematic reviews of wound care management: Low-level laser therapy, therapeutic ultrasound, electrotherapy and electromagnetic therapy for the treatment of chronic wounds.</article-title>
+<source><italic>Health Technol Assess.</italic></source>
+<year>2001</year>;<volume>5</volume>:<fpage>137</fpage>&#x02013;<lpage>221</lpage>.</mixed-citation></ref><ref id="ref-58"><label>58</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Schneider</surname><given-names>WL</given-names></name><name><surname>Hailey</surname><given-names>D</given-names></name></person-group>:
+<article-title>Low level laser therapy for wound healing</article-title>. Health Technology Assessment. HTA 19. Edmonton, AB: Alberta Heritage Foundation for Medical Research (AHFMR).<year>1999</year>;<fpage>1</fpage>&#x02013;<lpage>23</lpage>.
+<ext-link ext-link-type="uri" xlink:href="https://www.ihe.ca/download/low_level_laser_therapy_for_wound_healing.pdf">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Posten</surname><given-names>W</given-names></name><name><surname>Wrone</surname><given-names>DA</given-names></name><name><surname>Dover</surname><given-names>JS</given-names></name><etal/></person-group>:
+<article-title>Low-level laser therapy for wound healing: mechanism and efficacy.</article-title>
+<source><italic>Dermatol Surg.</italic></source>
+<year>2005</year>;<volume>31</volume>(<issue>3</issue>):<fpage>334</fpage>&#x02013;<lpage>40</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1524-4725.2005.31086</pub-id>
+<?supplied-pmid 15841638?><pub-id pub-id-type="pmid">15841638</pub-id></mixed-citation></ref><ref id="ref-60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sousa</surname><given-names>RG</given-names></name><name><surname>Batista Kde</surname><given-names>N</given-names></name></person-group>:
+<article-title>Laser therapy in wound healing associated with diabetes mellitus - Review.</article-title>
+<source><italic>An Bras Dermatol.</italic></source>
+<year>2016</year>;<volume>91</volume>(<issue>4</issue>):<fpage>489</fpage>&#x02013;<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1590/abd1806-4841.20163778</pub-id>
+<!--<pub-id pub-id-type="pmcid">4999108</pub-id>-->
+<?supplied-pmid 27579745?><pub-id pub-id-type="pmid">27579745</pub-id></mixed-citation></ref><ref id="ref-61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ezzat</surname><given-names>AE</given-names></name><name><surname>El-Shenawy</surname><given-names>HM</given-names></name><name><surname>El-Begermy</surname><given-names>MM</given-names></name><etal/></person-group>:
+<article-title>The effectiveness of low-level laser on postoperative pain and edema in secondary palatal operation.</article-title>
+<source><italic>Int J Pediatr Otorhinolaryngol.</italic></source>
+<year>2016</year>;<volume>89</volume>:<fpage>183</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ijporl.2016.07.038</pub-id>
+<?supplied-pmid 27566848?><pub-id pub-id-type="pmid">27566848</pub-id></mixed-citation></ref><ref id="ref-62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hawkins</surname><given-names>D</given-names></name><name><surname>Abrahamse</surname><given-names>H</given-names></name></person-group>:
+<article-title>Phototherapy - a treatment modality for wound healing and pain relief.</article-title>
+<source><italic>Afr J Biomed Res.</italic></source>
+<year>2007</year>;<volume>10</volume>(<issue>2</issue>):<fpage>99</fpage>&#x02013;<lpage>109</lpage>.
+<pub-id pub-id-type="doi">10.4314/ajbr.v10i2.50626</pub-id>
+</mixed-citation></ref><ref id="ref-63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>YT</given-names></name><name><surname>Wang</surname><given-names>HH</given-names></name><name><surname>Wang</surname><given-names>TJ</given-names></name><etal/></person-group>:
+<article-title>Early application of low-level laser may reduce the incidence of postherpetic neuralgia (PHN).</article-title>
+<source><italic>J Am Acad Dermatol.</italic></source>
+<year>2016</year>;<volume>75</volume>(<issue>3</issue>):<fpage>572</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jaad.2016.03.050</pub-id>
+<?supplied-pmid 27543213?><pub-id pub-id-type="pmid">27543213</pub-id></mixed-citation></ref><ref id="ref-64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pol</surname><given-names>R</given-names></name><name><surname>Gallesio</surname><given-names>G</given-names></name><name><surname>Riso</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Effects of Superpulsed, Low-Level Laser Therapy on Neurosensory Recovery of the Inferior Alveolar Nerve.</article-title>
+<source><italic>J Craniofac Surg.</italic></source>
+<year>2016</year>;<volume>27</volume>(<issue>5</issue>):<fpage>1215</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1097/SCS.0000000000002757</pub-id>
+<?supplied-pmid 27391492?><pub-id pub-id-type="pmid">27391492</pub-id></mixed-citation></ref><ref id="ref-65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pol</surname><given-names>R</given-names></name><name><surname>Ruggiero</surname><given-names>T</given-names></name><name><surname>Gallesio</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>Efficacy of Anti-Inflammatory and Analgesic of Superpulsed Low Level Laser Therapy After Impacted Mandibular Third Molars Extractions.</article-title>
+<source><italic>J Craniofac Surg.</italic></source>
+<year>2016</year>;<volume>27</volume>(<issue>3</issue>):<fpage>685</fpage>&#x02013;<lpage>90</lpage>.
+<pub-id pub-id-type="doi">10.1097/SCS.0000000000002523</pub-id>
+<?supplied-pmid 27159857?><pub-id pub-id-type="pmid">27159857</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732232827">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eshghpour</surname><given-names>M</given-names></name><name><surname>Ahrari</surname><given-names>F</given-names></name><name><surname>Takallu</surname><given-names>M</given-names></name></person-group>:
+<article-title>Is Low-Level Laser Therapy Effective in the Management of Pain and Swelling After Mandibular Third Molar Surgery?</article-title>
+<source><italic>J Oral Maxillofac Surg.</italic></source>
+<year>2016</year>;<volume>74</volume>(<issue>7</issue>):<fpage>1322.e1</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.joms.2016.02.030</pub-id>
+<?supplied-pmid 27055228?><pub-id pub-id-type="pmid">27055228</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726473982">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Coca</surname><given-names>KP</given-names></name><name><surname>Marcacine</surname><given-names>KO</given-names></name><name><surname>Gamba</surname><given-names>MA</given-names></name><etal/></person-group>:
+<article-title>Efficacy of Low-Level Laser Therapy in Relieving Nipple Pain in Breastfeeding Women: A Triple-Blind, Randomized, Controlled Trial.</article-title>
+<source><italic>Pain Manag Nurs.</italic></source>
+<year>2016</year>;<volume>17</volume>(<issue>4</issue>):<fpage>281</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.pmn.2016.05.003</pub-id>
+<?supplied-pmid 27363734?><pub-id pub-id-type="pmid">27363734</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/730196861">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Macias</surname><given-names>DM</given-names></name><name><surname>Coughlin</surname><given-names>MJ</given-names></name><name><surname>Zang</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Low-Level Laser Therapy at 635 nm for Treatment of Chronic Plantar Fasciitis: A Placebo-Controlled, Randomized Study.</article-title>
+<source><italic>J Foot Ankle Surg.</italic></source>
+<year>2015</year>;<volume>54</volume>(<issue>5</issue>):<fpage>768</fpage>&#x02013;<lpage>72</lpage>.
+<pub-id pub-id-type="doi">10.1053/j.jfas.2014.12.014</pub-id>
+<?supplied-pmid 25769363?><pub-id pub-id-type="pmid">25769363</pub-id></mixed-citation></ref><ref id="ref-69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jastifer</surname><given-names>JR</given-names></name><name><surname>Catena</surname><given-names>F</given-names></name><name><surname>Doty</surname><given-names>JF</given-names></name><etal/></person-group>:
+<article-title>Low-Level Laser Therapy for the Treatment of Chronic Plantar Fasciitis:
+<italic>A Prospective Study</italic>.</article-title>
+<source><italic>Foot Ankle Int.</italic></source>
+<year>2014</year>;<volume>35</volume>(<issue>6</issue>):<fpage>566</fpage>&#x02013;<lpage>71</lpage>.
+<pub-id pub-id-type="doi">10.1177/1071100714523275</pub-id>
+<?supplied-pmid 24510123?><pub-id pub-id-type="pmid">24510123</pub-id></mixed-citation></ref><ref id="ref-70"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>Z</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Effectiveness of low-level laser on carpal tunnel syndrome: A meta-analysis of previously reported randomized trials.</article-title>
+<source><italic>Medicine (Baltimore).</italic></source>
+<year>2016</year>;<volume>95</volume>(<issue>31</issue>):<fpage>e4424</fpage>.
+<pub-id pub-id-type="doi">10.1097/MD.0000000000004424</pub-id>
+<!--<pub-id pub-id-type="pmcid">4979817</pub-id>-->
+<?supplied-pmid 27495063?><pub-id pub-id-type="pmid">27495063</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726620660">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-71"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Magri</surname><given-names>LV</given-names></name><name><surname>Carvalho</surname><given-names>VA</given-names></name><name><surname>Rodrigues</surname><given-names>FC</given-names></name><etal/></person-group>:
+<article-title>Effectiveness of low-level laser therapy on pain intensity, pressure pain threshold, and SF-MPQ indexes of women with myofascial pain.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2017</year>;<volume>32</volume>(<issue>2</issue>):<fpage>419</fpage>&#x02013;<lpage>28</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-016-2138-x</pub-id>
+<?supplied-pmid 28054261?><pub-id pub-id-type="pmid">28054261</pub-id></mixed-citation></ref><ref id="ref-72"><label>72</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fernandes</surname><given-names>GA</given-names></name><name><surname>Ara&#x000fa;jo J&#x000fa;nior</surname><given-names>RB</given-names></name><name><surname>Lima</surname><given-names>AC</given-names></name><etal/></person-group>:
+<article-title>Low-intensity laser (660 NM) has analgesic effects on sternotomy of patients who underwent coronary artery bypass grafts.</article-title>
+<source><italic>Ann Card Anaesth.</italic></source>
+<year>2017</year>;<volume>20</volume>(<issue>1</issue>):<fpage>52</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.4103/0971-9784.197836</pub-id>
+<!--<pub-id pub-id-type="pmcid">5290696</pub-id>-->
+<?supplied-pmid 28074796?><pub-id pub-id-type="pmid">28074796</pub-id></mixed-citation></ref><ref id="ref-73"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lima</surname><given-names>AC</given-names></name><name><surname>Fernandes</surname><given-names>GA</given-names></name><name><surname>Gonzaga</surname><given-names>IC</given-names></name><etal/></person-group>:
+<article-title>Low-Level Laser and Light-Emitting Diode Therapy for Pain Control in Hyperglycemic and Normoglycemic Patients Who Underwent Coronary Bypass Surgery with Internal Mammary Artery Grafts: A Randomized, Double-Blind Study with Follow-Up.</article-title>
+<source><italic>Photomed Laser Surg.</italic></source>
+<year>2016</year>;<volume>34</volume>(<issue>6</issue>):<fpage>244</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="doi">10.1089/pho.2015.4049</pub-id>
+<?supplied-pmid 27081873?><pub-id pub-id-type="pmid">27081873</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732232841">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-74"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fallah</surname><given-names>A</given-names></name><name><surname>Mirzaei</surname><given-names>A</given-names></name><name><surname>Gutknecht</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>Clinical effectiveness of low-level laser treatment on peripheral somatosensory neuropathy.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2017</year>;<volume>32</volume>(<issue>3</issue>):<fpage>721</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-016-2137-y</pub-id>
+<?supplied-pmid 28074305?><pub-id pub-id-type="pmid">28074305</pub-id></mixed-citation></ref><ref id="ref-75"><label>75</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Andrade</surname><given-names>AL</given-names></name><name><surname>Bossini</surname><given-names>PS</given-names></name><name><surname>Parizotto</surname><given-names>NA</given-names></name></person-group>:
+<article-title>Use of low level laser therapy to control neuropathic pain: A systematic review.</article-title>
+<source><italic>J Photochem Photobiol B.</italic></source>
+<year>2016</year>;<volume>164</volume>:<fpage>36</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jphotobiol.2016.08.025</pub-id>
+<?supplied-pmid 27639607?><pub-id pub-id-type="pmid">27639607</pub-id></mixed-citation></ref><ref id="ref-76"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basford</surname><given-names>JR</given-names></name><name><surname>Malanga</surname><given-names>GA</given-names></name><name><surname>Krause</surname><given-names>DA</given-names></name><etal/></person-group>:
+<article-title>A randomized controlled evaluation of low-intensity laser therapy: plantar fasciitis.</article-title>
+<source><italic>Arch Phys Med Rehabil.</italic></source>
+<year>1998</year>;<volume>79</volume>(<issue>3</issue>):<fpage>249</fpage>&#x02013;<lpage>54</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0003-9993(98)90002-8</pub-id>
+<?supplied-pmid 9523774?><pub-id pub-id-type="pmid">9523774</pub-id></mixed-citation></ref><ref id="ref-77"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>G&#x000fc;r</surname><given-names>A</given-names></name><name><surname>Karakoc</surname><given-names>M</given-names></name><name><surname>Nas</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Effects of low power laser and low dose amitriptyline therapy on clinical symptoms and quality of life in fibromyalgia: a single-blind, placebo-controlled trial.</article-title>
+<source><italic>Rheumatol Int.</italic></source>
+<year>2002</year>;<volume>22</volume>(<issue>5</issue>):<fpage>188</fpage>&#x02013;<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00296-002-0221-z</pub-id>
+<?supplied-pmid 12215864?><pub-id pub-id-type="pmid">12215864</pub-id></mixed-citation></ref><ref id="ref-78"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>G&#x000fc;r</surname><given-names>A</given-names></name><name><surname>Karako&#x000e7;</surname><given-names>M</given-names></name><name><surname>Nas</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Efficacy of low power laser therapy in fibromyalgia: a single-blind, placebo-controlled trial.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2002</year>;<volume>17</volume>(<issue>1</issue>):<fpage>57</fpage>&#x02013;<lpage>61</lpage>.
+<?supplied-pmid 11845369?><pub-id pub-id-type="pmid">11845369</pub-id></mixed-citation></ref><ref id="ref-79"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vayvay</surname><given-names>ES</given-names></name><name><surname>Tok</surname><given-names>D</given-names></name><name><surname>Turgut</surname><given-names>E</given-names></name><etal/></person-group>:
+<article-title>The effect of Laser and taping on pain, functional status and quality of life in patients with fibromyalgia syndrome: A placebo- randomized controlled clinical trial.</article-title>
+<source><italic>J Back Musculoskelet Rehabil.</italic></source>
+<year>2016</year>;<volume>29</volume>(<issue>1</issue>):<fpage>77</fpage>&#x02013;<lpage>83</lpage>.
+<pub-id pub-id-type="doi">10.3233/BMR-150600</pub-id>
+<?supplied-pmid 26406218?><pub-id pub-id-type="pmid">26406218</pub-id></mixed-citation></ref><ref id="ref-80"><label>80</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eslamipour</surname><given-names>F</given-names></name><name><surname>Motamedian</surname><given-names>SR</given-names></name><name><surname>Bagheri</surname><given-names>F</given-names></name></person-group>:
+<article-title>Ibuprofen and Low-level Laser Therapy for Pain Control during Fixed Orthodontic Therapy: A Systematic Review of Randomized Controlled Trials and Meta-analysis.</article-title>
+<source><italic>J Contemp Dent Pract.</italic></source>
+<year>2017</year>;<volume>18</volume>(<issue>6</issue>):<fpage>527</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="doi">10.5005/jp-journals-10024-2078</pub-id>
+<?supplied-pmid 28621287?><pub-id pub-id-type="pmid">28621287</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732232844">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-81"><label>81</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alan</surname><given-names>H</given-names></name><name><surname>Yolcu</surname><given-names>&#x000dc;</given-names></name><name><surname>Koparal</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Evaluation of the effects of the low-level laser therapy on swelling, pain, and trismus after removal of impacted lower third molar.</article-title>
+<source><italic>Head Face Med.</italic></source>
+<year>2016</year>;<volume>12</volume>(<issue>1</issue>):<fpage>25</fpage>.
+<pub-id pub-id-type="doi">10.1186/s13005-016-0121-1</pub-id>
+<!--<pub-id pub-id-type="pmcid">4960798</pub-id>-->
+<?supplied-pmid 27457369?><pub-id pub-id-type="pmid">27457369</pub-id></mixed-citation></ref><ref id="ref-82"><label>82</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Santinoni</surname><given-names>CD</given-names></name><name><surname>Oliveira</surname><given-names>HF</given-names></name><name><surname>Batista</surname><given-names>VE</given-names></name><etal/></person-group>:
+<article-title>Influence of low-level laser therapy on the healing of human bone maxillofacial defects: A systematic review.</article-title>
+<source><italic>J Photochem Photobiol B.</italic></source>
+<year>2017</year>;<volume>169</volume>:<fpage>83</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jphotobiol.2017.03.004</pub-id>
+<?supplied-pmid 28292696?><pub-id pub-id-type="pmid">28292696</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727661361">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-83"><label>83</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>J</given-names></name><name><surname>Huang</surname><given-names>Z</given-names></name><name><surname>Ge</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Efficacy of low-level laser therapy in the treatment of TMDs: a meta-analysis of 14 randomised controlled trials.</article-title>
+<source><italic>J Oral Rehabil.</italic></source>
+<year>2015</year>;<volume>42</volume>(<issue>4</issue>):<fpage>291</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1111/joor.12258</pub-id>
+<?supplied-pmid 25491183?><pub-id pub-id-type="pmid">25491183</pub-id></mixed-citation></ref><ref id="ref-84"><label>84</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Javed</surname><given-names>F</given-names></name><name><surname>Kellesarian</surname><given-names>SV</given-names></name><name><surname>Romanos</surname><given-names>GE</given-names></name></person-group>:
+<article-title>Role of diode lasers in oro-facial pain management.</article-title>
+<source><italic>J Biol Regul Homeost Agents.</italic></source>
+<year>2017</year>;<volume>31</volume>(<issue>1</issue>):<fpage>153</fpage>&#x02013;<lpage>5</lpage>.
+<?supplied-pmid 28337885?><pub-id pub-id-type="pmid">28337885</pub-id></mixed-citation></ref><ref id="ref-85"><label>85</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lima</surname><given-names>AG</given-names></name><name><surname>Antequera</surname><given-names>R</given-names></name><name><surname>Peres</surname><given-names>MP</given-names></name><etal/></person-group>:
+<article-title>Efficacy of low-level laser therapy and aluminum hydroxide in patients with chemotherapy and radiotherapy-induced oral mucositis.</article-title>
+<source><italic>Braz Dent J.</italic></source>
+<year>2010</year>;<volume>21</volume>(<issue>3</issue>):<fpage>186</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="doi">10.1590/S0103-64402010000300002</pub-id>
+<?supplied-pmid 21203698?><pub-id pub-id-type="pmid">21203698</pub-id></mixed-citation></ref><ref id="ref-86"><label>86</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gouv&#x000ea;a de Lima</surname><given-names>A</given-names></name><name><surname>Villar</surname><given-names>RC</given-names></name><name><surname>de Castro</surname><given-names>G</given-names><suffix>Jr</suffix></name><etal/></person-group>:
+<article-title>Oral mucositis prevention by low-level laser therapy in head-and-neck cancer patients undergoing concurrent chemoradiotherapy: a phase III randomized study.</article-title>
+<source><italic>Int J Radiat Oncol Biol Phys.</italic></source>
+<year>2012</year>;<volume>82</volume>(<issue>1</issue>):<fpage>270</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ijrobp.2010.10.012</pub-id>
+<?supplied-pmid 21163585?><pub-id pub-id-type="pmid">21163585</pub-id></mixed-citation></ref><ref id="ref-87"><label>87</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oton-Leite</surname><given-names>AF</given-names></name><name><surname>Elias</surname><given-names>LS</given-names></name><name><surname>Morais</surname><given-names>MO</given-names></name><etal/></person-group>:
+<article-title>Effect of low level laser therapy in the reduction of oral complications in patients with cancer of the head and neck submitted to radiotherapy.</article-title>
+<source><italic>Spec Care Dentist.</italic></source>
+<year>2013</year>;<volume>33</volume>(<issue>6</issue>):<fpage>294</fpage>&#x02013;<lpage>300</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1754-4505.2012.00303.x</pub-id>
+<?supplied-pmid 24164228?><pub-id pub-id-type="pmid">24164228</pub-id></mixed-citation></ref><ref id="ref-88"><label>88</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gautam</surname><given-names>AP</given-names></name><name><surname>Fernandes</surname><given-names>DJ</given-names></name><name><surname>Vidyasagar</surname><given-names>MS</given-names></name><etal/></person-group>:
+<article-title>Effect of low-level laser therapy on patient reported measures of oral mucositis and quality of life in head and neck cancer patients receiving chemoradiotherapy--a randomized controlled trial.</article-title>
+<source><italic>Support Care Cancer.</italic></source>
+<year>2013</year>;<volume>21</volume>(<issue>5</issue>):<fpage>1421</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00520-012-1684-4</pub-id>
+<?supplied-pmid 23224689?><pub-id pub-id-type="pmid">23224689</pub-id></mixed-citation></ref><ref id="ref-89"><label>89</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Amadori</surname><given-names>F</given-names></name><name><surname>Bardellini</surname><given-names>E</given-names></name><name><surname>Conti</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>Low-level laser therapy for treatment of chemotherapy-induced oral mucositis in childhood: a randomized double-blind controlled study.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2016</year>;<volume>31</volume>(<issue>6</issue>):<fpage>1231</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-016-1975-y</pub-id>
+<?supplied-pmid 27272517?><pub-id pub-id-type="pmid">27272517</pub-id></mixed-citation></ref><ref id="ref-90"><label>90</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zanin</surname><given-names>T</given-names></name><name><surname>Zanin</surname><given-names>F</given-names></name><name><surname>Carvalhosa</surname><given-names>AA</given-names></name><etal/></person-group>:
+<article-title>Use of 660-nm diode laser in the prevention and treatment of human oral mucositis induced by radiotherapy and chemotherapy.</article-title>
+<source><italic>Photomed Laser Surg.</italic></source>
+<year>2010</year>;<volume>28</volume>(<issue>2</issue>):<fpage>233</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1089/pho.2008.2242</pub-id>
+<?supplied-pmid 19764899?><pub-id pub-id-type="pmid">19764899</pub-id></mixed-citation></ref><ref id="ref-91"><label>91</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Storz</surname><given-names>MA</given-names></name><name><surname>Gronwald</surname><given-names>B</given-names></name><name><surname>Gottschling</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Photobiomodulation therapy in breast cancer-related lymphedema: a randomized placebo-controlled trial.</article-title>
+<source><italic>Photodermatol Photoimmunol Photomed.</italic></source>
+<year>2017</year>;<volume>33</volume>(<issue>1</issue>):<fpage>32</fpage>&#x02013;<lpage>40</lpage>.
+<pub-id pub-id-type="doi">10.1111/phpp.12284</pub-id>
+<?supplied-pmid 27943450?><pub-id pub-id-type="pmid">27943450</pub-id></mixed-citation></ref><ref id="ref-92"><label>92</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ebid</surname><given-names>AA</given-names></name><name><surname>El-Sodany</surname><given-names>AM</given-names></name></person-group>:
+<article-title>Long-term effect of pulsed high-intensity laser therapy in the treatment of post-mastectomy pain syndrome: a double blind, placebo-control, randomized study.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2015</year>;<volume>30</volume>(<issue>6</issue>):<fpage>1747</fpage>&#x02013;<lpage>55</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-015-1780-z</pub-id>
+<?supplied-pmid 26115690?><pub-id pub-id-type="pmid">26115690</pub-id></mixed-citation></ref><ref id="ref-93"><label>93</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Robijns</surname><given-names>J</given-names></name><name><surname>Censabella</surname><given-names>S</given-names></name><name><surname>Bulens</surname><given-names>P</given-names></name><etal/></person-group>:
+<article-title>The use of low-level light therapy in supportive care for patients with breast cancer: review of the literature.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2017</year>;<volume>32</volume>(<issue>1</issue>):<fpage>229</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-016-2056-y</pub-id>
+<?supplied-pmid 27539464?><pub-id pub-id-type="pmid">27539464</pub-id></mixed-citation></ref><ref id="ref-94"><label>94</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berns</surname><given-names>MW</given-names></name><name><surname>Nelson</surname><given-names>JS</given-names></name></person-group>:
+<article-title>Laser Applications in Biomedicine. Part I: Biophysics, Cell Biology, and Biostimulation.</article-title>
+<source><italic>J Laser Appl.</italic></source>
+<year>1988</year>;<volume>1</volume>:<fpage>34</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.2351/1.4745219</pub-id>
+</mixed-citation></ref><ref id="ref-95"><label>95</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGuff</surname><given-names>PE</given-names></name><name><surname>Deterling</surname><given-names>RA</given-names><suffix>Jr</suffix></name><name><surname>Gottlieb</surname><given-names>LS</given-names></name></person-group>:
+<article-title>Tumoricidal effect of laser energy on experimental and human malignant tumors.</article-title>
+<source><italic>N Engl J Med.</italic></source>
+<year>1965</year>;<volume>273</volume>(<issue>9</issue>):<fpage>490</fpage>&#x02013;<lpage>2</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJM196508262730906</pub-id>
+<?supplied-pmid 5318702?><pub-id pub-id-type="pmid">5318702</pub-id></mixed-citation></ref><ref id="ref-96"><label>96</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGuff</surname><given-names>PE</given-names></name><name><surname>Deterling</surname><given-names>RA</given-names><suffix>Jr</suffix></name><name><surname>Gottlieb</surname><given-names>LS</given-names></name></person-group>:
+<article-title>Laser radiation for metastatic malignant melanoma.</article-title>
+<source><italic>JAMA.</italic></source>
+<year>1966</year>;<volume>195</volume>(<issue>5</issue>):<fpage>393</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1001/jama.1966.03100050101035</pub-id>
+<?supplied-pmid 5951900?><pub-id pub-id-type="pmid">5951900</pub-id></mixed-citation></ref><ref id="ref-97"><label>97</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGuff</surname><given-names>PE</given-names></name><name><surname>Gottlieb</surname><given-names>LS</given-names></name><name><surname>Katayama</surname><given-names>I</given-names></name><etal/></person-group>:
+<article-title>Comparative study of effects of laser and/or ionizing radiation therapy on experimental or human malignant tumors.</article-title>
+<source><italic>Am J Roentgenol Radium Ther Nucl Med.</italic></source>
+<year>1966</year>;<volume>96</volume>(<issue>3</issue>):<fpage>744</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.2214/ajr.96.3.744</pub-id>
+<?supplied-pmid 5904886?><pub-id pub-id-type="pmid">5904886</pub-id></mixed-citation></ref><ref id="ref-98"><label>98</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de C Monteiro</surname><given-names>JS</given-names></name><name><surname>Pinheiro</surname><given-names>AN</given-names></name><name><surname>de Oliveira</surname><given-names>SC</given-names></name><etal/></person-group>:
+<article-title>Influence of laser phototherapy (&#x003bb;660 nm) on the outcome of oral chemical carcinogenesis on the hamster cheek pouch model: histological study.</article-title>
+<source><italic>Photomed Laser Surg.</italic></source>
+<year>2011</year>;<volume>29</volume>(<issue>11</issue>):<fpage>741</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1089/pho.2010.2896</pub-id>
+<?supplied-pmid 21718118?><pub-id pub-id-type="pmid">21718118</pub-id></mixed-citation></ref><ref id="ref-99"><label>99</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gavish</surname><given-names>L</given-names></name><name><surname>Asher</surname><given-names>Y</given-names></name><name><surname>Becker</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Low level laser irradiation stimulates mitochondrial membrane potential and disperses subnuclear promyelocytic leukemia protein.</article-title>
+<source><italic>Lasers Surg Med.</italic></source>
+<year>2004</year>;<volume>35</volume>(<issue>5</issue>):<fpage>369</fpage>&#x02013;<lpage>76</lpage>.
+<pub-id pub-id-type="doi">10.1002/lsm.20108</pub-id>
+<?supplied-pmid 15611960?><pub-id pub-id-type="pmid">15611960</pub-id></mixed-citation></ref><ref id="ref-100"><label>100</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karu</surname><given-names>T</given-names></name></person-group>:
+<article-title>Primary and secondary mechanisms of action of visible to near-IR radiation on cells.</article-title>
+<source><italic>J Photochem Photobiol B.</italic></source>
+<year>1999</year>;<volume>49</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>17</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1011-1344(98)00219-X</pub-id>
+<?supplied-pmid 10365442?><pub-id pub-id-type="pmid">10365442</pub-id></mixed-citation></ref><ref id="ref-101"><label>101</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sperandio</surname><given-names>FF</given-names></name><name><surname>Giudice</surname><given-names>FS</given-names></name><name><surname>Corr&#x000ea;a</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>Low-level laser therapy can produce increased aggressiveness of dysplastic and oral cancer cell lines by modulation of Akt/mTOR signaling pathway.</article-title>
+<source><italic>J Biophotonics.</italic></source>
+<year>2013</year>;<volume>6</volume>(<issue>10</issue>):<fpage>839</fpage>&#x02013;<lpage>47</lpage>.
+<pub-id pub-id-type="doi">10.1002/jbio.201300015</pub-id>
+<!--<pub-id pub-id-type="pmcid">3788041</pub-id>-->
+<?supplied-pmid 23554211?><pub-id pub-id-type="pmid">23554211</pub-id></mixed-citation></ref><ref id="ref-102"><label>102</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rhee</surname><given-names>YH</given-names></name><name><surname>Moon</surname><given-names>JH</given-names></name><name><surname>Choi</surname><given-names>SH</given-names></name><etal/></person-group>:
+<article-title>Low-Level Laser Therapy Promoted Aggressive Proliferation and Angiogenesis Through Decreasing of Transforming Growth Factor-&#x003b2;1 and Increasing of Akt/Hypoxia Inducible Factor-1&#x003b1; in Anaplastic Thyroid Cancer.</article-title>
+<source><italic>Photomed Laser Surg.</italic></source>
+<year>2016</year>;<volume>34</volume>(<issue>6</issue>):<fpage>229</fpage>&#x02013;<lpage>35</lpage>.
+<pub-id pub-id-type="doi">10.1089/pho.2015.3968</pub-id>
+<?supplied-pmid 27078192?><pub-id pub-id-type="pmid">27078192</pub-id></mixed-citation></ref><ref id="ref-103"><label>103</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basford</surname><given-names>JR</given-names></name><name><surname>Sheffield</surname><given-names>CG</given-names></name><name><surname>Harmsen</surname><given-names>WS</given-names></name></person-group>:
+<article-title>Laser therapy: a randomized, controlled trial of the effects of low-intensity Nd:YAG laser irradiation on musculoskeletal back pain.</article-title>
+<source><italic>Arch Phys Med Rehabil.</italic></source>
+<year>1999</year>;<volume>80</volume>(<issue>6</issue>):<fpage>647</fpage>&#x02013;<lpage>52</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0003-9993(99)90167-3</pub-id>
+<?supplied-pmid 10378490?><pub-id pub-id-type="pmid">10378490</pub-id></mixed-citation></ref><ref id="ref-104"><label>104</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Glazov</surname><given-names>G</given-names></name><name><surname>Yelland</surname><given-names>M</given-names></name><name><surname>Emery</surname><given-names>J</given-names></name></person-group>:
+<article-title>Low-level laser therapy for chronic non-specific low back pain: a meta-analysis of randomised controlled trials.</article-title>
+<source><italic>Acupunct Med.</italic></source>
+<year>2016</year>;<volume>34</volume>(<issue>5</issue>):<fpage>328</fpage>&#x02013;<lpage>41</lpage>.
+<pub-id pub-id-type="doi">10.1136/acupmed-2015-011036</pub-id>
+<!--<pub-id pub-id-type="pmcid">5099186</pub-id>-->
+<?supplied-pmid 27207675?><pub-id pub-id-type="pmid">27207675</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726373517">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-105"><label>105</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boyraz</surname><given-names>I</given-names></name><name><surname>Yildiz</surname><given-names>A</given-names></name><name><surname>Koc</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Comparison of high-intensity laser therapy and ultrasound treatment in the patients with lumbar discopathy.</article-title>
+<source><italic>Biomed Res Int.</italic></source>
+<year>2015</year>;<volume>2015</volume>: 304328.
+<pub-id pub-id-type="doi">10.1155/2015/304328</pub-id>
+<!--<pub-id pub-id-type="pmcid">4390181</pub-id>-->
+<?supplied-pmid 25883952?><pub-id pub-id-type="pmid">25883952</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732232870">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-106"><label>106</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>L</given-names></name><name><surname>Liu</surname><given-names>D</given-names></name><name><surname>Zou</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>Efficacy of high intensity laser therapy in treatment of patients with lumbar disc protrusion: A randomized controlled trial.</article-title>
+<source><italic>J Back Musculoskelet Rehabil.</italic></source>
+<year>2017</year>.
+<pub-id pub-id-type="doi">10.3233/BMR-170793</pub-id>
+<?supplied-pmid 28854500?><pub-id pub-id-type="pmid">28854500</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732232871">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-107"><label>107</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Choi</surname><given-names>HW</given-names></name><name><surname>Lee</surname><given-names>J</given-names></name><name><surname>Lee</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Effects of high intensity laser therapy on pain and function of patients with chronic back pain.</article-title>
+<source><italic>J Phys Ther Sci.</italic></source>
+<year>2017</year>;<volume>29</volume>(<issue>6</issue>):<fpage>1079</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="doi">10.1589/jpts.29.1079</pub-id>
+<!--<pub-id pub-id-type="pmcid">5468204</pub-id>-->
+<?supplied-pmid 28626329?><pub-id pub-id-type="pmid">28626329</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727731412">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-108"><label>108</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pekyavas</surname><given-names>NO</given-names></name><name><surname>Baltaci</surname><given-names>G</given-names></name></person-group>:
+<article-title>Short-term effects of high-intensity laser therapy, manual therapy, and Kinesio taping in patients with subacromial impingement syndrome.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2016</year>;<volume>31</volume>(<issue>6</issue>):<fpage>1133</fpage>&#x02013;<lpage>41</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-016-1963-2</pub-id>
+<?supplied-pmid 27220527?><pub-id pub-id-type="pmid">27220527</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732106629">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-109"><label>109</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kadhim-Saleh</surname><given-names>A</given-names></name><name><surname>Maganti</surname><given-names>H</given-names></name><name><surname>Ghert</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Is low-level laser therapy in relieving neck pain effective? Systematic review and meta-analysis.</article-title>
+<source><italic>Rheumatol Int.</italic></source>
+<year>2013</year>;<volume>33</volume>(<issue>10</issue>):<fpage>2493</fpage>&#x02013;<lpage>501</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00296-013-2742-z</pub-id>
+<?supplied-pmid 23579335?><pub-id pub-id-type="pmid">23579335</pub-id></mixed-citation></ref><ref id="ref-110"><label>110</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alayat</surname><given-names>MS</given-names></name><name><surname>Atya</surname><given-names>AM</given-names></name><name><surname>Ali</surname><given-names>MM</given-names></name><etal/></person-group>:
+<article-title>Long-term effect of high-intensity laser therapy in the treatment of patients with chronic low back pain: a randomized blinded placebo-controlled trial.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2014</year>;<volume>29</volume>(<issue>3</issue>):<fpage>1065</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-013-1472-5</pub-id>
+<?supplied-pmid 24178907?><pub-id pub-id-type="pmid">24178907</pub-id></mixed-citation></ref><ref id="ref-111"><label>111</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alayat</surname><given-names>MS</given-names></name><name><surname>Mohamed</surname><given-names>AA</given-names></name><name><surname>Helal</surname><given-names>OF</given-names></name><etal/></person-group>:
+<article-title>Efficacy of high-intensity laser therapy in the treatment of chronic neck pain: a randomized double-blind placebo-control trial.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2016</year>;<volume>31</volume>(<issue>4</issue>):<fpage>687</fpage>&#x02013;<lpage>94</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-016-1910-2</pub-id>
+<?supplied-pmid 26914684?><pub-id pub-id-type="pmid">26914684</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726184991">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-112"><label>112</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chow</surname><given-names>RT</given-names></name><name><surname>Johnson</surname><given-names>MI</given-names></name><name><surname>Lopes-Martins</surname><given-names>RA</given-names></name><etal/></person-group>:
+<article-title>Efficacy of low-level laser therapy in the management of neck pain: a systematic review and meta-analysis of randomised placebo or active-treatment controlled trials.</article-title>
+<source><italic>Lancet.</italic></source>
+<year>2009</year>;<volume>374</volume>(<issue>9705</issue>):<fpage>1897</fpage>&#x02013;<lpage>908</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(09)61522-1</pub-id>
+<?supplied-pmid 19913903?><pub-id pub-id-type="pmid">19913903</pub-id></mixed-citation></ref><ref id="ref-113"><label>113</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ha&#x00142;adaj</surname><given-names>R</given-names></name><name><surname>Pingot</surname><given-names>M</given-names></name><name><surname>Topol</surname><given-names>M</given-names></name></person-group>:
+<article-title>The Effectiveness of Cervical Spondylosis Therapy with Saunders Traction Device and High-Intensity Laser Therapy: A Randomized Controlled Trial.</article-title>
+<source><italic>Med Sci Monit.</italic></source>
+<year>2017</year>;<volume>23</volume>:<fpage>335</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.12659/MSM.899454</pub-id>
+<!--<pub-id pub-id-type="pmcid">5279870</pub-id>-->
+<?supplied-pmid 28104903?><pub-id pub-id-type="pmid">28104903</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727228545">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-114"><label>114</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dundar</surname><given-names>U</given-names></name><name><surname>Turkmen</surname><given-names>U</given-names></name><name><surname>Toktas</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Effect of high-intensity laser therapy in the management of myofascial pain syndrome of the trapezius: a double-blind, placebo-controlled study.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2015</year>;<volume>30</volume>(<issue>1</issue>):<fpage>325</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-014-1671-8</pub-id>
+<?supplied-pmid 25274197?><pub-id pub-id-type="pmid">25274197</pub-id></mixed-citation></ref><ref id="ref-115"><label>115</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>GJ</given-names></name><name><surname>Choi</surname><given-names>J</given-names></name><name><surname>Lee</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>The effects of high intensity laser therapy on pain and function in patients with knee osteoarthritis.</article-title>
+<source><italic>J Phys Ther Sci.</italic></source>
+<year>2016</year>;<volume>28</volume>(<issue>11</issue>):<fpage>3197</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1589/jpts.28.3197</pub-id>
+<!--<pub-id pub-id-type="pmcid">5140828</pub-id>-->
+<?supplied-pmid 27942148?><pub-id pub-id-type="pmid">27942148</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727103773">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-116"><label>116</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Angelova</surname><given-names>A</given-names></name><name><surname>Ilieva</surname><given-names>EM</given-names></name></person-group>:
+<article-title>Effectiveness of High Intensity Laser Therapy for Reduction of Pain in Knee Osteoarthritis.</article-title>
+<source><italic>Pain Res Manag.</italic></source>
+<year>2016</year>;<volume>2016</volume>: 9163618.
+<pub-id pub-id-type="doi">10.1155/2016/9163618</pub-id>
+<!--<pub-id pub-id-type="pmcid">5206453</pub-id>-->
+<?supplied-pmid 28096711?><pub-id pub-id-type="pmid">28096711</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732232878">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-117"><label>117</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alayat</surname><given-names>MSM</given-names></name><name><surname>Abdel-Kafy</surname><given-names>EM</given-names></name><name><surname>Elsoudany</surname><given-names>AM</given-names></name><etal/></person-group>:
+<article-title>Efficacy of high intensity laser therapy in the treatment of male with osteopenia or osteoporosis: a randomized placebo-controlled trial.</article-title>
+<source><italic>J Phys Ther Sci.</italic></source>
+<year>2017</year>;<volume>29</volume>(<issue>9</issue>):<fpage>1675</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1589/jpts.29.1675</pub-id>
+<!--<pub-id pub-id-type="pmcid">5599844</pub-id>-->
+<?supplied-pmid 28932011?><pub-id pub-id-type="pmid">28932011</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/731253974">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-118"><label>118</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kheshie</surname><given-names>AR</given-names></name><name><surname>Alayat</surname><given-names>MS</given-names></name><name><surname>Ali</surname><given-names>MM</given-names></name></person-group>:
+<article-title>High-intensity versus low-level laser therapy in the treatment of patients with knee osteoarthritis: a randomized controlled trial.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2014</year>;<volume>29</volume>(<issue>4</issue>):<fpage>1371</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-014-1529-0</pub-id>
+<?supplied-pmid 24487957?><pub-id pub-id-type="pmid">24487957</pub-id></mixed-citation></ref><ref id="ref-119"><label>119</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kul'chitskaya</surname><given-names>DB</given-names></name><name><surname>Konchugova</surname><given-names>TV</given-names></name><name><surname>Luk'yanova</surname><given-names>TV</given-names></name><etal/></person-group>:
+<article-title>[The substantiation for the application of high-intensity laser therapy for the treatment of the patients presenting with gonarthrosis].</article-title>
+<source><italic>Vopr Kurortol Fizioter Lech Fiz Kult.</italic></source>
+<year>2015</year>;<volume>92</volume>(<issue>1</issue>):<fpage>23</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.17116/kurort2015123-26</pub-id>
+<?supplied-pmid 25876430?><pub-id pub-id-type="pmid">25876430</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732232883">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-120"><label>120</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alayat</surname><given-names>MS</given-names></name><name><surname>Elsodany</surname><given-names>AM</given-names></name><name><surname>El Fiky</surname><given-names>AA</given-names></name></person-group>:
+<article-title>Efficacy of high and low level laser therapy in the treatment of Bell's palsy: a randomized double blind placebo-controlled trial.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2014</year>;<volume>29</volume>(<issue>1</issue>):<fpage>335</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-013-1352-z</pub-id>
+<?supplied-pmid 23709010?><pub-id pub-id-type="pmid">23709010</pub-id></mixed-citation></ref><ref id="ref-121"><label>121</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karaca</surname><given-names>B</given-names></name></person-group>:
+<article-title>Effectiveness of High-Intensity Laser Therapy in Subacromial Impingement Syndrome.</article-title>
+<source><italic>Photomed Laser Surg.</italic></source>
+<year>2016</year>;<volume>34</volume>(<issue>6</issue>):<fpage>223</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1089/pho.2015.4005</pub-id>
+<?supplied-pmid 26890913?><pub-id pub-id-type="pmid">26890913</pub-id></mixed-citation></ref><ref id="ref-122"><label>122</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>SH</given-names></name><name><surname>Kim</surname><given-names>YH</given-names></name><name><surname>Lee</surname><given-names>HR</given-names></name><etal/></person-group>:
+<article-title>Short-term effects of high-intensity laser therapy on frozen shoulder: A prospective randomized control study.</article-title>
+<source><italic>Man Ther.</italic></source>
+<year>2015</year>;<volume>20</volume>(<issue>6</issue>):<fpage>751</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.math.2015.02.009</pub-id>
+<?supplied-pmid 25770420?><pub-id pub-id-type="pmid">25770420</pub-id></mixed-citation></ref><ref id="ref-123"><label>123</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Akkurt</surname><given-names>E</given-names></name><name><surname>Kucuksen</surname><given-names>S</given-names></name><name><surname>Y&#x00131;lmaz</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Long term effects of high intensity laser therapy in lateral epicondylitis patients.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2016</year>;<volume>31</volume>(<issue>2</issue>):<fpage>249</fpage>&#x02013;<lpage>53</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-015-1841-3</pub-id>
+<?supplied-pmid 26714978?><pub-id pub-id-type="pmid">26714978</pub-id></mixed-citation></ref><ref id="ref-124"><label>124</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Casale</surname><given-names>R</given-names></name><name><surname>Damiani</surname><given-names>C</given-names></name><name><surname>Maestri</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Pain and electrophysiological parameters are improved by combined 830-1064 high-intensity LASER in symptomatic carpal tunnel syndrome versus Transcutaneous Electrical Nerve Stimulation. A randomized controlled study.</article-title>
+<source><italic>Eur J Phys Rehabil Med.</italic></source>
+<year>2013</year>;<volume>49</volume>(<issue>2</issue>):<fpage>205</fpage>&#x02013;<lpage>11</lpage>.
+<?supplied-pmid 22820819?><pub-id pub-id-type="pmid">22820819</pub-id></mixed-citation></ref><ref id="ref-125"><label>125</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gottschling</surname><given-names>S</given-names></name><name><surname>Meyer</surname><given-names>S</given-names></name><name><surname>Gribova</surname><given-names>I</given-names></name><etal/></person-group>:
+<article-title>Laser acupuncture in children with headache: a double-blind, randomized, bicenter, placebo-controlled trial.</article-title>
+<source><italic>Pain.</italic></source>
+<year>2008</year>;<volume>137</volume>(<issue>2</issue>):<fpage>405</fpage>&#x02013;<lpage>12</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.pain.2007.10.004</pub-id>
+<?supplied-pmid 18022318?><pub-id pub-id-type="pmid">18022318</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1118863">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-126"><label>126</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tomaz de Magalh&#x000e3;es</surname><given-names>M</given-names></name><name><surname>N&#x000fa;&#x000f1;ez</surname><given-names>SC</given-names></name><name><surname>Kato</surname><given-names>IT</given-names></name><etal/></person-group>:
+<article-title>Light therapy modulates serotonin levels and blood flow in women with headache. A preliminary study.</article-title>
+<source><italic>Exp Biol Med (Maywood).</italic></source>
+<year>2016</year>;<volume>241</volume>(<issue>1</issue>):<fpage>40</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1177/1535370215596383</pub-id>
+<!--<pub-id pub-id-type="pmcid">4935433</pub-id>-->
+<?supplied-pmid 26202374?><pub-id pub-id-type="pmid">26202374</pub-id></mixed-citation></ref><ref id="ref-127"><label>127</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Costantini</surname><given-names>D</given-names></name><name><surname>Delogu</surname><given-names>G</given-names></name><name><surname>Lo Bosco</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>The treatment of cranio-facial pain by electroacupuncture and laser irradiation.</article-title>
+<source><italic>Ann Ital Chir.</italic></source>
+<year>1997</year>;<volume>68</volume>(<issue>4</issue>):<fpage>505</fpage>&#x02013;<lpage>9</lpage>.
+<?supplied-pmid 9494181?><pub-id pub-id-type="pmid">9494181</pub-id></mixed-citation></ref><ref id="ref-128"><label>128</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>T</given-names></name><name><surname>Ebihara</surname><given-names>S</given-names></name><name><surname>Ohkuni</surname><given-names>I</given-names></name><etal/></person-group>:
+<article-title>Low Level Laser Therapy for chronic knee joint pain patients.</article-title>
+<source><italic>Laser Ther.</italic></source>
+<year>2014</year>;<volume>23</volume>(<issue>4</issue>):<fpage>273</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.5978/islsm.14-OR-21</pub-id>
+<!--<pub-id pub-id-type="pmcid">4331569</pub-id>-->
+<?supplied-pmid 25705083?><pub-id pub-id-type="pmid">25705083</pub-id></mixed-citation></ref><ref id="ref-129"><label>129</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Youssef</surname><given-names>EF</given-names></name><name><surname>Muaidi</surname><given-names>QI</given-names></name><name><surname>Shanb</surname><given-names>AA</given-names></name></person-group>:
+<article-title>Effect of Laser Therapy on Chronic Osteoarthritis of the Knee in Older Subjects.</article-title>
+<source><italic>J Lasers Med Sci.</italic></source>
+<year>2016</year>;<volume>7</volume>(<issue>2</issue>):<fpage>112</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.15171/jlms.2016.19</pub-id>
+<!--<pub-id pub-id-type="pmcid">4909009</pub-id>-->
+<?supplied-pmid 27330707?><pub-id pub-id-type="pmid">27330707</pub-id></mixed-citation></ref><ref id="ref-130"><label>130</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Viliani</surname><given-names>T</given-names></name><name><surname>Carrabba</surname><given-names>C</given-names></name><name><surname>Mangone</surname><given-names>G</given-names></name></person-group>:
+<article-title>High intensity pulsed Nd: YAG laser in painful knee osteoarthritis: the biostimulatin protocol.</article-title>
+<source><italic>Energy for Health.</italic></source>
+<year>2012</year>;<volume>9</volume>:<fpage>18</fpage>&#x02013;<lpage>22</lpage>.
+<ext-link ext-link-type="uri" xlink:href="https://www.asalaser.com/sites/default/files/documenti/energy-for-health/high_intensity_pulsed_ndyag_knee_osteoarthritis.pdf">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-131"><label>131</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ip</surname><given-names>D</given-names></name></person-group>:
+<article-title>Does addition of low-level laser therapy (LLLT) in conservative care of knee arthritis successfully postpone the need for joint replacement?</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2015</year>;<volume>30</volume>(<issue>9</issue>):<fpage>2335</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-015-1814-6</pub-id>
+<?supplied-pmid 26420240?><pub-id pub-id-type="pmid">26420240</pub-id></mixed-citation></ref><ref id="ref-132"><label>132</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iijima</surname><given-names>K</given-names></name><name><surname>Shimoyama</surname><given-names>N</given-names></name><name><surname>Shimoyama</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Evaluation of analgesic effect of low-power He:Ne laser on postherpetic neuralgia using VAS and modified McGill pain questionnaire.</article-title>
+<source><italic>J Clin Laser Med Surg.</italic></source>
+<year>1991</year>;<volume>9</volume>(<issue>2</issue>):<fpage>121</fpage>&#x02013;<lpage>6</lpage>.
+<?supplied-pmid 10149452?><pub-id pub-id-type="pmid">10149452</pub-id></mixed-citation></ref><ref id="ref-133"><label>133</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iijima</surname><given-names>K</given-names></name><name><surname>Shimoyama</surname><given-names>N</given-names></name><name><surname>Shimoyama</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Effect of repeated irradiation of low-power He-Ne laser in pain relief from postherpetic neuralgia.</article-title>
+<source><italic>Clin J Pain.</italic></source>
+<year>1989</year>;<volume>5</volume>(<issue>3</issue>):<fpage>271</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1097/00002508-198909000-00013</pub-id>
+<?supplied-pmid 2562460?><pub-id pub-id-type="pmid">2562460</pub-id></mixed-citation></ref><ref id="ref-134"><label>134</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zverev</surname><given-names>VV</given-names></name><name><surname>Makarov</surname><given-names>OV</given-names></name><name><surname>Khashukoeva</surname><given-names>AZ</given-names></name><etal/></person-group>:
+<article-title>
+<italic>In vitro</italic> studies of the antiherpetic effect of photodynamic therapy.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2016</year>;<volume>31</volume>(<issue>5</issue>):<fpage>849</fpage>&#x02013;<lpage>55</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-016-1912-0</pub-id>
+<?supplied-pmid 27003896?><pub-id pub-id-type="pmid">27003896</pub-id></mixed-citation></ref><ref id="ref-135"><label>135</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vernon</surname><given-names>LF</given-names></name></person-group>:
+<article-title>Low-level lasert for trigeminal neuralgia.</article-title>
+<source><italic>Practica Pain Management.</italic></source>
+<year>2008</year>;<fpage>56</fpage>&#x02013;<lpage>63</lpage>.
+<ext-link ext-link-type="uri" xlink:href="https://www.practicalpainmanagement.com/pain/neuropathic/trigeminal-neuralgia/low-level-laser-therapy-trigeminal-neuralgia">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-136"><label>136</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Falaki</surname><given-names>F</given-names></name><name><surname>Nejat</surname><given-names>AH</given-names></name><name><surname>Dalirsani</surname><given-names>Z</given-names></name></person-group>:
+<article-title>The Effect of Low-level Laser Therapy on Trigeminal Neuralgia: A Review of Literature.</article-title>
+<source><italic>J Dent Res Dent Clin Dent Prospects.</italic></source>
+<year>2014</year>;<volume>8</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.5681/joddd.2014.001</pub-id>
+<!--<pub-id pub-id-type="pmcid">4091693</pub-id>-->
+<?supplied-pmid 25024832?><pub-id pub-id-type="pmid">25024832</pub-id></mixed-citation></ref><ref id="ref-137"><label>137</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>PF</given-names></name><name><surname>Zafereo</surname><given-names>J</given-names></name><name><surname>Elvir-Lazo</surname><given-names>OL</given-names></name><etal/></person-group>:
+<article-title>Treatment of drug-resistant fibromyalgia symptoms using high-intensity laser therapy: a case-based review.</article-title>
+<source><italic>Rheumatol Int.</italic></source>
+<year>2017</year>;<fpage>1</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00296-017-3856-5</pub-id>
+<?supplied-pmid 29080932?><pub-id pub-id-type="pmid">27885374</pub-id></mixed-citation></ref><ref id="ref-138"><label>138</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>YY</given-names></name><name><surname>Chen</surname><given-names>AC</given-names></name><name><surname>Carroll</surname><given-names>JD</given-names></name><etal/></person-group>:
+<article-title>Biphasic dose response in low level light therapy.</article-title>
+<source><italic>Dose Response.</italic></source>
+<year>2009</year>;<volume>7</volume>(<issue>4</issue>):<fpage>358</fpage>&#x02013;<lpage>83</lpage>.
+<pub-id pub-id-type="doi">10.2203/dose-response.09-027.Hamblin</pub-id>
+<!--<pub-id pub-id-type="pmcid">2790317</pub-id>-->
+<?supplied-pmid 20011653?><pub-id pub-id-type="pmid">20011653</pub-id></mixed-citation></ref><ref id="ref-139"><label>139</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moore</surname><given-names>KC</given-names></name><name><surname>Hira</surname><given-names>N</given-names></name><name><surname>Cruikshank</surname><given-names>JA</given-names></name></person-group>:
+<article-title>The effect of infra-red diode laser irradiation on the duration and severity of postoperative pain: A double-blind trial.</article-title>
+<source><italic>Laser Ther.</italic></source>
+<year>1992</year>;<volume>4</volume>(<issue>4</issue>):<fpage>145</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.5978/islsm.4_92-OR-16</pub-id>
+</mixed-citation></ref><ref id="ref-140"><label>140</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Panton</surname><given-names>L</given-names></name><name><surname>Simonavice</surname><given-names>E</given-names></name><name><surname>Williams</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Effects of Class IV laser therapy on fibromyalgia impact and function in women with fibromyalgia.</article-title>
+<source><italic>J Altern Complement Med.</italic></source>
+<year>2013</year>;<volume>19</volume>(<issue>5</issue>):<fpage>445</fpage>&#x02013;<lpage>52</lpage>.
+<pub-id pub-id-type="doi">10.1089/acm.2011.0398</pub-id>
+<?supplied-pmid 23176373?><pub-id pub-id-type="pmid">23176373</pub-id></mixed-citation></ref><ref id="ref-141"><label>141</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>PF</given-names></name><name><surname>Elvir-Lazo</surname><given-names>OL</given-names></name><name><surname>Hernandez</surname><given-names>H</given-names></name></person-group>:
+<article-title>A novel treatment for chronic opioid use after surgery.</article-title>
+<source><italic>J Clin Anesth.</italic></source>
+<year>2017</year>;<volume>40</volume>:<fpage>51</fpage>&#x02013;<lpage>3</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jclinane.2017.03.046</pub-id>
+<?supplied-pmid 28625446?><pub-id pub-id-type="pmid">28625446</pub-id></mixed-citation></ref><ref id="ref-142"><label>142</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>PF</given-names></name><name><surname>Cao</surname><given-names>X</given-names></name><name><surname>Elvir Lazo</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>Effect of High-Intensity Laser Treatments on Chronic Pain Related to Osteoarthritis in Former Professional Athletes: A Case Series.</article-title>
+<source><italic>J Mol Biomark Diagn.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>343</fpage>
+<pub-id pub-id-type="doi">10.4172/2155-9929.1000343</pub-id>
+</mixed-citation></ref><ref id="ref-143"><label>143</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leal-Junior</surname><given-names>EC</given-names></name><name><surname>Vanin</surname><given-names>AA</given-names></name><name><surname>Miranda</surname><given-names>EF</given-names></name><etal/></person-group>:
+<article-title>Effect of phototherapy (low-level laser therapy and light-emitting diode therapy) on exercise performance and markers of exercise recovery: a systematic review with meta-analysis.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2015</year>;<volume>30</volume>(<issue>2</issue>):<fpage>925</fpage>&#x02013;<lpage>39</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-013-1465-4</pub-id>
+<?supplied-pmid 24249354?><pub-id pub-id-type="pmid">24249354</pub-id></mixed-citation></ref><ref id="ref-144"><label>144</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Oliveira</surname><given-names>AR</given-names></name><name><surname>Vanin</surname><given-names>AA</given-names></name><name><surname>Tomazoni</surname><given-names>SS</given-names></name><etal/></person-group>:
+<article-title>Pre-Exercise Infrared Photobiomodulation Therapy (810nm) in Skeletal Muscle Performance and Postexercise Recovery in Humans: What Is the Optimal Power Output?</article-title>
+<source><italic>Photomed Laser Surg.</italic></source>
+<year>2017</year>;<volume>35</volume>(<issue>11</issue>):<fpage>595</fpage>&#x02013;<lpage>603</lpage>.
+<pub-id pub-id-type="doi">10.1089/pho.2017.4343</pub-id>
+<?supplied-pmid 29099680?><pub-id pub-id-type="pmid">29099680</pub-id></mixed-citation></ref><ref id="ref-145"><label>145</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Foley</surname><given-names>J</given-names></name><name><surname>Vasily</surname><given-names>DB</given-names></name><name><surname>Bradle</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>830 nm light-emitting diode (led) phototherapy significantly reduced return-to-play in injured university athletes: a pilot study.</article-title>
+<source><italic>Laser Ther.</italic></source>
+<year>2016</year>;<volume>25</volume>(<issue>1</issue>):<fpage>35</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.5978/islsm.16-OR-03</pub-id>
+<!--<pub-id pub-id-type="pmcid">4846838</pub-id>-->
+<?supplied-pmid 27141153?><pub-id pub-id-type="pmid">27141153</pub-id></mixed-citation></ref><ref id="ref-146"><label>146</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bordvik</surname><given-names>DH</given-names></name><name><surname>Haslerud</surname><given-names>S</given-names></name><name><surname>Naterstad</surname><given-names>IF</given-names></name><etal/></person-group>:
+<article-title>Penetration Time Profiles for Two Class 3B Lasers in
+<italic>In Situ</italic> Human Achilles at Rest and Stretched.</article-title>
+<source><italic>Photomed Laser Surg.</italic></source>
+<year>2017</year>;<volume>35</volume>(<issue>10</issue>):<fpage>546</fpage>&#x02013;<lpage>54</lpage>.
+<pub-id pub-id-type="doi">10.1089/pho.2016.4257</pub-id>
+<?supplied-pmid 28436746?><pub-id pub-id-type="pmid">28436746</pub-id></mixed-citation></ref><ref id="ref-147"><label>147</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leal-Junior</surname><given-names>EC</given-names></name><name><surname>Johnson</surname><given-names>DS</given-names></name><name><surname>Saltmarche</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Adjunctive use of combination of super-pulsed laser and light-emitting diodes phototherapy on nonspecific knee pain: double-blinded randomized placebo-controlled trial.</article-title>
+<source><italic>Lasers Med Sci.</italic></source>
+<year>2014</year>;<volume>29</volume>(<issue>6</issue>):<fpage>1839</fpage>&#x02013;<lpage>47</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10103-014-1592-6</pub-id>
+<?supplied-pmid 24844921?><pub-id pub-id-type="pmid">24844921</pub-id></mixed-citation></ref><ref id="ref-148"><label>148</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Marchi</surname><given-names>T</given-names></name><name><surname>Schmitt</surname><given-names>VM</given-names></name><name><surname>Dan&#x000fa;bia da Silva Fabro</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Phototherapy for Improvement of Performance and Exercise Recovery: Comparison of 3 Commercially Available Devices.</article-title>
+<source><italic>J Athl Train.</italic></source>
+<year>2017</year>;<volume>52</volume>(<issue>5</issue>):<fpage>429</fpage>&#x02013;<lpage>38</lpage>.
+<pub-id pub-id-type="doi">10.4085/1062-6050-52.2.09</pub-id>
+<!--<pub-id pub-id-type="pmcid">5455246</pub-id>-->
+<?supplied-pmid 28319422?><pub-id pub-id-type="pmid">28319422</pub-id></mixed-citation></ref><ref id="ref-149"><label>149</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Notarnicola</surname><given-names>A</given-names></name><name><surname>Maccagnano</surname><given-names>G</given-names></name><name><surname>Tafuri</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>High level laser therapy for the treatment of lower back pain: clinical efficacy and comparison of different wavelengths.</article-title>
+<source><italic>J Biol Regul Homeost Agents.</italic></source>
+<year>2016</year>;<volume>30</volume>(<issue>4</issue>):<fpage>1157</fpage>&#x02013;<lpage>64</lpage>.
+<?supplied-pmid 28078869?><pub-id pub-id-type="pmid">28078869</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732232884">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-150"><label>150</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murthy</surname><given-names>VH</given-names></name></person-group>:
+<article-title>Ending the Opioid Epidemic - A Call to Action.</article-title>
+<source><italic>N Engl J Med.</italic></source>
+<year>2016</year>;<volume>375</volume>(<issue>25</issue>):<fpage>2413</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMp1612578</pub-id>
+<?supplied-pmid 27959718?><pub-id pub-id-type="pmid">27959718</pub-id></mixed-citation></ref><ref id="ref-151"><label>151</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rudd</surname><given-names>RA</given-names></name><name><surname>Aleshire</surname><given-names>N</given-names></name><name><surname>Zibbell</surname><given-names>JE</given-names></name><etal/></person-group>:
+<article-title>Increases in Drug and Opioid Overdose Deaths--United States, 2000&#x02013;2014.</article-title>
+<source><italic>MMWR Morb Mortal Wkly Rep.</italic></source>
+<year>2016</year>;<volume>64</volume>(<issue>50&#x02013;51</issue>):<fpage>1378</fpage>&#x02013;<lpage>82</lpage>.
+<pub-id pub-id-type="doi">10.15585/mmwr.mm6450a3</pub-id>
+<?supplied-pmid 26720857?><pub-id pub-id-type="pmid">26720857</pub-id></mixed-citation></ref><ref id="ref-152"><label>152</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Compton</surname><given-names>WM</given-names></name><name><surname>Jones</surname><given-names>CM</given-names></name><name><surname>Baldwin</surname><given-names>GT</given-names></name></person-group>:
+<article-title>Relationship between Nonmedical Prescription-Opioid Use and Heroin Use.</article-title>
+<source><italic>N Engl J Med.</italic></source>
+<year>2016</year>;<volume>374</volume>(<issue>2</issue>):<fpage>154</fpage>&#x02013;<lpage>63</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMra1508490</pub-id>
+<?supplied-pmid 26760086?><pub-id pub-id-type="pmid">26760086</pub-id></mixed-citation></ref><ref id="ref-153"><label>153</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Califf</surname><given-names>RM</given-names></name><name><surname>Woodcock</surname><given-names>J</given-names></name><name><surname>Ostroff</surname><given-names>S</given-names></name></person-group>:
+<article-title>A Proactive Response to Prescription Opioid Abuse.</article-title>
+<source><italic>N Engl J Med.</italic></source>
+<year>2016</year>;<volume>374</volume>(<issue>15</issue>):<fpage>1480</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMsr1601307</pub-id>
+<?supplied-pmid 26845291?><pub-id pub-id-type="pmid">26845291</pub-id></mixed-citation></ref><ref id="ref-154"><label>154</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qaseem</surname><given-names>A</given-names></name><name><surname>Wilt</surname><given-names>TJ</given-names></name><name><surname>McLean</surname><given-names>RM</given-names></name><etal/></person-group>:
+<article-title>Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guideline From the American College of Physicians.</article-title>
+<source><italic>Ann Intern Med.</italic></source>
+<year>2017</year>;<volume>166</volume>(<issue>7</issue>):<fpage>514</fpage>&#x02013;<lpage>30</lpage>.
+<pub-id pub-id-type="doi">10.7326/M16-2367</pub-id>
+<?supplied-pmid 28192789?><pub-id pub-id-type="pmid">28192789</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727301677">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-155"><label>155</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dowell</surname><given-names>D</given-names></name><name><surname>Haegerich</surname><given-names>TM</given-names></name><name><surname>Chou</surname><given-names>R</given-names></name></person-group>:
+<article-title>CDC Guideline for Prescribing Opioids for Chronic Pain--United States, 2016.</article-title>
+<source><italic>JAMA.</italic></source>
+<year>2016</year>;<volume>315</volume>(<issue>15</issue>):<fpage>1624</fpage>&#x02013;<lpage>45</lpage>.
+<pub-id pub-id-type="doi">10.1001/jama.2016.1464</pub-id>
+<?supplied-pmid 26977696?><pub-id pub-id-type="pmid">26977696</pub-id></mixed-citation></ref><ref id="ref-156"><label>156</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barnett</surname><given-names>ML</given-names></name><name><surname>Olenski</surname><given-names>AR</given-names></name><name><surname>Jena</surname><given-names>AB</given-names></name></person-group>:
+<article-title>Opioid-Prescribing Patterns of Emergency Physicians and Risk of Long-Term Use.</article-title>
+<source><italic>N Engl J Med.</italic></source>
+<year>2017</year>;<volume>376</volume>(<issue>7</issue>):<fpage>663</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMsa1610524</pub-id>
+<!--<pub-id pub-id-type="pmcid">5428548</pub-id>-->
+<?supplied-pmid 28199807?><pub-id pub-id-type="pmid">28199807</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727307414">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-157"><label>157</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>PF</given-names></name></person-group>:
+<article-title>It is time to consider non-pharmacologic alternatives to opioid analgesics for treating chronic pain.</article-title>
+<source><italic>J Mol Biomark Diagn.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>341</fpage>&#x02013;<lpage>2</lpage>.
+<pub-id pub-id-type="doi">10.4172/2155-9929.1000341</pub-id>
+</mixed-citation></ref><ref id="ref-158"><label>158</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>SM</given-names></name><name><surname>Kain</surname><given-names>ZN</given-names></name><name><surname>White</surname><given-names>P</given-names></name></person-group>:
+<article-title>Acupuncture analgesia: I. The scientific basis.</article-title>
+<source><italic>Anesth Analg.</italic></source>
+<year>2008</year>;<volume>106</volume>(<issue>2</issue>):<fpage>602</fpage>&#x02013;<lpage>10</lpage>.
+<pub-id pub-id-type="doi">10.1213/01.ane.0000277493.42335.7b</pub-id>
+<?supplied-pmid 18227322?><pub-id pub-id-type="pmid">18227322</pub-id></mixed-citation></ref><ref id="ref-159"><label>159</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chow</surname><given-names>R</given-names></name><name><surname>Armati</surname><given-names>P</given-names></name><name><surname>Laakso</surname><given-names>EL</given-names></name><etal/></person-group>:
+<article-title>Inhibitory effects of laser irradiation on peripheral mammalian nerves and relevance to analgesic effects: a systematic review.</article-title>
+<source><italic>Photomed Laser Surg.</italic></source>
+<year>2011</year>;<volume>29</volume>(<issue>6</issue>):<fpage>365</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="doi">10.1089/pho.2010.2928</pub-id>
+<?supplied-pmid 21456946?><pub-id pub-id-type="pmid">21456946</pub-id></mixed-citation></ref><ref id="ref-160"><label>160</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chow</surname><given-names>RT</given-names></name><name><surname>Armati</surname><given-names>PJ</given-names></name></person-group>:
+<article-title>Photobiomodulation: Implications for Anesthesia and Pain Relief.</article-title>
+<source><italic>Photomed Laser Surg.</italic></source>
+<year>2016</year>;<volume>34</volume>(<issue>12</issue>):<fpage>599</fpage>&#x02013;<lpage>609</lpage>.
+<pub-id pub-id-type="doi">10.1089/pho.2015.4048</pub-id>
+<?supplied-pmid 27419354?><pub-id pub-id-type="pmid">27419354</pub-id></mixed-citation></ref></ref-list></back></article>

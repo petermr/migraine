@@ -1,0 +1,560 @@
+{
+  "id": [
+    "26462651"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26462651"
+  ],
+  "pmcid": [
+    "PMC4604632"
+  ],
+  "doi": [
+    "10.1186/s12883-015-0445-7"
+  ],
+  "title": [
+    "The mechanism of neurofeedback training for treatment of central neuropathic pain in paraplegia: a pilot study."
+  ],
+  "authorString": [
+    "Hassan MA, Fraser M, Conway BA, Allan DB, Vuckovic A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hassan MA"
+          ],
+          "firstName": [
+            "Muhammad Abul"
+          ],
+          "lastName": [
+            "Hassan"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, NED University of Engineering and Technology, Karachi, Pakistan. abulhassan85@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Fraser M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Fraser"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Queen Elizabeth National Spinal Injuries Unit, Southern General Hospital, Glasgow, UK. Matthew.Fraser@ggc.scot.nhs.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Conway BA"
+          ],
+          "firstName": [
+            "Bernard A"
+          ],
+          "lastName": [
+            "Conway"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0069-0131",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, University of Strathclyde, Strathclyde, UK. b.a.conway@strath.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Allan DB"
+          ],
+          "firstName": [
+            "David B"
+          ],
+          "lastName": [
+            "Allan"
+          ],
+          "initials": [
+            "DB"
+          ],
+          "affiliation": [
+            "Queen Elizabeth National Spinal Injuries Unit, Southern General Hospital, Glasgow, UK. davidballan@btinternet.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Vuckovic A"
+          ],
+          "firstName": [
+            "Aleksandra"
+          ],
+          "lastName": [
+            "Vuckovic"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Biomedical Engineering Research Division, School of Engineering, University of Glasgow, James Watt building (south), G12 8QQ, Glasgow, UK. aleksandra.vuckovic@glasgow.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0069-0131",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2476685"
+      ],
+      "dateOfPublication": [
+        "2015 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neurology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurol"
+          ],
+          "NLMid": [
+            "100968555"
+          ],
+          "ISSN": [
+            "1471-2377"
+          ],
+          "ESSN": [
+            "1471-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "200"
+  ],
+  "abstractText": [
+    "Central neuropathic pain has a prevalence of 40% in patients with spinal cord injury. Electroencephalography (EEG) studies showed that this type of pain has identifiable signatures, that could potentially be targeted by a neuromodulation therapy. The aim of the study was to investigate the putative mechanism of neurofeedback training on central neuropathic pain and its underlying brain signatures in patients with chronic paraplegia.Patients' EEG activity was modulated from the sensory-motor cortex, electrode location C3/Cz/C4/P4 in up to 40 training sessions Results. Six out of seven patients reported immediate reduction of pain during neurofeedback training. Best results were achieved with suppressing Ɵ and higher β (20-30 Hz) power and reinforcing α power at C4. Four patients reported clinically significant long-term reduction of pain (>30%) which lasted at least a month beyond the therapy. EEG during neurofeedback revealed a wide spread modulation of power in all three frequency bands accompanied with changes in the coherence most notable in the beta band. The standardized low resolution electromagnetic tomography analysis of EEG before and after neurofeedback therapy showed the statistically significant reduction of power in beta frequency band in all tested patients. Areas with reduced power included the Dorsolateral Prefrontal Cortex, the Anterior Cingulate Cortex and the Insular Cortex.Neurofeedback training produces both immediate and longer term reduction of central neuropathic pain that is accompanied with a measurable short and long term modulation of cortical activity. Controlled trials are required to confirm the efficacy of this neurofeedback protocol on treatment of pain. The study is a registered UKCRN clinical trial Nr 9824."
+  ],
+  "affiliation": [
+    "Department of Biomedical Engineering, NED University of Engineering and Technology, Karachi, Pakistan. abulhassan85@yahoo.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "G0902257"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G0902257/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuralgia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Paraplegia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electroencephalography"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurofeedback"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12883-015-0445-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4604632"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4604632?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-06-08"
+  ],
+  "dateOfCreation": [
+    "2015-10-14"
+  ],
+  "firstIndexDate": [
+    "2015-10-15"
+  ],
+  "fullTextReceivedDate": [
+    "2015-10-16"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-13"
+  ],
+  "firstPublicationDate": [
+    "2015-10-13"
+  ]
+}

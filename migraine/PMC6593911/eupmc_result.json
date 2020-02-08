@@ -1,0 +1,271 @@
+{
+  "id": [
+    "31297488"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31297488"
+  ],
+  "pmcid": [
+    "PMC6593911"
+  ],
+  "doi": [
+    "10.14744/nci.2018.59862"
+  ],
+  "title": [
+    "Congenital mirror movement associated with migraine: A case report."
+  ],
+  "authorString": [
+    "Kirik S, Sahin H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kirik S"
+          ],
+          "firstName": [
+            "Serkan"
+          ],
+          "lastName": [
+            "Kirik"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pediatric Neurology, Kahramanamaras Sutcu Imam University Faculty of Medicine, Kahramanamaras, Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Sahin H"
+          ],
+          "firstName": [
+            "Hamza"
+          ],
+          "lastName": [
+            "Sahin"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neurology, Kahramanamaras Sutcu Imam University Faculty of Medicine, Kahramanamaras, Turkey."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2838120"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Northern clinics of Istanbul"
+          ],
+          "ISOAbbreviation": [
+            "North Clin Istanb"
+          ],
+          "medlineAbbreviation": [
+            "North Clin Istanb"
+          ],
+          "NLMid": [
+            "101684520"
+          ],
+          "ISSN": [
+            "2536-4553"
+          ],
+          "ESSN": [
+            "2536-4553"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "189-191"
+  ],
+  "abstractText": [
+    "Mirror movements occur in early childhood due to the maturation of the corpus callosum of noncrossing motor pathways. Such movements are considered normal until the age of 10 and are rarely reported in children older than 10 years. Mirror movements are involuntary movements that occur in the homologous contralateral extremity on voluntary activation. Permanent mirror movements can occur with anomalies; however, also are reported familial and sporadic cases. Migraine is the most common primary headache in childhood. Its prevalence ranges from 1% to 3% between the ages of 3 and 7, and from 8% to 23% in the adolescence. The prevalence of migraine in adolescent girls is higher. For the migraine diagnosis, the imaging studies are unnecessary, and a detailed history and physical examination are sufficient. In this study, we present a case of a 17-year-old girl with mirror movements accompanied by migraine."
+  ],
+  "affiliation": [
+    "Department of Pediatric Neurology, Kahramanamaras Sutcu Imam University Faculty of Medicine, Kahramanamaras, Turkey."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Migraine",
+        "Mirror Movements"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.14744/nci.2018.59862"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6593911"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6593911?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-13"
+  ],
+  "firstIndexDate": [
+    "2019-07-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-13"
+  ],
+  "dateOfRevision": [
+    "2019-07-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-03"
+  ],
+  "firstPublicationDate": [
+    "2018-09-03"
+  ]
+}

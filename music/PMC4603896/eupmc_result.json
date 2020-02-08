@@ -1,0 +1,545 @@
+{
+  "id": [
+    "26461064"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26461064"
+  ],
+  "pmcid": [
+    "PMC4603896"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0140203"
+  ],
+  "title": [
+    "Nurse-Led Medicines' Monitoring for Patients with Dementia in Care Homes: A Pragmatic Cohort Stepped Wedge Cluster Randomised Trial."
+  ],
+  "authorString": [
+    "Jordan S, Gabe-Walters ME, Watkins A, Humphreys I, Newson L, Snelgrove S, Dennis MS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jordan S"
+          ],
+          "firstName": [
+            "Susan"
+          ],
+          "lastName": [
+            "Jordan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5691-2987",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Human and Health Sciences, Swansea University, Swansea, Wales."
+          ]
+        },
+        {
+          "fullName": [
+            "Gabe-Walters ME"
+          ],
+          "firstName": [
+            "Marie Ellenor"
+          ],
+          "lastName": [
+            "Gabe-Walters"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "College of Human and Health Sciences, Swansea University, Swansea, Wales."
+          ]
+        },
+        {
+          "fullName": [
+            "Watkins A"
+          ],
+          "firstName": [
+            "Alan"
+          ],
+          "lastName": [
+            "Watkins"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3804-1943",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Medicine, Swansea University, Swansea, Wales."
+          ]
+        },
+        {
+          "fullName": [
+            "Humphreys I"
+          ],
+          "firstName": [
+            "Ioan"
+          ],
+          "lastName": [
+            "Humphreys"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "College of Human and Health Sciences, Swansea University, Swansea, Wales."
+          ]
+        },
+        {
+          "fullName": [
+            "Newson L"
+          ],
+          "firstName": [
+            "Louise"
+          ],
+          "lastName": [
+            "Newson"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "College of Human and Health Sciences, Swansea University, Swansea, Wales."
+          ]
+        },
+        {
+          "fullName": [
+            "Snelgrove S"
+          ],
+          "firstName": [
+            "Sherrill"
+          ],
+          "lastName": [
+            "Snelgrove"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "College of Human and Health Sciences, Swansea University, Swansea, Wales."
+          ]
+        },
+        {
+          "fullName": [
+            "Dennis MS"
+          ],
+          "firstName": [
+            "Michael S"
+          ],
+          "lastName": [
+            "Dennis"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "College of Medicine, Swansea University, Swansea, Wales."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3804-1943",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5691-2987",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2328612"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "e0140203"
+  ],
+  "abstractText": [
+    "People with dementia are susceptible to adverse drug reactions (ADRs). However, they are not always closely monitored for potential problems relating to their medicines: structured nurse-led ADR Profiles have the potential to address this care gap. We aimed to assess the number and nature of clinical problems identified and addressed and changes in prescribing following introduction of nurse-led medicines' monitoring.Pragmatic cohort stepped-wedge cluster Randomised Controlled Trial (RCT) of structured nurse-led medicines' monitoring versus usual care.Five UK private sector care homes.41 service users, taking at least one antipsychotic, antidepressant or anti-epileptic medicine.Nurses completed the West Wales ADR (WWADR) Profile for Mental Health Medicines with each participant according to trial step.Problems addressed and changes in medicines prescribed.Information was collected from participants' notes before randomisation and after each of five monthly trial steps. The impact of the Profile on problems found, actions taken and reduction in mental health medicines was explored in multivariate analyses, accounting for data collection step and site.Five of 10 sites and 43 of 49 service users approached participated. Profile administration increased the number of problems addressed from a mean of 6.02 [SD 2.92] to 9.86 [4.48], effect size 3.84, 95% CI 2.57-4.11, P <0.001. For example, pain was more likely to be treated (adjusted Odds Ratio [aOR] 3.84, 1.78-8.30), and more patients attended dentists and opticians (aOR 52.76 [11.80-235.90] and 5.12 [1.45-18.03] respectively). Profile use was associated with reduction in mental health medicines (aOR 4.45, 1.15-17.22).The WWADR Profile for Mental Health Medicines can improve the quality and safety of care, and warrants further investigation as a strategy to mitigate the known adverse effects of prescribed medicines.ISRCTN 48133332."
+  ],
+  "affiliation": [
+    "College of Human and Health Sciences, Swansea University, Swansea, Wales."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dementia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Drug Monitoring"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Patient Care"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Demography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Nurses"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prescription Drugs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Prescription Drugs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0140203"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4603896"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4603896?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-06-06"
+  ],
+  "dateOfCreation": [
+    "2015-10-14"
+  ],
+  "firstIndexDate": [
+    "2015-10-14"
+  ],
+  "fullTextReceivedDate": [
+    "2015-10-23"
+  ],
+  "dateOfRevision": [
+    "2015-10-21"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-13"
+  ],
+  "firstPublicationDate": [
+    "2015-10-13"
+  ]
+}

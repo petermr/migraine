@@ -1,0 +1,447 @@
+{
+  "id": [
+    "29497992"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29497992"
+  ],
+  "pmcid": [
+    "PMC5954057"
+  ],
+  "doi": [
+    "10.1007/s40272-018-0287-z"
+  ],
+  "title": [
+    "The Management of Paediatric Functional Abdominal Pain Disorders: Latest Evidence."
+  ],
+  "authorString": [
+    "Brusaferro A, Farinelli E, Zenzeri L, Cozzali R, Esposito S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Brusaferro A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Brusaferro"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Pediatric Clinic, Department of Surgical and Biomedical Sciences, Università degli Studi di Perugia, Piazza Menghini 1, 06129, Perugia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Farinelli E"
+          ],
+          "firstName": [
+            "Edoardo"
+          ],
+          "lastName": [
+            "Farinelli"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6075-0554",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Clinic, Department of Surgical and Biomedical Sciences, Università degli Studi di Perugia, Piazza Menghini 1, 06129, Perugia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Zenzeri L"
+          ],
+          "firstName": [
+            "Letizia"
+          ],
+          "lastName": [
+            "Zenzeri"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5220-680X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Clinic, Department of Surgical and Biomedical Sciences, Università degli Studi di Perugia, Piazza Menghini 1, 06129, Perugia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cozzali R"
+          ],
+          "firstName": [
+            "Rita"
+          ],
+          "lastName": [
+            "Cozzali"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Pediatric Clinic, Department of Surgical and Biomedical Sciences, Università degli Studi di Perugia, Piazza Menghini 1, 06129, Perugia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Esposito S"
+          ],
+          "firstName": [
+            "Susanna"
+          ],
+          "lastName": [
+            "Esposito"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4103-2837",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Clinic, Department of Surgical and Biomedical Sciences, Università degli Studi di Perugia, Piazza Menghini 1, 06129, Perugia, Italy. susanna.esposito@unimi.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5220-680X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4103-2837",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6075-0554",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2684880"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Paediatric drugs"
+          ],
+          "ISOAbbreviation": [
+            "Paediatr Drugs"
+          ],
+          "medlineAbbreviation": [
+            "Paediatr Drugs"
+          ],
+          "NLMid": [
+            "100883685"
+          ],
+          "ISSN": [
+            "1174-5878"
+          ],
+          "ESSN": [
+            "1179-2019"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "235-247"
+  ],
+  "abstractText": [
+    "Recurrent abdominal pain (RAP) is one of the most common health complaints in both children and adults. Although RAP is considered a functional disorder rather than an organic disease, affected children and their families can still experience anxiety and concerns that can interfere with school, sports, and regular daily activities and lead to frequent attendances at pediatric emergency departments or pediatric gastroenterology clinics. Our review shows experts do not agree on a universally proven management that will work on every child presenting with functional abdominal pain (FAP). Treatment strategies include both non-pharmacological and pharmacological options. Non-pharmacological treatments are usually very well accepted by both children and their parents and are free from medication side effects. Nevertheless, they may be as effective as the pharmacological interventions; therefore, according to many experts and based on the majority of current evidence, a non-pharmacological approach should be the first intervention attempt in children with RAP. In particular, the importance of the bio-psychosocial approach is highlighted, as a majority of children will improve with counselling and reassurance that no serious organic pathologies are suspected, especially when the physician establishes a trustful relationship with both the child and their family. Placebo and pharmacological interventions could be attempted when the bio-psychosocial approach is not applicable or not efficacious. In some difficult cases, finding an effective treatment for FAP can be a challenge, and a number of strategies may need to be tried before symptoms are controlled. In these cases, a multidisciplinary team, comprising a pediatric gastroenterologist, dietician, psychologist, and psychotherapist, is likely to be successful."
+  ],
+  "affiliation": [
+    "Pediatric Clinic, Department of Surgical and Biomedical Sciences, Università degli Studi di Perugia, Piazza Menghini 1, 06129, Perugia, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Recurrence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Abdominal Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s40272-018-0287-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5954057"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5954057?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-06-05"
+  ],
+  "dateOfCreation": [
+    "2018-03-03"
+  ],
+  "firstIndexDate": [
+    "2018-03-03"
+  ],
+  "fullTextReceivedDate": [
+    "2018-05-21"
+  ],
+  "dateOfRevision": [
+    "2018-06-05"
+  ],
+  "firstPublicationDate": [
+    "2018-06-01"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": [
+    "PMC5915892"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5915892"
+  ],
+  "title": [
+    "Poster Presentation Abstracts."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2681780"
+      ],
+      "dateOfPublication": [
+        "2018 Apr-Jun"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian journal of palliative care"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Palliat Care"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Palliat Care"
+          ],
+          "NLMid": [
+            "101261221"
+          ],
+          "ISSN": [
+            "0973-1075"
+          ],
+          "ESSN": [
+            "1998-3735"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "228-282"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5915892/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5915892"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-11"
+  ],
+  "firstIndexDate": [
+    "2018-05-11"
+  ],
+  "fullTextReceivedDate": [
+    "2018-05-11"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "firstPublicationDate": [
+    "2018-04-01"
+  ]
+}

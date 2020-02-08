@@ -1,0 +1,321 @@
+{
+  "id": [
+    "30319425"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30319425"
+  ],
+  "pmcid": [
+    "PMC6167431"
+  ],
+  "doi": [
+    "10.3389/fphar.2018.01095"
+  ],
+  "title": [
+    "Age-Dependent Anti-migraine Effects of Valproic Acid and Topiramate in Rats."
+  ],
+  "authorString": [
+    "Huang P, Kuo PH, Lee MT, Chiou LC, Fan PC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Huang P"
+          ],
+          "firstName": [
+            "Pokai"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, E-da Dachang Hospital, Kaohsiung, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuo PH"
+          ],
+          "firstName": [
+            "Ping-Hung"
+          ],
+          "lastName": [
+            "Kuo"
+          ],
+          "initials": [
+            "PH"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, National Taiwan University Hospital, College of Medicine, National Taiwan University, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee MT"
+          ],
+          "firstName": [
+            "Ming Tatt"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "affiliation": [
+            "Graduate Institute of Brain and Mind Sciences, College of Medicine, National Taiwan University, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chiou LC"
+          ],
+          "firstName": [
+            "Lih-Chu"
+          ],
+          "lastName": [
+            "Chiou"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "affiliation": [
+            "Graduate Institute of Brain and Mind Sciences, College of Medicine, National Taiwan University, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan PC"
+          ],
+          "firstName": [
+            "Pi-Chuan"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "PC"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, National Taiwan University Hospital, College of Medicine, National Taiwan University, Taipei, Taiwan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2645047"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1095"
+  ],
+  "abstractText": [
+    "Background: Valproic acid (VPA) and topiramate (TPM), initially developed as antiepileptics, are approved for migraine prophylaxis in adults but not children. The differences in their antimigraine mechanism(s) by age remain unclear. Methods: A migraine model induced by intra-cisternal (i.c.) capsaicin instillation in pediatric (4-5 weeks) and adult (8-9 weeks) rats was pretreated with VPA (30, 100 mg/kg) or TPM (10, 30, 100 mg/kg). Noxious meningeal stimulation by the irritant capsaicin triggered trigeminovascular system (TGVS) activation mimicking migraine condition, which were assessed peripherally by the depletion of calcitonin gene-related peptide (CGRP) in sensory nerve fibers of the dura mater, the increased CGRP immunoreactivity at trigeminal ganglia (TG) and centrally by the number of c-Fos-immunoreactive (c-Fos-ir) neurons in the trigeminocervical complex (TCC). Peripherally, CGRP released from dural sensory nerve terminals of TG triggered pain signal transmission in the primary afferent of trigeminal nerve, which in turn caused central sensitization of the TGVS due to TCC activation and hence contributed to migraine. Results: In the VPA-treated group, the central responsiveness expressed by reducing the number of c-Fos-ir neurons, which had been increased by i.c. capsaicin, was significant in pediatric, but not adult, rats. Inversely, VPA was effective in peripheral inhibition of elevated CGRP immunoreactivity in the TG and CGRP depletion in the dura mater of adult, but not pediatric, rats. In TPM group, the central responsiveness was significant in both adult and pediatric groups. Peripherally, TPM significantly inhibited capsaicin-induced CGRP expression of TG in adult, but not pediatric, rats. Interestingly, the capsaicin-induced depletion of CGRP in dura was significantly rescued by TPM at high doses in adults, but at low dose in pediatric group. Conclusion: These results suggest VPA exerted peripheral inhibition in adult, but central suppression in pediatric migraine-rats. In contrast, TPM involves both central and peripheral inhibition of migraine with an optimal therapeutic window in both ages. These findings may clarify the age-dependent anti-migraine mechanism of VPA and TPM, which may guide the development of new pediatric anti-migraine drugs in the future."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, E-da Dachang Hospital, Kaohsiung, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "CGRP",
+        "Migraine",
+        "Valproic acid",
+        "Age difference",
+        "Topiramate"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2018.01095"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6167431"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6167431?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-16"
+  ],
+  "firstIndexDate": [
+    "2018-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-17"
+  ],
+  "dateOfRevision": [
+    "2018-10-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-25"
+  ],
+  "firstPublicationDate": [
+    "2018-09-25"
+  ]
+}

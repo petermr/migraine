@@ -1,0 +1,305 @@
+{
+  "id": [
+    "31814792"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31814792"
+  ],
+  "pmcid": [
+    "PMC6858833"
+  ],
+  "doi": [
+    "10.2147/PHMT.S220817"
+  ],
+  "title": [
+    "Review Of The Safety, Efficacy And Tolerability Of Fingolimod In The Treatment Of Pediatric Patients With Relapsing-Remitting Forms Of Multiple Sclerosis (RRMS)."
+  ],
+  "authorString": [
+    "Feng J, Rensel M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Feng J"
+          ],
+          "firstName": [
+            "Jenny"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3700-7823",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Mellen Center for Multiple Sclerosis Treatment and Research, Cleveland Clinic, Cleveland, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rensel M"
+          ],
+          "firstName": [
+            "Mary"
+          ],
+          "lastName": [
+            "Rensel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9613-8394",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Mellen Center for Multiple Sclerosis Treatment and Research, Cleveland Clinic, Cleveland, OH, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3700-7823",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9613-8394",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2762085"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pediatric health, medicine and therapeutics"
+          ],
+          "ISOAbbreviation": [
+            "Pediatric Health Med Ther"
+          ],
+          "medlineAbbreviation": [
+            "Pediatric Health Med Ther"
+          ],
+          "NLMid": [
+            "101655856"
+          ],
+          "ISSN": [
+            "1179-9927"
+          ],
+          "ESSN": [
+            "1179-9927"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "141-146"
+  ],
+  "abstractText": [
+    "Pediatric-onset multiple sclerosis (POMS) is an immune-mediated, demyelinating, neurodegenerative disease that accounts for 3-5% of all multiple sclerosis (MS) cases. Although evidence suggests that it has similar risk factors and disease pathophysiology as adult-onset MS (AOMS), there are distinctive features in disease characteristics and patient demographics of POMS that require unique therapeutic development and treatment considerations. Gilenya® (Novartis International AG, Basel, Switzerland) (fingolimod) is a sphingosine-1-phosphate (S1P) receptor modulator that prevents lymphocytic outflow from peripheral lymph nodes. It has demonstrated efficacy in AOMS. In POMS, there have been three observational studies and one pivotal clinical trial evaluating the efficacy, safety, and tolerability of fingolimod. Currently, fingolimod is the only Food and Drug Administration and European Medicines Agency approved disease-modifying therapy to treat POMS. This review will critically evaluate the available evidence of fingolimod in the treatment of POMS in detail, as well as discussing its treatment implications."
+  ],
+  "affiliation": [
+    "Mellen Center for Multiple Sclerosis Treatment and Research, Cleveland Clinic, Cleveland, OH, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Demyelinating disease",
+        "Neuroimmunology",
+        "Disease-modifying Therapy",
+        "S1p Receptor Modulator",
+        "Pediatric Onset Multiple Sclerosis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/PHMT.S220817"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6858833"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6858833?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-10"
+  ],
+  "firstIndexDate": [
+    "2019-12-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-09"
+  ],
+  "dateOfRevision": [
+    "2019-12-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-12"
+  ],
+  "firstPublicationDate": [
+    "2019-11-12"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6480981/results/search/disease/results.xml">
+  <result pre="cavernous sinus thrombus, inflammatory processes (sarcoidosis, IgG4 [immunoglobulin G4] disease)," exact="autoimmune disease" post="(lupus, granulomatosis with polyangiitis), neoplasm (schwannoma, lymphoma, and metastatic"/>
+  <result pre="IgG4 [immunoglobulin G4] disease), autoimmune disease (lupus, granulomatosis with polyangiitis)," exact="neoplasm" post="(schwannoma, lymphoma, and metastatic disease), paraneoplastic syndrome, infectious (cryptococcal,"/>
+  <result pre="lymphoma, and metastatic disease), paraneoplastic syndrome, infectious (cryptococcal, mycoplasma, and" exact="herpes simplex" post="virus), and idiopathic etiology. Figure 1. MRI of the"/>
+  <result pre="angiogram and magnetic resonance venography were normal and ruled out" exact="cavernous sinus thrombosis." post="Anti-nuclear antibody, IgG subclasses, anti-neutrophil cytoplasmic antibody, anti-double stranded"/>
+  <result pre="Cerebral spinal fluid (CSF) studies showed normal cell count, normal" exact="meningitis" post="polymerase chain reaction panel, no growth on culture, normal"/>
+  <result pre="note, computed tomography of the chest is more sensitive for" exact="sarcoidosis" post="compared to chest X-ray. Although chest X-ray was completed,"/>
+  <result pre="4% to 5% of the cases. 4 Diplopia results from" exact="mononeuropathy" post="or polyneuropathy. The third cranial nerve is most commonly"/>
+  <result pre="If the orbital apex is involved, patients may develop an" exact="optic neuropathy." post="5 Diagnosis The clinical diagnostic criteria for THS per"/>
+  <result pre="with magnetic resonance venography of the brain is to exclude" exact="cavernous sinus thrombosis" post="as well as intraorbital or intraparenchymal tumor. 2 Biopsy"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,580 @@
+{
+  "id": [
+    "27490947"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27490947"
+  ],
+  "pmcid": [
+    "PMC4973977"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0160543"
+  ],
+  "title": [
+    "Mirror-Touch Synaesthesia Is Not Associated with Heightened Empathy, and Can Occur with Autism."
+  ],
+  "authorString": [
+    "Baron-Cohen S, Robson E, Lai MC, Allison C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baron-Cohen S"
+          ],
+          "firstName": [
+            "Simon"
+          ],
+          "lastName": [
+            "Baron-Cohen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Autism Research Centre, Department of Psychiatry, University of Cambridge, Cambridge, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Robson E"
+          ],
+          "firstName": [
+            "Emma"
+          ],
+          "lastName": [
+            "Robson"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Autism Research Centre, Department of Psychiatry, University of Cambridge, Cambridge, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Lai MC"
+          ],
+          "firstName": [
+            "Meng-Chuan"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9593-5508",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Autism Research Centre, Department of Psychiatry, University of Cambridge, Cambridge, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Allison C"
+          ],
+          "firstName": [
+            "Carrie"
+          ],
+          "lastName": [
+            "Allison"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Autism Research Centre, Department of Psychiatry, University of Cambridge, Cambridge, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9593-5508",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2435494"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e0160543"
+  ],
+  "abstractText": [
+    "Research has linked Mirror-Touch (MT) synaesthesia with enhanced empathy. We test the largest sample of MT synaesthetes to date to examine two claims that have been previously made: that MT synaesthetes (1) have superior empathy; and (2) only ever experience their MT synaesthesia in response to viewing a person being touched. Given that autism has been suggested to involve deficits in cognitive empathy, we also test two predictions: that MT synaesthetes should (3) be less likely than general population individuals without MT synaesthesia to have an autism spectrum condition (ASC), if MT is characterized by superior empathy; and (4) have fewer autistic traits. We selected three groups: a pure MT synaesthesia group (N = 46), a pure grapheme-colour (GC) synaesthesia group (N = 36), and a typical control group without synaesthesia (N = 46). Participants took three measures of empathy and one measure of autistic traits. MT synaesthetes did not show enhanced empathy. In addition, 30% of all MT synaesthetes recruited into this study (N = 135) reported also having ASC, and MT synaesthetes showed higher autistic trait scores than controls. Finally, some MT experiences were reported in response to viewing objects being touched. Our findings dispute the views that MT synaesthesia is linked with enhanced empathy, is less likely to occur with ASC or elevated autistic traits, and is specific to seeing a person being touched."
+  ],
+  "affiliation": [
+    "Autism Research Centre, Department of Psychiatry, University of Cambridge, Cambridge, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G0600977"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Perceptual Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Case-Control Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Photic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Emotions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Empathy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reaction Time"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Autistic Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Internet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Self Report"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Social Skills"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0160543"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4973977"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4973977?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-08-23"
+  ],
+  "dateOfCreation": [
+    "2016-08-05"
+  ],
+  "firstIndexDate": [
+    "2016-08-08"
+  ],
+  "fullTextReceivedDate": [
+    "2016-08-20"
+  ],
+  "dateOfRevision": [
+    "2019-02-13"
+  ],
+  "electronicPublicationDate": [
+    "2016-08-04"
+  ],
+  "firstPublicationDate": [
+    "2016-08-04"
+  ]
+}

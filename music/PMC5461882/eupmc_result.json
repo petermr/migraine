@@ -1,0 +1,582 @@
+{
+  "id": [
+    "28436583"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28436583"
+  ],
+  "pmcid": [
+    "PMC5461882"
+  ],
+  "doi": [
+    "10.1002/14651858.CD011279.pub3"
+  ],
+  "title": [
+    "Physical activity and exercise for chronic pain in adults: an overview of Cochrane Reviews."
+  ],
+  "authorString": [
+    "Geneen LJ, Moore RA, Clarke C, Martin D, Colvin LA, Smith BH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Geneen LJ"
+          ],
+          "firstName": [
+            "Louise J"
+          ],
+          "lastName": [
+            "Geneen"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "affiliation": [
+            "Division of Population Health Sciences, University of Dundee, Dundee, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Moore RA"
+          ],
+          "firstName": [
+            "R Andrew"
+          ],
+          "lastName": [
+            "Moore"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Pain Research and Nuffield Department of Clinical Neurosciences (Nuffield Division of Anaesthetics), University of Oxford, Pain Research Unit, Churchill Hospital, Oxford, Oxfordshire, UK, OX3 7LE."
+          ]
+        },
+        {
+          "fullName": [
+            "Clarke C"
+          ],
+          "firstName": [
+            "Clare"
+          ],
+          "lastName": [
+            "Clarke"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Division of Population Health Sciences, University of Dundee, Ninewells Hospital & Medical School, Kirsty Semple Way, Dundee, UK, DD2 4DB."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin D"
+          ],
+          "firstName": [
+            "Denis"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Health and Social Care, Teesside University, Parkside, Middlesbrough, UK, TS1 3BA."
+          ]
+        },
+        {
+          "fullName": [
+            "Colvin LA"
+          ],
+          "firstName": [
+            "Lesley A"
+          ],
+          "lastName": [
+            "Colvin"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1563-8600",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Anaesthesia & Pain Medicine, University of Edinburgh, Western General Hospital, Edinburgh, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith BH"
+          ],
+          "firstName": [
+            "Blair H"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "BH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5362-9430",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Population Health Sciences, University of Dundee, Dundee, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5362-9430",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1563-8600",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2542564"
+      ],
+      "dateOfPublication": [
+        "2017 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Cochrane database of systematic reviews"
+          ],
+          "ISOAbbreviation": [
+            "Cochrane Database Syst Rev"
+          ],
+          "medlineAbbreviation": [
+            "Cochrane Database Syst Rev"
+          ],
+          "NLMid": [
+            "100909747"
+          ],
+          "ISSN": [
+            "1469-493X"
+          ],
+          "ESSN": [
+            "1469-493X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "CD011279"
+  ],
+  "abstractText": [
+    "BACKGROUND:Chronic pain is defined as pain lasting beyond normal tissue healing time, generally taken to be 12 weeks. It contributes to disability, anxiety, depression, sleep disturbances, poor quality of life, and healthcare costs. Chronic pain has a weighted mean prevalence in adults of 20%.For many years, the treatment choice for chronic pain included recommendations for rest and inactivity. However, exercise may have specific benefits in reducing the severity of chronic pain, as well as more general benefits associated with improved overall physical and mental health, and physical functioning.Physical activity and exercise programmes are increasingly being promoted and offered in various healthcare systems, and for a variety of chronic pain conditions. It is therefore important at this stage to establish the efficacy and safety of these programmes, and furthermore to address the critical factors that determine their success or failure. OBJECTIVES:To provide an overview of Cochrane Reviews of adults with chronic pain to determine (1) the effectiveness of different physical activity and exercise interventions in reducing pain severity and its impact on function, quality of life, and healthcare use; and (2) the evidence for any adverse effects or harm associated with physical activity and exercise interventions. METHODS:We searched theCochrane Database of Systematic Reviews (CDSR) on the Cochrane Library (CDSR 2016, Issue 1) for systematic reviews of randomised controlled trials (RCTs), after which we tracked any included reviews for updates, and tracked protocols in case of full review publication until an arbitrary cut-off date of 21 March 2016 (CDSR 2016, Issue 3). We assessed the methodological quality of the reviews using the AMSTAR tool, and also planned to analyse data for each painful condition based on quality of the evidence.We extracted data for (1) self-reported pain severity, (2) physical function (objectively or subjectively measured), (3) psychological function, (4) quality of life, (5) adherence to the prescribed intervention, (6) healthcare use/attendance, (7) adverse events, and (8) death.Due to the limited data available, we were unable to directly compare and analyse interventions, and have instead reported the evidence qualitatively. MAIN RESULTS:We included 21 reviews with 381 included studies and 37,143 participants. Of these, 264 studies (19,642 participants) examined exercise versus no exercise/minimal intervention in adults with chronic pain and were used in the qualitative analysis.Pain conditions included rheumatoid arthritis, osteoarthritis, fibromyalgia, low back pain, intermittent claudication, dysmenorrhoea, mechanical neck disorder, spinal cord injury, postpolio syndrome, and patellofemoral pain. None of the reviews assessed 'chronic pain' or 'chronic widespread pain' as a general term or specific condition. Interventions included aerobic, strength, flexibility, range of motion, and core or balance training programmes, as well as yoga, Pilates, and tai chi.Reviews were well performed and reported (based on AMSTAR), and included studies had acceptable risk of bias (with inadequate reporting of attrition and reporting biases). However the quality of evidence was low due to participant numbers (most included studies had fewer than 50 participants in total), length of intervention and follow-up (rarely assessed beyond three to six months). We pooled the results from relevant reviews where appropriate, though results should be interpreted with caution due to the low quality evidence. Pain severity: several reviews noted favourable results from exercise: only three reviews that reported pain severity found no statistically significant changes in usual or mean pain from any intervention. However, results were inconsistent across interventions and follow-up, as exercise did not consistently bring about a change (positive or negative) in self-reported pain scores at any single point. Physical function: was the most commonly reported outcome measure. Physical function was significantly improved as a result of the intervention in 14 reviews, though even these statistically significant results had only small-to-moderate effect sizes (only one review reported large effect sizes). Psychological function and quality of life: had variable results: results were either favourable to exercise (generally small and moderate effect size, with two reviews reporting significant, large effect sizes for quality of life), or showed no difference between groups. There were no negative effects. Adherence to the prescribed intervention: could not be assessed in any review. However, risk of withdrawal/dropout was slightly higher in the exercising group (82.8/1000 participants versus 81/1000 participants), though the group difference was non-significant. Healthcare use/attendance: was not reported in any review. Adverse events, potential harm, and death: only 25% of included studies (across 18 reviews) actively reported adverse events. Based on the available evidence, most adverse events were increased soreness or muscle pain, which reportedly subsided after a few weeks of the intervention. Only one review reported death separately to other adverse events: the intervention was protective against death (based on the available evidence), though did not reach statistical significance. AUTHORS' CONCLUSIONS:The quality of the evidence examining physical activity and exercise for chronic pain is low. This is largely due to small sample sizes and potentially underpowered studies. A number of studies had adequately long interventions, but planned follow-up was limited to less than one year in all but six reviews.There were some favourable effects in reduction in pain severity and improved physical function, though these were mostly of small-to-moderate effect, and were not consistent across the reviews. There were variable effects for psychological function and quality of life.The available evidence suggests physical activity and exercise is an intervention with few adverse events that may improve pain severity and physical function, and consequent quality of life. However, further research is required and should focus on increasing participant numbers, including participants with a broader spectrum of pain severity, and lengthening both the intervention itself, and the follow-up period."
+  ],
+  "affiliation": [
+    "Division of Population Health Sciences, University of Dundee, Dundee, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "research-article",
+        "Systematic Review",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Measurement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Compliance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Services Needs and Demand"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Review Literature as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MO"
+                  ],
+                  "qualifierName": [
+                    "mortality"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myalgia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/14651858.CD011279.pub3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5461882"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5461882?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "28087891"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Cochrane Database Syst Rev. 2017 Jan 14;1:CD011279"
+          ],
+          "type": [
+            "Update of"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "52"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-08-01"
+  ],
+  "dateOfCreation": [
+    "2017-04-25"
+  ],
+  "firstIndexDate": [
+    "2017-04-24"
+  ],
+  "fullTextReceivedDate": [
+    "2017-06-15"
+  ],
+  "dateOfRevision": [
+    "2019-09-05"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-24"
+  ],
+  "firstPublicationDate": [
+    "2017-04-24"
+  ]
+}

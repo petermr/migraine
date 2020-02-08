@@ -1,0 +1,204 @@
+{
+  "id": [
+    "PMC5105480"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5105480"
+  ],
+  "title": [
+    "Practical Child Psychotherapy."
+  ],
+  "authorString": [
+    "Uffenheimer A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Uffenheimer A"
+          ],
+          "firstName": [
+            "Albert"
+          ],
+          "lastName": [
+            "Uffenheimer"
+          ],
+          "initials": [
+            "A"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2569227"
+      ],
+      "dateOfPublication": [
+        "1939 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "1939"
+      ],
+      "printPublicationDate": [
+        "1939-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Mental welfare"
+          ],
+          "ISOAbbreviation": [
+            "Ment Welf"
+          ],
+          "medlineAbbreviation": [
+            "Ment Welf"
+          ],
+          "NLMid": [
+            "18640690R"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1939"
+  ],
+  "pageInfo": [
+    "84-85"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "book-review",
+        "Book Review"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5105480/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5105480"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-06-18"
+  ],
+  "firstIndexDate": [
+    "2017-06-19"
+  ],
+  "fullTextReceivedDate": [
+    "2017-03-18"
+  ],
+  "dateOfRevision": [
+    "2019-10-01"
+  ],
+  "firstPublicationDate": [
+    "1939-07-01"
+  ]
+}

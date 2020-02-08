@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="migraine/PMC6957294/results/search/country/results.xml">
+  <result pre="2 [1], Division of Neurology, Saitama Children's Medical Center, Saitama," exact="Japan" post="[2], Department of Pediatrics, The Jikei University School of"/>
+  <result pre="Department of Pediatrics, The Jikei University School of Medicine, Tokyo," exact="Japan" post="[3], Department for Child Health and Human Development, Saitama"/>
+  <result pre="Child Health and Human Development, Saitama Children's Medical Center, Saitama," exact="Japan" post="Aktas Orhan Editor [], Heinrich-Heine-Universitat Dusseldorf, GERMANY Competing Interests:"/>
+  <result pre="Immunoglobulin preparations. Venoglobulin IH 5% Kenketsu Glovenin-I Kenketsu Venilon-I Manufacturer" exact="Japan" post="Blood Products Organization Nihon Pharmaceutical Co., Ltd. Teijin Pharma"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,286 @@
+{
+  "id": [
+    "28573246"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28573246"
+  ],
+  "pmcid": [
+    "PMC5446455"
+  ],
+  "doi": [
+    "10.21010/ajtcam.v14i2.31"
+  ],
+  "title": [
+    "THE EFFECT OF BODY AWARENESS THERAPY AND AEROBIC EXERCISES ON PAIN AND QUALITY OF LIFE IN THE PATIENTS WITH TENSION TYPE HEADACHE."
+  ],
+  "authorString": [
+    "Sertel M, Bakar Y, Şimşek TT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sertel M"
+          ],
+          "firstName": [
+            "Meral"
+          ],
+          "lastName": [
+            "Sertel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Kırıkkale University, Faculty of Health Sciences, Departmant of Physical Therapy and Rehabilitation, Kırıkkale, 71451, Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Bakar Y"
+          ],
+          "firstName": [
+            "Yeşim"
+          ],
+          "lastName": [
+            "Bakar"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Abant İzzet Baysal University, School of Physical Therapy and Rehabilitation, Bolu, 14100, Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Şimşek TT"
+          ],
+          "firstName": [
+            "Tülay Tarsuslu"
+          ],
+          "lastName": [
+            "Şimşek"
+          ],
+          "initials": [
+            "TT"
+          ],
+          "affiliation": [
+            "Dokuz Eylül University, School of Physical Therapy and Rehabilitation, İzmir, 35100, Turkey."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2562852"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "African journal of traditional, complementary, and alternative medicines : AJTCAM"
+          ],
+          "ISOAbbreviation": [
+            "Afr J Tradit Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "Afr J Tradit Complement Altern Med"
+          ],
+          "NLMid": [
+            "101232990"
+          ],
+          "ISSN": [
+            "0189-6016"
+          ],
+          "ESSN": [
+            "2505-0044"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "288-310"
+  ],
+  "abstractText": [
+    "This study is to investigate the effect of Body Awareness Therapy (BAT) and Aerobic Exercises on pain and quality of life in patients with Tension-Type Headache (TTH).Sixty individuals with TTH diagnosis who referred Neurologist were incorporated into study. The individuals were randomly grouped into 3 as BAT (n=20), aerobic exercise (n=20) and control group (n=20). Pain severity of the individuals was evaluated by Visual Analog Scale (VAS) and pain diary, disability with ache; by Pain Disability Index (PDI) and Headache Impact Tests (HIT) and quality of life was evaluated by SF-36. Subsequent to first assessments, 3 sessions of 60 minutes per week throughout 6 weeks totally.When the groups were compared at the end of the study, a significant decrease was observed in VAS, PDI and HIT values in the individuals in the BAT and aerobic exercise groups. With the individuals in group BAT and aerobic exercise all parameters of quality of life were observed to be increased significantly.BAT and aerobic exercise programs to be applied on TTH patients were concluded to be important in decreasing the pain, in increasing the quality of life and in reducing pain-related daily constraints of the individuals."
+  ],
+  "affiliation": [
+    "Kırıkkale University, Faculty of Health Sciences, Departmant of Physical Therapy and Rehabilitation, Kırıkkale, 71451, Turkey."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aerobic exercise",
+        "Quality of life",
+        "Tension-type Headache",
+        "Body Awareness Therapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.21010/ajtcam.v14i2.31"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5446455"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5446455?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-06-02"
+  ],
+  "firstIndexDate": [
+    "2017-06-03"
+  ],
+  "fullTextReceivedDate": [
+    "2017-06-10"
+  ],
+  "dateOfRevision": [
+    "2017-06-08"
+  ],
+  "electronicPublicationDate": [
+    "2017-01-13"
+  ],
+  "firstPublicationDate": [
+    "2017-01-13"
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "id": [
+    "31571742"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31571742"
+  ],
+  "pmcid": [
+    "PMC6755928"
+  ],
+  "doi": [
+    "10.4103/ijn.IJN_319_18"
+  ],
+  "title": [
+    "Medical Comorbidity of Nocturnal Enuresis in Children."
+  ],
+  "authorString": [
+    "Ferrara P, Autuori R, Dosa F, Di Lucia A, Gatto A, Chiaretti A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ferrara P"
+          ],
+          "firstName": [
+            "Pietro"
+          ],
+          "lastName": [
+            "Ferrara"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Institute of Pediatrics, Catholic University Medical School, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Autuori R"
+          ],
+          "firstName": [
+            "Roberta"
+          ],
+          "lastName": [
+            "Autuori"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Service of Pediatrics, Campus Bio-Medico University, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Dosa F"
+          ],
+          "firstName": [
+            "Flavia"
+          ],
+          "lastName": [
+            "Dosa"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Service of Pediatrics, Campus Bio-Medico University, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Di Lucia A"
+          ],
+          "firstName": [
+            "Alessandro"
+          ],
+          "lastName": [
+            "Di Lucia"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Service of Pediatrics, Campus Bio-Medico University, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Gatto A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Gatto"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Pediatrics, Catholic University Medical School, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Chiaretti A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Chiaretti"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Pediatrics, Catholic University Medical School, Rome, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "29"
+      ],
+      "journalIssueId": [
+        "2865400"
+      ],
+      "dateOfPublication": [
+        "2019 Sep-Oct"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian journal of nephrology"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Nephrol"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Nephrol"
+          ],
+          "NLMid": [
+            "8914356"
+          ],
+          "ISSN": [
+            "0971-4065"
+          ],
+          "ESSN": [
+            "1998-3662"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "345-352"
+  ],
+  "abstractText": [
+    "Introduction:The purpose of this study was to evaluate the characteristics of patients with nocturnal enuresis (NE). Methods:We enrolled 403 children with NE referred to the Services of Pediatrics, Campus Bio-Medico University Hospital of Rome between June 2013 and July 2018. We excluded 2 children, respectively, with renal agenesis and chromosomopathy. Results:Of the 401 patients, 101 girls (25.2%) and 300 boys (74.8%), aged 5-16 years; mean age at first visit 8.8 ± 2.44 years. During the physical examination, we asked the patients and their parents specific questions to identify signs and symptoms of voiding disorders and comorbid conditions. In addition, we evaluated family history and behavioral characteristics of patients. In this study, NE was heredity in the 31.2% of cases. We found urogenital abnormalities in 15.7% of cases, constipation in 14.5% of cases, innocence heart murmur in 21.4% of cases and parasomnias in a good percentage of cases, especially snoring (13.7%), restless sleep (5.7%), somniloquy (23.7%) and bruxism (14.7%). Conclusions:Our experience demonstrates that there are a lot of comorbidities that are associated with NE and can influence the prognosis and the response to the therapy in these children."
+  ],
+  "affiliation": [
+    "Institute of Pediatrics, Catholic University Medical School, Rome, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Comorbidities",
+        "Nocturnal Enuresis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/ijn.IJN_319_18"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6755928"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-02"
+  ],
+  "firstIndexDate": [
+    "2019-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "firstPublicationDate": [
+    "2019-09-01"
+  ]
+}

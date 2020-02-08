@@ -1,0 +1,288 @@
+{
+  "id": [
+    "23304675"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23304675"
+  ],
+  "pmcid": [
+    "PMC3521885"
+  ],
+  "title": [
+    "The effects of sleep and touch therapy on symptoms of fibromyalgia and depression."
+  ],
+  "authorString": [
+    "Demirbağ B, Erci B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Demirbağ B"
+          ],
+          "firstName": [
+            "Bc"
+          ],
+          "lastName": [
+            "Demirbağ"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Dept. of Public Health, Faculty of Health Sciences, Karadeniz Technical University, Trabzon, Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Erci B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Erci"
+          ],
+          "initials": [
+            "B"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "41"
+      ],
+      "journalIssueId": [
+        "1999421"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Iranian journal of public health"
+          ],
+          "ISOAbbreviation": [
+            "Iran. J. Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Iran J Public Health"
+          ],
+          "NLMid": [
+            "7505531"
+          ],
+          "ISSN": [
+            "2251-6085"
+          ],
+          "ESSN": [
+            "2251-6093"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "44-53"
+  ],
+  "abstractText": [
+    "Many alternative interventions are practiced in an effort to reduce symptoms of fibromiyalgia. The aim of this study was to determine the effects of sleep and touch therapy accompanied by music and aromatherapy on the symptoms of fibromyalgia and depression.The study was carried out between September 2009 and March 2011 in the Physical Medicine and Rehabilitation Polyclinic in Trabzon, Turkey. The sample consisted of 162 female patients and had been diagnosed with fibromyalgia at least 6 months prior to the study. Since the sample contains two intervention groups and one control group, each group was assigned 54 patients. Data were collected through a Personal Information Form, a Fibromyalgia Symptom Form and the Beck Depression Index. The study employed a pre-test/post-test control group design. A paired sample t-test was used in the comparisons of the in-group scale points; the chi-square in the intergroup comparisons, and the McNamer test in the in-group comparisons.After the interventions, it was observed that the depression levels in the touch-music-aroma therapy group showed a larger decrease (before: 22.01±5.3; after: 14.52±3.7) than in the sleep-music-aroma therapy group (before: 24.81±5.1; after: 20.16±4.9) and control groups (before: 23.73±4.4; after: 21.05±2.6). Symptoms such as restless sleep, headache, morning fatigue, exhaustion, feeling like crying and bowel complaints were also significantly reduced (P<0.05).It is suggested that nurses providing healthcare to FMS patients should also offer these patients aromatherapy, sleep, music and touch therapies."
+  ],
+  "affiliation": [
+    "Dept. of Public Health, Faculty of Health Sciences, Karadeniz Technical University, Trabzon, Turkey."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aroma",
+        "music",
+        "Symptoms",
+        "Turkey",
+        "Touch",
+        "Fibromyalgia"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23304675/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23304675/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3521885"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3521885?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-01-11"
+  ],
+  "dateOfCreation": [
+    "2013-01-10"
+  ],
+  "firstIndexDate": [
+    "2013-01-11"
+  ],
+  "fullTextReceivedDate": [
+    "2013-01-13"
+  ],
+  "dateOfRevision": [
+    "2016-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2012-11-01"
+  ],
+  "firstPublicationDate": [
+    "2012-11-01"
+  ]
+}

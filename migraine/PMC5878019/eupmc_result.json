@@ -1,0 +1,340 @@
+{
+  "id": [
+    "29629048"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29629048"
+  ],
+  "pmcid": [
+    "PMC5878019"
+  ],
+  "doi": [
+    "10.19082/6279"
+  ],
+  "title": [
+    "Prophylactic effect of riboflavin on pediatric migraine: a randomized, double-blind, placebo-controlled trial."
+  ],
+  "authorString": [
+    "Talebian A, Soltani B, Banafshe HR, Moosavi GA, Talebian M, Soltani S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Talebian A"
+          ],
+          "firstName": [
+            "Ahmad"
+          ],
+          "lastName": [
+            "Talebian"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "M.D., Pediatric Neurologist, Professor, Department of Pediatrics, Faculty of Medicine, Kashan University of Medical Sciences, Kashan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Soltani B"
+          ],
+          "firstName": [
+            "Babak"
+          ],
+          "lastName": [
+            "Soltani"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Infectious Diseases Research Center, Kashan University of Medical Sciences, Kashan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Banafshe HR"
+          ],
+          "firstName": [
+            "Hamid Reza"
+          ],
+          "lastName": [
+            "Banafshe"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "affiliation": [
+            "Ph.D. of Pharmacology, Associate Professor, Department of Pharmacology, Faculty of Medicine, Kashan University of Medical Sciences, Kashan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Moosavi GA"
+          ],
+          "firstName": [
+            "Gholam Abbas"
+          ],
+          "lastName": [
+            "Moosavi"
+          ],
+          "initials": [
+            "GA"
+          ],
+          "affiliation": [
+            "M.Sc. of biostatistics, Lecturer, Department of Public Health, Faculty of Health, Kashan University of Medical Sciences, Kashan, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Talebian M"
+          ],
+          "firstName": [
+            "Motahhareh"
+          ],
+          "lastName": [
+            "Talebian"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "M.D., Student Research Committee, Tehran University of Medical Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Soltani S"
+          ],
+          "firstName": [
+            "Siamak"
+          ],
+          "lastName": [
+            "Soltani"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "M.D., Forensic Medicine Specialist, Assistant Professor, Department of Forensic Medicine, Faculty of Medicine, Iran University of Medical Sciences, Tehran, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2670563"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Electronic physician"
+          ],
+          "ISOAbbreviation": [
+            "Electron Physician"
+          ],
+          "medlineAbbreviation": [
+            "Electron Physician"
+          ],
+          "NLMid": [
+            "101645099"
+          ],
+          "ISSN": [
+            "2008-5842"
+          ],
+          "ESSN": [
+            "2008-5842"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "6279-6285"
+  ],
+  "abstractText": [
+    "Riboflavin may have an acceptable effect on migraine among children. This study was carried out to determine the prophylactic effect of riboflavin on migraine in children.This randomized clinical trial study was performed at Shahid Beheshti Hospital in Kashan, Iran from December 2012 to February 2015. Ninety children with migraine were allocated randomly into 3 groups (placebo, low-dose and high-dose riboflavin). The outcomes (frequency, intensity and duration of headaches) were measured at baseline and 12 weeks of medication in each group, and the decrease of them were compared. SPSS software version 16 was used for analysis of the data. Descriptive statistics, Chi-square, Fisher's exact and t-test were used for statistical analyses.There was a significant decrease of migraine frequency (p=0.000) and mean duration (p=0.000) in the high-dose group compared with the placebo group. No significant reduction of frequency and mean duration of attacks were reported in the low-dose group compared to the placebo group (p=0.49 and p=0.69 respectively). There was no significant reduction of migraine intensity in the low-dose and high-dose groups compared to the placebo group (p=0.71 and p=0.74 respectively).High-dose riboflavin is a safe, well tolerated, cost-effective method of prophylaxis for children with migraine.The trial was registered at the Iranian Clinical Trial Registry with number IRCT2013020412361N1.The study was supported by the Deputy of Research, Kashan University of Medical Sciences (grant number 91073)."
+  ],
+  "affiliation": [
+    "M.D., Pediatric Neurologist, Professor, Department of Pediatrics, Faculty of Medicine, Kashan University of Medical Sciences, Kashan, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Migraine",
+        "Prophylaxis",
+        "riboflavin"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.19082/6279"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5878019"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5878019?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-04-10"
+  ],
+  "firstIndexDate": [
+    "2018-04-10"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-24"
+  ],
+  "dateOfRevision": [
+    "2018-04-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-25"
+  ],
+  "firstPublicationDate": [
+    "2018-02-25"
+  ]
+}

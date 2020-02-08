@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="disease">
+ <result pre="serious medical condition, such as high fever, severe pain, or" exact="migraine" post="headaches. They should always ask their doctor before taking"/>
+ <result pre="more serious conditions, such as high fever, severe pain, or" exact="migraine" post="headaches. &quot;Pregnant women should always consult with a physician"/>
+</results>
